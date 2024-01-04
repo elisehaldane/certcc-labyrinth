@@ -24,6 +24,7 @@ VU#43,0.33333333,https://github.com/zxzxz1/Exploit_Version.1.2.0,zxzxz1/Exploit_
 VU#43,0.33333333,https://github.com/mtomassoli/expdev,mtomassoli/expdev,475703425
 VU#43,0.33333333,https://github.com/readloud/XSS-HTTP-Inject0r,readloud/XSS-HTTP-Inject0r,467438550
 VU#43,0.33333333,https://github.com/Tburm/liquidations-interface,Tburm/liquidations-interface,446629021
+VU#43,0.25000000,https://github.com/Pump-Bot-Official/Pump-Bot-Premium,Pump-Bot-Official/Pump-Bot-Premium,738214950
 VU#43,0.25000000,https://github.com/swahim/RCE-Frontend,swahim/RCE-Frontend,655649522
 VU#43,0.25000000,https://github.com/ankitrekha01/RCE,ankitrekha01/RCE,620797603
 VU#43,0.25000000,https://github.com/0kage-eth/solidity-hack-examples,0kage-eth/solidity-hack-examples,532219529
@@ -66,7 +67,6 @@ VU#43,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-rep
 VU#43,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#43,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#43,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
-VU#43,0.09090909,https://github.com/Pump-Bot-Official/Pump-Bot-Premium,Pump-Bot-Official/Pump-Bot-Premium,738214950
 VU#43,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#43,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#43,0.07692308,https://github.com/raju-kurapati/2DnavigationUsingCLIP,raju-kurapati/2DnavigationUsingCLIP,617725640
@@ -362,7 +362,7 @@ VU#43,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#43,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#43,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#43,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#43,0.00019146,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#43,0.00019142,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#43,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#43,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#43,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762

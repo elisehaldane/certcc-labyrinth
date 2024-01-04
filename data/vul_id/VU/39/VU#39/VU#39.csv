@@ -19,6 +19,7 @@ VU#39,0.33333333,https://github.com/Sunqiz/CVE-2010-3333-reproduction,Sunqiz/CVE
 VU#39,0.33333333,https://github.com/aweiiy/CVE-2021-43617,aweiiy/CVE-2021-43617,520832418
 VU#39,0.33333333,https://github.com/lluismir/Data-Analysis-of-Second-hand-cars-in-UK,lluismir/Data-Analysis-of-Second-hand-cars-in-UK,502991744
 VU#39,0.33333333,https://github.com/Marcel46509/Exploit-Files,Marcel46509/Exploit-Files,474407677
+VU#39,0.25000000,https://github.com/julienbrs/exploit-CVE-2023-6553,julienbrs/exploit-CVE-2023-6553,738996650
 VU#39,0.25000000,https://github.com/cop-discord/skidarchive,cop-discord/skidarchive,725996936
 VU#39,0.25000000,https://github.com/MarkTheRobloxGuy/ExSer,MarkTheRobloxGuy/ExSer,671963406
 VU#39,0.25000000,https://github.com/GoldenEagleMan/Exploitable-Smart-Contracts,GoldenEagleMan/Exploitable-Smart-Contracts,655666032
@@ -98,7 +99,6 @@ VU#39,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/writ
 VU#39,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#39,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
 VU#39,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#39,0.02777778,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#39,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
 VU#39,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#39,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
@@ -329,7 +329,7 @@ VU#39,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#39,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#39,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#39,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
-VU#39,0.00019146,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#39,0.00019142,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#39,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#39,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#39,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
