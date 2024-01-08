@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/DarkCloud5893/PS5-Exploit-Host,DarkCloud5893/PS5-Exploit-Host,740388950
 VU#29,1.00000000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
 VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
@@ -199,6 +200,7 @@ VU#29,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/da
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#29,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
+VU#29,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,740387503
 VU#29,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733902391
 VU#29,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733394340
 VU#29,0.04347826,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
@@ -248,6 +250,7 @@ VU#29,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,7158
 VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
+VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#29,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#29,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
