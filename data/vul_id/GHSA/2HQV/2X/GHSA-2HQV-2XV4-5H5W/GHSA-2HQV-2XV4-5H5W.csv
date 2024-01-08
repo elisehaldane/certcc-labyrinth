@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-2HQV-2XV4-5H5W,0.50000000,https://github.com/0x33c0unt/CVE-2024-21633,0x33c0unt/CVE-2024-21633,740220878
