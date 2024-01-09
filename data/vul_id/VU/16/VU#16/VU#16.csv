@@ -22,7 +22,6 @@ VU#16,0.50000000,https://github.com/tgreer812/ProcessInjection,tgreer812/Process
 VU#16,0.50000000,https://github.com/Zebratic/MikroWorm,Zebratic/MikroWorm,477885613
 VU#16,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,442869549
 VU#16,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
-VU#16,0.33333333,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#16,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#16,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
 VU#16,0.33333333,https://github.com/Doming00/FIB-ADEI-Deliverable,Doming00/FIB-ADEI-Deliverable,580116634
@@ -35,6 +34,7 @@ VU#16,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#16,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#16,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#16,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#16,0.25000000,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#16,0.25000000,https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207,nidhi7598/linux-4.19.72_net_CVE-2023-4207,722409780
 VU#16,0.25000000,https://github.com/sh3d0ww01f/shellcodeloader,sh3d0ww01f/shellcodeloader,532798607
 VU#16,0.25000000,https://github.com/Bw3ll/ShellWasp,Bw3ll/ShellWasp,516953882
@@ -77,8 +77,8 @@ VU#16,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,a
 VU#16,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#16,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#16,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
-VU#16,0.06250000,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#16,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
+VU#16,0.05882353,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#16,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#16,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#16,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
@@ -254,6 +254,8 @@ VU#16,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#16,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#16,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#16,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#16,0.00636943,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#16,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#16,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#16,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#16,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616

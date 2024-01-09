@@ -32,7 +32,6 @@ VU#32,0.50000000,https://github.com/minhnq22/CVE-2021-42171,minhnq22/CVE-2021-42
 VU#32,0.50000000,https://github.com/lilmond/Roblox-Exploit-Scripts,lilmond/Roblox-Exploit-Scripts,382204911
 VU#32,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#32,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
-VU#32,0.33333333,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#32,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#32,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Kali-s-Exploit-Roblox,665561196
 VU#32,0.33333333,https://github.com/M3tabox/exploits,M3tabox/exploits,593971476
@@ -51,6 +50,7 @@ VU#32,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#32,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#32,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#32,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#32,0.25000000,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#32,0.25000000,https://github.com/ntLocalSystem/Buffer-Overflow-Assembly,ntLocalSystem/Buffer-Overflow-Assembly,725119874
 VU#32,0.25000000,https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207,nidhi7598/linux-4.19.72_net_CVE-2023-4207,722409780
 VU#32,0.25000000,https://github.com/Umair8906/DarkSploit,Umair8906/DarkSploit,717682171
@@ -124,11 +124,11 @@ VU#32,0.06666667,https://github.com/teloryfrozy/Lumatic-kartdlphax,teloryfrozy/L
 VU#32,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#32,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploitsScripts,576209996
 VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
-VU#32,0.06250000,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#32,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#32,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
+VU#32,0.05882353,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#32,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#32,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#32,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
@@ -378,6 +378,8 @@ VU#32,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/k
 VU#32,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#32,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#32,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
+VU#32,0.00636943,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#32,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#32,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#32,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#32,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616

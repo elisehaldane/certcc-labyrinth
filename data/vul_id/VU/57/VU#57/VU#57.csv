@@ -64,11 +64,11 @@ VU#57,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,Rakhit
 VU#57,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#57,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
 VU#57,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
-VU#57,0.06250000,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#57,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#57,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#57,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#57,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
+VU#57,0.05882353,https://github.com/GatoGamer1155/ExploitDevelopment,GatoGamer1155/ExploitDevelopment,498429759
 VU#57,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#57,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#57,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
@@ -221,6 +221,8 @@ VU#57,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#57,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#57,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#57,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#57,0.00636943,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#57,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#57,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#57,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#57,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
@@ -296,7 +298,7 @@ VU#57,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#57,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#57,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#57,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#57,0.00062305,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+VU#57,0.00062073,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#57,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#57,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#57,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
