@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#41,1.00000000,https://github.com/katahar/CVE_PS2,katahar/CVE_PS2,693411761
 VU#41,1.00000000,https://github.com/IvanBuccella/parallel-schelling-s-model-of-segregation,IvanBuccella/parallel-schelling-s-model-of-segregation,651970828
+VU#41,0.50000000,https://github.com/yyashhp/Closed-End-Fund-Research,yyashhp/Closed-End-Fund-Research,741216438
 VU#41,0.50000000,https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,671079386
 VU#41,0.50000000,https://github.com/The-Flash/code-racer,The-Flash/code-racer,670229600
 VU#41,0.50000000,https://github.com/Xcod3bughunt3r/xsser,Xcod3bughunt3r/xsser,521932550

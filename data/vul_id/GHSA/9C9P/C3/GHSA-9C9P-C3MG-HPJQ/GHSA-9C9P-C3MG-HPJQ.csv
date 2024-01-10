@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-9C9P-C3MG-HPJQ,0.00001087,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-9C9P-C3MG-HPJQ,0.00001085,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-9C9P-C3MG-HPJQ,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
