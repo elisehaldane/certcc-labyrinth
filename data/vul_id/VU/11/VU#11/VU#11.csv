@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/kindawindytoday/SussyPayloads,kindawindytoday/SussyPayloads,604086028
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
 VU#11,0.50000000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
-VU#11,0.50000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
 VU#11,0.50000000,https://github.com/helviojunior/shellcodetester,helviojunior/shellcodetester,191294929
 VU#11,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
@@ -17,6 +16,7 @@ VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew
 VU#11,0.20000000,https://github.com/Nathancrz/MTB-telemetry,Nathancrz/MTB-telemetry,723656886
 VU#11,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
 VU#11,0.20000000,https://github.com/3r3n-J43g3r/roblox-exploits,3r3n-J43g3r/roblox-exploits,501534448
+VU#11,0.16666667,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spring-rce-war,475841116
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
@@ -184,6 +184,7 @@ VU#11,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/The
 VU#11,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#11,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#11,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#11,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#11,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#11,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#11,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
@@ -194,7 +195,7 @@ VU#11,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#11,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#11,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#11,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#11,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#11,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#11,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#11,0.00636943,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#11,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
