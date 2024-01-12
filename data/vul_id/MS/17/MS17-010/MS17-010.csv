@@ -158,7 +158,6 @@ MS17-010,0.50000000,https://github.com/quynhold/Detect-CVE-2017-0144-attack,quyn
 MS17-010,0.50000000,https://github.com/SwiftGlitxh/Exploits-How-To,SwiftGlitxh/Exploits-How-To,578595754
 MS17-010,0.50000000,https://github.com/DroPZsec/MFETB,DroPZsec/MFETB,576285720
 MS17-010,0.50000000,https://github.com/hephxtus/Metasploit-Cybersecurity-project,hephxtus/Metasploit-Cybersecurity-project,560737160
-MS17-010,0.50000000,https://github.com/0xr94/Exploits,0xr94/Exploits,552501850
 MS17-010,0.50000000,https://github.com/FluxXe1/msf-exploit,FluxXe1/msf-exploit,550571660
 MS17-010,0.50000000,https://github.com/ArminToric28/EternalBlue-Exploit,ArminToric28/EternalBlue-Exploit,538233882
 MS17-010,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
@@ -209,6 +208,7 @@ MS17-010,0.50000000,https://github.com/Dviros/Excalibur,Dviros/Excalibur,1000047
 MS17-010,0.50000000,https://github.com/kn0/battery,kn0/battery,31389422
 MS17-010,0.33333333,https://github.com/bhavyagaur99/host-hardening-pentesting,bhavyagaur99/host-hardening-pentesting,659398102
 MS17-010,0.33333333,https://github.com/000Sushant/hacking_windows7_using_metasploit,000Sushant/hacking_windows7_using_metasploit,611272241
+MS17-010,0.33333333,https://github.com/Gohanckz/Exploits,Gohanckz/Exploits,552501850
 MS17-010,0.33333333,https://github.com/BasHB00M01001/leviathan-framework,BasHB00M01001/leviathan-framework,533450693
 MS17-010,0.33333333,https://github.com/SampatDhakal/Metasploit-Attack-Report,SampatDhakal/Metasploit-Attack-Report,492143666
 MS17-010,0.33333333,https://github.com/witblack/G3nius-Tools-Sploit,witblack/G3nius-Tools-Sploit,325973971
@@ -629,7 +629,7 @@ MS17-010,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhome
 MS17-010,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS17-010,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS17-010,0.00019135,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-MS17-010,0.00019048,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00019029,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -638,7 +638,7 @@ MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrda
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00008537,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00006650,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00006648,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -680,7 +680,7 @@ MS17-010,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS17-010,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS17-010,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-MS17-010,0.00001084,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00001083,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

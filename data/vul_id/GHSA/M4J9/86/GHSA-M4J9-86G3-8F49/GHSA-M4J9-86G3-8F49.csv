@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-M4J9-86G3-8F49,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-M4J9-86G3-8F49,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 GHSA-M4J9-86G3-8F49,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-GHSA-M4J9-86G3-8F49,0.00001084,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-M4J9-86G3-8F49,0.00001083,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-M4J9-86G3-8F49,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-M4J9-86G3-8F49,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-M4J9-86G3-8F49,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
