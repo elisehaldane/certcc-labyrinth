@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VJP2-F63V-W479,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
-GHSA-VJP2-F63V-W479,0.00001083,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-VJP2-F63V-W479,0.00001082,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-VJP2-F63V-W479,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-VJP2-F63V-W479,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-VJP2-F63V-W479,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -203,7 +203,6 @@ VU#65,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#65,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#65,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#65,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#65,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#65,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#65,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#65,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -215,6 +214,7 @@ VU#65,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu
 VU#65,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#65,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#65,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
+VU#65,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#65,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#65,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#65,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
@@ -223,7 +223,6 @@ VU#65,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/Lu
 VU#65,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#65,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#65,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
-VU#65,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#65,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#65,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#65,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -235,6 +234,7 @@ VU#65,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#65,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#65,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#65,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#65,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#65,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#65,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#65,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988

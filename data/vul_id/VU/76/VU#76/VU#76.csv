@@ -23,6 +23,7 @@ VU#76,0.16666667,https://github.com/jsirichai/CVE-2019-2215,jsirichai/CVE-2019-2
 VU#76,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#76,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,473499714
 VU#76,0.14285714,https://github.com/Roblox4dev/SynapseX-,Roblox4dev/SynapseX-,725053450
+VU#76,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
 VU#76,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#76,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
 VU#76,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
@@ -144,7 +145,6 @@ VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#76,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#76,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#76,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#76,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#76,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#76,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
@@ -152,6 +152,7 @@ VU#76,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwin
 VU#76,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#76,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#76,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#76,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#76,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#76,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#76,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -164,7 +165,6 @@ VU#76,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_C
 VU#76,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#76,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#76,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
-VU#76,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#76,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#76,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#76,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
@@ -175,6 +175,7 @@ VU#76,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#76,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#76,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#76,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#76,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#76,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#76,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#76,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988

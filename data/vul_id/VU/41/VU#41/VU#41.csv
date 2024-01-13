@@ -152,7 +152,6 @@ VU#41,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#41,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#41,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#41,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#41,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#41,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#41,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#41,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
@@ -161,6 +160,7 @@ VU#41,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,12743620
 VU#41,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#41,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#41,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
+VU#41,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#41,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#41,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#41,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086

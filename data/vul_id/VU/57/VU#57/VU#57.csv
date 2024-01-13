@@ -89,9 +89,9 @@ VU#57,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,1183
 VU#57,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#57,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#57,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
+VU#57,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#57,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#57,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
-VU#57,0.03571429,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#57,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#57,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#57,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
@@ -119,7 +119,6 @@ VU#57,0.02272727,https://github.com/unknownhad/AWSAttacks,unknownhad/AWSAttacks,
 VU#57,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#57,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#57,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
-VU#57,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#57,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#57,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#57,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
@@ -130,6 +129,7 @@ VU#57,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#57,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#57,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#57,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
+VU#57,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#57,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#57,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#57,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
@@ -137,7 +137,6 @@ VU#57,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,v
 VU#57,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#57,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#57,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
-VU#57,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#57,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#57,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#57,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
@@ -148,6 +147,7 @@ VU#57,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#57,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#57,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#57,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#57,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#57,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#57,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 VU#57,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596

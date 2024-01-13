@@ -189,7 +189,6 @@ VU#43,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#43,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#43,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#43,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#43,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#43,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#43,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#43,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
@@ -199,6 +198,7 @@ VU#43,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#43,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
 VU#43,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#43,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
+VU#43,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#43,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#43,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#43,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
@@ -213,7 +213,6 @@ VU#43,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,
 VU#43,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#43,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#43,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
-VU#43,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#43,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#43,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#43,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -225,6 +224,7 @@ VU#43,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#43,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#43,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#43,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#43,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#43,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#43,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#43,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585

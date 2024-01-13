@@ -51,6 +51,7 @@ VU#61,0.16666667,https://github.com/ST5Sneaky/exploit-scripts,ST5Sneaky/exploit-
 VU#61,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#61,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
 VU#61,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/karakasis2020exploiting,434408982
+VU#61,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
 VU#61,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
 VU#61,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#61,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
@@ -85,7 +86,7 @@ VU#61,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.exp
 VU#61,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#61,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#61,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
-VU#61,0.03571429,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
+VU#61,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#61,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#61,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#61,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
@@ -164,12 +165,12 @@ VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#61,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#61,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#61,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#61,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#61,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#61,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
+VU#61,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#61,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#61,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#61,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -186,7 +187,6 @@ VU#61,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethica
 VU#61,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#61,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#61,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
-VU#61,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#61,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#61,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#61,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -198,6 +198,7 @@ VU#61,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#61,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#61,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#61,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#61,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#61,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#61,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#61,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988

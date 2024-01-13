@@ -247,7 +247,6 @@ VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#32,0.02000000,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#32,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#32,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
@@ -257,6 +256,7 @@ VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/
 VU#32,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#32,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#32,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
+VU#32,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#32,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#32,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#32,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
@@ -272,7 +272,6 @@ VU#32,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#32,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#32,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#32,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
-VU#32,0.01492537,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#32,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#32,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705,nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705,716960845
@@ -305,6 +304,7 @@ VU#32,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,bo
 VU#32,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#32,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#32,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#32,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#32,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#32,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#32,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
