@@ -2,6 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 742027806,Cappricio-Securities/CVE-2021-20323,cve/main.py,058560cf2182ca917074635edd6530fee45fa3b0,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/utils/__pycache__/helpers.cpython-311.pyc,077e454106513aef1cdc9d814aabd4f96e804a63,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/__pycache__/filereader.cpython-311.pyc,0c1074711a456cd8d13cf75257a24fe1a0d63845,CVE-2021-20323
+742027806,Cappricio-Securities/CVE-2021-20323,README.md,23c3c053d8b337b1b7f98aafc1798b2aa2476b63,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/utils/__pycache__/configure.cpython-311.pyc,2d8b062527def76ce93777a33eb8c7d9c11e3d5a,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/utils/__pycache__/const.cpython-311.pyc,2fd4485777bacf16f7a17cb5dc7b6a8002dcfdfd,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/writefile.py,3e5be9ffeb01041cc64a4110e0a95aef789c8f7e,CVE-2021-20323
@@ -13,7 +14,6 @@ repo_id,repo_full_name,file,file_sha1,match
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/__pycache__/writefile.cpython-311.pyc,a62e13e4213db92ecf515e7de3160be5478f9f4e,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/utils/helpers.py,a900408807147ba8faf3787f0f447c22f21b0b0f,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/__pycache__/__init__.cpython-311.pyc,ab784d41a80b7ae0849553564539fbdb90d78c98,CVE-2021-20323
-742027806,Cappricio-Securities/CVE-2021-20323,README.md,b8630577ce3e65f8dd4bad826801db71e3f43515,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/bot.py,b9a6e22be9b32a8830bf21033c1900a4e51b69fc,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/includes/__pycache__/scan.cpython-311.pyc,bb136dcf12b6075cd4631c60c0d26ad57dfb79b6,CVE-2021-20323
 742027806,Cappricio-Securities/CVE-2021-20323,cve/utils/__pycache__/__init__.cpython-311.pyc,cc0ea4b810f22cab4a012b3e06f33920d33ac010,CVE-2021-20323
