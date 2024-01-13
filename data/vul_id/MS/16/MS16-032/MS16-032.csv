@@ -6,11 +6,11 @@ MS16-032,1.00000000,https://github.com/Libraggbond/Metasploit-Study,Libraggbond/
 MS16-032,1.00000000,https://github.com/reuniware/Microsoft-Security-Exploits-Testing,reuniware/Microsoft-Security-Exploits-Testing,106408213
 MS16-032,1.00000000,https://github.com/khr0x40sh/ms16_032_DLL,khr0x40sh/ms16_032_DLL,61731983
 MS16-032,0.50000000,https://github.com/Marcos-Tolosa/Exploits,Marcos-Tolosa/Exploits,96800416
-MS16-032,0.50000000,https://github.com/apoorv1126/Offensive-Security,apoorv1126/Offensive-Security,91351475
 MS16-032,0.50000000,https://github.com/AlessandroNava315/Exploits,AlessandroNava315/Exploits,78857927
 MS16-032,0.33333333,https://github.com/khr0x40sh/metasploit-modules,khr0x40sh/metasploit-modules,36300501
 MS16-032,0.25000000,https://github.com/fengjixuchui/invader,fengjixuchui/invader,206958809
 MS16-032,0.25000000,https://github.com/executemalware/ExploitKits,executemalware/ExploitKits,119755387
+MS16-032,0.25000000,https://github.com/apoorv1126/Offensive-Security,apoorv1126/Offensive-Security,91351475
 MS16-032,0.25000000,https://github.com/EmpireProject/Empire,EmpireProject/Empire,40262072
 MS16-032,0.20000000,https://github.com/admintony/Windows-Exploit,admintony/Windows-Exploit,134780158
 MS16-032,0.20000000,https://github.com/ChaitanyaHaritash/My-Exploits,ChaitanyaHaritash/My-Exploits,74280973
@@ -293,11 +293,11 @@ MS16-032,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhome
 MS16-032,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS16-032,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS16-032,0.00019135,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-MS16-032,0.00019019,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS16-032,0.00019008,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS16-032,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS16-032,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS16-032,0.00016595,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00016584,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS16-032,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS16-032,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
