@@ -120,7 +120,6 @@ VU#16,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202
 VU#16,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#16,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#16,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
-VU#16,0.02272727,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#16,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#16,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 VU#16,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
@@ -163,6 +162,7 @@ VU#16,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,Ch
 VU#16,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#16,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#16,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#16,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#16,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#16,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#16,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
