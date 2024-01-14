@@ -22,7 +22,6 @@ VU#16,0.50000000,https://github.com/tgreer812/ProcessInjection,tgreer812/Process
 VU#16,0.50000000,https://github.com/Zebratic/MikroWorm,Zebratic/MikroWorm,477885613
 VU#16,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,442869549
 VU#16,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
-VU#16,0.33333333,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#16,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#16,0.33333333,https://github.com/d4rk-kn1gh7/ctf-pwn-exploits,d4rk-kn1gh7/ctf-pwn-exploits,582791685
 VU#16,0.33333333,https://github.com/Doming00/FIB-ADEI-Deliverable,Doming00/FIB-ADEI-Deliverable,580116634
@@ -35,6 +34,7 @@ VU#16,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#16,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#16,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#16,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#16,0.25000000,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#16,0.25000000,https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207,nidhi7598/linux-4.19.72_net_CVE-2023-4207,722409780
 VU#16,0.25000000,https://github.com/sh3d0ww01f/shellcodeloader,sh3d0ww01f/shellcodeloader,532798607
 VU#16,0.25000000,https://github.com/Bw3ll/ShellWasp,Bw3ll/ShellWasp,516953882
@@ -203,6 +203,7 @@ VU#16,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#16,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#16,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#16,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
+VU#16,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#16,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#16,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#16,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
