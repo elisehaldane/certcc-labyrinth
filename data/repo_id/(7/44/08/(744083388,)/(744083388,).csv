@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Log4J_CVE_2021_44228.java,01d96461220d75b6180766d3fb20c718d4310747,CVE-2021-44228
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/SpringCloud_CVE_2022_22963.java,0dc7493a68d51e6b09dd0add03a387924add9675,CVE-2022-22963
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Alluxio_CVE_2023_38889.java,259b6187f7f29feeb23fcaf9d89be4422ecd198e,CVE-2023-38889
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/CommonsText_CVE_2022_42889.java,35978330f4541f59b7f7b161a9c1b86b3da94ae0,CVE-2022-42889
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/CommonsConfiguration_CVE_2022_33980.java,93d371d6445599aaa42e82836f4aff502db10082,CVE-2022-33980
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/H2_CVE_2022_23221.java,b343067f4929d5524eb94ded2a407b561947db19,CVE-2022-23221
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Wix_CVE_2023_39021.java,b463786ba3a493a15727581b228bc3c96b51d322,CVE-2023-39021
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/HtmlUnit_CVE_2023_26119.java,beb91408cfab851be9415262541a9078a0fbf5f6,CVE-2023-26119
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Oscore_CVE_2023_39022.java,c6af8abd1d4c7993f823f4106dcdb7b26b9fb514,CVE-2023-39022
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Stanford_Parser_CVE_2023_39020.java,d0dd957926f37af6471020419950601e03d8e2fb,CVE-2023-39020
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/Jib_CVE_2022_25914.java,de5a7745eb98a1cbe5c2251296e3701ee4cd94b3,CVE-2022-25914
+744083388,AmPaschal/exploit-apps,src/main/java/com/ampaschal/WebMagic_CVE_2023_39015.java,eb98d0da828c645c2bf8433116d44a534e2fe7dd,CVE-2023-39015
