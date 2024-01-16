@@ -354,6 +354,7 @@ MS08-067,0.00375940,https://github.com/Itachl/windows_kenel_exploit,Itachl/windo
 MS08-067,0.00373134,https://github.com/m0mkris/windows-kernel-exploits,m0mkris/windows-kernel-exploits,124363470
 MS08-067,0.00373134,https://github.com/n8v79a/exploit,n8v79a/exploit,116218193
 MS08-067,0.00371747,https://github.com/xssfile/windows-kernel-exploits,xssfile/windows-kernel-exploits,130304581
+MS08-067,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 MS08-067,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 MS08-067,0.00367647,https://github.com/SomUrim/windows-kernel-exploits-clone,SomUrim/windows-kernel-exploits-clone,208943083
 MS08-067,0.00367647,https://github.com/zyjsuper/windows-kernel-exploits,zyjsuper/windows-kernel-exploits,148878601
@@ -581,7 +582,7 @@ MS08-067,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS08-067,0.00001081,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001078,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000451,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
