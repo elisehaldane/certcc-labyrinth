@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,exploit.py,7bc9c412132a1a94302366158b0426e2377a5653,CVE-2023-51467
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,README.md,95ad65a14c35e022a47a1722f03c8dea188193ca,CVE-2023-49070
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,README.md,95ad65a14c35e022a47a1722f03c8dea188193ca,CVE-2023-51467
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#03
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#26
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#35
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#37
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#38
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#39
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#45
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#56
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#76
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#83
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#95
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,_GITHUB_REPO_METADATA_,,CVE-2023-49070
+744384595,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,_GITHUB_REPO_METADATA_,,CVE-2023-51467
