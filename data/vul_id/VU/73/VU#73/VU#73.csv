@@ -25,7 +25,6 @@ VU#73,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,
 VU#73,0.25000000,https://github.com/oscargilg1/CVEs,oscargilg1/CVEs,412688812
 VU#73,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
 VU#73,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
-VU#73,0.16666667,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#73,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490
 VU#73,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
 VU#73,0.16666667,https://github.com/DefaultO/Geldwaesche,DefaultO/Geldwaesche,377245303
@@ -36,6 +35,7 @@ VU#73,0.14285714,https://github.com/security-softwares/offensive_shellcode,secur
 VU#73,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
 VU#73,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#73,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
+VU#73,0.11111111,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#73,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#73,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#73,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
@@ -128,6 +128,7 @@ VU#73,0.02083333,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/m
 VU#73,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#73,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#73,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
+VU#73,0.02000000,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#73,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#73,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#73,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
@@ -138,7 +139,6 @@ VU#73,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam
 VU#73,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#73,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#73,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
-VU#73,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#73,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#73,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#73,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101

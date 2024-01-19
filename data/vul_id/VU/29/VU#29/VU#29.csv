@@ -3,7 +3,6 @@ VU#29,1.00000000,https://github.com/DarkCloud5893/PS5-Exploit-Host,DarkCloud5893
 VU#29,1.00000000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
 VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
-VU#29,1.00000000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#29,1.00000000,https://github.com/ConfusedDiscord/PS4JB-900,ConfusedDiscord/PS4JB-900,669491047
 VU#29,1.00000000,https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,668103738
 VU#29,1.00000000,https://github.com/DmitrijVC/DALL-E,DmitrijVC/DALL-E,667573149
@@ -31,6 +30,7 @@ VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467-Exploit,JaneMandy/CVE-2023-51467-Exploit,739631896
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467,JaneMandy/CVE-2023-51467,736831199
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
+VU#29,0.50000000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
 VU#29,0.50000000,https://github.com/Avento/CVE-2023-0669,Avento/CVE-2023-0669,624244077
 VU#29,0.50000000,https://github.com/Zh0um1/CVE-2022-22947,Zh0um1/CVE-2022-22947,598386749
@@ -323,6 +323,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -333,7 +334,6 @@ VU#29,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarni
 VU#29,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#29,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#29,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
-VU#29,0.01818182,https://github.com/Riotscripter/LuffyExploits,Riotscripter/LuffyExploits,704740021
 VU#29,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#29,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#29,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
