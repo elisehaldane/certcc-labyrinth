@@ -35,7 +35,6 @@ VU#67,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,cr
 VU#67,0.16666667,https://github.com/Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,511268150
 VU#67,0.16666667,https://github.com/siberiah0h/CVE-CNVD-HUB,siberiah0h/CVE-CNVD-HUB,456395746
 VU#67,0.14285714,https://github.com/ychistel/1nsi_systeme_exploitation,ychistel/1nsi_systeme_exploitation,741076284
-VU#67,0.14285714,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#67,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/karakasis2020exploiting,434408982
 VU#67,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
 VU#67,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
@@ -63,6 +62,7 @@ VU#67,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMa
 VU#67,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#67,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#67,0.07692308,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
+VU#67,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#67,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#67,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#67,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
@@ -326,7 +326,7 @@ VU#67,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#67,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#67,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#67,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#67,0.00019131,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#67,0.00019128,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#67,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#67,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#67,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
