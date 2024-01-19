@@ -24,7 +24,7 @@ Be-Secure/bes-schema,"""BeS open source projects of interest(OSSPoI), open sourc
 KyleFardy/RCE-Admin,An RCON Tool For Rust Console Servers,https://github.com/KyleFardy/RCE-Admin,['rce'],1,2024-01-18T15:02:14+0000,3311,1,C#,0,[]
 yqcs/prismx,:: 棱镜 X · 一体化的轻量型跨平台渗透系统,https://github.com/yqcs/prismx,['vulnerability poc'],1,2024-01-18T04:21:55+0000,15233,171,TypeScript,17,[]
 TeuF/CveMate,"CveMate is a versatile tool for replicating and enriching the NVD CVE list with additional security data sources, all in a local MongoDB database.",https://github.com/TeuF/CveMate,['exploit'],1,2024-01-18T11:32:59+0000,70,0,Python,0,[]
-IamCarron/Metasploit-AutoEthernal,None,https://github.com/IamCarron/Metasploit-AutoEthernal,['metasploit module OR payload'],1,2024-01-18T15:31:26+0000,22,0,Shell,0,[]
+IamCarron/Metasploit-AutoEthernal,None,https://github.com/IamCarron/Metasploit-AutoEthernal,"['exploit', 'metasploit module OR payload']",2,2024-01-18T15:31:26+0000,22,0,Shell,0,[]
 Aditya-dom/Rusty-arsenal,A collection of experimental Post-Exploitation Techniques & Process Injection using Rust.,https://github.com/Aditya-dom/Rusty-arsenal,['exploit'],1,2024-01-18T19:48:55+0000,5246,1,Rust,1,[]
 V33RU/CommandInWiFi,CommandInWiFi: Investigating Command Injection Flaws in WiFi Access Point Storage,https://github.com/V33RU/CommandInWiFi,['command injection'],1,2024-01-18T04:52:24+0000,1006,0,C++,0,[]
 julienbrs/exploit-CVE-2023-3460,None,https://github.com/julienbrs/exploit-CVE-2023-3460,"['cve-2 OR cve_2', 'exploit']",2,2024-01-18T18:40:30+0000,2054,0,PHP,0,['CVE-2023-3460']

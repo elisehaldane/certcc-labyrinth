@@ -30,7 +30,7 @@
 | KyleFardy/RCE-Admin | An RCON Tool For Rust Console Servers | https://github.com/KyleFardy/RCE-Admin | ['rce'] | 1 | 2024-01-18 15:02:14+00:00 | 3311 | 1 | C# | 0 | [] |
 | yqcs/prismx | :: 棱镜 X · 一体化的轻量型跨平台渗透系统 | https://github.com/yqcs/prismx | ['vulnerability poc'] | 1 | 2024-01-18 04:21:55+00:00 | 15233 | 171 | TypeScript | 17 | [] |
 | TeuF/CveMate | CveMate is a versatile tool for replicating and enriching the NVD CVE list with additional security data sources, all in a local MongoDB database. | https://github.com/TeuF/CveMate | ['exploit'] | 1 | 2024-01-18 11:32:59+00:00 | 70 | 0 | Python | 0 | [] |
-| IamCarron/Metasploit-AutoEthernal | None | https://github.com/IamCarron/Metasploit-AutoEthernal | ['metasploit module OR payload'] | 1 | 2024-01-18 15:31:26+00:00 | 22 | 0 | Shell | 0 | [] |
+| IamCarron/Metasploit-AutoEthernal | None | https://github.com/IamCarron/Metasploit-AutoEthernal | ['exploit', 'metasploit module OR payload'] | 2 | 2024-01-18 15:31:26+00:00 | 22 | 0 | Shell | 0 | [] |
 | Aditya-dom/Rusty-arsenal | A collection of experimental Post-Exploitation Techniques & Process Injection using Rust. | https://github.com/Aditya-dom/Rusty-arsenal | ['exploit'] | 1 | 2024-01-18 19:48:55+00:00 | 5246 | 1 | Rust | 1 | [] |
 | V33RU/CommandInWiFi | CommandInWiFi: Investigating Command Injection Flaws in WiFi Access Point Storage | https://github.com/V33RU/CommandInWiFi | ['command injection'] | 1 | 2024-01-18 04:52:24+00:00 | 1006 | 0 | C++ | 0 | [] |
 | julienbrs/exploit-CVE-2023-3460 | None | https://github.com/julienbrs/exploit-CVE-2023-3460 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-01-18 18:40:30+00:00 | 2054 | 0 | PHP | 0 | ['CVE-2023-3460'] |
