@@ -27,6 +27,7 @@ VU#07,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/
 VU#07,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#07,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#07,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
+VU#07,0.09090909,https://github.com/jl33-ai/hacks4nets,jl33-ai/hacks4nets,745662775
 VU#07,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#07,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#07,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
@@ -64,7 +65,6 @@ VU#07,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserS
 VU#07,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#07,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#07,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
-VU#07,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#07,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#07,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#07,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
@@ -105,6 +105,7 @@ VU#07,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_Th
 VU#07,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#07,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#07,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
+VU#07,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#07,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#07,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#07,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756

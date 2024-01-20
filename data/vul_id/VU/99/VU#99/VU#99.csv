@@ -110,7 +110,6 @@ VU#99,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i
 VU#99,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#99,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#99,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
-VU#99,0.02702703,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#99,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#99,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#99,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -128,11 +127,11 @@ VU#99,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-comput
 VU#99,0.02040816,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#99,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#99,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
-VU#99,0.02000000,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#99,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#99,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#99,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#99,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
+VU#99,0.01818182,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#99,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#99,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#99,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
@@ -160,6 +159,7 @@ VU#99,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_
 VU#99,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#99,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#99,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
+VU#99,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#99,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#99,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#99,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
@@ -347,7 +347,7 @@ VU#99,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#99,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#99,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#99,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#99,0.00019128,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#99,0.00019117,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#99,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#99,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#99,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
