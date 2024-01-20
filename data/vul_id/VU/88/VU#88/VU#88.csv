@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#88,1.00000000,https://github.com/YosiSF/EinsteinDB,YosiSF/EinsteinDB,180245584
+VU#88,0.50000000,https://github.com/okitha-vithanage/remote-vnc-exploit,okitha-vithanage/remote-vnc-exploit,745798650
 VU#88,0.50000000,https://github.com/bhushansalunke/VAPT_Metasploitable2,bhushansalunke/VAPT_Metasploitable2,736184076
 VU#88,0.50000000,https://github.com/DoQuangPhu/heap_exploit_training,DoQuangPhu/heap_exploit_training,617469465
 VU#88,0.50000000,https://github.com/DoQuangPhu/HEAP_EXPLOIT,DoQuangPhu/HEAP_EXPLOIT,613160335
@@ -225,6 +226,7 @@ VU#88,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Explo
 VU#88,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#88,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#88,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
+VU#88,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#88,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#88,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#88,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
