@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+745652743,RosePwns/Lexmark-RCE,README.md,ad821393dcbf449a36585753963eabae3f458c30,CVE-2023-26067
+745652743,RosePwns/Lexmark-RCE,_GITHUB_REPO_METADATA_,,CVE-2023-26067
