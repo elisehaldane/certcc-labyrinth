@@ -1,3 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-740219537,InfernusScripts/Vulkan,Download.zip,75508539eb9bcbba9fca05c84c2d1c1cfbeff45a,VU#12
-740219537,InfernusScripts/Vulkan,Download.zip,75508539eb9bcbba9fca05c84c2d1c1cfbeff45a,VU#14
+740219537,InfernusScripts/Vulkan,Vulkan.zip,25359c9b3bdae136c61831759c248e126357e854,VU#01
+740219537,InfernusScripts/Vulkan,Vulkan.zip,25359c9b3bdae136c61831759c248e126357e854,VU#12
+740219537,InfernusScripts/Vulkan,Vulkan.zip,25359c9b3bdae136c61831759c248e126357e854,VU#14
+740219537,InfernusScripts/Vulkan,Vulkan.zip,25359c9b3bdae136c61831759c248e126357e854,VU#64
+740219537,InfernusScripts/Vulkan,Download.zip,feaa9d4ded7386879b96c415580cf869b1155ce6,VU#12
+740219537,InfernusScripts/Vulkan,Download.zip,feaa9d4ded7386879b96c415580cf869b1155ce6,VU#14
