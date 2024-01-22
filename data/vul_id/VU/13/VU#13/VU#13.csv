@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#13,1.00000000,https://github.com/ratangupta/Bypassing-ASLR,ratangupta/Bypassing-ASLR,653951163
 VU#13,1.00000000,https://github.com/Pascal-Vigneau-Pierlovisi/Systeme-Exploitation,Pascal-Vigneau-Pierlovisi/Systeme-Exploitation,602622674
 VU#13,1.00000000,https://github.com/in-future-world/All-Hacking-Tools,in-future-world/All-Hacking-Tools,400543801
+VU#13,0.50000000,https://github.com/jansitoo/Blox-fruit-Exploit,jansitoo/Blox-fruit-Exploit,746338700
 VU#13,0.50000000,https://github.com/Spard2/ps4exploit,Spard2/ps4exploit,551709706
 VU#13,0.50000000,https://github.com/Axx8/ShellCode_Loader,Axx8/ShellCode_Loader,531963548
 VU#13,0.50000000,https://github.com/zxzxz1/fix_Exploit,zxzxz1/fix_Exploit,476756058

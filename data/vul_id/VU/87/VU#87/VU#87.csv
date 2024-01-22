@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#87,1.00000000,https://github.com/Reddy29venu/kali_tools,Reddy29venu/kali_tools,672223042
 VU#87,1.00000000,https://github.com/dthibau/jbpm-exploit,dthibau/jbpm-exploit,488103618
+VU#87,0.50000000,https://github.com/jansitoo/Blox-fruit-Exploit,jansitoo/Blox-fruit-Exploit,746338700
 VU#87,0.50000000,https://github.com/rvermeulen/codeql-cve-2022-35737,rvermeulen/codeql-cve-2022-35737,604796426
 VU#87,0.50000000,https://github.com/frayray909090/spectrum,frayray909090/spectrum,595536237
 VU#87,0.50000000,https://github.com/chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution,chromanite/PhreeBooks-ERP-5.2.3-Bizuno-Library-3.1.7---Arbitrary-File-Upload-Remote-Code-Execution,548149759
