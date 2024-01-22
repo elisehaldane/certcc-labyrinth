@@ -102,7 +102,6 @@ VU#44,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows1
 VU#44,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
 VU#44,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#44,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
-VU#44,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#44,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#44,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#44,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -116,6 +115,7 @@ VU#44,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#44,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#44,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#44,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
+VU#44,0.01666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#44,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#44,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#44,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -272,7 +272,7 @@ VU#44,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#44,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#44,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#44,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#44,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#44,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#44,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#44,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#44,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

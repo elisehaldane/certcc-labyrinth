@@ -43,7 +43,6 @@ VU#84,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/x
 VU#84,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#84,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#84,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#84,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#84,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
 VU#84,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#84,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -86,6 +85,7 @@ VU#84,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learni
 VU#84,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#84,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#84,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
+VU#84,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#84,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#84,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#84,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
@@ -276,7 +276,7 @@ VU#84,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#84,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#84,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#84,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#84,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#84,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#84,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#84,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

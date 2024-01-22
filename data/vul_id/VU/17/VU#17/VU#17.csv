@@ -53,7 +53,6 @@ VU#17,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,4472
 VU#17,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#17,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
 VU#17,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#17,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#17,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#17,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#17,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -113,6 +112,7 @@ VU#17,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#17,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#17,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#17,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
+VU#17,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#17,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#17,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#17,0.02857143,https://github.com/skulkarni-mv/hostapd_mirror,skulkarni-mv/hostapd_mirror,595001088
@@ -311,7 +311,7 @@ VU#17,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#17,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#17,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#17,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#17,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#17,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#17,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -350,6 +350,6 @@ VU#17,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#17,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#17,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#17,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#17,0.00019117,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#17,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#17,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

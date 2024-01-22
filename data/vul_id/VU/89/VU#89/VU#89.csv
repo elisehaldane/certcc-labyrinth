@@ -161,7 +161,6 @@ VU#89,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#89,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#89,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#89,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
-VU#89,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#89,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#89,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#89,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
@@ -175,6 +174,7 @@ VU#89,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#89,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#89,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#89,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
+VU#89,0.01666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#89,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#89,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#89,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -346,7 +346,7 @@ VU#89,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#89,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#89,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#89,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#89,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#89,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#89,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#89,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#89,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
@@ -384,7 +384,7 @@ VU#89,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#89,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#89,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#89,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#89,0.00019117,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#89,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#89,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

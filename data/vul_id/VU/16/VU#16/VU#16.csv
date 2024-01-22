@@ -75,7 +75,6 @@ VU#16,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyT
 VU#16,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
 VU#16,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#16,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
-VU#16,0.07142857,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#16,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#16,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#16,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
@@ -107,6 +106,7 @@ VU#16,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#16,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#16,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#16,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
+VU#16,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#16,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#16,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#16,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
@@ -158,7 +158,6 @@ VU#16,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-r
 VU#16,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#16,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#16,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
-VU#16,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#16,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#16,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#16,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
@@ -337,7 +336,7 @@ VU#16,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#16,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#16,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#16,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#16,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#16,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
@@ -359,7 +358,7 @@ VU#16,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#16,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#16,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#16,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#16,0.00019117,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#16,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

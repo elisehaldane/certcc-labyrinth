@@ -70,6 +70,7 @@ VU#40,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#40,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,546059644
 VU#40,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#40,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
+VU#40,0.06250000,https://github.com/Zhaocy-Research/TransformerST,Zhaocy-Research/TransformerST,510563607
 VU#40,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#40,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#40,0.05263158,https://github.com/PeiQi0/PeiQi-WIKI-PocSuite3,PeiQi0/PeiQi-WIKI-PocSuite3,443955062
@@ -170,7 +171,6 @@ VU#40,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Ni
 VU#40,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#40,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#40,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
-VU#40,0.01851852,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#40,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#40,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#40,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -182,6 +182,7 @@ VU#40,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#40,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#40,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#40,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
+VU#40,0.01666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#40,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#40,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#40,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
@@ -318,7 +319,7 @@ VU#40,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_
 VU#40,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#40,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#40,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#40,0.00386100,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#40,0.00383142,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#40,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#40,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#40,0.00334448,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
@@ -361,7 +362,7 @@ VU#40,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#40,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#40,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#40,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#40,0.00140252,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#40,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#40,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#40,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#40,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
