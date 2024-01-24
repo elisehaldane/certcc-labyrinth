@@ -30,7 +30,6 @@ VU#38,0.25000000,https://github.com/jopraveen/exploit-development,jopraveen/expl
 VU#38,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#38,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#38,0.20000000,https://github.com/Qufity/qufity.github.io,Qufity/qufity.github.io,166701107
-VU#38,0.16666667,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#38,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/WordExp_CVE_2023_21716,611233363
 VU#38,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,473499714
 VU#38,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
@@ -216,6 +215,7 @@ VU#38,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,
 VU#38,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#38,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#38,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#38,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#38,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#38,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#38,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
@@ -349,7 +349,7 @@ VU#38,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#38,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#38,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#38,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#38,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00019106,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

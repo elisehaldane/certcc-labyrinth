@@ -14,6 +14,7 @@ VU#89,0.50000000,https://github.com/Nintendo-Homebrew/h-encore,Nintendo-Homebrew
 VU#89,0.50000000,https://github.com/mmeza-developer/CVE-2019-5420-RCE,mmeza-developer/CVE-2019-5420-RCE,425154730
 VU#89,0.50000000,https://github.com/Panagiotis-Zachos/Ma_et_al_2017_code,Panagiotis-Zachos/Ma_et_al_2017_code,416763757
 VU#89,0.50000000,https://github.com/ameetsaahu/Browser-exploitation,ameetsaahu/Browser-exploitation,383799614
+VU#89,0.33333333,https://github.com/jaytiwari05/Portswigger-Exploits,jaytiwari05/Portswigger-Exploits,747195890
 VU#89,0.33333333,https://github.com/ngshaohui/ATutor,ngshaohui/ATutor,732318639
 VU#89,0.33333333,https://github.com/b0songsong/CodeEngn-RCE,b0songsong/CodeEngn-RCE,721034395
 VU#89,0.33333333,https://github.com/prodrigmd/rce,prodrigmd/rce,551749016
@@ -250,6 +251,7 @@ VU#89,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_T
 VU#89,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#89,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#89,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#89,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#89,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#89,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#89,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
@@ -384,7 +386,7 @@ VU#89,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#89,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#89,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#89,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#89,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00019106,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#89,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#89,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

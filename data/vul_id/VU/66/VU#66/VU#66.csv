@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#66,1.00000000,https://github.com/Jeevzzzz/Illustration-of-Semaphores,Jeevzzzz/Illustration-of-Semaphores,745052095
+VU#66,1.00000000,https://github.com/Databones/Edgesploit,Databones/Edgesploit,700054561
 VU#66,1.00000000,https://github.com/mvqna/Roblox,mvqna/Roblox,639975722
 VU#66,1.00000000,https://github.com/rajnetwork1/CiLock,rajnetwork1/CiLock,595407263
 VU#66,1.00000000,https://github.com/password520/SeeyonExploit-GUI,password520/SeeyonExploit-GUI,477361295
@@ -17,6 +18,7 @@ VU#66,0.33333333,https://github.com/loicosquare/rce_project,loicosquare/rce_proj
 VU#66,0.33333333,https://github.com/kkhuong/Advantage-Gambling,kkhuong/Advantage-Gambling,184218894
 VU#66,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#66,0.25000000,https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,484983840
+VU#66,0.20000000,https://github.com/Sandesh028/Exploiting-IoT-Devices,Sandesh028/Exploiting-IoT-Devices,747247755
 VU#66,0.20000000,https://github.com/Nathancrz/MTB-telemetry,Nathancrz/MTB-telemetry,723656886
 VU#66,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
 VU#66,0.20000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
@@ -82,6 +84,7 @@ VU#66,0.04347826,https://github.com/AryanVBW/LinuxDroid,AryanVBW/LinuxDroid,5963
 VU#66,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#66,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
 VU#66,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
+VU#66,0.03846154,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#66,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#66,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#66,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
@@ -200,6 +203,7 @@ VU#66,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnee
 VU#66,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#66,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#66,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#66,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#66,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#66,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#66,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
@@ -323,7 +327,7 @@ VU#66,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#66,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#66,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#66,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#66,0.00019113,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#66,0.00019106,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#66,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#66,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#66,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
