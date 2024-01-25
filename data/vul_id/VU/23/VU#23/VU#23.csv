@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/Quartinal/INSECURLY,Quartinal/INSECURLY,733309654
 VU#23,1.00000000,https://github.com/DanisyEisyraf/Vulnerability-Attacks,DanisyEisyraf/Vulnerability-Attacks,652877446
 VU#23,1.00000000,https://github.com/jity16/BEE,jity16/BEE,650042183
-VU#23,1.00000000,https://github.com/JoshUnscripted/Roblox-Exploit-Open-Source,JoshUnscripted/Roblox-Exploit-Open-Source,553967050
+VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
 VU#23,0.50000000,https://github.com/PABLEXWorld/ScreenFX,PABLEXWorld/ScreenFX,692646307
 VU#23,0.50000000,https://github.com/abhijeet-000/ZERODAY_A,abhijeet-000/ZERODAY_A,663438550
@@ -166,6 +166,7 @@ VU#23,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#23,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#23,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#23,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
+VU#23,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#23,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#23,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#23,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
@@ -299,6 +300,7 @@ VU#23,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#23,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#23,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#23,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#23,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#23,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#23,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#23,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -310,7 +312,6 @@ VU#23,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exp
 VU#23,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#23,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#23,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#23,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#23,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#23,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#23,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
@@ -334,7 +335,7 @@ VU#23,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,
 VU#23,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#23,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#23,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
-VU#23,0.00383142,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#23,0.00381679,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#23,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 VU#23,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#23,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590

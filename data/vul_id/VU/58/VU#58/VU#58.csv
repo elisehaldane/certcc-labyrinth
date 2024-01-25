@@ -23,7 +23,7 @@ VU#58,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#58,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#58,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
+VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#58,0.33333333,https://github.com/w31rdr4v3n/Web-Exploitation,w31rdr4v3n/Web-Exploitation,689609059
@@ -32,7 +32,7 @@ VU#58,0.33333333,https://github.com/fxpgunz/gunz-1.0,fxpgunz/gunz-1.0,486681354
 VU#58,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
 VU#58,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
 VU#58,0.33333333,https://github.com/codin-stuffs/cihna-dictatorshrip,codin-stuffs/cihna-dictatorshrip,456507653
-VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-7,cirosantilli/china-dictatorhsip-7,397523094
+VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-6,cirosantilli/china-dictatorhsip-6,397523094
 VU#58,0.33333333,https://github.com/cheezcharmer/chinese-dictatorship,cheezcharmer/chinese-dictatorship,393679755
 VU#58,0.33333333,https://github.com/sketchyboi14/PhoneSploitGui,sketchyboi14/PhoneSploitGui,309204881
 VU#58,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInvasion,248380503
@@ -76,6 +76,7 @@ VU#58,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,a
 VU#58,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#58,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#58,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
+VU#58,0.06666667,https://github.com/jchenghu/ExpansionNet_v2,jchenghu/ExpansionNet_v2,524144534
 VU#58,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
 VU#58,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#58,0.05882353,https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,654340148
@@ -256,6 +257,7 @@ VU#58,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#58,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#58,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#58,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#58,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#58,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#58,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#58,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
@@ -267,7 +269,6 @@ VU#58,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exp
 VU#58,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#58,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#58,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#58,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#58,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#58,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#58,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826

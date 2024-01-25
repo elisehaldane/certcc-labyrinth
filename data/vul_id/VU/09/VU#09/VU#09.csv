@@ -165,6 +165,7 @@ VU#09,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#09,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#09,0.03333333,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 VU#09,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
+VU#09,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#09,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#09,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#09,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
@@ -274,7 +275,7 @@ VU#09,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#09,0.00980392,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#09,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#09,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#09,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#09,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#09,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#09,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -318,7 +319,6 @@ VU#09,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-
 VU#09,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#09,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#09,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#09,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#09,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#09,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#09,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271

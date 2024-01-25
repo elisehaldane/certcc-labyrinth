@@ -27,7 +27,6 @@ VU#77,0.16666667,https://github.com/jsirichai/CVE-2019-2215,jsirichai/CVE-2019-2
 VU#77,0.16666667,https://github.com/LinWin-Cloud/linwin-sploit,LinWin-Cloud/linwin-sploit,617420178
 VU#77,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
 VU#77,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
-VU#77,0.14285714,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#77,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/karakasis2020exploiting,434408982
 VU#77,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
 VU#77,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
@@ -53,6 +52,7 @@ VU#77,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#77,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#77,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
 VU#77,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
+VU#77,0.06666667,https://github.com/jchenghu/ExpansionNet_v2,jchenghu/ExpansionNet_v2,524144534
 VU#77,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#77,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#77,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
@@ -98,6 +98,7 @@ VU#77,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/writ
 VU#77,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#77,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#77,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
+VU#77,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#77,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#77,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#77,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
@@ -264,7 +265,7 @@ VU#77,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/
 VU#77,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#77,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#77,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#77,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#77,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#77,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#77,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#77,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -308,6 +309,7 @@ VU#77,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,
 VU#77,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#77,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
 VU#77,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#77,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#77,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#77,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#77,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -316,7 +318,6 @@ VU#77,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-
 VU#77,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#77,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#77,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#77,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#77,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#77,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#77,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271

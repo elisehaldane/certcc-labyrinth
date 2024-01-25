@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#95,1.00000000,https://github.com/Jahamezl/0day-Stealer,Jahamezl/0day-Stealer,661815653
 VU#95,1.00000000,https://github.com/susMdT/Indirect-Syscall-Shellcode-Loader,susMdT/Indirect-Syscall-Shellcode-Loader,560650303
-VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-webshell-application,p0dalirius/Tomcat-webshell-application,492338473
+VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-application-webshell,p0dalirius/Tomcat-application-webshell,492338473
 VU#95,1.00000000,https://github.com/akr3ch/kubeletctl-cli-rce,akr3ch/kubeletctl-cli-rce,472089121
 VU#95,1.00000000,https://github.com/hamzausmani302/CTF2,hamzausmani302/CTF2,466481406
 VU#95,1.00000000,https://github.com/Sneden/XSS-Attacks,Sneden/XSS-Attacks,453781526
@@ -57,6 +57,7 @@ VU#95,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExp
 VU#95,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
 VU#95,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#95,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
+VU#95,0.06666667,https://github.com/jchenghu/ExpansionNet_v2,jchenghu/ExpansionNet_v2,524144534
 VU#95,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#95,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#95,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410
@@ -166,7 +167,7 @@ VU#95,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#95,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#95,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#95,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#95,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#95,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#95,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#95,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#95,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -206,13 +207,13 @@ VU#95,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#95,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#95,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#95,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#95,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#95,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#95,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#95,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#95,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#95,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#95,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#95,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#95,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#95,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#95,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826

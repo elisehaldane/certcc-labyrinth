@@ -20,7 +20,7 @@ VU#45,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123
 VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
-VU#45,0.50000000,https://github.com/cyberanand1337x/metasploit-termux-2023,cyberanand1337x/metasploit-termux-2023,543638364
+VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
 VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
@@ -145,6 +145,7 @@ VU#45,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#45,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#45,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#45,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
+VU#45,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#45,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#45,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#45,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
@@ -301,6 +302,7 @@ VU#45,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#45,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#45,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#45,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#45,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#45,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#45,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#45,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -311,7 +313,6 @@ VU#45,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-
 VU#45,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#45,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#45,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#45,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#45,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#45,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#45,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043

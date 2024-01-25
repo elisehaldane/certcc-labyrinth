@@ -196,7 +196,7 @@ VU#51,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#51,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#51,0.00980392,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#51,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#51,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#51,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#51,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#51,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#51,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -234,6 +234,7 @@ VU#51,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#51,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#51,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#51,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#51,0.00632911,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#51,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#51,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#51,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -242,7 +243,6 @@ VU#51,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-
 VU#51,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#51,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#51,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
-VU#51,0.00540541,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#51,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#51,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#51,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
@@ -265,7 +265,7 @@ VU#51,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Ba
 VU#51,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#51,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#51,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
-VU#51,0.00383142,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#51,0.00381679,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#51,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#51,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#51,0.00334448,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
@@ -306,7 +306,7 @@ VU#51,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exp
 VU#51,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#51,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#51,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#51,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+VU#51,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#51,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#51,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#51,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
