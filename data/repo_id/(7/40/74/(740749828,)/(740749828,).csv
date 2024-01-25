@@ -1,284 +1,451 @@
 repo_id,repo_full_name,file,file_sha1,match
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#497
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#828
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#63
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#10
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#87
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#49
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#14
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#47
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#30
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#24
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#43
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#16
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#62
-740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#42
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors shorter.ipynb,1572116209d9d869bc8877b9c810adf245d03aa7,VU#00
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors shorter.ipynb,1572116209d9d869bc8877b9c810adf245d03aa7,VU#15
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors shorter.ipynb,1572116209d9d869bc8877b9c810adf245d03aa7,VU#45
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors shorter.ipynb,1572116209d9d869bc8877b9c810adf245d03aa7,VU#75
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors shorter.ipynb,1572116209d9d869bc8877b9c810adf245d03aa7,VU#36
 740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#36
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#24
 740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#375
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#42
 740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#2225
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#10
 740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#32
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#70
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#635
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#69995
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#24
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#245
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#6661
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#244
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#66
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#63
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#247
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#68
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#999
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#5557
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#37
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#47
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#49
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#497
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#16
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#30
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#62
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#63
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#43
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#14
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#828
+740749828,dmw2166/rces-2024,projects/erddapy/erddapy.ipynb,19a258cd04370c889d9d2b2d7cdf0c8e33b1e4d3,VU#87
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full_4fac.ipynb,208dacb8c62444e800a945eb2e523f23f4f43c3f,VU#58
+740749828,dmw2166/rces-2024,Notebooks/Error Analysis of NMF.ipynb,2b37d1f2f12bd5d867082aa05cd4642eb42f50eb,VU#89
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#13
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#67
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#95
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#68
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#37
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#749
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#76
+740749828,dmw2166/rces-2024,Notebooks/Comparing PM1 Calculation Methods.ipynb,30dc49a0772f13e24c65c469a7d469161cf538f9,VU#53
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#49
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#16
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#50
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#45
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#62
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#38
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#3777
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#83
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#88
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#20
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#57
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#06
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#65
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#6667
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#069
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#34
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#99
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#304
+740749828,dmw2166/rces-2024,Notebooks/timeseries_figure_shorter.ipynb,31dbfc736eaaaf41acf6e64577902d07ee533b9d,VU#98
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#0113
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#64
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#69
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#71
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#09
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#33
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full-diurnal-4fac.ipynb,37e9e31311785bb8d86e4760c3d59c14df5a1a89,VU#58
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#78
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#58
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#65
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#90
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#252
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#67
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot factors all.ipynb,4511cd52c3c4072a6f8dd34515fec16aa4d66397,VU#51
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#47
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#32
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#39
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#341
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#30
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#04
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#53
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#63
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#68
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#83
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#15
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#27
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#59
+740749828,dmw2166/rces-2024,Notebooks/AQCP_example.ipynb,497a472ed557f177db3e1f6dcd83f0e781cb9558,VU#62
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#52
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#96
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#35
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#34
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#39
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#33
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#41
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#44
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#26
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#31
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#47
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#29
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#48
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#28
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#704
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#51
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#52
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#4447
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#712
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#68
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#69995
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#36
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#91
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#87
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#08
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#96
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#86
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#11
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#70
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#704
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#31
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#712
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#73
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#07
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#1122
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#81
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#14
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#096
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#0392
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#154
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#17
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#033
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#93
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#18
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#89
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#766
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#20
-740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#15
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#29
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#33
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#6661
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#37
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#635
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#81
 740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#88
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#93
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#43
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9133
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9126
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#73
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#954442
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#39
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#378
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#371
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#37
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#97
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#985
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9891
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#42
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#96
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#479
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#45
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#76
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#36
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#7667
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#77
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#773
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#65
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#7929
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#83
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#58
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#5557
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#48
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#87
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#47
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#4447
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#66
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#44
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#91
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#41
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#39
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#86
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#63
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#93
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#51
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#89
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#28
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#999
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#096
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#244
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#245
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#247
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#20
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#18
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#17
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#154
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#15
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#14
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#1122
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#11
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#08
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#07
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#26
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#24
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#033
+740749828,dmw2166/rces-2024,lectures/pandas_fundamentals.ipynb,5f4ecc3677e150c60c77aefd09b4c2a746057ad0,VU#0392
 740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#841
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#86
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#50
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#48
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#4730
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#88
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#888
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#47
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#91
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#68
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#01
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#223
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#29
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#30
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#089
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#304
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#07
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#31
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#28
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#32
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#322
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#279
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#12
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#26
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#0760
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#139
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#33
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#22
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#35
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#24
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#21
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#34
-740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#2906
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#96
 740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#19
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#62
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#80
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#61
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#66
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#50
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#97
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#48
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#479
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#4730
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#954442
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#47
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#01
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#21
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#985
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#22
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9891
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#43
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#223
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#42
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#39
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#45
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#93
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9133
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#58
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#83
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#7929
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#773
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#77
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#88
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#7667
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#76
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#888
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#86
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#73
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#0760
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#089
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#378
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#68
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#91
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#12
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#65
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#9126
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#07
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#279
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#139
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#322
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#24
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#37
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#32
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#34
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#29
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#36
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#31
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#371
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#304
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#28
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#26
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#35
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#30
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#33
+740749828,dmw2166/rces-2024,lectures/pandas_groupby.ipynb,6379634f9aeb3b444fc94e03a198bd65ed5a799a,VU#2906
 740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#21
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#80
 740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#26
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#59
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#25
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#88
 740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#476
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#62
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#04
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#37
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#61
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#25
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#59
 740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#106
 740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#998
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#37
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#88
-740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#04
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#78
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#53
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#55
+740749828,dmw2166/rces-2024,projects/gpcp/gcp_kerchunk.ipynb,6777e402f63d1586f6deb3a0b59b35040f9eb51b,VU#66
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#05
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#66
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#60
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#83
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#08
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#33
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#57
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#18
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#05
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#83
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#97
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#66
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#704
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#53
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#55
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#78
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#67
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#60
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#33
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#36
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#11
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#23
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#889
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#42
-740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#08
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#36
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#23
 740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#917
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#88
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#62
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#25
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#61
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#21
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#59
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#476
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#106
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#80
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#66
-740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#37
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#97
+740749828,dmw2166/rces-2024,book/diagram.svg,6a69cf5f0ce6ceb78deca85e50079daddfa697f8,VU#42
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#30
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#44
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#55
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#37
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#93
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#33
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#25
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#739
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#02
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#40
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#664
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#28
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#60
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#61
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#127
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#26
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#52
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#72
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#48
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#06
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#78
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#81
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#89
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#20
+740749828,dmw2166/rces-2024,Notebooks/1 Basics Dan Version-Copy1.ipynb,76c12eb5aba6f5e5776e738ef8049eae3b78843a,VU#46
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_4fac.ipynb,76c5bd2f42eaa9a50e88cf4202476a11a7ee2b02,VU#98
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_4fac.ipynb,76c5bd2f42eaa9a50e88cf4202476a11a7ee2b02,VU#21
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_4fac.ipynb,76c5bd2f42eaa9a50e88cf4202476a11a7ee2b02,VU#89
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_4fac.ipynb,76c5bd2f42eaa9a50e88cf4202476a11a7ee2b02,VU#99
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_4fac.ipynb,76c5bd2f42eaa9a50e88cf4202476a11a7ee2b02,VU#13
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf.ipynb,83c2e5c060602aa99cfe4d561d24d7d619014ed6,VU#89
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf.ipynb,83c2e5c060602aa99cfe4d561d24d7d619014ed6,VU#21
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf.ipynb,83c2e5c060602aa99cfe4d561d24d7d619014ed6,VU#13
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf.ipynb,83c2e5c060602aa99cfe4d561d24d7d619014ed6,VU#98
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf.ipynb,83c2e5c060602aa99cfe4d561d24d7d619014ed6,VU#99
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#357
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#39
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#49
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#30
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#69
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#31
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#76
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#87
+740749828,dmw2166/rces-2024,Notebooks/Cross Validation of NMF.ipynb,854d941271a413b4b735831c636588b03ae69d23,VU#73
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#2267
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#09
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#63
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#43
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#60
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#13
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa-Copy1.ipynb,867fbb1879acf87d4706391f22263b0ffa33dc92,VU#2923
 740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#998
 740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#26
 740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#04
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#89
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#07
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#80
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#88
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#66
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#106
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#476
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#61
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#21
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#59
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#62
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#37
+740749828,dmw2166/rces-2024,projects/gpcp/gcp.ipynb,872f8d02059dc6ed4a2bc340950991da345fca73,VU#25
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#49
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#84
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#48
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#24
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#56
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#87
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#47
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#88
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#46
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#05
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#718
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#72
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#02
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#74
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#84
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#88
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#20
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#10
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#19
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#06
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#95
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#7710
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#05
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#87
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#81
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#925
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#92
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#82
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#129
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#76
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#96
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#24
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#46
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#49
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#48
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#55
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#56
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#58
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#47
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#4540
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#26
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#583
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#59
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#45
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#60
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#41
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#61
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#82
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#81
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#20
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#35
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#37
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#23
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#06
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#74
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#26
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#07
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#7710
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#19
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#55
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#36
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#45
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#76
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#61
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#96
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#65
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#333
-740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#27
 740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#6314
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#379
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#34
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#05
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#333
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#10
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#95
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#41
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#60
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#129
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#27
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#925
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#23
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#92
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#37
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#583
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#02
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#58
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#89
+740749828,dmw2166/rces-2024,lectures/more_matplotlib.ipynb,8e683b1d5ea746929021d370b7205da482165e9b,VU#59
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#38
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#47
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#28
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#379
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#382
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#28
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#31
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#82
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#05
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#20
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#930
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#47
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#87
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#010
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#27
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#31
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#930
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#69
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#20
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#26
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#62
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#639
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#70
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#75
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#14
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#71
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#34
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#25
 740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#72
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#26
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#639
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#71
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#70
-740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#82
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#25
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#03
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#95
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#33
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#14
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#69
+740749828,dmw2166/rces-2024,projects/mercury/clipping_data.ipynb,946583c2b27ccb9a61ee96f5d0c155ead1d51999,VU#27
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#56
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#87
 740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#394
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#67
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#323
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#0564
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#11
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#43
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#44
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#18
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#51
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#45
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#78
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#68
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#54
 740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#88
 740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#576
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#285
 740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#06
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#485
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#56
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#45
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#68
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#51
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#03
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#67
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#44
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#43
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#11
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#95
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#323
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#285
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#33
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#54
 740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#81
-740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#87
-740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#201
-740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#63
-740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#30
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#485
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#78
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#18
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#25
+740749828,dmw2166/rces-2024,projects/era5/era5.ipynb,9c057ea1091760cbc31e8000f6101b1c630399cd,VU#0564
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#01
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#04
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#63
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#93
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#99
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#961
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#73
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#23
+740749828,dmw2166/rces-2024,Notebooks/correction factor kinshasa.ipynb,a351ff717f4fcd617841b7218a9e274b1afa122d,VU#21
+740749828,dmw2166/rces-2024,Notebooks/size-distribution-by-factor.ipynb,b7dc4843d336dbca85330126f702372c8c6b1020,VU#35
+740749828,dmw2166/rces-2024,Notebooks/size-distribution-by-factor.ipynb,b7dc4843d336dbca85330126f702372c8c6b1020,VU#380
+740749828,dmw2166/rces-2024,Notebooks/size-distribution-by-factor.ipynb,b7dc4843d336dbca85330126f702372c8c6b1020,VU#95
+740749828,dmw2166/rces-2024,Notebooks/size-distribution-by-factor.ipynb,b7dc4843d336dbca85330126f702372c8c6b1020,VU#048
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#56
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#61
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#88
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#160
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#13
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#65
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#66
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#252
+740749828,dmw2166/rces-2024,Notebooks/wind rose plot species all.ipynb,bdf5d66e83af26eafc6ef9f05d08f7a7bec20e00,VU#92
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_copy.ipynb,bf9df8688803a2f2dfd0c8610650da8b4cf2e101,VU#99
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_copy.ipynb,bf9df8688803a2f2dfd0c8610650da8b4cf2e101,VU#98
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_copy.ipynb,bf9df8688803a2f2dfd0c8610650da8b4cf2e101,VU#89
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_copy.ipynb,bf9df8688803a2f2dfd0c8610650da8b4cf2e101,VU#21
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_nmf_copy.ipynb,bf9df8688803a2f2dfd0c8610650da8b4cf2e101,VU#13
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_full.ipynb,c8ae839e163782ade0b34a6977b4077fdfbbf0b8,VU#58
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#97
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#96
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#13
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#81
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#74
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#71
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#913
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#70
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#31
+740749828,dmw2166/rces-2024,Notebooks/diurnal-plots.ipynb,cd29bd94e19d2e6e5502a73591d0d965e97d293b,VU#51
+740749828,dmw2166/rces-2024,Notebooks/9-CV.ipynb,ce19856bb71a75f98d7c46f4bd7d65725b3fb366,VU#73
+740749828,dmw2166/rces-2024,Notebooks/9-CV.ipynb,ce19856bb71a75f98d7c46f4bd7d65725b3fb366,VU#6667
+740749828,dmw2166/rces-2024,Notebooks/factors_barchart_timeseries_shorter.ipynb,cfedc0091195f184469874adcfaef4709fee97bf,VU#58
+740749828,dmw2166/rces-2024,Notebooks/correction factor nyc.ipynb,d5270cb645d9ceae20c8657e8f403ca2be5cfcaa,VU#50
+740749828,dmw2166/rces-2024,Notebooks/correction factor nyc.ipynb,d5270cb645d9ceae20c8657e8f403ca2be5cfcaa,VU#26
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#30
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#46
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#50
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#899
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#34
+740749828,dmw2166/rces-2024,Notebooks/kinshasa_CV.ipynb,d8adf55e608ce26f82988fbcbd1371ba1c95732a,VU#02
+740749828,dmw2166/rces-2024,Notebooks/RH Distribution Stuff.ipynb,dc63dece84940a5ea7e0f14878889ccd44b5a9b0,VU#43
 740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#41
-740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#96
 740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#49
+740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#30
+740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#96
+740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#63
+740749828,dmw2166/rces-2024,lectures/numpy_and_matplotlib.ipynb,df3413746590e381b46a0243c460c828651aed68,VU#201
+740749828,dmw2166/rces-2024,Notebooks/TOC Art.ipynb,e2fb6afa59384034cc179157cb93128880007ee2,VU#73
+740749828,dmw2166/rces-2024,Notebooks/TOC Art.ipynb,e2fb6afa59384034cc179157cb93128880007ee2,VU#13
+740749828,dmw2166/rces-2024,Notebooks/TOC Art.ipynb,e2fb6afa59384034cc179157cb93128880007ee2,VU#451
+740749828,dmw2166/rces-2024,Notebooks/TOC Art.ipynb,e2fb6afa59384034cc179157cb93128880007ee2,VU#07
