@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+747908723,kaneda/exploits,CVE-2021-3156/cve,08e2db090a36527b7eebbf1da9f47814cbb8effe,CVE-2021-3156
 747908723,kaneda/exploits,dirtypipe/exploit-1.c,0b3bd6b2cb57d1d3a2c51f948c0da474175b9f57,CVE-2022-0847
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/include/exploit_configs.h,1e80c99d6e91c41b1a9ded7b5e4e1d9e22403afb,CVE-2020-27171
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/include/exploit_configs.h,1e80c99d6e91c41b1a9ded7b5e4e1d9e22403afb,CVE-2021-3490
@@ -13,4 +14,5 @@ repo_id,repo_full_name,file,file_sha1,match
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/include/bpf_defs.h,a1442da245f9aa8b55ef58dc77547ec317f76932,CVE-2021-3490
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/README.md,a46a02378300b2948756ab99bfba42eaf56ae94f,CVE-2021-3490
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/bin/.placeholder,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2021-3490
+747908723,kaneda/exploits,CVE-2021-3156/cve.c,f349e0cd72333260fc87a0c34d262ae4c1e7be98,CVE-2021-3156
 747908723,kaneda/exploits,Linux_LPE_eBPF_CVE-2021-3490-main/kmem_search.c,f79270f9f2a704ac5fe4f465331d83255acb87a6,CVE-2021-3490
