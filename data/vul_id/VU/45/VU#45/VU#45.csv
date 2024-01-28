@@ -52,7 +52,6 @@ VU#45,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-
 VU#45,0.33333333,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,474467374
 VU#45,0.33333333,https://github.com/1lann/log4shelldetect,1lann/log4shelldetect,437155858
 VU#45,0.33333333,https://github.com/jas502n/Log4j2-CVE-2021-44228,jas502n/Log4j2-CVE-2021-44228,436860437
-VU#45,0.25000000,https://github.com/MdRimon18/rcelleApp,MdRimon18/rcelleApp,749133956
 VU#45,0.25000000,https://github.com/namto908/CVE-20186892,namto908/CVE-20186892,730682886
 VU#45,0.25000000,https://github.com/shmigq/PIVASw,shmigq/PIVASw,588504866
 VU#45,0.25000000,https://github.com/shmigq/PIVAS,shmigq/PIVAS,588504656
@@ -378,8 +377,8 @@ VU#45,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#45,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#45,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#45,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#45,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#45,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#45,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#45,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#45,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#45,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178

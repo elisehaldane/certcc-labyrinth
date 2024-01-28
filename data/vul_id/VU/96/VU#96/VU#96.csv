@@ -65,7 +65,6 @@ VU#96,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
 VU#96,0.25000000,https://github.com/AlmightyLobsters/LobsterPages,AlmightyLobsters/LobsterPages,75432070
 VU#96,0.20000000,https://github.com/Wesley-Kimeli-Kirui/Mkulima_Portal,Wesley-Kimeli-Kirui/Mkulima_Portal,618568977
 VU#96,0.20000000,https://github.com/Yaamiin/byob,Yaamiin/byob,528793674
-VU#96,0.16666667,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#96,0.16666667,https://github.com/JasonK145/GameProject_01,JasonK145/GameProject_01,672271649
 VU#96,0.16666667,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#96,0.16666667,https://github.com/SuprajaBaskaran/exploits-npm,SuprajaBaskaran/exploits-npm,576042689
@@ -169,6 +168,7 @@ VU#96,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2021-28165,nidhi7
 VU#96,0.02777778,https://github.com/nidhi7598/jetty-9.4.31_CVE-2020-27216,nidhi7598/jetty-9.4.31_CVE-2020-27216,712369405
 VU#96,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#96,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
+VU#96,0.02702703,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#96,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#96,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#96,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
@@ -416,8 +416,8 @@ VU#96,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#96,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#96,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#96,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#96,0.00140056,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#96,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
+VU#96,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#96,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#96,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#96,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
