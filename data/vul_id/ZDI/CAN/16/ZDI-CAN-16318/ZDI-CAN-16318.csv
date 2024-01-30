@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-16318,0.00022753,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-ZDI-CAN-16318,0.00018720,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-16318,0.00018713,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 ZDI-CAN-16318,0.00016348,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
-ZDI-CAN-16318,0.00001070,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-CAN-16318,0.00001100,https://github.com/trickest/cve,trickest/cve,454015416
 ZDI-CAN-16318,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 ZDI-CAN-16318,0.00000343,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
