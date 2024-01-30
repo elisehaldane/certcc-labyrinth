@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-416151847,yaklang/yakit,app/renderer/src/main/src/components/yakChat/presetKeywords.ts,2933c3b04f57bc01a67f5a3fbfd6a83f9c4a3e0b,CVE-2016-4437
 416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#38
 416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#57
 416151847,yaklang/yakit,app/renderer/src/main/src/utils/logo.ts,aafb59c477f147b0d10738c49d5f4e4fb701989a,VU#78
