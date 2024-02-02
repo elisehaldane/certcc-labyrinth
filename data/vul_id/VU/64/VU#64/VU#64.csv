@@ -33,7 +33,6 @@ VU#64,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInv
 VU#64,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#64,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
 VU#64,0.25000000,https://github.com/DaintyJet/VChat_DEP,DaintyJet/VChat_DEP,746036119
-VU#64,0.25000000,https://github.com/InfernusScripts/Vulkan,InfernusScripts/Vulkan,740219537
 VU#64,0.25000000,https://github.com/moonleaks/RogueCE,moonleaks/RogueCE,732538648
 VU#64,0.25000000,https://github.com/ogirou/Q_Exploitation,ogirou/Q_Exploitation,678465297
 VU#64,0.25000000,https://github.com/ryanshatch/CanvasHairCo-SecurityAssessment,ryanshatch/CanvasHairCo-SecurityAssessment,677474725
@@ -80,6 +79,7 @@ VU#64,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,a
 VU#64,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#64,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#64,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
+VU#64,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#64,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
@@ -401,11 +401,11 @@ VU#64,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#64,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#64,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#64,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#64,0.00019091,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00019077,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#64,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#64,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#64,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#64,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 VU#64,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#64,0.00000343,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#64,0.00000342,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#64,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

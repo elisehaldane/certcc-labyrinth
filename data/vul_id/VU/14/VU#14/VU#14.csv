@@ -3,6 +3,7 @@ VU#14,1.00000000,https://github.com/johny223/AntiExploits,johny223/AntiExploits,
 VU#14,1.00000000,https://github.com/tubers93x/Fluzi,tubers93x/Fluzi,581526791
 VU#14,1.00000000,https://github.com/SynaxHelper/RobloxHack,SynaxHelper/RobloxHack,447908331
 VU#14,1.00000000,https://github.com/Mdot0/Pentesting-Methodology-,Mdot0/Pentesting-Methodology-,390801012
+VU#14,0.50000000,https://github.com/InfernusScripts/Vulkan,InfernusScripts/Vulkan,740219537
 VU#14,0.50000000,https://github.com/GigglyGiggle/Fhack-Exploit,GigglyGiggle/Fhack-Exploit,612748677
 VU#14,0.50000000,https://github.com/Pandoragiann/SploitX,Pandoragiann/SploitX,591595613
 VU#14,0.50000000,https://github.com/kabsexploits/kabs-exploit,kabsexploits/kabs-exploit,524299436
@@ -17,7 +18,6 @@ VU#14,0.50000000,https://github.com/MrHacker-X/SploitX,MrHacker-X/SploitX,352953
 VU#14,0.33333333,https://github.com/Ckrielle/CVE-2019-16784-POC,Ckrielle/CVE-2019-16784-POC,735339499
 VU#14,0.33333333,https://github.com/PoisonousNow/Drainer,PoisonousNow/Drainer,730505019
 VU#14,0.33333333,https://github.com/XzreyaX/NefesSploit,XzreyaX/NefesSploit,486716137
-VU#14,0.25000000,https://github.com/InfernusScripts/Vulkan,InfernusScripts/Vulkan,740219537
 VU#14,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#14,0.20000000,https://github.com/v0x45/PassGen-by-Rayan-w-Backdoor,v0x45/PassGen-by-Rayan-w-Backdoor,486184135
 VU#14,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
@@ -60,6 +60,7 @@ VU#14,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344
 VU#14,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#14,0.06666667,https://github.com/WinstonShine/f23-binary-exploitation,WinstonShine/f23-binary-exploitation,697567791
 VU#14,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
+VU#14,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#14,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#14,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#14,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
@@ -340,7 +341,7 @@ VU#14,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#14,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#14,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#14,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#14,0.00019091,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#14,0.00019077,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#14,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#14,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#14,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

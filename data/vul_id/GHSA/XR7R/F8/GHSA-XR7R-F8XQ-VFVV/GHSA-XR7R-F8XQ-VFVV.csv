@@ -1,7 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/laysakura/CVE-2024-21626-demo,laysakura/CVE-2024-21626-demo,751817784
 GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/cdxiaodong/CVE-2024-21626,cdxiaodong/CVE-2024-21626,751664848
 GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/Wall1e/CVE-2024-21626-POC,Wall1e/CVE-2024-21626-POC,751649154
 GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/NitroCao/CVE-2024-21626,NitroCao/CVE-2024-21626,751422888
 GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/zpxlz/CVE-2024-21626-POC,zpxlz/CVE-2024-21626-POC,751354058
 GHSA-XR7R-F8XQ-VFVV,0.50000000,https://github.com/Wall1e/CVE-2024-21626-POC,Wall1e/CVE-2024-21626-POC,751310449
-GHSA-XR7R-F8XQ-VFVV,0.00000343,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-XR7R-F8XQ-VFVV,0.00000342,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
