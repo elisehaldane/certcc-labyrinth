@@ -18,7 +18,6 @@ VU#29,1.00000000,https://github.com/EarthToAccess/Vowels,EarthToAccess/Vowels,53
 VU#29,1.00000000,https://github.com/r3x5ur/webshell-free,r3x5ur/webshell-free,525626838
 VU#29,1.00000000,https://github.com/jacvbtaylor/PythonReverseShell,jacvbtaylor/PythonReverseShell,519800231
 VU#29,1.00000000,https://github.com/yu1hpa/blog,yu1hpa/blog,487443704
-VU#29,1.00000000,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#29,1.00000000,https://github.com/x-j-j/vulnable,x-j-j/vulnable,464032302
 VU#29,1.00000000,https://github.com/psfargo/darkmodder,psfargo/darkmodder,457374491
 VU#29,1.00000000,https://github.com/ps4md/ps4md.github.io,ps4md/ps4md.github.io,450960077
@@ -46,6 +45,7 @@ VU#29,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
 VU#29,0.50000000,https://github.com/CTF-Games/Game-number-1,CTF-Games/Game-number-1,501989430
 VU#29,0.50000000,https://github.com/0730Nophone/CVE-2022-22947-,0730Nophone/CVE-2022-22947-,492894023
 VU#29,0.50000000,https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511,Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511,487194778
+VU#29,0.50000000,https://github.com/GamerHack/GamerHack.github.io,GamerHack/GamerHack.github.io,481826601
 VU#29,0.50000000,https://github.com/bennytrt/roblox-carmel-exploit,bennytrt/roblox-carmel-exploit,481760559
 VU#29,0.50000000,https://github.com/Aakash-Bhati/reactjs-project,Aakash-Bhati/reactjs-project,473235184
 VU#29,0.50000000,https://github.com/Enokiy/cve-2022-22947-spring-cloud-gateway,Enokiy/cve-2022-22947-spring-cloud-gateway,472548304
@@ -548,7 +548,7 @@ VU#29,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Ex
 VU#29,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#29,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#29,0.00087032,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00086881,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -588,12 +588,12 @@ VU#29,0.00019369,https://github.com/jieying-src/Endpoint-Forecasting-and-Interpr
 VU#29,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
 VU#29,0.00019209,https://github.com/rungga/Metasploit,rungga/Metasploit,717737262
 VU#29,0.00019209,https://github.com/Tushar-ArmorCode/rapid7-metasploit-framework,Tushar-ArmorCode/rapid7-metasploit-framework,716901052
-VU#29,0.00019201,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/metasploit-framework,728127870
 VU#29,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#29,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#29,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#29,0.00019095,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#29,0.00019091,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
