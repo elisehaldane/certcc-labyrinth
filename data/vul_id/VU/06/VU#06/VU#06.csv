@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#06,1.00000000,https://github.com/AymanRbati/appsec-scripts,AymanRbati/appsec-scripts,519871096
 VU#06,1.00000000,https://github.com/Codeta12/test,Codeta12/test,489149437
+VU#06,0.50000000,https://github.com/Badyss/Pentest-Nessus,Badyss/Pentest-Nessus,752698844
 VU#06,0.50000000,https://github.com/TwoTwoFixeris/Top1ExploitWinlocker,TwoTwoFixeris/Top1ExploitWinlocker,609121490
 VU#06,0.33333333,https://github.com/smartinternz02/SI-GuidedProject-525182-1688199513,smartinternz02/SI-GuidedProject-525182-1688199513,660921707
 VU#06,0.33333333,https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,John-Ghaly88/Ethical_Hacking_and_Penetration_Testing,511662006
@@ -82,6 +83,7 @@ VU#06,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#06,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#06,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#06,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
+VU#06,0.02631579,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#06,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#06,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#06,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
