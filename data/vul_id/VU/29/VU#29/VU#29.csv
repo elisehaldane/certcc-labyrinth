@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/theGEBIRGE/Remote-Code-Execution-as-a-Service,theGEBIRGE/Remote-Code-Execution-as-a-Service,753096828
 VU#29,1.00000000,https://github.com/DarkCloud5893/PS5-Exploit-Host,DarkCloud5893/PS5-Exploit-Host,740388950
 VU#29,1.00000000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
@@ -407,6 +408,7 @@ VU#29,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#29,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#29,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#29,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
+VU#29,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 VU#29,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -597,7 +599,7 @@ VU#29,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#29,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#29,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#29,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00019077,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00019069,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

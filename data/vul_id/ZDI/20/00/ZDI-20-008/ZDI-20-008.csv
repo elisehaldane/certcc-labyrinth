@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-20-008,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 ZDI-20-008,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZDI-20-008,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 ZDI-20-008,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
