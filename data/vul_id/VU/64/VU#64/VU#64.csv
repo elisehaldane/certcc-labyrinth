@@ -90,10 +90,10 @@ VU#64,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-jav
 VU#64,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
-VU#64,0.05000000,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#64,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#64,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
 VU#64,0.05000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
+VU#64,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#64,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#64,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#64,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
@@ -291,7 +291,7 @@ VU#64,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#64,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#64,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#64,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#64,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#64,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#64,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#64,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#64,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616

@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
 VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
-VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
+VU#51,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
 VU#51,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#51,0.33333333,https://github.com/Malwareman007/CVE-2023-34362,Malwareman007/CVE-2023-34362,664363660
 VU#51,0.33333333,https://github.com/horizon3ai/CVE-2023-34362,horizon3ai/CVE-2023-34362,651666895
@@ -177,6 +177,7 @@ VU#51,0.01219512,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-
 VU#51,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#51,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#51,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#51,0.01111111,https://github.com/Gurusakthivel2004/Exploits-and-Attacks,Gurusakthivel2004/Exploits-and-Attacks,753749059
 VU#51,0.01111111,https://github.com/stevegee1/Exploit,stevegee1/Exploit,752508870
 VU#51,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,alinciprian/sc-minimized-exploits-working,743551159
 VU#51,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
@@ -198,7 +199,7 @@ VU#51,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#51,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#51,0.00980392,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#51,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#51,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#51,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#51,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#51,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#51,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -232,7 +233,7 @@ VU#51,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#51,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#51,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#51,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#51,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#51,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#51,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#51,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#51,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801

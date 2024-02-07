@@ -72,10 +72,10 @@ VU#20,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,34292686
 VU#20,0.05555556,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#20,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#20,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
-VU#20,0.05000000,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#20,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#20,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#20,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
+VU#20,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#20,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#20,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#20,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
@@ -129,6 +129,7 @@ VU#20,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/Lu
 VU#20,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#20,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#20,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
+VU#20,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
 VU#20,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#20,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#20,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
@@ -161,6 +162,7 @@ VU#20,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#20,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#20,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#20,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#20,0.01111111,https://github.com/Gurusakthivel2004/Exploits-and-Attacks,Gurusakthivel2004/Exploits-and-Attacks,753749059
 VU#20,0.01111111,https://github.com/stevegee1/Exploit,stevegee1/Exploit,752508870
 VU#20,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,alinciprian/sc-minimized-exploits-working,743551159
 VU#20,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
@@ -184,7 +186,7 @@ VU#20,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#20,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#20,0.00980392,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#20,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#20,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#20,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#20,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#20,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#20,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -227,7 +229,7 @@ VU#20,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#20,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#20,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#20,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#20,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#20,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#20,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#20,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#20,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801

@@ -4,7 +4,8 @@ VU#17,1.00000000,https://github.com/Exploiterarmy/exploiterarmy.github.io,Exploi
 VU#17,1.00000000,https://github.com/DavidBuchanan314/monomorph,DavidBuchanan314/monomorph,541353333
 VU#17,1.00000000,https://github.com/boomshy/sample_shellcode,boomshy/sample_shellcode,379888981
 VU#17,1.00000000,https://github.com/dithpri/RCES,dithpri/RCES,269526488
-VU#17,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
+VU#17,0.50000000,https://github.com/cran/tsdataleaks,cran/tsdataleaks,753908478
+VU#17,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
 VU#17,0.50000000,https://github.com/yuno19/exploit,yuno19/exploit,440249410
 VU#17,0.50000000,https://github.com/zehadkhan/Seeker_Ngrok,zehadkhan/Seeker_Ngrok,427534040
 VU#17,0.50000000,https://github.com/mrknow001/xxl-job-rce,mrknow001/xxl-job-rce,309089341
@@ -157,6 +158,7 @@ VU#17,0.01612903,https://github.com/chacka0101/exploits,chacka0101/exploits,2549
 VU#17,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#17,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#17,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
+VU#17,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
 VU#17,0.01492537,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#17,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#17,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
@@ -241,7 +243,7 @@ VU#17,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#17,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#17,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#17,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#17,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#17,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#17,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#17,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#17,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
