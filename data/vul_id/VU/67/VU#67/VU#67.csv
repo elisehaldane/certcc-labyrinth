@@ -7,6 +7,7 @@ VU#67,1.00000000,https://github.com/Desm0ndChan/AWS-LambdaRCE,Desm0ndChan/AWS-La
 VU#67,1.00000000,https://github.com/RETIREglitch/Pokemon-Research,RETIREglitch/Pokemon-Research,307504052
 VU#67,1.00000000,https://github.com/ES-DOC-INSTITUTIONAL/as-rcec,ES-DOC-INSTITUTIONAL/as-rcec,161522041
 VU#67,0.50000000,https://github.com/kamal-marouane/CVE-2022-28346,kamal-marouane/CVE-2022-28346,745257468
+VU#67,0.50000000,https://github.com/E1A/CVE-2023-4596,E1A/CVE-2023-4596,685284508
 VU#67,0.50000000,https://github.com/ireshchaminda1/System-Exploitation-May-2021-,ireshchaminda1/System-Exploitation-May-2021-,599378734
 VU#67,0.50000000,https://github.com/KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability,KasunPriyashan/Y2S1-Project-Linux-Exploitaion-using-CVE-2016-5195-Vulnerability,448816135
 VU#67,0.50000000,https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195,nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195,448285466
@@ -133,6 +134,7 @@ VU#67,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22
 VU#67,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#67,0.01666667,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#67,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#67,0.01639344,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#67,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#67,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#67,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
@@ -166,6 +168,7 @@ VU#67,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,Ol
 VU#67,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#67,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#67,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#67,0.01111111,https://github.com/alfheimrShiven/sc-exploits,alfheimrShiven/sc-exploits,754754436
 VU#67,0.01111111,https://github.com/Gurusakthivel2004/Exploits-and-Attacks,Gurusakthivel2004/Exploits-and-Attacks,753749059
 VU#67,0.01111111,https://github.com/stevegee1/Exploit,stevegee1/Exploit,752508870
 VU#67,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,alinciprian/sc-minimized-exploits-working,743551159
@@ -177,7 +180,6 @@ VU#67,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,B
 VU#67,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#67,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#67,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#67,0.01063830,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#67,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#67,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#67,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125

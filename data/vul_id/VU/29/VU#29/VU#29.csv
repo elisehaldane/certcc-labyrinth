@@ -27,7 +27,6 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
-VU#29,0.50000000,https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness,peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness,754667886
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467-Exploit,JaneMandy/CVE-2023-51467-Exploit,739631896
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467,JaneMandy/CVE-2023-51467,736831199
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
@@ -58,6 +57,7 @@ VU#29,0.50000000,https://github.com/skywalke34/struts-demo,skywalke34/struts-dem
 VU#29,0.50000000,https://github.com/m8sec/EAPrimer,m8sec/EAPrimer,298064170
 VU#29,0.50000000,https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,257829329
 VU#29,0.50000000,https://github.com/Ridter/cve-2020-0688,Ridter/cve-2020-0688,243416592
+VU#29,0.33333333,https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness,peter-lgxj/Exploiting_Doubly_Adversarial_Examples_for_Improving_Adversarial_Robustness,754667886
 VU#29,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#29,0.33333333,https://github.com/Whoopsunix/JavaRce,Whoopsunix/JavaRce,680058417
 VU#29,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
@@ -396,6 +396,7 @@ VU#29,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#29,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#29,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#29,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#29,0.01111111,https://github.com/alfheimrShiven/sc-exploits,alfheimrShiven/sc-exploits,754754436
 VU#29,0.01111111,https://github.com/Gurusakthivel2004/Exploits-and-Attacks,Gurusakthivel2004/Exploits-and-Attacks,753749059
 VU#29,0.01111111,https://github.com/stevegee1/Exploit,stevegee1/Exploit,752508870
 VU#29,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,alinciprian/sc-minimized-exploits-working,743551159
@@ -406,7 +407,6 @@ VU#29,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#29,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#29,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#29,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#29,0.01063830,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#29,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#29,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#29,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
