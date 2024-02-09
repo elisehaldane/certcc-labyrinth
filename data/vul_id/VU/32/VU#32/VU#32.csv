@@ -6,6 +6,7 @@ VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,5226
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
 VU#32,0.50000000,https://github.com/Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,731097967
+VU#32,0.50000000,https://github.com/sufyandaredevil/OSED,sufyandaredevil/OSED,693617848
 VU#32,0.50000000,https://github.com/Kvrr0bux/KrvHub-Roblox-Script,Kvrr0bux/KrvHub-Roblox-Script,672604786
 VU#32,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
 VU#32,0.50000000,https://github.com/muh404med/BOF-http-service,muh404med/BOF-http-service,672295621
@@ -104,7 +105,6 @@ VU#32,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithin
 VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#32,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
-VU#32,0.10000000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
 VU#32,0.09090909,https://github.com/DashaMilitskaya/cve_2023_21822,DashaMilitskaya/cve_2023_21822,745578718
@@ -113,6 +113,7 @@ VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/explo
 VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#32,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
+VU#32,0.07692308,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#32,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#32,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
