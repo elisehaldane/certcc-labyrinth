@@ -18,7 +18,6 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
-VU#18,0.50000000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#18,0.50000000,https://github.com/prox11/CTF-Writeups,prox11/CTF-Writeups,708758138
 VU#18,0.50000000,https://github.com/maldev866/ChExp_CVE_2020_16040,maldev866/ChExp_CVE_2020_16040,610694918
 VU#18,0.50000000,https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,602909174
@@ -137,6 +136,7 @@ VU#18,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563
 VU#18,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#18,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#18,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
+VU#18,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#18,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#18,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#18,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
@@ -315,6 +315,7 @@ VU#18,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,al
 VU#18,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
 VU#18,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#18,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
+VU#18,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#18,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#18,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#18,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
