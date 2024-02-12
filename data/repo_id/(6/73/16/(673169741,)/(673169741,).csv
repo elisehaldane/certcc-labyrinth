@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/GOPComplex.efi,49cae27b317e818d1ccd2fc6aba214bf53de6c8e,VU#64
+673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/GOPComplex.efi,49984c8ffe83fa54182d91919e93817da83da118,VU#64
 673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/UEFISelfRep.efi,4ae21d9859440fd47e854e7f87fd9d23341e9194,VU#64
