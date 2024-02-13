@@ -1,7 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#240,0.14285714,https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,756534030
 VU#240,0.14285714,https://github.com/jj4152/cve-2021-1675,jj4152/cve-2021-1675,557145507
 VU#240,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#240,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
+VU#240,0.12500000,https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527,whoami-chmod777/CVE-2021-1675-CVE-2021-34527,756532685
 VU#240,0.12500000,https://github.com/cyb3rpeace/CVE-2021-34527,cyb3rpeace/CVE-2021-34527,507019653
 VU#240,0.12500000,https://github.com/sh7alward/CVE-20121-34527-nightmare,sh7alward/CVE-20121-34527-nightmare,438151074
 VU#240,0.08333333,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024

@@ -71,11 +71,13 @@ VU#69,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-
 VU#69,0.16666667,https://github.com/Charlie0257/T2TL,Charlie0257/T2TL,515790479
 VU#69,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#69,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
+VU#69,0.14285714,https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,756534030
 VU#69,0.14285714,https://github.com/jj4152/cve-2021-1675,jj4152/cve-2021-1675,557145507
 VU#69,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#69,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
 VU#69,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
 VU#69,0.14285714,https://github.com/saferwall/malware-souk,saferwall/malware-souk,360327405
+VU#69,0.12500000,https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527,whoami-chmod777/CVE-2021-1675-CVE-2021-34527,756532685
 VU#69,0.12500000,https://github.com/adH08/Tom-Exploit,adH08/Tom-Exploit,612382423
 VU#69,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
 VU#69,0.12500000,https://github.com/cyb3rpeace/CVE-2021-34527,cyb3rpeace/CVE-2021-34527,507019653
@@ -294,7 +296,7 @@ VU#69,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVERevie
 VU#69,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#69,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#69,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#69,0.00671141,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#69,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#69,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#69,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#69,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
