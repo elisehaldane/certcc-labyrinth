@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#53,1.00000000,https://github.com/boschresearch/Hyp-OW,boschresearch/Hyp-OW,757197237
+VU#53,1.00000000,https://github.com/tldoan/-HYP-OW-AAAI-2024-,tldoan/-HYP-OW-AAAI-2024-,753175337
 VU#53,1.00000000,https://github.com/Cat1tom/RobloxExploits,Cat1tom/RobloxExploits,715639910
 VU#53,1.00000000,https://github.com/kdRajKit/KERNEL-HIDING,kdRajKit/KERNEL-HIDING,668348500
 VU#53,1.00000000,https://github.com/teloryfrozy/Lumatic-BannerBomb3,teloryfrozy/Lumatic-BannerBomb3,649265535
@@ -333,3 +335,4 @@ VU#53,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#53,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#53,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#53,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
+VU#53,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
