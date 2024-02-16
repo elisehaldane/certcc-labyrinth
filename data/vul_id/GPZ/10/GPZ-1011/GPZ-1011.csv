@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1011,0.50000000,https://github.com/chattopadhyaykittu/CVE-2017-0037,chattopadhyaykittu/CVE-2017-0037,474803763
 GPZ-1011,0.02777778,https://github.com/LyleMi/dom-vuln-db,LyleMi/dom-vuln-db,150569712
 GPZ-1011,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
-GPZ-1011,0.00061350,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GPZ-1011,0.00061275,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GPZ-1011,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GPZ-1011,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 GPZ-1011,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -39,6 +39,7 @@ GPZ-1011,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,66889
 GPZ-1011,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
 GPZ-1011,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
 GPZ-1011,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
+GPZ-1011,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 GPZ-1011,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GPZ-1011,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GPZ-1011,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
