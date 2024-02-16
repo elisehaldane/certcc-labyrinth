@@ -18,7 +18,6 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
-VU#18,0.50000000,https://github.com/uday-009/nextjs-rce,uday-009/nextjs-rce,758041297
 VU#18,0.50000000,https://github.com/prox11/CTF-Writeups,prox11/CTF-Writeups,708758138
 VU#18,0.50000000,https://github.com/maldev866/ChExp_CVE_2020_16040,maldev866/ChExp_CVE_2020_16040,610694918
 VU#18,0.50000000,https://github.com/Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,Lele962/Ethereum-Smart-Contract-Automated-Vulnerability-Detection-and-Verification-Tool,602909174
@@ -40,6 +39,7 @@ VU#18,0.50000000,https://github.com/summit-defi/grim-users-shares,summit-defi/gr
 VU#18,0.50000000,https://github.com/hihiben/exploit_simulation_template,hihiben/exploit_simulation_template,424849082
 VU#18,0.50000000,https://github.com/agrarian-systems-consulting/endagri-front,agrarian-systems-consulting/endagri-front,271640691
 VU#18,0.50000000,https://github.com/AS400JPLPC/nim_termcurs,AS400JPLPC/nim_termcurs,258618257
+VU#18,0.33333333,https://github.com/uday-009/nextjs-rce,uday-009/nextjs-rce,758041297
 VU#18,0.33333333,https://github.com/justaCasualCoder/G900A-TWRP-ROM,justaCasualCoder/G900A-TWRP-ROM,754277338
 VU#18,0.33333333,https://github.com/elclandestin0/insurance-platform,elclandestin0/insurance-platform,728328078
 VU#18,0.33333333,https://github.com/b0songsong/CodeEngn-RCE,b0songsong/CodeEngn-RCE,721034395
