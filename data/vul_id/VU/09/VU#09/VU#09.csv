@@ -15,6 +15,7 @@ VU#09,0.50000000,https://github.com/momo1239/buffshark-shellcode-runner,momo1239
 VU#09,0.50000000,https://github.com/x6t/vc-exploit,x6t/vc-exploit,419883426
 VU#09,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,418013307
 VU#09,0.33333333,https://github.com/alex-picoulet/s2.04ExploitationBaseDeDonnees,alex-picoulet/s2.04ExploitationBaseDeDonnees,754711475
+VU#09,0.33333333,https://github.com/d33kshant/execode,d33kshant/execode,749280608
 VU#09,0.33333333,https://github.com/DevSploitForums/DevSploitUpdated,DevSploitForums/DevSploitUpdated,608888419
 VU#09,0.33333333,https://github.com/DevSploitForums/DevSploit,DevSploitForums/DevSploit,608455849
 VU#09,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
@@ -236,6 +237,7 @@ VU#09,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemoca
 VU#09,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#09,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
 VU#09,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
+VU#09,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#09,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#09,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#09,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
@@ -438,7 +440,7 @@ VU#09,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#09,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#09,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#09,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#09,0.00019069,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#09,0.00019059,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#09,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#09,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
