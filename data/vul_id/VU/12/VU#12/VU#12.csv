@@ -97,7 +97,7 @@ VU#12,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Tri
 VU#12,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#12,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
 VU#12,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
-VU#12,0.02631579,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
+VU#12,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#12,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#12,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#12,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
@@ -214,6 +214,8 @@ VU#12,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#12,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#12,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#12,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
+VU#12,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
+VU#12,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#12,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#12,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#12,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444

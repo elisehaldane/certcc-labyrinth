@@ -21,10 +21,10 @@ VU#42,0.33333333,https://github.com/cscadoge/weblogic-cve-2018-2628,cscadoge/web
 VU#42,0.33333333,https://github.com/karimSalem25/Ethical_Hacking_and_Penetration_Testing,karimSalem25/Ethical_Hacking_and_Penetration_Testing,512165280
 VU#42,0.33333333,https://github.com/WhiteHacker-P/Evil-Termux,WhiteHacker-P/Evil-Termux,487606225
 VU#42,0.33333333,https://github.com/WagleTanvi/UnlearnableExamplesAnalysis,WagleTanvi/UnlearnableExamplesAnalysis,449121363
+VU#42,0.25000000,https://github.com/mondrasovic/vectorization_presentation,mondrasovic/vectorization_presentation,735270060
 VU#42,0.25000000,https://github.com/Vbedtt54e5/interesting-release-of-CVE-2022-63432,Vbedtt54e5/interesting-release-of-CVE-2022-63432,508608509
 VU#42,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#42,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
-VU#42,0.20000000,https://github.com/mondrasovic/vectorization_presentation,mondrasovic/vectorization_presentation,735270060
 VU#42,0.20000000,https://github.com/krishpranav/vuln-scanner-flask,krishpranav/vuln-scanner-flask,355091423
 VU#42,0.20000000,https://github.com/meowmeowxw/kernel-exploits,meowmeowxw/kernel-exploits,340351462
 VU#42,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizalsewedy/CVE-2021-29447,567344895
@@ -96,7 +96,7 @@ VU#42,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,4005
 VU#42,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#42,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#42,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
-VU#42,0.02631579,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
+VU#42,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#42,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#42,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#42,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
@@ -115,6 +115,8 @@ VU#42,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-sc
 VU#42,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#42,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#42,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
+VU#42,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
+VU#42,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#42,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#42,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#42,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
