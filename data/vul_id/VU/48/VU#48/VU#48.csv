@@ -93,6 +93,7 @@ VU#48,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysi
 VU#48,0.03571429,https://github.com/sploitem/WebKitPwn,sploitem/WebKitPwn,633963768
 VU#48,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#48,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#48,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#48,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#48,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#48,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
@@ -271,8 +272,8 @@ VU#48,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#48,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#48,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#48,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#48,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#48,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
+VU#48,0.00462963,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#48,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#48,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#48,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -367,7 +368,7 @@ VU#48,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#48,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-VU#48,0.00001052,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00001051,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

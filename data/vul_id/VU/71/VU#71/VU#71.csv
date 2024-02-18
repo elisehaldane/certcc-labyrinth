@@ -10,7 +10,6 @@ VU#71,0.50000000,https://github.com/featherL/CVE-2022-0185-exploit,featherL/CVE-
 VU#71,0.50000000,https://github.com/razordeveloper/XLL-Excel-Exploit,razordeveloper/XLL-Excel-Exploit,470355525
 VU#71,0.50000000,https://github.com/JackDotExee/Google-slides-crash,JackDotExee/Google-slides-crash,457863956
 VU#71,0.50000000,https://github.com/razordeveloper/Warzone-XLL-Excel-Exploit-Crack,razordeveloper/Warzone-XLL-Excel-Exploit-Crack,454591901
-VU#71,0.33333333,https://github.com/OracleNep/nday-exploit,OracleNep/nday-exploit,755821480
 VU#71,0.33333333,https://github.com/iluaboltov/EnE,iluaboltov/EnE,726270547
 VU#71,0.33333333,https://github.com/HunterZREBORN/hunterzreborn.github.io,HunterZREBORN/hunterzreborn.github.io,701980378
 VU#71,0.33333333,https://github.com/AnimeGirlPlex/RealmAPI,AnimeGirlPlex/RealmAPI,692559460
@@ -21,6 +20,7 @@ VU#71,0.33333333,https://github.com/scoobs79/Synapse-X-3-3-2023-,scoobs79/Synaps
 VU#71,0.33333333,https://github.com/aweiiy/CVE-2021-43617,aweiiy/CVE-2021-43617,520832418
 VU#71,0.33333333,https://github.com/shatternox/Forest-Fire,shatternox/Forest-Fire,520567378
 VU#71,0.33333333,https://github.com/TyeYeah/DIR-890L-1.20-RCE,TyeYeah/DIR-890L-1.20-RCE,476281239
+VU#71,0.25000000,https://github.com/OracleNep/nday-exploit,OracleNep/nday-exploit,755821480
 VU#71,0.25000000,https://github.com/tucommenceapousser/CVE-2019-11932deta,tucommenceapousser/CVE-2019-11932deta,696211441
 VU#71,0.25000000,https://github.com/YuriLappy/Metasploitable2,YuriLappy/Metasploitable2,694789729
 VU#71,0.25000000,https://github.com/Laurikes/synapse,Laurikes/synapse,694125869
@@ -306,8 +306,8 @@ VU#71,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#71,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#71,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#71,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#71,0.00505051,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#71,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
+VU#71,0.00462963,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#71,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#71,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#71,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
