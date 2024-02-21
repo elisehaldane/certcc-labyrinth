@@ -49,7 +49,6 @@ VU#46,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-
 VU#46,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#46,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#46,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
-VU#46,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#46,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#46,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#46,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
@@ -58,6 +57,7 @@ VU#46,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/
 VU#46,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
 VU#46,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#46,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
+VU#46,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#46,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#46,0.06250000,https://github.com/hrbrmstr/kev-push,hrbrmstr/kev-push,541155464
 VU#46,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
@@ -328,7 +328,7 @@ VU#46,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#46,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#46,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#46,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#46,0.00019059,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#46,0.00019048,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#46,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#46,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#46,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

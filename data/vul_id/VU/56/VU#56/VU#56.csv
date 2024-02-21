@@ -76,7 +76,6 @@ VU#56,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2
 VU#56,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#56,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
 VU#56,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
-VU#56,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#56,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#56,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#56,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
@@ -86,6 +85,7 @@ VU#56,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT
 VU#56,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#56,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#56,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
+VU#56,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#56,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#56,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#56,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410

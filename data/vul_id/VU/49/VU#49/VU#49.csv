@@ -68,7 +68,6 @@ VU#49,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyT
 VU#49,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#49,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#49,0.07692308,https://github.com/Holifkly/Holifkly,Holifkly/Holifkly,730428469
-VU#49,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#49,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#49,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#49,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
@@ -83,6 +82,7 @@ VU#49,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3
 VU#49,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#49,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#49,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
+VU#49,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#49,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#49,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#49,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
@@ -235,8 +235,8 @@ VU#49,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#49,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#49,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#49,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
-VU#49,0.01639344,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#49,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
+VU#49,0.01612903,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#49,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#49,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#49,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
@@ -453,7 +453,7 @@ VU#49,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#49,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#49,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#49,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#49,0.00019059,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#49,0.00019048,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#49,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#49,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#49,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

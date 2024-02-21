@@ -40,7 +40,6 @@ VU#28,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
 VU#28,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#28,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#28,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
-VU#28,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#28,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#28,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#28,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
@@ -50,6 +49,7 @@ VU#28,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/
 VU#28,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#28,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#28,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
+VU#28,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#28,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#28,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#28,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
@@ -346,7 +346,7 @@ VU#28,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#28,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#28,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#28,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#28,0.00019059,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#28,0.00019048,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#28,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#28,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#28,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

@@ -35,6 +35,7 @@ VU#13,0.12500000,https://github.com/itsamirac1e/Offensive_Security_CTF_UT-A,itsa
 VU#13,0.12500000,https://github.com/kuldeepkrjha/AIRSPECTER,kuldeepkrjha/AIRSPECTER,660199905
 VU#13,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#13,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
+VU#13,0.11111111,https://github.com/AndreaEnricoFranzoni/Computational_statistics_project,AndreaEnricoFranzoni/Computational_statistics_project,760152068
 VU#13,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/the-dao-hack-simulation,504780684
 VU#13,0.10000000,https://github.com/XuGW-Kevin/DrM,XuGW-Kevin/DrM,744360504
 VU#13,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
@@ -43,7 +44,6 @@ VU#13,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Mod
 VU#13,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#13,0.09090909,https://github.com/redtimmy/Richsploit,redtimmy/Richsploit,245462807
 VU#13,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
-VU#13,0.07692308,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#13,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#13,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#13,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
@@ -52,6 +52,7 @@ VU#13,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-r
 VU#13,0.06666667,https://github.com/jchenghu/ExpansionNet_v2,jchenghu/ExpansionNet_v2,524144534
 VU#13,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#13,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
+VU#13,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#13,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
 VU#13,0.06250000,https://github.com/Zhaocy-Research/TransformerST,Zhaocy-Research/TransformerST,510563607
 VU#13,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,510875629
@@ -125,8 +126,8 @@ VU#13,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#13,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#13,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#13,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
-VU#13,0.01639344,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#13,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
+VU#13,0.01612903,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#13,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#13,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#13,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
@@ -333,13 +334,13 @@ VU#13,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#13,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#13,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#13,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#13,0.00019059,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#13,0.00019048,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#13,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#13,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#13,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#13,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#13,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
-VU#13,0.00001049,https://github.com/trickest/cve,trickest/cve,454015416
+VU#13,0.00001048,https://github.com/trickest/cve,trickest/cve,454015416
 VU#13,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 VU#13,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 VU#13,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
