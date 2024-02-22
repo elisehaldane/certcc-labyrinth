@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+761396535,alien-keric/webmin-v1.580-exploit,README.md,44b9880fd866d3a4f558022b8247e1da80f5be41,CVE-2012-2982
