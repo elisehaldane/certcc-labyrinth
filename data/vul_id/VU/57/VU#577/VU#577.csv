@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#577,1.00000000,https://github.com/hackersploitxxsploitation/Exploit-material,hackersploitxxsploitation/Exploit-material,722747406
 VU#577,1.00000000,https://github.com/cristhianmt/tryhackme,cristhianmt/tryhackme,492590631
 VU#577,1.00000000,https://github.com/aW3ikun/Modern_Windows_Exploit_Development,aW3ikun/Modern_Windows_Exploit_Development,438576357
-VU#577,0.25000000,https://github.com/mondrasovic/vectorization_presentation,mondrasovic/vectorization_presentation,735270060
 VU#577,0.25000000,https://github.com/gikabyte27/Pentest,gikabyte27/Pentest,300961124
 VU#577,0.16666667,https://github.com/iamvincenzo/UltraleapPoolGameDemo,iamvincenzo/UltraleapPoolGameDemo,613393534
 VU#577,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
