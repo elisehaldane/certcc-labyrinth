@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+762009723,KaanSK/go-epss,epss_test.go,d0d56b61a22ff99d4204687811f8b963fe90245b,CVE-1999-0001
+762009723,KaanSK/go-epss,epss_test.go,d0d56b61a22ff99d4204687811f8b963fe90245b,CVE-1999-0002
+762009723,KaanSK/go-epss,README.md,d667d2e0d70ec7c5a9277a5855047aa573aa9d2e,CVE-1999-0002
