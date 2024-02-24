@@ -172,6 +172,7 @@ VU#48,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,62857001
 VU#48,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,theaidev/Linux-Kernel-Exploitation-Papers,556377051
 VU#48,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#48,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
+VU#48,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
 VU#48,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#48,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#48,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
@@ -216,6 +217,7 @@ VU#48,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#48,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#48,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#48,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+VU#48,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#48,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#48,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#48,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -362,7 +364,7 @@ VU#48,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#48,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#48,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#48,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#48,0.00019044,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#48,0.00019037,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#48,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#48,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#48,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -370,9 +372,9 @@ VU#48,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#48,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-VU#48,0.00001044,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00001042,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000384,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#48,0.00000341,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#48,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#48,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

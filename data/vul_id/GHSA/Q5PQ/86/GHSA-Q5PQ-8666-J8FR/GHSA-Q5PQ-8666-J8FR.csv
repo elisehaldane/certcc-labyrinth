@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-Q5PQ-8666-J8FR,0.02083333,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
-GHSA-Q5PQ-8666-J8FR,0.00001044,https://github.com/trickest/cve,trickest/cve,454015416
-GHSA-Q5PQ-8666-J8FR,0.00000341,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-Q5PQ-8666-J8FR,0.00001042,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-Q5PQ-8666-J8FR,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
