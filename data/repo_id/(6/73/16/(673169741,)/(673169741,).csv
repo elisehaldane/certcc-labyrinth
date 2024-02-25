@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/GOPComplex.efi,37e4918808e2b136b49ed3a4fdd17077896c52c2,VU#64
 673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/UEFISelfRep.efi,4ae21d9859440fd47e854e7f87fd9d23341e9194,VU#64
 673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/michelangelo-reanimator-1_pixelated.bmp,7bfb4795ca361965ccedc69a9169f8eaa920488f,VU#06
 673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/SmmCalloutDriver.efi,83cbf665e7348024d71a9d371e0faa2a98d1a1e5,VU#64
+673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/GOPComplex.efi,b247c8f97484f83924ca3fc3fd797fc03bf13cf4,VU#64
 673169741,ic3qu33n/uefi-getaway-driver,UEFI_bb_disk/michelangelo-reanimator-0_pixelated.bmp,b8b09148f293d3a5ba5a076a0d0d6d39a1f08363,VU#13
