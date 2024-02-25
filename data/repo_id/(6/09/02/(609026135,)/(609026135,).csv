@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 609026135,emo-crab/scap-rs,nvd-yew/src/component/cve_configuration.rs,162d7315677307d4bc0ca2e072914341d7064317,CVE-2023-0056
-609026135,emo-crab/scap-rs,extensions/index.html,1feabb891afb329da58f0f11b4f4098677ff99ba,CVE-2023-46805
+609026135,emo-crab/scap-rs,extensions/index.html,320726d04b1b628ee345b928dc543871231d13d1,CVE-2023-46805
 609026135,emo-crab/scap-rs,nvd-cvss/src/v4/attack_vector.rs,3b5810074cc97e6b8a8126dfa4d32bff23731bea,CVE-2004-0230
 609026135,emo-crab/scap-rs,nvd-cvss/src/v4/attack_vector.rs,3b5810074cc97e6b8a8126dfa4d32bff23731bea,CVE-2013-6014
 609026135,emo-crab/scap-rs,nvd-cwe/schema/cwe_schema_latest.xsd,6e946779adc6f1ed55da7f05de9e0af730039a5e,CVE-1999-0046
