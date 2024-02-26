@@ -6,10 +6,10 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS08-067
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS17-010
 264704306,aryanguenthner/365,ivre-nmap-scan-example-20210707.txt,07e3136d73961d5a7d905a06a109a83aac23434d,MS12-020
+264704306,aryanguenthner/365,kali-setup.sh,383423f8b97a9e3aa0ed03f3eef49d87e2fe358f,CVE-2019-11510
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS17-010
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS08-067
 264704306,aryanguenthner/365,ivre-setup.sh,4302009e15f658195364d75b0bab601bfff2f828,MS12-020
-264704306,aryanguenthner/365,kali-setup.sh,480a3c3ac1ef4daeca5c99bb0f49a5b3363d2d97,CVE-2019-11510
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#26
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#03
 264704306,aryanguenthner/365,cloudflared-linux-amd64.deb,53ac55239c71e5d37a3bd629fc968da5b4ecb807,VU#99
