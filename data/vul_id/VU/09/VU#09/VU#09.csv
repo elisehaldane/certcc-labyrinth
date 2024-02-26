@@ -14,6 +14,7 @@ VU#09,0.50000000,https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr,0x3SC4L4T3
 VU#09,0.50000000,https://github.com/momo1239/buffshark-shellcode-runner,momo1239/buffshark-shellcode-runner,430599967
 VU#09,0.50000000,https://github.com/x6t/vc-exploit,x6t/vc-exploit,419883426
 VU#09,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,418013307
+VU#09,0.33333333,https://github.com/hackervegas001/CVE-2024-26521,hackervegas001/CVE-2024-26521,758345985
 VU#09,0.33333333,https://github.com/alex-picoulet/s2.04ExploitationBaseDeDonnees,alex-picoulet/s2.04ExploitationBaseDeDonnees,754711475
 VU#09,0.33333333,https://github.com/d33kshant/execode,d33kshant/execode,749280608
 VU#09,0.33333333,https://github.com/DevSploitForums/DevSploitUpdated,DevSploitForums/DevSploitUpdated,608888419
@@ -297,6 +298,7 @@ VU#09,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysi
 VU#09,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#09,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
+VU#09,0.00980392,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 VU#09,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#09,0.00970874,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#09,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134

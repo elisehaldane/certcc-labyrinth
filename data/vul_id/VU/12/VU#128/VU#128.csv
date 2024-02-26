@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#128,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#128,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
-VU#128,0.03333333,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
+VU#128,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#128,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#128,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#128,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
