@@ -9,6 +9,7 @@ VU#47,1.00000000,https://github.com/KarmaDeb/LockLoginReborn,KarmaDeb/LockLoginR
 VU#47,1.00000000,https://github.com/handfields/go-rce-kubernetes,handfields/go-rce-kubernetes,340492086
 VU#47,1.00000000,https://github.com/MarioCSilva/Vulnerabilities_Exploitation,MarioCSilva/Vulnerabilities_Exploitation,317612363
 VU#47,1.00000000,https://github.com/ViRb3/apk-utilities,ViRb3/apk-utilities,167910540
+VU#47,0.50000000,https://github.com/TheFlash2k/ctf-writeups,TheFlash2k/ctf-writeups,747197102
 VU#47,0.50000000,https://github.com/ericchartier4/RCESaskAssistance,ericchartier4/RCESaskAssistance,705369082
 VU#47,0.50000000,https://github.com/heeloo123/CVE-2021-44228,heeloo123/CVE-2021-44228,616448829
 VU#47,0.50000000,https://github.com/eblair2/Ios15_exploits_POC,eblair2/Ios15_exploits_POC,499267218
@@ -249,7 +250,7 @@ VU#47,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,
 VU#47,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#47,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#47,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
-VU#47,0.01204819,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
+VU#47,0.01149425,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#47,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#47,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#47,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
