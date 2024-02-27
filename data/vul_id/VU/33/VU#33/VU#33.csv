@@ -8,6 +8,7 @@ VU#33,0.50000000,https://github.com/shinoTM/Saturne-Exploit,shinoTM/Saturne-Expl
 VU#33,0.50000000,https://github.com/b4sm/multi-shellcode-runner,b4sm/multi-shellcode-runner,497385588
 VU#33,0.50000000,https://github.com/EnzoPottez/Exploitation_forestiere,EnzoPottez/Exploitation_forestiere,452576102
 VU#33,0.33333333,https://github.com/samu63cs/DSiXploit-deprecated-nouseplease,samu63cs/DSiXploit-deprecated-nouseplease,763243861
+VU#33,0.33333333,https://github.com/Hack-Oeil/COMMAND_INJECTION_NSLOOKUP,Hack-Oeil/COMMAND_INJECTION_NSLOOKUP,720510656
 VU#33,0.33333333,https://github.com/CharonDefalt/printer-exploit,CharonDefalt/printer-exploit,665012852
 VU#33,0.33333333,https://github.com/InterShip-2023/Exploit-Elite,InterShip-2023/Exploit-Elite,658206671
 VU#33,0.33333333,https://github.com/reject-all/php-self-exploit,reject-all/php-self-exploit,550390643
@@ -245,7 +246,7 @@ VU#33,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#33,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#33,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#33,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#33,0.00970874,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#33,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#33,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#33,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#33,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
