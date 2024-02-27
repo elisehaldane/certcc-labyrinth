@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+763018096,hearsecurity/Exploits,debian.zip,432f3003fee0f059e2d30e5b07188d0afc05d847,CVE-2021-4034
+763018096,hearsecurity/Exploits,debian.zip,432f3003fee0f059e2d30e5b07188d0afc05d847,CVE-2021-3156
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2004-0077
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-1000379
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-1000371
@@ -11,8 +13,8 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-9793
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-9566
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-8655
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-6663
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-16995
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-6664
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-6662
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-5425
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-5195
@@ -23,11 +25,10 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-1531
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-1247
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-1240
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-0728
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-6663
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-9322
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-6664
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-5618
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-6074
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2016-0728
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,GPZ-1712
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,GPZ-1072
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2022-32250
@@ -54,8 +55,8 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2017-7308
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2019-18862
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,GPZ-1903
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-8660
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-6565
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-9322
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-8612
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2010-4347
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2010-4170
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2010-4073
@@ -81,9 +82,10 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2004-1235
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2004-0186
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2010-0832
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-8612
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2011-2921
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2012-0056
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2012-0809
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-6565
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-5287
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-3315
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-3290
@@ -95,8 +97,8 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-1328
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-1318
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-9322
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2012-0056
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-5207
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-5119
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-4943
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-4699
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-4014
@@ -108,6 +110,5 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2013-1959
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2013-1858
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2013-0268
-763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-5119
+763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2015-8660
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,GPZ-808
-763018096,hearsecurity/Exploits,pwnkit.zip,89f814d8ac8a3b6cf4b1050c70b4c136de899b1e,CVE-2021-4034
