@@ -110,3 +110,4 @@ repo_id,repo_full_name,file,file_sha1,match
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2013-0268
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,CVE-2014-5119
 763018096,hearsecurity/Exploits,les.sh,81733d4f0e7b1fa7c72b8e74ae2972c1440067f1,GPZ-808
+763018096,hearsecurity/Exploits,pwnkit.zip,89f814d8ac8a3b6cf4b1050c70b4c136de899b1e,CVE-2021-4034
