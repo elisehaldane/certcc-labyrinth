@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-676J-XRV3-73VC,0.00001040,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-676J-XRV3-73VC,0.00001039,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-676J-XRV3-73VC,0.00000373,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-676J-XRV3-73VC,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
