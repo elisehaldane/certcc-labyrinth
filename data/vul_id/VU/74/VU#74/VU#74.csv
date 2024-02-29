@@ -12,7 +12,6 @@ VU#74,0.50000000,https://github.com/p0dalirius/JoGet-plugin-webshell,p0dalirius/
 VU#74,0.50000000,https://github.com/AnonymPlayer2/TL-Exploit,AnonymPlayer2/TL-Exploit,458954886
 VU#74,0.33333333,https://github.com/charonlight/NacosExploitGUI,charonlight/NacosExploitGUI,706668777
 VU#74,0.33333333,https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3,TechnicalForumResearcher/DuplicateDetectionWithGPT3,700450885
-VU#74,0.33333333,https://github.com/cultureelerfgoed/Axiell-thesauri,cultureelerfgoed/Axiell-thesauri,698222907
 VU#74,0.33333333,https://github.com/Spard2/ps4exploit,Spard2/ps4exploit,680274970
 VU#74,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
 VU#74,0.33333333,https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection,siegfrkn/CSCI5403_CVE20220847_Detection,568584383
@@ -30,6 +29,7 @@ VU#74,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/Roblox
 VU#74,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_paper,384251587
 VU#74,0.33333333,https://github.com/driesdaems10/Resoc,driesdaems10/Resoc,306957643
 VU#74,0.25000000,https://github.com/AYUSHXWD09/DESTROYER,AYUSHXWD09/DESTROYER,743009498
+VU#74,0.25000000,https://github.com/cultureelerfgoed/Axiell-thesauri,cultureelerfgoed/Axiell-thesauri,698222907
 VU#74,0.25000000,https://github.com/Kob123678/Edit-KoSploit-VIP,Kob123678/Edit-KoSploit-VIP,489266496
 VU#74,0.25000000,https://github.com/Grazee/CVE-2022-1329-WordPress-Elementor-RCE,Grazee/CVE-2022-1329-WordPress-Elementor-RCE,483460698
 VU#74,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
@@ -339,8 +339,8 @@ VU#74,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#74,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#74,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#74,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#74,0.00561798,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#74,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#74,0.00543478,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#74,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#74,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#74,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
