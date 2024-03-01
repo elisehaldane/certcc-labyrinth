@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-702704845,mascencerro/axis-rce,poc.py,0bd428eadcddc001d22d9eba96463b0a2298bdcf,CVE-2018-10660
-702704845,mascencerro/axis-rce,poc.py,0bd428eadcddc001d22d9eba96463b0a2298bdcf,CVE-2018-10661
-702704845,mascencerro/axis-rce,poc.py,0bd428eadcddc001d22d9eba96463b0a2298bdcf,CVE-2018-10662
 702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10660
 702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10661
 702704845,mascencerro/axis-rce,README.md,59c2616858492256efacb594de0fbad9afb6bd12,CVE-2018-10662
+702704845,mascencerro/axis-rce,poc.py,7f291d1bb8396c50a733b919630c4c199c43ba49,CVE-2018-10660
+702704845,mascencerro/axis-rce,poc.py,7f291d1bb8396c50a733b919630c4c199c43ba49,CVE-2018-10661
+702704845,mascencerro/axis-rce,poc.py,7f291d1bb8396c50a733b919630c4c199c43ba49,CVE-2018-10662
 702704845,mascencerro/axis-rce,srv/ligolo-mips32,d21e35393e21c460d9ffad46cd54ac967d637a85,VU#78
