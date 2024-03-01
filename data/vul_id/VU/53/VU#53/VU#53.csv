@@ -56,7 +56,6 @@ VU#53,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,6081
 VU#53,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#53,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#53,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonRoblox,267731387
-VU#53,0.08333333,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#53,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#53,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#53,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
@@ -67,6 +66,7 @@ VU#53,0.07692308,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,
 VU#53,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#53,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#53,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
+VU#53,0.07142857,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#53,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
 VU#53,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
 VU#53,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
@@ -160,7 +160,6 @@ VU#53,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_dis
 VU#53,0.01754386,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#53,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#53,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
-VU#53,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#53,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#53,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#53,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
@@ -168,6 +167,7 @@ VU#53,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#53,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#53,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#53,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
+VU#53,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#53,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#53,0.01612903,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#53,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -263,7 +263,7 @@ VU#53,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,7326
 VU#53,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597
 VU#53,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#53,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#53,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#53,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#53,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#53,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#53,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801

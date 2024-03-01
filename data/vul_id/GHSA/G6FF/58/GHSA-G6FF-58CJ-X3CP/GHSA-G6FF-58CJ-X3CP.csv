@@ -1,7 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-G6FF-58CJ-X3CP,0.50000000,https://github.com/jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,jakabakos/CVE-2023-39362-cacti-snmp-command-injection-poc,764734826
 GHSA-G6FF-58CJ-X3CP,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
 GHSA-G6FF-58CJ-X3CP,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
 GHSA-G6FF-58CJ-X3CP,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
-GHSA-G6FF-58CJ-X3CP,0.00001038,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-G6FF-58CJ-X3CP,0.00001037,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-G6FF-58CJ-X3CP,0.00000373,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-G6FF-58CJ-X3CP,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

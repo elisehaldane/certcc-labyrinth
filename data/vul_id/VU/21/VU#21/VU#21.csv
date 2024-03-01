@@ -231,7 +231,6 @@ VU#21,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#21,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#21,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#21,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
-VU#21,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#21,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#21,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#21,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
@@ -239,6 +238,7 @@ VU#21,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,3226
 VU#21,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#21,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#21,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
+VU#21,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#21,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#21,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#21,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
@@ -343,7 +343,7 @@ VU#21,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#21,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#21,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#21,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#21,0.00671141,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#21,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#21,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#21,0.00662252,https://github.com/doudoudedi/hackEmbedded,doudoudedi/hackEmbedded,485661878
 VU#21,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
