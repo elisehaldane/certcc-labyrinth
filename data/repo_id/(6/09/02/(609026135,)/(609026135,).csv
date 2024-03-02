@@ -3,6 +3,6 @@ repo_id,repo_full_name,file,file_sha1,match
 609026135,emo-crab/scap-rs,nvd-cvss/src/v4/attack_vector.rs,3b5810074cc97e6b8a8126dfa4d32bff23731bea,CVE-2013-6014
 609026135,emo-crab/scap-rs,nvd-cwe/schema/cwe_schema_latest.xsd,6e946779adc6f1ed55da7f05de9e0af730039a5e,CVE-1999-0046
 609026135,emo-crab/scap-rs,nvd-cwe/schema/cwe_schema_latest.xsd,6e946779adc6f1ed55da7f05de9e0af730039a5e,CVE-2005-1951
-609026135,emo-crab/scap-rs,nvd-yew/src/routes/cve.rs,9ccad731cbe25c3703cad1b9cd2b79dac8b99eea,CVE-2006-5757
-609026135,emo-crab/scap-rs,nvd-yew/src/component/cve_configuration.rs,9f08f1adad4f1ae525eba8b3d3bdefb8d6cfff2f,CVE-2023-0056
+609026135,emo-crab/scap-rs,nvd-yew/src/routes/cve.rs,71ef0bb18adb0979f084a6f71d1c683e907f2634,CVE-2006-5757
 609026135,emo-crab/scap-rs,helper/tests/test_cve_api.rs,c70dedf2c68919a5031ea88617757c3d364ae46e,CVE-2001-0328
+609026135,emo-crab/scap-rs,nvd-yew/src/component/cve_configuration.rs,ed784937736569418b3345fdea666528f045b09f,CVE-2023-0056
