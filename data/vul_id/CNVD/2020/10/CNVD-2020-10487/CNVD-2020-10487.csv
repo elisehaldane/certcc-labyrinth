@@ -4,6 +4,7 @@ CNVD-2020-10487,0.50000000,https://github.com/HeiTang/Zrss,HeiTang/Zrss,38941557
 CNVD-2020-10487,0.05263158,https://github.com/mzet-/z-field-manual,mzet-/z-field-manual,236968412
 CNVD-2020-10487,0.05000000,https://github.com/saucer-man/saucerframe,saucer-man/saucerframe,159932662
 CNVD-2020-10487,0.04545455,https://github.com/n1sh1th/CVE-POC,n1sh1th/CVE-POC,301613303
+CNVD-2020-10487,0.04166667,https://github.com/kdandy/pentest_tools,kdandy/pentest_tools,765601528
 CNVD-2020-10487,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
 CNVD-2020-10487,0.02857143,https://github.com/Rezilion/mi-x,Rezilion/mi-x,485484773
 CNVD-2020-10487,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
@@ -44,13 +45,13 @@ CNVD-2020-10487,0.00037707,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaR
 CNVD-2020-10487,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 CNVD-2020-10487,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
 CNVD-2020-10487,0.00021039,https://github.com/kaRaGODDD/Cve-with-thier-PoC-s,kaRaGODDD/Cve-with-thier-PoC-s,754747508
-CNVD-2020-10487,0.00019689,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-CNVD-2020-10487,0.00019209,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-CNVD-2020-10487,0.00018149,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-CNVD-2020-10487,0.00015873,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+CNVD-2020-10487,0.00019666,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
+CNVD-2020-10487,0.00019175,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
+CNVD-2020-10487,0.00018146,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+CNVD-2020-10487,0.00015870,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 CNVD-2020-10487,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-CNVD-2020-10487,0.00008248,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-CNVD-2020-10487,0.00006537,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+CNVD-2020-10487,0.00008247,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+CNVD-2020-10487,0.00006536,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 CNVD-2020-10487,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 CNVD-2020-10487,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 CNVD-2020-10487,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
