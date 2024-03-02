@@ -25,6 +25,7 @@ MS05-018,0.00598802,https://github.com/pwnwiki/q,pwnwiki/q,5940002
 MS05-018,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 MS05-018,0.00588235,https://github.com/s0wr0b1ndef/Active-Directory-Exploitation-,s0wr0b1ndef/Active-Directory-Exploitation-,293183436
 MS05-018,0.00588235,https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,267698986
+MS05-018,0.00584795,https://github.com/ScarlyCodex/-Windows-Exploit-Suggester,ScarlyCodex/-Windows-Exploit-Suggester,765865356
 MS05-018,0.00584795,https://github.com/mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,476595705
 MS05-018,0.00584795,https://github.com/paramint/Windows-Exploit-Suggester,paramint/Windows-Exploit-Suggester,402506972
 MS05-018,0.00584795,https://github.com/3hydraking/Windows-Exploit-Suggester-Python3,3hydraking/Windows-Exploit-Suggester-Python3,386444638
@@ -168,9 +169,9 @@ MS05-018,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/explo
 MS05-018,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS05-018,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS05-018,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS05-018,0.00001037,https://github.com/trickest/cve,trickest/cve,454015416
+MS05-018,0.00001036,https://github.com/trickest/cve,trickest/cve,454015416
 MS05-018,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS05-018,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS05-018,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-MS05-018,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS05-018,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS05-018,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

@@ -7,6 +7,7 @@ MS14-029,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_
 MS14-029,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
 MS14-029,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
 MS14-029,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
+MS14-029,0.00584795,https://github.com/ScarlyCodex/-Windows-Exploit-Suggester,ScarlyCodex/-Windows-Exploit-Suggester,765865356
 MS14-029,0.00584795,https://github.com/mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,476595705
 MS14-029,0.00584795,https://github.com/paramint/Windows-Exploit-Suggester,paramint/Windows-Exploit-Suggester,402506972
 MS14-029,0.00584795,https://github.com/3hydraking/Windows-Exploit-Suggester-Python3,3hydraking/Windows-Exploit-Suggester-Python3,386444638
@@ -130,5 +131,5 @@ MS14-029,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS14-029,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS14-029,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS14-029,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-MS14-029,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS14-029,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS14-029,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

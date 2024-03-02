@@ -18,6 +18,7 @@ MS07-064,0.00636943,https://github.com/prakashar11/extended-sec-posture-manageme
 MS07-064,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
 MS07-064,0.00602410,https://github.com/praveendhac/VulnerabilityResearch,praveendhac/VulnerabilityResearch,31780535
 MS07-064,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
+MS07-064,0.00584795,https://github.com/ScarlyCodex/-Windows-Exploit-Suggester,ScarlyCodex/-Windows-Exploit-Suggester,765865356
 MS07-064,0.00584795,https://github.com/mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,mtthwstffrd/AonCyberLabs-Windows-Exploit-Suggester,476595705
 MS07-064,0.00584795,https://github.com/paramint/Windows-Exploit-Suggester,paramint/Windows-Exploit-Suggester,402506972
 MS07-064,0.00584795,https://github.com/3hydraking/Windows-Exploit-Suggester-Python3,3hydraking/Windows-Exploit-Suggester-Python3,386444638
@@ -265,11 +266,11 @@ MS07-064,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS07-064,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS07-064,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS07-064,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
-MS07-064,0.00001037,https://github.com/trickest/cve,trickest/cve,454015416
+MS07-064,0.00001036,https://github.com/trickest/cve,trickest/cve,454015416
 MS07-064,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS07-064,0.00000443,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS07-064,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS07-064,0.00000373,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS07-064,0.00000372,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS07-064,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-MS07-064,0.00000339,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+MS07-064,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS07-064,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

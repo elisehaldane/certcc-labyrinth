@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#08,1.00000000,https://github.com/CharonDefalt/pdf-exploit,CharonDefalt/pdf-exploit,765540862
+VU#08,1.00000000,https://github.com/K3rnel-Dev/pdf-exploit,K3rnel-Dev/pdf-exploit,756883572
 VU#08,1.00000000,https://github.com/MeisamAlborzi/MeisamAlborzi.github.io,MeisamAlborzi/MeisamAlborzi.github.io,617588848
 VU#08,0.50000000,https://github.com/Joakim5005/zerodayaarhustemp,Joakim5005/zerodayaarhustemp,602482918
 VU#08,0.50000000,https://github.com/Zero-Day-Aarhus/zerodayaarhus,Zero-Day-Aarhus/zerodayaarhus,511679445
