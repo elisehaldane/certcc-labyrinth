@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-742997624,xaitax/SploitScan,sploitscan.py,32cdb333e91a473825776528dec14dc15d985672,CVE-2023-23397
-742997624,xaitax/SploitScan,sploitscan.py,32cdb333e91a473825776528dec14dc15d985672,CVE-2024-12345
+742997624,xaitax/SploitScan,README.md,44cbab8ea3533223f02f86cdbc949339c2a95c84,CVE-2024-1709
+742997624,xaitax/SploitScan,sploitscan.py,4a2446f410d6884607e233704df270b19a6e84a1,CVE-2023-23397
+742997624,xaitax/SploitScan,sploitscan.py,4a2446f410d6884607e233704df270b19a6e84a1,CVE-2024-12345
