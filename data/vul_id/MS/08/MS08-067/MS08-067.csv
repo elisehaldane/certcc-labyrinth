@@ -164,6 +164,7 @@ MS08-067,0.10000000,https://github.com/mubix/metasploitwiki,mubix/metasploitwiki
 MS08-067,0.09090909,https://github.com/BitWalls-Sec/exploit,BitWalls-Sec/exploit,725078909
 MS08-067,0.09090909,https://github.com/manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,manuelpalomeque/Complete-Beginner-Learning-Path---TryHackMe-,457408529
 MS08-067,0.09090909,https://github.com/RandomRhythm/winVulnAssess,RandomRhythm/winVulnAssess,419090852
+MS08-067,0.09090909,https://github.com/loneicewolf/Stuxnet-Source,loneicewolf/Stuxnet-Source,316737249
 MS08-067,0.09090909,https://github.com/mojodojo101/exploitsnshells,mojodojo101/exploitsnshells,239681162
 MS08-067,0.09090909,https://github.com/fishi0x01/exploits,fishi0x01/exploits,180454634
 MS08-067,0.09090909,https://github.com/GoVanguard/legion,GoVanguard/legion,149422623
@@ -595,7 +596,7 @@ MS08-067,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-e
 MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS08-067,0.00001033,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00001032,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000443,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

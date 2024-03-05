@@ -3,6 +3,7 @@ MS10-073,1.00000000,https://github.com/JAYMONSECURITY/Metasploit-PostExplotation
 MS10-073,1.00000000,https://github.com/Ondrik8/metasploit,Ondrik8/metasploit,277833954
 MS10-073,0.16666667,https://github.com/jwx0539/hackingLibrary,jwx0539/hackingLibrary,159773041
 MS10-073,0.12500000,https://github.com/henryzhi/ana_vul,henryzhi/ana_vul,28576498
+MS10-073,0.09090909,https://github.com/loneicewolf/Stuxnet-Source,loneicewolf/Stuxnet-Source,316737249
 MS10-073,0.07142857,https://github.com/ryanleh/Hack-The-Box,ryanleh/Hack-The-Box,136213996
 MS10-073,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
 MS10-073,0.04347826,https://github.com/ihack4falafel/OSCP,ihack4falafel/OSCP,97347544
@@ -280,7 +281,7 @@ MS10-073,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-e
 MS10-073,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS10-073,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS10-073,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
-MS10-073,0.00001033,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-073,0.00001032,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-073,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-073,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS10-073,0.00000443,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
