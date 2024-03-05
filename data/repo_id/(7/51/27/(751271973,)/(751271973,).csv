@@ -19433,8 +19433,8 @@ repo_id,repo_full_name,file,file_sha1,match
 751271973,leesinz/crush,sql/seebug.sql,3d6734d82f615adcddfc763cd60b0505a1500f59,CVE-2007-4439
 751271973,leesinz/crush,sql/seebug.sql,3d6734d82f615adcddfc763cd60b0505a1500f59,CVE-2007-4446
 751271973,leesinz/crush,sql/seebug.sql,3d6734d82f615adcddfc763cd60b0505a1500f59,CVE-2010-0709
-751271973,leesinz/crush,README.md,986f79a3202bf354beb7eb0867d6c2989fe57332,CVE-2018-2023
 751271973,leesinz/crush,pocs/edb_poc.tar.gz,c169482992915c65f7c61cbe011977bfae7e1925,VU#81
 751271973,leesinz/crush,pocs/edb_poc.tar.gz,c169482992915c65f7c61cbe011977bfae7e1925,VU#468
 751271973,leesinz/crush,pocs/edb_poc.tar.gz,c169482992915c65f7c61cbe011977bfae7e1925,VU#34
 751271973,leesinz/crush,pocs/edb_poc.tar.gz,c169482992915c65f7c61cbe011977bfae7e1925,VU#04
+751271973,leesinz/crush,README.md,d3c20a0d20773a79f04e376f85b5ebd65135d3dd,CVE-2018-2023
