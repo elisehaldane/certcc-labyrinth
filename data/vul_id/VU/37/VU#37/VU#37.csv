@@ -94,12 +94,12 @@ VU#37,0.16666667,https://github.com/E-Team-Sec/ExploitDepository,E-Team-Sec/Expl
 VU#37,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,581851984
 VU#37,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#37,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
-VU#37,0.14285714,https://github.com/hack-different/apple-knowledge,hack-different/apple-knowledge,435649432
 VU#37,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#37,0.12500000,https://github.com/fortra/CVE-2023-28252,fortra/CVE-2023-28252,659242316
 VU#37,0.12500000,https://github.com/BaconBloxYT/ExploitzHub-Games.lua,BaconBloxYT/ExploitzHub-Games.lua,615758866
 VU#37,0.12500000,https://github.com/wowletsgo/scripts,wowletsgo/scripts,606304812
 VU#37,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
+VU#37,0.12500000,https://github.com/hack-different/apple-knowledge,hack-different/apple-knowledge,435649432
 VU#37,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
 VU#37,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
 VU#37,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
@@ -127,6 +127,7 @@ VU#37,0.08333333,https://github.com/Xyntax/POC-T,Xyntax/POC-T,53729332
 VU#37,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#37,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#37,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
+VU#37,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass,jakabakos/Apache-OFBiz-Authentication-Bypass,738140662
 VU#37,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#37,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#37,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
@@ -152,7 +153,6 @@ VU#37,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcoc
 VU#37,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
 VU#37,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#37,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
-VU#37,0.05555556,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#37,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#37,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#37,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
@@ -160,6 +160,7 @@ VU#37,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7
 VU#37,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#37,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#37,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/Roblox_scripts_for_newbie,578548943
+VU#37,0.05263158,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#37,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
 VU#37,0.05263158,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#37,0.05263158,https://github.com/ca3tie1/ExploitDepository,ca3tie1/ExploitDepository,428485331

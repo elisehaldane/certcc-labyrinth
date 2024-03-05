@@ -50,6 +50,7 @@ VU#95,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2
 VU#95,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#95,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#95,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
+VU#95,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass,jakabakos/Apache-OFBiz-Authentication-Bypass,738140662
 VU#95,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#95,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#95,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873

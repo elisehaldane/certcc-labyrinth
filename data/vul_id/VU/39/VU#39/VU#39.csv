@@ -48,6 +48,7 @@ VU#39,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2
 VU#39,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#39,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#39,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
+VU#39,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass,jakabakos/Apache-OFBiz-Authentication-Bypass,738140662
 VU#39,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#39,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#39,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
@@ -65,7 +66,6 @@ VU#39,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,Rakhit
 VU#39,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
 VU#39,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#39,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
-VU#39,0.05555556,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#39,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#39,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#39,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
@@ -73,10 +73,12 @@ VU#39,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-
 VU#39,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
 VU#39,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
 VU#39,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/Roblox_scripts_for_newbie,578548943
+VU#39,0.05263158,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#39,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#39,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
 VU#39,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExploits,461344305
 VU#39,0.05263158,https://github.com/PitchyATree/roblox-exploit-library,PitchyATree/roblox-exploit-library,407856378
+VU#39,0.05000000,https://github.com/KingExploit06/Roblox-Exploits,KingExploit06/Roblox-Exploits,683732742
 VU#39,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#39,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#39,0.05000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
