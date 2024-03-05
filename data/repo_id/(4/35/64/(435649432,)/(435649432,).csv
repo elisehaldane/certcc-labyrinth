@@ -50,5 +50,6 @@ repo_id,repo_full_name,file,file_sha1,match
 435649432,hack-different/apple-knowledge,"_data/devices/iPad4,6.yaml",e3c0ef8a676c7fa5fcac7cc1e61eacb30d0d9b8a,VU#01
 435649432,hack-different/apple-knowledge,"_data/devices/iPhone6,1.yaml",eac1e33e53627d998dbaa70c3492d9fbc14f9553,VU#01
 435649432,hack-different/apple-knowledge,"_data/devices/iPad5,3.yaml",f15fcaa63ab17de35127ef9ed5624193b0fd84db,VU#01
+435649432,hack-different/apple-knowledge,symbols/libmorphun.txt,f4f7cf2fea1bfa3ab6d60b86f6523b76552cd3e1,VU#11
 435649432,hack-different/apple-knowledge,"_data/devices/Watch6,9.yaml",f8423c774eb7f7d6ea2f304782d9e6ed0ccc9f07,VU#38
 435649432,hack-different/apple-knowledge,"_data/devices/iPad7,12.yaml",fd5e4a93d2c8dabb558d61253f6850321a2c449c,VU#38
