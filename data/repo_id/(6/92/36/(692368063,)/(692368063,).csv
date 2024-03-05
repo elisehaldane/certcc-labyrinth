@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-692368063,vulncheck-oss/cve-2023-36845-scanner,README.md,72fc8d0c811a35010212aee6e8f3dbea69f0cbd0,CVE-2023-36845
+692368063,vulncheck-oss/cve-2023-36845-scanner,go.mod,0d6048bfe0521bd8576269d7eeb0490dd00bdfcf,CVE-2023-36845
 692368063,vulncheck-oss/cve-2023-36845-scanner,scan.go,cd533b6c5305da58345d8ab04c59a437c4ff9c90,CVE-2023-36845
-692368063,vulncheck-oss/cve-2023-36845-scanner,go.mod,eeb8e0c6b65afdfedd40c1027b3a6b14512f5fc0,CVE-2023-36845
+692368063,vulncheck-oss/cve-2023-36845-scanner,README.md,fd03654392f62cc17b746547e2814ad295f929d6,CVE-2023-36845
 692368063,vulncheck-oss/cve-2023-36845-scanner,_GITHUB_REPO_METADATA_,,CVE-2023-36845
