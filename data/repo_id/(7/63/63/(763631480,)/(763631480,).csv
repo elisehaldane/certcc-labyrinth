@@ -1,3 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2019-14287/privesc.sh,6194793c5795bc7c5b59fb6179d56651610db2f3,CVE-2019-14287
-763631480,lucasballr/exploitables,CVE-2019-14287/README.md,f63820ae43fa3f736c435505d395aaa65bf64bfe,CVE-2019-14287
+763631480,lucasballr/exploitables,CVE-2021-3156/vulnerable/privesc.sh,6194793c5795bc7c5b59fb6179d56651610db2f3,CVE-2021-3156
+763631480,lucasballr/exploitables,CVE-2019-14287/README.md,63397ca3c1308181eb6e428b2756607b467976ac,CVE-2019-14287
+763631480,lucasballr/exploitables,CVE-2019-14287/vulnerable/Dockerfile,78f2e4045edb73479a4c40ab1031b1079e2b1307,CVE-2019-14287
+763631480,lucasballr/exploitables,CVE-2021-3156/vulnerable/Dockerfile,90a602de3cdd8c1476b61886f1d8d229e6d8ee0e,CVE-2021-3156
+763631480,lucasballr/exploitables,CVE-2019-14287/vulnerable/sudoers,a8b614893cef0cf3cc740e8dd9f62d115fef5b97,CVE-2019-14287
+763631480,lucasballr/exploitables,CVE-2021-3156/README.md,bf11ba571c49ec0a29691b7b7fe13a2f2aa24d74,CVE-2021-3156
+763631480,lucasballr/exploitables,CVE-2019-14287/patched/Dockerfile,d54459404540de63e4d9da5aaf14193e62493292,CVE-2019-14287
