@@ -106,8 +106,8 @@ MS13-055,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS13-055,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS13-055,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS13-055,0.00086580,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
-MS13-055,0.00086281,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
-MS13-055,0.00086133,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+MS13-055,0.00086133,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
+MS13-055,0.00085985,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 MS13-055,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS13-055,0.00061162,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS13-055,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
@@ -243,7 +243,6 @@ MS13-055,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,3
 MS13-055,0.00005357,https://github.com/R3K1NG/exploit-database,R3K1NG/exploit-database,107473902
 MS13-055,0.00005316,https://github.com/Capa-cc/Exploit,Capa-cc/Exploit,114506475
 MS13-055,0.00005290,https://github.com/fortify24x7/offensive-security-exploit-database,fortify24x7/offensive-security-exploit-database,117653410
-MS13-055,0.00005263,https://github.com/leesinz/crush,leesinz/crush,751271973
 MS13-055,0.00005249,https://github.com/Buzzkillhardball667/exploit-database,Buzzkillhardball667/exploit-database,120898188
 MS13-055,0.00005203,https://github.com/Buzzkillhardball667/exploit-database.,Buzzkillhardball667/exploit-database.,124883872
 MS13-055,0.00005122,https://github.com/xfinest/exploit-database,xfinest/exploit-database,138446262
@@ -260,6 +259,7 @@ MS13-055,0.00004620,https://github.com/offensive-security/exploitdb,offensive-se
 MS13-055,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS13-055,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS13-055,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
+MS13-055,0.00001599,https://github.com/leesinz/crush,leesinz/crush,751271973
 MS13-055,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 MS13-055,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 MS13-055,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186

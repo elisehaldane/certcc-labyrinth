@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-MQPQ-2P68-46FV,0.00001032,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-MQPQ-2P68-46FV,0.00001031,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-MQPQ-2P68-46FV,0.00000372,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-MQPQ-2P68-46FV,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
