@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2020-62422,1.00000000,https://github.com/xfiftyone/seeyon-exploit,xfiftyone/seeyon-exploit,382371842
+CNVD-2020-62422,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
 CNVD-2020-62422,0.01315789,https://github.com/securitysqs/Web_Poc,securitysqs/Web_Poc,329870299
 CNVD-2020-62422,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2020-62422,0.01010101,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
