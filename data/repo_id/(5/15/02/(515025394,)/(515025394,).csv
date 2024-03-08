@@ -3,6 +3,7 @@ repo_id,repo_full_name,file,file_sha1,match
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Weblogic5.java,107e81ee453d5c7b7e87c5a87aa9f4d5d06cd050,CVE-2020-14645
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Wicket1.java,1eb53af2b1e343fe3c7df8f1a16a54e51f2dd19e,CVE-2013-2186
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,libs/eclipselink.jar,31d4cd21b5203f2f3675edaf6034246e1243c70f,VU#78
+515025394,cckuailong/JNDI-Injection-Exploit-Plus,README_zh.md,35c14ba196a0da167f81b28590dcc1b2af758ecb,CVE-2021-39149
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/JRMPClient3.java,40bb31a42c9e52c4f5a46dc19a30dac101c9be93,CVE-2018-2628
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,libs/coherence.jar,420e7eb441648163da0851f7b87da8ec54ede430,VU#44
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,libs/coherence.jar,420e7eb441648163da0851f7b87da8ec54ede430,VU#65
@@ -13,9 +14,8 @@ repo_id,repo_full_name,file,file_sha1,match
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/JRMPClient2.java,607f86d04d310e8cf7df0b647d9fccf4469977b6,CVE-2018-2628
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/JRMPClient4.java,66414a9b7135eb93395b498143e5613fd2d76711,CVE-2018-2893
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Weblogic1.java,6f6d6ebae5b9f4c00bd4e2ff735a3dd3ebddc04b,CVE-2016-0638
+515025394,cckuailong/JNDI-Injection-Exploit-Plus,README.md,728c5ab7e36efbd36836fb8e8d28c9aab4c6e5ee,CVE-2021-39149
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Weblogic6.java,757a2c12c4d91e69a0b00fbb34947b4708b8e64a,CVE-2020-2883
-515025394,cckuailong/JNDI-Injection-Exploit-Plus,README.md,791dfd20f67883fd4aad962ec125c39c2f334caf,CVE-2021-39149
-515025394,cckuailong/JNDI-Injection-Exploit-Plus,README_zh.md,87bd92882013f0a700245fba89a81ad929efbf96,CVE-2021-39149
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Coherence4.java,bf8eb401101ffdebce4f1530980345dc36ad36d2,CVE-2020-14756
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/Weblogic9.java,c652b1a7912a111febc0315faa5bca3746c54432,CVE-2020-14841
 515025394,cckuailong/JNDI-Injection-Exploit-Plus,src/main/java/payloads/JRMPClient6.java,e1da1981dc23f8b6e5dcfb5c460927faf7e778b3,CVE-2018-3245
