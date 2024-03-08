@@ -53,6 +53,7 @@ VU#53,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2
 VU#53,0.10000000,https://github.com/XiaoliChan/Invoke-sAMSpoofing,XiaoliChan/Invoke-sAMSpoofing,476650535
 VU#53,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#53,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
+VU#53,0.09090909,https://github.com/Tchuanm/AViTMP,Tchuanm/AViTMP,710905666
 VU#53,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
 VU#53,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#53,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
@@ -67,7 +68,6 @@ VU#53,0.07692308,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,
 VU#53,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#53,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#53,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
-VU#53,0.07142857,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#53,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
 VU#53,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
 VU#53,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
@@ -78,6 +78,7 @@ VU#53,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544
 VU#53,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#53,0.06666667,https://github.com/teloryfrozy/Lumatic-kartdlphax,teloryfrozy/Lumatic-kartdlphax,649274248
 VU#53,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploitsScripts,576209996
+VU#53,0.06250000,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#53,0.06250000,https://github.com/Zhaocy-Research/TransformerST,Zhaocy-Research/TransformerST,510563607
 VU#53,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
 VU#53,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
@@ -170,10 +171,10 @@ VU#53,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4710
 VU#53,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#53,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#53,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
-VU#53,0.01612903,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#53,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#53,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#53,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
+VU#53,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#53,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#53,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#53,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
@@ -222,7 +223,6 @@ VU#53,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#53,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#53,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#53,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#53,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#53,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#53,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#53,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -243,6 +243,7 @@ VU#53,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#53,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#53,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#53,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#53,0.00819672,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#53,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#53,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#53,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789

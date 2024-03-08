@@ -168,10 +168,10 @@ VU#58,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bje
 VU#58,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#58,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#58,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
-VU#58,0.01612903,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#58,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/ethical_hacking,502305431
 VU#58,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#58,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
+VU#58,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#58,0.01449275,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#58,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#58,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
@@ -210,7 +210,6 @@ VU#58,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#58,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#58,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#58,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#58,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#58,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#58,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#58,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -233,6 +232,7 @@ VU#58,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#58,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#58,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#58,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#58,0.00819672,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#58,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#58,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#58,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
@@ -368,7 +368,7 @@ VU#58,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#58,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#58,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#58,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#58,0.00019026,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#58,0.00019015,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#58,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#58,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#58,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

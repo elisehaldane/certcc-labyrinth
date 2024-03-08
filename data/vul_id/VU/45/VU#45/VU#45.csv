@@ -84,6 +84,7 @@ VU#45,0.11111111,https://github.com/ArkAngeL43/Red-Rabbit,ArkAngeL43/Red-Rabbit,
 VU#45,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
 VU#45,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
 VU#45,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
+VU#45,0.09090909,https://github.com/Tchuanm/AViTMP,Tchuanm/AViTMP,710905666
 VU#45,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#45,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#45,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
@@ -216,6 +217,7 @@ VU#45,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_t
 VU#45,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#45,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#45,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
+VU#45,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#45,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#45,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#45,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
@@ -261,7 +263,6 @@ VU#45,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#45,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#45,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#45,0.01010101,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
-VU#45,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#45,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#45,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#45,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
@@ -282,6 +283,7 @@ VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#45,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#45,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#45,0.00819672,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#45,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#45,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#45,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
@@ -431,7 +433,7 @@ VU#45,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#45,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#45,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#45,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#45,0.00019026,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#45,0.00019015,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#45,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#45,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

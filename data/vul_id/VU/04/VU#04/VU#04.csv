@@ -35,6 +35,7 @@ VU#04,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
 VU#04,0.11111111,https://github.com/cn-panda/JavaCodeAudit,cn-panda/JavaCodeAudit,224329304
 VU#04,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 VU#04,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
+VU#04,0.09090909,https://github.com/allwin199/common-exploits-web3,allwin199/common-exploits-web3,765075257
 VU#04,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#04,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#04,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
@@ -222,7 +223,6 @@ VU#04,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#04,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#04,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#04,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
-VU#04,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#04,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#04,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#04,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
@@ -234,6 +234,7 @@ VU#04,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#04,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#04,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#04,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#04,0.00819672,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#04,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#04,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#04,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
@@ -373,7 +374,7 @@ VU#04,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#04,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#04,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#04,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#04,0.00019026,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#04,0.00019015,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#04,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#04,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#04,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

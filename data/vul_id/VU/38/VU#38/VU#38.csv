@@ -15,7 +15,6 @@ VU#38,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Ka
 VU#38,0.33333333,https://github.com/HoangVuHaiDuong/Derack16-Exploit,HoangVuHaiDuong/Derack16-Exploit,577761618
 VU#38,0.33333333,https://github.com/AndreMaquesMachado/POC,AndreMaquesMachado/POC,426691915
 VU#38,0.33333333,https://github.com/254nm/L2X9RebootCore,254nm/L2X9RebootCore,392146186
-VU#38,0.33333333,https://github.com/farazsth98/hypervisor_research_notes,farazsth98/hypervisor_research_notes,361527636
 VU#38,0.25000000,https://github.com/merlin-ke/OwnCloud-CVE-2023-49103,merlin-ke/OwnCloud-CVE-2023-49103,733384203
 VU#38,0.25000000,https://github.com/cerberauth/api-vulns-challenges,cerberauth/api-vulns-challenges,697264220
 VU#38,0.25000000,https://github.com/MartaAndronic/PolyLUT,MartaAndronic/PolyLUT,677001588
@@ -27,6 +26,7 @@ VU#38,0.25000000,https://github.com/trhacknon/dompdf-rce,trhacknon/dompdf-rce,56
 VU#38,0.25000000,https://github.com/RobertDEVx/Silent-Doc-Exploit-Python,RobertDEVx/Silent-Doc-Exploit-Python,560961272
 VU#38,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/MadcatExploit,482398135
 VU#38,0.25000000,https://github.com/positive-security/dompdf-rce,positive-security/dompdf-rce,469883331
+VU#38,0.25000000,https://github.com/farazsth98/hypervisor_research_notes,farazsth98/hypervisor_research_notes,361527636
 VU#38,0.25000000,https://github.com/jopraveen/exploit-development,jopraveen/exploit-development,357628827
 VU#38,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#38,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
@@ -209,7 +209,6 @@ VU#38,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#38,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#38,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#38,0.01010101,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
-VU#38,0.01000000,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#38,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#38,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#38,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -233,6 +232,7 @@ VU#38,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,4824
 VU#38,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#38,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#38,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#38,0.00819672,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#38,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#38,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#38,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -374,7 +374,7 @@ VU#38,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#38,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#38,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#38,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#38,0.00019026,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00019015,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
