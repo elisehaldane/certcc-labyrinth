@@ -1,7 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
 755821480,OracleNep/Nday-Exploit-Plan,README.md,08580df0d84cb9323e6816ff2ce88512b1f825b6,CVE-2021-44228
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2023-5360_WordPress Royal Elemento/README.md,09398b0d1a0928ccd844b3c14ef68946be2fffc7,CVE-2023-5360
+755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2015-1635/README.md,103abad075ea164a7f3bbb1f62e500b36f7680cd,CVE-2015-1635
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2023-5360_WordPress Royal Elemento/active-plugin.txt,11a9cd73873677005bbbb72fcee25670770eb017,CVE-2023-5360
+755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2015-1635/POC.py,17a58475b77bd0b8c638b4aec26de07ed544bc35,CVE-2015-1635
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2023-5360_WordPress Royal Elemento/exploit.log,1ef56b43d6c48c551a32cc1331d782734aa405ad,CVE-2023-5360
 755821480,OracleNep/Nday-Exploit-Plan,CNVD/CNVD-2022-86535/README.md,254460c78a65f9220414659cf5636ee78dca7fa7,CNVD-2022-86535
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2023-5360_WordPress Royal Elemento/CVE-2023-5360.py,30c85105a157fd918cc2c6a83df92eb8c75d2314,CVE-2023-5360
@@ -12,11 +14,12 @@ repo_id,repo_full_name,file,file_sha1,match
 755821480,OracleNep/Nday-Exploit-Plan,Description.mp4,a212b8180f116b80d13a5a797c4d8388905b02de,VU#71
 755821480,OracleNep/Nday-Exploit-Plan,Description.mp4,a212b8180f116b80d13a5a797c4d8388905b02de,VU#50
 755821480,OracleNep/Nday-Exploit-Plan,Description.mp4,a212b8180f116b80d13a5a797c4d8388905b02de,VU#53
-755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2017-1000486-master/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2017-1000486
-755821480,OracleNep/Nday-Exploit-Plan,CNVD/CNVD-2022-86535/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CNVD-2022-86535
-755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2015-8349/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2015-8349
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2018-6910/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2018-6910
+755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2015-8349/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2015-8349
+755821480,OracleNep/Nday-Exploit-Plan,CNVD/CNVD-2022-86535/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CNVD-2022-86535
+755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2017-1000486-master/img/1.txt,adc83b19e793491b1c6ea0fd8b46cd9f32e592fc,CVE-2017-1000486
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2018-6910/README.md,ae0bfb7aae650b3e768d532e576c543e22903533,CVE-2018-6910
+755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2017-7269/README.md,af288049db5df2a4d200a2e1574c6193c7b8c8f2,CVE-2017-7269
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2023-5360_WordPress Royal Elemento/requirements.txt,bd844aeab090a4b8ce31646aa612b3e084023a1e,CVE-2023-5360
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2017-1000486-master/README.md,c03e08977e38c5c86fbc0cc4cee9e55750491738,CVE-2017-1000486
 755821480,OracleNep/Nday-Exploit-Plan,CVE/CVE-2024-25225_Simple_Admin_Panel_App_Cross-Site-Scripting _1/README.md,d10110838d36c452dfcdd453b4a949bd221e3527,CVE-2024-25225
