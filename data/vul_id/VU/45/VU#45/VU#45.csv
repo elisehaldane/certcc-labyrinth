@@ -65,6 +65,7 @@ VU#45,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,
 VU#45,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#45,0.25000000,https://github.com/0xalwayslucky/log4j-polkit-poc,0xalwayslucky/log4j-polkit-poc,452823928
 VU#45,0.25000000,https://github.com/ptef/CVE-2020-9273,ptef/CVE-2020-9273,310408864
+VU#45,0.20000000,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#45,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#45,0.20000000,https://github.com/Shaddyjr/simon_explore_v__exploit,Shaddyjr/simon_explore_v__exploit,503661195
 VU#45,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
@@ -442,5 +443,5 @@ VU#45,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967
 VU#45,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#45,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 VU#45,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#45,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#45,0.00000337,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#45,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

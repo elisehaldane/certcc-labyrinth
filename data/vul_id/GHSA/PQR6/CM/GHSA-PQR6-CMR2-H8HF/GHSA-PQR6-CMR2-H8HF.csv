@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PQR6-CMR2-H8HF,0.00000372,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-PQR6-CMR2-H8HF,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-GHSA-PQR6-CMR2-H8HF,0.00000338,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+GHSA-PQR6-CMR2-H8HF,0.00000337,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
