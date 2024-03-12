@@ -44,6 +44,7 @@ VU#04,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smu
 VU#04,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#04,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#04,0.08333333,https://github.com/accuknox/samples,accuknox/samples,436227625
+VU#04,0.07692308,https://github.com/hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,770745685
 VU#04,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
 VU#04,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#04,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
@@ -228,11 +229,11 @@ VU#04,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#04,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#04,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#04,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
-VU#04,0.00909091,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#04,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#04,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#04,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#04,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#04,0.00862069,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#04,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#04,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#04,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
@@ -374,7 +375,7 @@ VU#04,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#04,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#04,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#04,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#04,0.00019015,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#04,0.00019008,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#04,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#04,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#04,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
