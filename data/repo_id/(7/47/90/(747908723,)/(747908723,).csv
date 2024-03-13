@@ -19,10 +19,10 @@ repo_id,repo_full_name,file,file_sha1,match
 747908723,kaneda/exploits,checkpoints/hydra.zip,8ac5e55d5ce4ac00fb3e3c2f141a3b21305e2998,VU#90
 747908723,kaneda/exploits,checkpoints/hydra.zip,8ac5e55d5ce4ac00fb3e3c2f141a3b21305e2998,VU#89
 747908723,kaneda/exploits,ubuntu/CVE-2022-0847/dirtypipe.c,8e765a52cab003eba48a883550d787786097028f,CVE-2022-0847
-747908723,kaneda/exploits,ubuntu/CVE-2022-32250/exp.c,9e42bd88a83ed2c31ee098101842524132c8d5e1,CVE-2022-32250
+747908723,kaneda/exploits,ubuntu/CVE-2022-32250-LPE/exp.c,9e42bd88a83ed2c31ee098101842524132c8d5e1,CVE-2022-32250
 747908723,kaneda/exploits,debian/Linux_LPE_eBPF_CVE-2021-3490-main/include/bpf_defs.h,a1442da245f9aa8b55ef58dc77547ec317f76932,CVE-2021-3490
 747908723,kaneda/exploits,debian/Linux_LPE_eBPF_CVE-2021-3490-main/README.md,a46a02378300b2948756ab99bfba42eaf56ae94f,CVE-2021-3490
-747908723,kaneda/exploits,ubuntu/CVE-2022-32250/exp,bb72bad38002822bbb024e91efd3f0007f7a5a49,CVE-2022-32250
+747908723,kaneda/exploits,ubuntu/CVE-2022-32250-LPE/exp,bb72bad38002822bbb024e91efd3f0007f7a5a49,CVE-2022-32250
 747908723,kaneda/exploits,debian/Linux_LPE_eBPF_CVE-2021-3490-main/bin/.placeholder,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2021-3490
 747908723,kaneda/exploits,debian/CVE-2021-3156/cve.c,f349e0cd72333260fc87a0c34d262ae4c1e7be98,CVE-2021-3156
 747908723,kaneda/exploits,debian/Linux_LPE_eBPF_CVE-2021-3490-main/kmem_search.c,f79270f9f2a704ac5fe4f465331d83255acb87a6,CVE-2021-3490
