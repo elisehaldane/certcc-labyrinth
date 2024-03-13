@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-657519364,XiaoliChan/zerologon-Shot,lib/exploit.py,4b049db0e633928c253c9ad4df2580b8f27c9dc5,CVE-2020-1472
-657519364,XiaoliChan/zerologon-Shot,README.md,f9ef4d43970feadf11e9a3f077d912f90e2e5f10,CVE-2020-1472
+657519364,XiaoliChan/zerologon-Shot,lib/exploit.py,22b903c1e2cad3a14aeea95762adb43e97298976,CVE-2020-1472
+657519364,XiaoliChan/zerologon-Shot,README.md,5d2e4c4e66b3207d5c0fb39acfae548efbe139be,CVE-2020-1472
