@@ -64,7 +64,6 @@ VU#71,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,37012478
 VU#71,0.05882353,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#71,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysis,rangenanirakshithrao/Exploitary-Data-Analysis,355821460
 VU#71,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
-VU#71,0.05263158,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#71,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#71,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#71,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
@@ -77,6 +76,7 @@ VU#71,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellEx
 VU#71,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#71,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
 VU#71,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
+VU#71,0.04166667,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#71,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#71,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2022-45934,nidhi7598/linux-3.0.35_CVE-2022-45934,591173287
 VU#71,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
@@ -270,7 +270,7 @@ VU#71,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#71,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#71,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#71,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
-VU#71,0.00862069,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
+VU#71,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#71,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#71,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#71,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
