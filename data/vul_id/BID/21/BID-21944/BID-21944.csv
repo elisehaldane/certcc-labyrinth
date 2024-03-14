@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-21944,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 BID-21944,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
+BID-21944,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 BID-21944,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-21944,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-21944,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

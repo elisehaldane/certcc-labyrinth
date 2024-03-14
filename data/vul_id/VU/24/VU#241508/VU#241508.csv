@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#241508,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#241508,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+VU#241508,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#241508,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#241508,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 VU#241508,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -39,7 +40,7 @@ VU#241508,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-
 VU#241508,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#241508,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#241508,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-VU#241508,0.00001014,https://github.com/trickest/cve,trickest/cve,454015416
+VU#241508,0.00001013,https://github.com/trickest/cve,trickest/cve,454015416
 VU#241508,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#241508,0.00000337,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#241508,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

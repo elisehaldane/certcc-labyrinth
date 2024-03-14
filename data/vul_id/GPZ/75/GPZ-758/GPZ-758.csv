@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-758,0.33333333,https://github.com/Live-Hack-CVE/CVE-2016-3135,Live-Hack-CVE/CVE-2016-3135,590230632
+GPZ-758,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 GPZ-758,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 GPZ-758,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
 GPZ-758,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -42,7 +43,7 @@ GPZ-758,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-ex
 GPZ-758,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 GPZ-758,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 GPZ-758,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-GPZ-758,0.00001014,https://github.com/trickest/cve,trickest/cve,454015416
+GPZ-758,0.00001013,https://github.com/trickest/cve,trickest/cve,454015416
 GPZ-758,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GPZ-758,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GPZ-758,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

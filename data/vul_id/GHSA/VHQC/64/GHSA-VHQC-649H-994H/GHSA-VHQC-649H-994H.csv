@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VHQC-649H-994H,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
+GHSA-VHQC-649H-994H,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 GHSA-VHQC-649H-994H,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-VHQC-649H-994H,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 GHSA-VHQC-649H-994H,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
@@ -8,7 +9,7 @@ GHSA-VHQC-649H-994H,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,
 GHSA-VHQC-649H-994H,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 GHSA-VHQC-649H-994H,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 GHSA-VHQC-649H-994H,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-GHSA-VHQC-649H-994H,0.00001014,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-VHQC-649H-994H,0.00001013,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-VHQC-649H-994H,0.00000372,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-VHQC-649H-994H,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-VHQC-649H-994H,0.00000337,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

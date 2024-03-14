@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-62445,1.00000000,https://github.com/roughiz/davfs_exploit_rootkit_revShell,roughiz/davfs_exploit_rootkit_revShell,170899961
 BID-62445,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-62445,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+BID-62445,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 BID-62445,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 BID-62445,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-62445,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497

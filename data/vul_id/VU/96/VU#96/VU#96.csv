@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#96,1.00000000,https://github.com/Golags22/impactforsuccessfoundations,Golags22/impactforsuccessfoundations,770677934
+VU#96,1.00000000,https://github.com/ScottAlt-NSU/TypeRacer-bot-PoC,ScottAlt-NSU/TypeRacer-bot-PoC,754895601
 VU#96,1.00000000,https://github.com/User1337322/ExploitDatabaseParser,User1337322/ExploitDatabaseParser,732145913
 VU#96,1.00000000,https://github.com/BOuletteRusSe/Guest-is-too-good,BOuletteRusSe/Guest-is-too-good,715807626
 VU#96,1.00000000,https://github.com/Exploit89/exploit89.github.io,Exploit89/exploit89.github.io,696713497
@@ -342,7 +343,7 @@ VU#96,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#96,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#96,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#96,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
-VU#96,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#96,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#96,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#96,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#96,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
@@ -454,9 +455,10 @@ VU#96,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#96,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#96,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#96,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#96,0.00019008,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#96,0.00019001,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
+VU#96,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#96,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#96,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#96,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

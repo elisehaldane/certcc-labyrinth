@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-50777,0.50000000,https://github.com/Live-Hack-CVE/CVE-2011-4802,Live-Hack-CVE/CVE-2011-4802,582911903
+BID-50777,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 BID-50777,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-50777,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 BID-50777,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
