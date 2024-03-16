@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VHQC-649H-994H,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
+GHSA-VHQC-649H-994H,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 GHSA-VHQC-649H-994H,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 GHSA-VHQC-649H-994H,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-VHQC-649H-994H,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

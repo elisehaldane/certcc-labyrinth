@@ -10,6 +10,7 @@ VU#94,0.33333333,https://github.com/Doming00/FIB-ADEI-Deliverable,Doming00/FIB-A
 VU#94,0.33333333,https://github.com/Ooscaar/MALW,Ooscaar/MALW,555215011
 VU#94,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu/Metasploit,512993881
 VU#94,0.33333333,https://github.com/kbcyb2122/Penetration-Testing-Report-Good-Security,kbcyb2122/Penetration-Testing-Report-Good-Security,483391494
+VU#94,0.20000000,https://github.com/LynixPlayz/MaceExploitTesting,LynixPlayz/MaceExploitTesting,772848527
 VU#94,0.20000000,https://github.com/ELMERIKH/Beryl,ELMERIKH/Beryl,685627846
 VU#94,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#94,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
@@ -49,7 +50,6 @@ VU#94,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichir
 VU#94,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
 VU#94,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#94,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
-VU#94,0.05263158,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#94,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#94,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
 VU#94,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
@@ -70,6 +70,7 @@ VU#94,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,
 VU#94,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#94,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#94,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
+VU#94,0.03571429,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#94,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#94,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#94,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
@@ -370,6 +371,7 @@ VU#94,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#94,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#94,0.00019001,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#94,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
+VU#94,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#94,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#94,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#94,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

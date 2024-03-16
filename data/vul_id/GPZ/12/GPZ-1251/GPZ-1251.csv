@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1251,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+GPZ-1251,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 GPZ-1251,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 GPZ-1251,0.00005394,https://github.com/yashodhank/exploit-database,yashodhank/exploit-database,104515468
 GPZ-1251,0.00005379,https://github.com/1oid/exploitsearch,1oid/exploitsearch,111814394
