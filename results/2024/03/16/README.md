@@ -1,13 +1,12 @@
 
 # Summary for results/2024/03/16
     
-127 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2024-03-16 10:09:39+00:00 | 979262 | 32505 | Ruby | 13590 | [] |
-| Hacker-Hermanos/NetRunners | Reflective shellcode runners using obfuscated Win32 APIs in C# and C++ | https://github.com/Hacker-Hermanos/NetRunners | ['shellcode'] | 1 | 2024-03-16 12:25:15+00:00 | 71719 | 1 | C# | 0 | [] |
-| Hayrowi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Hayrowi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | ['exploit'] | 1 | 2024-03-16 04:59:46+00:00 | 808 | 0 | C# | 0 | [] |
+| K3ysTr0K3R/CVE-2023-43208-EXPLOIT | A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE) | https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 7 | 2024-03-16 13:37:48+00:00 | 13 | 4 | Python | 2 | ['CVE-2023-43208'] |
 | macfra98/pentest-tools | A collection of public pentest tools used for enumeration, privesc, and exploitation. | https://github.com/macfra98/pentest-tools | ['exploit'] | 1 | 2024-03-16 01:11:41+00:00 | 16 | 0 | Rust | 0 | [] |
 | Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware | ['cve-2 OR cve_2', 'exploit', 'remote code execution'] | 3 | 2024-03-16 04:56:48+00:00 | 1999 | 1 | C# | 1 | [] |
 | Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-03-16 04:55:49+00:00 | 497 | 0 | C++ | 0 | [] |
@@ -20,8 +19,8 @@
 | Geanlo91/Explorative-Data-Analysis-and-visualization | Ways to exploit and analyze data | https://github.com/Geanlo91/Explorative-Data-Analysis-and-visualization | ['exploit'] | 1 | 2024-03-16 15:23:36+00:00 | 772 | 0 | Python | 0 | [] |
 | Pixelwarrior/Binary-Exploitation | Misc Binary Exploitation stuff. | https://github.com/Pixelwarrior/Binary-Exploitation | ['exploit'] | 1 | 2024-03-16 02:19:27+00:00 | 39 | 0 | Python | 0 | [] |
 | vdh1612/Web-Runner-Exploit-Chain | None | https://github.com/vdh1612/Web-Runner-Exploit-Chain | ['exploit'] | 1 | 2024-03-16 14:08:17+00:00 | 264 | 0 | PHP | 0 | [] |
+| Hacker-Hermanos/NetRunners | Reflective shellcode runners using obfuscated Win32 APIs in C# and C++ | https://github.com/Hacker-Hermanos/NetRunners | ['shellcode'] | 1 | 2024-03-16 12:25:15+00:00 | 71719 | 1 | C# | 0 | [] |
 | CPerdst/Format-Exploit | Semi-Automatic String Formatting Exploitation Tool | https://github.com/CPerdst/Format-Exploit | ['exploit'] | 1 | 2024-03-16 06:22:16+00:00 | 357 | 0 | Python | 0 | [] |
-| CorvinM/shellcode_run | Cross-platform shellcode executor. | https://github.com/CorvinM/shellcode_run | ['shellcode'] | 1 | 2024-03-16 03:02:23+00:00 | 18 | 1 | C | 0 | [] |
 | W0r1d-Pr1nt/RCEmap | 一个类似sqlmap的RCE自动化工具 | https://github.com/W0r1d-Pr1nt/RCEmap | ['rce'] | 1 | 2024-03-16 15:14:17+00:00 | 24 | 1 | Go | 0 | [] |
 | amypayno09/NezurAI | Experience the future of Roblox exploiting with Nezur Roblox Hack, offering a safe and comprehensive suite of cheats including ESP, Aimbot, and more. | https://github.com/amypayno09/NezurAI | ['exploit'] | 1 | 2024-03-16 05:03:02+00:00 | 3374 | 0 | | 0 | [] |
 | ylc0x01/cnvd_load | nan | https://github.com/ylc0x01/cnvd_load | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2024-03-16 04:38:10+00:00 | 24 | 0 | nan | 0 | [] |
@@ -35,10 +34,12 @@
 | OracleNep/Nday-Exploit-Plan | 历史漏洞的细节以及利用方法汇总收集 | https://github.com/OracleNep/Nday-Exploit-Plan | ['exploit'] | 1 | 2024-03-16 09:01:27+00:00 | 26996 | 56 | Python | 9 | [] |
 | AlSploit/GodSploit | nan | https://github.com/AlSploit/GodSploit | ['sploit'] | 1 | 2024-03-16 10:46:47+00:00 | 2222 | 0 | nan | 1 | [] |
 | philrice-rcef/rcef_ws2024 | Rice Seed monitoring system wet season 2024 | https://github.com/philrice-rcef/rcef_ws2024 | ['rce'] | 1 | 2024-03-16 04:25:06+00:00 | 127610 | 0 | JavaScript | 0 | [] |
-| K3ysTr0K3R/CVE-2023-43208-EXPLOIT | A PoC exploit for CVE-2023-43208 - Mirth Connect Remote Code Execution (RCE) | https://github.com/K3ysTr0K3R/CVE-2023-43208-EXPLOIT | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'remote code execution', 'vulnerability poc'] | 7 | 2024-03-16 13:37:48+00:00 | 13 | 4 | Python | 2 | ['CVE-2023-43208'] |
-| xSp4wn/Shellcode-Builder | Shellcode Builder in Python Coded By xSp4wn_ | https://github.com/xSp4wn/Shellcode-Builder | ['shellcode'] | 1 | 2024-03-16 00:01:02+00:00 | 3 | 0 | Python | 0 | [] |
+| mush1e/RCE | Remote Code Execution Platform | https://github.com/mush1e/RCE | ['rce', 'remote code execution'] | 2 | 2024-03-16 22:11:03+00:00 | 129 | 1 | C++ | 0 | [] |
 | wjlin0/CVE-2024-23897 | CVE-2024-23897 - Jenkins 任意文件读取 利用工具 | https://github.com/wjlin0/CVE-2024-23897 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 07:55:41+00:00 | 79 | 43 | Go | 6 | ['CVE-2024-23897'] |
-| BugBountyHunterCVE/CVE-2023-40279 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40279 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:33:49+00:00 | 2 | 0 | | 0 | ['CVE-2023-40279'] |
+| Hayrowi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Hayrowi/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | ['exploit'] | 1 | 2024-03-16 04:59:46+00:00 | 808 | 0 | C# | 0 | [] |
+| CorvinM/shellcode_run | Cross-platform shellcode executor. | https://github.com/CorvinM/shellcode_run | ['shellcode'] | 1 | 2024-03-16 03:02:23+00:00 | 18 | 1 | C | 0 | [] |
+| infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2024-03-16 18:24:50+00:00 | 142 | 5356 | | 1153 | [] |
+| xSp4wn/Shellcode-Builder | Shellcode Builder in Python Coded By xSp4wn_ | https://github.com/xSp4wn/Shellcode-Builder | ['shellcode'] | 1 | 2024-03-16 00:01:02+00:00 | 3 | 0 | Python | 0 | [] |
 | xem6/CVE-2022-4262 | Exploit for CVE-2022-4262 | https://github.com/xem6/CVE-2022-4262 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-03-16 22:11:08+00:00 | 4 | 7 | JavaScript | 0 | ['CVE-2022-4262'] |
 | MateusTesser/AhsayCBS-exploit | Authenticated File Upload in Ahsay Backup 7.x - 8.1.1.50 | https://github.com/MateusTesser/AhsayCBS-exploit | ['exploit'] | 1 | 2024-03-16 21:46:26+00:00 | 613 | 0 | Python | 0 | [] |
 | behindsecurity/htb-registry-www-shell | A python script to get RCE as www-data on Registry CTF from HackTheBox | https://github.com/behindsecurity/htb-registry-www-shell | ['rce'] | 1 | 2024-03-16 20:46:41+00:00 | 3 | 0 | Python | 0 | [] |
@@ -52,8 +53,8 @@
 | Jokergazaa/APK-TO-JPG-EXPLOIT-2024 | APK TO JPG EXPLOIT V4 SUPPORTING ALL ANDROID RAT SYSTEMS | https://github.com/Jokergazaa/APK-TO-JPG-EXPLOIT-2024 | ['exploit'] | 1 | 2024-03-16 11:49:28+00:00 | 6 | 0 | | 0 | [] |
 | ChuppaChupps/Opera-Nitro-Exploit | None | https://github.com/ChuppaChupps/Opera-Nitro-Exploit | ['exploit'] | 1 | 2024-03-16 09:04:53+00:00 | 2 | 0 | Python | 0 | [] |
 | sakthi1307/Off-Path-TCP-Exploits | CS254 Final Project | https://github.com/sakthi1307/Off-Path-TCP-Exploits | ['exploit'] | 1 | 2024-03-16 09:10:59+00:00 | 19 | 0 | Python | 0 | [] |
+| BugBountyHunterCVE/CVE-2023-40279 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40279 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:33:49+00:00 | 2 | 0 | | 0 | ['CVE-2023-40279'] |
 | BugBountyHunterCVE/CVE-2023-40280 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40280 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:29:07+00:00 | 2 | 0 | | 0 | ['CVE-2023-40280'] |
-| xSp4wn/armv8a-shellcode | None | https://github.com/xSp4wn/armv8a-shellcode | ['shellcode'] | 1 | 2024-03-16 00:34:40+00:00 | 0 | 0 | | 0 | [] |
 | BugBountyHunterCVE/CVE-2023-40275 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40275 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:24:47+00:00 | 2 | 0 | | 0 | ['CVE-2023-40275'] |
 | BugBountyHunterCVE/CVE-2023-40278 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40278 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:18:08+00:00 | 2 | 0 | | 0 | ['CVE-2023-40278'] |
 | BugBountyHunterCVE/CVE-2023-40276 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40276 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:18:36+00:00 | 3 | 0 | | 0 | ['CVE-2023-40276'] |
@@ -67,11 +68,11 @@
 | BugBountyHunterCVE/CVE-2023-40277 | None | https://github.com/BugBountyHunterCVE/CVE-2023-40277 | ['cve-2 OR cve_2'] | 1 | 2024-03-16 06:18:14+00:00 | 5 | 0 | | 0 | ['CVE-2023-40277'] |
 | LynixPlayz/MaceExploitTesting | None | https://github.com/LynixPlayz/MaceExploitTesting | ['exploit'] | 1 | 2024-03-16 03:42:44+00:00 | 29250 | 0 | Java | 0 | [] |
 | Hawk-Root/WP-USER-ENUMERATION | WordPress User Enumeration Exploit | https://github.com/Hawk-Root/WP-USER-ENUMERATION | ['exploit'] | 1 | 2024-03-16 01:26:33+00:00 | 10 | 0 | Python | 0 | [] |
-| mush1e/RCE | Remote Code Execution Platform | https://github.com/mush1e/RCE | ['rce', 'remote code execution'] | 2 | 2024-03-16 22:11:03+00:00 | 129 | 1 | C++ | 0 | [] |
+| xSp4wn/armv8a-shellcode | None | https://github.com/xSp4wn/armv8a-shellcode | ['shellcode'] | 1 | 2024-03-16 00:34:40+00:00 | 0 | 0 | | 0 | [] |
 | TheFlash2k/ctf-writeups | All my random files, exploits and (hopefully) writeups for CTFs that I play | https://github.com/TheFlash2k/ctf-writeups | ['exploit'] | 1 | 2024-03-16 20:25:14+00:00 | 175617 | 0 | CSS | 0 | [] |
-| infoslack/awesome-web-hacking | A list of web application security | https://github.com/infoslack/awesome-web-hacking | ['metasploit module OR payload'] | 1 | 2024-03-16 18:24:50+00:00 | 142 | 5356 | | 1153 | [] |
-| Cod3dDOT/ExploitUtils | Browser extension for js script injection. | https://github.com/Cod3dDOT/ExploitUtils | ['exploit'] | 1 | 2024-03-16 01:13:01+00:00 | 956 | 0 | TypeScript | 0 | [] |
-| Notselwyn/exploits | Custom exploits (all of these are exploits for zerodays found by me, patched in new versions) | https://github.com/Notselwyn/exploits | ['exploit', 'zeroday'] | 2 | 2024-03-16 12:07:05+00:00 | 46 | 1 | Python | 0 | [] |
+| Rajhackers/Payload-helper | # Payload-helper Hellow friend this tool very easy use metasploit framework thanks 🙏 its tool working only Android. | https://github.com/Rajhackers/Payload-helper | ['metasploit module OR payload'] | 1 | 2024-03-16 11:43:07+00:00 | 23 | 1 | Shell | 0 | [] |
+| M3rcena/m3rcena-weky | None | https://github.com/M3rcena/m3rcena-weky | ['rce'] | 1 | 2024-03-16 16:57:25+00:00 | 82 | 0 | JavaScript | 0 | [] |
+| Raxone/Amlogic-exploit | Amogic exploit in linux level | https://github.com/Raxone/Amlogic-exploit | ['exploit'] | 1 | 2024-03-16 05:08:49+00:00 | 313 | 3 | C | 1 | [] |
 | p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime | CVE-2020-8813 - RCE through graph_realtime.php in Cacti 1.2.8 | https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-03-16 08:25:40+00:00 | 5 | 4 | Python | 2 | ['CVE-2020-8813'] |
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2024-03-16 09:03:15+00:00 | 20689 | 155 | | 22 | [] |
 | ethicalblue/Follina-CVE-2022-30190-Sample | Educational Exploit for CVE-2022-30190 (Follina) | https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-03-16 17:42:46+00:00 | 1172 | 5 | C# | 4 | ['CVE-2022-30190'] |
@@ -84,9 +85,10 @@
 | p0dalirius/CVE-2022-21907-http.sys | Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers | https://github.com/p0dalirius/CVE-2022-21907-http.sys | ['cve-2 OR cve_2', 'rce', 'rce poc'] | 3 | 2024-03-16 08:26:06+00:00 | 2463 | 78 | Python | 16 | ['CVE-2022-21907'] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2024-03-16 06:28:07+00:00 | 1521946 | 12 | Jupyter Notebook | 2 | [] |
 | p0dalirius/CVE-2021-43008-AdminerRead | Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability | https://github.com/p0dalirius/CVE-2021-43008-AdminerRead | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-03-16 08:25:52+00:00 | 1834 | 71 | Python | 14 | ['CVE-2021-43008'] |
+| Cod3dDOT/ExploitUtils | Browser extension for js script injection. | https://github.com/Cod3dDOT/ExploitUtils | ['exploit'] | 1 | 2024-03-16 01:13:01+00:00 | 956 | 0 | TypeScript | 0 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2024-03-16 09:15:59+00:00 | 537 | 17 | Java | 3 | [] |
-| SleipnirGroup/Sleipnir | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2024-03-16 04:37:38+00:00 | 2317 | 23 | C++ | 6 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-03-16 18:10:20+00:00 | 11060 | 29 | HTML | 4 | [] |
+| laluka/bypass-url-parser | bypass-url-parser | https://github.com/laluka/bypass-url-parser | ['exploit'] | 1 | 2024-03-16 12:27:58+00:00 | 339 | 934 | Python | 101 | [] |
 | grantdadams/Rceattle_MSE | None | https://github.com/grantdadams/Rceattle_MSE | ['rce'] | 1 | 2024-03-16 20:17:53+00:00 | 943271 | 0 | R | 0 | [] |
 | vuldb/cyber_threat_intelligence | Cyber Threat Intelligence Data, Indicators, and Analysis | https://github.com/vuldb/cyber_threat_intelligence | ['exploit'] | 1 | 2024-03-16 06:31:41+00:00 | 56502 | 62 | | 14 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2024-03-16 04:06:16+00:00 | 3278 | 188 | Python | 16 | [] |
@@ -99,12 +101,12 @@
 | neerajlovecyber/neerajlovecyber | 💫 About Me: 🌱 I’m currently learning Web Application Penetration Testing, Binary Exploitation, Reverse Engineering. 💬 Ask me about Ethical Hacking, Network Security, Cryptography. | https://github.com/neerajlovecyber/neerajlovecyber | ['exploit'] | 1 | 2024-03-16 01:36:26+00:00 | 1405 | 1 | HTML | 0 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-03-16 04:31:24+00:00 | 2500972 | 420 | REXX | 41 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2024-03-16 10:30:53+00:00 | 123253 | 3895 | Python | 543 | [] |
+| RhinoSecurityLabs/pacu | The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. | https://github.com/RhinoSecurityLabs/pacu | ['exploit'] | 1 | 2024-03-16 15:57:00+00:00 | 26776 | 3958 | Python | 646 | [] |
+| Notselwyn/exploits | Custom exploits (all of these are exploits for zerodays found by me, patched in new versions) | https://github.com/Notselwyn/exploits | ['exploit', 'zeroday'] | 2 | 2024-03-16 12:07:05+00:00 | 46 | 1 | Python | 0 | [] |
 | open-crs/automatic_exploit_generation | Module for automatically generating exploits 💎 | https://github.com/open-crs/automatic_exploit_generation | ['exploit'] | 1 | 2024-03-16 14:20:46+00:00 | 84 | 3 | Python | 2 | [] |
-| hideckies/exploit-notes | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | ['exploit'] | 1 | 2024-03-16 17:54:07+00:00 | 2758 | 483 | Nunjucks | 102 | [] |
-| Rajhackers/Payload-helper | # Payload-helper Hellow friend this tool very easy use metasploit framework thanks 🙏 its tool working only Android. | https://github.com/Rajhackers/Payload-helper | ['metasploit module OR payload'] | 1 | 2024-03-16 11:43:07+00:00 | 23 | 1 | Shell | 0 | [] |
-| RoStudioGames/RoStudio-Games-Hub | As a Roblox Exploiter I coded my own hub that has games, scripts and more. | https://github.com/RoStudioGames/RoStudio-Games-Hub | ['exploit'] | 1 | 2024-03-16 16:00:03+00:00 | 168 | 1 | | 0 | [] |
-| M3rcena/m3rcena-weky | None | https://github.com/M3rcena/m3rcena-weky | ['rce'] | 1 | 2024-03-16 16:57:25+00:00 | 82 | 0 | JavaScript | 0 | [] |
-| Raxone/Amlogic-exploit | Amogic exploit in linux level | https://github.com/Raxone/Amlogic-exploit | ['exploit'] | 1 | 2024-03-16 05:08:49+00:00 | 313 | 3 | C | 1 | [] |
+| SleipnirGroup/Sleipnir | A linearity-exploiting sparse nonlinear constrained optimization problem solver that uses the interior-point method. | https://github.com/SleipnirGroup/Sleipnir | ['exploit'] | 1 | 2024-03-16 04:37:38+00:00 | 2317 | 23 | C++ | 6 | [] |
+| AndrePatri/LRHControl | Learning-based Receding Horizon Control exploiting Reinforcement Learning | https://github.com/AndrePatri/LRHControl | ['exploit'] | 1 | 2024-03-16 15:46:26+00:00 | 2136 | 2 | Python | 0 | [] |
+| arkiix/CulhwchFarm | Culhwch Farm for CTF attack/defense (A/D) | https://github.com/arkiix/CulhwchFarm | ['exploit'] | 1 | 2024-03-16 07:22:39+00:00 | 647 | 3 | Python | 0 | [] |
 | ELMERIKH/Keres | Persistent Powershell backdoor tool | https://github.com/ELMERIKH/Keres | ['exploit'] | 1 | 2024-03-16 15:00:45+00:00 | 320 | 91 | Python | 10 | [] |
 | ethicalblue/Windows-Arm64-Shellcode | Educational materials about creating shellcode/payload for Windows Arm64 | https://github.com/ethicalblue/Windows-Arm64-Shellcode | ['shellcode'] | 1 | 2024-03-16 17:43:51+00:00 | 738 | 0 | Assembly | 0 | [] |
 | Miriyalalikhitha/Shellcode | New files | https://github.com/Miriyalalikhitha/Shellcode | ['shellcode'] | 1 | 2024-03-16 12:21:07+00:00 | 49 | 0 | | 0 | [] |
@@ -116,9 +118,9 @@
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-03-16 04:06:50+00:00 | 188129 | 0 | Python | 0 | [] |
 | Sivnerof/Hacking-The-Art-Of-Exploitation | My personal notes and programs for the book "Hacking: The Art Of Exploitation." (https://nostarch.com/hacking2.htm) | https://github.com/Sivnerof/Hacking-The-Art-Of-Exploitation | ['exploit'] | 1 | 2024-03-16 16:38:09+00:00 | 456 | 1 | C | 0 | [] |
 | neohiro/ExploitProtection | Windows Exploit Protection Settings (Ultimate) | https://github.com/neohiro/ExploitProtection | ['exploit'] | 1 | 2024-03-16 02:31:58+00:00 | 713 | 49 | PowerShell | 6 | [] |
-| AndrePatri/LRHControl | Learning-based Receding Horizon Control exploiting Reinforcement Learning | https://github.com/AndrePatri/LRHControl | ['exploit'] | 1 | 2024-03-16 15:46:26+00:00 | 2136 | 2 | Python | 0 | [] |
-| FFJ1/Roblox-Exploits | None | https://github.com/FFJ1/Roblox-Exploits | ['exploit'] | 1 | 2024-03-16 19:46:19+00:00 | 16810 | 1 | Lua | 0 | [] |
+| RoStudioGames/RoStudio-Games-Hub | As a Roblox Exploiter I coded my own hub that has games, scripts and more. | https://github.com/RoStudioGames/RoStudio-Games-Hub | ['exploit'] | 1 | 2024-03-16 16:00:03+00:00 | 168 | 1 | | 0 | [] |
 | lucagrippa/cisa-kev-archive | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | ['exploit'] | 1 | 2024-03-16 23:31:59+00:00 | 1579 | 0 | | 0 | [] |
+| hideckies/exploit-notes | Sticky notes for pentesting, bug bounty, CTF. | https://github.com/hideckies/exploit-notes | ['exploit'] | 1 | 2024-03-16 17:54:07+00:00 | 2758 | 483 | Nunjucks | 102 | [] |
 | ic3qu33n/uefi-getaway-driver | UEFI exploit dev tools and PoC drivers | https://github.com/ic3qu33n/uefi-getaway-driver | ['exploit'] | 1 | 2024-03-16 02:34:27+00:00 | 8829 | 4 | Python | 0 | [] |
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2024-03-16 00:20:28+00:00 | 873666 | 3 | Jupyter Notebook | 1 | [] |
 | MashyBasker/exploit-dev | Repository for my notes, write-ups, and documentation on exploits, reverse engineering, etc. For my own reference and learning. | https://github.com/MashyBasker/exploit-dev | ['exploit'] | 1 | 2024-03-16 16:16:54+00:00 | 391 | 0 | C | 0 | [] |
@@ -131,4 +133,5 @@
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-03-16 10:24:08+00:00 | 11125 | 215 | | 17 | [] |
 | adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-03-16 03:11:14+00:00 | 183061 | 107 | Go | 14 | [] |
 | bellpwn/netxploit | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/netxploit | ['exploit'] | 1 | 2024-03-16 21:21:04+00:00 | 474 | 1 | PHP | 0 | [] |
+| FFJ1/Roblox-Exploits | None | https://github.com/FFJ1/Roblox-Exploits | ['exploit'] | 1 | 2024-03-16 19:46:19+00:00 | 16810 | 1 | Lua | 0 | [] |
 | xem6/CVE-2023-4911 | PoC for CVE-2023-4911 | https://github.com/xem6/CVE-2023-4911 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-03-16 22:54:06+00:00 | 3 | 11 | C | 0 | ['CVE-2023-4911'] |
