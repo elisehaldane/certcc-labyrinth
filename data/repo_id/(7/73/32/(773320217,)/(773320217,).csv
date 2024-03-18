@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 773320217,sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream,run.sh,843474873e588a9b664fe955b99135f9b810a117,CVE-2024-23334
-773320217,sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream,CVE-2024-23334.py,8b3b577a4415f6360d48041d66a4d270686d85ec,CVE-2024-23334
+773320217,sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream,CVE-2024-23334.py,b56fa3452bd308587e71f9106be5418252c4ac70,CVE-2024-23334
 773320217,sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream,_GITHUB_REPO_METADATA_,,CVE-2024-23334
