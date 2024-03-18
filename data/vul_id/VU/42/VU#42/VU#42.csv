@@ -39,11 +39,11 @@ VU#42,0.09090909,https://github.com/jl33-ai/hacks4nets,jl33-ai/hacks4nets,745662
 VU#42,0.09090909,https://github.com/zzwlpx/weblogicPoc,zzwlpx/weblogicPoc,264347023
 VU#42,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#42,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
-VU#42,0.07692308,https://github.com/hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,770745685
 VU#42,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#42,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#42,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#42,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
+VU#42,0.06666667,https://github.com/hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,770745685
 VU#42,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#42,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#42,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
@@ -104,7 +104,6 @@ VU#42,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal
 VU#42,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#42,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#42,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
-VU#42,0.02083333,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#42,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#42,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#42,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
@@ -113,6 +112,7 @@ VU#42,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin3
 VU#42,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#42,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#42,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
+VU#42,0.02000000,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#42,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#42,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#42,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
@@ -293,6 +293,7 @@ VU#42,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploi
 VU#42,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#42,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#42,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#42,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#42,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#42,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#42,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
