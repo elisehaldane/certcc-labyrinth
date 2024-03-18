@@ -4,5 +4,5 @@ repo_id,repo_full_name,file,file_sha1,match
 640823067,DataDog/KubeHound,docs/images/kubehound-high-level.excalidraw,97c17afd4dcaccfd6f1c6732e2e09402cab932d2,VU#09
 640823067,DataDog/KubeHound,docs/images/kubehound-high-level.excalidraw,97c17afd4dcaccfd6f1c6732e2e09402cab932d2,VU#37
 640823067,DataDog/KubeHound,docs/images/kubehound-high-level.excalidraw,97c17afd4dcaccfd6f1c6732e2e09402cab932d2,VU#68
-640823067,DataDog/KubeHound,go.sum,d3186cde6fffaf4c7d794f890ade9646554d88b8,VU#61
+640823067,DataDog/KubeHound,go.sum,cdbfad249965106f7b6c7abadbd3b503368769a0,VU#61
 640823067,DataDog/KubeHound,docs/reference/attacks/ROLE_BIND_overall_view.excalidraw,d7e17ff3a6b19a0eb2f507b7a6b028be1045abb6,VU#96
