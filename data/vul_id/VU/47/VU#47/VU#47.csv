@@ -84,6 +84,7 @@ VU#47,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j
 VU#47,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#47,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#47,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
+VU#47,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#47,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#47,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#47,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
@@ -265,7 +266,6 @@ VU#47,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#47,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#47,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#47,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
-VU#47,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#47,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#47,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#47,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
@@ -273,6 +273,7 @@ VU#47,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#47,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#47,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#47,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#47,0.00943396,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#47,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#47,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#47,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192

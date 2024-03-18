@@ -96,6 +96,7 @@ VU#03,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/
 VU#03,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#03,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
 VU#03,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
+VU#03,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#03,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#03,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
 VU#03,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass,jakabakos/Apache-OFBiz-Authentication-Bypass,738140662
@@ -295,12 +296,12 @@ VU#03,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#03,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#03,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#03,0.01010101,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
-VU#03,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#03,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#03,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#03,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#03,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#03,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#03,0.00943396,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#03,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#03,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#03,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731

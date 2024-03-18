@@ -149,6 +149,7 @@ VU#09,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pac
 VU#09,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#09,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#09,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
+VU#09,0.04545455,https://github.com/JennValentine/exploitsPMJ-,JennValentine/exploitsPMJ-,773572713
 VU#09,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,michele-abruzzese/predictive_maintenance,721573848
 VU#09,0.04545455,https://github.com/cont3mpt/exploitsPMJ,cont3mpt/exploitsPMJ,702760996
 VU#09,0.04545455,https://github.com/Tr1sm3gist0/HTB-Exploits,Tr1sm3gist0/HTB-Exploits,671620547
@@ -298,7 +299,6 @@ VU#09,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#09,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#09,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#09,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
-VU#09,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#09,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#09,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#09,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
@@ -306,6 +306,7 @@ VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#09,0.00980392,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 VU#09,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#09,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#09,0.00943396,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#09,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#09,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#09,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967

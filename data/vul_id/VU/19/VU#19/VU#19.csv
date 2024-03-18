@@ -43,6 +43,7 @@ VU#19,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,7097
 VU#19,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
 VU#19,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
 VU#19,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
+VU#19,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#19,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#19,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#19,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
@@ -207,7 +208,6 @@ VU#19,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#19,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#19,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#19,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
-VU#19,0.01000000,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#19,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#19,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#19,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
@@ -215,6 +215,7 @@ VU#19,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/
 VU#19,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#19,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#19,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#19,0.00943396,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#19,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#19,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#19,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
