@@ -42,6 +42,7 @@ VU#33,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_
 VU#33,0.11111111,https://github.com/kozmic/laravel-poc-CVE-2018-15133,kozmic/laravel-poc-CVE-2018-15133,144760095
 VU#33,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#33,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
+VU#33,0.10000000,https://github.com/Glottocrisio/IKG4CH,Glottocrisio/IKG4CH,602042663
 VU#33,0.10000000,https://github.com/NSHoffman/N7ZedsMut,NSHoffman/N7ZedsMut,516410564
 VU#33,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
 VU#33,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
@@ -82,6 +83,7 @@ VU#33,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploi
 VU#33,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#33,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
 VU#33,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
+VU#33,0.05555556,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#33,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#33,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#33,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
@@ -102,7 +104,6 @@ VU#33,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet
 VU#33,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
 VU#33,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
 VU#33,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-2022-21661-Demo,598931701
-VU#33,0.04545455,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#33,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#33,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#33,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
