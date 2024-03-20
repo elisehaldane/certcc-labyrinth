@@ -176,6 +176,7 @@ VU#32,0.04166667,https://github.com/xzadra03/Exploits,xzadra03/Exploits,47052302
 VU#32,0.04000000,https://github.com/DarkSynx/PhpInterface,DarkSynx/PhpInterface,591885378
 VU#32,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#32,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812
+VU#32,0.03846154,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#32,0.03846154,https://github.com/MAWK0235/MinecraftLog4jAutoPwn,MAWK0235/MinecraftLog4jAutoPwn,758200190
 VU#32,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
 VU#32,0.03846154,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
@@ -296,6 +297,7 @@ VU#32,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodg
 VU#32,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#32,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#32,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
+VU#32,0.01408451,https://github.com/Satheesh575555/openSSL_1.0.1g_CVE-2014-3507,Satheesh575555/openSSL_1.0.1g_CVE-2014-3507,774871069
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705,nidhi7598/OPENSSL_1.0.1g_CVE-2016-0705,716960845
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507,nidhi7598/OPENSSL_1.0.1g_CVE-2014-3507,716930186
 VU#32,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2016-0702,Trinadh465/OpenSSL-1_0_1g_CVE-2016-0702,716591627
@@ -321,7 +323,7 @@ VU#32,0.01408451,https://github.com/pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,pa
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,713243576
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,713237477
 VU#32,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,711849783
-VU#32,0.01408451,https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470,hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470,686885075
+VU#32,0.01408451,https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508,hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508,686885075
 VU#32,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#32,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#32,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
