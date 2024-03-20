@@ -5,6 +5,7 @@ VU#24,1.00000000,https://github.com/snowcra5h/win32-shellcode,snowcra5h/win32-sh
 VU#24,1.00000000,https://github.com/winters0x64/WebSec,winters0x64/WebSec,596062567
 VU#24,1.00000000,https://github.com/tin-z/windbg-exploit-helper-scripts,tin-z/windbg-exploit-helper-scripts,490464190
 VU#24,1.00000000,https://github.com/IAIK/meltdown,IAIK/meltdown,116119704
+VU#24,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
 VU#24,0.50000000,https://github.com/sufyandaredevil/OSED,sufyandaredevil/OSED,693617848
 VU#24,0.50000000,https://github.com/muh404med/BOF-http-service,muh404med/BOF-http-service,672295621
 VU#24,0.50000000,https://github.com/hamza07-w/Exploit-Development,hamza07-w/Exploit-Development,425994460
@@ -326,7 +327,6 @@ VU#24,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#24,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#24,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#24,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#24,0.00558659,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#24,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
 VU#24,0.00543478,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#24,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -334,6 +334,7 @@ VU#24,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,3570
 VU#24,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#24,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#24,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
+VU#24,0.00507614,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#24,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#24,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#24,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526

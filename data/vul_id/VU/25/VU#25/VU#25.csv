@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
+VU#25,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
 VU#25,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
 VU#25,0.33333333,https://github.com/LandiSimone/Vectorization-of-Ban-library,LandiSimone/Vectorization-of-Ban-library,763483280
 VU#25,0.33333333,https://github.com/max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA,max423/Vectorization-on-BAN-library-for-ARM-SVE-and-NEC-AURORA,693576006
@@ -367,7 +368,6 @@ VU#25,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#25,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#25,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#25,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#25,0.00558659,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#25,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
 VU#25,0.00543478,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#25,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
@@ -376,6 +376,7 @@ VU#25,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,3570
 VU#25,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#25,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#25,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
+VU#25,0.00507614,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#25,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 VU#25,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#25,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
