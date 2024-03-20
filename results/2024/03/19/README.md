@@ -70,7 +70,7 @@
 | Cpaluszek/rainfall | exploitation of (elf-like) binary | https://github.com/Cpaluszek/rainfall | ['exploit'] | 1 | 2024-03-19 19:05:53+00:00 | 0 | 0 | | 0 | [] |
 | xxxxhfnr/External-exploits-V4 | None | https://github.com/xxxxhfnr/External-exploits-V4 | ['exploit'] | 1 | 2024-03-19 20:35:32+00:00 | 219 | 0 | | 0 | [] |
 | bishopscode/CyberSecurity | This is a directory for all my cyber exploits | https://github.com/bishopscode/CyberSecurity | ['exploit'] | 1 | 2024-03-19 21:06:53+00:00 | 0 | 0 | | 0 | [] |
-| Chocapikk/CVE-2024-1212 | Unauthenticated Command Injection In Progress Kemp LoadMaster | https://github.com/Chocapikk/CVE-2024-1212 | ['cve-2 OR cve_2'] | 1 | 2024-03-19 22:25:21+00:00 | 3 | 1 | Python | 1 | ['CVE-2024-1212'] |
+| Chocapikk/CVE-2024-1212 | Unauthenticated Command Injection In Progress Kemp LoadMaster | https://github.com/Chocapikk/CVE-2024-1212 | ['command injection', 'cve-2 OR cve_2'] | 2 | 2024-03-19 22:25:21+00:00 | 3 | 2 | Python | 1 | ['CVE-2024-1212'] |
 | Nkipohcs/CVE-2023-2640-CVE-2023-32629 | None | https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629 | ['cve-2 OR cve_2'] | 1 | 2024-03-19 23:26:25+00:00 | 3 | 0 | Shell | 0 | ['CVE-2023-2640', 'CVE-2023-32629'] |
 | VladislavAlpatov/hammer-down | "Hammer Down" is a cutting-edge anti-cheat system designed for multiplayer online games, offering unparalleled security against a wide array of cheats and exploits. | https://github.com/VladislavAlpatov/hammer-down | ['exploit'] | 1 | 2024-03-19 23:09:38+00:00 | 0 | 0 | | 0 | [] |
 | Yang-Shun-Yu/CVE-2023-38545 | None | https://github.com/Yang-Shun-Yu/CVE-2023-38545 | ['cve-2 OR cve_2'] | 1 | 2024-03-19 13:47:48+00:00 | 3 | 0 | Shell | 0 | ['CVE-2023-38545'] |
