@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#28,1.00000000,https://github.com/SleepyVibe/Mobile-Exploit-Hub,SleepyVibe/Mobile-Exploit-Hub,757786818
+VU#28,1.00000000,https://github.com/ayahajjeh/exploiting-software-vulnerabilities,ayahajjeh/exploiting-software-vulnerabilities,757515125
 VU#28,1.00000000,https://github.com/talhabaig007/Havij,talhabaig007/Havij,743469286
 VU#28,1.00000000,https://github.com/Zalushka/EzExploit,Zalushka/EzExploit,546791876
 VU#28,1.00000000,https://github.com/dtreplin/ctf-writeups,dtreplin/ctf-writeups,476246138
@@ -358,7 +359,7 @@ VU#28,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#28,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#28,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#28,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#28,0.00019001,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#28,0.00018993,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#28,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#28,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#28,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

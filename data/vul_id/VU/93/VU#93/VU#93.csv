@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#93,1.00000000,https://github.com/SevJSix/IceAnarchyCore,SevJSix/IceAnarchyCore,605664556
+VU#93,0.50000000,https://github.com/shahmal1yev/exploits,shahmal1yev/exploits,775192840
 VU#93,0.50000000,https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations,BoBpiler/compiler-optimization-vulnerability-explorations,732012374
 VU#93,0.50000000,https://github.com/chucvv/POC-exploit-vulnerability,chucvv/POC-exploit-vulnerability,705451038
 VU#93,0.50000000,https://github.com/CompassMatrix/ZeroDay---ToolBox,CompassMatrix/ZeroDay---ToolBox,560879715
@@ -93,6 +94,7 @@ VU#93,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/
 VU#93,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
 VU#93,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#93,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
+VU#93,0.04761905,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#93,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#93,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#93,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733902391
@@ -105,7 +107,6 @@ VU#93,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,1183
 VU#93,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#93,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
 VU#93,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
-VU#93,0.03846154,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#93,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
 VU#93,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#93,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
