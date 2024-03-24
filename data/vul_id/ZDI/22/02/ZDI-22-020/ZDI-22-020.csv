@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-22-020,0.33333333,https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main,504869018
 ZDI-22-020,0.33333333,https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection,TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection,449096712
+ZDI-22-020,0.20000000,https://github.com/CharonDefalt/WordPress--CVE-2022-21661,CharonDefalt/WordPress--CVE-2022-21661,776679745
 ZDI-22-020,0.20000000,https://github.com/APTIRAN/CVE-2022-21661,APTIRAN/CVE-2022-21661,562600305
 ZDI-22-020,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-2022-21661-Demo,598931701
 ZDI-22-020,0.01923077,https://github.com/elihypoo414/Grabsploit,elihypoo414/Grabsploit,599425641
