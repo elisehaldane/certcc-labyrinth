@@ -35,6 +35,7 @@ VU#89,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/g
 VU#89,0.16666667,https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity,complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity,655981562
 VU#89,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-Exploit,555244125
 VU#89,0.16666667,https://github.com/WPXSS/wordpress-malware,WPXSS/wordpress-malware,203156588
+VU#89,0.14285714,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#89,0.12500000,https://github.com/SoftFeta/tempusespatium,SoftFeta/tempusespatium,117782285
 VU#89,0.11111111,https://github.com/g-patin/RCE_projects,g-patin/RCE_projects,730282886
 VU#89,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/st-ExploitableApp,612678593
@@ -192,7 +193,6 @@ VU#89,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#89,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#89,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#89,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
-VU#89,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#89,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
 VU#89,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#89,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
@@ -206,6 +206,7 @@ VU#89,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#89,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#89,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#89,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
+VU#89,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#89,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#89,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#89,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
@@ -265,11 +266,11 @@ VU#89,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#89,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#89,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#89,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
+VU#89,0.00869565,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#89,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#89,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#89,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#89,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
-VU#89,0.00840336,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#89,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#89,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#89,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025

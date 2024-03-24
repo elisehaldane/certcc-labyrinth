@@ -18,6 +18,7 @@ VU#19,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/nopl
 VU#19,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#19,0.20000000,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
 VU#19,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
+VU#19,0.14285714,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#19,0.14285714,https://github.com/Roblox4dev/SynapseX-,Roblox4dev/SynapseX-,725053450
 VU#19,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#19,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
@@ -28,7 +29,6 @@ VU#19,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRe
 VU#19,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
 VU#19,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#19,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
-VU#19,0.11111111,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#19,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
 VU#19,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#19,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
@@ -155,7 +155,6 @@ VU#19,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,
 VU#19,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#19,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#19,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
-VU#19,0.01515152,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#19,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#19,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#19,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
@@ -169,6 +168,7 @@ VU#19,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#19,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#19,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#19,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
+VU#19,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#19,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#19,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#19,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
@@ -226,11 +226,11 @@ VU#19,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#19,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#19,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#19,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
+VU#19,0.00869565,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#19,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#19,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#19,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#19,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
-VU#19,0.00840336,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#19,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#19,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#19,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
