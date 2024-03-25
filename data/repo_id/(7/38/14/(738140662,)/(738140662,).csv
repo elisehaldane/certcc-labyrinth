@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,xdetection.py,21cfb2430ef0a453765d87a149ed5f59dd448779,CVE-2023-49070
 738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,xdetection.py,21cfb2430ef0a453765d87a149ed5f59dd448779,CVE-2023-51467
-738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,exploit.py,28e1b89550e17803f14fd96458a14192ccc6218f,CVE-2023-49070
-738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,exploit.py,28e1b89550e17803f14fd96458a14192ccc6218f,CVE-2023-51467
+738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,exploit.py,9419691855aea49f2ebea0272780579f08f2ba4c,CVE-2023-49070
+738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,exploit.py,9419691855aea49f2ebea0272780579f08f2ba4c,CVE-2023-51467
 738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#35
 738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#76
 738140662,jakabakos/Apache-OFBiz-Authentication-Bypass,ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#56
