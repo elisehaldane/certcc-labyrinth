@@ -27,8 +27,8 @@ repo_id,repo_full_name,file,file_sha1,match
 594922017,yhy0/Jie,scan/Pocs/pocs_go/go_poc_check.go,26153f44f3c1ee73c4986a8cf24a607e9008cfba,CVE-2022-22965
 594922017,yhy0/Jie,scan/Pocs/pocs_go/go_poc_check.go,26153f44f3c1ee73c4986a8cf24a607e9008cfba,CVE-2020-1938
 594922017,yhy0/Jie,scan/Pocs/pocs_go/go_poc_check.go,26153f44f3c1ee73c4986a8cf24a607e9008cfba,CVE-2019-2729
+594922017,yhy0/Jie,go.sum,31270d4bf34046ca711364147aea23cc7663a4b2,VU#92
 594922017,yhy0/Jie,scan/Pocs/java/weblogic/CVE_2019_2725.go,36138452f127cb25f42641f9c2af7a5737d6cdaa,CVE-2019-2725
-594922017,yhy0/Jie,go.sum,3df281d5f7c71bb3f169465755a6d53a39303bf2,VU#92
 594922017,yhy0/Jie,scan/Pocs/oa/seeyon/CNVD_2020_62422.go,4088ac29bd6f9c12b3d2f1a0ff31f09f8fdd17ca,CNVD-2020-62422
 594922017,yhy0/Jie,scan/Pocs/java/shiro/gadget.go,42737ca4414c6b943f73ba4351aa69fe2f52940f,VU#29
 594922017,yhy0/Jie,scan/Pocs/java/weblogic/CVE_2017_3506.go,429def21aa9e59adc50b347c0fb9bbcb883b818a,CVE-2017-3506
