@@ -216,7 +216,6 @@ VU#40,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,Trin
 VU#40,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,715044717
 VU#40,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,714987809
 VU#40,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,714983467
-VU#40,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,714919741
 VU#40,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,713804003
 VU#40,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,713799603
 VU#40,0.01408451,https://github.com/pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,713738485
@@ -228,6 +227,7 @@ VU#40,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Mon
 VU#40,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
 VU#40,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#40,0.01408451,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#40,0.01388889,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304,nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304,714919741
 VU#40,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#40,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#40,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847

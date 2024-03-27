@@ -93,6 +93,7 @@ VU#29,0.20000000,https://github.com/NeoWans/CVE-2018-19246,NeoWans/CVE-2018-1924
 VU#29,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
 VU#29,0.20000000,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
 VU#29,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
+VU#29,0.16666667,https://github.com/Bendrox/LLM_SFCR_exploit_Langchain_Azure,Bendrox/LLM_SFCR_exploit_Langchain_Azure,777972885
 VU#29,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
 VU#29,0.16666667,https://github.com/justikail/webshell,justikail/webshell,624349349
 VU#29,0.16666667,https://github.com/mysurvive/pf2e-thaum-vuln,mysurvive/pf2e-thaum-vuln,591137885
@@ -585,7 +586,7 @@ VU#29,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#29,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#29,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#29,0.00085763,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00085470,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -630,7 +631,7 @@ VU#29,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#29,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#29,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#29,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00018993,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018979,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

@@ -27,7 +27,6 @@ VU#109,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1792,Tri
 VU#109,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,Trinadh465/OpenSSL-1_0_1g_CVE-2015-1790,715044717
 VU#109,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3195,714987809
 VU#109,0.01408451,https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,Trinadh465/OpenSSL-1_0_1g_CVE-2015-3194,714983467
-VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2178,714919741
 VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2176,713804003
 VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,nidhi7598/OPENSSL_1.0.1g_CVE-2016-2109,713799603
 VU#109,0.01408451,https://github.com/pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,pazhanivel07/OpenSSL_1_0_1g_CVE-2015-1788,713738485
@@ -35,6 +34,7 @@ VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2010-5298,nidh
 VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224,713237477
 VU#109,0.01408451,https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778,711849783
 VU#109,0.01408451,https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508,hshivhare67/OpenSSL_1.0.1g_CVE-2014-3508,686885075
+VU#109,0.01388889,https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304,nidhi7598/OPENSSL_1.0.1g_CVE-2016-6304,714919741
 VU#109,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#109,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#109,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535

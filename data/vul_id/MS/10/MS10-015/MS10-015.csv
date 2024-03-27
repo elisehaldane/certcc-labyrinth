@@ -24,6 +24,7 @@ MS10-015,0.03333333,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-
 MS10-015,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 MS10-015,0.03030303,https://github.com/Pheelbert/ad_exploit_tools,Pheelbert/ad_exploit_tools,326074460
 MS10-015,0.02777778,https://github.com/ITNerdbox/exploits,ITNerdbox/exploits,81378778
+MS10-015,0.02631579,https://github.com/BC-SECURITY/Moriarty,BC-SECURITY/Moriarty,730248692
 MS10-015,0.02500000,https://github.com/mishmashclone/abatchy17-WindowsExploits,mishmashclone/abatchy17-WindowsExploits,225470680
 MS10-015,0.02500000,https://github.com/dineshkumarc987/WindowsExploits,dineshkumarc987/WindowsExploits,110072791
 MS10-015,0.02500000,https://github.com/bbabacan/WinExploits,bbabacan/WinExploits,96568711
@@ -173,7 +174,7 @@ MS10-015,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-inst
 MS10-015,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS10-015,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS10-015,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-MS10-015,0.00060976,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS10-015,0.00060827,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS10-015,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 MS10-015,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 MS10-015,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -286,7 +287,7 @@ MS10-015,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhome
 MS10-015,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 MS10-015,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS10-015,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS10-015,0.00018993,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-015,0.00018979,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-015,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-015,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-015,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
