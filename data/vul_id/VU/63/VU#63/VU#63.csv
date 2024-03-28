@@ -89,6 +89,7 @@ VU#63,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,Froxen
 VU#63,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#63,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#63,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
+VU#63,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#63,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#63,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#63,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
@@ -96,7 +97,6 @@ VU#63,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/H
 VU#63,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#63,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#63,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
-VU#63,0.05882353,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#63,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#63,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#63,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
@@ -395,6 +395,7 @@ VU#63,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepan
 VU#63,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#63,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#63,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#63,0.00242718,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#63,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#63,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#63,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271

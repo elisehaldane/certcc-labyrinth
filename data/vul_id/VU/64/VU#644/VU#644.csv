@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#644,0.50000000,https://github.com/computestdev/CompuRacer,computestdev/CompuRacer,185211495
+VU#644,0.06250000,https://github.com/appsecandrewlee/Software-Security-SQL-Injection-Integer-overflow,appsecandrewlee/Software-Security-SQL-Injection-Integer-overflow,778319854
 VU#644,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
 VU#644,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#644,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
@@ -13,6 +14,7 @@ VU#644,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#644,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#644,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#644,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#644,0.00242718,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#644,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#644,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#644,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
