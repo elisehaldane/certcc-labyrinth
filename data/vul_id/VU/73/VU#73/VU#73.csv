@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#73,1.00000000,https://github.com/cloudx0r/0day-Multi-Builder,cloudx0r/0day-Multi-Builder,717752616
 VU#73,1.00000000,https://github.com/AIiceR/cvexercise280722,AIiceR/cvexercise280722,518821536
 VU#73,1.00000000,https://github.com/RealChronics/Exploit-Template,RealChronics/Exploit-Template,436071477
+VU#73,0.50000000,https://github.com/Lorenzinco/Heap-Exploitation-learning,Lorenzinco/Heap-Exploitation-learning,780083490
 VU#73,0.50000000,https://github.com/0xbitx/DEDSEC_WIFI_VENDO_TIME,0xbitx/DEDSEC_WIFI_VENDO_TIME,684618751
 VU#73,0.50000000,https://github.com/dhairya7760/Stapler-Machine-Exploitation,dhairya7760/Stapler-Machine-Exploitation,655194365
 VU#73,0.50000000,https://github.com/Pandoragiann/SploitX,Pandoragiann/SploitX,591595613
@@ -200,6 +201,7 @@ VU#73,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#73,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#73,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#73,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#73,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#73,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#73,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#73,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -258,9 +260,9 @@ VU#73,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#73,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#73,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#73,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#73,0.00507614,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#73,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 VU#73,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
+VU#73,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#73,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#73,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#73,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -341,6 +343,7 @@ VU#73,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#73,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#73,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#73,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#73,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#73,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#73,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#73,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

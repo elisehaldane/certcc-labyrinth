@@ -10,7 +10,6 @@ VU#47,1.00000000,https://github.com/handfields/go-rce-kubernetes,handfields/go-r
 VU#47,1.00000000,https://github.com/MarioCSilva/Vulnerabilities_Exploitation,MarioCSilva/Vulnerabilities_Exploitation,317612363
 VU#47,1.00000000,https://github.com/ViRb3/apk-utilities,ViRb3/apk-utilities,167910540
 VU#47,0.50000000,https://github.com/TheFlash2k/ctf-writeups,TheFlash2k/ctf-writeups,747197102
-VU#47,0.50000000,https://github.com/MrXiao7/Notes,MrXiao7/Notes,721210794
 VU#47,0.50000000,https://github.com/ericchartier4/RCESaskAssistance,ericchartier4/RCESaskAssistance,705369082
 VU#47,0.50000000,https://github.com/heeloo123/CVE-2021-44228,heeloo123/CVE-2021-44228,616448829
 VU#47,0.50000000,https://github.com/eblair2/Ios15_exploits_POC,eblair2/Ios15_exploits_POC,499267218
@@ -20,6 +19,7 @@ VU#47,0.33333333,https://github.com/cckuailong/Test-JNDI-Injection-Exploit-Plus,
 VU#47,0.33333333,https://github.com/sazolborman/Fake_News_Detection,sazolborman/Fake_News_Detection,517626410
 VU#47,0.33333333,https://github.com/WhiteHacker-P/Evil-Termux,WhiteHacker-P/Evil-Termux,487606225
 VU#47,0.33333333,https://github.com/patrickhener/CVE-2020-15492,patrickhener/CVE-2020-15492,298218272
+VU#47,0.25000000,https://github.com/MrXiao7/Notes,MrXiao7/Notes,721210794
 VU#47,0.25000000,https://github.com/YuriLappy/Metasploitable2,YuriLappy/Metasploitable2,694789729
 VU#47,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,523301905
 VU#47,0.20000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
@@ -271,6 +271,7 @@ VU#47,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#47,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#47,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#47,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#47,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#47,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#47,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#47,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
@@ -285,13 +286,13 @@ VU#47,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#47,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#47,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731
 VU#47,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
-VU#47,0.00869565,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#47,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#47,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#47,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#47,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#47,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#47,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
+VU#47,0.00819672,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#47,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#47,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#47,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
@@ -333,9 +334,9 @@ VU#47,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#47,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#47,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#47,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#47,0.00507614,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#47,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#47,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#47,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#47,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#47,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#47,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -426,6 +427,7 @@ VU#47,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/m
 VU#47,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#47,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#47,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#47,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#47,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#47,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#47,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
