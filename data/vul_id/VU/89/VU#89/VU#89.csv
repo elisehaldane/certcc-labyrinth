@@ -1,12 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#89,1.00000000,https://github.com/EGR-314-Team-305-Spring-2024/EGR-314-Team-305-Spring-2024.github.io,EGR-314-Team-305-Spring-2024/EGR-314-Team-305-Spring-2024.github.io,743270703
-VU#89,1.00000000,https://github.com/richard-hartnell/delt-housing,richard-hartnell/delt-housing,685200420
 VU#89,1.00000000,https://github.com/AbstractMelon/Melonblock,AbstractMelon/Melonblock,677070377
 VU#89,1.00000000,https://github.com/qeeqbox/sql-injection,qeeqbox/sql-injection,581730832
 VU#89,1.00000000,https://github.com/za1234567/voice-exploit-master,za1234567/voice-exploit-master,538135599
 VU#89,1.00000000,https://github.com/doof-dev/exploit-hub,doof-dev/exploit-hub,486376673
 VU#89,1.00000000,https://github.com/ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,ali-ece/Inclined-planes-system-optimization-theory-literature-review-and-state-of-the-art-versions-for-II,478938133
 VU#89,1.00000000,https://github.com/tolik518/simple_webshop,tolik518/simple_webshop,468687882
+VU#89,0.50000000,https://github.com/richard-hartnell/delt-housing,richard-hartnell/delt-housing,685200420
 VU#89,0.50000000,https://github.com/abhijeet-000/ZERODAY_A,abhijeet-000/ZERODAY_A,663438550
 VU#89,0.50000000,https://github.com/soujanyanmbri/exploits-mine-withcodes,soujanyanmbri/exploits-mine-withcodes,621189687
 VU#89,0.50000000,https://github.com/nottkriksis/Vox-Exploit,nottkriksis/Vox-Exploit,599679741
@@ -254,7 +254,7 @@ VU#89,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#89,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#89,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#89,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#89,0.00961538,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#89,0.00952381,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#89,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#89,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#89,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
