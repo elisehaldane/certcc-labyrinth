@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+770508164,aggressor0/GL.iNet-RCE,CVE-2024-27356.py,85d85f11d0fac4b8ba207f68b3c1df6323f39dc4,CVE-2024-27356
+770508164,aggressor0/GL.iNet-RCE,README.md,c860f917694cf4bd0d62730c041ba80767a129fa,CVE-2024-27356
