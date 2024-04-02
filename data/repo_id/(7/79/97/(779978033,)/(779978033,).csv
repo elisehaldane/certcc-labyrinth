@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 779978033,jfrog/cve-2024-3094-tools,README.md,19bc0a63e1ee15a8deb9e398ee9212131615957e,CVE-2024-3094
-779978033,jfrog/cve-2024-3094-tools,cve-2024-3094-detector/cve-2024-3094-detector.sh,5ff53a6ab2c94f1d1c1bef3b6d6daeb684187ef0,CVE-2024-3094
+779978033,jfrog/cve-2024-3094-tools,cve-2024-3094-detector/cve-2024-3094-detector.sh,69fa54b7c53ddeda477fcfd93864962db949ba20,CVE-2024-3094
 779978033,jfrog/cve-2024-3094-tools,cve-2024-3094-detector/README.md,ad4d76613f2f55aa4bd33c1930efffc6e5e24e7e,CVE-2024-3094
 779978033,jfrog/cve-2024-3094-tools,_GITHUB_REPO_METADATA_,,CVE-2024-3094
