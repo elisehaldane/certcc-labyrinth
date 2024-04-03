@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-FQ23-G58M-799R,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-GHSA-FQ23-G58M-799R,0.00000994,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-FQ23-G58M-799R,0.00000993,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-FQ23-G58M-799R,0.00000336,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
