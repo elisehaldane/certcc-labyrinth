@@ -10,7 +10,7 @@ VU#87,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#87,0.50000000,https://github.com/AninditaDeb/LDAM-DRW-and-RCE,AninditaDeb/LDAM-DRW-and-RCE,462986023
 VU#87,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#87,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#87,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
+VU#87,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
 VU#87,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#87,0.33333333,https://github.com/Wizzuki/exploit.hack.me,Wizzuki/exploit.hack.me,771091038
 VU#87,0.33333333,https://github.com/iluaboltov/EnE,iluaboltov/EnE,726270547
@@ -48,6 +48,7 @@ VU#87,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV
 VU#87,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#87,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#87,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
+VU#87,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#87,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#87,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
 VU#87,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
@@ -232,7 +233,7 @@ VU#87,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPre
 VU#87,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#87,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#87,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#87,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#87,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#87,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#87,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#87,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -395,7 +396,7 @@ VU#87,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#87,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#87,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#87,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#87,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00018968,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#87,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#87,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

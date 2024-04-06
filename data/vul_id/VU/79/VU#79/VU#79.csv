@@ -58,6 +58,7 @@ VU#79,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankl
 VU#79,0.10000000,https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,439837504
 VU#79,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#79,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
+VU#79,0.08333333,https://github.com/Ramyasura/MediEthiCare,Ramyasura/MediEthiCare,782132288
 VU#79,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#79,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#79,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
@@ -198,7 +199,7 @@ VU#79,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,c
 VU#79,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#79,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#79,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#79,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#79,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#79,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#79,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#79,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -208,7 +209,7 @@ VU#79,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#79,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#79,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#79,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#79,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#79,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#79,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#79,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#79,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -352,7 +353,7 @@ VU#79,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#79,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#79,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#79,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#79,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#79,0.00018968,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#79,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

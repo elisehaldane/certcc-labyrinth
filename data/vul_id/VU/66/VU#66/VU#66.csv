@@ -8,17 +8,18 @@ VU#66,1.00000000,https://github.com/mvqna/Roblox,mvqna/Roblox,639975722
 VU#66,1.00000000,https://github.com/rajnetwork1/CiLock,rajnetwork1/CiLock,595407263
 VU#66,1.00000000,https://github.com/password520/SeeyonExploit-GUI,password520/SeeyonExploit-GUI,477361295
 VU#66,1.00000000,https://github.com/linshaoSec/SeeyonExploit-GUI,linshaoSec/SeeyonExploit-GUI,440136137
-VU#66,1.00000000,https://github.com/grantdadams/Rceattle,grantdadams/Rceattle,115368401
 VU#66,0.50000000,https://github.com/VincentJ860/VJ-ExecuterExploit,VincentJ860/VJ-ExecuterExploit,610847548
 VU#66,0.50000000,https://github.com/yosxos/Post-Exploitation-Tool,yosxos/Post-Exploitation-Tool,569255899
 VU#66,0.50000000,https://github.com/scarsoftware/ScarSploit,scarsoftware/ScarSploit,480746539
 VU#66,0.50000000,https://github.com/AninditaDeb/LDAM-DRW-and-RCE,AninditaDeb/LDAM-DRW-and-RCE,462986023
+VU#66,0.50000000,https://github.com/grantdadams/Rceattle,grantdadams/Rceattle,115368401
 VU#66,0.33333333,https://github.com/1406429350/CUnet-main,1406429350/CUnet-main,513395754
 VU#66,0.33333333,https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer,503628259
 VU#66,0.33333333,https://github.com/badiea3000/RedvsBlue,badiea3000/RedvsBlue,501354130
 VU#66,0.33333333,https://github.com/kbcyb2122/Penetration-Testing-Report-Good-Security,kbcyb2122/Penetration-Testing-Report-Good-Security,483391494
 VU#66,0.33333333,https://github.com/loicosquare/rce_project,loicosquare/rce_project,455168078
 VU#66,0.33333333,https://github.com/kkhuong/Advantage-Gambling,kkhuong/Advantage-Gambling,184218894
+VU#66,0.25000000,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#66,0.25000000,https://github.com/MrXiao7/Notes,MrXiao7/Notes,721210794
 VU#66,0.25000000,https://github.com/Acefrrag/I-DNN,Acefrrag/I-DNN,489038043
 VU#66,0.25000000,https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System,484983840
@@ -83,7 +84,6 @@ VU#66,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-propertie
 VU#66,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatrain,392095984
 VU#66,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#66,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
-VU#66,0.04761905,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#66,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#66,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
 VU#66,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
@@ -99,6 +99,7 @@ VU#66,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayAp
 VU#66,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#66,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#66,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
+VU#66,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#66,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#66,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#66,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
@@ -220,7 +221,7 @@ VU#66,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#66,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#66,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#66,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#66,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#66,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#66,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#66,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#66,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -362,7 +363,7 @@ VU#66,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#66,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#66,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#66,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#66,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#66,0.00018968,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#66,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#66,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#66,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

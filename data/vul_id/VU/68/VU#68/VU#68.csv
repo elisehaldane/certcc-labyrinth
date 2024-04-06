@@ -13,6 +13,7 @@ VU#68,0.33333333,https://github.com/ted314-cyber/Project-L-CTF,ted314-cyber/Proj
 VU#68,0.33333333,https://github.com/tonykcmarsh/KC-Exploits-New,tonykcmarsh/KC-Exploits-New,561147179
 VU#68,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#68,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
+VU#68,0.25000000,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#68,0.25000000,https://github.com/evi-g/Web-Development,evi-g/Web-Development,692706284
 VU#68,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#68,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
@@ -82,6 +83,7 @@ VU#68,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExp
 VU#68,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#68,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
 VU#68,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#68,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#68,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
@@ -95,7 +97,6 @@ VU#68,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatr
 VU#68,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
 VU#68,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#68,0.05000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
-VU#68,0.04761905,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#68,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#68,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#68,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
@@ -214,7 +215,7 @@ VU#68,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#68,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#68,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#68,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#68,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#68,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#68,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#68,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#68,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
@@ -368,7 +369,7 @@ VU#68,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#68,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#68,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#68,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#68,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00018968,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#68,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

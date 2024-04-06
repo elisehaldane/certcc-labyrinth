@@ -26,6 +26,7 @@ VU#52,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000
 VU#52,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#52,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#52,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#52,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#52,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#52,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
 VU#52,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
@@ -145,7 +146,7 @@ VU#52,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#52,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#52,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#52,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#52,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#52,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#52,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#52,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#52,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -284,7 +285,7 @@ VU#52,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#52,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#52,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#52,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#52,0.00018972,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#52,0.00018968,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#52,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#52,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#52,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

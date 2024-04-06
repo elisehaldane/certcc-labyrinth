@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#626,1.00000000,https://github.com/sahaha13/Text-Classifier-Using-markov-model.ipynb,sahaha13/Text-Classifier-Using-markov-model.ipynb,491841178
-VU#626,0.04761905,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#626,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#626,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#626,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
