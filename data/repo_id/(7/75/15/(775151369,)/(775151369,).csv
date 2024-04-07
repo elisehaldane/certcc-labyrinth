@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+775151369,Notselwyn/CVE-2024-1086,README.md,537c31c1b0b2b37214646d1118eab868769f5bce,CVE-2024-1086
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#101010
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#410
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#411
@@ -7,7 +8,6 @@ repo_id,repo_full_name,file,file_sha1,match
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#444
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#888
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#8888
-775151369,Notselwyn/CVE-2024-1086,README.md,76d5ab3788edad31ae5b99a7dd660f5b444721b2,CVE-2024-1086
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#410
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#411
 775151369,Notselwyn/CVE-2024-1086,include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#420
