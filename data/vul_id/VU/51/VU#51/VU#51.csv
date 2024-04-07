@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
 VU#51,0.50000000,https://github.com/azertyuiopexe/njrat,azertyuiopexe/njrat,732631644
 VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
-VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
+VU#51,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
 VU#51,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#51,0.33333333,https://github.com/Malwareman007/CVE-2023-34362,Malwareman007/CVE-2023-34362,664363660
 VU#51,0.33333333,https://github.com/horizon3ai/CVE-2023-34362,horizon3ai/CVE-2023-34362,651666895
@@ -70,6 +70,7 @@ VU#51,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/je
 VU#51,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
 VU#51,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
 VU#51,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
+VU#51,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#51,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#51,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#51,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
@@ -211,7 +212,7 @@ VU#51,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#51,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#51,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#51,0.00952381,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
-VU#51,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#51,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#51,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#51,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#51,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
@@ -329,7 +330,7 @@ VU#51,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exp
 VU#51,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#51,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#51,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#51,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#51,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
 VU#51,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#51,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#51,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

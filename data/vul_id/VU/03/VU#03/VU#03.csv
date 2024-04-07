@@ -27,6 +27,7 @@ VU#03,0.25000000,https://github.com/huyql109/Kernel-exploitation,huyql109/Kernel
 VU#03,0.25000000,https://github.com/NeobloxExecutor/neoblox,NeobloxExecutor/neoblox,492579550
 VU#03,0.25000000,https://github.com/Plextora/neoblox,Plextora/neoblox,469819250
 VU#03,0.25000000,https://github.com/ivam3/embed,ivam3/embed,145826519
+VU#03,0.20000000,https://github.com/yufongg/safecypher,yufongg/safecypher,758822408
 VU#03,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
 VU#03,0.20000000,https://github.com/Wesley-Kimeli-Kirui/Mkulima_Portal,Wesley-Kimeli-Kirui/Mkulima_Portal,618568977
 VU#03,0.20000000,https://github.com/castroaj/Command_Injection_WAF,castroaj/Command_Injection_WAF,561098305
@@ -85,6 +86,7 @@ VU#03,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/Secu
 VU#03,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#03,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#03,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
+VU#03,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#03,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#03,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#03,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
@@ -312,7 +314,7 @@ VU#03,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#03,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731
 VU#03,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#03,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#03,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#03,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#03,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#03,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#03,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

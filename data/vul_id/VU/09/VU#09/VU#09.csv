@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#09,1.00000000,https://github.com/g3tsyst3m/asmgoodness,g3tsyst3m/asmgoodness,640662761
 VU#09,1.00000000,https://github.com/one2blame/splintershell,one2blame/splintershell,486534152
-VU#09,1.00000000,https://github.com/yjhang-one/Vulnerability-POC-script,yjhang-one/Vulnerability-POC-script,464097142
+VU#09,1.00000000,https://github.com/mianbao-and-niunai/Vulnerability-POC-script,mianbao-and-niunai/Vulnerability-POC-script,464097142
 VU#09,1.00000000,https://github.com/A4P5/Promethean,A4P5/Promethean,432484208
 VU#09,1.00000000,https://github.com/ceritarommy/ajaxfilemanager,ceritarommy/ajaxfilemanager,426785762
 VU#09,1.00000000,https://github.com/mahaloz/ike,mahaloz/ike,338205755
@@ -183,7 +183,7 @@ VU#09,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#09,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#09,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#09,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#09,0.03030303,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
+VU#09,0.03030303,https://github.com/Hacking-Notes/RedTeam,Hacking-Notes/RedTeam,600806376
 VU#09,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#09,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#09,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
@@ -311,14 +311,14 @@ VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#09,0.00980392,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 VU#09,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#09,0.00952381,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
-VU#09,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#09,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#09,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#09,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#09,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#09,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#09,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#09,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#09,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#09,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#09,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#09,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#09,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
