@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#23,1.00000000,https://github.com/Quartinal/INSECURLY,Quartinal/INSECURLY,733309654
 VU#23,1.00000000,https://github.com/DanisyEisyraf/Vulnerability-Attacks,DanisyEisyraf/Vulnerability-Attacks,652877446
 VU#23,1.00000000,https://github.com/jity16/BEE,jity16/BEE,650042183
-VU#23,1.00000000,https://github.com/JoshUnscripted/Roblox-Exploit-Open-Source,JoshUnscripted/Roblox-Exploit-Open-Source,553967050
+VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
 VU#23,0.50000000,https://github.com/Jeediof/PhoneSploit,Jeediof/PhoneSploit,750314361
 VU#23,0.50000000,https://github.com/PABLEXWorld/ScreenFX,PABLEXWorld/ScreenFX,692646307
@@ -16,7 +16,7 @@ VU#23,0.50000000,https://github.com/Rich-dotcom/PhoneSploit,Rich-dotcom/PhoneSpl
 VU#23,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,492448072
 VU#23,0.50000000,https://github.com/soryecker/PhoneSploitSor,soryecker/PhoneSploitSor,339217912
 VU#23,0.50000000,https://github.com/mishab-ka/PhoneSploit,mishab-ka/PhoneSploit,287889360
-VU#23,0.50000000,https://github.com/aerosol-can/PhoneSploit,aerosol-can/PhoneSploit,259933740
+VU#23,0.50000000,https://github.com/prbhtkumr/PhoneSploit,prbhtkumr/PhoneSploit,259933740
 VU#23,0.33333333,https://github.com/Gustasvk/exploits,Gustasvk/exploits,759772296
 VU#23,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
 VU#23,0.33333333,https://github.com/Yasmineoueslati/Jalon_1_NLP,Yasmineoueslati/Jalon_1_NLP,554212123
@@ -90,6 +90,7 @@ VU#23,0.14285714,https://github.com/aman250820/A-System-architecture-for-real-ti
 VU#23,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
 VU#23,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,447444851
 VU#23,0.14285714,https://github.com/f0rm2l1n/ExP1oiT5,f0rm2l1n/ExP1oiT5,380461713
+VU#23,0.12500000,https://github.com/OfficialDex/Exploitx-hub-2.9.6,OfficialDex/Exploitx-hub-2.9.6,783148201
 VU#23,0.12500000,https://github.com/sadiqsonalkar/Internship,sadiqsonalkar/Internship,717998055
 VU#23,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
 VU#23,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
@@ -277,17 +278,17 @@ VU#23,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#23,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#23,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#23,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#23,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#23,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#23,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#23,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#23,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#23,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#23,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
-VU#23,0.00819672,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#23,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#23,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#23,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#23,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#23,0.00793651,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#23,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#23,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#23,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
