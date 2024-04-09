@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+783624479,yinsel/ShellcodeCryptor,include/elgamal.h,1b013fc074e87278acedcccb05893a95dbba46e9,CVE-2021-40530
+783624479,yinsel/ShellcodeCryptor,include/secblock.h,5021e439749bd29172fca130698b11d9c6b8187b,CVE-2016-9939
+783624479,yinsel/ShellcodeCryptor,include/config_misc.h,797b35d769ff011019ae71255116958fd41bc92f,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,include/trap.h,82d3d53b140f9691306aaa102983e22bc25230a1,CVE-2016-7420
+783624479,yinsel/ShellcodeCryptor,include/gfpcrypt.h,bcb7d3776a2680ef4513933e4ebd83197ba30c08,CVE-2021-40530
