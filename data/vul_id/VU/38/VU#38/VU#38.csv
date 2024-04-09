@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#38,1.00000000,https://github.com/OfficialDex/Exploit-hub-V2.9.6,OfficialDex/Exploit-hub-V2.9.6,784013925
 VU#38,1.00000000,https://github.com/fgmdfjdfjndf/Hackerware,fgmdfjdfjndf/Hackerware,776317116
 VU#38,1.00000000,https://github.com/lias-laboratory/ontoql_v2,lias-laboratory/ontoql_v2,590047595
 VU#38,1.00000000,https://github.com/p0dalirius/LimeSurvey-webshell-plugin,p0dalirius/LimeSurvey-webshell-plugin,481974740
@@ -92,7 +93,6 @@ VU#38,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analy
 VU#38,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#38,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#38,0.04166667,https://github.com/backendGuru88/End-exploitation-website,backendGuru88/End-exploitation-website,697231446
-VU#38,0.04166667,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#38,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#38,0.04166667,https://github.com/xzadra03/Exploits,xzadra03/Exploits,470523025
 VU#38,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
@@ -129,6 +129,7 @@ VU#38,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-
 VU#38,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#38,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#38,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
+VU#38,0.02222222,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#38,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#38,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#38,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
@@ -325,7 +326,7 @@ VU#38,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepan
 VU#38,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#38,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#38,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
-VU#38,0.00242718,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#38,0.00224215,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#38,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#38,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#38,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271

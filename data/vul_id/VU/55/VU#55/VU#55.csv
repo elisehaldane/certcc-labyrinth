@@ -107,6 +107,7 @@ VU#55,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#55,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#55,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#55,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
+VU#55,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#55,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#55,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#55,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
@@ -173,6 +174,7 @@ VU#55,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-20
 VU#55,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#55,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
 VU#55,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,510346412
+VU#55,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,510336370
 VU#55,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,503718685
 VU#55,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,502025687
 VU#55,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,501898439
@@ -432,7 +434,7 @@ VU#55,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepan
 VU#55,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#55,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#55,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
-VU#55,0.00242718,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#55,0.00224215,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#55,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#55,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#55,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
