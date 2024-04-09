@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+783453075,TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4,exploit_cve_2024_3116.py,3beca7fdfbe7a155b9fac2ec3d448ad8558fe1e6,CVE-2024-3116
+783453075,TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4,README.md,d467dfc28ebbdbd5be30efa09f2e1e83ba8f9d50,CVE-2024-3116
+783453075,TechieNeurons/CVE-2024-3116_RCE_in_pgadmin_8.4,_GITHUB_REPO_METADATA_,,CVE-2024-3116
