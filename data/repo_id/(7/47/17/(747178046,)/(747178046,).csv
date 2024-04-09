@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,CVE-2012-2122
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,CVE-2017-5689
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,CVE-2018-10933
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,CVE-2019-0708
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,CVE-2020-0796
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,MS12-020
-747178046,Minashi/SeniorProject,main.py,a0ef8bac72637e8b2128bc95231eee43c93c9d29,MS17-010
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,CVE-2012-2122
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,CVE-2017-5689
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,CVE-2018-10933
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,CVE-2019-0708
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,CVE-2020-0796
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,MS12-020
+747178046,Minashi/SeniorProject,scripts/enumerate_lan.py,65cd87a6c258093d70be326228e94a3e8f360f00,MS17-010
