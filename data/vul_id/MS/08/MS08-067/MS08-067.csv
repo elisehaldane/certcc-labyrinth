@@ -58,6 +58,7 @@ MS08-067,1.00000000,https://github.com/tiwaryshailesh/MetasploitOnSteroids,tiwar
 MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,20582409
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
+MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
 MS08-067,0.50000000,https://github.com/Cipher-Rachael/Reconnaissance-and-Exploitation-with-Kali-Linux,Cipher-Rachael/Reconnaissance-and-Exploitation-with-Kali-Linux,770417981
 MS08-067,0.50000000,https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,742667541
 MS08-067,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
@@ -602,7 +603,7 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000985,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000983,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000435,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
