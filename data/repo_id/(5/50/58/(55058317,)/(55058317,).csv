@@ -15,8 +15,8 @@ repo_id,repo_full_name,file,file_sha1,match
 55058317,threat9/routersploit,routersploit/resources/ssh_keys/exagrid-cve-2016-1561.key,4f1d158f1b45c75622d2f4e1baded1ad8d4375ad,CVE-2016-1561
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/multi/misfortune_cookie.py,52033b62f2f531cc4fd96eaba9e583f87904c87e,CVE-2014-9222
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/netgear/multi_password_disclosure-2017-5521.py,57ef05831296f94413010065f8dfbbf035b6ae87,CVE-2017-5521
-55058317,threat9/routersploit,routersploit/modules/exploits/cameras/multi/P2P_wificam_rce.py,5b7620f0632e55be0752390ca0b7032d52da5e1e,CVE-2017-8225
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/cisco/firepower_management60_rce.py,636ac52c59102ca3084991ba50e98427a5929597,CVE-2016-6433
+55058317,threat9/routersploit,routersploit/modules/exploits/cameras/multi/P2P_wificam_rce.py,65cd7529159012f190e26c2321a2014cc63b4184,CVE-2017-8225
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/netgear/dgn2200_ping_cgi_rce.py,8d3283cce11d8d3794895217cb77d679cf2e4738,CVE-2017-6077
 55058317,threat9/routersploit,routersploit/modules/exploits/generic/ssh_auth_keys.py,8de6d6e9ab1fcf75796cbdefc5a6f7909e3e180e,VU#662676
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/asus/asuswrt_lan_rce.py,98d3d90db605b8d843410e7fc0db3086250dbecf,CVE-2018-5999
