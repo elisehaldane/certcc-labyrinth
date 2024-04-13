@@ -151,10 +151,10 @@ VU#68,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awes
 VU#68,0.01818182,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#68,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#68,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
-VU#68,0.01754386,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#68,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#68,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#68,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
+VU#68,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#68,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#68,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#68,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
@@ -176,6 +176,7 @@ VU#68,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_tr
 VU#68,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#68,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#68,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
+VU#68,0.01428571,https://github.com/edavgaun/RCEL_506,edavgaun/RCEL_506,424687748
 VU#68,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#68,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
 VU#68,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
@@ -183,9 +184,9 @@ VU#68,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini
 VU#68,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#68,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#68,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
+VU#68,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#68,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#68,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
-VU#68,0.01315789,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#68,0.01298701,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#68,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#68,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
@@ -203,6 +204,7 @@ VU#68,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#68,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#68,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#68,0.01111111,https://github.com/merlinepedra/ANDROID-EXPLOITS,merlinepedra/ANDROID-EXPLOITS,504548727
+VU#68,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#68,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#68,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#68,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
@@ -276,7 +278,6 @@ VU#68,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glenn
 VU#68,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#68,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#68,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
-VU#68,0.00462963,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#68,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#68,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#68,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -287,6 +288,7 @@ VU#68,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#68,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#68,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#68,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#68,0.00436681,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#68,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#68,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#68,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
@@ -371,7 +373,7 @@ VU#68,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#68,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#68,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#68,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#68,0.00018961,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#68,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

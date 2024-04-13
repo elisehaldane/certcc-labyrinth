@@ -282,6 +282,7 @@ VU#37,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Ope
 VU#37,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#37,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 VU#37,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
+VU#37,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#37,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#37,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#37,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
@@ -400,7 +401,6 @@ VU#37,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glenn
 VU#37,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#37,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#37,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
-VU#37,0.00462963,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#37,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#37,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#37,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -411,6 +411,7 @@ VU#37,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#37,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#37,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#37,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#37,0.00436681,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#37,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#37,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#37,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
@@ -498,7 +499,7 @@ VU#37,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#37,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#37,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#37,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#37,0.00018961,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#37,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#37,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#37,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#37,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
@@ -506,7 +507,7 @@ VU#37,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#37,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#37,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#37,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#37,0.00000369,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#37,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#37,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#37,0.00000336,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#37,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

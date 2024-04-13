@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2019-19299,0.33333333,https://github.com/zxc7528064/-,zxc7528064/-,672529879
-CNVD-2019-19299,0.02272727,https://github.com/yhy0/Jie,yhy0/Jie,594922017
+CNVD-2019-19299,0.02325581,https://github.com/yhy0/Jie,yhy0/Jie,594922017
 CNVD-2019-19299,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2019-19299,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 CNVD-2019-19299,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
