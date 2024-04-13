@@ -2,11 +2,13 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/directory-traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-41773
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/directory-traversal.md,00712897fe31379bc052a641841354bc73f7b11a,CVE-2021-42013
 568456034,hideckies/exploit-notes,src/exploit/database/influxdb-pentesting.md,053a07b63ff755e10a121abd7ae25e2a7ae1e81c,CVE-2019-20933
-568456034,hideckies/exploit-notes,src/exploit/machine-learning/jupyter-notebook-pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32797
+568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,08397dc1ca91dbb31fe747c2a88f25ed6346b520,CVE-2016-10555
+568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,08397dc1ca91dbb31fe747c2a88f25ed6346b520,CVE-2016-5431
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/jupyter-notebook-pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32798
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/jupyter-notebook-pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,GHSA-C469-P3JP-2VHX
-568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-pentesting.md,0b54bdb6097fdc902c0b7a10107b557912294dc6,CVE-2022-22965
+568456034,hideckies/exploit-notes,src/exploit/machine-learning/jupyter-notebook-pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32797
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-pentesting.md,0b54bdb6097fdc902c0b7a10107b557912294dc6,CVE-2010-1622
+568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-pentesting.md,0b54bdb6097fdc902c0b7a10107b557912294dc6,CVE-2022-22965
 568456034,hideckies/exploit-notes,src/exploit/container/kubernetes/microk8s-pentesting.md,1a4ae5809d359674033f31490d9802c85b05dc58,CVE-2019-15789
 568456034,hideckies/exploit-notes,src/exploit/version-control/git/gogs-pentesting.md,1ed0d5f3cfa90e90766d011ae4ce8c1ba4227d6c,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/outlook-reminder-privilege-escalation.md,21925f5f57d20979d3e7de6deae781b8c4897e59,CVE-2023-23397
@@ -15,8 +17,8 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/ghostscript-pentesting.md,4e7267824a7dd3a6262e92f589e0beaf47222f86,CVE-2018-16509
 568456034,hideckies/exploit-notes,src/exploit/web/grafana-pentesting.md,5167f27bee6e6b1b57cde48e2b83e562befbb2fb,CVE-2021-43798
 568456034,hideckies/exploit-notes,src/exploit/web/cms/cockpit-cms-pentesting.md,53952165df9090d0509ea4f19d6211fa75d6ea82,CVE-2020-35847
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/buffer-overflow-privilege-escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/buffer-overflow-privilege-escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2021-3156
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/buffer-overflow-privilege-escalation.md,5c4fa2856bada42d9cde4ca24bc468570a33777a,CVE-2019-18634
 568456034,hideckies/exploit-notes,src/exploit/web/atlassian-confluence-pentesting.md,608ef9246a34c5776c6bfb73d40a6bf2a81d5468,CVE-2022-26134
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/sudo-exiftool-privilege-escalation.md,62e467e1afd4810fe5d451a470589916b102117c,CVE-2021-22204
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/uac-windows-privilege-escalation.md,6958415247dae448affb9205c6a4f9869d6c1f77,CVE-2019-1388
@@ -24,9 +26,9 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/web/cacti-pentesting.md,70ae131b4297ad8fd63cff005d3d56a21639d1c1,CVE-2022-46169
 568456034,hideckies/exploit-notes,src/exploit/web/icinga-web-pentesting.md,7371c1f2728f3a42f40033e5b8d1a29c55f162b9,CVE-2022-24716
 568456034,hideckies/exploit-notes,src/exploit/web/icinga-web-pentesting.md,7371c1f2728f3a42f40033e5b8d1a29c55f162b9,CVE-2022-24715
-568456034,hideckies/exploit-notes,src/exploit/web/microsoft/microsoft-exchange-server-pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-34523
-568456034,hideckies/exploit-notes,src/exploit/web/microsoft/microsoft-exchange-server-pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-31207
 568456034,hideckies/exploit-notes,src/exploit/web/microsoft/microsoft-exchange-server-pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-34473
+568456034,hideckies/exploit-notes,src/exploit/web/microsoft/microsoft-exchange-server-pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-31207
+568456034,hideckies/exploit-notes,src/exploit/web/microsoft/microsoft-exchange-server-pentesting.md,77441a226a32ba703d727b4ecea43d70b42cc9bd,CVE-2021-34523
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/smb-pentesting.md,77abf3c5860f9e72c3983d05e8464ac9cf67f4a7,MS17-010
 568456034,hideckies/exploit-notes,src/exploit/windows/service/microsoft-word-pentesting.md,79f387b65c15770d06783ece010a0f4a35ccb58e,CVE-2022-30190
 568456034,hideckies/exploit-notes,src/exploit/web/elasticsearch/kibana-pentesting.md,7b6de2fc9761dea63f4974232838a7740d9df6dd,CVE-2019-7609
@@ -34,8 +36,6 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/windows/service/windows-print-spooler-service.md,91e3baddb7d8d0ba8c320d347f0fa67c973723b3,CVE-2021-34527
 568456034,hideckies/exploit-notes,src/exploit/windows/service/windows-print-spooler-service.md,91e3baddb7d8d0ba8c320d347f0fa67c973723b3,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/version-control/git/gitea-pentesting.md,938947fa54d81ea71658c7b5e15431ba8e253719,CVE-2020-14144
-568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,97a2b761f73b743c9dabc8cbc6bcfab81abf31ed,CVE-2016-10555
-568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,97a2b761f73b743c9dabc8cbc6bcfab81abf31ed,CVE-2016-5431
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-cloud-function-rce.md,ad12c30e6bcc9c8e26e0841cad6211c5179cb1db,CVE-2022-22963
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/netlogon-elavasion-of-privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/manageEngine-adselfservice-plus.md,b483c00b9f2cd1f8ec29db241e9bc576f772886f,CVE-2022-47966
