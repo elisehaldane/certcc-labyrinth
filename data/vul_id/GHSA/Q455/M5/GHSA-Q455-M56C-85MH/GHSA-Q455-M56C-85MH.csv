@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-Q455-M56C-85MH,0.50000000,https://github.com/lpn/CVE-2024-24576.jl,lpn/CVE-2024-24576.jl,786321565
 GHSA-Q455-M56C-85MH,0.50000000,https://github.com/frostb1ten/CVE-2024-24576-PoC,frostb1ten/CVE-2024-24576-PoC,784438166

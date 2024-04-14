@@ -3,7 +3,6 @@ VU#29,1.00000000,https://github.com/theGEBIRGE/Remote-Code-Execution-as-a-Servic
 VU#29,1.00000000,https://github.com/DarkCloud5893/PS5-Exploit-Host,DarkCloud5893/PS5-Exploit-Host,740388950
 VU#29,1.00000000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,1.00000000,https://github.com/Al0neme/spring-gateway-rce,Al0neme/spring-gateway-rce,726836328
-VU#29,1.00000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
 VU#29,1.00000000,https://github.com/Broco8Dev/Gogh-Repositories,Broco8Dev/Gogh-Repositories,682346268
 VU#29,1.00000000,https://github.com/ConfusedDiscord/PS4JB-900,ConfusedDiscord/PS4JB-900,669491047
 VU#29,1.00000000,https://github.com/marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,marskzj/QVD-2023-13615_TPlus-remote-code-execution-vulnerability,668103738
@@ -30,6 +29,7 @@ VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRc
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467-Exploit,JaneMandy/CVE-2023-51467-Exploit,739631896
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467,JaneMandy/CVE-2023-51467,736831199
+VU#29,0.50000000,https://github.com/johniwasz/rce-serialization-dotnet,johniwasz/rce-serialization-dotnet,708227992
 VU#29,0.50000000,https://github.com/wdahlenburg/aws-native-rce,wdahlenburg/aws-native-rce,680643923
 VU#29,0.50000000,https://github.com/sfewer-r7/CVE-2023-34362,sfewer-r7/CVE-2023-34362,652620311
 VU#29,0.50000000,https://github.com/Avento/CVE-2023-0669,Avento/CVE-2023-0669,624244077
@@ -367,10 +367,10 @@ VU#29,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotE
 VU#29,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#29,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#29,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
-VU#29,0.01666667,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#29,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#29,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#29,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#29,0.01639344,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#29,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#29,0.01639344,https://github.com/buffer/thug,buffer/thug,3493279
 VU#29,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
