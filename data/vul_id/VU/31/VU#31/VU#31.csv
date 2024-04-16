@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#31,1.00000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#31,1.00000000,https://github.com/STBRR/OSWE,STBRR/OSWE,667660139
 VU#31,1.00000000,https://github.com/RCEntruempelung/RCEntruempelug,RCEntruempelung/RCEntruempelug,662937792
 VU#31,1.00000000,https://github.com/cawfree/opensea-submarine,cawfree/opensea-submarine,516797290
@@ -17,6 +16,7 @@ VU#31,0.33333333,https://github.com/vinqo/scripthub,vinqo/scripthub,421183647
 VU#31,0.33333333,https://github.com/MlgmXyysd/k61v1injector,MlgmXyysd/k61v1injector,417690686
 VU#31,0.33333333,https://github.com/PorryDepTrai/exploit,PorryDepTrai/exploit,414978567
 VU#31,0.33333333,https://github.com/subn0de/Roblox_Exploits,subn0de/Roblox_Exploits,326661200
+VU#31,0.25000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#31,0.25000000,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,740387503
 VU#31,0.25000000,https://github.com/Xan007/096-Exploit,Xan007/096-Exploit,600824515
 VU#31,0.25000000,https://github.com/suicidaladdict/strucid,suicidaladdict/strucid,589298037
@@ -152,7 +152,7 @@ VU#31,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-20
 VU#31,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#31,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
 VU#31,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,510346412
-VU#31,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,510336370
+VU#31,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253,nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253,510336370
 VU#31,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,503718685
 VU#31,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,502025687
 VU#31,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,501898439
@@ -204,11 +204,11 @@ VU#31,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#31,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#31,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#31,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
+VU#31,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#31,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#31,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
-VU#31,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#31,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#31,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#31,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
@@ -332,7 +332,6 @@ VU#31,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#31,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#31,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#31,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#31,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#31,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#31,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#31,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -342,9 +341,10 @@ VU#31,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#31,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#31,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#31,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#31,0.00436681,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#31,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#31,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
+VU#31,0.00420168,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#31,0.00406504,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#31,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#31,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#31,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997

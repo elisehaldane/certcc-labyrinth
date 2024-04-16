@@ -98,7 +98,6 @@ VU#63,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,7553
 VU#63,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
 VU#63,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#63,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
-VU#63,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#63,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#63,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#63,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
@@ -113,6 +112,7 @@ VU#63,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_
 VU#63,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
 VU#63,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#63,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
+VU#63,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#63,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#63,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#63,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
@@ -181,7 +181,7 @@ VU#63,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-20
 VU#63,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,nidhi7598/frameworks_base_AOSP10_r33_CVE-2022-20135-,510684846
 VU#63,0.02040816,https://github.com/nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,nidhi7598/Frameworks_base_AOSP10_r33__CVE-2022-20124-,510660359
 VU#63,0.02040816,https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142,510346412
-VU#63,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777,510336370
+VU#63,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253,nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-21253,510336370
 VU#63,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004,503718685
 VU#63,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20005,502025687
 VU#63,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20007,501898439
@@ -236,9 +236,9 @@ VU#63,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#63,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#63,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#63,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
+VU#63,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#63,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#63,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
-VU#63,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#63,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#63,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#63,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
@@ -366,7 +366,6 @@ VU#63,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#63,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#63,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#63,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#63,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#63,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#63,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#63,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -377,9 +376,10 @@ VU#63,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#63,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#63,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#63,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#63,0.00436681,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#63,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#63,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
+VU#63,0.00420168,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#63,0.00406504,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#63,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#63,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#63,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997

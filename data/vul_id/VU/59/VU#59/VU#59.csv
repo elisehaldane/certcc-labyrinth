@@ -48,7 +48,6 @@ VU#59,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765
 VU#59,0.06250000,https://github.com/hrbrmstr/kev-push,hrbrmstr/kev-push,541155464
 VU#59,0.06250000,https://github.com/Zhaocy-Research/TransformerST,Zhaocy-Research/TransformerST,510563607
 VU#59,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
-VU#59,0.06250000,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#59,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#59,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#59,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
@@ -64,6 +63,7 @@ VU#59,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExplo
 VU#59,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
 VU#59,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatrain,392095984
 VU#59,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
+VU#59,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#59,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,michele-abruzzese/predictive_maintenance,721573848
 VU#59,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#59,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
@@ -248,7 +248,6 @@ VU#59,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#59,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#59,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#59,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#59,0.00467290,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#59,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#59,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#59,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -259,9 +258,10 @@ VU#59,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#59,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#59,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#59,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
-VU#59,0.00436681,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#59,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#59,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
+VU#59,0.00420168,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
+VU#59,0.00406504,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#59,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#59,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#59,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
