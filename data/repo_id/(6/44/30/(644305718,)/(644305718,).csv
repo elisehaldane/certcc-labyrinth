@@ -1,10 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
 644305718,ctrsploit/sploit-spec,example/xsploit/cmd/xsploit/vul/vul.go,060f68bfe9da6be31ef8e7a8ca8b308fd352e018,CVE-2099-9999
-644305718,ctrsploit/sploit-spec,spec.md,1e28f0e0ce5db1b2bbe712ec96e4c0a05ad717b4,CVE-2088-8888
-644305718,ctrsploit/sploit-spec,spec.md,1e28f0e0ce5db1b2bbe712ec96e4c0a05ad717b4,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/cmd/xsploit/checksec/auto.go,25064d8bfdfc5e417e1be066ea9d6cf9637aa21b,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/cmd/xsploit/checksec/checksec.go,2b83123abc1f09ad97c72808f331b9ad471d4e3a,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/README.md,3482eae5a7dc8d8c37f767940b634382ff6570c6,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/vul/cve_2099_9999.go,5fca23a9e574d5081f07b9fa2011a8c6e71f2862,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/vul/cve_2099_9999_test.go,93add52c742aa5dbad3c4c1cc2f053c3cfad1c6d,CVE-2099-9999
+644305718,ctrsploit/sploit-spec,spec.md,96e230bb607775686f547565830a35218b881848,CVE-2088-8888
+644305718,ctrsploit/sploit-spec,spec.md,96e230bb607775686f547565830a35218b881848,CVE-2099-9999
 644305718,ctrsploit/sploit-spec,example/xsploit/cmd/xsploit/exploit/exploit.go,d38a794f1e8a999ab9cca8abdbc1438a822d684d,CVE-2099-9999
