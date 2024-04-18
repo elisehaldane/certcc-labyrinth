@@ -3,4 +3,4 @@ repo_id,repo_full_name,file,file_sha1,match
 768751055,MdRimon18/FinalRcellE,BlazorAppServerAppTest/wwwroot/assets/video/beach.mp4,9e67d637b72e610971a4a4bef26ea7fb8c67d044,VU#32
 768751055,MdRimon18/FinalRcellE,BlazorAppServerAppTest/wwwroot/vendors/d3/d3.min.js,f720eb836ea9cd0c594374b0565d8543dcb14618,VU#10
 768751055,MdRimon18/FinalRcellE,BlazorAppServerAppTest/wwwroot/vendors/d3/d3.min.js,f720eb836ea9cd0c594374b0565d8543dcb14618,VU#22204460492503146
-768751055,MdRimon18/FinalRcellE,BlazorAppServerAppTest/bin/Release/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll,fe19e053bd750e0a6d139ffd97cd99083550950c,VU#45
+768751055,MdRimon18/FinalRcellE,BlazorAppServerAppTest/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll,fe19e053bd750e0a6d139ffd97cd99083550950c,VU#45
