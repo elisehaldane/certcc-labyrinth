@@ -6,7 +6,7 @@ VU#17,1.00000000,https://github.com/DavidBuchanan314/monomorph,DavidBuchanan314/
 VU#17,1.00000000,https://github.com/boomshy/sample_shellcode,boomshy/sample_shellcode,379888981
 VU#17,1.00000000,https://github.com/dithpri/RCES,dithpri/RCES,269526488
 VU#17,0.50000000,https://github.com/cran/tsdataleaks,cran/tsdataleaks,753908478
-VU#17,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
+VU#17,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
 VU#17,0.50000000,https://github.com/yuno19/exploit,yuno19/exploit,440249410
 VU#17,0.50000000,https://github.com/zehadkhan/Seeker_Ngrok,zehadkhan/Seeker_Ngrok,427534040
 VU#17,0.50000000,https://github.com/mrknow001/xxl-job-rce,mrknow001/xxl-job-rce,309089341
@@ -51,6 +51,7 @@ VU#17,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankl
 VU#17,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#17,0.09090909,https://github.com/IdanBanani/Browser-exploitation-Chromium,IdanBanani/Browser-exploitation-Chromium,652690272
 VU#17,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
+VU#17,0.08333333,https://github.com/dcheng69/CVE-2022-0185-Case-Study,dcheng69/CVE-2022-0185-Case-Study,786640173
 VU#17,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#17,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#17,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
@@ -231,7 +232,7 @@ VU#17,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#17,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#17,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#17,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#17,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#17,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#17,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#17,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#17,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -264,7 +265,7 @@ VU#17,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#17,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#17,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#17,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#17,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#17,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#17,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#17,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#17,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -383,6 +384,6 @@ VU#17,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#17,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#17,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#17,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#17,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#17,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#17,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

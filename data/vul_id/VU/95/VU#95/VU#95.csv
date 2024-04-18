@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#95,1.00000000,https://github.com/IVRL/signal-leak-bias,IVRL/signal-leak-bias,765126094
 VU#95,1.00000000,https://github.com/Jahamezl/0day-Stealer,Jahamezl/0day-Stealer,661815653
 VU#95,1.00000000,https://github.com/susMdT/Indirect-Syscall-Shellcode-Loader,susMdT/Indirect-Syscall-Shellcode-Loader,560650303
-VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-webshell-application,p0dalirius/Tomcat-webshell-application,492338473
+VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-application-webshell,p0dalirius/Tomcat-application-webshell,492338473
 VU#95,1.00000000,https://github.com/akr3ch/kubeletctl-cli-rce,akr3ch/kubeletctl-cli-rce,472089121
 VU#95,1.00000000,https://github.com/hamzausmani302/CTF2,hamzausmani302/CTF2,466481406
 VU#95,1.00000000,https://github.com/Sneden/XSS-Attacks,Sneden/XSS-Attacks,453781526
@@ -36,7 +36,7 @@ VU#95,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signa
 VU#95,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
 VU#95,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#95,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
-VU#95,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
+VU#95,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#95,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#95,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#95,0.10000000,https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,439837504
@@ -221,7 +221,7 @@ VU#95,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#95,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#95,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#95,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#95,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#95,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#95,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#95,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#95,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801

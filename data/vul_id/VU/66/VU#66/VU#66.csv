@@ -57,6 +57,7 @@ VU#66,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/Check
 VU#66,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#66,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#66,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
+VU#66,0.08333333,https://github.com/dcheng69/CVE-2022-0185-Case-Study,dcheng69/CVE-2022-0185-Case-Study,786640173
 VU#66,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#66,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#66,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
@@ -95,12 +96,12 @@ VU#66,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,1183
 VU#66,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#66,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#66,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
-VU#66,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#66,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#66,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#66,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#66,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#66,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
+VU#66,0.03333333,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#66,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#66,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#66,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
@@ -223,7 +224,7 @@ VU#66,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#66,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#66,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#66,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#66,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#66,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#66,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#66,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#66,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -260,7 +261,7 @@ VU#66,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#66,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#66,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#66,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#66,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#66,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#66,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#66,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#66,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -366,7 +367,7 @@ VU#66,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#66,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#66,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#66,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#66,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#66,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#66,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#66,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#66,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

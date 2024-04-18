@@ -21,6 +21,8 @@ VU#96,1.00000000,https://github.com/AndreiDebreceni/exploitDB,AndreiDebreceni/ex
 VU#96,1.00000000,https://github.com/jonathandata1/ios_15.0.2_RCE_V2.1,jonathandata1/ios_15.0.2_RCE_V2.1,417783601
 VU#96,1.00000000,https://github.com/Dhruvpandey08/Automate-Referrals,Dhruvpandey08/Automate-Referrals,413360493
 VU#96,1.00000000,https://github.com/Weiwei047/rces-project,Weiwei047/rces-project,222576687
+VU#96,0.50000000,https://github.com/edutko/cve-2024-31497,edutko/cve-2024-31497,787871319
+VU#96,0.50000000,https://github.com/razooxp/Craxsrat-v7-4-full-source-file,razooxp/Craxsrat-v7-4-full-source-file,785466673
 VU#96,0.50000000,https://github.com/mr-r0ot/harfeto_Exploit,mr-r0ot/harfeto_Exploit,770013244
 VU#96,0.50000000,https://github.com/arax-tech/ExploitOutsourcing,arax-tech/ExploitOutsourcing,767652985
 VU#96,0.50000000,https://github.com/cherif-ichrak/ModuleExploitationHTML,cherif-ichrak/ModuleExploitationHTML,749795674
@@ -358,7 +360,7 @@ VU#96,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#96,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#96,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#96,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
-VU#96,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#96,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#96,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#96,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#96,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
@@ -388,7 +390,7 @@ VU#96,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/
 VU#96,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#96,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#96,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#96,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#96,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#96,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#96,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#96,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -475,7 +477,7 @@ VU#96,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#96,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#96,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#96,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#96,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#96,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#96,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

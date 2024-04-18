@@ -33,7 +33,7 @@ VU#57,0.20000000,https://github.com/appollosputnik/aerodynamicCodeBase,appollosp
 VU#57,0.20000000,https://github.com/Daparod/3dapp,Daparod/3dapp,507071597
 VU#57,0.20000000,https://github.com/fazasaputra/exploit,fazasaputra/exploit,461082024
 VU#57,0.20000000,https://github.com/0x727/MetasploitCoop-Frontend,0x727/MetasploitCoop-Frontend,397212338
-VU#57,0.20000000,https://github.com/xiaomiwujiecao/cleverShell,xiaomiwujiecao/cleverShell,180967944
+VU#57,0.20000000,https://github.com/yiyandaoren/cleverShell,yiyandaoren/cleverShell,180967944
 VU#57,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
 VU#57,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
 VU#57,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/WordExp_CVE_2023_21716,611233363
@@ -47,7 +47,7 @@ VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit-Deve
 VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoami-chmod777/Buffer-Overflow-Exploit,720209650
 VU#57,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#57,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
-VU#57,0.11111111,https://github.com/hvmi/hvmi,hvmi/hvmi,283759384
+VU#57,0.11111111,https://github.com/bitdefender/hvmi,bitdefender/hvmi,283759384
 VU#57,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#57,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#57,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
@@ -80,6 +80,7 @@ VU#57,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688
 VU#57,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#57,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#57,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
+VU#57,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
 VU#57,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#57,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#57,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
@@ -101,11 +102,11 @@ VU#57,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,
 VU#57,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#57,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#57,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
-VU#57,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#57,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#57,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#57,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#57,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
+VU#57,0.03333333,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#57,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#57,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#57,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
@@ -213,7 +214,7 @@ VU#57,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#57,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#57,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#57,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#57,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#57,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#57,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#57,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#57,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -250,7 +251,7 @@ VU#57,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#57,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#57,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#57,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#57,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#57,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#57,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#57,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#57,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -372,7 +373,7 @@ VU#57,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#57,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#57,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#57,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#57,0.00018950,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#57,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#57,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#57,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#57,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
