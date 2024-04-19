@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
-VU#25,0.50000000,https://github.com/larcherMTT/MBScar,larcherMTT/MBScar,783716876
 VU#25,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
 VU#25,0.50000000,https://github.com/kevinci-03/Keylogger,kevinci-03/Keylogger,651704571
 VU#25,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
@@ -33,6 +32,7 @@ VU#25,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,
 VU#25,0.16666667,https://github.com/mysurvive/pf2e-thaum-vuln,mysurvive/pf2e-thaum-vuln,591137885
 VU#25,0.16666667,https://github.com/Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,Joaogabs1346/Customer-Segmentation-in-Ecomme-olist-rce,511268150
 VU#25,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
+VU#25,0.14285714,https://github.com/larcherMTT/MBScar,larcherMTT/MBScar,783716876
 VU#25,0.14285714,https://github.com/yadavpunam/Human_Act_Recog_DNN,yadavpunam/Human_Act_Recog_DNN,712184165
 VU#25,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#25,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
@@ -164,9 +164,9 @@ VU#25,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,45
 VU#25,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#25,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#25,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
+VU#25,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#25,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#25,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
-VU#25,0.03333333,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#25,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#25,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#25,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
@@ -297,10 +297,10 @@ VU#25,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#25,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#25,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#25,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#25,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#25,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#25,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#25,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#25,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#25,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#25,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#25,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -503,7 +503,7 @@ VU#25,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#25,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#25,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#25,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#25,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00018932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

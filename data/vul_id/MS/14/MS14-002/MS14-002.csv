@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS14-002,0.16666667,https://github.com/unkn0wns/exploits-nt-privesc,unkn0wns/exploits-nt-privesc,69658125
 MS14-002,0.16666667,https://github.com/dev-zzo/exploits-nt-privesc,dev-zzo/exploits-nt-privesc,30018671
 MS14-002,0.05882353,https://github.com/febinrev/windows_privesc-post_exploitation,febinrev/windows_privesc-post_exploitation,256433120
+MS14-002,0.04347826,https://github.com/pushkkk/pushkkk.github.io,pushkkk/pushkkk.github.io,717366505
 MS14-002,0.04347826,https://github.com/SirEOF/exploit-4,SirEOF/exploit-4,115913975
 MS14-002,0.03846154,https://github.com/hoangcuongflp/exploit-1,hoangcuongflp/exploit-1,119947306
 MS14-002,0.03703704,https://github.com/Vicvenpet/gen-exploits,Vicvenpet/gen-exploits,452653886
@@ -239,7 +240,7 @@ MS14-002,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS14-002,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS14-002,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS14-002,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-MS14-002,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-002,0.00018932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-002,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS14-002,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-002,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -285,6 +286,7 @@ MS14-002,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanb
 MS14-002,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS14-002,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS14-002,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+MS14-002,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS14-002,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS14-002,0.00000432,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-002,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

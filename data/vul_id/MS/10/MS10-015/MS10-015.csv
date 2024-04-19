@@ -20,8 +20,8 @@ MS10-015,0.03703704,https://github.com/cybervaca/Empire-test-mod,cybervaca/Empir
 MS10-015,0.03703704,https://github.com/am0nsec/exploit,am0nsec/exploit,88420873
 MS10-015,0.03703704,https://github.com/Hackplayers/Empire-mod-Hackplayers,Hackplayers/Empire-mod-Hackplayers,87175308
 MS10-015,0.03448276,https://github.com/Hacker-One/WindowsExploits,Hacker-One/WindowsExploits,191713638
+MS10-015,0.03225806,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 MS10-015,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
-MS10-015,0.03030303,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 MS10-015,0.03030303,https://github.com/Pheelbert/ad_exploit_tools,Pheelbert/ad_exploit_tools,326074460
 MS10-015,0.02777778,https://github.com/ITNerdbox/exploits,ITNerdbox/exploits,81378778
 MS10-015,0.02631579,https://github.com/BC-SECURITY/Moriarty,BC-SECURITY/Moriarty,730248692
@@ -288,7 +288,7 @@ MS10-015,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS10-015,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS10-015,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-015,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-MS10-015,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-015,0.00018932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-015,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-015,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-015,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -335,6 +335,7 @@ MS10-015,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanb
 MS10-015,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS10-015,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS10-015,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+MS10-015,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS10-015,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-015,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS10-015,0.00000432,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

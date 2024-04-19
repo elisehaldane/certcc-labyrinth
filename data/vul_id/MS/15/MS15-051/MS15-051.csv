@@ -15,6 +15,7 @@ MS15-051,0.05882353,https://github.com/benyG/PentaDrone,benyG/PentaDrone,2188287
 MS15-051,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS15-051,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
 MS15-051,0.04545455,https://github.com/hackerhouse-opensource/exploits,hackerhouse-opensource/exploits,177341512
+MS15-051,0.04347826,https://github.com/pushkkk/pushkkk.github.io,pushkkk/pushkkk.github.io,717366505
 MS15-051,0.04347826,https://github.com/ihack4falafel/OSCP,ihack4falafel/OSCP,97347544
 MS15-051,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
 MS15-051,0.04000000,https://github.com/0x1CA3/Duo,0x1CA3/Duo,379150178
@@ -291,7 +292,7 @@ MS15-051,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS15-051,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS15-051,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS15-051,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-MS15-051,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS15-051,0.00018932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS15-051,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurphy87/Exploit_Window_Markdown,264694165
 MS15-051,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS15-051,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -341,6 +342,7 @@ MS15-051,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanb
 MS15-051,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS15-051,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS15-051,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+MS15-051,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS15-051,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS15-051,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS15-051,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

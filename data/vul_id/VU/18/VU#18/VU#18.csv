@@ -7,7 +7,6 @@ VU#18,1.00000000,https://github.com/vagnermengali/yrprey,vagnermengali/yrprey,58
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
 VU#18,1.00000000,https://github.com/ModExploit/ModExploit.github.io,ModExploit/ModExploit.github.io,561471526
 VU#18,1.00000000,https://github.com/kpcyrd/sh4d0wup,kpcyrd/sh4d0wup,552375861
-VU#18,1.00000000,https://github.com/DeepBlueCLtd/Fi3ldMan,DeepBlueCLtd/Fi3ldMan,543567218
 VU#18,1.00000000,https://github.com/NovaX51/DuckySploit-V3,NovaX51/DuckySploit-V3,535756840
 VU#18,1.00000000,https://github.com/Omnis9/DuckySploit-V3,Omnis9/DuckySploit-V3,534051639
 VU#18,1.00000000,https://github.com/n-k-a/OutdoorExploits,n-k-a/OutdoorExploits,527356655
@@ -111,6 +110,7 @@ VU#18,0.16666667,https://github.com/Pisceangoddess/TechnoHack-internship,Piscean
 VU#18,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,crowdbotics-dev/tst-tc489-rcetolss-130561,722124596
 VU#18,0.16666667,https://github.com/REALXLOLX/Evil-Droid,REALXLOLX/Evil-Droid,681053513
 VU#18,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizalsewedy/CVE-2021-29447,567344895
+VU#18,0.16666667,https://github.com/DeepBlueCLtd/Fi3ldMan,DeepBlueCLtd/Fi3ldMan,543567218
 VU#18,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
 VU#18,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#18,0.16666667,https://github.com/TretornESP/bec,TretornESP/bec,463613043
@@ -181,13 +181,12 @@ VU#18,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/
 VU#18,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#18,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#18,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
-VU#18,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#18,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#18,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#18,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
+VU#18,0.03225806,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#18,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
 VU#18,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#18,0.03030303,https://github.com/Hacking-Notes/RedTeam,Hacking-Notes/RedTeam,600806376
 VU#18,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#18,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#18,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
@@ -341,9 +340,9 @@ VU#18,0.01098901,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#18,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#18,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#18,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
-VU#18,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#18,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#18,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
+VU#18,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#18,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#18,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#18,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
@@ -509,7 +508,7 @@ VU#18,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#18,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#18,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#18,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#18,0.00018947,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00018932,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -7,6 +7,7 @@ VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,34
 VU#44,0.50000000,https://github.com/S4G4R000/StringFixer-XSS,S4G4R000/StringFixer-XSS,781239574
 VU#44,0.50000000,https://github.com/kmeps4/psfree900m,kmeps4/psfree900m,754928127
 VU#44,0.50000000,https://github.com/kmeps4/psfree900a,kmeps4/psfree900a,754926509
+VU#44,0.50000000,https://github.com/team890/CVE-2023-2024,team890/CVE-2023-2024,727309635
 VU#44,0.50000000,https://github.com/rotembrillant117/BitcoinAndCryptoCurrency-Seminar,rotembrillant117/BitcoinAndCryptoCurrency-Seminar,596608439
 VU#44,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
 VU#44,0.50000000,https://github.com/VVeakee/CVE-2022-24990-POC,VVeakee/CVE-2022-24990-POC,468177153
@@ -170,9 +171,9 @@ VU#44,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutoria
 VU#44,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#44,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#44,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
-VU#44,0.01075269,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#44,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#44,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#44,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#44,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#44,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#44,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
@@ -333,5 +334,6 @@ VU#44,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain
 VU#44,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#44,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#44,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+VU#44,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#44,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#44,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
