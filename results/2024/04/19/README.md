@@ -1,7 +1,7 @@
 
 # Summary for results/2024/04/19
     
-168 records found after deduplication
+169 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
@@ -16,7 +16,7 @@
 | chris-anley/exploit-defence | Exploit Defence Notes | https://github.com/chris-anley/exploit-defence | ['exploit'] | 1 | 2024-04-19 08:05:47+00:00 | 105 | 0 | | 0 | [] |
 | mranish592/remote-code | Collaborative online IDE with remote code execution in various languages. | https://github.com/mranish592/remote-code | ['remote code execution'] | 1 | 2024-04-19 14:07:33+00:00 | 32 | 0 | TypeScript | 0 | [] |
 | SkireScripts/Ouxie | Open sourced roblox exploiting hub | https://github.com/SkireScripts/Ouxie | ['exploit'] | 1 | 2024-04-19 03:28:49+00:00 | 165 | 0 | Lua | 0 | [] |
-| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2024-04-19 13:54:31+00:00 | 34267 | 6691 | Python | 834 | [] |
+| vdh1612/Web-Runner-Exploit-Chain | None | https://github.com/vdh1612/Web-Runner-Exploit-Chain | ['exploit'] | 1 | 2024-04-19 14:14:20+00:00 | 4502 | 0 | PHP | 1 | [] |
 | stellados53/vulnerabilities-Metasploitable- | None | https://github.com/stellados53/vulnerabilities-Metasploitable- | ['metasploit module OR payload'] | 1 | 2024-04-19 10:18:26+00:00 | 17 | 0 | | 0 | [] |
 | PWNC4M/CTF | Introduzione alle vulnerabilità ed exploit di base | https://github.com/PWNC4M/CTF | ['exploit'] | 1 | 2024-04-19 13:26:32+00:00 | 60 | 0 | | 0 | [] |
 | 2kwattz/Black-Hawk-Vulnerability-Scanner-in-Python | Black Hawk is a vulnerability scanner for Kali Linix, Just like a reconnaissance mission for your system, searching for potential weak spots that could be exploited by adversaries. Think of it as your "radar" detecting vulnerabilities in your defenses | https://github.com/2kwattz/Black-Hawk-Vulnerability-Scanner-in-Python | ['exploit'] | 1 | 2024-04-19 11:46:02+00:00 | 15 | 0 | Python | 0 | [] |
@@ -89,9 +89,10 @@
 | waristea/anya-script | This script is used to exploit 'hello-anya' Ruby on Rails web application as part of Ascenda penetration testing challenge | https://github.com/waristea/anya-script | ['exploit'] | 1 | 2024-04-19 10:19:16+00:00 | 17 | 0 | Python | 0 | [] |
 | 4bx9/funny-abuser-1.0 | just testing tbh im not that good at exploiting lua cuz its a bit diffrent | https://github.com/4bx9/funny-abuser-1.0 | ['exploit'] | 1 | 2024-04-19 15:53:41+00:00 | 13 | 0 | Lua | 0 | [] |
 | JeevArn/outilsTraitementCorpus_2024 | Projet de constitution/exploitation de corpus dans le cadre du cours d'Outils de traitement de Corpus - PluriTAL | https://github.com/JeevArn/outilsTraitementCorpus_2024 | ['exploit'] | 1 | 2024-04-19 00:55:11+00:00 | 3 | 0 | Python | 0 | [] |
-| vdh1612/Web-Runner-Exploit-Chain | None | https://github.com/vdh1612/Web-Runner-Exploit-Chain | ['exploit'] | 1 | 2024-04-19 14:14:20+00:00 | 4502 | 0 | PHP | 1 | [] |
 | cegatte/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/cegatte/UAC-Bypass-FUD | ['exploit'] | 1 | 2024-04-19 04:54:45+00:00 | 1078 | 7 | C# | 2 | [] |
-| m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2024-04-19 11:28:54+00:00 | 88134 | 2 | C# | 0 | [] |
+| pwndbg/pwndbg | Exploit Development and Reverse Engineering with GDB Made Easy | https://github.com/pwndbg/pwndbg | ['exploit'] | 1 | 2024-04-19 13:54:31+00:00 | 34267 | 6691 | Python | 834 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-04-19 02:02:49+00:00 | 307227 | 6050 | HTML | 761 | [] |
+| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-04-19 01:14:13+00:00 | 3501 | 276 | HTML | 20 | [] |
 | yaklang/yakit | Cyber Security ALL-IN-ONE Platform | https://github.com/yaklang/yakit | ['exploit'] | 1 | 2024-04-19 03:45:58+00:00 | 69238 | 5995 | TypeScript | 780 | [] |
 | grantdadams/Rceattle_MSE | None | https://github.com/grantdadams/Rceattle_MSE | ['rce'] | 1 | 2024-04-19 00:00:39+00:00 | 993786 | 0 | R | 0 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-04-19 18:10:21+00:00 | 10857 | 29 | HTML | 4 | [] |
@@ -99,8 +100,8 @@
 | awslabs/aws-codeseeder | The aws-codeseeder project enables builders to easily "seed" python code to AWS CodeBuild for remote execution in their cloud environments. | https://github.com/awslabs/aws-codeseeder | ['remote code execution'] | 1 | 2024-04-19 16:21:02+00:00 | 634 | 32 | Python | 7 | [] |
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2024-04-19 06:26:03+00:00 | 1566875 | 12 | Jupyter Notebook | 2 | [] |
 | nu11secur1ty/Windows11Exploits | None | https://github.com/nu11secur1ty/Windows11Exploits | ['exploit'] | 1 | 2024-04-19 07:00:44+00:00 | 73672 | 111 | C++ | 26 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-04-19 02:02:49+00:00 | 307227 | 6050 | HTML | 761 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-04-19 00:10:36+00:00 | 7972 | 0 | | 1 | [] |
+| Jeetu855/Binary-Exploitation | None | https://github.com/Jeetu855/Binary-Exploitation | ['exploit'] | 1 | 2024-04-19 07:41:48+00:00 | 10544 | 0 | Python | 0 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-04-19 00:49:38+00:00 | 1031 | 622 | Shell | 113 | [] |
 | GamerHack/GamerHack.github.io | PS4 _ PS5 Jailbreak for all exploitable firmwares | https://github.com/GamerHack/GamerHack.github.io | ['exploit'] | 1 | 2024-04-19 15:40:28+00:00 | 34750 | 53 | JavaScript | 32 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-04-19 04:49:19+00:00 | 180982 | 214 | Go | 49 | [] |
@@ -109,10 +110,10 @@
 | kaotickj/K-Sploit | Optimized for use in Kali Linux, KSploit is a user friendly menu driven control panel in which to drive many metasploit tasks. KSploit simplifies repetitive metasploit functions such as generating payloads, deploying listeners, and injecting msf payloads | https://github.com/kaotickj/K-Sploit | ['metasploit module OR payload', 'sploit'] | 2 | 2024-04-19 02:01:49+00:00 | 91 | 10 | Shell | 1 | [] |
 | h00die-gr3y/Metasploit | Metasploit module development | https://github.com/h00die-gr3y/Metasploit | ['metasploit module OR payload'] | 1 | 2024-04-19 18:44:01+00:00 | 4108 | 1 | Ruby | 1 | [] |
 | brownsys/paralegal | Statically Enforce Privacy and Security Policies on Rust code using dataflow analysis enhanced by exploiting ownership types. You can signup for our official release at the link below | https://github.com/brownsys/paralegal | ['exploit'] | 1 | 2024-04-19 03:41:48+00:00 | 66041 | 14 | Rust | 2 | [] |
-| Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-04-19 01:14:13+00:00 | 3501 | 276 | HTML | 20 | [] |
+| m3rcer/m3rcer.github.io | None | https://github.com/m3rcer/m3rcer.github.io | ['rce'] | 1 | 2024-04-19 11:28:54+00:00 | 88134 | 2 | C# | 0 | [] |
 | WafflesExploits/WafflesExploits | Config files for my GitHub profile. | https://github.com/WafflesExploits/WafflesExploits | ['exploit'] | 1 | 2024-04-19 21:32:12+00:00 | 64 | 0 | | 0 | [] |
-| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2024-04-19 08:03:16+00:00 | 23372 | 156 | | 22 | [] |
 | Juliocj7/MetasploitCj7 | 🔥 Instalación de Metasploit Framework en Termux... 𝙱𝚢: ⸸𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7⸸ | https://github.com/Juliocj7/MetasploitCj7 | ['metasploit module OR payload'] | 1 | 2024-04-19 14:02:19+00:00 | 55 | 25 | | 15 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-04-19 05:02:20+00:00 | 454838 | 820 | Python | 187 | [] |
 | rapid7/metasploit-omnibus | Packaging metasploit-framework with omnibus | https://github.com/rapid7/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2024-04-19 16:35:40+00:00 | 1470 | 238 | Ruby | 197 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2024-04-19 05:36:46+00:00 | 6673 | 4320 | Python | 799 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2024-04-19 02:06:14+00:00 | 6419 | 6470 | Python | 700 | [] |
@@ -120,6 +121,7 @@
 | square/rce-agent | gRPC-based Remote Command Execution Agent | https://github.com/square/rce-agent | ['rce'] | 1 | 2024-04-19 12:32:12+00:00 | 5455 | 127 | Go | 40 | [] |
 | cultureelerfgoed/sparql | In deze repositories worden openbare SPARQL queries verzameld die gebruikt worden op linked datasets van de RCE | https://github.com/cultureelerfgoed/sparql | ['rce'] | 1 | 2024-04-19 01:54:21+00:00 | 481 | 0 | Python | 0 | [] |
 | conikeec/jackspoilt | Contextual Deserialization vulnerability that causes RCE - Remote Code Execution | https://github.com/conikeec/jackspoilt | ['rce', 'remote code execution'] | 2 | 2024-04-19 18:44:20+00:00 | 33 | 11 | Java | 6 | [] |
+| vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2024-04-19 13:21:39+00:00 | 927 | 217 | Go | 49 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2024-04-19 22:22:46+00:00 | 119949 | 3934 | Python | 545 | [] |
 | JuliaDiff/SparseDiffTools.jl | Fast jacobian computation through sparsity exploitation and matrix coloring | https://github.com/JuliaDiff/SparseDiffTools.jl | ['exploit'] | 1 | 2024-04-19 01:03:52+00:00 | 1152 | 236 | Julia | 40 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-04-19 04:32:15+00:00 | 3070702 | 432 | REXX | 41 | [] |
@@ -129,10 +131,9 @@
 | selfeki/automated-exploit-generation | Given a program, automatically find buffer-overflow vulnerabilities and generate exploits for them. | https://github.com/selfeki/automated-exploit-generation | ['exploit'] | 1 | 2024-04-19 21:36:10+00:00 | 147 | 3 | Python | 0 | [] |
 | hudson-and-thames/arbitragelab | ArbitrageLab is a python library that enables traders who want to exploit mean-reverting portfolios by providing a complete set of algorithms from the best academic journals. | https://github.com/hudson-and-thames/arbitragelab | ['exploit'] | 1 | 2024-04-19 00:58:23+00:00 | 35409 | 295 | Python | 90 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-04-19 04:04:46+00:00 | 1515028 | 105 | | 34 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-04-19 04:03:39+00:00 | 454838 | 820 | Python | 187 | [] |
 | KTH-LangSec/server-side-prototype-pollution | A collection of Server-Side Prototype Pollution gadgets and exploits | https://github.com/KTH-LangSec/server-side-prototype-pollution | ['exploit'] | 1 | 2024-04-19 13:52:55+00:00 | 250 | 31 | JavaScript | 4 | [] |
+| tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2024-04-19 08:03:16+00:00 | 23372 | 156 | | 22 | [] |
 | DeepBlueCLtd/Fi3ldMan | Field Service Manual with advanced data exploitation | https://github.com/DeepBlueCLtd/Fi3ldMan | ['exploit'] | 1 | 2024-04-19 08:00:39+00:00 | 8454 | 1 | HTML | 1 | [] |
-| Jeetu855/Binary-Exploitation | None | https://github.com/Jeetu855/Binary-Exploitation | ['exploit'] | 1 | 2024-04-19 07:41:48+00:00 | 10544 | 0 | Python | 0 | [] |
 | pushkkk/pushkkk.github.io | Tool collection (intranet penetration/privilege escalation tools/remote overflow/vulnerability exploitation/scanning tools/password cracking/evasion tools/Exploit/APT/0day/Shellcode/Payload/privilege/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploi | https://github.com/pushkkk/pushkkk.github.io | ['0day', 'exploit', 'shellcode'] | 3 | 2024-04-19 10:30:38+00:00 | 32403 | 1 | | 1 | [] |
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2024-04-19 00:12:04+00:00 | 88724 | 0 | | 0 | [] |
 | MrXiao7/Notes | 在科锐学习逆向工程和游戏外挂开发的笔记，大概内容为8086汇编，win32汇编，调试器原理，pe文件格式，32位64位反汇编，壳的原理，shellcode，x86/x64内核，游戏逆向找数据，调用游戏lua | https://github.com/MrXiao7/Notes | ['shellcode'] | 1 | 2024-04-19 17:52:38+00:00 | 189161 | 20 | | 2 | [] |
