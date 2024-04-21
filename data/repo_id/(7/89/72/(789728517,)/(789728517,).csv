@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+789728517,Nikhil143hub/exploitlauncherpython,README.md,713f957884698d231f962e09149de7a99402b488,MS17-010
+789728517,Nikhil143hub/exploitlauncherpython,exploit_framework.py,83c7878926cb05f76e553a831cd0c85d299a24c7,CVE-2020-1234
+789728517,Nikhil143hub/exploitlauncherpython,exploit_framework.py,83c7878926cb05f76e553a831cd0c85d299a24c7,MS17-010
