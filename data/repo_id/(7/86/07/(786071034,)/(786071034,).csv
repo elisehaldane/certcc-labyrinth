@@ -15,5 +15,5 @@ repo_id,repo_full_name,file,file_sha1,match
 786071034,jeanlucndato/zeroday,static_cdn/ckeditor/ckeditor/CHANGES.md,8313dfc9a4884289ee5e55f6034c2ed7564fcffd,CVE-2021-32809
 786071034,jeanlucndato/zeroday,static_cdn/ckeditor/ckeditor/CHANGES.md,8313dfc9a4884289ee5e55f6034c2ed7564fcffd,GHSA-4FC4-4P5G-6W89
 786071034,jeanlucndato/zeroday,static_cdn/ckeditor/ckeditor/CHANGES.md,8313dfc9a4884289ee5e55f6034c2ed7564fcffd,GHSA-6226-H7FF-CH6C
+786071034,jeanlucndato/zeroday,db.sqlite3,bbc25d387a9f6fb3416d711c2db89784027abd08,VU#2024
 786071034,jeanlucndato/zeroday,static_cdn/css/boxicons/fonts/boxicons.ttf,f18d97b413c192509c83c445d74b79de2f20af71,VU#67
-786071034,jeanlucndato/zeroday,db.sqlite3,f919e6a08225cd8c599d2c462ed9c6ee7a156419,VU#2024
