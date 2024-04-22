@@ -2,6 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#2023,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#2023,0.00224215,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#2023,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-VU#2023,0.00000979,https://github.com/trickest/cve,trickest/cve,454015416
+VU#2023,0.00000978,https://github.com/trickest/cve,trickest/cve,454015416
 VU#2023,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
-VU#2023,0.00000336,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
+VU#2023,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
