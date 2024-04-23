@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+790326936,nigmaz/Exploit,Windows-Exploit/README.md,810f72177592d23033826415769d85e90fb4fc11,CVE-2023-38831
+790326936,nigmaz/Exploit,Application-Exploit/README.md,aa6c4543a1a0e5e34b04af8e6d8c362cb6816693,CVE-2011-2856
+790326936,nigmaz/Exploit,Application-Exploit/Embedded-System/README.md,e47a8e88d6c20a13d0f5e45a8e65a09c80b8575f,CVE-2021-36260
