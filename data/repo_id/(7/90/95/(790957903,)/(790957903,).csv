@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+790957903,pitecozz/RCE-VUL,PHPMaller_RCE_exploit.py,2a6865e8329cf514fe6b2ee90cfda2c6573b1fd7,CVE-2016-10033
+790957903,pitecozz/RCE-VUL,PHPMaller_RCE_exploit.py,2a6865e8329cf514fe6b2ee90cfda2c6573b1fd7,CVE-2016-10034
+790957903,pitecozz/RCE-VUL,PHPMaller_RCE_exploit.py,2a6865e8329cf514fe6b2ee90cfda2c6573b1fd7,CVE-2016-10045
+790957903,pitecozz/RCE-VUL,PHPMaller_RCE_exploit.py,2a6865e8329cf514fe6b2ee90cfda2c6573b1fd7,CVE-2016-10074
