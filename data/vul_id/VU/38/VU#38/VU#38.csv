@@ -35,11 +35,11 @@ VU#38,0.25000000,https://github.com/jopraveen/exploit-development,jopraveen/expl
 VU#38,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#38,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#38,0.20000000,https://github.com/Qufity/qufity.github.io,Qufity/qufity.github.io,166701107
-VU#38,0.16666667,https://github.com/justikail/webshell,justikail/webshell,624349349
 VU#38,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/WordExp_CVE_2023_21716,611233363
 VU#38,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,473499714
 VU#38,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
 VU#38,0.16666667,https://github.com/Maks1116/roblox-exploit-scripts,Maks1116/roblox-exploit-scripts,299615185
+VU#38,0.14285714,https://github.com/justikail/webshell,justikail/webshell,624349349
 VU#38,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#38,0.14285714,https://github.com/6iKezbAD3CZnf/blockchained-ml,6iKezbAD3CZnf/blockchained-ml,562467899
 VU#38,0.14285714,https://github.com/brightprogrammer/pwned,brightprogrammer/pwned,559560211
@@ -301,6 +301,7 @@ VU#38,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#38,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 VU#38,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#38,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#38,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#38,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#38,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#38,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
@@ -390,7 +391,7 @@ VU#38,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#38,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#38,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#38,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#38,0.00018925,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00018918,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#38,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

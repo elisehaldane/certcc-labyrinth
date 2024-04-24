@@ -9,6 +9,7 @@ VU#92,1.00000000,https://github.com/MythicAgents/merlin,MythicAgents/merlin,3327
 VU#92,1.00000000,https://github.com/nshalabi/RunShell64,nshalabi/RunShell64,242364372
 VU#92,1.00000000,https://github.com/basti564/MNSPlusTrasher,basti564/MNSPlusTrasher,197252644
 VU#92,1.00000000,https://github.com/nccgroup/Winpayloads,nccgroup/Winpayloads,43946043
+VU#92,0.50000000,https://github.com/meeplabsdev/smarter-revise,meeplabsdev/smarter-revise,790922249
 VU#92,0.50000000,https://github.com/novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,669835102
 VU#92,0.50000000,https://github.com/privilegedll/nb0t,privilegedll/nb0t,655120714
 VU#92,0.50000000,https://github.com/itsmegarvi/Kaggle_exploits,itsmegarvi/Kaggle_exploits,583876907
@@ -173,7 +174,6 @@ VU#92,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#92,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#92,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#92,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
-VU#92,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#92,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#92,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#92,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
@@ -221,6 +221,7 @@ VU#92,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-P
 VU#92,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#92,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#92,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#92,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#92,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#92,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#92,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -326,6 +327,7 @@ VU#92,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#92,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#92,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#92,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#92,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#92,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#92,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#92,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
@@ -416,7 +418,7 @@ VU#92,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#92,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#92,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#92,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#92,0.00018925,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#92,0.00018918,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#92,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#92,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#92,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

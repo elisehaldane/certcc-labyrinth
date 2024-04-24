@@ -22,7 +22,6 @@ VU#03,0.25000000,https://github.com/HavocIncorporated/Havoc-Executor,HavocIncorp
 VU#03,0.25000000,https://github.com/ArdeleanRichard/som-exploit,ArdeleanRichard/som-exploit,757380836
 VU#03,0.25000000,https://github.com/EntySec/SeaShell,EntySec/SeaShell,732556353
 VU#03,0.25000000,https://github.com/ntLocalSystem/Buffer-Overflow-Assembly,ntLocalSystem/Buffer-Overflow-Assembly,725119874
-VU#03,0.25000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#03,0.25000000,https://github.com/EstebanBiret/SAE-S2.04,EstebanBiret/SAE-S2.04,597691937
 VU#03,0.25000000,https://github.com/huyql109/Kernel-exploitation,huyql109/Kernel-exploitation,527288721
 VU#03,0.25000000,https://github.com/NeobloxExecutor/neoblox,NeobloxExecutor/neoblox,492579550
@@ -76,6 +75,7 @@ VU#03,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,48
 VU#03,0.14285714,https://github.com/taise-hub/log4j-poc,taise-hub/log4j-poc,447444851
 VU#03,0.14285714,https://github.com/rosonsec/Exploits,rosonsec/Exploits,153505068
 VU#03,0.14285714,https://github.com/brandbir/JPEG-Restorer,brandbir/JPEG-Restorer,27171602
+VU#03,0.12500000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#03,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#03,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
 VU#03,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
@@ -243,7 +243,6 @@ VU#03,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#03,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#03,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#03,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
-VU#03,0.01923077,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#03,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#03,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#03,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
@@ -285,6 +284,7 @@ VU#03,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,3370
 VU#03,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#03,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#03,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#03,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#03,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#03,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#03,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
@@ -385,6 +385,7 @@ VU#03,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#03,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#03,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#03,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#03,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#03,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#03,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#03,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
@@ -478,6 +479,6 @@ VU#03,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#03,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#03,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#03,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#03,0.00018925,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00018918,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
