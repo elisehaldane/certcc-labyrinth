@@ -127,14 +127,13 @@ VU#85,0.04000000,https://github.com/DarkSynx/PhpInterface,DarkSynx/PhpInterface,
 VU#85,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,443673812
 VU#85,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
 VU#85,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
-VU#85,0.03846154,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#85,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
+VU#85,0.03703704,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#85,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#85,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#85,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#85,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#85,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
-VU#85,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#85,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#85,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#85,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
@@ -145,6 +144,7 @@ VU#85,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeu
 VU#85,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#85,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#85,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
+VU#85,0.02564103,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#85,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#85,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
 VU#85,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
@@ -316,12 +316,12 @@ VU#85,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,79087383
 VU#85,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#85,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#85,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
-VU#85,0.00420168,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#85,0.00414938,https://github.com/KiritoLoveAsuna/Exploits,KiritoLoveAsuna/Exploits,377762527
 VU#85,0.00406504,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#85,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#85,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#85,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
+VU#85,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#85,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#85,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 VU#85,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380

@@ -65,7 +65,6 @@ VU#07,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-scie
 VU#07,0.03703704,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
 VU#07,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#07,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
-VU#07,0.03333333,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#07,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#07,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#07,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
@@ -75,6 +74,7 @@ VU#07,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms
 VU#07,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#07,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#07,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#07,0.02564103,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#07,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#07,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#07,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
@@ -218,11 +218,11 @@ VU#07,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,79087383
 VU#07,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#07,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#07,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
-VU#07,0.00420168,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#07,0.00406504,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#07,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#07,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#07,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
+VU#07,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#07,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#07,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 VU#07,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
