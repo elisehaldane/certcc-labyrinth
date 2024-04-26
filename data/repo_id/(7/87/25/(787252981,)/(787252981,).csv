@@ -23,7 +23,7 @@ repo_id,repo_full_name,file,file_sha1,match
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/clerr/id:000117,sig:05,src:000942+001147,time:1207046361,execs:23055182,op:splice,rep:5.casrep",778841b39ad30fcb6be0c1b4daab9bde7dba7a23,CVE-2024-1441
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/clerr/id:000121,sig:05,src:002141,time:1325646093,execs:25413114,op:havoc,rep:2.casrep",7d0adec70e26719ae3f321bdc644a3740223fea5,CVE-2024-1441
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/cl2/id:000006,sig:05,src:003028+001738,time:4320861022,execs:101803,op:splice,rep:2.casrep",872bc519e880e4fcac19fc167ba7a363a4d2276f,CVE-2024-1441
-787252981,almkuznetsov/CVE-2024-1441,README.md,8f46a7969041711338797eec404527723b02d4cc,CVE-2024-1441
+787252981,almkuznetsov/CVE-2024-1441,README.md,8e43122dd41ff0d7d4e99cc1d3c8397be55212ea,CVE-2024-1441
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/cl2/id:000010,sig:05,src:001037+002663,time:4374191266,execs:173543,op:splice,rep:1.casrep",91fbd55ce4f90c2cf513ca0d12d43af922c4b54c,CVE-2024-1441
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/cl2/id:000033,sig:05,src:000176+000536,time:156034788,execs:2198694,op:splice,rep:3.casrep",92c1f6cec7775e4f383f9f0689b33e07194ebfc7,CVE-2024-1441
 787252981,almkuznetsov/CVE-2024-1441,"backup/casr-out/clerr/id:000021,sig:05,src:001017,time:3780137759,execs:375742,op:havoc,rep:2.casrep",94800eb40a98cfdeccb713620d55c4512d8ff6d4,CVE-2024-1441
