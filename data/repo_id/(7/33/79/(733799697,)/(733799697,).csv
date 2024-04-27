@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,2f1a1f26f34c540fcf65144d73def10c25e1b6f8,CVE-2020-3580
-733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,2f1a1f26f34c540fcf65144d73def10c25e1b6f8,CVE-2021-23017
-733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,2f1a1f26f34c540fcf65144d73def10c25e1b6f8,CVE-2021-26855
+733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,28690d143d4c9a66715eb83e0315cbffecd913e1,CVE-2020-3580
+733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,28690d143d4c9a66715eb83e0315cbffecd913e1,CVE-2021-23017
+733799697,InfoSecExplorer/Vulnerability-Checklist,Recon-Methodology.md,28690d143d4c9a66715eb83e0315cbffecd913e1,CVE-2021-26855
 733799697,InfoSecExplorer/Vulnerability-Checklist,directory_listing_wordlist.txt,56694f32f42716c52417295a2935c072d519eb86,VU#12
 733799697,InfoSecExplorer/Vulnerability-Checklist,directory_listing_wordlist.txt,56694f32f42716c52417295a2935c072d519eb86,VU#15
