@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-670897578,payatu/BugBazaar,app/release/app-release.apk,1d2ace53e6b6d15f5007d8ccb63b9b3f26a9eabd,VU#44
+670897578,payatu/BugBazaar,app/release/BugBazaar_v1.1.apk,fe18c9cb9e807dcc04352ce0e1d1d38a843dce54,VU#22
+670897578,payatu/BugBazaar,app/release/BugBazaar_v1.1.apk,fe18c9cb9e807dcc04352ce0e1d1d38a843dce54,VU#44
