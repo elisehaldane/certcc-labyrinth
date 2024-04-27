@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#61,1.00000000,https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,792336956
 VU#61,1.00000000,https://github.com/GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,786240611
 VU#61,1.00000000,https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,771575344
 VU#61,1.00000000,https://github.com/Soradotos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,Soradotos/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,766632241
@@ -419,7 +420,7 @@ VU#61,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#61,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#61,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#61,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
-VU#61,0.00018918,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#61,0.00018914,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
