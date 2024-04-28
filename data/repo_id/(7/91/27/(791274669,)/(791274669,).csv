@@ -3,9 +3,10 @@ repo_id,repo_full_name,file,file_sha1,match
 791274669,Cappricio-Securities/CVE-2018-8033,cve/main.py,6cdddb0feec62e548f3f04fd73d1503240fd70fc,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/includes/filereader.py,72b0654ef1b20da9b89feb9fd247f15acc769f0a,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/includes/bot.py,776707539c125234ef68e0b52b9dfdcc2dabb86b,CVE-2018-8033
-791274669,Cappricio-Securities/CVE-2018-8033,README.md,8099efefd26db42a83afe7b48b0c3b7bd5276da1,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/includes/writefile.py,af3f8b74b569a8c9854f3c712b09e233f280c305,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/utils/configure.py,c4acf6190a9f461d1cd9dc8a9bafcde2eee677c5,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/includes/scan.py,d19d874839108e681cc9a090d47b3596440c3efb,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,cve/utils/helpers.py,d5b9d27b1dab9582ef79d31d41441003d75a710a,CVE-2018-8033
+791274669,Cappricio-Securities/CVE-2018-8033,README.md,dceb4a8b7866feda34d2f80ff81d02ae5f7bafd2,CVE-2018-8033
+791274669,Cappricio-Securities/CVE-2018-8033,setup.py,f0c7a817bfafc7a2e73f804b8db9e9c0bc623b46,CVE-2018-8033
 791274669,Cappricio-Securities/CVE-2018-8033,_GITHUB_REPO_METADATA_,,CVE-2018-8033
