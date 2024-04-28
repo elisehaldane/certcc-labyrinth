@@ -1,6 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-762152550,hello-n-bye/starry,games/breakIn/mobile.lua,3bf761980d21123fc8894126085f76676f32bc9e,VU#72
-762152550,hello-n-bye/starry,games/breakIn/mobile.lua,3bf761980d21123fc8894126085f76676f32bc9e,VU#77
-762152550,hello-n-bye/starry,games/breakIn/mobile.lua,3bf761980d21123fc8894126085f76676f32bc9e,VU#772
 762152550,hello-n-bye/starry,games/breakIn/lobby/pc.lua,a9a60e689c529ba5f0567be2c12146cf48231970,VU#82
 762152550,hello-n-bye/starry,games/breakIn/lobby/pc.lua,a9a60e689c529ba5f0567be2c12146cf48231970,VU#87
