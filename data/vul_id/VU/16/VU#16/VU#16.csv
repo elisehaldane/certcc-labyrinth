@@ -12,6 +12,7 @@ VU#16,1.00000000,https://github.com/guilletmax/firmware-exploit,guilletmax/firmw
 VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max-mint-exploit,450599632
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
+VU#16,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
 VU#16,0.50000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
 VU#16,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
@@ -112,7 +113,6 @@ VU#16,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#16,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#16,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#16,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
-VU#16,0.03125000,https://github.com/hello-n-bye/starry,hello-n-bye/starry,762152550
 VU#16,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#16,0.02857143,https://github.com/MeowKu/InternalUI,MeowKu/InternalUI,758586642
 VU#16,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
@@ -224,6 +224,7 @@ VU#16,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#16,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#16,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#16,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#16,0.01086957,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#16,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#16,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#16,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
@@ -265,7 +266,6 @@ VU#16,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#16,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#16,0.00719424,https://github.com/2lambda123/Windows10Exploits,2lambda123/Windows10Exploits,746360690
 VU#16,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
-VU#16,0.00719424,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#16,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#16,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#16,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
@@ -280,6 +280,7 @@ VU#16,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#16,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#16,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
 VU#16,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597
+VU#16,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#16,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#16,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#16,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -316,7 +317,6 @@ VU#16,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#16,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 VU#16,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#16,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#16,0.00440529,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#16,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#16,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#16,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
@@ -333,6 +333,7 @@ VU#16,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#16,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#16,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#16,0.00334448,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
+VU#16,0.00333333,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#16,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#16,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#16,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813

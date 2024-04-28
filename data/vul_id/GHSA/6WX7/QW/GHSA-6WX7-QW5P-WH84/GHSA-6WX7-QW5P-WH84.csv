@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6WX7-QW5P-WH84,0.00086059,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-6WX7-QW5P-WH84,0.00000974,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-6WX7-QW5P-WH84,0.00000973,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-6WX7-QW5P-WH84,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
