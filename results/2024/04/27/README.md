@@ -1,12 +1,12 @@
 
 # Summary for results/2024/04/27
     
-120 records found after deduplication
+121 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2024-04-27 01:59:12+00:00 | 995117 | 32805 | Ruby | 13680 | [] |
-| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2024-04-27 06:42:03+00:00 | 6582 | 4334 | Python | 797 | [] |
+| YingLongGeeker/RCE | Remote Controller Engine | https://github.com/YingLongGeeker/RCE | ['rce'] | 1 | 2024-04-27 03:30:29+00:00 | 101 | 0 | C++ | 0 | [] |
 | Swedeachu/GenshinDiscordExploit | Gets a discord badge without having to download 70 gigabytes of chinese shovleware | https://github.com/Swedeachu/GenshinDiscordExploit | ['exploit'] | 1 | 2024-04-27 00:17:03+00:00 | 8 | 1 | C++ | 0 | [] |
 | Slayer988/exploit-t | Automation Playbooks for vulnerability tests (penetration tests) | https://github.com/Slayer988/exploit-t | ['exploit'] | 1 | 2024-04-27 00:03:06+00:00 | 0 | 0 | | 0 | [] |
 | ronin-rb/community-pocs | A repository of PoCs for ronin-exploits | https://github.com/ronin-rb/community-pocs | ['exploit'] | 1 | 2024-04-27 02:41:09+00:00 | 7 | 0 | Ruby | 0 | [] |
@@ -65,9 +65,9 @@
 | codingcore14/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ty | None | https://github.com/codingcore14/SILENT-EXCEL-XLS-EXPLOIT-CLEAN-ty | ['exploit'] | 1 | 2024-04-27 02:08:24+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/SILENT-DOC-EXPLOIT-CLEAN-ty | None | https://github.com/codingcore14/SILENT-DOC-EXPLOIT-CLEAN-ty | ['exploit'] | 1 | 2024-04-27 02:07:48+00:00 | 2 | 1 | | 0 | [] |
 | shermannatrix/ttg-kendoreact | All things related to my research, development & exploits surrounding KendoReact. | https://github.com/shermannatrix/ttg-kendoreact | ['exploit'] | 1 | 2024-04-27 10:28:17+00:00 | 28520 | 0 | CSS | 0 | [] |
-| YingLongGeeker/RCE | Remote Controller Engine | https://github.com/YingLongGeeker/RCE | ['rce'] | 1 | 2024-04-27 03:30:29+00:00 | 101 | 0 | C++ | 0 | [] |
 | 20100dbg/shellcodes | None | https://github.com/20100dbg/shellcodes | ['shellcode'] | 1 | 2024-04-27 14:26:41+00:00 | 16 | 0 | C | 0 | [] |
-| grantdadams/Rceattle_MSE | None | https://github.com/grantdadams/Rceattle_MSE | ['rce'] | 1 | 2024-04-27 20:55:33+00:00 | 1020701 | 0 | R | 0 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2024-04-27 06:42:03+00:00 | 6582 | 4334 | Python | 797 | [] |
+| Lyzev/SchummelPartie | Power up your Pummel Party experience with this customizable cheat, built for friendly competition or solo practice. | https://github.com/Lyzev/SchummelPartie | ['exploit'] | 1 | 2024-04-27 12:26:40+00:00 | 117 | 3 | C# | 0 | [] |
 | 3kh0/ext-remover | A curated list of exploits for ChromeOS | https://github.com/3kh0/ext-remover | ['exploit'] | 1 | 2024-04-27 20:24:43+00:00 | 5164 | 373 | JavaScript | 349 | [] |
 | NSHoffman/N7ZedsMut | Mutator for Killing Floor which modifies vanilla ZEDs providing them with new appearance and behaviour features + fixes a bunch of well-known issues and exploits which could negatively affect the original gameplay. | https://github.com/NSHoffman/N7ZedsMut | ['exploit'] | 1 | 2024-04-27 12:00:23+00:00 | 28642 | 3 | UnrealScript | 1 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-04-27 04:47:38+00:00 | 183784 | 214 | Go | 49 | [] |
@@ -80,10 +80,11 @@
 | jgamblin/CISA_Enrichment | CISA Known Exploited Vulnerabilities Catalog Enrichment | https://github.com/jgamblin/CISA_Enrichment | ['exploit'] | 1 | 2024-04-27 00:38:44+00:00 | 1569627 | 12 | Jupyter Notebook | 2 | [] |
 | ronin-rb/ronin-payloads | A Ruby micro-framework for writing and running exploit payloads | https://github.com/ronin-rb/ronin-payloads | ['exploit', 'shellcode'] | 2 | 2024-04-27 04:56:15+00:00 | 1306 | 20 | Ruby | 5 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-04-27 18:10:16+00:00 | 11240 | 29 | HTML | 4 | [] |
+| grantdadams/Rceattle_MSE | None | https://github.com/grantdadams/Rceattle_MSE | ['rce'] | 1 | 2024-04-27 20:55:33+00:00 | 1020701 | 0 | R | 0 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2024-04-27 04:05:56+00:00 | 3342 | 188 | Python | 16 | [] |
-| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-04-27 04:26:09+00:00 | 199616 | 115 | Go | 14 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-04-27 01:13:03+00:00 | 3831 | 279 | HTML | 20 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-04-27 04:03:40+00:00 | 473481 | 824 | Python | 187 | [] |
+| sowmiksudo/GenVirus | Generate Android Virus Sploit .APK Package Using Linux and Termux! | https://github.com/sowmiksudo/GenVirus | ['sploit'] | 1 | 2024-04-27 11:29:30+00:00 | 70 | 213 | Shell | 23 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-04-27 04:04:35+00:00 | 1538304 | 107 | | 34 | [] |
 | Mr-xn/RedTeam_BlueTeam_HW | 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具 | https://github.com/Mr-xn/RedTeam_BlueTeam_HW | ['shellcode'] | 1 | 2024-04-27 03:21:48+00:00 | 449462 | 2017 | Java | 511 | [] |
 | ricardojoserf/rop-emporium-exploits | Rop Emporium - Exploits and brief Walkthroughs | https://github.com/ricardojoserf/rop-emporium-exploits | ['exploit'] | 1 | 2024-04-27 11:52:21+00:00 | 15002 | 2 | Python | 1 | [] |
@@ -95,8 +96,8 @@
 | leomazuran/metasploit | None | https://github.com/leomazuran/metasploit | ['metasploit module OR payload'] | 1 | 2024-04-27 06:37:39+00:00 | 7 | 0 | Ruby | 0 | [] |
 | hugsy/gef-extras | Extra goodies for GEF to (try to) make GDB suck even less | https://github.com/hugsy/gef-extras | ['exploit'] | 1 | 2024-04-27 08:55:16+00:00 | 1809 | 142 | Python | 49 | [] |
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2024-04-27 08:03:15+00:00 | 21374 | 156 | | 22 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-04-27 04:26:09+00:00 | 199616 | 115 | Go | 14 | [] |
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-04-27 03:28:13+00:00 | 11194 | 219 | | 17 | [] |
-| Lyzev/SchummelPartie | Power up your Pummel Party experience with this customizable cheat, built for friendly competition or solo practice. | https://github.com/Lyzev/SchummelPartie | ['exploit'] | 1 | 2024-04-27 12:26:40+00:00 | 117 | 3 | C# | 0 | [] |
 | 3QNRpDwD/JustStone | [ JustStoneTransferProtocol&Backdoor ] This project stems from my interest in protocols and security, leading to the creation of a small backdoor and a proprietary protocol. | https://github.com/3QNRpDwD/JustStone | ['exploit'] | 1 | 2024-04-27 15:29:31+00:00 | 217 | 0 | Rust | 0 | [] |
 | cegatte/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/cegatte/UAC-Bypass-FUD | ['exploit'] | 1 | 2024-04-27 04:56:12+00:00 | 1296 | 7 | C# | 3 | [] |
 | Jeetu855/Binary-Exploitation | None | https://github.com/Jeetu855/Binary-Exploitation | ['exploit'] | 1 | 2024-04-27 13:24:36+00:00 | 10548 | 1 | Python | 0 | [] |
