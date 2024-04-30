@@ -71,6 +71,7 @@ VU#74,0.11111111,https://github.com/copcop981/management_and_exploitation_of_hou
 VU#74,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#74,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#74,0.10000000,https://github.com/iamumarjaved/Information-Security,iamumarjaved/Information-Security,739135576
+VU#74,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#74,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
 VU#74,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#74,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
@@ -281,7 +282,7 @@ VU#74,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#74,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#74,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#74,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#74,0.01086957,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
+VU#74,0.01075269,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#74,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#74,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#74,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
@@ -290,8 +291,8 @@ VU#74,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#74,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#74,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#74,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#74,0.00952381,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#74,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#74,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#74,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#74,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#74,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -441,8 +442,8 @@ VU#74,0.00019198,https://github.com/jovan-rgb/metasploit-framework,jovan-rgb/met
 VU#74,0.00019150,https://github.com/jyankhomen/metasploit-framework,jyankhomen/metasploit-framework,735533808
 VU#74,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1ty,nu11secur1ty/metasploit-framework-nu11secur1ty,721278524
 VU#74,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
-VU#74,0.00019095,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#74,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
+VU#74,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#74,0.00018914,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#74,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#74,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

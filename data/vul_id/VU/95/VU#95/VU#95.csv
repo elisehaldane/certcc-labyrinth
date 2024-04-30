@@ -32,7 +32,6 @@ VU#95,0.16666667,https://github.com/complexfilter/Single_Image_Interpolation_Exp
 VU#95,0.16666667,https://github.com/0neday/Exploit-HS8545M-ONT,0neday/Exploit-HS8545M-ONT,367586775
 VU#95,0.14285714,https://github.com/RHEAGROUP/RACE_E8,RHEAGROUP/RACE_E8,658848200
 VU#95,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
-VU#95,0.12500000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#95,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
 VU#95,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
 VU#95,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
@@ -40,6 +39,7 @@ VU#95,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-B
 VU#95,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#95,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#95,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
+VU#95,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#95,0.10000000,https://github.com/thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,thl-cmk/CVE-2021-44228-log4j-check_mk-plugin,439837504
 VU#95,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#95,0.09090909,https://github.com/nguyenbadac0405/prod_RCE,nguyenbadac0405/prod_RCE,665948996
@@ -170,7 +170,7 @@ VU#95,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-
 VU#95,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#95,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#95,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
-VU#95,0.01086957,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
+VU#95,0.01075269,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#95,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#95,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#95,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398

@@ -68,13 +68,13 @@ VU#63,0.14285714,https://github.com/GuayoyoCyber/CVE-2022-22965,GuayoyoCyber/CVE
 VU#63,0.14285714,https://github.com/mtthwstffrd/calebstewart-CVE-2021-1675,mtthwstffrd/calebstewart-CVE-2021-1675,462124130
 VU#63,0.14285714,https://github.com/Amaranese/CVE-2021-34527,Amaranese/CVE-2021-34527,437822133
 VU#63,0.12500000,https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527,whoami-chmod777/CVE-2021-1675-CVE-2021-34527,756532685
-VU#63,0.12500000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#63,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#63,0.12500000,https://github.com/cyb3rpeace/CVE-2021-34527,cyb3rpeace/CVE-2021-34527,507019653
 VU#63,0.12500000,https://github.com/sh7alward/CVE-20121-34527-nightmare,sh7alward/CVE-20121-34527-nightmare,438151074
 VU#63,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#63,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#63,0.10000000,https://github.com/XuGW-Kevin/DrM,XuGW-Kevin/DrM,744360504
+VU#63,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#63,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#63,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#63,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
@@ -286,7 +286,7 @@ VU#63,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#63,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#63,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#63,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#63,0.01086957,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
+VU#63,0.01075269,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#63,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#63,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#63,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -301,8 +301,9 @@ VU#63,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#63,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#63,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#63,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#63,0.00952381,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#63,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#63,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#63,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#63,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#63,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
