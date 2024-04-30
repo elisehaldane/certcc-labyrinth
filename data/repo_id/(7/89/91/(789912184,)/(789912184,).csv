@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-789912184,chains-project/exploits-for-sbom.exe,README.md,7c1c82d368290e8a9ae5e394ab5d960da4684503,CVE-2021-42392
-789912184,chains-project/exploits-for-sbom.exe,README.md,7c1c82d368290e8a9ae5e394ab5d960da4684503,CVE-2021-44228
-789912184,chains-project/exploits-for-sbom.exe,README.md,7c1c82d368290e8a9ae5e394ab5d960da4684503,CVE-2022-33980
+789912184,chains-project/exploits-for-sbom.exe,README.md,b55784e1acef2cf7836d9d61c1b505ca82db396f,CVE-2021-42392
+789912184,chains-project/exploits-for-sbom.exe,README.md,b55784e1acef2cf7836d9d61c1b505ca82db396f,CVE-2021-44228
+789912184,chains-project/exploits-for-sbom.exe,README.md,b55784e1acef2cf7836d9d61c1b505ca82db396f,CVE-2022-33980
