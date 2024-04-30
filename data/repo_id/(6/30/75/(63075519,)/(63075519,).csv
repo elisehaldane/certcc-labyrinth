@@ -7,7 +7,7 @@ repo_id,repo_full_name,file,file_sha1,match
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2017-5487
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2021-41773
 63075519,htrgouvea/spellbook,README.md,36874223965ea1a1de523875fe21cce5da0f76bd,CVE-2023-29489
-63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9377.pm,3ee295fb7961cfa6a80f9f4da1a09cccba9df3b0,CVE-2020-9377
+63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2020_9377.pm,4405487d7bd9f9729b3808c838da6bfbb8a7059a,CVE-2020-9377
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2023_38646.pm,57e2b9658be9d9fe3721e3267674e45002ee559b,CVE-2023-38646
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,684713965ed3c2aaf3a0191ffc4d18508a20efc1,CVE-2016-10033
 63075519,htrgouvea/spellbook,lib/Spellbook/Advisory/CVE_2016_10045.pm,684713965ed3c2aaf3a0191ffc4d18508a20efc1,CVE-2016-10045
