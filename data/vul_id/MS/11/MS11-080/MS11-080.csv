@@ -185,12 +185,12 @@ MS11-080,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 MS11-080,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS11-080,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 MS11-080,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
-MS11-080,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS11-080,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS11-080,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
+MS11-080,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS11-080,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS11-080,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-MS11-080,0.00060496,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS11-080,0.00060459,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS11-080,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS11-080,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS11-080,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
@@ -360,7 +360,7 @@ MS11-080,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-data
 MS11-080,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS11-080,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS11-080,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS11-080,0.00000432,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS11-080,0.00000428,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS11-080,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS11-080,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS11-080,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

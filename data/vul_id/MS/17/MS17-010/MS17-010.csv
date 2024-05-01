@@ -550,7 +550,6 @@ MS17-010,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550
 MS17-010,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS17-010,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 MS17-010,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
-MS17-010,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS17-010,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS17-010,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -558,6 +557,7 @@ MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30the
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
 MS17-010,0.00086059,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+MS17-010,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 MS17-010,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
@@ -672,7 +672,7 @@ MS17-010,0.00018546,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00017550,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS17-010,0.00015305,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00015106,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -728,11 +728,11 @@ MS17-010,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS17-010,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS17-010,0.00000973,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00000970,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 MS17-010,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 MS17-010,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS17-010,0.00000432,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS17-010,0.00000428,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS17-010,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

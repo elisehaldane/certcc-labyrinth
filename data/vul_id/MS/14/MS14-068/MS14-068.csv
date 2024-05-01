@@ -177,13 +177,13 @@ MS14-068,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550
 MS14-068,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS14-068,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 MS14-068,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
-MS14-068,0.00128866,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS14-068,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS14-068,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS14-068,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
+MS14-068,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS14-068,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS14-068,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-MS14-068,0.00060496,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS14-068,0.00060459,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS14-068,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS14-068,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS14-068,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
@@ -341,7 +341,7 @@ MS14-068,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-e
 MS14-068,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS14-068,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS14-068,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS14-068,0.00000432,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS14-068,0.00000428,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS14-068,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS14-068,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS14-068,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
