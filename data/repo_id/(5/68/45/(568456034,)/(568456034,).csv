@@ -50,5 +50,5 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/polkit-privilege-escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/snapd-privilege-escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
 568456034,hideckies/exploit-notes,src/exploit/network/protocol/vnc-pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
-568456034,hideckies/exploit-notes,src/exploit/web/cms/wordpress-pentesting.md,f5892963d423a6676160f3f897597e5577dd5656,CVE-2021-29447
+568456034,hideckies/exploit-notes,src/exploit/web/cms/wordpress-pentesting.md,ea28427cc2d363bd331658b76e624d38587381c5,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/web/webmin-pentesting.md,febe48ddfdb765f7049549cbdde8ad8f8406a738,CVE-2019-15107
