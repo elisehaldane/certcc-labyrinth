@@ -9,13 +9,13 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,notes/pwk.txt,9f36e5413f33e6d01c95575f09229dd79a491c1b,MS11-080
 13932470,leebaird/discover,notes/pwk.txt,9f36e5413f33e6d01c95575f09229dd79a491c1b,MS12-037
 13932470,leebaird/discover,notes/PowerShell/PS-Attack.txt,a0fdd58931159616c3c6d8639a02257686c264c5,MS16-032
-13932470,leebaird/discover,notes/linux.txt,ab46a5c1a707fafac7064009f9d88fef2280eb0f,CVE-2022-0847
 13932470,leebaird/discover,nse.sh,b2a958bdc9ecc348aef5f67b5c10a737299de7ae,CVE-2017-7494
 13932470,leebaird/discover,nse.sh,b2a958bdc9ecc348aef5f67b5c10a737299de7ae,MS17-010
 13932470,leebaird/discover,nse.sh,b2a958bdc9ecc348aef5f67b5c10a737299de7ae,MS10-061
 13932470,leebaird/discover,nse.sh,b2a958bdc9ecc348aef5f67b5c10a737299de7ae,MS12-020
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS17-010
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS10-073
+13932470,leebaird/discover,notes/linux.txt,ca4ffefad767fe5ee4521f6f24e63c7df4f46d71,CVE-2022-0847
 13932470,leebaird/discover,newModules.sh,d44031b221270656fa2eea929f655b46fc52bfe2,MS10-054
 13932470,leebaird/discover,newModules.sh,d44031b221270656fa2eea929f655b46fc52bfe2,MS08-067
 13932470,leebaird/discover,newModules.sh,d44031b221270656fa2eea929f655b46fc52bfe2,MS07-029
