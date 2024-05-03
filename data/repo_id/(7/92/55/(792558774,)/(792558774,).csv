@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-792558774,ronin-rb/community-pocs,exploits/flowmon/CVE-2024-2389.rb,dcb3991c521b808f262b169636f36929186937dd,CVE-2024-2389
+792558774,ronin-rb/community-pocs,exploits/flowmon/CVE-2024-2389.rb,a40f98bb1543d3aeb85e87bacb7b4da35f2cca7a,CVE-2024-2389
+792558774,ronin-rb/community-pocs,exploits/sophos/CVE-2023-1671.rb,febd7a939a5ba09c14244be17e6818c05ad3f954,CVE-2023-1671
