@@ -556,7 +556,7 @@ MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4
 MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30thers,fengjixuchui/Windows10ExploitsArchiv30thers,257192688
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
-MS17-010,0.00086059,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+MS17-010,0.00085911,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 MS17-010,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -671,8 +671,8 @@ MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurp
 MS17-010,0.00018546,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00017538,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS17-010,0.00015103,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00017528,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00015094,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -728,7 +728,7 @@ MS17-010,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS17-010,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS17-010,0.00000969,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00000968,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

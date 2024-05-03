@@ -38,6 +38,7 @@ VU#08,0.09090909,https://github.com/PaulChauveau17/TSH,PaulChauveau17/TSH,751908
 VU#08,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
 VU#08,0.08333333,https://github.com/TheAirBlow/HyperSploit,TheAirBlow/HyperSploit,791713013
 VU#08,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
+VU#08,0.07692308,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#08,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#08,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#08,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
@@ -133,6 +134,7 @@ VU#08,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-
 VU#08,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#08,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#08,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
+VU#08,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#08,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#08,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#08,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
@@ -150,7 +152,6 @@ VU#08,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploit
 VU#08,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#08,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#08,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#08,0.01075269,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#08,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#08,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#08,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
