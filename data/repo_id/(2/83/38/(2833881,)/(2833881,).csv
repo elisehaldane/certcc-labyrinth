@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,02a15b708ffcb19ae448d68b1bdc3c8243681d83,CVE-2014-0627
+2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,02a15b708ffcb19ae448d68b1bdc3c8243681d83,CVE-2014-6271
 2833881,beefproject/beef,core/main/server.rb,08f24a85c15758641cdc48ca6390359f568826d4,CVE-2014-0160
 2833881,beefproject/beef,modules/social_engineering/firefox_extension_reverse_shell/command.js,0a24617282eea7a254ed9172982bcc5deb9c486f,VU#59
 2833881,beefproject/beef,modules/exploits/farsite_x25_remote_shell/config.yaml,0a41b7a5f106f2bb3ec2d91f9be437b9517b35a0,CVE-2014-7173
@@ -11,7 +13,6 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,modules/social_engineering/fake_notification_ff/command.js,5597a00f35e6f909134adb0cd2e4d6cf7ff55f09,VU#45
 2833881,beefproject/beef,modules/exploits/php-5.3.9-dos/command.js,590cef85032a994b3bf55f7e6371556bdb36b617,CVE-2012-0830
 2833881,beefproject/beef,modules/exploits/coldfusion_dir_traversal_exploit/command.js,5db68d00c0d0b8c0bf71f38bab154ce5a103250b,CVE-2010-2861
-2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,60d7c268cf076f6a64c5fee7212b3ca04d1b80db,CVE-2014-0627
 2833881,beefproject/beef,modules/exploits/local_host/safari_launch_app/config.yaml,6b4495bb84835a054edb94fde2a0abfc9ff1ecbd,CVE-2011-3230
 2833881,beefproject/beef,test/thirdparty/msf/unit/tc_metasploit.rb,7ede8072ae856d53dff5da5ed1d239d396460f6a,MS03-026
 2833881,beefproject/beef,modules/exploits/spring_framework_malicious_jar/config.yaml,8635fe2700b3a7c141de9bc9b4b7d318744b9c34,CVE-2010-1622
@@ -38,11 +39,11 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS12-034
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-024
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-017
-2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-006
+2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-011
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS10-097
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS10-083
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS10-081
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS10-074
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS10-013
 2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS09-037
-2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-011
+2833881,beefproject/beef,modules/host/detect_software/command.js,fc00d152c577e1ddace4dab539a6e8a7d51837b4,MS11-006
