@@ -121,7 +121,7 @@ VU#67,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#67,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#67,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#67,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#67,0.02272727,https://github.com/beefproject/beef,beefproject/beef,2833881
+VU#67,0.02222222,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#67,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#67,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#67,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
@@ -137,7 +137,6 @@ VU#67,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#67,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#67,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#67,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
-VU#67,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#67,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#67,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#67,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
@@ -145,6 +144,7 @@ VU#67,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/explo
 VU#67,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#67,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#67,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
+VU#67,0.01666667,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#67,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#67,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#67,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
@@ -334,7 +334,7 @@ VU#67,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#67,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#67,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#67,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#67,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#67,0.00068259,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#67,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#67,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#67,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571

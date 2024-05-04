@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#997,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
 VU#997,0.04347826,https://github.com/AryanVBW/LinuxDroid,AryanVBW/LinuxDroid,596378884
 VU#997,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
-VU#997,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
+VU#997,0.01666667,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#997,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#997,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#997,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -30,4 +30,4 @@ VU#997,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761
 VU#997,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#997,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#997,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#997,0.00077101,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#997,0.00068259,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
