@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+570494853,c0dejump/HExHTTP,modules/technos/apache.py,8dff415aa5e230051be3f79af9554ebe73f26d2c,CVE-2024-21733
