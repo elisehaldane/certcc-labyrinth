@@ -117,7 +117,7 @@ VU#47,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,S
 VU#47,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#47,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#47,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
-VU#47,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt,ericyoc/analysis_bin_exploit_mem_corrupt,783032505
+VU#47,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#47,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
 VU#47,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
 VU#47,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
@@ -226,6 +226,7 @@ VU#47,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-
 VU#47,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#47,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#47,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#47,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#47,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#47,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#47,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -233,7 +234,6 @@ VU#47,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiv
 VU#47,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#47,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#47,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
-VU#47,0.01666667,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#47,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#47,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#47,0.01612903,https://github.com/svrohith9/Penetration-testing,svrohith9/Penetration-testing,489994709
@@ -366,7 +366,6 @@ VU#47,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,74074982
 VU#47,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#47,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#47,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
-VU#47,0.00333333,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#47,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#47,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#47,0.00313480,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
@@ -387,6 +386,7 @@ VU#47,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniqu
 VU#47,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#47,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#47,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
+VU#47,0.00210084,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#47,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#47,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#47,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864

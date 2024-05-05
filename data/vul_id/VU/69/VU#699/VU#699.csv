@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#699,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
+VU#699,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#699,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#699,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#699,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
@@ -10,6 +11,7 @@ VU#699,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,7407498
 VU#699,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#699,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#699,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
+VU#699,0.00210084,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#699,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#699,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#699,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
