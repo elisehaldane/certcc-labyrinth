@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-XQVF-V5JG-PXC2,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-XQVF-V5JG-PXC2,0.00018911,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-XQVF-V5JG-PXC2,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

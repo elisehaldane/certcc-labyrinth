@@ -16,6 +16,7 @@ MS14-068,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/To
 MS14-068,0.09090909,https://github.com/uberJohnson/MS-Vulnerability-Library,uberJohnson/MS-Vulnerability-Library,92790146
 MS14-068,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 MS14-068,0.08333333,https://github.com/Louzogh/CVE-2021-31800,Louzogh/CVE-2021-31800,531854393
+MS14-068,0.07692308,https://github.com/Actariss/TFE_Exploitation,Actariss/TFE_Exploitation,797237875
 MS14-068,0.07692308,https://github.com/ex16x41/oscp,ex16x41/oscp,157270926
 MS14-068,0.06250000,https://github.com/AngelJuanMa/Pentesting,AngelJuanMa/Pentesting,426115466
 MS14-068,0.06250000,https://github.com/dark-vex/CVE-PoC-collection,dark-vex/CVE-PoC-collection,199694627
@@ -293,7 +294,7 @@ MS14-068,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS14-068,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS14-068,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 MS14-068,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS14-068,0.00018911,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS14-068,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS14-068,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS14-068,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS14-068,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
