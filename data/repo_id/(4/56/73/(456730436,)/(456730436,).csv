@@ -22,13 +22,13 @@ repo_id,repo_full_name,file,file_sha1,match
 456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2019-0686
 456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,MS17-010
 456730436,Threekiii/Awesome-Redteam,tips/内网渗透-Pentesting AD Mindmap.svg,5c71f8931bb2061d60ee79963a826775a60fde7c,CVE-2022-26925
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CNVD-2020-10487
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2022-22947
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2021-44228
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2021-42278
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2021-34527
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2021-1675
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2020-1938
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2020-1472
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2022-22963
-456730436,Threekiii/Awesome-Redteam,README.md,730a9c8a647fee6574ac5c0b437a73b99ed4de43,CVE-2021-42287
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CNVD-2020-10487
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2022-22947
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2021-44228
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2021-42278
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2021-34527
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2021-1675
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2020-1938
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2020-1472
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2022-22963
+456730436,Threekiii/Awesome-Redteam,README.md,8ba9327b2f548c6ec12c7a4dfb3ad4b9c977aed8,CVE-2021-42287
