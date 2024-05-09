@@ -18,7 +18,6 @@ VU#19,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/nopl
 VU#19,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
 VU#19,0.20000000,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
 VU#19,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
-VU#19,0.14285714,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#19,0.14285714,https://github.com/Roblox4dev/SynapseX-,Roblox4dev/SynapseX-,725053450
 VU#19,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#19,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
@@ -29,6 +28,7 @@ VU#19,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRe
 VU#19,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
 VU#19,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#19,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
+VU#19,0.11111111,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#19,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
 VU#19,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#19,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
@@ -309,16 +309,16 @@ VU#19,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#19,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#19,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#19,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
-VU#19,0.00331126,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#19,0.00328947,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#19,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#19,0.00313480,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#19,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#19,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#19,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#19,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#19,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#19,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#19,0.00271739,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#19,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#19,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#19,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -354,8 +354,8 @@ VU#19,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exp
 VU#19,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#19,0.00084674,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#19,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#19,0.00068259,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
+VU#19,0.00053135,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#19,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
