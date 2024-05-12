@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2023-5782,0.00102987,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2023-5782,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+ZSL-2023-5782,0.00006423,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 ZSL-2023-5782,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
 ZSL-2023-5782,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
 ZSL-2023-5782,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686

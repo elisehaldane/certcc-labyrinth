@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS18-8120,0.08333333,https://github.com/Jamshid272/Metasploit-framework,Jamshid272/Metasploit-framework,799386098
 MS18-8120,0.06666667,https://github.com/mrbrownnn/MetasploitFramework,mrbrownnn/MetasploitFramework,789680836
 MS18-8120,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 MS18-8120,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
@@ -96,4 +97,4 @@ MS18-8120,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-
 MS18-8120,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS18-8120,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS18-8120,0.00000428,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
-MS18-8120,0.00000365,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS18-8120,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

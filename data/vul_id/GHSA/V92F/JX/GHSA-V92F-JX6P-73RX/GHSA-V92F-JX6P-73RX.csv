@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-V92F-JX6P-73RX,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-V92F-JX6P-73RX,0.00006423,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-V92F-JX6P-73RX,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-V92F-JX6P-73RX,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-V92F-JX6P-73RX,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
