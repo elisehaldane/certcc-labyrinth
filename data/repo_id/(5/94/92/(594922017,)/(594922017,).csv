@@ -1,6 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 594922017,yhy0/Jie,scan/Pocs/pocs_go/phpunit/CVE_2017_9841.go,018e2c52253c597de42f4017235361fce524f99d,CVE-2017-9841
-594922017,yhy0/Jie,go.sum,11897e1f48c9551e1718fd74fed06c6a15fd93dd,VU#92
 594922017,yhy0/Jie,scan/Pocs/pocs_go/log4j/scan.go,143a6bd3b8f472403a85bff360af49112af87b8c,CVE-2022-42889
 594922017,yhy0/Jie,scan/Pocs/pocs_go/log4j/scan.go,143a6bd3b8f472403a85bff360af49112af87b8c,CVE-2021-45046
 594922017,yhy0/Jie,scan/Pocs/java/weblogic/CVE_2019_2725.go,36138452f127cb25f42641f9c2af7a5737d6cdaa,CVE-2019-2725
@@ -11,6 +10,7 @@ repo_id,repo_full_name,file,file_sha1,match
 594922017,yhy0/Jie,scan/Pocs/pocs_go/jboss/CVE_2017_12149.go,46c5368d3488d6432bff472c04ed9da321c6845b,CVE-2017-12149
 594922017,yhy0/Jie,scan/Pocs/pocs_go/log4j/payload.go,4b1e565de2b63cc75248571ba73e843c5d3fb341,CVE-2022-42889
 594922017,yhy0/Jie,scan/Pocs/pocs_go/log4j/payload.go,4b1e565de2b63cc75248571ba73e843c5d3fb341,CVE-2021-45046
+594922017,yhy0/Jie,go.sum,4b540c85bee7c2d6114aa07e7c44e4dad230cea8,VU#92
 594922017,yhy0/Jie,scan/gadget/sensitive/keys/github/github-outdated-key.yaml,4d10f17538324111a9c38fbe0a3cf2dd15e840b5,VU#31
 594922017,yhy0/Jie,cmd/weblogic.go,542d408ab0c4b932ae2bbfdc1640040e4c24bada,CVE-2018-2894
 594922017,yhy0/Jie,cmd/weblogic.go,542d408ab0c4b932ae2bbfdc1640040e4c24bada,CVE-2017-10271
