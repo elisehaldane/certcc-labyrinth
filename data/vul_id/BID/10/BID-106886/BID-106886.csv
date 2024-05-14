@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-106886,0.00060423,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+BID-106886,0.00060386,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 BID-106886,0.00007487,https://github.com/enaqx/sploitware,enaqx/sploitware,22348337
 BID-106886,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-106886,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

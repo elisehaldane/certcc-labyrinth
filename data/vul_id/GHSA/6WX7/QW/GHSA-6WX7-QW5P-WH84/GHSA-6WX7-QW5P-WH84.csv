@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6WX7-QW5P-WH84,0.02500000,https://github.com/Shelter1234/VulneraLab,Shelter1234/VulneraLab,763555782
 GHSA-6WX7-QW5P-WH84,0.00085543,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-6WX7-QW5P-WH84,0.00000959,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-6WX7-QW5P-WH84,0.00000958,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-6WX7-QW5P-WH84,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
