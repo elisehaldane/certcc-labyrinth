@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+801154640,xboxoneresearch/CVE-2023-21768-dotnet,eop.cs,bf49a3b7e48feef3c373e6de36af63f5fc488110,CVE-2023-21768
+801154640,xboxoneresearch/CVE-2023-21768-dotnet,README.md,d9ae6a9d08413e4604d6679c23577bb3a35ae509,CVE-2023-21768
+801154640,xboxoneresearch/CVE-2023-21768-dotnet,_GITHUB_REPO_METADATA_,,CVE-2023-21768
