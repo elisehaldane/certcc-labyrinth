@@ -135,12 +135,12 @@ VU#28,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2
 VU#28,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#28,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#28,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
-VU#28,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#28,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#28,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#28,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#28,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#28,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
+VU#28,0.01587302,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#28,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#28,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#28,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
@@ -217,7 +217,7 @@ VU#28,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#28,0.00900901,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#28,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#28,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#28,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#28,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#28,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#28,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#28,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -253,7 +253,7 @@ VU#28,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#28,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#28,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#28,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#28,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#28,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#28,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#28,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#28,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -339,7 +339,7 @@ VU#28,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#28,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#28,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#28,0.00053135,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
-VU#28,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#28,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
 VU#28,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#28,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#28,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

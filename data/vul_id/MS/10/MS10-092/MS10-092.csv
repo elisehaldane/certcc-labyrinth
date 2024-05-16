@@ -34,6 +34,7 @@ MS10-092,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/Wi
 MS10-092,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
 MS10-092,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS10-092,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
+MS10-092,0.00813008,https://github.com/384564527/DeepExploit-pytorch,384564527/DeepExploit-pytorch,777765414
 MS10-092,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS10-092,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS10-092,0.00719424,https://github.com/febinrev/privesc-post_exploit-collection,febinrev/privesc-post_exploit-collection,256685535
@@ -287,7 +288,7 @@ MS10-092,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-data
 MS10-092,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS10-092,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS10-092,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS10-092,0.00000958,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-092,0.00000956,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-092,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-092,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS10-092,0.00000423,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

@@ -13,7 +13,7 @@ MS08-067,1.00000000,https://github.com/sunn1day/Windows-TCP-reverse-shellcode-st
 MS08-067,1.00000000,https://github.com/RobertoLFRA/armitage,RobertoLFRA/armitage,472046425
 MS08-067,1.00000000,https://github.com/zhangdapeng520/zdppy_metasploit,zhangdapeng520/zdppy_metasploit,469652142
 MS08-067,1.00000000,https://github.com/adarshvs/ms08_067_python3,adarshvs/ms08_067_python3,461299801
-MS08-067,1.00000000,https://github.com/mashahzad/Network-Security,mashahzad/Network-Security,448531043
+MS08-067,1.00000000,https://github.com/mashahzad/Networks,mashahzad/Networks,448531043
 MS08-067,1.00000000,https://github.com/hupe1980/gomsf,hupe1980/gomsf,432955573
 MS08-067,1.00000000,https://github.com/Nerkho/MS08-067,Nerkho/MS08-067,423911751
 MS08-067,1.00000000,https://github.com/phreakAI/MetasploitGym,phreakAI/MetasploitGym,407942105
@@ -92,7 +92,6 @@ MS08-067,0.50000000,https://github.com/actuated/msf-exploit-loop,actuated/msf-ex
 MS08-067,0.50000000,https://github.com/danielwu182/Exploitation-and-Penetration-Testing,danielwu182/Exploitation-and-Penetration-Testing,101605271
 MS08-067,0.50000000,https://github.com/PKSJTeam/Metasploit,PKSJTeam/Metasploit,75884365
 MS08-067,0.50000000,https://github.com/serhatgksu/vmwarescanner,serhatgksu/vmwarescanner,74786209
-MS08-067,0.50000000,https://github.com/EvanMcBroom/pocs,EvanMcBroom/pocs,74394204
 MS08-067,0.50000000,https://github.com/midnightslacker/exploit_training,midnightslacker/exploit_training,74299451
 MS08-067,0.50000000,https://github.com/ohnozzy/Exploit,ohnozzy/Exploit,50414017
 MS08-067,0.50000000,https://github.com/dradis/dradis-metasploit,dradis/dradis-metasploit,47963523
@@ -107,6 +106,7 @@ MS08-067,0.33333333,https://github.com/Worldotank1287/sneaky_thing,Worldotank128
 MS08-067,0.33333333,https://github.com/mukthy/oscp-survival-guide,mukthy/oscp-survival-guide,247701686
 MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits,153557664
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
+MS08-067,0.33333333,https://github.com/EvanMcBroom/pocs,EvanMcBroom/pocs,74394204
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
@@ -274,7 +274,7 @@ MS08-067,0.01587302,https://github.com/D4nk0St0rM/ethical_hacking,D4nk0St0rM/eth
 MS08-067,0.01538462,https://github.com/at0mik/WHA,at0mik/WHA,225234544
 MS08-067,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
 MS08-067,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
-MS08-067,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
+MS08-067,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 MS08-067,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
 MS08-067,0.01298701,https://github.com/nirsarkar/Exploit-payload,nirsarkar/Exploit-payload,312527217
 MS08-067,0.01234568,https://github.com/1N3/PrivEsc,1N3/PrivEsc,71915988
@@ -292,6 +292,7 @@ MS08-067,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsplo
 MS08-067,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS08-067,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS08-067,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+MS08-067,0.00813008,https://github.com/384564527/DeepExploit-pytorch,384564527/DeepExploit-pytorch,777765414
 MS08-067,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS08-067,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS08-067,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
@@ -611,7 +612,7 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000958,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000956,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

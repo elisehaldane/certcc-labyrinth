@@ -22,7 +22,7 @@ VU#45,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123
 VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
-VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
+VU#45,0.50000000,https://github.com/cyberanand1337x/metasploit-termux-2023,cyberanand1337x/metasploit-termux-2023,543638364
 VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
@@ -214,7 +214,6 @@ VU#45,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s96
 VU#45,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#45,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#45,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
-VU#45,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#45,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#45,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#45,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -224,6 +223,7 @@ VU#45,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,v
 VU#45,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#45,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#45,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
+VU#45,0.01587302,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#45,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#45,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#45,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
@@ -246,7 +246,7 @@ VU#45,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodg
 VU#45,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#45,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#45,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
-VU#45,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
+VU#45,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#45,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#45,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#45,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
@@ -329,7 +329,7 @@ VU#45,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#45,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#45,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#45,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#45,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#45,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#45,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#45,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#45,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544

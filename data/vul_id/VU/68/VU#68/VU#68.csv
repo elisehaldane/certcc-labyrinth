@@ -160,7 +160,6 @@ VU#68,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#68,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#68,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#68,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
-VU#68,0.01694915,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#68,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#68,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#68,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
@@ -170,6 +169,7 @@ VU#68,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/Lu
 VU#68,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#68,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#68,0.01612903,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
+VU#68,0.01587302,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#68,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#68,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#68,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
@@ -221,7 +221,7 @@ VU#68,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#68,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#68,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#68,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
-VU#68,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#68,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#68,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#68,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#68,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
@@ -259,7 +259,7 @@ VU#68,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,68
 VU#68,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#68,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#68,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#68,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#68,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#68,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#68,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#68,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
