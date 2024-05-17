@@ -6,10 +6,10 @@ GHSA-6P93-P743-35GF,0.00578035,https://github.com/Threekiii/CVE,Threekiii/CVE,58
 GHSA-6P93-P743-35GF,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-6P93-P743-35GF,0.00325733,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 GHSA-6P93-P743-35GF,0.00085543,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-6P93-P743-35GF,0.00085034,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
-GHSA-6P93-P743-35GF,0.00084602,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
-GHSA-6P93-P743-35GF,0.00084459,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
-GHSA-6P93-P743-35GF,0.00060314,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+GHSA-6P93-P743-35GF,0.00084818,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+GHSA-6P93-P743-35GF,0.00084388,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
+GHSA-6P93-P743-35GF,0.00084246,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+GHSA-6P93-P743-35GF,0.00060205,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-6P93-P743-35GF,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-6P93-P743-35GF,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 GHSA-6P93-P743-35GF,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -28,7 +28,7 @@ GHSA-6P93-P743-35GF,0.00018972,https://github.com/flechaok/Metasploit-framework,
 GHSA-6P93-P743-35GF,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-6P93-P743-35GF,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-6P93-P743-35GF,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-GHSA-6P93-P743-35GF,0.00006356,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-6P93-P743-35GF,0.00006185,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-6P93-P743-35GF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-6P93-P743-35GF,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-6P93-P743-35GF,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

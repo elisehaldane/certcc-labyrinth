@@ -9,6 +9,7 @@ VU#09,1.00000000,https://github.com/Hexliath/Hands-On-BufferOverflow-Exploitatio
 VU#09,1.00000000,https://github.com/arturkow2000/lgk10exploit,arturkow2000/lgk10exploit,308358156
 VU#09,0.50000000,https://github.com/horizon3ai/CVE-2023-48788,horizon3ai/CVE-2023-48788,774039594
 VU#09,0.50000000,https://github.com/vinit989/BugBazaar_Exploits,vinit989/BugBazaar_Exploits,734615810
+VU#09,0.50000000,https://github.com/zerodays/next-template,zerodays/next-template,650080795
 VU#09,0.50000000,https://github.com/ArshadSheik/TALAKUNCHI-CYBERSECURITY,ArshadSheik/TALAKUNCHI-CYBERSECURITY,580061854
 VU#09,0.50000000,https://github.com/Samir-Abuisneneh/CryptoAnalysis_rsa_signature_exploit,Samir-Abuisneneh/CryptoAnalysis_rsa_signature_exploit,469495563
 VU#09,0.50000000,https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr,0x3SC4L4T3/Babykernel-ctf-ret2usr,441004245
@@ -277,6 +278,7 @@ VU#09,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hac
 VU#09,0.01298701,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#09,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455
 VU#09,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
+VU#09,0.01282051,https://github.com/hupe1980/aisploit,hupe1980/aisploit,762676512
 VU#09,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#09,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#09,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
@@ -309,9 +311,9 @@ VU#09,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersingh
 VU#09,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#09,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#09,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
-VU#09,0.01063830,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#09,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#09,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
+VU#09,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#09,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#09,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#09,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
@@ -360,6 +362,7 @@ VU#09,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#09,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#09,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#09,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#09,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#09,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#09,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
 VU#09,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
