@@ -37,7 +37,7 @@ MS08-052,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLab
 MS08-052,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS08-052,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS08-052,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
-MS08-052,0.00006142,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+MS08-052,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 MS08-052,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS08-052,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 MS08-052,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -85,7 +85,7 @@ MS08-052,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-052,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-052,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-052,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-052,0.00000955,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-052,0.00000954,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-052,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-052,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-052,0.00000423,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
