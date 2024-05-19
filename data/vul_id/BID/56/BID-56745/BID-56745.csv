@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-56745,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 BID-56745,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
-BID-56745,0.00006149,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+BID-56745,0.00006142,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-56745,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-56745,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 BID-56745,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -40,3 +40,4 @@ BID-56745,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmit
 BID-56745,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 BID-56745,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 BID-56745,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+BID-56745,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

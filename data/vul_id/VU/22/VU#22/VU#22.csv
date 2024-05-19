@@ -23,6 +23,7 @@ VU#22,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,
 VU#22,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/MadcatExploit,482398135
 VU#22,0.25000000,https://github.com/zekgt/lua,zekgt/lua,476966759
 VU#22,0.25000000,https://github.com/AlmightyLobsters/LobsterPages,AlmightyLobsters/LobsterPages,75432070
+VU#22,0.20000000,https://github.com/Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,802643935
 VU#22,0.20000000,https://github.com/Neronjust2017/the_secret_of_Capitalist_exploitation,Neronjust2017/the_secret_of_Capitalist_exploitation,660979530
 VU#22,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#22,0.20000000,https://github.com/ArzugDev/ArzugSploitV2,ArzugDev/ArzugSploitV2,550537320
@@ -93,7 +94,6 @@ VU#22,0.04347826,https://github.com/KingExploit06/Roblox-Exploits,KingExploit06/
 VU#22,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#22,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#22,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
-VU#22,0.04166667,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#22,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#22,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
@@ -105,6 +105,7 @@ VU#22,0.03571429,https://github.com/mikias21/machine_learning_final_project,miki
 VU#22,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#22,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#22,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
+VU#22,0.03333333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#22,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#22,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#22,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
@@ -255,6 +256,7 @@ VU#22,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,al
 VU#22,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
 VU#22,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#22,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#22,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#22,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#22,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#22,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
@@ -407,5 +409,6 @@ VU#22,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#22,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#22,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#22,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#22,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#22,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#22,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

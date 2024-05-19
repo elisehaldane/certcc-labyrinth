@@ -95,7 +95,6 @@ VU#38,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analy
 VU#38,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#38,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#38,0.04166667,https://github.com/backendGuru88/End-exploitation-website,backendGuru88/End-exploitation-website,697231446
-VU#38,0.04166667,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#38,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#38,0.04166667,https://github.com/xzadra03/Exploits,xzadra03/Exploits,470523025
 VU#38,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
@@ -108,6 +107,7 @@ VU#38,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reducti
 VU#38,0.03448276,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#38,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#38,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
+VU#38,0.03333333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#38,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#38,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#38,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
@@ -214,6 +214,7 @@ VU#38,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-explo
 VU#38,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#38,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#38,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#38,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#38,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#38,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#38,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
@@ -404,7 +405,7 @@ VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#38,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-VU#38,0.00006149,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#38,0.00006142,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#38,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#38,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
@@ -421,5 +422,6 @@ VU#38,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#38,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#38,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#38,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#38,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#38,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#38,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322

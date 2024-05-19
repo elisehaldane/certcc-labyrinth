@@ -6,8 +6,8 @@ ZDI-CAN-5380,0.00049044,https://github.com/0xT11/CVE-POC,0xT11/CVE-POC,300646632
 ZDI-CAN-5380,0.00028185,https://github.com/NaInSec/CVE-PoC-in-GitHub,NaInSec/CVE-PoC-in-GitHub,776065052
 ZDI-CAN-5380,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
 ZDI-CAN-5380,0.00018508,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-ZDI-CAN-5380,0.00017280,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-ZDI-CAN-5380,0.00014932,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-5380,0.00017274,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-5380,0.00014925,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 ZDI-CAN-5380,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZDI-CAN-5380,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 ZDI-CAN-5380,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -33,6 +33,7 @@ ZDI-CAN-5380,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahS
 ZDI-CAN-5380,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 ZDI-CAN-5380,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 ZDI-CAN-5380,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+ZDI-CAN-5380,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 ZDI-CAN-5380,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 ZDI-CAN-5380,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 ZDI-CAN-5380,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322

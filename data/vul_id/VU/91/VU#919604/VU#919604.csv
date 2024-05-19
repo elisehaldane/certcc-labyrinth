@@ -3,7 +3,7 @@ VU#919604,0.00446429,https://github.com/pedrib/PoC,pedrib/PoC,13247147
 VU#919604,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 VU#919604,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#919604,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-VU#919604,0.00006149,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#919604,0.00006142,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#919604,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 VU#919604,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 VU#919604,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -41,6 +41,7 @@ VU#919604,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmit
 VU#919604,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#919604,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#919604,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#919604,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#919604,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#919604,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#919604,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322

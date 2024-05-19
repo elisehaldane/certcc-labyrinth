@@ -83,7 +83,7 @@ BID-104532,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehr
 BID-104532,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 BID-104532,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 BID-104532,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-BID-104532,0.00006149,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+BID-104532,0.00006142,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-104532,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploitdb,152238433
 BID-104532,0.00005041,https://github.com/metoo10987/exploitdb,metoo10987/exploitdb,156733009
 BID-104532,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
@@ -103,6 +103,7 @@ BID-104532,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmi
 BID-104532,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 BID-104532,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 BID-104532,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+BID-104532,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 BID-104532,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-104532,0.00000331,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 BID-104532,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

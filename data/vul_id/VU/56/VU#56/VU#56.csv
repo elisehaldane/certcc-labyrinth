@@ -121,7 +121,6 @@ VU#56,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,mic
 VU#56,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
 VU#56,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#56,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinux,745019351
-VU#56,0.04166667,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#56,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#56,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#56,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
@@ -133,6 +132,7 @@ VU#56,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre
 VU#56,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#56,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#56,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
+VU#56,0.03333333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#56,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#56,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#56,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
@@ -225,6 +225,7 @@ VU#56,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,51462478
 VU#56,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#56,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#56,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
+VU#56,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#56,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#56,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#56,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
@@ -297,6 +298,7 @@ VU#56,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,al
 VU#56,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
 VU#56,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#56,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#56,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#56,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#56,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#56,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
@@ -477,5 +479,6 @@ VU#56,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#56,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#56,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#56,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#56,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#56,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#56,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
