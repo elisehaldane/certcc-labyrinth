@@ -14,6 +14,8 @@ repo_id,repo_full_name,file,file_sha1,match
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/huawei/hg532_rce.py,4e9110fd40e2a37a56cc810abaa259c0e1606cad,CVE-2017-17215
 55058317,threat9/routersploit,routersploit/resources/ssh_keys/exagrid-cve-2016-1561.key,4f1d158f1b45c75622d2f4e1baded1ad8d4375ad,CVE-2016-1561
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/multi/misfortune_cookie.py,52033b62f2f531cc4fd96eaba9e583f87904c87e,CVE-2014-9222
+55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/smartwifi_password_disclosure.py,52c1d385a13096c28b7ed80c1b80f4c38bb2f2e6,CVE-2014-8243
+55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/smartwifi_password_disclosure.py,52c1d385a13096c28b7ed80c1b80f4c38bb2f2e6,VU#447516
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/netgear/multi_password_disclosure-2017-5521.py,57ef05831296f94413010065f8dfbbf035b6ae87,CVE-2017-5521
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/cisco/firepower_management60_rce.py,636ac52c59102ca3084991ba50e98427a5929597,CVE-2016-6433
 55058317,threat9/routersploit,routersploit/modules/exploits/cameras/multi/P2P_wificam_rce.py,65cd7529159012f190e26c2321a2014cc63b4184,CVE-2017-8225
@@ -22,9 +24,7 @@ repo_id,repo_full_name,file,file_sha1,match
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/asus/asuswrt_lan_rce.py,98d3d90db605b8d843410e7fc0db3086250dbecf,CVE-2018-6000
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/asus/asuswrt_lan_rce.py,98d3d90db605b8d843410e7fc0db3086250dbecf,CVE-2018-5999
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/tplink/archer_c9_admin_password_reset.py,9ed65224969db42353c6677bb50c70be2c92e2b7,CVE-2017-11519
-55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/smartwifi_password_disclosure.py,a69be48fcd4580eaaa75d863fcc0a41a82ee54cb,CVE-2014-8243
-55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/smartwifi_password_disclosure.py,a69be48fcd4580eaaa75d863fcc0a41a82ee54cb,VU#447516
-55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/eseries_themoon_rce.py,ab0b47e6120c37033227c074d359b0969d691c87,BID-65585
+55058317,threat9/routersploit,routersploit/modules/exploits/routers/linksys/eseries_themoon_rce.py,a4ab164985e72e8fd09b7631fa499bcd71466ab2,BID-65585
 55058317,threat9/routersploit,routersploit/modules/exploits/cameras/multi/P2P_wificam_credential_disclosure.py,b435b020d51c93748760bb1a51022a5bbff2d2e7,CVE-2017-8225
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/belkin/g_plus_info_disclosure.py,ba39b83b7468667d631c40d5824f4815c7479e08,CVE-2008-0403
 55058317,threat9/routersploit,routersploit/modules/exploits/routers/cisco/firepower_management60_path_traversal.py,d785fdc82852ecc6f318c7d2f881c26013cd6dc9,CVE-2016-6435
