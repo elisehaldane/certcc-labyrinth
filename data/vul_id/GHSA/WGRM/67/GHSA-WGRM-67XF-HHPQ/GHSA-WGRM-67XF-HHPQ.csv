@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-WGRM-67XF-HHPQ,0.33333333,https://github.com/LOURC0D3/CVE-2024-4367-PoC,LOURC0D3/CVE-2024-4367-PoC,803221600
