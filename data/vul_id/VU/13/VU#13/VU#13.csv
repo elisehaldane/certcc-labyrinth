@@ -46,6 +46,7 @@ VU#13,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/th
 VU#13,0.10000000,https://github.com/XuGW-Kevin/DrM,XuGW-Kevin/DrM,744360504
 VU#13,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#13,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
+VU#13,0.09090909,https://github.com/Sqttyxsq/exploit-dev-start-kit,Sqttyxsq/exploit-dev-start-kit,803444471
 VU#13,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#13,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#13,0.09090909,https://github.com/redtimmy/Richsploit,redtimmy/Richsploit,245462807
@@ -284,8 +285,8 @@ VU#13,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#13,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#13,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#13,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#13,0.00325733,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#13,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#13,0.00320513,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#13,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#13,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#13,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -362,14 +363,14 @@ VU#13,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#13,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#13,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#13,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#13,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#13,0.00018893,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#13,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#13,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#13,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#13,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#13,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#13,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-VU#13,0.00000954,https://github.com/trickest/cve,trickest/cve,454015416
+VU#13,0.00000953,https://github.com/trickest/cve,trickest/cve,454015416
 VU#13,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 VU#13,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 VU#13,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

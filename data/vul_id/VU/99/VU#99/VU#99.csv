@@ -54,6 +54,7 @@ VU#99,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,
 VU#99,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#99,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifistik/metasploit_for_ios,429182104
 VU#99,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
+VU#99,0.08333333,https://github.com/Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,803799985
 VU#99,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#99,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#99,0.07692308,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
@@ -314,8 +315,8 @@ VU#99,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#99,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#99,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#99,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#99,0.00325733,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#99,0.00320513,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#99,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#99,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -396,7 +397,7 @@ VU#99,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#99,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#99,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#99,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#99,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#99,0.00018893,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#99,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#99,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#99,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

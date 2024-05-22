@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-PFH9-GWM6-86VP,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 GHSA-PFH9-GWM6-86VP,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-PFH9-GWM6-86VP,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-PFH9-GWM6-86VP,0.00018893,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-PFH9-GWM6-86VP,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

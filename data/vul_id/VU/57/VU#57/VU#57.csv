@@ -38,12 +38,12 @@ VU#57,0.20000000,https://github.com/0x727/MetasploitCoop-Frontend,0x727/Metasplo
 VU#57,0.20000000,https://github.com/yiyandaoren/cleverShell,yiyandaoren/cleverShell,180967944
 VU#57,0.16666667,https://github.com/tluxxx/weekly-pattern-in-stock-markets,tluxxx/weekly-pattern-in-stock-markets,776704499
 VU#57,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
-VU#57,0.16666667,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
 VU#57,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/WordExp_CVE_2023_21716,611233363
 VU#57,0.16666667,https://github.com/ST5Sneaky/exploit-scripts,ST5Sneaky/exploit-scripts,607938233
 VU#57,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-Exploit,555244125
 VU#57,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#57,0.14285714,https://github.com/0range1337/CVE-2022-1015,0range1337/CVE-2022-1015,698913839
+VU#57,0.14285714,https://github.com/topscoder/nuclei-zero-day,topscoder/nuclei-zero-day,654966268
 VU#57,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
 VU#57,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit-Development,whoami-chmod777/Buffer-Overflow-Exploit-Development,734487808
@@ -51,6 +51,7 @@ VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoa
 VU#57,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#57,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#57,0.11111111,https://github.com/hvmi/hvmi,hvmi/hvmi,283759384
+VU#57,0.09090909,https://github.com/Sqttyxsq/exploit-dev-start-kit,Sqttyxsq/exploit-dev-start-kit,803444471
 VU#57,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#57,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#57,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,608160332
@@ -384,7 +385,7 @@ VU#57,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#57,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#57,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#57,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#57,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#57,0.00018893,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#57,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#57,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#57,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

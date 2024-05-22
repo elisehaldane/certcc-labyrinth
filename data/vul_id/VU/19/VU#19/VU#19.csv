@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#19,1.00000000,https://github.com/lmertz2/Proxyshell-Exploit,lmertz2/Proxyshell-Exploit,581621472
+VU#19,1.00000000,https://github.com/InfoSecWarrior/Offensive-Payloads,InfoSecWarrior/Offensive-Payloads,567665994
 VU#19,1.00000000,https://github.com/Mahmoud7Osman/101-Exploitation-2022,Mahmoud7Osman/101-Exploitation-2022,443155509
 VU#19,1.00000000,https://github.com/mindspoof/WarSQLi,mindspoof/WarSQLi,82559394
 VU#19,0.50000000,https://github.com/sourcelocation/Picasso-v3,sourcelocation/Picasso-v3,724754339
@@ -315,8 +316,8 @@ VU#19,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_e
 VU#19,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#19,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#19,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#19,0.00325733,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#19,0.00320513,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#19,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#19,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
@@ -396,7 +397,7 @@ VU#19,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#19,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#19,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#19,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#19,0.00018907,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00018893,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#19,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#19,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
