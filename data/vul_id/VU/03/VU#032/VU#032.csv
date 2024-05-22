@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#032,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
+VU#032,0.01818182,https://github.com/seantywork/0xploit,seantywork/0xploit,804410945
 VU#032,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#032,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#032,0.00621118,https://github.com/phi998/DataIntegrator,phi998/DataIntegrator,719613538
