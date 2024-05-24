@@ -13,6 +13,7 @@ VU#16,1.00000000,https://github.com/guilletmax/firmware-exploit,guilletmax/firmw
 VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max-mint-exploit,450599632
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
+VU#16,0.50000000,https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,805400947
 VU#16,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
 VU#16,0.50000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
@@ -343,6 +344,7 @@ VU#16,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#16,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#16,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#16,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#16,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#16,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#16,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#16,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508

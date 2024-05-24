@@ -6,6 +6,7 @@ VU#32,1.00000000,https://github.com/raghuvulli2000/RemoteCodeExecution,raghuvull
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
+VU#32,0.50000000,https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,805400947
 VU#32,0.50000000,https://github.com/Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,731097967
 VU#32,0.50000000,https://github.com/sufyandaredevil/OSED,sufyandaredevil/OSED,693617848
 VU#32,0.50000000,https://github.com/Kvrr0bux/KrvHub-Roblox-Script,Kvrr0bux/KrvHub-Roblox-Script,672604786
@@ -115,6 +116,7 @@ VU#32,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Sh
 VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
+VU#32,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
 VU#32,0.09090909,https://github.com/DashaMilitskaya/cve_2023_21822,DashaMilitskaya/cve_2023_21822,745578718
 VU#32,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
@@ -272,11 +274,11 @@ VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Ca
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#32,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#32,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
+VU#32,0.02040816,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#32,0.01960784,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#32,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
@@ -486,6 +488,7 @@ VU#32,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#32,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#32,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#32,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#32,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#32,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#32,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#32,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
