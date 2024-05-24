@@ -1,3 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-804756776,fadhilthomas/poc-git-rce-cve-2024-32002,README.md,31d1f7eca6564b26199010bd58d0a27277cc2720,CVE-2024-32002
 804756776,fadhilthomas/poc-git-rce-cve-2024-32002,_GITHUB_REPO_METADATA_,,CVE-2024-32002
