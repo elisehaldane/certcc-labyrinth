@@ -3,3 +3,27 @@ repo_id,repo_full_name,file,file_sha1,match
 761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-ng.sh,30e79100b5c17cdc93e03f8c3259c8bdb5c7f3b5,MS17-010
 761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-scanner.sh,699cac3702cb6e1dcff847cde5a6451f9095958e,CVE-2017-0143
 761026638,vaishnavucv/autoscan,MS17-010 EternalBlue/ms17-010-scanner.sh,699cac3702cb6e1dcff847cde5a6451f9095958e,MS17-010
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#876
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#82
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#80
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#77
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#66
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#60
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#56
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#51
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#47
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#4641
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#46
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#35
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#92
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#28
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#26
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#22
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#21
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#20
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#15
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#117
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#08
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#06
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#44
+761026638,vaishnavucv/autoscan,ProFTPD-1.3.3c/Chat-GPT4-proftpd_133c_backdoor.html,a825f9dbb8f8946ab6fad2f2b49dfba36e83f866,VU#97
