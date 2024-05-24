@@ -89,6 +89,7 @@ VU#35,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelme
 VU#35,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894078
 VU#35,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 VU#35,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
+VU#35,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elonmusic23/whatsapp-fake-reply-exploit,805107190
 VU#35,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
 VU#35,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinux,745019351
 VU#35,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
@@ -96,6 +97,7 @@ VU#35,0.04000000,https://github.com/alternation1337/exploit,alternation1337/expl
 VU#35,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#35,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#35,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
+VU#35,0.03846154,https://github.com/vaishnavucv/autoscan,vaishnavucv/autoscan,761026638
 VU#35,0.03846154,https://github.com/MAWK0235/MinecraftLog4jAutoPwn,MAWK0235/MinecraftLog4jAutoPwn,758200190
 VU#35,0.03846154,https://github.com/floppy-sh/Floppy_Ressources,floppy-sh/Floppy_Ressources,601576439
 VU#35,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
@@ -126,7 +128,6 @@ VU#35,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisag
 VU#35,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#35,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#35,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
-VU#35,0.02325581,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#35,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#35,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#35,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
@@ -138,6 +139,7 @@ VU#35,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cry
 VU#35,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#35,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#35,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
+VU#35,0.01960784,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#35,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#35,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#35,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
@@ -298,7 +300,7 @@ VU#35,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glenn
 VU#35,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#35,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#35,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
-VU#35,0.00476190,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#35,0.00483092,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#35,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#35,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#35,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -324,7 +326,7 @@ VU#35,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#35,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#35,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#35,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#35,0.00320513,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#35,0.00319489,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#35,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#35,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#35,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
@@ -360,6 +362,7 @@ VU#35,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#35,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#35,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#35,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
+VU#35,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#35,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#35,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#35,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
