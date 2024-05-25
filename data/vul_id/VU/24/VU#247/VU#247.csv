@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#247,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aidens-hub,660009763
 VU#247,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
+VU#247,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#247,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#247,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#247,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
