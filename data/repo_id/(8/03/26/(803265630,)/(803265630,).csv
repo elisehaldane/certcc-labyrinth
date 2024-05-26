@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+803265630,abelmorad/TryHackMe-CDA-Exploiting-SMB-01,README.md,a31b5b0968bceefcf8509250c33b26d56d917bf6,CVE-2017-7494
