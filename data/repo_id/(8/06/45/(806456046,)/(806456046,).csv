@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+806456046,ambionics/cnext-exploits,poc.c,6a3e3c52312439ab5869cbda9601cefa5b3c2dea,CVE-2024-2961
+806456046,ambionics/cnext-exploits,README.md,ab374e1eb1542872ec99332fae40976713e2e156,CVE-2024-2961
+806456046,ambionics/cnext-exploits,_GITHUB_REPO_METADATA_,,CVE-2024-2961
