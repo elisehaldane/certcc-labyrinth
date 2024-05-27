@@ -86,7 +86,7 @@ VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-
 VU#29,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#29,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#29,0.25000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
-VU#29,0.20000000,https://github.com/0x801453/SpringbootGuiExploit,0x801453/SpringbootGuiExploit,797005918
+VU#29,0.20000000,https://github.com/MInggongK/SpringbootGuiExploit,MInggongK/SpringbootGuiExploit,797005918
 VU#29,0.20000000,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#29,0.20000000,https://github.com/intexpression/nekito,intexpression/nekito,660558312
 VU#29,0.20000000,https://github.com/AnonOpsVN24/Aon-Sploit,AnonOpsVN24/Aon-Sploit,596570889
@@ -123,7 +123,6 @@ VU#29,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mas
 VU#29,0.14285714,https://github.com/GabrasticYT/Roblox,GabrasticYT/Roblox,306942458
 VU#29,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
 VU#29,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
-VU#29,0.12500000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#29,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#29,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
@@ -140,6 +139,7 @@ VU#29,0.11111111,https://github.com/shyeun/exploit,shyeun/exploit,456794098
 VU#29,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#29,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#29,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
+VU#29,0.10000000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
 VU#29,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#29,0.09090909,https://github.com/allwin199/common-exploits-web3,allwin199/common-exploits-web3,765075257
@@ -284,10 +284,10 @@ VU#29,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/P
 VU#29,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#29,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#29,0.02272727,https://github.com/Whoopsunix/PPPVULNS,Whoopsunix/PPPVULNS,552429290
-VU#29,0.02222222,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#29,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#29,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
+VU#29,0.02127660,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#29,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#29,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
@@ -463,8 +463,8 @@ VU#29,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#29,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#29,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#29,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
-VU#29,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#29,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
+VU#29,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#29,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#29,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#29,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
@@ -541,7 +541,7 @@ VU#29,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#29,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
 VU#29,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#29,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#29,0.00483092,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#29,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#29,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 VU#29,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#29,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
@@ -568,7 +568,7 @@ VU#29,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#29,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#29,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#29,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#29,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#29,0.00317460,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#29,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 VU#29,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#29,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508

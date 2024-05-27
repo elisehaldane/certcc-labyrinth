@@ -38,6 +38,7 @@ VU#72,0.16666667,https://github.com/KyleFardy/RCE-Admin,KyleFardy/RCE-Admin,7339
 VU#72,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,crowdbotics-dev/tst-tc489-rcetolss-130561,722124596
 VU#72,0.16666667,https://github.com/Evan-Zhangyf/CVE-2023-45158,Evan-Zhangyf/CVE-2023-45158,714422608
 VU#72,0.16666667,https://github.com/SerLink04/diavloclient,SerLink04/diavloclient,704272254
+VU#72,0.16666667,https://github.com/VAnD4L/GithubExploitTransferService,VAnD4L/GithubExploitTransferService,571166646
 VU#72,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,559495813
 VU#72,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#72,0.16666667,https://github.com/Jennahacker/zenna_rat,Jennahacker/zenna_rat,530778241
@@ -200,9 +201,9 @@ VU#72,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#72,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#72,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#72,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
-VU#72,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#72,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#72,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
+VU#72,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#72,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#72,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#72,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
@@ -259,7 +260,7 @@ VU#72,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#72,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#72,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#72,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#72,0.00483092,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#72,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#72,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#72,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#72,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -284,7 +285,7 @@ VU#72,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#72,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#72,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#72,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#72,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#72,0.00317460,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#72,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#72,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#72,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702

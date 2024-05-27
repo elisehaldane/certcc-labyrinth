@@ -40,6 +40,7 @@ VU#05,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-doc
 VU#05,0.25000000,https://github.com/JitinKGoyal/RCEW-classes,JitinKGoyal/RCEW-classes,573280263
 VU#05,0.25000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,559708835
 VU#05,0.25000000,https://github.com/jopraveen/exploit-development,jopraveen/exploit-development,357628827
+VU#05,0.20000000,https://github.com/Niteshkumar13/Remote-code-execution,Niteshkumar13/Remote-code-execution,795170271
 VU#05,0.20000000,https://github.com/AnitaEluwa/Security-Scanner-Toolkit,AnitaEluwa/Security-Scanner-Toolkit,782573449
 VU#05,0.20000000,https://github.com/kotliluk/rce-optimizer-gui,kotliluk/rce-optimizer-gui,762847513
 VU#05,0.20000000,https://github.com/SamMariassouce/aideAlExploitation,SamMariassouce/aideAlExploitation,659534794
@@ -69,6 +70,7 @@ VU#05,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploi
 VU#05,0.14285714,https://github.com/x90hack/how_to_a_bug,x90hack/how_to_a_bug,499672388
 VU#05,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
 VU#05,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
+VU#05,0.12500000,https://github.com/tluxxx/weekly-pattern-in-stock-markets,tluxxx/weekly-pattern-in-stock-markets,776704499
 VU#05,0.12500000,https://github.com/Mithun1508/remote-code-execution-engine,Mithun1508/remote-code-execution-engine,596367907
 VU#05,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencStarterDev/Storm-Exploits-Web,550810079
 VU#05,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarterDev/Storm-Exploit,550808641
@@ -290,7 +292,7 @@ VU#05,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#05,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#05,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#05,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#05,0.00483092,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#05,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#05,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#05,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#05,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -314,7 +316,7 @@ VU#05,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#05,0.00347222,https://github.com/vulsio/go-kev,vulsio/go-kev,428122682
 VU#05,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#05,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#05,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#05,0.00317460,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#05,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#05,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#05,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075

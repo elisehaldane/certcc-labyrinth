@@ -72,6 +72,7 @@ VU#75,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vu
 VU#75,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#75,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#75,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
+VU#75,0.05000000,https://github.com/Mohameddek1/Web_exploitation,Mohameddek1/Web_exploitation,806019276
 VU#75,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#75,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#75,0.05000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
@@ -269,9 +270,9 @@ VU#75,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#75,0.00990099,https://github.com/0xd3vil/WP-Vulnerabilities-Exploits,0xd3vil/WP-Vulnerabilities-Exploits,565705709
 VU#75,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#75,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
-VU#75,0.00934579,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#75,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#75,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
+VU#75,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#75,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#75,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#75,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
@@ -340,7 +341,7 @@ VU#75,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glenn
 VU#75,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#75,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#75,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
-VU#75,0.00483092,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#75,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#75,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 VU#75,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#75,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -370,7 +371,7 @@ VU#75,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/wind
 VU#75,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#75,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#75,0.00319489,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
-VU#75,0.00310559,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#75,0.00317460,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#75,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#75,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#75,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
