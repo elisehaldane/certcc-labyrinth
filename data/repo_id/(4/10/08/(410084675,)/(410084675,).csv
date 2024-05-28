@@ -1,6 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-410084675,komodoooo/Some-things,papers.md,435c4cea196e3da772a31fb1a70d7d1f124bb7b0,CVE-2023-38433
-410084675,komodoooo/Some-things,papers.md,435c4cea196e3da772a31fb1a70d7d1f124bb7b0,CVE-2024-22901
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2010-1598
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2024-22901
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2023-45852
@@ -17,3 +15,5 @@ repo_id,repo_full_name,file,file_sha1,match
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2014-0160
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2023-28432
 410084675,komodoooo/Some-things,README.md,55e7748748674b5e73eb9d6ee7fbbdfa6c723a38,CVE-2024-31621
+410084675,komodoooo/Some-things,papers.md,7c2073d7d4f7826c36a04308cf32cde59eee5298,CVE-2024-22901
+410084675,komodoooo/Some-things,papers.md,7c2073d7d4f7826c36a04308cf32cde59eee5298,CVE-2023-38433
