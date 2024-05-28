@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+806764891,Jhonsonwannaa/CVE-2017-5487,leak-wordpress-user.py,6f6dbcb1e1d07626c042a784a5a42b3f79297a2f,CVE-2017-5487
+806764891,Jhonsonwannaa/CVE-2017-5487,README.md,a49b8233224e288fb5752720c93d6dc28c55e4ab,CVE-2017-5487
+806764891,Jhonsonwannaa/CVE-2017-5487,_GITHUB_REPO_METADATA_,,CVE-2017-5487
