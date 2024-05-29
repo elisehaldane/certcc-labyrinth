@@ -95,7 +95,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin.vim,050f990910e8a1dcf530fa106007302c07358a5f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/vulnerable/vim/src/testdir/test_autocmd.vim,0514ff333e603526d190efb097d749c502f32bef,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/pixmaps/tb_macro.xpm,05165b2f3ea09c59cf9f1c4f3bd68f68047b52ac,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2022-44268/README.md,052a76eb67f25aaf0a9a5d8920dee8dd05779790,CVE-2022-44268
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/conaryrecipe.vim,054e326fc1d888803f3a709fea1e233b5cf7e5c4,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popupwin_previewpopup_1.dump,055025df48d6748366d0f915412072696da9799e,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/lprolog.vim,05586f4ac3f2250687c32d784fc1c5a6865c249b,CVE-2022-3296
@@ -195,6 +194,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/lang/menu_sr_yu.iso_8859-2.vim,0ab3ffc8609f97e0224dc80c89241f2695036fdb,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/rmd.vim,0ab663af821e58ddf5f1d2b8bec0a018afd8dc37,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/tutor/tutor.ru,0aba3f62e201fb41774f5c32ac310ed4002d21e5,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2017-7938/README.md,0adc53932c08ddffa6b51ccfcbc2ddb768826cb5,CVE-2017-7938
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popupwin_drag_05.dump,0af04565d5c132f1283c1337788ee84905b0a698,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/d.vim,0b040cb8fd44d7ddd1e8b1cb5ca695fe96f888f9,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/doc/gui_x11.txt,0b2a6ea94b899de93f83ce725ec478fe3ece27a1,CVE-2022-3296
@@ -234,6 +234,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_prop_with_text_after_nowrap_2.dump,0cb208fbf9ab428b5caa8bfad6093b62059433b3,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/pixmaps/generic.xpm,0cb386b8fe6c8a304c1d6a6391fc626fac8cc0eb,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/ro/main.aap,0cc1cf777d3538e787dba4c0ea38c3d3df1fc0db,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2019-14287/README.md,0cce3d8ecffe6dbd90319aeb401f716911f8dcb6,CVE-2019-14287
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_diff_11.dump,0cd60ab38f4396d0699e6053709a0d1b3105d77d,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/simula.vim,0ce3edf5ac8750af4d5e3a5046eb409300754372,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/po/zh_CN.po,0d257746726db0d06ccd3510fb83f672aa478010,CVE-2022-3296
@@ -632,7 +633,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_statusline_1.dump,2690a58ddb78aea17ea88144eed2a77feb6e3e14,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/hamster.vim,26ac528b0326b7850339ea113479241c75e270a3,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/toolcheck,26acb73c4d0ad6c17d233e95c7a9024357054abd,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2017-16872/README.md,26b044673a1b32aba91506b33d5b2ae58cdcc970,CVE-2017-16872
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_prop_inserts_text_6.dump,26d76edb883402d118dd312328bdcfefe372a68a,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/tn/tn_ZA.diff,26e534f97b0e4c621ad57772872a2ef74464f4f8,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/vulnerable/vim/runtime/doc/options.txt,26e7b200a2cc544b29a3959cf547044e76a7bcaa,CVE-2022-3296
@@ -648,7 +648,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2017-7938/Makefile,27918c4ad87e264823687ae911f320fea0a39e01,CVE-2017-7938
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/plugin/zipPlugin.vim,27b44294c93e82dc3f65c0ad521b40788fef0e6c,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/tsscl.vim,27b6d49bcb542d3dad3f47e3742796086b74c015,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2015-5602/README.md,27ba3c4c705a53e57f1225c38d27ba1c32e28001,CVE-2015-5602
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/docbksgml.vim,27bd5032fe089e1e32399e65aceba4c7ec8620dc,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/samples/crypt_sodium_invalid.txt,27da7c6a20d152585cf91ef466e1ba60037b00a2,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/tutor/tutor.zh.euc,27fe881a5ab41cac6d282decc95bfed1825ce004,CVE-2022-3296
@@ -846,6 +845,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_colorcolumn_1.dump,347ccf41e1078dca5c6579713a0cd8b5770c6dbf,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/vulnerable/vim/runtime/doc/xxd-pl.1,34974412fd7ee603be4af67a43eef74e9fdccf46,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/aspvbs.vim,34b68ae96ef196cc649032862ed6eb73ee451aa8,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2022-3296/README.md,34ca73a5e9a078aec384dacc346acd2fb6ea09b9,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/ops.c,34d245b211e54a2d6e7711b9aefb67b72a84ffe4,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/src/keys.c,35004ebc5ce68d2ffb3e27b5a3ed5d8fe3191748,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/debcopyright.vim,3513be85accea26715c8a265b6d585374b3e009c,CVE-2022-3296
@@ -1023,6 +1023,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/indent/teraterm.vim,3de5d53c284768e7abeba17ed9091a861197d376,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_wildmenu_pum_12.dump,3de976917d3abe3ba7352f6738a2dcbb6923c99f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/indent/testdir/runtest.vim,3e4bcf67b7f7b45d87248e4db208cdf0124ae538,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2015-5602/README.md,3e576d1bf61bcdc8811926bf740cfcd4bf51bf56,CVE-2015-5602
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popup_textprop_04.dump,3e77b8d56cb77ad951841d548ed7ef1705a1bbce,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/THANKS,3e7d7018c9a361a1ffaf69a97ca2cc4ec198508f,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/lang/menu_no.utf-8.vim,3e8dce94d7d060577743297dd06463364af5f654,CVE-2022-3296
@@ -1182,6 +1183,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/indent/scheme.vim,47bdd14914fe6affaf4746e37b61c06b653478b6,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/pilrc.vim,47d27577c575a1dafa41df9a809bd18d0e4f6cdc,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/cs.vim,47e0f12535da1f8b7ea86a8aa10b362f975dc584,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2022-44268/README.md,480ed660aa0c2c482dfae99de880ec92bf3f4a46,CVE-2022-44268
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/sign.c,4826dd78b6688f63f0e6d9f4ab844f2c701222ef,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_changing_cmdheight_5.dump,483ac0d1338df33863db0a9fe70a11732ac78e83,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_Xcursorline_13.dump,4868840a25588747e3ad4ddd4c25b2df4093d910,CVE-2022-3296
@@ -1515,7 +1517,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/postscr.vim,5e18cf90ba5bc6c55e7268cdec86eba7b545a28f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/libvterm/t/31state_rep.test,5e1c5e44c134a51480cdd75448d6e1fc786af75c,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/tap.vim,5e1f6cf3518bb07c6c9d19ff165f54503825d9ef,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2017-7938/README.md,5e20234e1059fbed03c79611ccc7c67172a2ca61,CVE-2017-7938
 763631480,lucasballr/exploitables,CVE-2022-3296/vulnerable/vim/src/INSTALLpc.txt,5e283b0118e17fb329f53ca0740470beba1363a1,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_prop_with_text_after_join_split_4.dump,5e403c8615fe5994ee35d6786b02278d2a36c597,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/Makefile.am,5e461b53dc22a794f2649aa8ecd632d17d1bae24,CVE-2012-4409
@@ -1604,7 +1605,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/print/cp1255.ps,63273ceb9c29244e08cb6e65d09b2e0c6be37d36,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/reva.vim,632844d553f24ac29e698b29ee961891a88a9b04,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/indent/mp.vim,632d53b8a9a06e19dbacd5adb69510561b4dbdb6,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2019-14287/README.md,63397ca3c1308181eb6e428b2756607b467976ac,CVE-2019-14287
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/test_syn_attr.vim,634cad0a6e4ecc8110e8b499b5376fae80626216,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/kconfig.vim,635be66c8ed45e223ab895ca923860db5e824984,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/ps1xml.vim,635e23598d8c24ba4d0807c86863fc2958bcf3fc,CVE-2022-3296
@@ -2153,6 +2153,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/colors/ron.vim,85ea2f6d305666d306b62d8c063ac221cdaf0a64,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popup_prop_not_visible_03.dump,8600c1da8ae29176df0991791ee105906dda5f70,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/src/gettext.h,860a8b8f32b68fbaf407c447d6e0d0e730499d74,CVE-2012-4409
+763631480,lucasballr/exploitables,CVE-2013-2028/README.md,8611e89d15d58a4faa77350f48c43694fc12aa26,CVE-2013-2028
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/stata.vim,861d62c7199cd67cdb3819099cca3f2d21da8551,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/COPYING,8624bcdae55baeef00cd11d5dfcfa60f68710a02,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/vulnerable/vim/src/main.c,863152be1f7c036c5b57f7abfddd6d236e61864e,CVE-2022-3296
@@ -2193,6 +2194,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_conceal_two_windows_08v.dump,8986a6c5cb3c8c7fe8e3930002bc9b4ddb69da7f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/compiler/mipspro_c89.vim,89915d81816d397b0153f24fa5676261eb558c96,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/lang/menu_pl_pl.iso_8859-2.vim,899ef3e44a13c6c46d5c7da481bee1473b70d592,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2012-4409/README.md,89aee1ad6e45ce15ad96437b6c7c2b2a96033789,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/vimrun.c,89b66b500851ef656213affab5e6c49e0204d500,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/compiler/ocaml.vim,89c7b5263daf966e69300d0ef80a88e55b851974,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/colors/koehler.vim,89d7093d543a07fc19a8edebd74cb017e0cbc5dd,CVE-2022-3296
@@ -2328,7 +2330,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/compiler/stack.vim,917560f495192729ce6b5a1c1de4ee91b08d5d2f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/doc/vimdiff-ru.UTF-8.1,917b82c8add94298b4aa6e39bec04f9684dd710f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_misplaced_type.dump,917f25255cc5627bef6eae69fcb9970dd2ee1298,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2013-2028/README.md,9185cd83e50c8f58dac05ecd9a9a33330d475470,CVE-2013-2028
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/syntax/hastepreproc.vim,9189d15c14019bd3a58175a3297236394d206eb1,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/proto/highlight.pro,91ade5da5dd9ad03dd9373fd435e8b1af8b8bbea,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/gl/gl_ES.diff,91b38f99dcb01a5574c45c37dd8e372a7de12c52,CVE-2022-3296
@@ -2494,7 +2495,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/pbtxt.vim,9c00c6c62ee49a824aef084df65d312da00cb513,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_wildmenu_4.dump,9c072463e1e592019bd1d8663e277aa96e34397b,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/yi/yi.diff,9c0b90b7acdd5e71a13330c1eff2732d9cbc9290,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2022-3296/README.md,9c242c72b6834a46b568f6a70b6054e74bf922da,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/keymap/greek_cp737.vim,9c48a62ac02e222b1beb3ff32b4d9132a4bc57c0,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/autoload/haskellcomplete.vim,9c4dc0bbf7e2f4e2b46ea5800755e9373d112c9d,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popupwin_menu_scroll_1.dump,9c4f95224acd33f69e8c9c71305676f4248c9b7a,CVE-2022-3296
@@ -2643,6 +2643,7 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/xdiff/xinclude.h,a5fdc48b223bf99c50c1213d9490e516f9c8e55f,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_diff_rnu_03.dump,a60d86ac30e58e9f8d591bd9156848d9582d9d6a,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/xpm/include/simx.h,a622249077bb125601b88777944e3bbfb192e850,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2017-16872/README.md,a63583a8f7de62a03c1ef98e79c581bde9f3d8d9,CVE-2017-16872
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/icons/README.txt,a636645457f61bb93c7ef932029237e7d25d4eef,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/READMEdir/src.info,a64896e9db08a5204b83013b04233161fa34da80,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/ant.vim,a64bd71e9c7e426c69d65d9add0be4a7fdb1d428,CVE-2022-3296
@@ -3837,8 +3838,8 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_wildmenu_pum_32.dump,ef58572cbd6e2dd53c377d15e3fbbd991978a8ef,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/lang/menu_en_gb.latin1.vim,ef5b2f44cc06c2b1208228b3bbca47dce537c1f9,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-44268/patched/e.py,ef7bbae104f2b87ec513899ed3380fbe5ab362d9,CVE-2022-44268
-763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/if_ole.cpp,ef7c06136320b282176988844263b5d387647aa5,BID-1
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/if_ole.cpp,ef7c06136320b282176988844263b5d387647aa5,CVE-2022-3296
+763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/if_ole.cpp,ef7c06136320b282176988844263b5d387647aa5,BID-1
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/sr/README_sr.txt,ef85ed56d1b8f5140e560ba3bc74ef713e18df45,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/po/remove-potcdate.sin,ef998ba108174635906a01ba30fe1ba105728bb8,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/libvterm/t/29state_fallback.test,ef9b66caf86adec65faeb3c57f8e7347d3d322ab,CVE-2022-3296
@@ -3988,7 +3989,6 @@ repo_id,repo_full_name,file,file_sha1,match
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_Xcursorline_2.dump,f702a457c0d5144d8b1695671fae89c8aca53f1c,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2012-4409/vulnerable/mcrypt-2.6.8/config.h.in,f72ad0531cf577a524023ca78588daabf26d72a3,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/src/testdir/dumps/Test_popupwin_close_05.dump,f72ef3221d0d33071b37bf49d2c4f352a2a84096,CVE-2022-3296
-763631480,lucasballr/exploitables,CVE-2012-4409/README.md,f75fd9a177e639dce3b35a2d5149b41615b21e07,CVE-2012-4409
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/ftplugin/arch.vim,f761f538bf1b71cb0fe1a30af5fa237b55b23fe5,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/spell/ku/main.aap,f77b90d2b9e5ec05b632e6662e5338ad9b73a711,CVE-2022-3296
 763631480,lucasballr/exploitables,CVE-2022-3296/patched/vim/runtime/synmenu.vim,f780e94b0b7c7e0522404c4507e17c1b7050e320,CVE-2022-3296
