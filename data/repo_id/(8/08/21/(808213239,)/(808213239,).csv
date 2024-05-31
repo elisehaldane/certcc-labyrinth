@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+808213239,yuukisec/iPoCs,influxdb-unauth.yaml,dc2cf696048713a8e5b9ec6424ee7dd9cdf55bec,CVE-2019-20933
