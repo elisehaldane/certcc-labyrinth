@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+808601596,Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN,README.md,5db18b5e6d225579edb2220cc3d97a941029f4e3,CVE-2024-24919
+808601596,Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN,exploit.py,9f9188d7bf587810611354c7a9dda6435ca858fb,CVE-2024-24919
+808601596,Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN,_GITHUB_REPO_METADATA_,,CVE-2024-24919
