@@ -53,7 +53,7 @@ antogit-sys/Introduzione-alla-binary-exploitation,"Introduzione alla binary expl
 Laihoang2k3/CVE_2019_14271,None,https://github.com/Laihoang2k3/CVE_2019_14271,['cve-2 OR cve_2'],1,2024-05-30T14:45:58+0000,170,0,Shell,0,['CVE-2019-14271']
 emanueldosreis/CVE-2024-24919,POC exploit for CVE-2024-24919 information leakage ,https://github.com/emanueldosreis/CVE-2024-24919,"['cve poc', 'cve-2 OR cve_2', 'exploit']",3,2024-05-30T18:56:32+0000,11,3,Python,1,['CVE-2024-24919']
 hendprw/CVE-2024-24919,None,https://github.com/hendprw/CVE-2024-24919,['cve-2 OR cve_2'],1,2024-05-30T15:42:23+0000,1,0,,0,['CVE-2024-24919']
-yuukisec/iPoCs,Vulnerability PoCs,https://github.com/yuukisec/iPoCs,['vulnerability poc'],1,2024-05-30T17:04:28+0000,1,0,,0,[]
+yuukisec/iPoCs,Vulnerability PoCs,https://github.com/yuukisec/iPoCs,"['exploit', 'vulnerability poc']",2,2024-05-30T17:04:28+0000,1,0,,0,[]
 0dayzombies/0dayzombies.github.io,None,https://github.com/0dayzombies/0dayzombies.github.io,['0day'],1,2024-05-30T16:16:45+0000,0,0,,0,[]
 KhoaHoang01012003/exploit,None,https://github.com/KhoaHoang01012003/exploit,['exploit'],1,2024-05-30T16:10:23+0000,0,0,HTML,0,[]
 LucasKatashi/CVE-2024-24919,CVE-2024-24919 Exploit PoC,https://github.com/LucasKatashi/CVE-2024-24919,"['cve poc', 'cve-2 OR cve_2', 'exploit']",3,2024-05-30T17:08:11+0000,5,1,Python,0,['CVE-2024-24919']

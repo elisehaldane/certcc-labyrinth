@@ -59,7 +59,7 @@
 | Laihoang2k3/CVE_2019_14271 | None | https://github.com/Laihoang2k3/CVE_2019_14271 | ['cve-2 OR cve_2'] | 1 | 2024-05-30 14:45:58+00:00 | 170 | 0 | Shell | 0 | ['CVE-2019-14271'] |
 | emanueldosreis/CVE-2024-24919 | POC exploit for CVE-2024-24919 information leakage | https://github.com/emanueldosreis/CVE-2024-24919 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2024-05-30 18:56:32+00:00 | 11 | 3 | Python | 1 | ['CVE-2024-24919'] |
 | hendprw/CVE-2024-24919 | None | https://github.com/hendprw/CVE-2024-24919 | ['cve-2 OR cve_2'] | 1 | 2024-05-30 15:42:23+00:00 | 1 | 0 | | 0 | ['CVE-2024-24919'] |
-| yuukisec/iPoCs | Vulnerability PoCs | https://github.com/yuukisec/iPoCs | ['vulnerability poc'] | 1 | 2024-05-30 17:04:28+00:00 | 1 | 0 | | 0 | [] |
+| yuukisec/iPoCs | Vulnerability PoCs | https://github.com/yuukisec/iPoCs | ['exploit', 'vulnerability poc'] | 2 | 2024-05-30 17:04:28+00:00 | 1 | 0 | | 0 | [] |
 | 0dayzombies/0dayzombies.github.io | None | https://github.com/0dayzombies/0dayzombies.github.io | ['0day'] | 1 | 2024-05-30 16:16:45+00:00 | 0 | 0 | | 0 | [] |
 | KhoaHoang01012003/exploit | None | https://github.com/KhoaHoang01012003/exploit | ['exploit'] | 1 | 2024-05-30 16:10:23+00:00 | 0 | 0 | HTML | 0 | [] |
 | LucasKatashi/CVE-2024-24919 | CVE-2024-24919 Exploit PoC | https://github.com/LucasKatashi/CVE-2024-24919 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2024-05-30 17:08:11+00:00 | 5 | 1 | Python | 0 | ['CVE-2024-24919'] |
