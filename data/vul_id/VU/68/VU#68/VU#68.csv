@@ -88,6 +88,7 @@ VU#68,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,65203541
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#68,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
+VU#68,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
 VU#68,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#68,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#68,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
@@ -286,7 +287,7 @@ VU#68,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#68,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#68,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#68,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#68,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#68,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#68,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#68,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#68,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -387,7 +388,7 @@ VU#68,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#68,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#68,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#68,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#68,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#68,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -408,5 +409,6 @@ VU#68,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#68,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#68,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#68,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+VU#68,0.00000947,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#68,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#68,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

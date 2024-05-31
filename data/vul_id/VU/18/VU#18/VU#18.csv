@@ -3,6 +3,7 @@ VU#18,1.00000000,https://github.com/vagnermengali/yrprey-docker,vagnermengali/yr
 VU#18,1.00000000,https://github.com/akashialt/w-azure,akashialt/w-azure,728379660
 VU#18,1.00000000,https://github.com/sukantamajhi/rcEcom,sukantamajhi/rcEcom,722469524
 VU#18,1.00000000,https://github.com/Ruban2205/ethical-hacking,Ruban2205/ethical-hacking,674320663
+VU#18,1.00000000,https://github.com/enricollen/italian-birds-classifier-api-tflite-version,enricollen/italian-birds-classifier-api-tflite-version,630986197
 VU#18,1.00000000,https://github.com/SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,SZU-AdvTech-2022/109-Designing-Succinct-Secondary-Indexing-Mechanism-by-Exploiting-Column-Correlations,609224670
 VU#18,1.00000000,https://github.com/vagnermengali/yrprey-frontend,vagnermengali/yrprey-frontend,585764541
 VU#18,1.00000000,https://github.com/bugverma/CTFs-Walkthroughs,bugverma/CTFs-Walkthroughs,567908810
@@ -372,9 +373,9 @@ VU#18,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/M
 VU#18,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#18,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#18,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#18,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#18,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#18,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#18,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#18,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#18,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#18,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
@@ -431,7 +432,7 @@ VU#18,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#18,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#18,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#18,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#18,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#18,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#18,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#18,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#18,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -534,7 +535,7 @@ VU#18,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#18,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#18,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#18,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#18,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -81,6 +81,7 @@ VU#63,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fin
 VU#63,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#63,0.09090909,https://github.com/Laurin226/checkm8_toolbox,Laurin226/checkm8_toolbox,602263237
 VU#63,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
+VU#63,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
 VU#63,0.08333333,https://github.com/TheAirBlow/HyperSploit,TheAirBlow/HyperSploit,791713013
 VU#63,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,696068877
 VU#63,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
@@ -315,7 +316,7 @@ VU#63,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,44732213
 VU#63,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#63,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#63,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#63,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#63,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#63,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#63,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
@@ -380,7 +381,7 @@ VU#63,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#63,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#63,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#63,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#63,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#63,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#63,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#63,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#63,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526

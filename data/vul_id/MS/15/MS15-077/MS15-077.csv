@@ -41,6 +41,7 @@ MS15-077,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-expl
 MS15-077,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS15-077,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 MS15-077,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
+MS15-077,0.00274725,https://github.com/chenxianshen789/0day,chenxianshen789/0day,808071258
 MS15-077,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
 MS15-077,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 MS15-077,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
@@ -51,7 +52,7 @@ MS15-077,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS15-077,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 MS15-077,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 MS15-077,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
-MS15-077,0.00060096,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
+MS15-077,0.00059952,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS15-077,0.00053135,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 MS15-077,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS15-077,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487

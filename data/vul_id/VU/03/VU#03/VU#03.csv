@@ -86,6 +86,7 @@ VU#03,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/Augmented
 VU#03,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
 VU#03,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#03,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
+VU#03,0.10000000,https://github.com/yyl-github-1896/CodeTAE,yyl-github-1896/CodeTAE,798133768
 VU#03,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#03,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#03,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
@@ -127,6 +128,7 @@ VU#03,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JN
 VU#03,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#03,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#03,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,AnonymousMonke12/Updated-ExlinSploit,455758535
+VU#03,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
 VU#03,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410
 VU#03,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
 VU#03,0.05882353,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
@@ -317,8 +319,8 @@ VU#03,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_no
 VU#03,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#03,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#03,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
-VU#03,0.01010101,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 VU#03,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#03,0.01000000,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 VU#03,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#03,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#03,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
@@ -326,7 +328,7 @@ VU#03,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#03,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#03,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#03,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
-VU#03,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#03,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#03,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#03,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731
 VU#03,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
@@ -385,7 +387,7 @@ VU#03,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#03,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#03,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#03,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
-VU#03,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#03,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#03,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#03,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#03,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -492,6 +494,6 @@ VU#03,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#03,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#03,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#03,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#03,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#442,1.00000000,https://github.com/Joshhhuaaa/EnhancedSCPTVersus,Joshhhuaaa/EnhancedSCPTVersus,750652616
 VU#442,1.00000000,https://github.com/uncty/ReturnExploit,uncty/ReturnExploit,589699083
+VU#442,0.05263158,https://github.com/GabrieleSerussi/Group-Convolutional-Neural-Networks,GabrieleSerussi/Group-Convolutional-Neural-Networks,787546208
 VU#442,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#442,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#442,0.01612903,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760

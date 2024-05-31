@@ -35,6 +35,7 @@ VU#19,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2
 VU#19,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
 VU#19,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#19,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
+VU#19,0.10000000,https://github.com/SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,775406097
 VU#19,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#19,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
 VU#19,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
@@ -42,6 +43,7 @@ VU#19,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowba
 VU#19,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#19,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#19,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
+VU#19,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
 VU#19,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#19,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
 VU#19,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
@@ -234,9 +236,9 @@ VU#19,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/M
 VU#19,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#19,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#19,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#19,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#19,0.00925926,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#19,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
+VU#19,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#19,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#19,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#19,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
@@ -294,8 +296,8 @@ VU#19,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#19,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#19,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#19,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#19,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#19,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#19,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#19,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#19,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#19,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -362,7 +364,7 @@ VU#19,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102
 VU#19,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#19,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#19,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
-VU#19,0.00084034,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#19,0.00083752,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#19,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#19,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#19,0.00053135,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
@@ -401,7 +403,7 @@ VU#19,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#19,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#19,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#19,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#19,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#19,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#19,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

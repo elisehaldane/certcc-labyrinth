@@ -118,6 +118,7 @@ VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
 VU#32,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
+VU#32,0.09090909,https://github.com/SkidLua1/Exploit,SkidLua1/Exploit,792586733
 VU#32,0.09090909,https://github.com/DashaMilitskaya/cve_2023_21822,DashaMilitskaya/cve_2023_21822,745578718
 VU#32,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
@@ -147,6 +148,7 @@ VU#32,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open
 VU#32,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#32,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#32,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#32,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
 VU#32,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
 VU#32,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#32,0.05882353,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
@@ -237,6 +239,7 @@ VU#32,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstor
 VU#32,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#32,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#32,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
+VU#32,0.02272727,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.02222222,https://github.com/maveriktop007/-WindowsExploits,maveriktop007/-WindowsExploits,524907173
 VU#32,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#32,0.02222222,https://github.com/takeboy/https-github.com-abatchy17-WindowsExploits,takeboy/https-github.com-abatchy17-WindowsExploits,456416342
@@ -272,7 +275,6 @@ VU#32,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,71793523
 VU#32,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#32,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
-VU#32,0.02083333,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#32,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#32,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
@@ -391,9 +393,9 @@ VU#32,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/M
 VU#32,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#32,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#32,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
-VU#32,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#32,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#32,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#32,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#32,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
@@ -462,8 +464,8 @@ VU#32,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#32,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#32,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#32,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#32,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#32,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#32,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#32,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#32,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#32,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -495,6 +497,7 @@ VU#32,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,
 VU#32,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#32,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
 VU#32,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
+VU#32,0.00274725,https://github.com/chenxianshen789/0day,chenxianshen789/0day,808071258
 VU#32,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
 VU#32,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#32,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
@@ -572,7 +575,7 @@ VU#32,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#32,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#32,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#32,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#32,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#32,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

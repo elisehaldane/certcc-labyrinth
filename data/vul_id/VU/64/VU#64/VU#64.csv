@@ -78,6 +78,7 @@ VU#64,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Mod
 VU#64,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#64,0.09090909,https://github.com/FrancescoMarchiori/CVE-2021-3156,FrancescoMarchiori/CVE-2021-3156,510379940
 VU#64,0.08333333,https://github.com/Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,803799985
+VU#64,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
 VU#64,0.08333333,https://github.com/darkjan1234/rceu12-push-2-talk,darkjan1234/rceu12-push-2-talk,781439495
 VU#64,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
 VU#64,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
@@ -93,6 +94,7 @@ VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992
 VU#64,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#64,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#64,0.05555556,https://github.com/nonamecoder/CVE-2023-22906,nonamecoder/CVE-2023-22906,635964756
+VU#64,0.05263158,https://github.com/GabrieleSerussi/Group-Convolutional-Neural-Networks,GabrieleSerussi/Group-Convolutional-Neural-Networks,787546208
 VU#64,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#64,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
@@ -107,6 +109,7 @@ VU#64,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exp
 VU#64,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#64,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
 VU#64,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#64,0.04347826,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#64,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,741207383
 VU#64,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#64,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
@@ -284,8 +287,8 @@ VU#64,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#64,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#64,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#64,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#64,0.00925926,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#64,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
+VU#64,0.00917431,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#64,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#64,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#64,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
@@ -342,8 +345,8 @@ VU#64,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#64,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#64,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#64,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#64,0.00487805,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#64,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#64,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#64,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#64,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#64,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -449,7 +452,7 @@ VU#64,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#64,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#64,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#64,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#64,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#64,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#64,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#64,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003

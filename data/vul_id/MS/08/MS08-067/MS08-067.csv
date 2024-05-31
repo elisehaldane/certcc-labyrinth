@@ -61,7 +61,7 @@ MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,2
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
 MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
-MS08-067,0.50000000,https://github.com/Cipher-Rachael/Reconnaissance-and-Exploitation-with-Kali-Linux,Cipher-Rachael/Reconnaissance-and-Exploitation-with-Kali-Linux,770417981
+MS08-067,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981
 MS08-067,0.50000000,https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,742667541
 MS08-067,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
 MS08-067,0.50000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
@@ -409,6 +409,7 @@ MS08-067,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-
 MS08-067,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 MS08-067,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 MS08-067,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
+MS08-067,0.00274725,https://github.com/chenxianshen789/0day,chenxianshen789/0day,808071258
 MS08-067,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
 MS08-067,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 MS08-067,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
@@ -557,7 +558,7 @@ MS08-067,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS08-067,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS08-067,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 MS08-067,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS08-067,0.00018889,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -613,8 +614,9 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000954,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-MS08-067,0.00000951,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000951,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+MS08-067,0.00000950,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000947,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
