@@ -56,6 +56,7 @@ VU#39,0.08333333,https://github.com/cschech/CBSD,cschech/CBSD,653347261
 VU#39,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#39,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
 VU#39,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
+VU#39,0.07692308,https://github.com/ruiking04/CutAddPaste,ruiking04/CutAddPaste,808587457
 VU#39,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#39,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
 VU#39,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass,jakabakos/Apache-OFBiz-Authentication-Bypass,738140662
@@ -136,8 +137,8 @@ VU#39,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#39,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#39,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#39,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#39,0.02272727,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#39,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
+VU#39,0.02173913,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#39,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#39,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#39,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
@@ -332,7 +333,7 @@ VU#39,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#39,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#39,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#39,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#39,0.00317460,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#39,0.00319489,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#39,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#39,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#39,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
