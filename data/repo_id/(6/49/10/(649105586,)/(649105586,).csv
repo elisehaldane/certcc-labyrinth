@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-649105586,pen4uin/java-memshell-generator-release,README.md,98640bca6aa7976a1464502f42eaa34a3ecb61b8,CVE-2022-22947
+649105586,pen4uin/java-memshell-generator,jmg-custom/src/test/java/test.java,54cdaffc6b7bf28b532e2677963fd9fa017d8259,VU#70
