@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/tests_test_svm.py,3054aae8abbb5d5d9325ebeb189a774cb4570a74,CVE-2020-28975
+809102376,LLMCI/LLM_Command_Injection,dataset/django/utils_encoding.py,98f705487a8ce021195edc92db15424830b0ee2b,CVE-2019-14235
+809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/sphinxext_sphinx_issues.py,a3b96d69ca8d2c9bfb0bd9f92a6e03cf750faa7c,CVE-2018-17175
+809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/svm__base.py,abde502cca9a14b3254df929b15d9074b9499bf5,CVE-2020-28975
