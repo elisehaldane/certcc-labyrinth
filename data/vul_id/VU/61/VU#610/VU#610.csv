@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#610,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
 VU#610,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
+VU#610,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#610,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#610,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
 VU#610,0.01111111,https://github.com/alfheimrShiven/sc-exploits,alfheimrShiven/sc-exploits,754754436

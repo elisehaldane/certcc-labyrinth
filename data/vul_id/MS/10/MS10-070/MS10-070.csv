@@ -16,7 +16,6 @@ MS10-070,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitd
 MS10-070,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
 MS10-070,0.00492611,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 MS10-070,0.00333333,https://github.com/soheil-vanaee/Vulnerability-Vault,soheil-vanaee/Vulnerability-Vault,663461857
-MS10-070,0.00326797,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS10-070,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS10-070,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
 MS10-070,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
@@ -24,6 +23,7 @@ MS10-070,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/search
 MS10-070,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKaan/AutoPWN-Suite,491539517
 MS10-070,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS10-070,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploitdb-images,448787246
+MS10-070,0.00317460,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS10-070,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 MS10-070,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-070,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
@@ -50,7 +50,7 @@ MS10-070,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/
 MS10-070,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS10-070,0.00017103,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS10-070,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
-MS10-070,0.00014780,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS10-070,0.00014775,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS10-070,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS10-070,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

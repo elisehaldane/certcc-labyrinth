@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#93,1.00000000,https://github.com/ychukchik/BufferOverflow_Exploit,ychukchik/BufferOverflow_Exploit,805587590
 VU#93,1.00000000,https://github.com/V-i-x-x/AMSI-BYPASS,V-i-x-x/AMSI-BYPASS,795708223
 VU#93,1.00000000,https://github.com/SevJSix/IceAnarchyCore,SevJSix/IceAnarchyCore,605664556
-VU#93,0.50000000,https://github.com/outrozl/Help-ABF,outrozl/Help-ABF,808833179
+VU#93,0.50000000,https://github.com/outrozl/ExploitsStuff,outrozl/ExploitsStuff,808833179
 VU#93,0.50000000,https://github.com/shahmal1yev/exploits,shahmal1yev/exploits,775192840
 VU#93,0.50000000,https://github.com/BoBpiler/compiler-optimization-vulnerability-explorations,BoBpiler/compiler-optimization-vulnerability-explorations,732012374
 VU#93,0.50000000,https://github.com/chucvv/POC-exploit-vulnerability,chucvv/POC-exploit-vulnerability,705451038
@@ -136,6 +136,7 @@ VU#93,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,
 VU#93,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#93,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#93,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#93,0.02325581,https://github.com/chaitin/SafeLine,chaitin/SafeLine,626896474
 VU#93,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#93,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#93,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
