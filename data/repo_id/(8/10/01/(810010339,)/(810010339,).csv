@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+810010339,kevcooper/CVE-2024-1086-checker,check_cve_2024_1086.py,4688c300e73ca9cce8140ab6784ee1087471fe7d,CVE-2024-1086
+810010339,kevcooper/CVE-2024-1086-checker,README.md,d4f510ba22023bd25c90eacc04f782783e1eb772,CVE-2024-1086
+810010339,kevcooper/CVE-2024-1086-checker,_GITHUB_REPO_METADATA_,,CVE-2024-1086
