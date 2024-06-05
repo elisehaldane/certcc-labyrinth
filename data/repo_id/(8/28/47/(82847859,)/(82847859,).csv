@@ -52,7 +52,7 @@ repo_id,repo_full_name,file,file_sha1,match
 82847859,dobin/yookiterm-slides,bfh2018/day1/0x02_Intro-Technical.pdf,dcb4e79ae6a66c969b9559d5e2704c98f1d46764,CVE-2015-5119
 82847859,dobin/yookiterm-slides,bfh2022/day7/0x76_Vulnerabilities_2022.pdf,dea106b58f98d453c8dabc68edc4929609a3a6d3,CVE-2022-0492
 82847859,dobin/yookiterm-slides,bfh2019/day6/0x60_WindowsExploiting.pdf,eaaf31ff4b6d4e9d22cadb30b706a505d69b9020,VU#15
-82847859,dobin/yookiterm-slides,bfh2023/day7/0x76_Vulnerabilities_2022.pdf,f92253f81e66a39149a563310a09305f77f08cf6,CVE-2022-0492
+82847859,dobin/yookiterm-slides,bfh2024/day7/0x76_Vulnerabilities_2022.pdf,f92253f81e66a39149a563310a09305f77f08cf6,CVE-2022-0492
 82847859,dobin/yookiterm-slides,resources.md,fd705f7ebed4e3f858bba99ecaffed81eb778c33,CVE-2016-4622
 82847859,dobin/yookiterm-slides,resources.md,fd705f7ebed4e3f858bba99ecaffed81eb778c33,CVE-2017-0236
 82847859,dobin/yookiterm-slides,resources.md,fd705f7ebed4e3f858bba99ecaffed81eb778c33,CVE-2018-4990
