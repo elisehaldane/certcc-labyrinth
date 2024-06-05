@@ -285,7 +285,7 @@ MS08-067,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/
 MS08-067,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 MS08-067,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS08-067,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
-MS08-067,0.00980392,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
+MS08-067,0.00970874,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
 MS08-067,0.00970874,https://github.com/adle29/Bot_Army,adle29/Bot_Army,45872937
 MS08-067,0.00943396,https://github.com/vaginessa/WindowsExploitTest,vaginessa/WindowsExploitTest,141821540
 MS08-067,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
@@ -614,8 +614,8 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000951,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-067,0.00000949,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000950,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+MS08-067,0.00000948,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000947,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542

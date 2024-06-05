@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2024-15077,1.00000000,https://github.com/yuebusao/AJ-REPORT-EXPLOIT,yuebusao/AJ-REPORT-EXPLOIT,799092753
 CNVD-2024-15077,0.01000000,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
-CNVD-2024-15077,0.00189753,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+CNVD-2024-15077,0.00189036,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168

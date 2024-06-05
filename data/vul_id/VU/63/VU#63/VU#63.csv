@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#63,1.00000000,https://github.com/galaxyfounded/huhitworks-,galaxyfounded/huhitworks-,810032778
 VU#63,1.00000000,https://github.com/Capitos/BAYGO,Capitos/BAYGO,723913390
 VU#63,1.00000000,https://github.com/CapitosKamalOfficial/Bot-Exploit-Wordpress,CapitosKamalOfficial/Bot-Exploit-Wordpress,697512503
 VU#63,1.00000000,https://github.com/rs-blake/CEE,rs-blake/CEE,666620598
@@ -21,6 +20,7 @@ VU#63,1.00000000,https://github.com/Gregnald/CodyAvi-Ruby-Fixer-for-Metasploit,G
 VU#63,1.00000000,https://github.com/Gregnald/Metasploit-CodyAvi,Gregnald/Metasploit-CodyAvi,342147305
 VU#63,1.00000000,https://github.com/noob-hackers/m-wiz,noob-hackers/m-wiz,194392163
 VU#63,1.00000000,https://github.com/rooted-cyber/Metasploit-Installation,rooted-cyber/Metasploit-Installation,183874184
+VU#63,0.50000000,https://github.com/galaxyfounded/huhitworks-,galaxyfounded/huhitworks-,810032778
 VU#63,0.50000000,https://github.com/Alucard0x1/CVE-2023-2833,Alucard0x1/CVE-2023-2833,655914171
 VU#63,0.50000000,https://github.com/zeetwii/tank,zeetwii/tank,615141878
 VU#63,0.50000000,https://github.com/georgekli/FlappyBird-QLearning,georgekli/FlappyBird-QLearning,612714942
@@ -228,6 +228,7 @@ VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#63,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#63,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#63,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#63,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
