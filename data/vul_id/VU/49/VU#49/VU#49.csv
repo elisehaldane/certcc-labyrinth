@@ -98,7 +98,6 @@ VU#49,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitr
 VU#49,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#49,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#49,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
-VU#49,0.06666667,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#49,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#49,0.06666667,https://github.com/Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,Refinitiv-API-Samples/Article.EikonAPI.Python.LNG.arbitrage,436615856
 VU#49,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
@@ -113,6 +112,7 @@ VU#49,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysi
 VU#49,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#49,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#49,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
+VU#49,0.05263158,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#49,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#49,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#49,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
@@ -304,6 +304,7 @@ VU#49,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#49,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#49,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#49,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#49,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#49,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#49,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#49,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -458,6 +459,7 @@ VU#49,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-
 VU#49,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#49,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#49,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#49,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#49,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#49,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#49,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -507,7 +509,7 @@ VU#49,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#49,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#49,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#49,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#49,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#49,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#49,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#49,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#49,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

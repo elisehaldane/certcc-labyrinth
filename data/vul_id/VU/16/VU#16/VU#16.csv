@@ -15,6 +15,7 @@ VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
 VU#16,0.50000000,https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,805400947
 VU#16,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
+VU#16,0.50000000,https://github.com/zero-day-nft/zeroday,zero-day-nft/zeroday,787402790
 VU#16,0.50000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
 VU#16,0.50000000,https://github.com/Zephiles/fb-exploit,Zephiles/fb-exploit,578895585
@@ -26,7 +27,6 @@ VU#16,0.50000000,https://github.com/Zebratic/MikroWorm,Zebratic/MikroWorm,477885
 VU#16,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,442869549
 VU#16,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
 VU#16,0.33333333,https://github.com/birozuru/poc-aal-attacks,birozuru/poc-aal-attacks,791804151
-VU#16,0.33333333,https://github.com/zero-day-nft/zeroday,zero-day-nft/zeroday,787402790
 VU#16,0.33333333,https://github.com/Widar999/exploit.com,Widar999/exploit.com,748202341
 VU#16,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#16,0.33333333,https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,710643666
@@ -381,6 +381,7 @@ VU#16,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,7633
 VU#16,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#16,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#16,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#16,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#16,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#16,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#16,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -413,7 +414,7 @@ VU#16,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#16,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#16,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#16,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#16,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#16,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#16,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#16,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#16,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

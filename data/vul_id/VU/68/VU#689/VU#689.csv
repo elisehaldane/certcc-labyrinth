@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#689,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#689,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
+VU#689,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#689,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#689,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#689,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -56,4 +57,4 @@ VU#689,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur
 VU#689,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#689,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#689,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#689,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#689,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

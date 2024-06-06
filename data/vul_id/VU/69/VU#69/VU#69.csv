@@ -96,6 +96,7 @@ VU#69,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,52
 VU#69,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#69,0.11111111,https://github.com/saferwall/malware-souk,saferwall/malware-souk,360327405
 VU#69,0.11111111,https://github.com/cn-panda/JavaCodeAudit,cn-panda/JavaCodeAudit,224329304
+VU#69,0.10000000,https://github.com/0xSs0rZ/Windows_Exploit,0xSs0rZ/Windows_Exploit,810761849
 VU#69,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#69,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
 VU#69,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
@@ -112,7 +113,6 @@ VU#69,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,5460
 VU#69,0.07142857,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,532555024
 VU#69,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
 VU#69,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
-VU#69,0.06666667,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#69,0.06666667,https://github.com/liang2kl/iot-exploits,liang2kl/iot-exploits,662397907
 VU#69,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
 VU#69,0.06250000,https://github.com/appsecandrewlee/Software-Security-SQL-Injection-Integer-overflow,appsecandrewlee/Software-Security-SQL-Injection-Integer-overflow,778319854
@@ -125,6 +125,7 @@ VU#69,0.05882353,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/Exploit
 VU#69,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#69,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#69,0.05555556,https://github.com/CBIIT/rcellminerUtilsCDB,CBIIT/rcellminerUtilsCDB,178019444
+VU#69,0.05263158,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#69,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#69,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
 VU#69,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
@@ -261,6 +262,7 @@ VU#69,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#69,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#69,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#69,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#69,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#69,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#69,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#69,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -411,6 +413,7 @@ VU#69,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,7633
 VU#69,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#69,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#69,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#69,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#69,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#69,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#69,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -462,7 +465,7 @@ VU#69,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#69,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#69,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#69,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#69,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#69,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

@@ -119,7 +119,6 @@ VU#96,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkin
 VU#96,0.07142857,https://github.com/EITSxiaozhai/Exploit_blog,EITSxiaozhai/Exploit_blog,539289714
 VU#96,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#96,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
-VU#96,0.06666667,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#96,0.06666667,https://github.com/yvespollah/Resouce-Exploitaion-Computer-Department-UY1,yvespollah/Resouce-Exploitaion-Computer-Department-UY1,761309168
 VU#96,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#96,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
@@ -135,6 +134,7 @@ VU#96,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/F
 VU#96,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#96,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#96,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
+VU#96,0.05263158,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#96,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#96,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
 VU#96,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
@@ -292,8 +292,8 @@ VU#96,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22
 VU#96,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#96,0.01666667,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#96,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
-VU#96,0.01639344,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#96,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
+VU#96,0.01612903,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#96,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#96,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#96,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
@@ -339,6 +339,7 @@ VU#96,0.01162791,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github
 VU#96,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#96,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#96,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#96,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#96,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#96,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#96,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -478,6 +479,7 @@ VU#96,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,7633
 VU#96,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#96,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#96,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#96,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#96,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#96,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#96,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -499,7 +501,7 @@ VU#96,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#96,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#96,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#96,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#96,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#96,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#96,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

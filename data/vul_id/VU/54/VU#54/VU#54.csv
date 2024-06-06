@@ -71,6 +71,7 @@ VU#54,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,41995360
 VU#54,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#54,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#54,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656
+VU#54,0.05263158,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#54,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#54,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#54,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
@@ -184,6 +185,7 @@ VU#54,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCanc
 VU#54,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#54,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#54,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
+VU#54,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#54,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#54,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#54,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -333,6 +335,7 @@ VU#54,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,7633
 VU#54,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#54,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#54,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#54,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#54,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#54,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#54,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -381,7 +384,7 @@ VU#54,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#54,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#54,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#54,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#54,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#54,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#54,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#54,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#54,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

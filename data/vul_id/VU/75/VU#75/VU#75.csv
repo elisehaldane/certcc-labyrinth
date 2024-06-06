@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#75,1.00000000,https://github.com/avdhez/MetaSploitWorkflow,avdhez/MetaSploitWorkflow,811129553
 VU#75,1.00000000,https://github.com/beT13OkEdOfiVAmYly/poeBLACK1,beT13OkEdOfiVAmYly/poeBLACK1,803219123
 VU#75,1.00000000,https://github.com/apt6969/cs50exploit,apt6969/cs50exploit,744474073
 VU#75,1.00000000,https://github.com/LuciVera2/DaHood-Cash-Generator,LuciVera2/DaHood-Cash-Generator,532114784
@@ -57,7 +58,6 @@ VU#75,0.08333333,https://github.com/Ramyasura/MediEthiCare,Ramyasura/MediEthiCar
 VU#75,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#75,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#75,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
-VU#75,0.06666667,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#75,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
 VU#75,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#75,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
@@ -67,6 +67,7 @@ VU#75,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebow
 VU#75,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#75,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
 VU#75,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
+VU#75,0.05263158,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#75,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#75,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
 VU#75,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
@@ -249,6 +250,7 @@ VU#75,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#75,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#75,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#75,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
+VU#75,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#75,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#75,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
 VU#75,0.01111111,https://github.com/Alaza747/sc-exploits-minimized,Alaza747/sc-exploits-minimized,773331778
@@ -416,6 +418,7 @@ VU#75,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,7633
 VU#75,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#75,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#75,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
+VU#75,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
 VU#75,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#75,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#75,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -463,7 +466,7 @@ VU#75,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#75,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#75,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#75,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#75,0.00018886,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#75,0.00018882,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#75,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#75,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#75,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
