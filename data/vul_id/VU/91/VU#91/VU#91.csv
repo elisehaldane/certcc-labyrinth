@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#91,1.00000000,https://github.com/niru150/177_UBER-DATA-BREACH-USING-METASPLOIT-SHODAN-TOOLS,niru150/177_UBER-DATA-BREACH-USING-METASPLOIT-SHODAN-TOOLS,808653085
 VU#91,1.00000000,https://github.com/l1mp1n/PENETRATION-TEST-VIA-METASPLOIT,l1mp1n/PENETRATION-TEST-VIA-METASPLOIT,672741682
+VU#91,0.50000000,https://github.com/CowPat101/SmartTVHack,CowPat101/SmartTVHack,811840790
 VU#91,0.50000000,https://github.com/HeiwaRyuu/PockieNinja-Farm-Macro,HeiwaRyuu/PockieNinja-Farm-Macro,691273818
 VU#91,0.50000000,https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study,SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study,665620716
 VU#91,0.50000000,https://github.com/VincentJ860/VJ-ExecuterExploit,VincentJ860/VJ-ExecuterExploit,610847548
@@ -167,13 +168,13 @@ VU#91,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7
 VU#91,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#91,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#91,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
-VU#91,0.01298701,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#91,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#91,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
 VU#91,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#91,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#91,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#91,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#91,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#91,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#91,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#91,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657

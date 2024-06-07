@@ -7,6 +7,7 @@ VU#48,1.00000000,https://github.com/imabadhacker/LOLexploit,imabadhacker/LOLexpl
 VU#48,0.50000000,https://github.com/toanln-cov/CVE-2023-36845,toanln-cov/CVE-2023-36845,697223244
 VU#48,0.50000000,https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine,MphatsoChintedza/Attacking-A-Vulnerability-Machine,474804470
 VU#48,0.50000000,https://github.com/Mphatso27/Attacking-A-Vulnerability-Machine,Mphatso27/Attacking-A-Vulnerability-Machine,474802723
+VU#48,0.33333333,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#48,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
 VU#48,0.33333333,https://github.com/qaardvark/report,qaardvark/report,594058376
 VU#48,0.33333333,https://github.com/NoftN/Asakura-Z,NoftN/Asakura-Z,484708199
@@ -22,6 +23,7 @@ VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_
 VU#48,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
 VU#48,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
+VU#48,0.16666667,https://github.com/DaintyJet/VChat_CFG,DaintyJet/VChat_CFG,810955713
 VU#48,0.16666667,https://github.com/rezagoodarzi/QLearning_Cliff_walking,rezagoodarzi/QLearning_Cliff_walking,778704995
 VU#48,0.16666667,https://github.com/Madhavaprasath23/Attentionexploitation,Madhavaprasath23/Attentionexploitation,747095597
 VU#48,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
@@ -185,13 +187,13 @@ VU#48,0.01333333,https://github.com/theaidev/Linux-Kernel-Exploitation-Papers,th
 VU#48,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#48,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#48,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
-VU#48,0.01298701,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#48,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
 VU#48,0.01282051,https://github.com/hupe1980/aisploit,hupe1980/aisploit,762676512
 VU#48,0.01282051,https://github.com/FDlucifer/Proxy-Attackchain,FDlucifer/Proxy-Attackchain,432469539
 VU#48,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#48,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#48,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
+VU#48,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#48,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#48,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#48,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
@@ -414,7 +416,7 @@ VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000950,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 VU#48,0.00000948,https://github.com/trickest/cve,trickest/cve,454015416
-VU#48,0.00000947,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+VU#48,0.00000944,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
