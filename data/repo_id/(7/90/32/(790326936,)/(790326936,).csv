@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-790326936,nigmaz/Exploit-Vulnerabilities,Kernel-Exploit/Linux-Kernel/README.md,126b483848076161e997bdebf4c434a81048899d,CVE-2022-0185
-790326936,nigmaz/Exploit-Vulnerabilities,Application-Exploit/README.md,aa6c4543a1a0e5e34b04af8e6d8c362cb6816693,CVE-2011-2856
+790326936,nigmaz/Exploit-Vulnerabilities,Application-Exploit/README.md,a07ffee9e7af17acd0b98d8df568af7d774160f8,CVE-2011-2856
+790326936,nigmaz/Exploit-Vulnerabilities,Kernel-Exploit/Linux-Kernel/README.md,c7b6747968917772246cc01f552c831b41905e32,CVE-2022-0185
+790326936,nigmaz/Exploit-Vulnerabilities,Kernel-Exploit/Linux-Kernel/README.md,c7b6747968917772246cc01f552c831b41905e32,CVE-2023-35001
 790326936,nigmaz/Exploit-Vulnerabilities,Application-Exploit/Embedded-System/README.md,e47a8e88d6c20a13d0f5e45a8e65a09c80b8575f,CVE-2021-36260
-790326936,nigmaz/Exploit-Vulnerabilities,Windows-Exploit/README.md,f8b4c075ad6d48dd22c5f8608c08ce180002194f,CVE-2023-38831
+790326936,nigmaz/Exploit-Vulnerabilities,Windows-Exploit/README.md,ea7d89423491bcd86466936b1a263089bd72ea9e,CVE-2023-38831
