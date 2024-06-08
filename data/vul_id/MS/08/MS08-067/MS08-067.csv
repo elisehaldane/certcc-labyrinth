@@ -100,6 +100,7 @@ MS08-067,0.50000000,https://github.com/kn0/battery,kn0/battery,31389422
 MS08-067,0.50000000,https://github.com/gitpan/MetasploitExpress-Parser,gitpan/MetasploitExpress-Parser,25571640
 MS08-067,0.50000000,https://github.com/infodox/QuickSploit,infodox/QuickSploit,8268031
 MS08-067,0.50000000,https://github.com/hal3002/metasploit_scripts,hal3002/metasploit_scripts,1184891
+MS08-067,0.33333333,https://github.com/mofaal1/eternalblue-exploitation,mofaal1/eternalblue-exploitation,812266535
 MS08-067,0.33333333,https://github.com/alexchong/exploits,alexchong/exploits,761537307
 MS08-067,0.33333333,https://github.com/G00Dway/BlestSploit,G00Dway/BlestSploit,517681444
 MS08-067,0.33333333,https://github.com/Worldotank1287/sneaky_thing,Worldotank1287/sneaky_thing,320684047
@@ -616,7 +617,7 @@ MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS08-067,0.00000949,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 MS08-067,0.00000948,https://github.com/trickest/cve,trickest/cve,454015416
-MS08-067,0.00000944,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+MS08-067,0.00000941,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

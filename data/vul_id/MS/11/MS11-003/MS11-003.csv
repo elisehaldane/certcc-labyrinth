@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS11-003,0.50000000,https://github.com/ahmadnourallah/SEF,ahmadnourallah/SEF,77793950
 MS11-003,0.50000000,https://github.com/hossamhasanin/SEF,hossamhasanin/SEF,77758057
+MS11-003,0.33333333,https://github.com/mofaal1/eternalblue-exploitation,mofaal1/eternalblue-exploitation,812266535
 MS11-003,0.25000000,https://github.com/shakenetwork/browsersploit,shakenetwork/browsersploit,103028029
 MS11-003,0.25000000,https://github.com/julienbedard/browsersploit,julienbedard/browsersploit,61942482
 MS11-003,0.14285714,https://github.com/wicar/malware.wicar.org,wicar/malware.wicar.org,22944175
