@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+811899007,openexploitresearch/exploits,chrome/CVE-2024-0517_exploit.js,35d82b0128738436d761b37291a8a0a13f9f2e57,CVE-2024-0517
