@@ -22,7 +22,6 @@ VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_
 VU#48,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
 VU#48,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
-VU#48,0.16666667,https://github.com/DaintyJet/VChat_CFG,DaintyJet/VChat_CFG,810955713
 VU#48,0.16666667,https://github.com/rezagoodarzi/QLearning_Cliff_walking,rezagoodarzi/QLearning_Cliff_walking,778704995
 VU#48,0.16666667,https://github.com/Madhavaprasath23/Attentionexploitation,Madhavaprasath23/Attentionexploitation,747095597
 VU#48,0.14285714,https://github.com/a-rey/exploits,a-rey/exploits,403126946
@@ -43,6 +42,7 @@ VU#48,0.10000000,https://github.com/tingirifistik/metasploit_for_ios,tingirifist
 VU#48,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel/hack_art,424978628
 VU#48,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#48,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
+VU#48,0.09090909,https://github.com/DaintyJet/VChat_CFG,DaintyJet/VChat_CFG,810955713
 VU#48,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#48,0.09090909,https://github.com/rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,rsamasiri/Article.EikonAPI.Python.LNG.arbitrage,436316308
 VU#48,0.09090909,https://github.com/smurtau/Testing-and-Exploiting-Eyeballer,smurtau/Testing-and-Exploiting-Eyeballer,435329665
@@ -416,7 +416,7 @@ VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000949,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 VU#48,0.00000948,https://github.com/trickest/cve,trickest/cve,454015416
-VU#48,0.00000941,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+VU#48,0.00000940,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
