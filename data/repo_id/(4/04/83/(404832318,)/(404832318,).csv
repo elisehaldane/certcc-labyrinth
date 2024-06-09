@@ -13,6 +13,7 @@ repo_id,repo_full_name,file,file_sha1,match
 404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/README.md,5739673003f23fbcaea345044f63e2abd235d7db,CVE-2020-1206
 404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/grafana.db,6261993f9bec533b281ba716f5a72cc30747f459,CVE-2021-43798
 404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/tbbmalloc.dll,6304cb0bfdc1442df3a334a244af3ffd57a2a124,CVE-2020-0796
+404832318,Jonathan-Elias/Exploits,alfa.php,8724033aae9d4f9097e4a700ffb7ff7acb9c5954,VU#83
 404832318,Jonathan-Elias/Exploits,CVE-2020-0796-RCE-POC-master/tools/link.exe,900953f76c757bf3701e5cd6b857cdf36595ec18,CVE-2020-0796
 404832318,Jonathan-Elias/Exploits,vnc.py,920f6ee610086808ff9cea0b35c8394c828a22b9,CVE-2006-2369
 404832318,Jonathan-Elias/Exploits, Grafana CVE-2021-43798/Makefile,a46554319216ca54685679e2002feeea51bbc226,CVE-2021-43798
