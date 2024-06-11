@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+571040895,FelixMartel/exploits,pentaho-admin-rce/readme.md,65f0d6d752c82226d91a8251b36ad51396f9732e,CVE-2022-23221
