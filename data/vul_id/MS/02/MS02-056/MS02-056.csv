@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS02-056,1.00000000,https://github.com/VMDS-GE/MS02-056,VMDS-GE/MS02-056,196881138
 MS02-056,0.33333333,https://github.com/ajes/exploits,ajes/exploits,161475109
+MS02-056,0.09090909,https://github.com/c0mrade002/sql-criminal,c0mrade002/sql-criminal,813357237
 MS02-056,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
 MS02-056,0.01136364,https://github.com/ksmaheshkumar/metasploit,ksmaheshkumar/metasploit,31601285
 MS02-056,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
@@ -241,7 +242,7 @@ MS02-056,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11sec
 MS02-056,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 MS02-056,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 MS02-056,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS02-056,0.00018875,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS02-056,0.00018871,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS02-056,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS02-056,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS02-056,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

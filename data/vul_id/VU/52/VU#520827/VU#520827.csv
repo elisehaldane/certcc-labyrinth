@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#520827,0.33333333,https://github.com/bl4cksku11/CVE-2024-4577,bl4cksku11/CVE-2024-4577,813698508
 VU#520827,0.01612903,https://github.com/svrohith9/Penetration-testing,svrohith9/Penetration-testing,489994709
 VU#520827,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 VU#520827,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
