@@ -13,7 +13,6 @@ VU#55,0.50000000,https://github.com/Hacker-Hermanos/NetRunners,Hacker-Hermanos/N
 VU#55,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#55,0.50000000,https://github.com/GregBoyTyyuiss/Roblox-Exploits,GregBoyTyyuiss/Roblox-Exploits,610261084
 VU#55,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
-VU#55,0.33333333,https://github.com/blueiicey/RobloxExploitsArchive,blueiicey/RobloxExploitsArchive,813809457
 VU#55,0.33333333,https://github.com/uthrasri/CVE-2014-3570,uthrasri/CVE-2014-3570,715657581
 VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,572456828
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
@@ -29,6 +28,7 @@ VU#55,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,
 VU#55,0.25000000,https://github.com/Armandukx/ArmanX,Armandukx/ArmanX,494829507
 VU#55,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#55,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
+VU#55,0.20000000,https://github.com/blueiicey/RobloxExploitsArchive,blueiicey/RobloxExploitsArchive,813809457
 VU#55,0.20000000,https://github.com/Sandesh028/Exploiting-IoT-Devices,Sandesh028/Exploiting-IoT-Devices,747247755
 VU#55,0.20000000,https://github.com/nullsecuritynet/tools,nullsecuritynet/tools,718539137
 VU#55,0.20000000,https://github.com/Yana-Gupta/rce,Yana-Gupta/rce,685523997
@@ -111,6 +111,7 @@ VU#55,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/
 VU#55,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#55,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#55,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
+VU#55,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
 VU#55,0.03448276,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#55,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#55,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
@@ -504,7 +505,7 @@ VU#55,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#55,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#55,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#55,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#55,0.00018864,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#55,0.00018857,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#55,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#55,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#55,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
