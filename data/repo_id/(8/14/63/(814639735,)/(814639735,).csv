@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+814639735,karkis3c/cves,README.md,52855168f1cc99c24a72753de55002fb67217caf,CVE-2024-28995
+814639735,karkis3c/cves,CVE-2024-28995.yaml,7b8e60541576fb0f1d5862fedb9ff5a8505018d4,CVE-2024-28995
