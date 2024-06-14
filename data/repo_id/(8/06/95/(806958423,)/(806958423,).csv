@@ -3,11 +3,11 @@ repo_id,repo_full_name,file,file_sha1,match
 806958423,0linlin0/XPost,zoho/changejar/StartWebClient.class,1739d3fe20d438b71560f5af2c2a24d2dd81913b,VU#21
 806958423,0linlin0/XPost,zimbra/evaplugin/evilplugin_idea/src/com/zimbra/cs/network/license/service/LicenseService.java,28612d70207ce1a3e5d96478c84f1b19f1ba3111,VU#29
 806958423,0linlin0/XPost,zimbra/evaplugin/evilplugin_idea/zimbracommon.jar,2dc1dda1c1f72d56c9be38f4f929d4f7cb00c526,VU#16
+806958423,0linlin0/XPost,XPost-ReadMe/readme.md,3ca0c40803cff2d00c7e2b458c849947f42bc310,CVE-2023-22527
 806958423,0linlin0/XPost,zoho/TomcatMemoryShell/out/production/TomcatMemoryShell/InjectMemShell.class,41ab35f676ff0995cd0303a103b9613b7d9b6fe5,VU#21
 806958423,0linlin0/XPost,zoho/TomcatMemoryShell/out/production/TomcatMemoryShell/InjectMemShell.class,41ab35f676ff0995cd0303a103b9613b7d9b6fe5,VU#29
-806958423,0linlin0/XPost,zoho/TomcatMemoryShell/AdventNetADSMServer.jar,4ee82477f9959fbd64c74541a883ebcb49c3b618,VU#746
 806958423,0linlin0/XPost,zoho/TomcatMemoryShell/AdventNetADSMServer.jar,4ee82477f9959fbd64c74541a883ebcb49c3b618,VU#60
-806958423,0linlin0/XPost,XPost-ReadMe/readme.md,72b6f8182d80759d63a1f26233e4d88d8938e6b0,CVE-2023-22527
+806958423,0linlin0/XPost,zoho/TomcatMemoryShell/AdventNetADSMServer.jar,4ee82477f9959fbd64c74541a883ebcb49c3b618,VU#746
 806958423,0linlin0/XPost,zimbra/JettyMemoryShell/out/production/JettyMemoryShell/InjectMemShell.class,7d0601a99374b28bc642509d9a46a652202803ec,VU#29
 806958423,0linlin0/XPost,zoho/changejar/StartWebClient_shell.class,829df853016866f5b898529c608de7e4b092017f,VU#21
 806958423,0linlin0/XPost,zoho/changejar/StartWebClient_shell.class,829df853016866f5b898529c608de7e4b092017f,VU#29
