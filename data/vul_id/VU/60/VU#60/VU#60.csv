@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#60,1.00000000,https://github.com/GMFR444X/exploit,GMFR444X/exploit,814532953
 VU#60,1.00000000,https://github.com/RedNotSus/exploits-v2,RedNotSus/exploits-v2,715857779
 VU#60,1.00000000,https://github.com/HTS69/Roblox-Exploit,HTS69/Roblox-Exploit,601327285
 VU#60,1.00000000,https://github.com/Nam3GHUB/Fire-Sploit,Nam3GHUB/Fire-Sploit,509546716
@@ -172,6 +173,7 @@ VU#60,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,80256830
 VU#60,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#60,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#60,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
+VU#60,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#60,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#60,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#60,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
