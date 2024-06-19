@@ -12,7 +12,9 @@ BID-1,0.50000000,https://github.com/PizzaWhisperer/HLLVuln,PizzaWhisperer/HLLVul
 BID-1,0.50000000,https://github.com/u2009cf/spark-radar,u2009cf/spark-radar,100241368
 BID-1,0.50000000,https://github.com/chenc10/Spark-PAF-INFOCOM18,chenc10/Spark-PAF-INFOCOM18,94409958
 BID-1,0.50000000,https://github.com/HTCTeam/HTCaaS,HTCTeam/HTCaaS,37580258
+BID-1,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_CVE-2020-0201,Trinadh465/packages_apps_Settings_CVE-2020-0201,816647824
 BID-1,0.33333333,https://github.com/Trinadh465/linux-4.19.72_CVE-2019-19447,Trinadh465/linux-4.19.72_CVE-2019-19447,724075085
+BID-1,0.33333333,https://github.com/uthrasri/Packages_app_settings_CVE-2020-0201,uthrasri/Packages_app_settings_CVE-2020-0201,710491787
 BID-1,0.33333333,https://github.com/winezer0/cs_agent_plus,winezer0/cs_agent_plus,601875673
 BID-1,0.33333333,https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347,nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20347,538897012
 BID-1,0.33333333,https://github.com/nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360,nidhi7598/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360,534520281
@@ -110,6 +112,7 @@ BID-1,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7
 BID-1,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
 BID-1,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 BID-1,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+BID-1,0.02173913,https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133,krnidhi/linux_4.19.72_CVE-2019-17133,816642141
 BID-1,0.02173913,https://github.com/AbrarKhan/Linux-4.19.72_CVE-2020-24490,AbrarKhan/Linux-4.19.72_CVE-2020-24490,793474421
 BID-1,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 BID-1,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
@@ -155,7 +158,7 @@ BID-1,0.00190840,https://github.com/wupeng15/Exploitation-of-vulnerability,wupen
 BID-1,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 BID-1,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
 BID-1,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-BID-1,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+BID-1,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-1,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-1,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-1,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
@@ -209,7 +212,7 @@ BID-1,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 BID-1,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 BID-1,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 BID-1,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-BID-1,0.00000947,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+BID-1,0.00000946,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 BID-1,0.00000945,https://github.com/trickest/cve,trickest/cve,454015416
 BID-1,0.00000939,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 BID-1,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

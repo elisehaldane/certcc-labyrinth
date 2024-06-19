@@ -95,7 +95,7 @@ VU#77,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencode
 VU#77,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elonmusic23/whatsapp-fake-reply-exploit,805107190
 VU#77,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
 VU#77,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
-VU#77,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#77,0.04166667,https://github.com/c0d3cr4f73r/MS17-010_CVE-2017-0143,c0d3cr4f73r/MS17-010_CVE-2017-0143,384203070
 VU#77,0.04166667,https://github.com/dobin/yookiterm-slides,dobin/yookiterm-slides,82847859
 VU#77,0.04000000,https://github.com/dlsaavedra/rcens,dlsaavedra/rcens,730905381
 VU#77,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
@@ -225,6 +225,7 @@ VU#77,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-
 VU#77,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#77,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#77,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
+VU#77,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#77,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s966-Final-Project,800103118
 VU#77,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#77,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
@@ -304,7 +305,7 @@ VU#77,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LS
 VU#77,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#77,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#77,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
-VU#77,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#77,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#77,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#77,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#77,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -331,6 +332,7 @@ VU#77,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#77,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#77,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#77,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#77,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
 VU#77,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#77,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#77,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -349,7 +351,7 @@ VU#77,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#77,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#77,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#77,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#77,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#77,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#77,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#77,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#77,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
@@ -397,8 +399,8 @@ VU#77,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#77,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#77,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#77,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#77,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#77,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#77,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#77,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#77,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#77,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -463,7 +465,7 @@ VU#77,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#77,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#77,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#77,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#77,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#77,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#77,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#77,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#77,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

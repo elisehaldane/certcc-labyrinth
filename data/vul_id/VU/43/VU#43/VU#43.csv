@@ -126,6 +126,7 @@ VU#43,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#43,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#43,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#43,0.03571429,https://github.com/h00die/MSF-Testing-Scripts,h00die/MSF-Testing-Scripts,30868611
+VU#43,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#43,0.03448276,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#43,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#43,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
@@ -145,7 +146,7 @@ VU#43,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/C
 VU#43,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
 VU#43,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#43,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#43,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
+VU#43,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#43,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#43,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#43,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
@@ -328,6 +329,7 @@ VU#43,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#43,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#43,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#43,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#43,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
 VU#43,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#43,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#43,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -346,7 +348,7 @@ VU#43,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#43,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#43,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#43,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#43,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#43,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#43,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#43,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#43,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -388,8 +390,8 @@ VU#43,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#43,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#43,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#43,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#43,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#43,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#43,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#43,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#43,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#43,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -443,7 +445,7 @@ VU#43,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#43,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#43,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#43,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#43,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#43,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#43,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#43,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#43,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762

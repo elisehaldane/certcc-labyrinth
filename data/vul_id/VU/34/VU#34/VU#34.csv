@@ -1,8 +1,10 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#34,1.00000000,https://github.com/AlexandruCostea/Heap-Corruption,AlexandruCostea/Heap-Corruption,780496825
 VU#34,1.00000000,https://github.com/saadammari1/Movie-Recommender-Using-Reinforcement-Learning,saadammari1/Movie-Recommender-Using-Reinforcement-Learning,740233841
+VU#34,1.00000000,https://github.com/kamalmjt/emerging-attackers,kamalmjt/emerging-attackers,563108087
 VU#34,1.00000000,https://github.com/Que-sar/VulnerableGraphQL-Setup-Exploitation-,Que-sar/VulnerableGraphQL-Setup-Exploitation-,518836467
 VU#34,1.00000000,https://github.com/Relkss/Testing_Exploit,Relkss/Testing_Exploit,398743493
+VU#34,0.50000000,https://github.com/CordGenics/SOLARA-BETA,CordGenics/SOLARA-BETA,816780041
 VU#34,0.50000000,https://github.com/xmehulx/log4j-playground,xmehulx/log4j-playground,804610274
 VU#34,0.50000000,https://github.com/Anri2321/VermunSelfBot,Anri2321/VermunSelfBot,558353321
 VU#34,0.50000000,https://github.com/jaypatel131/web-app-exploitation,jaypatel131/web-app-exploitation,388352065
@@ -134,7 +136,7 @@ VU#34,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-
 VU#34,0.02500000,https://github.com/Shelter1234/VulneraLab,Shelter1234/VulneraLab,763555782
 VU#34,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#34,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#34,0.02222222,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
+VU#34,0.02272727,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#34,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#34,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#34,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
@@ -152,6 +154,7 @@ VU#34,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#34,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#34,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#34,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
+VU#34,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#34,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s966-Final-Project,800103118
 VU#34,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#34,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
@@ -272,7 +275,7 @@ VU#34,0.00680272,https://github.com/jcole-sec/Trending-Exploitation-Research,jco
 VU#34,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#34,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#34,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#34,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#34,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#34,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#34,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#34,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -322,8 +325,8 @@ VU#34,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-progra
 VU#34,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#34,0.00317460,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#34,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#34,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#34,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#34,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#34,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -398,7 +401,7 @@ VU#34,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#34,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#34,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#34,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#34,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#34,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#34,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#34,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104

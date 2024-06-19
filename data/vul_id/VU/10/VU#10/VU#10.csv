@@ -152,6 +152,7 @@ VU#10,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/P
 VU#10,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#10,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
 VU#10,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
+VU#10,0.02173913,https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133,krnidhi/linux_4.19.72_CVE-2019-17133,816642141
 VU#10,0.02173913,https://github.com/AbrarKhan/Linux-4.19.72_CVE-2020-24490,AbrarKhan/Linux-4.19.72_CVE-2020-24490,793474421
 VU#10,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 VU#10,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
@@ -283,6 +284,7 @@ VU#10,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#10,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#10,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#10,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#10,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
 VU#10,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#10,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#10,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -298,7 +300,7 @@ VU#10,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#10,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#10,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#10,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#10,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#10,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#10,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#10,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#10,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
@@ -351,8 +353,8 @@ VU#10,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#10,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#10,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#10,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
-VU#10,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#10,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#10,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#10,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#10,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#10,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -435,7 +437,7 @@ VU#10,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#10,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#10,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#10,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#10,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#10,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

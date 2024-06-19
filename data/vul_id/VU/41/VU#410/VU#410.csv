@@ -23,6 +23,7 @@ VU#410,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE
 VU#410,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663
 VU#410,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#410,0.02222222,https://github.com/nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,nanopathi/aft_KERNEL_KITTORVALDS_CVE2020-29370,475420624
+VU#410,0.02173913,https://github.com/krnidhi/linux_4.19.72_CVE-2019-17133,krnidhi/linux_4.19.72_CVE-2019-17133,816642141
 VU#410,0.02173913,https://github.com/AbrarKhan/Linux-4.19.72_CVE-2020-24490,AbrarKhan/Linux-4.19.72_CVE-2020-24490,793474421
 VU#410,0.02173913,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-4128,nidhi7598/linux-4.19.72_CVE-2023-4128,693973822
 VU#410,0.02173913,https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564,nidhi7598/linux-v4.19.72_CVE-2022-3564,691985684
@@ -56,7 +57,7 @@ VU#410,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,4
 VU#410,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#410,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#410,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
-VU#410,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#410,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#410,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#410,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#410,0.00317460,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921

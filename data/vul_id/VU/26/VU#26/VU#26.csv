@@ -8,7 +8,6 @@ VU#26,0.50000000,https://github.com/mbadanoiu/CVE-2021-42561,mbadanoiu/CVE-2021-
 VU#26,0.50000000,https://github.com/HOLOSOFTWARE/Update-Multiple-Games-Exploit-Roblox-Fully-Operational,HOLOSOFTWARE/Update-Multiple-Games-Exploit-Roblox-Fully-Operational,719777558
 VU#26,0.50000000,https://github.com/jaehnri/CVE-2021-44228,jaehnri/CVE-2021-44228,501054329
 VU#26,0.50000000,https://github.com/EhsasElias/myCVejs-v2,EhsasElias/myCVejs-v2,460479572
-VU#26,0.33333333,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#26,0.33333333,https://github.com/ted314-cyber/Project-L-CTF,ted314-cyber/Project-L-CTF,712670320
 VU#26,0.33333333,https://github.com/luminostride/osok,luminostride/osok,661426411
 VU#26,0.33333333,https://github.com/MatiasE003/scripting-lua,MatiasE003/scripting-lua,610524980
@@ -35,6 +34,7 @@ VU#26,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/ka
 VU#26,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
 VU#26,0.12500000,https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,345634228
 VU#26,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
+VU#26,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#26,0.11111111,https://github.com/g-patin/RCE_projects,g-patin/RCE_projects,730282886
 VU#26,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
 VU#26,0.11111111,https://github.com/RomaIsnazarov/Bandit-mission-and-exploration-exploitation,RomaIsnazarov/Bandit-mission-and-exploration-exploitation,588647528
@@ -127,7 +127,7 @@ VU#26,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-th
 VU#26,0.02325581,https://github.com/chaitin/SafeLine,chaitin/SafeLine,626896474
 VU#26,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#26,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#26,0.02222222,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
+VU#26,0.02272727,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#26,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#26,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#26,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
@@ -144,6 +144,7 @@ VU#26,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,53
 VU#26,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#26,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#26,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
+VU#26,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#26,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#26,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#26,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
@@ -269,6 +270,7 @@ VU#26,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#26,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#26,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#26,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#26,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
 VU#26,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#26,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#26,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -335,8 +337,8 @@ VU#26,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-progra
 VU#26,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#26,0.00317460,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#26,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#26,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#26,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#26,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#26,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#26,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#26,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -402,7 +404,7 @@ VU#26,0.00019940,https://github.com/7red/Metasploit,7red/Metasploit,571203379
 VU#26,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123/Metasploit-framework,573940370
 VU#26,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#26,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#26,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#26,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#26,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#26,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#26,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -79,7 +79,7 @@ VU#00,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Di
 VU#00,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#00,0.04347826,https://github.com/l3d43r/Bell_sploit,l3d43r/Bell_sploit,97670880
 VU#00,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
-VU#00,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#00,0.04166667,https://github.com/c0d3cr4f73r/MS17-010_CVE-2017-0143,c0d3cr4f73r/MS17-010_CVE-2017-0143,384203070
 VU#00,0.04000000,https://github.com/dlsaavedra/rcens,dlsaavedra/rcens,730905381
 VU#00,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#00,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
@@ -91,6 +91,7 @@ VU#00,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns
 VU#00,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#00,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#00,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
+VU#00,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#00,0.03448276,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#00,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#00,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
@@ -114,7 +115,7 @@ VU#00,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/C
 VU#00,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#00,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#00,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#00,0.02272727,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
+VU#00,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#00,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#00,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#00,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
@@ -224,6 +225,7 @@ VU#00,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-
 VU#00,0.00719424,https://github.com/2lambda123/Windows10Exploits,2lambda123/Windows10Exploits,746360690
 VU#00,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#00,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
+VU#00,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
 VU#00,0.00714286,https://github.com/Nauj-Montes/metasploitable_01_03_2024,Nauj-Montes/metasploitable_01_03_2024,766273101
 VU#00,0.00714286,https://github.com/enonethreezed/metasploitable3,enonethreezed/metasploitable3,589175318
 VU#00,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
@@ -240,7 +242,7 @@ VU#00,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,68
 VU#00,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#00,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#00,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#00,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#00,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#00,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#00,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#00,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
@@ -287,8 +289,8 @@ VU#00,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#00,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#00,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#00,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#00,0.00299401,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#00,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
+VU#00,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#00,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
 VU#00,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,H4CK3RT3CH/Active-Directory-Exploitation-Cheat-Sheet,547297075
 VU#00,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
@@ -365,7 +367,7 @@ VU#00,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#00,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#00,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#00,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#00,0.00018854,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#00,0.00018847,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#00,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#00,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#00,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
