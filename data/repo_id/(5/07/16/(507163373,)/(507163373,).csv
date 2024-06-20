@@ -1,5 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,7bb857056d1ef6b9bb5c4125501a56c859132e6a,VU#54
-507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,7bb857056d1ef6b9bb5c4125501a56c859132e6a,VU#63
-507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,7bb857056d1ef6b9bb5c4125501a56c859132e6a,VU#83
-507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,7bb857056d1ef6b9bb5c4125501a56c859132e6a,VU#96
+507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,6e35ce6b9dfb2deb72b85fd9c9742f3a8deedf87,VU#83
+507163373,Slackaduts/Deimos-Wizard101,Deimos.exe,6e35ce6b9dfb2deb72b85fd9c9742f3a8deedf87,VU#94
