@@ -62,7 +62,7 @@ repo_id,repo_full_name,file,file_sha1,match
 3493279,buffer/thug,tests/functional/test_exploits.py,afbe31ad5c7b4c0cf94b4812bbaaf5e5cc4ba0fe,CVE-2006-5820
 3493279,buffer/thug,tests/functional/test_exploits.py,afbe31ad5c7b4c0cf94b4812bbaaf5e5cc4ba0fe,CVE-2012-4792
 3493279,buffer/thug,thug/ActiveX/modules/NCTAudioFile2.py,b0a8bdb39f754d6e16075c96ff166427686d3db5,CVE-2007-0018
-3493279,buffer/thug,tests/functional/test_misc_ie90.py,cb930b0fc2c62e3b40aaf3aff47b8e6abd08c7ce,CVE-2012-1889
+3493279,buffer/thug,tests/functional/test_misc_ie90.py,b0cdf663a5d299eaa678f039df8331e7c5c7fb10,CVE-2012-1889
 3493279,buffer/thug,thug/ActiveX/modules/AOLAttack.py,cf7b032bc8dc90ce29d56f711c1ddf016ded637e,CVE-2006-5820
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,d1850c5e52e77daa38e93ddfd3a1746c2aca15e7,CVE-2007-0321
 3493279,buffer/thug,thug/ActiveX/modules/MacrovisionFlexNet.py,d1850c5e52e77daa38e93ddfd3a1746c2aca15e7,CVE-2007-6654
