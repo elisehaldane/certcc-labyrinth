@@ -3,7 +3,7 @@ repo_id,repo_full_name,file,file_sha1,match
 803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/utils/helpers.py,3e4e159d559e61cd49d6f4b55e614842e2e5e3e9,CVE-2018-0296
 803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/includes/writefile.py,4f381eb18b04b0c89cb39a319dd5d1dd5c324a20,CVE-2018-0296
 803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/includes/bot.py,52c05a1b70dc798678673137212e253a43dff558,CVE-2018-0296
-803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/utils/const.py,76a83504d11d409b17a0f55f408a4753fbf3b2ae,CVE-2018-0296
+803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/utils/const.py,895418782613044aedccaa518623f9dd9efb38c9,CVE-2018-0296
 803661178,Cappricio-Securities/CVE-2018-0296,setup.py,a0a751b02e38f6a3686872770bc06d8184c57ae4,CVE-2018-0296
 803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/includes/filereader.py,a1fc762a5287238af796390317b4d8c41510e3ce,CVE-2018-0296
 803661178,Cappricio-Securities/CVE-2018-0296,cve20180296/includes/scan.py,bd7ce37d1fa7f78cdd442a5b44e93b768737299d,CVE-2018-0296
