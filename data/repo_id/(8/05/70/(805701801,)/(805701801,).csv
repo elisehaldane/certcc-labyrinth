@@ -8,5 +8,5 @@ repo_id,repo_full_name,file,file_sha1,match
 805701801,Cappricio-Securities/CVE-2020-3452,cve20203452/main.py,81ba4508e2a1c790e07316970c4df2a6cd99cee5,CVE-2020-3452
 805701801,Cappricio-Securities/CVE-2020-3452,cve20203452/includes/scan.py,aad0b9a5b867ffbbc58abab7bfc833708fc760aa,CVE-2020-3452
 805701801,Cappricio-Securities/CVE-2020-3452,README.md,b323b7d1343c19eef5a578de5f41d9973655ddb3,CVE-2020-3452
-805701801,Cappricio-Securities/CVE-2020-3452,cve20203452/utils/const.py,c45c8a4a119b4cc1c2b6f9cde4baa48a9ebd85ac,CVE-2020-3452
+805701801,Cappricio-Securities/CVE-2020-3452,cve20203452/utils/const.py,d523a086619e19f74953652abfd29a8035290ffc,CVE-2020-3452
 805701801,Cappricio-Securities/CVE-2020-3452,_GITHUB_REPO_METADATA_,,CVE-2020-3452
