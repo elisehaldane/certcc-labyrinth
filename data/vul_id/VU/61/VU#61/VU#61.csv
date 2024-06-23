@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#61,1.00000000,https://github.com/Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,818751248
 VU#61,1.00000000,https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,792336956
 VU#61,1.00000000,https://github.com/GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,786240611
 VU#61,1.00000000,https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,771575344
@@ -277,6 +278,7 @@ VU#61,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#61,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#61,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#61,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#61,0.00990099,https://github.com/chress0/FiveM-External-Cheat-KeyAuth-System,chress0/FiveM-External-Cheat-KeyAuth-System,818766943
 VU#61,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#61,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#61,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
@@ -441,6 +443,6 @@ VU#61,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploi
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
-VU#61,0.00000939,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+VU#61,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#61,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#61,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/Simplessk/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,Simplessk/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,818735693
 VU#29,1.00000000,https://github.com/Doxtas/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,Doxtas/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,818430448
 VU#29,1.00000000,https://github.com/vakulreddy/4.-Penetration-Testing-with-Kali-Linux-and-Metasploit,vakulreddy/4.-Penetration-Testing-with-Kali-Linux-and-Metasploit,816904715
 VU#29,1.00000000,https://github.com/0dayzombies/0dayzombies.github.io,0dayzombies/0dayzombies.github.io,808909229
@@ -31,6 +32,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/chress0/FiveM-External-Cheat,chress0/FiveM-External-Cheat,818767377
 VU#29,0.50000000,https://github.com/chrees0/FiveM-External-Cheat,chrees0/FiveM-External-Cheat,805560473
 VU#29,0.50000000,https://github.com/chres0/FiveM-External-Cheat,chres0/FiveM-External-Cheat,782440323
 VU#29,0.50000000,https://github.com/JaneMandy/CVE-2023-51467-Exploit,JaneMandy/CVE-2023-51467-Exploit,739631896
@@ -281,6 +283,7 @@ VU#29,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/ph
 VU#29,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#29,0.02564103,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
@@ -469,6 +472,7 @@ VU#29,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#29,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#29,0.00990099,https://github.com/chress0/FiveM-External-Cheat-KeyAuth-System,chress0/FiveM-External-Cheat-KeyAuth-System,818766943
 VU#29,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#29,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#29,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
