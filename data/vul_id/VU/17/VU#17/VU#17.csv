@@ -124,11 +124,11 @@ VU#17,0.03703704,https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-
 VU#17,0.03703704,https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326,Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326,485823302
 VU#17,0.03703704,https://github.com/nanopathi/wpa_supplicant_8_CVE-2021-0326.,nanopathi/wpa_supplicant_8_CVE-2021-0326.,485818095
 VU#17,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
-VU#17,0.03703704,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#17,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#17,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#17,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#17,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
+VU#17,0.03333333,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#17,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#17,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#17,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
@@ -243,7 +243,7 @@ VU#17,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#17,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#17,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#17,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
-VU#17,0.00909091,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#17,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#17,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#17,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#17,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839

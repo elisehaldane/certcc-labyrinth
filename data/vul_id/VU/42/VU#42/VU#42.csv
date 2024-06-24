@@ -37,6 +37,7 @@ VU#42,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Repre
 VU#42,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-21839,612534596
 VU#42,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#42,0.10000000,https://github.com/harutomo-jp/Binary-Exploitation,harutomo-jp/Binary-Exploitation,789525643
+VU#42,0.10000000,https://github.com/pr1or1tyQ/nightmare,pr1or1tyQ/nightmare,691645490
 VU#42,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#42,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
 VU#42,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
@@ -213,8 +214,8 @@ VU#42,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#42,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#42,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#42,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
-VU#42,0.00909091,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#42,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
+VU#42,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#42,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#42,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#42,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
