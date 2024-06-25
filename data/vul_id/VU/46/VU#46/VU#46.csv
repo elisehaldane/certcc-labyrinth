@@ -77,6 +77,7 @@ VU#46,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomai
 VU#46,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#46,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Example-jndiExploit-,438070803
 VU#46,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
+VU#46,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#46,0.05263158,https://github.com/GabrieleSerussi/Group-Convolutional-Neural-Networks,GabrieleSerussi/Group-Convolutional-Neural-Networks,787546208
 VU#46,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#46,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
@@ -97,6 +98,7 @@ VU#46,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-
 VU#46,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#46,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#46,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#46,0.03448276,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#46,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#46,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#46,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
@@ -375,7 +377,7 @@ VU#46,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#46,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#46,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#46,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#46,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#46,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#46,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#46,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#46,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -94,6 +94,7 @@ VU#10,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Exa
 VU#10,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#10,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#10,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
+VU#10,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#10,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#10,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
 VU#10,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
@@ -113,7 +114,6 @@ VU#10,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2022-45934,nidhi7
 VU#10,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
 VU#10,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405,nidhi7598/linux-3.0.35_CVE-2018-13405,563680842
 VU#10,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
-VU#10,0.03846154,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#10,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#10,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#10,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
@@ -441,7 +441,7 @@ VU#10,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#10,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#10,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#10,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#10,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#10,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

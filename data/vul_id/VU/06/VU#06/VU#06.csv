@@ -10,7 +10,6 @@ VU#06,0.33333333,https://github.com/John-Ghaly88/Ethical_Hacking_and_Penetration
 VU#06,0.25000000,https://github.com/huyql109/Kernel-exploitation,huyql109/Kernel-exploitation,527288721
 VU#06,0.25000000,https://github.com/caiquebaracho/CVE-2021-44228,caiquebaracho/CVE-2021-44228,494091356
 VU#06,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
-VU#06,0.20000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#06,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#06,0.20000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
 VU#06,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
@@ -29,6 +28,7 @@ VU#06,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training
 VU#06,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
 VU#06,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#06,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
+VU#06,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#06,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#06,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#06,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
@@ -343,7 +343,7 @@ VU#06,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#06,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#06,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#06,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#06,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#06,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#06,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#06,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

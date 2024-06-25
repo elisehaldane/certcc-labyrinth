@@ -81,6 +81,7 @@ VU#20,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Exa
 VU#20,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#20,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
 VU#20,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
+VU#20,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#20,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
 VU#20,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#20,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
@@ -103,7 +104,6 @@ VU#20,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,4188
 VU#20,0.04166667,https://github.com/c0d3cr4f73r/MS17-010_CVE-2017-0143,c0d3cr4f73r/MS17-010_CVE-2017-0143,384203070
 VU#20,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#20,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
-VU#20,0.03846154,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#20,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#20,0.03703704,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
 VU#20,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
@@ -401,7 +401,7 @@ VU#20,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#20,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#20,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#20,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#20,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#20,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

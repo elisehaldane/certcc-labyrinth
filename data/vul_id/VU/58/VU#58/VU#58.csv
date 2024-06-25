@@ -93,6 +93,7 @@ VU#58,0.05882353,https://github.com/hardenedvault/ved,hardenedvault/ved,50412470
 VU#58,0.05882353,https://github.com/hardenedvault/ved,hardenedvault/ved,504093397
 VU#58,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
 VU#58,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
+VU#58,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#58,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#58,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#58,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelude-in-C,539674213
@@ -118,7 +119,6 @@ VU#58,0.04166667,https://github.com/c0d3cr4f73r/MS17-010_CVE-2017-0143,c0d3cr4f7
 VU#58,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#58,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#58,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
-VU#58,0.03846154,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#58,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
 VU#58,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#58,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
@@ -405,7 +405,7 @@ VU#58,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#58,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#58,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#58,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#58,0.00018843,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#58,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#58,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#58,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#58,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
