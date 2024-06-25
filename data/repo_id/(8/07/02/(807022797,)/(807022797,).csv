@@ -10,3 +10,4 @@ repo_id,repo_full_name,file,file_sha1,match
 807022797,Cappricio-Securities/CVE-2015-1635,cve20151635/includes/scan.py,e2cab7176415f73bbf27635079ea979b717b060e,CVE-2015-1635
 807022797,Cappricio-Securities/CVE-2015-1635,cve20151635/main.py,e97ba212b36b8c9ec196acabbc8a9f65f747ffed,CVE-2015-1635
 807022797,Cappricio-Securities/CVE-2015-1635,_GITHUB_REPO_METADATA_,,CVE-2015-1635
+807022797,Cappricio-Securities/CVE-2015-1635,_GITHUB_REPO_METADATA_,,CVE-2023-24044
