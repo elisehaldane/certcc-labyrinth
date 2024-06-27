@@ -86,6 +86,7 @@ VU#64,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Expl
 VU#64,0.07692308,https://github.com/EasyLocal/RbxExploitScripts,EasyLocal/RbxExploitScripts,609459462
 VU#64,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#64,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
+VU#64,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#64,0.07142857,https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container,MagpieRYL/CVE-2024-3094-backdoor-env-container,781419608
 VU#64,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#64,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
@@ -125,7 +126,6 @@ VU#64,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#64,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#64,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#64,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
-VU#64,0.03448276,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#64,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#64,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#64,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
@@ -198,6 +198,7 @@ VU#64,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#64,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#64,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 VU#64,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
+VU#64,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#64,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#64,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#64,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683

@@ -26,6 +26,7 @@ VU#46,0.33333333,https://github.com/9lyph/CVE-2022-29593,9lyph/CVE-2022-29593,46
 VU#46,0.33333333,https://github.com/solitarysp/Log4j-CVE-2021-44228,solitarysp/Log4j-CVE-2021-44228,447615580
 VU#46,0.33333333,https://github.com/DiCanio/CVE-2021-44228-docker-example,DiCanio/CVE-2021-44228-docker-example,437518939
 VU#46,0.33333333,https://github.com/mvondracek/VR-MitR-C2-Bigscreen,mvondracek/VR-MitR-C2-Bigscreen,145730787
+VU#46,0.25000000,https://github.com/truonghuuphuc/CVE-2024-6028-Poc,truonghuuphuc/CVE-2024-6028-Poc,819950639
 VU#46,0.25000000,https://github.com/KaligulaArmblessed/Practice_Exploits,KaligulaArmblessed/Practice_Exploits,766659986
 VU#46,0.25000000,https://github.com/JMWgamesOfficial/JiMscript-Roblox-Executor-v1,JMWgamesOfficial/JiMscript-Roblox-Executor-v1,608301476
 VU#46,0.25000000,https://github.com/LingonJR/Giga-X,LingonJR/Giga-X,591934241
@@ -65,6 +66,7 @@ VU#46,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-
 VU#46,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#46,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#46,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
+VU#46,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#46,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#46,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
 VU#46,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
@@ -98,7 +100,6 @@ VU#46,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-
 VU#46,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#46,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#46,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
-VU#46,0.03448276,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#46,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#46,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#46,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
@@ -140,6 +141,7 @@ VU#46,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-
 VU#46,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#46,0.01818182,https://github.com/seantywork/0xploit,seantywork/0xploit,804410945
 VU#46,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
+VU#46,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#46,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#46,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#46,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#88,1.00000000,https://github.com/YosiSF/EinsteinDB,YosiSF/EinsteinDB,180245584
+VU#88,0.50000000,https://github.com/MKONE19/Carte_Exploitation_KONE,MKONE19/Carte_Exploitation_KONE,820678760
 VU#88,0.50000000,https://github.com/TCP1P/Mobile-POC-Tester,TCP1P/Mobile-POC-Tester,813452633
 VU#88,0.50000000,https://github.com/okitha-vithanage/remote-vnc-exploit,okitha-vithanage/remote-vnc-exploit,745798650
 VU#88,0.50000000,https://github.com/bhushansalunke/VAPT_Metasploitable2,bhushansalunke/VAPT_Metasploitable2,736184076
@@ -21,6 +22,7 @@ VU#88,0.33333333,https://github.com/bobbyjameswilliams/Secret-Agent-PWA,bobbyjam
 VU#88,0.33333333,https://github.com/podsdev/ratExploiter,podsdev/ratExploiter,504743780
 VU#88,0.33333333,https://github.com/Mi9iNT/InitiationBabyloneJS,Mi9iNT/InitiationBabyloneJS,502667325
 VU#88,0.33333333,https://github.com/sakib570/CVE-2018-1263-Demo,sakib570/CVE-2018-1263-Demo,468735837
+VU#88,0.25000000,https://github.com/MKONE19/Carte_Exploitation-KONE,MKONE19/Carte_Exploitation-KONE,818374991
 VU#88,0.25000000,https://github.com/Tris0n/CVE-2023-32571-POC,Tris0n/CVE-2023-32571-POC,720307928
 VU#88,0.25000000,https://github.com/MXTHL3/exploitation-BD,MXTHL3/exploitation-BD,617464289
 VU#88,0.25000000,https://github.com/gotr00t0day/Gsec,gotr00t0day/Gsec,514873078
@@ -41,6 +43,7 @@ VU#88,0.16666667,https://github.com/Madhavaprasath23/Attentionexploitation,Madha
 VU#88,0.16666667,https://github.com/Evan-Zhangyf/CVE-2023-45158,Evan-Zhangyf/CVE-2023-45158,714422608
 VU#88,0.16666667,https://github.com/JasonK145/GameProject_01,JasonK145/GameProject_01,672271649
 VU#88,0.16666667,https://github.com/datackmy/FallingSkies-CVE-2023-35885,datackmy/FallingSkies-CVE-2023-35885,651002237
+VU#88,0.14285714,https://github.com/mawg0ud/InvisMalware,mawg0ud/InvisMalware,810126133
 VU#88,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,581851984
 VU#88,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
 VU#88,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810

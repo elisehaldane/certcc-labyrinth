@@ -64,6 +64,7 @@ VU#01,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-2162
 VU#01,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#01,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#01,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#01,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#01,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-3094,780415912
 VU#01,0.06666667,https://github.com/WinstonShine/f23-binary-exploitation,WinstonShine/f23-binary-exploitation,697567791
 VU#01,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
@@ -100,7 +101,6 @@ VU#01,0.04000000,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,ala
 VU#01,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
 VU#01,0.03703704,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
 VU#01,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
-VU#01,0.03448276,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#01,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#01,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#01,0.03448276,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
@@ -211,6 +211,7 @@ VU#01,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#01,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#01,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#01,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
+VU#01,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#01,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#01,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#01,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086

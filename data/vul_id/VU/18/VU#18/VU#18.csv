@@ -155,6 +155,7 @@ VU#18,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Expl
 VU#18,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#18,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#18,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
+VU#18,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#18,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#18,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#18,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
@@ -190,7 +191,6 @@ VU#18,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,73
 VU#18,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#18,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#18,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
-VU#18,0.03448276,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#18,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#18,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
 VU#18,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
@@ -292,6 +292,7 @@ VU#18,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2
 VU#18,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#18,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#18,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
+VU#18,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#18,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#18,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#18,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
