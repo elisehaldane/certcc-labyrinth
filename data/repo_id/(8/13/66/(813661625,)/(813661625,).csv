@@ -13,4 +13,5 @@ repo_id,repo_full_name,file,file_sha1,match
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Apache OFBiz/Apache_OFBiz_exp.py,cb674eebf6b793f4df519bb8da1b7c4c9a46899b,CVE-2024-36104
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Google Analytics/GA_Open_redirect_CVE-2024-0250.py,e4b9a77a90d268c13cd68c7eeffe0d42204439df,CVE-2024-0250
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,SolarWinds/SolarWinds_Ser-U_Directory-traversal_CVE-2024-28995.py,e98b923a9428b38064ed77cbe260d5c04350a3e4,CVE-2024-28995
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Dokan Pro插件/DokanPro_adminphp.sql-CVE-2024-3922.py,ed369a215c17fc4af0cbfec135b802c8387f7070,CVE-2024-3922
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,WyreStorm Apollo VX20/WAV_infoleak_CVE-2024-25735.py,ed857416c5c526f308d516ff0f52f76d7a02131e,CVE-2024-25735
