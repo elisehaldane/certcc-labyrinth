@@ -1,7 +1,7 @@
 
 # Summary for results/2024/06/26
     
-176 records found after deduplication
+177 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -69,6 +69,7 @@
 | Safe3/CVS | Powerful and customizable vulnerability scanner based on VDSL, which can replace Nessus or Nuclei, etc. 万象通用漏洞扫描器，支持强大的PoC脚本语言、先进易用的PoC开发和调试IDE、现代化无需等待OOB服务器。可替代Nessus和Nuclei等漏洞扫描产品。 | https://github.com/Safe3/CVS | ['vulnerability poc'] | 1 | 2024-06-26 13:03:08+00:00 | 30517 | 73 | | 8 | [] |
 | pettaa123/CMH-Library | A collection of VI's to exploit the channeled message handler pattern | https://github.com/pettaa123/CMH-Library | ['exploit'] | 1 | 2024-06-26 14:52:22+00:00 | 189 | 0 | LabVIEW | 0 | [] |
 | xaitax/SploitScan | SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated exploits. | https://github.com/xaitax/SploitScan | ['exploit', 'sploit'] | 2 | 2024-06-26 10:45:50+00:00 | 119 | 816 | Python | 105 | [] |
+| uumair327/guardiancare | A Flutter-based cross-platform mobile application that provides resources, support to combat online sexual exploitation of children. | https://github.com/uumair327/guardiancare | ['exploit'] | 1 | 2024-06-26 18:28:28+00:00 | 85503 | 2 | Dart | 3 | [] |
 | philrice-rcef/rcef_ws2024 | Rice Seed monitoring system wet season 2024 | https://github.com/philrice-rcef/rcef_ws2024 | ['rce'] | 1 | 2024-06-26 01:57:13+00:00 | 128891 | 0 | JavaScript | 0 | [] |
 | wolfhechel/sidor | A feed reader exploiting and overusing the scroll pattern, best on mobile. | https://github.com/wolfhechel/sidor | ['exploit'] | 1 | 2024-06-26 12:34:36+00:00 | 156 | 0 | Svelte | 0 | [] |
 | cve-sandbox-bot/cve_sandbox | A curated list of CVEs, respective PoC and a docker/vm to test it. | https://github.com/cve-sandbox-bot/cve_sandbox | ['cve poc'] | 1 | 2024-06-26 23:12:40+00:00 | 68587 | 0 | CSS | 0 | [] |
@@ -101,7 +102,7 @@
 | Answerzzzy/POC_EXP_Python_Vulnerability_scanning | POC | https://github.com/Answerzzzy/POC_EXP_Python_Vulnerability_scanning | ['vuln poc', 'vulnerability poc'] | 2 | 2024-06-26 15:32:18+00:00 | 130 | 2 | Python | 1 | [] |
 | Sarah0x7e/Vulnerabilities-reproduce-python-scripts | poc &exp | https://github.com/Sarah0x7e/Vulnerabilities-reproduce-python-scripts | ['vuln poc'] | 1 | 2024-06-26 05:18:05+00:00 | 211 | 0 | Python | 0 | [] |
 | priskish/Roblox-Exploit-API | A C# Roblox Exploiting API for the UWP distribution of the game. Its basically WeAreDevs API but it bypasses Byfron. - game-hax/Roblox-Exploit-API | https://github.com/priskish/Roblox-Exploit-API | ['exploit'] | 1 | 2024-06-26 04:58:30+00:00 | 103 | 1 | C# | 0 | [] |
-| karkis3c/cves | SolarWinds Serv-U Directory Traversal Vulnerability (CVE-2024-28995) POC | https://github.com/karkis3c/cves | ['cve poc', 'vulnerability poc'] | 2 | 2024-06-26 17:29:53+00:00 | 45 | 0 | | 1 | ['CVE-2024-28995'] |
+| karkis3c/cves | SolarWinds Serv-U Directory Traversal Vulnerability (CVE-2024-28995) POC | https://github.com/karkis3c/cves | ['cve poc', 'vulnerability poc'] | 2 | 2024-06-26 16:50:58+00:00 | 40 | 0 | | 1 | ['CVE-2024-28995'] |
 | piergo98/OCSLC | This Python class addresses Switched Linear Systems optimization exploiting matrix exponential computation and optimizing over controls and switching instants at the same time. | https://github.com/piergo98/OCSLC | ['exploit'] | 1 | 2024-06-26 15:22:46+00:00 | 29 | 1 | Python | 0 | [] |
 | LiamBlue2014/OceanHub | Roblox OP Exploit | https://github.com/LiamBlue2014/OceanHub | ['exploit'] | 1 | 2024-06-26 14:11:54+00:00 | 36 | 0 | | 0 | [] |
 | morgenzhtern/UI-Libs | My UI-LIbraries for Roblox Exploiting. | https://github.com/morgenzhtern/UI-Libs | ['exploit'] | 1 | 2024-06-26 20:40:31+00:00 | 106 | 0 | Lua | 0 | [] |
@@ -162,7 +163,7 @@
 | sudeepbhagat11/Remote-Code-Execution-System | None | https://github.com/sudeepbhagat11/Remote-Code-Execution-System | ['remote code execution'] | 1 | 2024-06-26 10:12:31+00:00 | 48 | 0 | TypeScript | 0 | [] |
 | Praison001/CVE-2024-28995-SolarWinds-Serv-U | Exploit for CVE-2024-28995 affecting SolarWinds Serv-U 15.4.2 HF 1 and previous versions | https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-06-26 11:54:54+00:00 | 10 | 0 | Python | 1 | ['CVE-2024-28995'] |
 | coolhango/BEEF-Bulk-Email-Exploitation-Framework | This Python script is designed to flood a target's email inbox with spam emails. It leverages SMTP (Simple Mail Transfer Protocol) to send multiple emails to the specified target email address. The script utilizes Python's smtplib library for handling emai | https://github.com/coolhango/BEEF-Bulk-Email-Exploitation-Framework | ['exploit'] | 1 | 2024-06-26 11:18:39+00:00 | 121 | 0 | Jupyter Notebook | 0 | [] |
-| ex-arny/CVE-2024-34102-RCE | CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce | https://github.com/ex-arny/CVE-2024-34102-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2024-06-26 17:07:52+00:00 | 3 | 0 | | 0 | ['CVE-2024-34102'] |
+| ex-arny/CVE-2024-34102-RCE | CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce | https://github.com/ex-arny/CVE-2024-34102-RCE | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2024-06-26 17:07:52+00:00 | 5 | 0 | | 0 | ['CVE-2024-34102'] |
 | Machux133/Cr0codilShellcodeExecutor | None | https://github.com/Machux133/Cr0codilShellcodeExecutor | ['shellcode'] | 1 | 2024-06-26 12:43:52+00:00 | 8 | 0 | C++ | 0 | [] |
 | Owaiz13/Shellcode | None | https://github.com/Owaiz13/Shellcode | ['shellcode'] | 1 | 2024-06-26 13:22:51+00:00 | 0 | 0 | | 0 | [] |
 | PahDaKor/RCE-TPmoyennes | None | https://github.com/PahDaKor/RCE-TPmoyennes | ['rce'] | 1 | 2024-06-26 14:49:28+00:00 | 24 | 0 | C# | 0 | [] |
