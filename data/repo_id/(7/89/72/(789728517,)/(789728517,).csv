@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-789728517,Nikhil143hub/exploitlauncherpython,exploitlauncherpython.py,421779eb5eaf23c6a0fbfdb5613d336ef0ab8b35,CVE-2020-1234
-789728517,Nikhil143hub/exploitlauncherpython,exploitlauncherpython.py,421779eb5eaf23c6a0fbfdb5613d336ef0ab8b35,MS17-010
-789728517,Nikhil143hub/exploitlauncherpython,README.md,adcae3a4adaf634caf0b7c17c9a228adff02665d,CVE-2020-1234
-789728517,Nikhil143hub/exploitlauncherpython,README.md,adcae3a4adaf634caf0b7c17c9a228adff02665d,MS17-010
+789728517,sftp-nik/exploitlauncherpython,launch.py,421779eb5eaf23c6a0fbfdb5613d336ef0ab8b35,CVE-2020-1234
+789728517,sftp-nik/exploitlauncherpython,launch.py,421779eb5eaf23c6a0fbfdb5613d336ef0ab8b35,MS17-010
+789728517,sftp-nik/exploitlauncherpython,README.md,c933dee75efbdafb0f2ebe7cb38a644ae8e9a7f5,CVE-2020-1234
+789728517,sftp-nik/exploitlauncherpython,README.md,c933dee75efbdafb0f2ebe7cb38a644ae8e9a7f5,MS17-010
