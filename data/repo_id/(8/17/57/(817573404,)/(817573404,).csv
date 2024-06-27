@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+817573404,Secf1ve/vuln_rce_script,lib/Zabbix/Zabbix_CVE_2016_10134.py,0a48dd0e781542556118d32053cdecd17c4f356e,CVE-2016-10134
