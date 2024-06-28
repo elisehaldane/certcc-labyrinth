@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-9HC7-6W9R-WJ94,0.00000937,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-9HC7-6W9R-WJ94,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
