@@ -119,6 +119,7 @@ MS08-067,0.25000000,https://github.com/GuardianRG/awesome-windows-exploitation,G
 MS08-067,0.25000000,https://github.com/sensepost/autoDANE,sensepost/autoDANE,43594993
 MS08-067,0.25000000,https://github.com/ozuma/Metasploit_MS08-067,ozuma/Metasploit_MS08-067,38795662
 MS08-067,0.25000000,https://github.com/tntC4stl3/POC,tntC4stl3/POC,17425373
+MS08-067,0.20000000,https://github.com/slytechroot/metasploit,slytechroot/metasploit,821235213
 MS08-067,0.20000000,https://github.com/SujeetBci786/OSCP-JOURNEY,SujeetBci786/OSCP-JOURNEY,758784493
 MS08-067,0.20000000,https://github.com/NickSanzotta/scanman,NickSanzotta/scanman,368895563
 MS08-067,0.20000000,https://github.com/uraninite/win32-stuxnet,uraninite/win32-stuxnet,348168041
@@ -615,9 +616,9 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000939,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-067,0.00000937,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000938,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 MS08-067,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+MS08-067,0.00000936,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
