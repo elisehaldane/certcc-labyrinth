@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#01,1.00000000,https://github.com/PsiLupan/SSBM-Memory-Card-Loader,PsiLupan/SSBM-Memory-Card-Loader,33613469
+VU#01,0.50000000,https://github.com/yoongi43/music_audio_enhancement_conformer,yoongi43/music_audio_enhancement_conformer,822066747
 VU#01,0.50000000,https://github.com/C-anwoy/Cross-Task-ICL,C-anwoy/Cross-Task-ICL,805709667
 VU#01,0.50000000,https://github.com/v3gahax/CVE-2023-33466,v3gahax/CVE-2023-33466,781710965
 VU#01,0.50000000,https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY,sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY,614479263
@@ -383,6 +384,7 @@ VU#01,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Ba
 VU#01,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#01,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#01,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
+VU#01,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
 VU#01,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 VU#01,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#01,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
@@ -425,6 +427,7 @@ VU#01,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,Giggio
 VU#01,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#01,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#01,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
+VU#01,0.00164204,https://github.com/LLMCI/LLM_Command_Injection,LLMCI/LLM_Command_Injection,809102376
 VU#01,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#01,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#01,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582

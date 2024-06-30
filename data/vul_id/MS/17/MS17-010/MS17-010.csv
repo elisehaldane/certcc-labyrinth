@@ -230,6 +230,7 @@ MS17-010,0.50000000,https://github.com/D4Vinci/One-Lin3r,D4Vinci/One-Lin3r,11746
 MS17-010,0.50000000,https://github.com/actuated/msf-exploit-loop,actuated/msf-exploit-loop,103285349
 MS17-010,0.50000000,https://github.com/Dviros/Excalibur,Dviros/Excalibur,100004703
 MS17-010,0.50000000,https://github.com/kn0/battery,kn0/battery,31389422
+MS17-010,0.33333333,https://github.com/mchklt/PFE,mchklt/PFE,812644339
 MS17-010,0.33333333,https://github.com/mofaal1/eternalblue-exploitation,mofaal1/eternalblue-exploitation,812266535
 MS17-010,0.33333333,https://github.com/ITduniya/exploits,ITduniya/exploits,778237159
 MS17-010,0.33333333,https://github.com/bhavyagaur99/host-hardening-pentesting,bhavyagaur99/host-hardening-pentesting,659398102
@@ -496,6 +497,7 @@ MS17-010,0.00448430,https://github.com/fortify24x7/exploit-database-papers,forti
 MS17-010,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
 MS17-010,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS17-010,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
+MS17-010,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
 MS17-010,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
 MS17-010,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
 MS17-010,0.00378788,https://github.com/njahrckstr/Windows_Kernel_Sploit_List,njahrckstr/Windows_Kernel_Sploit_List,140624271
@@ -684,8 +686,8 @@ MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurp
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00016770,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS17-010,0.00014501,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00016764,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00014497,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

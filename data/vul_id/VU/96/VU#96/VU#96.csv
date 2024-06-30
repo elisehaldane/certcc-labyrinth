@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#96,1.00000000,https://github.com/ScriptTestAdvanced/NiggaSploit,ScriptTestAdvanced/NiggaSploit,817623011
 VU#96,1.00000000,https://github.com/Golags22/impactforsuccessfoundations,Golags22/impactforsuccessfoundations,770677934
 VU#96,1.00000000,https://github.com/ScottAlt-NSU/TypeRacer-bot-PoC,ScottAlt-NSU/TypeRacer-bot-PoC,754895601
 VU#96,1.00000000,https://github.com/User1337322/ExploitDatabaseParser,User1337322/ExploitDatabaseParser,732145913
@@ -489,6 +490,7 @@ VU#96,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,Giggio
 VU#96,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#96,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#96,0.00164745,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
+VU#96,0.00164204,https://github.com/LLMCI/LLM_Command_Injection,LLMCI/LLM_Command_Injection,809102376
 VU#96,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#96,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#96,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
