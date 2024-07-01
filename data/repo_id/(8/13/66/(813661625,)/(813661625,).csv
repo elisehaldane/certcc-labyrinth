@@ -15,3 +15,4 @@ repo_id,repo_full_name,file,file_sha1,match
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,SolarWinds/SolarWinds_Ser-U_Directory-traversal_CVE-2024-28995.py,e98b923a9428b38064ed77cbe260d5c04350a3e4,CVE-2024-28995
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Dokan Pro插件/DokanPro_adminphp.sql-CVE-2024-3922.py,ed369a215c17fc4af0cbfec135b802c8387f7070,CVE-2024-3922
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,WyreStorm Apollo VX20/WAV_infoleak_CVE-2024-25735.py,ed857416c5c526f308d516ff0f52f76d7a02131e,CVE-2024-25735
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,WordPress Quiz Maker插件/WPQuizMaker_sql-CVE-2024-6028.py,f05a2076d5e91d41cf792e30db268c30ff5b2c7e,CVE-2024-6028
