@@ -143,7 +143,6 @@ VU#01,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,71793523
 VU#01,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#01,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#01,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
-VU#01,0.02083333,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
 VU#01,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 VU#01,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
 VU#01,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
@@ -210,6 +209,7 @@ VU#01,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarni
 VU#01,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#01,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#01,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
+VU#01,0.01851852,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
 VU#01,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#01,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
 VU#01,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
@@ -478,7 +478,7 @@ VU#01,0.00019150,https://github.com/nu11secur1ty/metasploit-framework-nu11secur1
 VU#01,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metasploit-framework,739311126
 VU#01,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#01,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#01,0.00018839,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#01,0.00018836,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#01,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#01,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#01,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
