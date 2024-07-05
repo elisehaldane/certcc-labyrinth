@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#444,0.50000000,https://github.com/fmsampaio/vtm-17-ndp,fmsampaio/vtm-17-ndp,516107540
 VU#444,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
 VU#444,0.16666667,https://github.com/kaled-alshmrany/FuSeBMC,kaled-alshmrany/FuSeBMC,257922621
+VU#444,0.11111111,https://github.com/xzx482/CVE-2024-1086,xzx482/CVE-2024-1086,824093061
 VU#444,0.11111111,https://github.com/Notselwyn/CVE-2024-1086,Notselwyn/CVE-2024-1086,775151369
 VU#444,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#444,0.07692308,https://github.com/EasyLocal/RbxExploitScripts,EasyLocal/RbxExploitScripts,609459462
@@ -68,8 +69,8 @@ VU#444,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools
 VU#444,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#444,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#444,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
-VU#444,0.00224215,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#444,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
+VU#444,0.00222222,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#444,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#444,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#444,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
