@@ -11,6 +11,7 @@ repo_id,repo_full_name,file,file_sha1,match
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Apache OFBiz/Apache_OFBiz_poc.py,978320d003ddfc544dd0a4e890b70b3f8e772274,CVE-2024-36104
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,泛微E-Office/FWEO_Fup-CVE-2023-2523.py,bf7177ee676153dabe334eca29a8b6ed87f458d0,CVE-2023-2523
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,泛微E-Office/FWEO_Fup-CVE-2023-2648.py,c2b8ef5b1dc4e04b9b1acb5a4cc67c5ad4a1768e,CVE-2023-2648
+813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Geoserver/GeoServer_wfs_RCE_CVE-2024-36401.py,c71302192fa9943442918889a007589fb31dc1d3,CVE-2024-36401
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Apache OFBiz/Apache_OFBiz_exp.py,cb674eebf6b793f4df519bb8da1b7c4c9a46899b,CVE-2024-36104
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,Google Analytics/GA_Open_redirect_CVE-2024-0250.py,e4b9a77a90d268c13cd68c7eeffe0d42204439df,CVE-2024-0250
 813661625,Sarah0x7e/Vulnerabilities-reproduce-python-scripts,SolarWinds/SolarWinds_Ser-U_Directory-traversal_CVE-2024-28995.py,e98b923a9428b38064ed77cbe260d5c04350a3e4,CVE-2024-28995
