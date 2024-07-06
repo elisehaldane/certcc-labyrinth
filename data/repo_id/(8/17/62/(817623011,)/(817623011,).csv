@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-817623011,ScriptTestAdvanced/NiggaSploit,NiggaSploit v1.2.1.zip,ba26726238f91e33641dafe50d4353e4ed8be565,VU#58
+817623011,ScriptTestAdvanced/NiggaSploit,Functions Host.exe,3770bf8e17a1d712c9355cf3abb4f38cc273fc88,VU#83
+817623011,ScriptTestAdvanced/NiggaSploit,Functions Host.exe,3770bf8e17a1d712c9355cf3abb4f38cc273fc88,VU#94
