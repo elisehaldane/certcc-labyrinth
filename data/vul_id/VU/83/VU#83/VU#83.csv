@@ -21,6 +21,7 @@ VU#83,0.33333333,https://github.com/puckiestyle/JNDI-Exploit-Kit,puckiestyle/JND
 VU#83,0.33333333,https://github.com/Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,Zard-ethan/JNDI-Injection-Exploit-1.0-SNAPSHOT-all,439312167
 VU#83,0.33333333,https://github.com/dbgee/log4j2_rce,dbgee/log4j2_rce,436839306
 VU#83,0.33333333,https://github.com/dragonlost/nafabox_rce_2021,dragonlost/nafabox_rce_2021,428990979
+VU#83,0.25000000,https://github.com/wangjing4research/LDL-FLC,wangjing4research/LDL-FLC,806442747
 VU#83,0.25000000,https://github.com/DaintyJet/VChat_KSTET_DLL,DaintyJet/VChat_KSTET_DLL,740207160
 VU#83,0.25000000,https://github.com/Slackaduts/Deimos-Wizard101,Slackaduts/Deimos-Wizard101,507163373
 VU#83,0.25000000,https://github.com/lumalav/CAP6135_FinalProject,lumalav/CAP6135_FinalProject,475988297
@@ -355,6 +356,7 @@ VU#83,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,n
 VU#83,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,616793748
 VU#83,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
 VU#83,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
+VU#83,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#83,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#83,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
 VU#83,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187

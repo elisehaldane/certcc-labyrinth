@@ -12,12 +12,12 @@ VU#48,0.33333333,https://github.com/qaardvark/report,qaardvark/report,594058376
 VU#48,0.33333333,https://github.com/NoftN/Asakura-Z,NoftN/Asakura-Z,484708199
 VU#48,0.33333333,https://github.com/karma9874/AndroRAT,karma9874/AndroRAT,249151155
 VU#48,0.33333333,https://github.com/BelalAbdelWahab/OSCE-Exploit,BelalAbdelWahab/OSCE-Exploit,242304972
-VU#48,0.25000000,https://github.com/MaiWittawat/RCE,MaiWittawat/RCE,816437584
 VU#48,0.25000000,https://github.com/MartaAndronic/PolyLUT,MartaAndronic/PolyLUT,677001588
 VU#48,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#48,0.25000000,https://github.com/cl-lw/roblox-exploit,cl-lw/roblox-exploit,609281490
 VU#48,0.25000000,https://github.com/iloveflag/Fast-CVE-2022-22965,iloveflag/Fast-CVE-2022-22965,563378340
 VU#48,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
+VU#48,0.20000000,https://github.com/MaiWittawat/RCE,MaiWittawat/RCE,816437584
 VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
 VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
 VU#48,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
@@ -132,6 +132,7 @@ VU#48,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#48,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#48,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#48,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#48,0.02272727,https://github.com/Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,825606080
 VU#48,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#48,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#48,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
@@ -309,6 +310,7 @@ VU#48,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,n
 VU#48,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,616793748
 VU#48,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
 VU#48,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
+VU#48,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#48,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#48,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
 VU#48,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
