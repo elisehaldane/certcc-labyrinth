@@ -36,6 +36,7 @@ VU#96,0.50000000,https://github.com/dieterich-lab/PETGUI,dieterich-lab/PETGUI,57
 VU#96,0.50000000,https://github.com/Malwareman007/CVE-2022-36537,Malwareman007/CVE-2022-36537,576308362
 VU#96,0.50000000,https://github.com/agnihackers/CVE-2022-36537-EXPLOIT,agnihackers/CVE-2022-36537-EXPLOIT,576253309
 VU#96,0.50000000,https://github.com/p-add/SyntaxUI,p-add/SyntaxUI,565057947
+VU#96,0.50000000,https://github.com/kamalmjt/emerging-attackers,kamalmjt/emerging-attackers,563108087
 VU#96,0.50000000,https://github.com/Tardigrade97/0dayManage,Tardigrade97/0dayManage,559936259
 VU#96,0.50000000,https://github.com/shatternox/undisclosed_revenge,shatternox/undisclosed_revenge,538340960
 VU#96,0.50000000,https://github.com/ExploitSWJTU/exploitswjtu.github.io,ExploitSWJTU/exploitswjtu.github.io,535620357
@@ -123,6 +124,7 @@ VU#96,0.06666667,https://github.com/yvespollah/Resouce-Exploitaion-Computer-Depa
 VU#96,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#96,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#96,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
+VU#96,0.06250000,https://github.com/1-5Pool/JMessage-Security-Project,1-5Pool/JMessage-Security-Project,825877316
 VU#96,0.06250000,https://github.com/MzHmO/Sploit2Me,MzHmO/Sploit2Me,797925665
 VU#96,0.06250000,https://github.com/WasiG-619/Vulnerable-AD-Assessment-Exploitation,WasiG-619/Vulnerable-AD-Assessment-Exploitation,786261173
 VU#96,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
@@ -514,7 +516,7 @@ VU#96,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#96,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#96,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#96,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#96,0.00018832,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#96,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#96,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

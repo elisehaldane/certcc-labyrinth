@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-19-121,0.20000000,https://github.com/j00sean/CVE-2022-44666,j00sean/CVE-2022-44666,602207436
+ZDI-19-121,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/o-wicked-Exploits-out-there,826056433
 ZDI-19-121,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZDI-19-121,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 ZDI-19-121,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
