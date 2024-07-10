@@ -14,6 +14,7 @@ repo_id,repo_full_name,file,file_sha1,match
 278134003,hi-unc1e/POC-T,script/phpmyadmin-auth-rce.py,62f106ea343c0483dd52d1b30c3b522dbd57b756,CVE-2016-5734
 278134003,hi-unc1e/POC-T,script/unauth/jetspeed-rest-unauth.py,6304055dc51010ff500250092216c16434c7c721,CVE-2016-0710
 278134003,hi-unc1e/POC-T,script/activemq-upload.py,66392e9afb5c360d8464c3f5017fa106950785c9,CVE-2015-1830
+278134003,hi-unc1e/POC-T,script/php_cgi_rce_CVE-2024-4577.py,88b2ea7e0e4a3c34b835460a04eada9eb261a7f6,CVE-2024-4577
 278134003,hi-unc1e/POC-T,script/Zabbix_SAML_SSO_Authentication_BypassCVE-2022-23131.py,a64b82a5f9e21341d5445f18cb6fede147a4e6c5,CVE-2022-23131
 278134003,hi-unc1e/POC-T,script/solr-rce-poc.py,b1fc703146d84e0627caec91f2ba6663438b50a0,CVE-2019-0193
 278134003,hi-unc1e/POC-T,script/pocsuite3/pocsuite3/pocs/Zabbix_0_UNAUTHORIZED_ACCESS_CVE-2022-23134.py,c0417f17259970007322cb5a22b3116755783e82,CVE-2022-23134
