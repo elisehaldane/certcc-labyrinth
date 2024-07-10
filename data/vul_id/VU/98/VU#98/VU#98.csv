@@ -272,6 +272,7 @@ VU#98,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,B
 VU#98,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#98,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#98,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
+VU#98,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#98,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#98,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#98,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
@@ -316,7 +317,6 @@ VU#98,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#98,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#98,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#98,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
-VU#98,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#98,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#98,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
 VU#98,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597

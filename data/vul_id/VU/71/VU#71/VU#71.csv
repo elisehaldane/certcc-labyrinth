@@ -89,6 +89,7 @@ VU#71,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2022-45934,nidhi7
 VU#71,0.04000000,https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220,Trinadh465/linux-3.0.35_CVE-2019-10220,578462667
 VU#71,0.04000000,https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405,nidhi7598/linux-3.0.35_CVE-2018-13405,563680842
 VU#71,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
+VU#71,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#71,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#71,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#71,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
@@ -283,6 +284,7 @@ VU#71,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaul
 VU#71,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#71,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#71,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#71,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#71,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#71,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#71,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -317,7 +319,6 @@ VU#71,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#71,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#71,0.00714286,https://github.com/ricepoutine/cmput676,ricepoutine/cmput676,563162346
 VU#71,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/Subsurface-Resource-Analog,728353574
-VU#71,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#71,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#71,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#71,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517

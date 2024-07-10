@@ -97,6 +97,7 @@ VU#40,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinu
 VU#40,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#40,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#40,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
+VU#40,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#40,0.03571429,https://github.com/pxcs/CVE-29343-Sysmon-list,pxcs/CVE-29343-Sysmon-list,785288758
 VU#40,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#40,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
@@ -287,6 +288,7 @@ VU#40,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bi
 VU#40,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#40,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#40,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
+VU#40,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#40,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#40,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#40,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -331,7 +333,6 @@ VU#40,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,
 VU#40,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#40,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#40,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/Subsurface-Resource-Analog,728353574
-VU#40,0.00704225,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#40,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#40,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
 VU#40,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
