@@ -146,7 +146,7 @@ repo_id,repo_full_name,file,file_sha1,match
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2023-009.md,2ed4366d07e5ac2aed7be4365b54dfdbfd7c2d72,CVE-2023-25674
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-053.md,2f854d6da9f9edb4e2bba45e09222abdc3e24110,CVE-2021-41197
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-151.md,3054853cfe54d5d61b72a758dbcc2da29443a212,CVE-2022-41888
-809102376,LLMCI/LLM_Command_Injection,python_projects/scikit-learn-main/sklearn/svm/tests/test_svm.py,3054aae8abbb5d5d9325ebeb189a774cb4570a74,CVE-2020-28975
+809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/tests_test_svm.py,3054aae8abbb5d5d9325ebeb189a774cb4570a74,CVE-2020-28975
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/third_party/xla/xla/tests/array_elementwise_ops_test.cc,3087adc82b6bbc76bc0500046f24f68cc2e61e7a,VU#32
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-090.md,31847dff44a710589f1ecd69efe27aa9d9eaa485,CVE-2022-35940
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-080.md,31a38b1d33e4ed5d89a3541a8927062bf3ff8f7b,CVE-2022-29211
@@ -391,7 +391,7 @@ repo_id,repo_full_name,file,file_sha1,match
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-003.md,98cfe3576b79f530d0cc252ed340b8aa4c05bda6,CVE-2022-21726
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-005.md,98e3faad2725ac932e0de93cfbc8dab3894914b9,CVE-2022-21730
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-131.md,98e8fb0ad503c28773fbfaf50cb69a5b20d113d5,CVE-2022-36005
-809102376,LLMCI/LLM_Command_Injection,python_projects/django-main/django/utils/encoding.py,98f705487a8ce021195edc92db15424830b0ee2b,CVE-2019-14235
+809102376,LLMCI/LLM_Command_Injection,dataset/django/utils_encoding.py,98f705487a8ce021195edc92db15424830b0ee2b,CVE-2019-14235
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2023-017.md,9a5bc15662bfde1664c198b17f4efd44a6826a8a,CVE-2023-25670
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-073.md,9b4c9f877af70c902ad25d6bdd17df9932cd063a,CVE-2022-29205
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-129.md,9b8cfec48e6726acaf4023f339e83b91bce82dac,CVE-2022-35991
@@ -421,7 +421,7 @@ repo_id,repo_full_name,file,file_sha1,match
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-015.md,a23de49f318bc5b0261cadbee98f90345416232d,CVE-2022-23569
 809102376,LLMCI/LLM_Command_Injection,python_projects/django-main/docs/releases/2.2.25.txt,a24b76172f4d47b4b2915a4360ade9981a4fac16,CVE-2021-44420
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/third_party/xla/xla/tests/scalar_computations_test.cc,a32ee70e3c147441d22f4a6fcc6c0d37f97578d2,VU#32
-809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/sphinxext_sphinx_issues.py,a3b96d69ca8d2c9bfb0bd9f92a6e03cf750faa7c,CVE-2018-17175
+809102376,LLMCI/LLM_Command_Injection,python_projects/scikit-learn-main/doc/sphinxext/sphinx_issues.py,a3b96d69ca8d2c9bfb0bd9f92a6e03cf750faa7c,CVE-2018-17175
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2021-185.md,a4a00a5692897419fe6126288e20cdb3d85e7776,CVE-2021-41205
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2021-075.md,a4eb3511f7e94abf361e6f43be1cfc6fce4ecc8f,CVE-2021-29587
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2018-005.md,a4ee30c6d38d9bc15e45cbc166b7f0fe8ba1e51e,CVE-2018-7577
@@ -452,7 +452,7 @@ repo_id,repo_full_name,file,file_sha1,match
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2021-087.md,ab046ac149873d60b339aab7621cd705ddda4b31,CVE-2021-29599
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-095.md,ab0c1d08572b044e9bfe3060901cbf953d0767d6,CVE-2022-35963
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2022-100.md,aba076791eab9ae5892296beb18470dc915a1402,CVE-2022-35968
-809102376,LLMCI/LLM_Command_Injection,python_projects/scikit-learn-main/sklearn/svm/_base.py,abde502cca9a14b3254df929b15d9074b9499bf5,CVE-2020-28975
+809102376,LLMCI/LLM_Command_Injection,dataset/scikit-learn/svm__base.py,abde502cca9a14b3254df929b15d9074b9499bf5,CVE-2020-28975
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2020-009.md,ac8a9efce575b799a17c34e4a19034a6ce6841f7,CVE-2020-15207
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2021-169.md,ac9b6f4aa2eeb3c06b5487522998b63c84aaa5a4,CVE-2021-41223
 809102376,LLMCI/LLM_Command_Injection,python_projects/tensorflow-master/tensorflow/security/advisory/tfsa-2021-033.md,adac0edc1ec6675e9791d9d898c0cf57660339c6,CVE-2021-29545
