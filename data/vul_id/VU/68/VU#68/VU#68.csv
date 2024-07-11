@@ -100,7 +100,6 @@ VU#68,0.05263158,https://github.com/HaoyeTianCoder/Quatrain,HaoyeTianCoder/Quatr
 VU#68,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
 VU#68,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#68,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
-VU#68,0.05000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#68,0.04761905,https://github.com/left-nullspace/cointegration-exploration-python,left-nullspace/cointegration-exploration-python,818392043
 VU#68,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#68,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
@@ -108,6 +107,7 @@ VU#68,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellEx
 VU#68,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#68,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#68,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
+VU#68,0.04000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#68,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
 VU#68,0.03846154,https://github.com/MAWK0235/MinecraftLog4jAutoPwn,MAWK0235/MinecraftLog4jAutoPwn,758200190
 VU#68,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
@@ -403,7 +403,7 @@ VU#68,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#68,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#68,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#68,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#68,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00018822,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -56,6 +56,7 @@ VU#74,0.16666667,https://github.com/leobargiotti/News-Classifier,leobargiotti/Ne
 VU#74,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#74,0.16666667,https://github.com/Jennahacker/zenna_rat,Jennahacker/zenna_rat,530778241
 VU#74,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
+VU#74,0.14285714,https://github.com/W0r1d-Pr1nt/RCEmap,W0r1d-Pr1nt/RCEmap,767623521
 VU#74,0.14285714,https://github.com/ychistel/1nsi_systeme_exploitation,ychistel/1nsi_systeme_exploitation,741076284
 VU#74,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aidens-hub,660009763
 VU#74,0.12500000,https://github.com/helennqin/EquitLabor,helennqin/EquitLabor,603230038
@@ -92,12 +93,12 @@ VU#74,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-
 VU#74,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
 VU#74,0.07692308,https://github.com/ruiking04/CutAddPaste,ruiking04/CutAddPaste,808587457
 VU#74,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
-VU#74,0.07692308,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#74,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#74,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#74,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
 VU#74,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#74,0.06666667,https://github.com/yvespollah/Resouce-Exploitaion-Computer-Department-UY1,yvespollah/Resouce-Exploitaion-Computer-Department-UY1,761309168
+VU#74,0.06666667,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#74,0.06250000,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#74,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
 VU#74,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
@@ -315,7 +316,7 @@ VU#74,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#74,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#74,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#74,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#74,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#74,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#74,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#74,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#74,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -469,7 +470,7 @@ VU#74,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#74,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#74,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#74,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#74,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#74,0.00018822,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#74,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#74,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#74,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

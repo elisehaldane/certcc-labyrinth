@@ -31,6 +31,7 @@ VU#06,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/
 VU#06,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#06,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#06,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
+VU#06,0.09090909,https://github.com/wellafl3x/infotecs_TI_automation,wellafl3x/infotecs_TI_automation,762888104
 VU#06,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#06,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#06,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
@@ -38,10 +39,10 @@ VU#06,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,14887823
 VU#06,0.08333333,https://github.com/pg001001/exploit,pg001001/exploit,812914507
 VU#06,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#06,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
-VU#06,0.07692308,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#06,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#06,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#06,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
+VU#06,0.06666667,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
 VU#06,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#06,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
 VU#06,0.06666667,https://github.com/jchenghu/ExpansionNet_v2,jchenghu/ExpansionNet_v2,524144534
@@ -70,6 +71,7 @@ VU#06,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206
 VU#06,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
 VU#06,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#06,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
+VU#06,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled,cyber-defence-campus/netgear_r6700v3_circled,648047567
 VU#06,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#06,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#06,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
@@ -196,7 +198,7 @@ VU#06,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,938088
 VU#06,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#06,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#06,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#06,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#06,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#06,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#06,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#06,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -354,7 +356,7 @@ VU#06,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#06,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#06,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#06,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#06,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#06,0.00018822,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#06,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#06,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

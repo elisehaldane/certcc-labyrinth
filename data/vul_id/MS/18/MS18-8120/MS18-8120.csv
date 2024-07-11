@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS18-8120,0.08333333,https://github.com/THIRUPATHI1807/metasploit-framework,THIRUPATHI1807/metasploit-framework,827258190
 MS18-8120,0.06666667,https://github.com/mrbrownnn/MetasploitFramework,mrbrownnn/MetasploitFramework,789680836
 MS18-8120,0.05882353,https://github.com/Jamshid272/Metasploit-framework,Jamshid272/Metasploit-framework,799386098
 MS18-8120,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
@@ -80,7 +81,7 @@ MS18-8120,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/m
 MS18-8120,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 MS18-8120,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS18-8120,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-MS18-8120,0.00018825,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS18-8120,0.00018822,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS18-8120,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,300791308
 MS18-8120,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS18-8120,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
