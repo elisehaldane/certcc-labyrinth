@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 822582470,ralvares/ssvc.me,README.md,8d248f9e63a07469ef8354ecd24c6461328f5f34,CVE-2021-44228
 822582470,ralvares/ssvc.me,README.md,8d248f9e63a07469ef8354ecd24c6461328f5f34,CVE-2021-45046
+822582470,ralvares/ssvc.me,docs/index.html,9bcd84933bbf1141e5b8c553d0fa290a67e9b1a3,CVE-2023-1234
