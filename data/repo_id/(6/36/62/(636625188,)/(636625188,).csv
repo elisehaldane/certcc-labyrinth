@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+636625188,mclbn/docker-cve-2018-15473,docker-compose.yml,35dc261d773ce6ebc520d7b2a74d6b125692f0e7,CVE-2018-15473
+636625188,mclbn/docker-cve-2018-15473,README.md,eb37b193e9abee30d1b8de3df866e327e34e4acc,CVE-2018-15473
+636625188,mclbn/docker-cve-2018-15473,_GITHUB_REPO_METADATA_,,CVE-2018-15473
