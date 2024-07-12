@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/Mekasniz/UAC-Bypass-FUD,Mekasniz/UAC-Bypass-FUD,827303410
+VU#29,1.00000000,https://github.com/OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,827242906
 VU#29,1.00000000,https://github.com/Simplessk/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,Simplessk/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,818735693
 VU#29,1.00000000,https://github.com/Doxtas/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,Doxtas/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,818430448
 VU#29,1.00000000,https://github.com/vakulreddy/4.-Penetration-Testing-with-Kali-Linux-and-Metasploit,vakulreddy/4.-Penetration-Testing-with-Kali-Linux-and-Metasploit,816904715
@@ -379,6 +381,7 @@ VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,51462478
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#29,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
+VU#29,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#29,0.01960784,https://github.com/yzddmr6/As-Exploits,yzddmr6/As-Exploits,312134883
 VU#29,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#29,0.01886792,https://github.com/hideckies/exploit-notes,hideckies/exploit-notes,568456034
