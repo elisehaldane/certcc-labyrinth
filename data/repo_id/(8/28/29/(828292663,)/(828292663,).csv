@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+828292663,bughuntar/CVE-2024-34102-Python,README.md,798336ab6cee85131e47b36762d841d7dd8bbb53,CVE-2024-34102
+828292663,bughuntar/CVE-2024-34102-Python,cosmic_sting.py,b3cabca3d91d40b10275f657e61000f70aebab29,CVE-2024-34102
+828292663,bughuntar/CVE-2024-34102-Python,_GITHUB_REPO_METADATA_,,CVE-2024-34102

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+828139413,dvtarsoul/ChExp,chamilio.py,3d06361a80d20e079f83fb6f2d3481e280e60ff3,CVE-2023-34960
+828139413,dvtarsoul/ChExp,README.md,67c5519ae61fe5219036beb49011bc9dd79e631c,CVE-2023-34960
+828139413,dvtarsoul/ChExp,_GITHUB_REPO_METADATA_,,CVE-2023-34960
