@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-825491938,SamJUK/cosmicsting-validator,README.md,a58ccb8f47eefddf2258a1d7e6f26b4fc5647569,CVE-2024-34102
+825491938,SamJUK/cosmicsting-validator,README.md,bb1b74c1c682d8eb310088af326e78d4f62269a8,CVE-2024-34102
 825491938,SamJUK/cosmicsting-validator,poc.py,f2cd1606b0fd99016c3914afc70e6b0802700375,CVE-2024-34102
 825491938,SamJUK/cosmicsting-validator,_GITHUB_REPO_METADATA_,,CVE-2024-34102
