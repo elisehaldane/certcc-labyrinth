@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+828021268,s1d6point7bugcrowd/CVE-2022-20713-Vulnerability-Detection-Script,CVE-2022-20713.py,25317dd4adfdb42293f9ca27c19564c44ded8b1c,CVE-2022-20713
+828021268,s1d6point7bugcrowd/CVE-2022-20713-Vulnerability-Detection-Script,README.md,d5d07eeab222197583d6800817636c334ee2c8be,CVE-2022-20713
+828021268,s1d6point7bugcrowd/CVE-2022-20713-Vulnerability-Detection-Script,_GITHUB_REPO_METADATA_,,CVE-2022-20713
