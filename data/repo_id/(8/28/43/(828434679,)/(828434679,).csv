@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+828434679,TheRealCiscoo/Shellshock-Exploit,exploit.py,54e3114dc97b3f0b221f62ea2a26d5445e4806fa,CVE-2014-6271
+828434679,TheRealCiscoo/Shellshock-Exploit,README.md,b122cccc1cc49ef80ef6e79d21300ce0ad1bd736,CVE-2014-6271
+828434679,TheRealCiscoo/Shellshock-Exploit,_GITHUB_REPO_METADATA_,,CVE-2014-6271
