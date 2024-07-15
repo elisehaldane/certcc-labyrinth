@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+827376671,rzte/pdf-exploit,README.md,1dcfdb3c439f0dfb9a58555daacbe5a89f8cc78f,CVE-2024-4367
 827376671,rzte/pdf-exploit,pdf.py,49005520dff1758bfc243ba48b9e12735e6ed32d,CVE-2024-4367
-827376671,rzte/pdf-exploit,README.md,b3c349450407ee5e3c0729d7f9ead3897bd4e54e,CVE-2024-4367
 827376671,rzte/pdf-exploit,exploit/pdfjs.py,e81db7ff3a293198218d8d091f8bd84737babd55,CVE-2024-4367
