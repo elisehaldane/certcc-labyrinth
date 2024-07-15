@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+CNNVD-202405-4049,0.33333333,https://github.com/l0n3m4n/CVE-2024-22274-RCE,l0n3m4n/CVE-2024-22274-RCE,828815621

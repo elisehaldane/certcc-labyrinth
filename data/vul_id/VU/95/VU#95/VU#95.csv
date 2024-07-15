@@ -10,7 +10,6 @@ VU#95,1.00000000,https://github.com/abhilash-pangutty/dns-rebinder,abhilash-pang
 VU#95,0.50000000,https://github.com/Kvrr0bux/KrvHub-Roblox-Script,Kvrr0bux/KrvHub-Roblox-Script,672604786
 VU#95,0.50000000,https://github.com/Swipeify/BankID-EXPLOIT,Swipeify/BankID-EXPLOIT,506700154
 VU#95,0.50000000,https://github.com/Gudratliishere/HeapOverflow,Gudratliishere/HeapOverflow,435209702
-VU#95,0.50000000,https://github.com/SitinCloud/Owlyshield,SitinCloud/Owlyshield,415018696
 VU#95,0.50000000,https://github.com/DeimosC2/DeimosC2,DeimosC2/DeimosC2,276189496
 VU#95,0.50000000,https://github.com/EXtremeExploit/EXtremeExploit.github.io,EXtremeExploit/EXtremeExploit.github.io,106965677
 VU#95,0.33333333,https://github.com/edenberger/redk8s,edenberger/redk8s,818555231
@@ -24,6 +23,7 @@ VU#95,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to
 VU#95,0.25000000,https://github.com/SumailaAyamba/Exploitory_Data_Analysis_with_Python,SumailaAyamba/Exploitory_Data_Analysis_with_Python,583963326
 VU#95,0.25000000,https://github.com/numanturle/CVE-2021-23758-POC,numanturle/CVE-2021-23758-POC,438682864
 VU#95,0.25000000,https://github.com/lnfernal/K1B0R-Framework,lnfernal/K1B0R-Framework,435659101
+VU#95,0.25000000,https://github.com/SitinCloud/Owlyshield,SitinCloud/Owlyshield,415018696
 VU#95,0.20000000,https://github.com/Sky-Code-1/command-injection-offense,Sky-Code-1/command-injection-offense,777226767
 VU#95,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
 VU#95,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
@@ -104,6 +104,7 @@ VU#95,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,64082306
 VU#95,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#95,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#95,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#95,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#95,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#95,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#95,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
