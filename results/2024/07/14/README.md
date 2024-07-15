@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/14
     
-118 records found after deduplication
+120 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -36,7 +36,7 @@
 | tg12/PoC_CVEs | PoC_CVEs | https://github.com/tg12/PoC_CVEs | ['cve poc'] | 1 | 2024-07-14 08:03:17+00:00 | 25322 | 158 | | 22 | [] |
 | steeldev0/SteelSploit-injector | SteelSploit roblox | https://github.com/steeldev0/SteelSploit-injector | ['sploit'] | 1 | 2024-07-14 18:55:34+00:00 | 7018 | 0 | | 0 | [] |
 | kamalmjt/emerging-attackers | Emerging attacks is a blacklist of Malicious IPs that perform live attacks, the blacklist is updated every 24 hours. The blacklist includes any IP address that has performed port scans, brute force attacks, SQL injection attempts, LDAP, local or remote fil | https://github.com/kamalmjt/emerging-attackers | ['exploit'] | 1 | 2024-07-14 23:04:22+00:00 | 781 | 1 | | 0 | [] |
-| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-07-14 05:31:23+00:00 | 222152 | 123 | Go | 17 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-07-14 04:15:22+00:00 | 222131 | 123 | Go | 17 | [] |
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-07-14 10:47:55+00:00 | 12917 | 235 | | 18 | [] |
 | moloch54/WPscrap | Fast and stealth WordPress scanner, no api-key, no limitation. Use the top-notch free open-source API www.wpvulnerability.net I'm looking for contributors helping me to dev an auto-exploit module. | https://github.com/moloch54/WPscrap | ['exploit'] | 1 | 2024-07-14 07:31:10+00:00 | 870 | 17 | Roff | 4 | [] |
 | vulncheck-oss/go-exploit | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | ['exploit'] | 1 | 2024-07-14 00:28:03+00:00 | 513 | 234 | Go | 29 | [] |
@@ -116,6 +116,7 @@
 | softwareploitoken/softwareploitoken.github.io | This is a exploit token software project. This token contains information about the software we developed | https://github.com/softwareploitoken/softwareploitoken.github.io | ['exploit'] | 1 | 2024-07-14 15:57:28+00:00 | 0 | 0 | | 0 | [] |
 | addicted-cyclist/django-react-exploit | None | https://github.com/addicted-cyclist/django-react-exploit | ['exploit'] | 1 | 2024-07-14 16:46:14+00:00 | 0 | 0 | Python | 0 | [] |
 | HimanshuEng/capture_the_flag_website | This project is a comprehensive educational platform designed to inform users about various cybersecurity topics, including web exploitation, cryptography, and network security. The website offers detailed information and resources to help users learn abou | https://github.com/HimanshuEng/capture_the_flag_website | ['exploit'] | 1 | 2024-07-14 17:51:00+00:00 | 2 | 0 | | 0 | [] |
+| Jhonsonwannaa/CVE-2024-6387 | OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire | https://github.com/Jhonsonwannaa/CVE-2024-6387 | ['cve-2 OR cve_2'] | 1 | 2024-07-14 18:02:26+00:00 | 4 | 0 | Shell | 0 | ['CVE-2024-6387'] |
 | s00nik/Binary-Exploitaition | A buffer overflow comes when the user can input something into the program. There is only so much space reserved for the input, but the programmer doesn't check that the input will fit in the memory reserved, and this allows us to overwrite adjacent memory | https://github.com/s00nik/Binary-Exploitaition | ['exploit'] | 1 | 2024-07-14 18:48:57+00:00 | 3 | 0 | C | 0 | [] |
 | Zephiles/sola-exploit | A True Crime: Streets of LA Save Exploit | https://github.com/Zephiles/sola-exploit | ['exploit'] | 1 | 2024-07-14 20:15:48+00:00 | 20 | 8 | C | 0 | [] |
 | zer1t0/shellnova | Advanced shellcode implant template for Linux | https://github.com/zer1t0/shellnova | ['shellcode'] | 1 | 2024-07-14 21:51:43+00:00 | 35 | 0 | C | 0 | [] |
@@ -123,3 +124,4 @@
 | mendax0110/shellCodeInjector | A Educational Injector for shellcode into a process. | https://github.com/mendax0110/shellCodeInjector | ['shellcode'] | 1 | 2024-07-14 20:24:40+00:00 | 7 | 0 | C++ | 0 | [] |
 | liamadoyle/PhD_Study_1 | Meta-analysis of the relationship between psychopathy and exploitative behaviour in economic games | https://github.com/liamadoyle/PhD_Study_1 | ['exploit'] | 1 | 2024-07-14 20:38:59+00:00 | 3824 | 0 | HTML | 0 | [] |
 | adrgs/aisafe | Using LLMs for autonomous Vulnerability Exploitation | https://github.com/adrgs/aisafe | ['exploit'] | 1 | 2024-07-14 21:12:44+00:00 | 2 | 0 | | 0 | [] |
+| ShadowByte1/CVE-2024-24919 | None | https://github.com/ShadowByte1/CVE-2024-24919 | ['cve-2 OR cve_2'] | 1 | 2024-07-14 23:33:00+00:00 | 4 | 0 | | 0 | ['CVE-2024-24919'] |
