@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+829035411,xjdhu/hessian-deserialize-rce,src/main/java/com/example/hessian/SignedObjectRCE.java,399ce417957324df5db207e26ad82e083d44937c,VU#29
+829035411,xjdhu/hessian-deserialize-rce,src/main/java/com/example/hessian/util.java,984af58ed4c9bbc5f501df8d487d8e001bc5e0b7,VU#29
