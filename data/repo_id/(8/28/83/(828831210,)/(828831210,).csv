@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+828831210,exploits-forsale/collateral-damage,README.md,0c98e54fc8b3b94d6b761bfc0510539567c7c99b,CVE-2024-30088
+828831210,exploits-forsale/collateral-damage,collat_payload/ioring_lpe.c,f0c194ac435f7be2ca24568c6263de05eb9abde6,CVE-2023-21768
+828831210,exploits-forsale/collateral-damage,_GITHUB_REPO_METADATA_,,CVE-2024-30088
