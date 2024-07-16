@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#587,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#587,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#587,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
-VU#587,0.00598802,https://github.com/11k4r/CVE-2017-1235_exploit,11k4r/CVE-2017-1235_exploit,827743049
 VU#587,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#587,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#587,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556

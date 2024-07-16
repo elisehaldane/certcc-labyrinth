@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#209,0.10000000,https://github.com/cybermayer/SZE_Ipar4.0-GKLB_INTM087-,cybermayer/SZE_Ipar4.0-GKLB_INTM087-,818700816
 VU#209,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#209,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
-VU#209,0.00598802,https://github.com/11k4r/CVE-2017-1235_exploit,11k4r/CVE-2017-1235_exploit,827743049
 VU#209,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#209,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#209,0.00263158,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087

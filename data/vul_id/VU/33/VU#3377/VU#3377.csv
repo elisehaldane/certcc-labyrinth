@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#3377,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#3377,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
-VU#3377,0.00598802,https://github.com/11k4r/CVE-2017-1235_exploit,11k4r/CVE-2017-1235_exploit,827743049
 VU#3377,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#3377,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#3377,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316

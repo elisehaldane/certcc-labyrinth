@@ -101,6 +101,7 @@ VU#64,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-jav
 VU#64,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-vuln-java-2,662788989
 VU#64,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
+VU#64,0.05000000,https://github.com/JayMwakideu/Mobile_Spy_Ware,JayMwakideu/Mobile_Spy_Ware,825675936
 VU#64,0.05000000,https://github.com/Mohameddek1/Web_exploitation,Mohameddek1/Web_exploitation,806019276
 VU#64,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#64,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
@@ -348,7 +349,6 @@ VU#64,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-databas
 VU#64,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 VU#64,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#64,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
-VU#64,0.00598802,https://github.com/11k4r/CVE-2017-1235_exploit,11k4r/CVE-2017-1235_exploit,827743049
 VU#64,0.00591716,https://github.com/fdl66/openssl-1.0.2u-fix-cve,fdl66/openssl-1.0.2u-fix-cve,477340549
 VU#64,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#64,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
