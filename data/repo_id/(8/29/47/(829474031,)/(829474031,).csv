@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+829474031,khanhtranngoccva/cve-2023-38831-poc,payload/decoy-file.txt,3bec21da1fa77fba63193f5017eafc275f4deb8f,CVE-2023-38831
+829474031,khanhtranngoccva/cve-2023-38831-poc,dist/payload.zip,bd350866363f097507e1a3d7577420c231f4859f,CVE-2023-38831
+829474031,khanhtranngoccva/cve-2023-38831-poc,_GITHUB_REPO_METADATA_,,CVE-2023-38831
