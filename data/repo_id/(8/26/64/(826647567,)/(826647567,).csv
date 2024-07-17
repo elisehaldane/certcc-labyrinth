@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-826647567,andria-dev/DolibabyPhp,pyproject.toml,055162e562b7372af955d7839077469e97a966b1,CVE-2023-30253
-826647567,andria-dev/DolibabyPhp,README.md,1b41efe5e0da1984c10dcaa587dc5b4cfe15eec9,CVE-2023-30253
+826647567,andria-dev/DolibabyPhp,README.md,9c25ad5f54fd4b0665f73c960b605c22a8431272,CVE-2023-30253
+826647567,andria-dev/DolibabyPhp,pyproject.toml,de4d57c2349cadf72575af7959989faafeea1611,CVE-2023-30253
 826647567,andria-dev/DolibabyPhp,_GITHUB_REPO_METADATA_,,CVE-2023-30253
