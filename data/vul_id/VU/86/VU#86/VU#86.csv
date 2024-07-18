@@ -18,6 +18,7 @@ VU#86,0.25000000,https://github.com/ychukchik/DriverVulnerability_Exploit,ychukc
 VU#86,0.25000000,https://github.com/moonleaks/RogueCE,moonleaks/RogueCE,732538648
 VU#86,0.25000000,https://github.com/JeffMboya/CodePal,JeffMboya/CodePal,529695274
 VU#86,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
+VU#86,0.20000000,https://github.com/vulncheck-oss/go-exploit-cache,vulncheck-oss/go-exploit-cache,829588155
 VU#86,0.20000000,https://github.com/csBlueChip/Overflow,csBlueChip/Overflow,807833581
 VU#86,0.20000000,https://github.com/Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,802643935
 VU#86,0.20000000,https://github.com/DaintyJet/VChat_TRUN_ROP,DaintyJet/VChat_TRUN_ROP,746815394

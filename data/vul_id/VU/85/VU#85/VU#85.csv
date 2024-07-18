@@ -28,6 +28,7 @@ VU#85,0.25000000,https://github.com/crowdbotics-dev/tst-tc2149-cvefmpnf-28650,cr
 VU#85,0.25000000,https://github.com/parmoo/parmoo,parmoo/parmoo,449011189
 VU#85,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#85,0.25000000,https://github.com/dbudwin/react-secure-link,dbudwin/react-secure-link,323644538
+VU#85,0.20000000,https://github.com/vulncheck-oss/go-exploit-cache,vulncheck-oss/go-exploit-cache,829588155
 VU#85,0.20000000,https://github.com/qweblessed/sushi-swap-attack-poc,qweblessed/sushi-swap-attack-poc,798610146
 VU#85,0.20000000,https://github.com/Niteshkumar13/Remote-code-execution,Niteshkumar13/Remote-code-execution,795170271
 VU#85,0.20000000,https://github.com/AnitaEluwa/Security-Scanner-Toolkit,AnitaEluwa/Security-Scanner-Toolkit,782573449
@@ -40,7 +41,6 @@ VU#85,0.20000000,https://github.com/APTIRAN/CVE-2022-21661,APTIRAN/CVE-2022-2166
 VU#85,0.20000000,https://github.com/Checkmarx/capital,Checkmarx/capital,528331671
 VU#85,0.20000000,https://github.com/Precioussoul/abs-drive,Precioussoul/abs-drive,506190427
 VU#85,0.20000000,https://github.com/Precioussoul/HBS-DRIVE,Precioussoul/HBS-DRIVE,488289241
-VU#85,0.16666667,https://github.com/KylianMbappe007/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,KylianMbappe007/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,802382773
 VU#85,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,crowdbotics-dev/tst-tc489-rcetolss-130561,722124596
 VU#85,0.16666667,https://github.com/mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,708648893
 VU#85,0.16666667,https://github.com/iamvincenzo/UltraleapPoolGameDemo,iamvincenzo/UltraleapPoolGameDemo,613393534
@@ -83,6 +83,7 @@ VU#85,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhag
 VU#85,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#85,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#85,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
+VU#85,0.07692308,https://github.com/sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,802382773
 VU#85,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
 VU#85,0.07692308,https://github.com/Holifkly/Holifkly,Holifkly/Holifkly,730428469
 VU#85,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
