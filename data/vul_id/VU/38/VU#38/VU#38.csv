@@ -185,7 +185,6 @@ VU#38,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#38,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#38,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#38,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
-VU#38,0.01449275,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#38,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#38,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#38,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -196,7 +195,6 @@ VU#38,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#38,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#38,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#38,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
-VU#38,0.01369863,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#38,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#38,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#38,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
@@ -211,9 +209,11 @@ VU#38,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET
 VU#38,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#38,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#38,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
+VU#38,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#38,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#38,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#38,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
+VU#38,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#38,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#38,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#38,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
@@ -431,7 +431,7 @@ VU#38,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#38,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#38,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#38,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#38,0.00018815,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00018811,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -236,7 +236,6 @@ VU#69,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#69,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#69,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
 VU#69,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
-VU#69,0.01449275,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#69,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#69,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#69,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
@@ -249,7 +248,6 @@ VU#69,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_
 VU#69,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#69,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#69,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
-VU#69,0.01369863,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#69,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#69,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#69,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
@@ -267,10 +265,12 @@ VU#69,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-P
 VU#69,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#69,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
 VU#69,0.01250000,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_1,828658576
+VU#69,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#69,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#69,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#69,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#69,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
+VU#69,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#69,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#69,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#69,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
@@ -486,7 +486,7 @@ VU#69,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#69,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#69,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#69,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#69,0.00018815,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00018811,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#69,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
