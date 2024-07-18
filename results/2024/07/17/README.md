@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/17
     
-164 records found after deduplication
+166 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -12,6 +12,7 @@
 | YasserGersy/cazador_unr | Hacking tools | https://github.com/YasserGersy/cazador_unr | ['rce', 'rce poc'] | 2 | 2024-07-17 05:07:25+00:00 | 89381 | 135 | | 55 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-17 00:35:21+00:00 | 482611 | 6234 | | 1147 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2024-07-17 00:50:24+00:00 | 68134 | 81 | | 39 | [] |
+| karma9874/AndroRAT | A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side | https://github.com/karma9874/AndroRAT | ['exploit'] | 1 | 2024-07-17 17:22:43+00:00 | 40789 | 2867 | Java | 951 | [] |
 | gobysec/GobyVuls | Vulnerabilities of Goby supported with exploitation. | https://github.com/gobysec/GobyVuls | ['exploit'] | 1 | 2024-07-17 10:22:22+00:00 | 207799 | 694 | Go | 114 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-07-17 05:04:22+00:00 | 1779822 | 115 | | 34 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2024-07-17 21:07:17+00:00 | 239 | 0 | PHP | 0 | [] |
@@ -29,7 +30,7 @@
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2024-07-17 02:56:13+00:00 | 2105 | 22 | Java | 5 | [] |
 | skahwah/SQLRecon | A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation. | https://github.com/skahwah/SQLRecon | ['exploit'] | 1 | 2024-07-17 19:31:13+00:00 | 1331 | 606 | C# | 112 | [] |
 | EntySec/HatAsm | HatAsm is a powerful assembler and disassembler that provides support for all common architectures. | https://github.com/EntySec/HatAsm | ['shellcode'] | 1 | 2024-07-17 22:07:54+00:00 | 207 | 14 | Python | 2 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-17 22:31:42+00:00 | 350280 | 6305 | HTML | 788 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-17 14:39:53+00:00 | 359475 | 6304 | HTML | 787 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-07-17 00:12:22+00:00 | 9269 | 0 | | 1 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-07-17 00:56:27+00:00 | 1248 | 639 | Shell | 117 | [] |
 | Ostorlab/KEV | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | ['0day', 'exploit'] | 2 | 2024-07-17 14:36:12+00:00 | 1721 | 503 | | 29 | [] |
@@ -74,7 +75,7 @@
 | vulncheck-oss/cve-2023-25194 | A go-exploit for Apache Druid CVE-2023-25194 | https://github.com/vulncheck-oss/cve-2023-25194 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-07-17 18:46:36+00:00 | 22 | 0 | Go | 0 | ['CVE-2023-25194'] |
 | The-OlD-Father-iLBaRed/The-SouRce-AdRenalen-test | None | https://github.com/The-OlD-Father-iLBaRed/The-SouRce-AdRenalen-test | ['rce'] | 1 | 2024-07-17 09:51:39+00:00 | 1092 | 0 | Python | 0 | [] |
 | mun1bxD/Web-Exploitation | These are complete notes of my web Exploitation | https://github.com/mun1bxD/Web-Exploitation | ['exploit'] | 1 | 2024-07-17 11:34:14+00:00 | 23114 | 2 | | 0 | [] |
-| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-17 05:36:37+00:00 | 1338 | 5 | C# | 0 | [] |
+| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-17 04:59:48+00:00 | 1337 | 5 | C# | 0 | [] |
 | virtual-labs/exp-format-string-vulnerability-au | This experiment belongs to Introductory Cyber Security Lab Amrita. Name: Experiment to understand how format string vulnerabilities are caused and how they can be exploited | https://github.com/virtual-labs/exp-format-string-vulnerability-au | ['exploit'] | 1 | 2024-07-17 07:28:55+00:00 | 2006 | 0 | HTML | 0 | [] |
 | muhammedkayag/TryHackMe-0day-WriteUp | None | https://github.com/muhammedkayag/TryHackMe-0day-WriteUp | ['0day'] | 1 | 2024-07-17 12:20:55+00:00 | 3050 | 0 | HTML | 0 | [] |
 | adysec/nuclei_poc | Nuclei POC，每日更新 _ 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有11wPOC，已校验有效性并去重） | https://github.com/adysec/nuclei_poc | ['exploit'] | 1 | 2024-07-17 12:35:57+00:00 | 124162 | 285 | Python | 133 | [] |
@@ -125,7 +126,7 @@
 | FFR66/Nacos_Rce | 网传nacos_rce漏洞poc | https://github.com/FFR66/Nacos_Rce | ['rce', 'rce poc'] | 2 | 2024-07-17 06:06:14+00:00 | 46 | 49 | Python | 21 | [] |
 | OfflinePlayer01/Offline-Exploiter-Web-Site | Offline Exploiter Web Site | https://github.com/OfflinePlayer01/Offline-Exploiter-Web-Site | ['exploit'] | 1 | 2024-07-17 14:25:03+00:00 | 6 | 0 | HTML | 0 | [] |
 | username235611/Solara | Solara Executor redefines Windows exploitation with its user-friendly design and advanced features. Developed by expert reverse engineers, Solara ensures a seamless gaming experience. With awesome functions it simplifies script management. Experience insta | https://github.com/username235611/Solara | ['exploit'] | 1 | 2024-07-17 05:38:11+00:00 | 1 | 10 | | 0 | [] |
-| kardespro/nosqlmap | NoSQLMap CLI Tool is a command-line interface (CLI) tool designed to test for NoSQL injection vulnerabilities using Node.js, TypeScript, and Axios. It supports both HTTP and HTTPS requests and works with all HTTP methods. | https://github.com/kardespro/nosqlmap | ['command injection', 'exploit'] | 2 | 2024-07-17 14:50:42+00:00 | 5770 | 1 | TypeScript | 0 | [] |
+| kardespro/nosqlmap | NoSQLMap CLI Tool is a command-line interface (CLI) tool designed to test for NoSQL injection vulnerabilities using Node.js, TypeScript, and Axios. It supports both HTTP and HTTPS requests and works with all HTTP methods. | https://github.com/kardespro/nosqlmap | ['command injection', 'exploit'] | 2 | 2024-07-17 14:50:42+00:00 | 5770 | 2 | TypeScript | 0 | [] |
 | Bl4ckM4d0nn4/active_xploit | A PowerShell script used to enumerate exploitable LOLBAS on a Windows Host. | https://github.com/Bl4ckM4d0nn4/active_xploit | ['exploit'] | 1 | 2024-07-17 04:41:04+00:00 | 6 | 0 | PowerShell | 0 | [] |
 | shfsicig/Wave-executor | Wave Executor is a completely free Roblox Executor developed to exploit Roblox games and enhance your gaming experience. | https://github.com/shfsicig/Wave-executor | ['exploit'] | 1 | 2024-07-17 02:23:49+00:00 | 9 | 0 | | 0 | [] |
 | shfsicig/SolaraFix | Cleanup and Checkup Script | https://github.com/shfsicig/SolaraFix | ['exploit'] | 1 | 2024-07-17 04:20:22+00:00 | 99 | 0 | Batchfile | 0 | [] |
@@ -155,6 +156,7 @@
 | davidFCDev/vottun-contracts | Vulnerable contract and exploit contract | https://github.com/davidFCDev/vottun-contracts | ['exploit'] | 1 | 2024-07-17 13:57:16+00:00 | 1 | 0 | Solidity | 0 | [] |
 | dilleron1980iA/ValorantCamoChanger | None | https://github.com/dilleron1980iA/ValorantCamoChanger | ['exploit'] | 1 | 2024-07-17 14:08:47+00:00 | 4 | 0 | | 0 | [] |
 | Eriststark/vulnerable_smart_contract | Solidity vulnerable smart contract with a exploit smart contract to exploit vulnerability | https://github.com/Eriststark/vulnerable_smart_contract | ['exploit'] | 1 | 2024-07-17 14:27:55+00:00 | 23 | 0 | Solidity | 0 | [] |
+| vt0x78/CVE-2024-31989 | Exploit for CVE-2024-31989. | https://github.com/vt0x78/CVE-2024-31989 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-07-17 15:24:58+00:00 | 38 | 0 | Go | 0 | ['CVE-2024-31989'] |
 | hlong12042/CVE-2017-9248 | None | https://github.com/hlong12042/CVE-2017-9248 | ['cve-2 OR cve_2'] | 1 | 2024-07-17 15:31:00+00:00 | 299 | 0 | Python | 0 | ['CVE-2017-9248'] |
 | luhzayforreal/XanthemSploit | None | https://github.com/luhzayforreal/XanthemSploit | ['sploit'] | 1 | 2024-07-17 14:56:03+00:00 | 7 | 0 | | 0 | [] |
 | S3V3N11S/Capture-The-Flags | Collection of completed Capture The Flag games (This is the process of exploiting a vulnerable machine or webapp to retrieve the flag) | https://github.com/S3V3N11S/Capture-The-Flags | ['exploit'] | 1 | 2024-07-17 15:39:40+00:00 | 2 | 0 | | 0 | [] |
