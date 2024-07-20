@@ -16,7 +16,6 @@ VU#05,0.50000000,https://github.com/counoxe/Counoxe,counoxe/Counoxe,487935711
 VU#05,0.50000000,https://github.com/xFelienDev/ExploitPack,xFelienDev/ExploitPack,482935784
 VU#05,0.50000000,https://github.com/dusty99/dusty,dusty99/dusty,473135347
 VU#05,0.50000000,https://github.com/C4T-BuT-S4D/neo,C4T-BuT-S4D/neo,306467198
-VU#05,0.33333333,https://github.com/Laelmano24/The-mimic-script,Laelmano24/The-mimic-script,820557764
 VU#05,0.33333333,https://github.com/tiny-dragon/ExploitableTokenTracker,tiny-dragon/ExploitableTokenTracker,781385793
 VU#05,0.33333333,https://github.com/OneANDD/ExtrnalExploits,OneANDD/ExtrnalExploits,778532772
 VU#05,0.33333333,https://github.com/OneANDD/Exploits,OneANDD/Exploits,777522329
@@ -35,6 +34,7 @@ VU#05,0.33333333,https://github.com/254nm/L2X9RebootCore,254nm/L2X9RebootCore,39
 VU#05,0.33333333,https://github.com/issa-project/web-visualization,issa-project/web-visualization,355214380
 VU#05,0.33333333,https://github.com/vandavey/DotnetCat,vandavey/DotnetCat,284355862
 VU#05,0.25000000,https://github.com/Automationetaxservice/rcentral,Automationetaxservice/rcentral,828025431
+VU#05,0.25000000,https://github.com/Laelmano24/The-mimic-script,Laelmano24/The-mimic-script,820557764
 VU#05,0.25000000,https://github.com/jho44/ZeroDayComics,jho44/ZeroDayComics,785970529
 VU#05,0.25000000,https://github.com/aarenzanaa/SoftwareExploitationCVE,aarenzanaa/SoftwareExploitationCVE,740155866
 VU#05,0.25000000,https://github.com/cerberauth/api-vulns-challenges,cerberauth/api-vulns-challenges,697264220
@@ -63,6 +63,7 @@ VU#05,0.16666667,https://github.com/rosvik/cve.248.no,rosvik/cve.248.no,22545255
 VU#05,0.14285714,https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication,paras98/CVE-2021-38297-Go-wasm-Replication,781757126
 VU#05,0.14285714,https://github.com/arkiix/CulhwchFarm,arkiix/CulhwchFarm,732473241
 VU#05,0.14285714,https://github.com/wetw0rk/MBE-NOTES,wetw0rk/MBE-NOTES,732159763
+VU#05,0.14285714,https://github.com/huc0day/phpsploit-framework,huc0day/phpsploit-framework,723939879
 VU#05,0.14285714,https://github.com/gkrishnan724/CVE-2021-38297,gkrishnan724/CVE-2021-38297,719281537
 VU#05,0.14285714,https://github.com/RHEAGROUP/RACE_E8,RHEAGROUP/RACE_E8,658848200
 VU#05,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
@@ -121,6 +122,7 @@ VU#05,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,Typh
 VU#05,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
 VU#05,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#05,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
+VU#05,0.04000000,https://github.com/XingLuoXL/Delta-Executor-PC-Roblox,XingLuoXL/Delta-Executor-PC-Roblox,831474844
 VU#05,0.04000000,https://github.com/PranshuRanjanTiwari/delta-executor-roblox,PranshuRanjanTiwari/delta-executor-roblox,831109520
 VU#05,0.04000000,https://github.com/wigiroa/wave-executor-roblox,wigiroa/wave-executor-roblox,831104168
 VU#05,0.04000000,https://github.com/Crafraff/Wave-Executor-Roblox,Crafraff/Wave-Executor-Roblox,830609231
