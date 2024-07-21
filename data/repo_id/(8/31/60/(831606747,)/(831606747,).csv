@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/Form1.Designer.cs,311b2e87deac5f51de771031d3e1f66cd23ab921,CNVD-2022-60632
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/Form1.Designer.cs,311b2e87deac5f51de771031d3e1f66cd23ab921,CVE-2021-36260
+831606747,MInggongK/Penetration-mining-src,README.md,8a82d123c6f1766da8b0dc0792bad6ae9857e776,CNVD-2022-60632
+831606747,MInggongK/Penetration-mining-src,README.md,8a82d123c6f1766da8b0dc0792bad6ae9857e776,CVE-2021-36260
+831606747,MInggongK/Penetration-mining-src,README.md,8a82d123c6f1766da8b0dc0792bad6ae9857e776,CVE-2023-2523
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/obj/Debug/net6.0-windows/渗透测试漏洞挖掘src集成版.dll,ba8f7b6ffd0f12e934ce3abb83137e19c45576e5,CNVD-2021-49104
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/Form1.cs,c8bf446161f8463dc3473da384805a7418a255ac,CNVD-2021-49104
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/Form1.cs,c8bf446161f8463dc3473da384805a7418a255ac,CVE-2021-36260
+831606747,MInggongK/Penetration-mining-src,渗透测试漏洞挖掘src集成版/php_oldQax.php,e69362a3daf2ec9df2bb55e47e48b641aad00414,VU#29
