@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+831490675,ethicalblue/Follina-CVE-2022-30190-Sample,README.md,47c82ef7dd7838fbadb6f46c589d595d9f3eddf4,CVE-2022-30190
+831490675,ethicalblue/Follina-CVE-2022-30190-Sample,MainWindow.xaml,f44f283c316f44e3a8b033b374cb6921e37c7343,CVE-2022-30190
+831490675,ethicalblue/Follina-CVE-2022-30190-Sample,_GITHUB_REPO_METADATA_,,CVE-2022-30190
