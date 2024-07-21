@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/20
     
-125 records found after deduplication
+126 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -14,6 +14,7 @@
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-20 00:35:24+00:00 | 483462 | 6248 | | 1148 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2024-07-20 00:50:25+00:00 | 70648 | 81 | | 39 | [] |
 | xGinko/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/xGinko/AnarchyExploitFixes | ['exploit'] | 1 | 2024-07-20 06:30:30+00:00 | 4710 | 287 | Java | 53 | [] |
+| bitdefender/bddisasm | bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior. | https://github.com/bitdefender/bddisasm | ['shellcode'] | 1 | 2024-07-20 20:25:44+00:00 | 6249 | 863 | C | 111 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-07-20 05:04:49+00:00 | 1788382 | 115 | | 34 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-07-20 04:03:55+00:00 | 505182 | 883 | Python | 192 | [] |
 | skypoc/Exploit | None | https://github.com/skypoc/Exploit | ['exploit'] | 1 | 2024-07-20 10:40:23+00:00 | 62 | 0 | Python | 1 | [] |
@@ -65,7 +66,7 @@
 | rcedror/rcedror.github.io | None | https://github.com/rcedror/rcedror.github.io | ['rce'] | 1 | 2024-07-20 16:59:06+00:00 | 4261 | 0 | HTML | 0 | [] |
 | For-ACGN/Gleam-RT | A runtime that can hide your code and memory data in the sleep time. | https://github.com/For-ACGN/Gleam-RT | ['shellcode'] | 1 | 2024-07-20 13:04:45+00:00 | 976 | 1 | C | 0 | [] |
 | chains-project/exploits-for-sbom.exe | that's the sound of sbom.exe | https://github.com/chains-project/exploits-for-sbom.exe | ['exploit'] | 1 | 2024-07-20 18:55:47+00:00 | 245699 | 0 | Java | 0 | [] |
-| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-20 04:56:14+00:00 | 1393 | 5 | C# | 0 | [] |
+| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-20 04:56:14+00:00 | 1392 | 5 | C# | 0 | [] |
 | adysec/nuclei_poc | Nuclei POC，每日更新 _ 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有11wPOC，已校验有效性并去重） | https://github.com/adysec/nuclei_poc | ['exploit'] | 1 | 2024-07-20 12:33:30+00:00 | 124799 | 302 | Python | 138 | [] |
 | pittar-team/SPYROID-VIP | Get The Best Android Rat On The Earth, SPYROID | https://github.com/pittar-team/SPYROID-VIP | ['exploit'] | 1 | 2024-07-20 18:33:16+00:00 | 132 | 1 | | 0 | [] |
 | 0xMarcio/cve | Latest CVEs with their Proof of Concept exploits. | https://github.com/0xMarcio/cve | ['exploit'] | 1 | 2024-07-20 04:34:57+00:00 | 125955 | 1 | Python | 1 | [] |
