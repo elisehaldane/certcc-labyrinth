@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 811899007,openexploitresearch/exploits,chrome/CVE-2024-0517_exploit.js,3be6113d01aa8a8f9826d66caeb6fb4bda991adb,CVE-2024-0517
+811899007,openexploitresearch/exploits,windows/dual_toctou_lpe(cve-2024-30088).cpp,9698715d44018039b8ec8452836a87c4ec5a82f7,CVE-2024-30088
 811899007,openexploitresearch/exploits,firefox/fullchain_100_0_1.html,cba993398bb3d8a1f2ca99944368962d442925ec,CVE-2022-1529
 811899007,openexploitresearch/exploits,firefox/fullchain_100_0_1.html,cba993398bb3d8a1f2ca99944368962d442925ec,CVE-2022-1802
 811899007,openexploitresearch/exploits,firefox/fullchain_100_0_1.html,cba993398bb3d8a1f2ca99944368962d442925ec,CVE-2022-2200
