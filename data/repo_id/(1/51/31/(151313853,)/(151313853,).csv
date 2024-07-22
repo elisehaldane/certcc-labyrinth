@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+151313853,hodor-sec/Binary-Exploitation,Windows/Subtitle Processor 7.7.1 [SEH][UNICODE]/aaea2a1dbeaf6ca7c394acbba93461d9-SubtitleProcessor771.zip,5cd894a6218da4293138569967a16ca9d69e691b,VU#59
+151313853,hodor-sec/Binary-Exploitation,Windows/Subtitle Processor 7.7.1 [SEH][UNICODE]/aaea2a1dbeaf6ca7c394acbba93461d9-SubtitleProcessor771.zip,5cd894a6218da4293138569967a16ca9d69e691b,VU#70
+151313853,hodor-sec/Binary-Exploitation,Windows/QuickZip 4.6 [SEH][ALIGN_STACK]/06c1cb6633edd4688cc00864a7079935-quickzip_4-60-019.exe,86f8c80ccc6e383b206b7bfde50d5350a0352a1b,VU#46
+151313853,hodor-sec/Binary-Exploitation,Windows/QuickZip 4.6 [SEH][ALIGN_STACK]/06c1cb6633edd4688cc00864a7079935-quickzip_4-60-019.exe,86f8c80ccc6e383b206b7bfde50d5350a0352a1b,VU#94
+151313853,hodor-sec/Binary-Exploitation,Windows/VX Search Enterprise 9.0.26 [SEH][EGGHUNT][NEG_JMP-CALL_ESP]/3d481784afcddb06a3aa12e50c281032-vxsearchent_setup_v9.0.26.exe,ac8baf8acf1a1e4a42b1f70c6efe01741121df89,VU#94
+151313853,hodor-sec/Binary-Exploitation,Windows/DVD X Player Pro 5.5.3.9 [SEH]/cdfda7217304f4deb7d2e8feb5696394-DVDXPlayerSetup.exe,d401c9cad206f57dfa18019036b8e26b33ad880c,VU#19
+151313853,hodor-sec/Binary-Exploitation,Windows/AIMP 2.53.330 [SEH][UNICODE]/1bfa5e55b11542015dc5811fada84948-aimp_2.51.330.zip,e775b672f5719cd77cb062aa5a6dfa8cc19d3655,VU#10
+151313853,hodor-sec/Binary-Exploitation,Windows/Download Accelerator Plus (DAP) 9.7 [SEH][UNICODE]/432f2f750ca8254c9f31539c22a1e09a-dap97_baix.exe,e7d179697895ae2f67b149e6dd11142b341f989d,VU#09
+151313853,hodor-sec/Binary-Exploitation,Windows/Trilogic Mediaplayer 8 [SEH][UNICODE]/sploit_trilogic_mp8_seh.py,ec3fe82cd66d57620dcfa860d49907c788eedd5b,VU#720
+151313853,hodor-sec/Binary-Exploitation,Windows/Blade API Monitor 3.6.9.2 [EIP_EBX][UNICODE_ALIGN-STACK + GETPC_OR_EGGHUNTER]/f248239d09b37400e8269cb1347c240e-BladeAPIMonitor-3.6.9.2.Setup.exe,fac2fe9773df0db7f2b420e56783f390f181ad0a,VU#228
