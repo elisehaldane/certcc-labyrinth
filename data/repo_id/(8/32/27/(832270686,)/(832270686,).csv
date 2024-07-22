@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+832270686,CTF-Archives/xinhu-v2.3.2,README.md,324d81d1833777c43defbca716b8540e2069e1a7,CVE-2023-1773
+832270686,CTF-Archives/xinhu-v2.3.2,xinhu-cb732f46f8f1e4614c8cfbef47a0bcbde6ecce34/webmain/flow/input/mode_wordxieAction.php,6f408923d580bd92d161d195e674895a8daf1fe2,VU#31
+832270686,CTF-Archives/xinhu-v2.3.2,xinhu-cb732f46f8f1e4614c8cfbef47a0bcbde6ecce34/webmain/flow/input/mode_wordxieAction.php,6f408923d580bd92d161d195e674895a8daf1fe2,VU#45
+832270686,CTF-Archives/xinhu-v2.3.2,xinhu-cb732f46f8f1e4614c8cfbef47a0bcbde6ecce34/webmain/flow/input/mode_wordxieAction.php,6f408923d580bd92d161d195e674895a8daf1fe2,VU#52
+832270686,CTF-Archives/xinhu-v2.3.2,xinhu-cb732f46f8f1e4614c8cfbef47a0bcbde6ecce34/webmain/flow/input/mode_wordxieAction.php,6f408923d580bd92d161d195e674895a8daf1fe2,VU#93
+832270686,CTF-Archives/xinhu-v2.3.2,xinhu-cb732f46f8f1e4614c8cfbef47a0bcbde6ecce34/js/jsmain.js,9aac50514d056386fd037a6a953e28c6093b3bf8,VU#20
+832270686,CTF-Archives/xinhu-v2.3.2,_GITHUB_REPO_METADATA_,,CVE-2023-1773
