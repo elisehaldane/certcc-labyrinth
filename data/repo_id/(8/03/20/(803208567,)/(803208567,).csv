@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+803208567,whitehacklabs/CVE,CVE-2024-27316.py,4209dbf5cf177bf4875777b89ce00982a2aa6219,CVE-2024-27316
 803208567,whitehacklabs/CVE,CVE-2024-28255.sh,6d6597e17f6dfbde4307a8f563ea904dd3b928f9,CVE-2024-28255
 803208567,whitehacklabs/CVE,CVE-2024-27348.sh,c2db264b033ce46c90aaa260ad09ed06e5fca5a7,CVE-2024-27348
