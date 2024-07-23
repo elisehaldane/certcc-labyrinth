@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+832617729,guardicode/snmp-exploiter,manifest.yaml,11609e760265339d2a3459951e33c94e32defceb,CVE-2020-15862
