@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/22
     
-158 records found after deduplication
+162 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -77,6 +77,7 @@
 | mahyarkermani1/metasploitable | اینجا قراره باهمدیگه روی آسیب‌پذیری‌های متاسپلویتیبل کار کنیم و چالش‌های تست‌نفوذ را ( با زبان فارسی ) انجام بدیم | https://github.com/mahyarkermani1/metasploitable | ['metasploit module OR payload'] | 1 | 2024-07-22 12:59:44+00:00 | 38 | 0 | | 0 | [] |
 | 9QIX/TCMSecurity-PracticalEthicalHacking | Learn the practical side of ethical hacking with our 25-hour course designed for hands-on learning 🖥️💻. Master essential tools and techniques, from information gathering and exploitation to post-exploitation and wireless attacks 🔍🔓. Perfect for beginners, | https://github.com/9QIX/TCMSecurity-PracticalEthicalHacking | ['exploit'] | 1 | 2024-07-22 14:52:49+00:00 | 85 | 1 | | 0 | [] |
 | D3vN3x/PDF-Exploit-Edge-Browser-D3vN3x-Security | A Simple ShowCase For Edge Browser PDF | https://github.com/D3vN3x/PDF-Exploit-Edge-Browser-D3vN3x-Security | ['exploit'] | 1 | 2024-07-22 02:17:15+00:00 | 3549 | 3 | C++ | 1 | [] |
+| synacktiv/octoscan | Octoscan is a static vulnerability scanner for GitHub action workflows. | https://github.com/synacktiv/octoscan | ['exploit'] | 1 | 2024-07-22 15:36:40+00:00 | 352 | 31 | Go | 2 | [] |
 | davidsaltacc/exploits-data | None | https://github.com/davidsaltacc/exploits-data | ['exploit'] | 1 | 2024-07-22 15:23:47+00:00 | 62 | 1 | | 0 | [] |
 | odneavvn/doc-macro-exploit | office macro exploit builder 🚀 opensource & free excel word macro exploit builder - oneclick silent macro exploit docx excel word pdf macro exploit xls word macro exploit excel macro exploit oneclick silent macro exploit docx excel word pdf macro exploit x | https://github.com/odneavvn/doc-macro-exploit | ['exploit'] | 1 | 2024-07-22 14:28:47+00:00 | 37 | 1 | Python | 1 | [] |
 | W-zrd/Nonstop-PWN-Reverse | Reverse Engineering & Binary Exploitation Warm Up for CTF | https://github.com/W-zrd/Nonstop-PWN-Reverse | ['exploit'] | 1 | 2024-07-22 12:56:08+00:00 | 5648 | 0 | Assembly | 0 | [] |
@@ -147,6 +148,8 @@
 | ashanet/SSTI-Buster | SSTI-Scanner detects server-side template injection vulnerabilities and tests for code injection capabilities. With various payloads and methods, this tool scans web pages to identify SSTI flaws, aiding security professionals in finding and exploiting temp | https://github.com/ashanet/SSTI-Buster | ['exploit'] | 1 | 2024-07-22 13:54:17+00:00 | 10 | 0 | Python | 0 | [] |
 | AsraniSanjana/CODTECH-Task2-Webapp-Pentest | Developed a custom web app to explore and understand webapp penetration testing through self-coded examples for exploiting vulnerabilities like SQLi, JSI, CORS, CSRF, and JWT. The website is called "VulnVilla". | https://github.com/AsraniSanjana/CODTECH-Task2-Webapp-Pentest | ['exploit'] | 1 | 2024-07-22 09:58:54+00:00 | 32 | 0 | HTML | 0 | [] |
 | KKkai0315/CVE-2018-17456 | a test repository for CVE-2018-17456's PoC | https://github.com/KKkai0315/CVE-2018-17456 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-07-22 10:17:55+00:00 | 1 | 0 | Shell | 0 | ['CVE-2018-17456'] |
+| fullspectrumdev/tabbypass-nsc-exploits | "Tab Bypass" Exploits for Sangoma NSC | https://github.com/fullspectrumdev/tabbypass-nsc-exploits | ['exploit'] | 1 | 2024-07-22 11:59:13+00:00 | 8 | 0 | Python | 0 | [] |
+| fullspectrumdev/tabbypass-nsg-exploits | "Tab Bypass" Exploits for Sangoma NSG | https://github.com/fullspectrumdev/tabbypass-nsg-exploits | ['exploit'] | 1 | 2024-07-22 15:27:11+00:00 | 10 | 0 | Python | 0 | [] |
 | OTRLabs/zigsframework | Attempt at emulating functionalities of popular REPL based exploit tooling in Zig | https://github.com/OTRLabs/zigsframework | ['exploit'] | 1 | 2024-07-22 13:04:57+00:00 | 5 | 0 | Zig | 0 | [] |
 | patrickdeanramos/TextPattern-CMS-4.9.0-dev-Authenticated-Remote-Command-Execution-RCE-Through-File-Upload | Textpattern version 4.9.0 is vulnerable to Remote Code Execution (RCE) due to the file upload functionality allowing unrestricted PHP file uploads, potentially leading to remote code execution. | https://github.com/patrickdeanramos/TextPattern-CMS-4.9.0-dev-Authenticated-Remote-Command-Execution-RCE-Through-File-Upload | ['rce', 'remote code execution'] | 2 | 2024-07-22 13:19:04+00:00 | 166 | 0 | | 0 | [] |
 | TnixsTheByte/KeySystem | Key System for exploit | https://github.com/TnixsTheByte/KeySystem | ['exploit'] | 1 | 2024-07-22 14:09:43+00:00 | 0 | 0 | Python | 0 | [] |
@@ -159,6 +162,7 @@
 | pamoutaf/CVE-2024-34329 | None | https://github.com/pamoutaf/CVE-2024-34329 | ['cve-2 OR cve_2'] | 1 | 2024-07-22 17:39:21+00:00 | 0 | 0 | | 0 | ['CVE-2024-34329'] |
 | aLerjj/SkriptGG | Providing the best undetected FiveM, RageMP, Alt-V, GTA V mod menu for pvp and with never before seen exploits and more multiplayer game cheats. | https://github.com/aLerjj/SkriptGG | ['exploit'] | 1 | 2024-07-22 18:00:36+00:00 | 423 | 1 | C++ | 0 | [] |
 | SecondNewtonLaw/zoop | A small collection of scripts and dependencies used to deter exploiters in Roblox games. | https://github.com/SecondNewtonLaw/zoop | ['exploit'] | 1 | 2024-07-22 23:40:23+00:00 | 27 | 0 | Luau | 0 | [] |
+| fullspectrumdev/sangoma-ntg-rce | Sangoma NTG Post-Auth RCE. | https://github.com/fullspectrumdev/sangoma-ntg-rce | ['rce'] | 1 | 2024-07-22 21:06:40+00:00 | 4 | 0 | Python | 0 | [] |
 | billandriano/exploit_accesslog_backup | None | https://github.com/billandriano/exploit_accesslog_backup | ['exploit'] | 1 | 2024-07-22 19:06:04+00:00 | 4063 | 0 | C | 0 | [] |
 | pkplaysrblx/tweak3d-sploit-bedwars-roblox | None | https://github.com/pkplaysrblx/tweak3d-sploit-bedwars-roblox | ['sploit'] | 1 | 2024-07-22 20:30:05+00:00 | 96 | 0 | | 0 | [] |
 | Brigham-CG/SEEDLabs-exploits | Exploits made to solve tasks in SEED labs | https://github.com/Brigham-CG/SEEDLabs-exploits | ['exploit'] | 1 | 2024-07-22 20:55:54+00:00 | 0 | 0 | | 0 | [] |
