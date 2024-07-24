@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+832835225,prince-mann/Remote-Code-Executor,backend/node_modules/@aws-crypto/sha256-browser/build/ie11Sha256.js,67bd14b41d9a14b7525ce2abf1ae68737527aba6,VU#291
+832835225,prince-mann/Remote-Code-Executor,backend/node_modules/@aws-crypto/sha256-browser/build/crossPlatformSha256.js,8ea58b2051d66a1e3252fb6533f3946bb8cb4892,VU#29
+832835225,prince-mann/Remote-Code-Executor,backend/node_modules/mquery/History.md,a1108b7481207abc911d72f3c25011b26267ff3d,CVE-2020-35149
+832835225,prince-mann/Remote-Code-Executor,backend/node_modules/@types/node/tls.d.ts,d6cb6e64c3e36e6798d3cccfbaa2b991f1dcb9a1,CVE-2021-44531
