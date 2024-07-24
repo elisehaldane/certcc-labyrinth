@@ -169,7 +169,6 @@ VU#13,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhick
 VU#13,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#13,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#13,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
-VU#13,0.01470588,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
 VU#13,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#13,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#13,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -179,6 +178,7 @@ VU#13,0.01428571,https://github.com/edavgaun/RCEL_506,edavgaun/RCEL_506,42468774
 VU#13,0.01408451,https://github.com/avorozhtsov/shipit,avorozhtsov/shipit,519739120
 VU#13,0.01408451,https://github.com/boun-tabi/biochemical-lms-for-drug-design,boun-tabi/biochemical-lms-for-drug-design,513855969
 VU#13,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceuludogan/PLMs_for_drug_design,502954823
+VU#13,0.01388889,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
 VU#13,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#13,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#13,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
@@ -284,6 +284,7 @@ VU#13,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/
 VU#13,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#13,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 VU#13,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+VU#13,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#13,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
 VU#13,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#13,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
@@ -411,7 +412,7 @@ VU#13,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967
 VU#13,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#13,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#13,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#13,0.00000918,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+VU#13,0.00000917,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 VU#13,0.00000916,https://github.com/trickest/cve,trickest/cve,454015416
 VU#13,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 VU#13,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
