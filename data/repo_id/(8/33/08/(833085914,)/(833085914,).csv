@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+833085914,natpakun/SSRF-CVE-2018-25031-,exploit.yaml,d628ae9dcaf308fbeca0d81e3e7a68cafc1c6a97,CVE-2018-25031
+833085914,natpakun/SSRF-CVE-2018-25031-,_GITHUB_REPO_METADATA_,,CVE-2018-25031
