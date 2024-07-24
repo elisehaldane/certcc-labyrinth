@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#09,1.00000000,https://github.com/Milkupprem/starB,Milkupprem/starB,812730309
 VU#09,1.00000000,https://github.com/g3tsyst3m/asmgoodness,g3tsyst3m/asmgoodness,640662761
 VU#09,1.00000000,https://github.com/one2blame/splintershell,one2blame/splintershell,486534152
-VU#09,1.00000000,https://github.com/yjhang-one/Vulnerability-POC-script,yjhang-one/Vulnerability-POC-script,464097142
+VU#09,1.00000000,https://github.com/mianbao-and-niunai/Vulnerability-POC-script,mianbao-and-niunai/Vulnerability-POC-script,464097142
 VU#09,1.00000000,https://github.com/A4P5/Promethean,A4P5/Promethean,432484208
 VU#09,1.00000000,https://github.com/ceritarommy/ajaxfilemanager,ceritarommy/ajaxfilemanager,426785762
 VU#09,1.00000000,https://github.com/mahaloz/ike,mahaloz/ike,338205755
@@ -358,7 +358,7 @@ VU#09,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#09,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#09,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#09,0.00952381,https://github.com/Threekiii/Awesome-Redteam,Threekiii/Awesome-Redteam,456730436
-VU#09,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#09,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#09,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#09,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#09,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
