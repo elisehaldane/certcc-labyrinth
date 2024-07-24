@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/23
     
-189 records found after deduplication
+190 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -35,7 +35,7 @@
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2024-07-23 14:29:25+00:00 | 2492 | 4 | | 2 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-07-23 18:10:45+00:00 | 11892 | 31 | HTML | 4 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2024-07-23 07:36:45+00:00 | 2107 | 21 | Java | 5 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-23 22:29:29+00:00 | 355502 | 6319 | HTML | 791 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-23 14:35:25+00:00 | 360958 | 6318 | HTML | 791 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-07-23 00:12:04+00:00 | 9504 | 0 | | 1 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-07-23 00:56:30+00:00 | 1053 | 641 | Shell | 117 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2024-07-23 12:01:24+00:00 | 241 | 731 | Go | 41 | [] |
@@ -85,7 +85,7 @@
 | R3CI/Lime-lite | Lite version of lime buy the full on discord | https://github.com/R3CI/Lime-lite | ['exploit'] | 1 | 2024-07-23 13:30:08+00:00 | 129 | 18 | Python | 1 | [] |
 | Naomi-cherono85/zeroday | None | https://github.com/Naomi-cherono85/zeroday | ['zeroday'] | 1 | 2024-07-23 07:01:08+00:00 | 2 | 0 | HTML | 0 | [] |
 | For-ACGN/Gleam-RT | A runtime that can hide your code and memory data in the sleep time. | https://github.com/For-ACGN/Gleam-RT | ['shellcode'] | 1 | 2024-07-23 13:46:07+00:00 | 1067 | 1 | C | 0 | [] |
-| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-23 04:50:45+00:00 | 1449 | 5 | C# | 0 | [] |
+| woiz-FF/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/woiz-FF/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-07-23 05:41:46+00:00 | 1450 | 5 | C# | 0 | [] |
 | adysec/nuclei_poc | Nuclei POC，每日更新 _ 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有11wPOC，已校验有效性并去重） | https://github.com/adysec/nuclei_poc | ['exploit'] | 1 | 2024-07-23 12:36:07+00:00 | 134021 | 317 | Python | 139 | [] |
 | gerbsec/Exploit-Dev | None | https://github.com/gerbsec/Exploit-Dev | ['exploit'] | 1 | 2024-07-23 20:47:11+00:00 | 108 | 0 | Python | 0 | [] |
 | 0xMarcio/cve | Latest CVEs with their Proof of Concept exploits. | https://github.com/0xMarcio/cve | ['exploit'] | 1 | 2024-07-23 04:33:57+00:00 | 125938 | 1 | Python | 1 | [] |
@@ -186,6 +186,7 @@
 | murazor81s5sk/tlpoeBLACKt | poe poe-cheat poe-cheats poe-hack poe-hacks poe-bot poe-private poe-exploit poe-trainer poetry-generator poe-auto-farm-bot poe-script | https://github.com/murazor81s5sk/tlpoeBLACKt | ['exploit'] | 1 | 2024-07-23 17:51:30+00:00 | 0 | 1 | | 0 | [] |
 | D3cl4n/Mordor | An implementation of Hell's Gate with encoding support for shellcode | https://github.com/D3cl4n/Mordor | ['shellcode'] | 1 | 2024-07-23 22:11:56+00:00 | 12 | 0 | C | 0 | [] |
 | LLaize733/Exploitation_Donnees_AssembleeNationale | None | https://github.com/LLaize733/Exploitation_Donnees_AssembleeNationale | ['exploit'] | 1 | 2024-07-23 22:02:58+00:00 | 27 | 0 | HTML | 0 | [] |
+| prince-mann/Remote-Code-Executor | The "Remote-Code-Executor" provides a platform for executing code remotely, supporting multiple programming languages and offering features like real-time collaboration, error handling, and secure execution environments. | https://github.com/prince-mann/Remote-Code-Executor | ['remote code execution'] | 1 | 2024-07-23 20:18:53+00:00 | 5990 | 0 | JavaScript | 0 | [] |
 | maxmoodycyber/VSE-UDP-Amplification-Scanner | A POC for using Valve Source Engine servers as a UDP DDoS amplification attack vector | https://github.com/maxmoodycyber/VSE-UDP-Amplification-Scanner | ['attack poc'] | 1 | 2024-07-23 20:38:24+00:00 | 12 | 0 | Python | 0 | [] |
 | guillaume-rce/guillaume-rce.github.io | None | https://github.com/guillaume-rce/guillaume-rce.github.io | ['rce'] | 1 | 2024-07-23 21:12:38+00:00 | 32388 | 0 | HTML | 0 | [] |
 | AllenJustine/HTML-Smuggling-Attack-Metasploit-reverse_tcp-payload-bound-with-Legitimate-ChromeSetup | None | https://github.com/AllenJustine/HTML-Smuggling-Attack-Metasploit-reverse_tcp-payload-bound-with-Legitimate-ChromeSetup | ['metasploit module OR payload'] | 1 | 2024-07-23 22:21:40+00:00 | 324 | 0 | HTML | 0 | [] |
