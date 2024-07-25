@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+833575887,Yassinehadri/HTB-Mailing-Writeup-Walkthrough,README.md,bad5d8d8899d59a5bf516ba716d021afef39f02c,CVE-2023-2255
+833575887,Yassinehadri/HTB-Mailing-Writeup-Walkthrough,README.md,bad5d8d8899d59a5bf516ba716d021afef39f02c,CVE-2024-21413
