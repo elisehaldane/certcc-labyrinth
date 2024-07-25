@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+833388994,dadvlingd/CVE-2024-21006,weblogic/src/com/example/test/Test.java,1014420e368324eaa4c0aed3f8c7246f5e62e19e,CVE-2024-21006
+833388994,dadvlingd/CVE-2024-21006,_GITHUB_REPO_METADATA_,,CVE-2024-21006
