@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+774364571,solygambas/practical-ethical-hacking-course,10. Scanning & Enumeration.md,0e2367bc570075270066d33b9984824e5a0b9c9d,CVE-2001-0835
+774364571,solygambas/practical-ethical-hacking-course,10. Scanning & Enumeration.md,0e2367bc570075270066d33b9984824e5a0b9c9d,CVE-2003-1418
+774364571,solygambas/practical-ethical-hacking-course,10. Scanning & Enumeration.md,0e2367bc570075270066d33b9984824e5a0b9c9d,CVE-2006-3918
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,CVE-2003-1418
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,CVE-2017-0143
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,CVE-2019-13272
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,CVE-2021-22555
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,GPZ-1903
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,MS17-010
+774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d02afdfaa92439bbcd761156bb7f4db1e3f3e59,OSVDB-12184
