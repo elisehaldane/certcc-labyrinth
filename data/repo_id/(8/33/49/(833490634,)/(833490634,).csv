@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+833490634,XiaoShaYu617/CVE-2020-9480,20220624_apache_spark_apache_spark_pre-auth_code_execution_cve-2020-9480.py,b7291fae371da1834b6644f382df8371cb2fc01f,CVE-2020-9480
+833490634,XiaoShaYu617/CVE-2020-9480,README.md,c62613abf77b3f1a30a879b4746e5ecffb64bf3a,CVE-2020-9480
+833490634,XiaoShaYu617/CVE-2020-9480,_GITHUB_REPO_METADATA_,,CVE-2020-9480
