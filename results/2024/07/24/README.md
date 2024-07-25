@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/24
     
-193 records found after deduplication
+195 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -38,6 +38,7 @@
 | pinpinsec/CVE-2020-14065 | CVE-2020-14065 | https://github.com/pinpinsec/CVE-2020-14065 | ['cve-2 OR cve_2'] | 1 | 2024-07-24 08:44:29+00:00 | 220 | 0 | | 0 | ['CVE-2020-14065'] |
 | pinpinsec/CVE-2020-14066 | CVE-2020-14066 | https://github.com/pinpinsec/CVE-2020-14066 | ['cve-2 OR cve_2'] | 1 | 2024-07-24 08:45:03+00:00 | 622 | 0 | | 0 | ['CVE-2020-14066'] |
 | pinpinsec/CVE-2021-44270 | CVE-2021-44270 | https://github.com/pinpinsec/CVE-2021-44270 | ['cve-2 OR cve_2'] | 1 | 2024-07-24 08:43:55+00:00 | 1338 | 0 | | 0 | ['CVE-2021-44270'] |
+| coral-xyz/sealevel-attacks | ☠️ Common Security Exploits and Protections on Solana | https://github.com/coral-xyz/sealevel-attacks | ['exploit'] | 1 | 2024-07-24 14:17:24+00:00 | 86 | 479 | Rust | 94 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-24 06:28:42+00:00 | 357203 | 6322 | HTML | 791 | [] |
 | efxtv/Install-Metasploit-Framework-6-in-Termux | Install metasploit without any error script by EFX Tv | https://github.com/efxtv/Install-Metasploit-Framework-6-in-Termux | ['metasploit module OR payload'] | 1 | 2024-07-24 13:24:01+00:00 | 5834 | 134 | Shell | 11 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-07-24 00:12:54+00:00 | 9561 | 0 | | 1 | [] |
@@ -174,6 +175,7 @@
 | natpakun/SSRF-CVE-2018-25031- | None | https://github.com/natpakun/SSRF-CVE-2018-25031- | ['cve-2 OR cve_2'] | 1 | 2024-07-24 10:22:48+00:00 | 1 | 0 | | 0 | ['CVE-2018-25031'] |
 | Rang3l2/Exploits | A collection of exploits | https://github.com/Rang3l2/Exploits | ['exploit'] | 1 | 2024-07-24 10:55:00+00:00 | 4 | 0 | Python | 0 | [] |
 | 13ooeo/SCP-SITE-ROLEPLAY-SCRIPT | SSRP exploit | https://github.com/13ooeo/SCP-SITE-ROLEPLAY-SCRIPT | ['exploit'] | 1 | 2024-07-24 12:58:43+00:00 | 9 | 0 | | 0 | [] |
+| PwCUK-CTO/BinaryNinja_shellcodehashes | Port of Mandiant ShellcodeHashes plugin from IDA to BinaryNinja | https://github.com/PwCUK-CTO/BinaryNinja_shellcodehashes | ['shellcode'] | 1 | 2024-07-24 13:30:07+00:00 | 10 | 0 | Python | 1 | [] |
 | Rannden-SHA/WoL-RCE | This repository is for use the wake on lan concept on a machine, and other tool is to execute remote commands on a windows machine. | https://github.com/Rannden-SHA/WoL-RCE | ['rce'] | 1 | 2024-07-24 13:58:47+00:00 | 8 | 0 | PowerShell | 0 | [] |
 | xiw1ll/CVE-2024-22198_Checker | Identify Nginx-ui version and check if it's vulnerable to CVE-2024-22198 | https://github.com/xiw1ll/CVE-2024-22198_Checker | ['cve-2 OR cve_2'] | 1 | 2024-07-24 14:02:20+00:00 | 1 | 0 | Python | 1 | ['CVE-2024-22198'] |
 | xeunBin/Bussid-Exploit-v3.4.3 | Money Exploit for Bus Simulator Indonesia [v.3.4.3] | https://github.com/xeunBin/Bussid-Exploit-v3.4.3 | ['exploit'] | 1 | 2024-07-24 14:54:30+00:00 | 24 | 0 | Python | 0 | [] |
