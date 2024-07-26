@@ -63,6 +63,7 @@ MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/
 MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
 MS08-067,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981
 MS08-067,0.50000000,https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,742667541
+MS08-067,0.50000000,https://github.com/adeljck/MS17-010,adeljck/MS17-010,711074080
 MS08-067,0.50000000,https://github.com/Xcod3bughunt3r/SMBploit,Xcod3bughunt3r/SMBploit,524652686
 MS08-067,0.50000000,https://github.com/mqxmm/Sploit-runner,mqxmm/Sploit-runner,508395730
 MS08-067,0.50000000,https://github.com/W0lfF4ng/Exploits,W0lfF4ng/Exploits,394376112
@@ -618,7 +619,7 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-MS08-067,0.00000937,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+MS08-067,0.00000929,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000917,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 MS08-067,0.00000916,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
