@@ -1,13 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
-767136230,vulncheck-oss/cve-2023-22527,webshell/go.mod,33753dfadfb74a05e445408d78320dc08ac80c1c,CVE-2023-22527
-767136230,vulncheck-oss/cve-2023-22527,nashorn/go.mod,406cee7b5b1ccffa9f2460fd4facfc2f4af73b9b,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,nashorn/cve-2023-22527.go,54b60e6b9af577f66f80be7112c31d64d59a9dad,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,webshell/README.md,56daabb8edffa1ae44c14f3ec8d2abd17e5cdfa1,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,README.md,5d9e7ef8eaca52a67975934cf81661e15a0de806,CVE-2023-22527
+767136230,vulncheck-oss/cve-2023-22527,reverseshell/go.mod,6bf1431c67abdc3d76c8b57a95ab9bbc74cf554f,CVE-2023-22527
+767136230,vulncheck-oss/cve-2023-22527,nashorn/go.mod,722ede0ede871f890913a27299616caac57d0daa,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,webshell/cve-2023-22527.go,7946f8f12733801031dcc9ca3cb26d2d7d26fe65,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,reverseshell/README.md,926cb082c37ef9a3f68aa4d83fa79bebff2c3714,CVE-2023-22527
+767136230,vulncheck-oss/cve-2023-22527,webshell/go.mod,9871dd59069946d01e1b3287f13c46f9c599282f,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,webshell/ABCDEFG.java,9c6676194383b939947bbd96296662ed2f1b9f0f,CVE-2023-22527
-767136230,vulncheck-oss/cve-2023-22527,reverseshell/go.mod,b3167f946b216b3d95e766a9b76cb48dbf097cf6,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,nashorn/README.md,ba9e3297ba98829888e15e951e6fbd4acae277e5,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,reverseshell/cve-2023-22527.go,be52d2dc702b642604891bdf402c0f1d29b81d6d,CVE-2023-22527
 767136230,vulncheck-oss/cve-2023-22527,_GITHUB_REPO_METADATA_,,CVE-2023-22527
