@@ -1,7 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
-824889689,M3str3/OpenEMR-exploits,cve-2021-41843/README.md,1dbf0349fadd4aea5b50b7adebf5e07dadd12739,CVE-2021-41843
-824889689,M3str3/OpenEMR-exploits,cve-2021-41843/pnuserapi.fixed.php,221ccb92a6bd7730911e9ef52cda83a7dc8d5125,CVE-2021-41843
-824889689,M3str3/OpenEMR-exploits,cve-2021-41843/exploit.py,b836b8401d1304d533534cd365ba8b8ea4e548fd,CVE-2021-41843
-824889689,M3str3/OpenEMR-exploits,cve-2018-17179/README.md,bcf04f11ce2c023169446e9d4c355265dea860c3,CVE-2018-17179
-824889689,M3str3/OpenEMR-exploits,cve-2018-17179/taskman_functions.fixed.php,cbf7868470f60ef5f589c862dac692dd57415ca9,CVE-2018-17179
-824889689,M3str3/OpenEMR-exploits,cve-2018-17179/exploit.py,e89cff20e98623e03fbe83d620b5fbe6ca1e09c5,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,XSS/cve-2018-1000219/readme.md,15a6fc8b06338088b36122994cee115db16e3781,CVE-2018-1000219
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2021-41843/pnuserapi.fixed.php,221ccb92a6bd7730911e9ef52cda83a7dc8d5125,CVE-2021-41843
+824889689,M3str3/OpenEMR-exploits,RCE/cve-2018-15142/exploit.py,44a18a43062b404c683c91d2f6eae552decf2075,CVE-2018-15142
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2021-41843/readme.md,5d1d3dc632ce207c86b834a2222c3660ccbe2df7,CVE-2021-41843
+824889689,M3str3/OpenEMR-exploits,XSS/cve-2018-1000219/fax_view.fixed.php,856f47e7f9376a71b56396664688cc61868c0340,CVE-2018-1000219
+824889689,M3str3/OpenEMR-exploits,XSS/cve-2018-1000219/exploit.py,951a20eeee4922c0ab03ce551daff4eccaad0c6b,CVE-2018-1000219
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2018-17179/exploit.py,b7998adcadc9797e59085e63c8515cfb3c1a2572,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2018-17179/readme.md,bcf04f11ce2c023169446e9d4c355265dea860c3,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,RCE/cve-2018-15142/readme.md,c9673fa6cad6b345092be57b804ba6dab08c5f94,CVE-2018-15142
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2018-17179/taskman_functions.fixed.php,cbf7868470f60ef5f589c862dac692dd57415ca9,CVE-2018-17179
+824889689,M3str3/OpenEMR-exploits,sql injection/cve-2021-41843/exploit.py,f1286c85573a02f10b64763d87bf029b385d05b7,CVE-2021-41843
