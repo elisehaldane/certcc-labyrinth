@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/26
     
-159 records found after deduplication
+161 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -143,7 +143,7 @@
 | aparish0328/VulnBoxNotes | Notes/write-ups on exploiting intentionally vulnerable machines. | https://github.com/aparish0328/VulnBoxNotes | ['exploit'] | 1 | 2024-07-26 06:37:17+00:00 | 1094 | 0 | | 0 | [] |
 | nehranarendra/I2CVERIFICATION | None | https://github.com/nehranarendra/I2CVERIFICATION | ['cve-2 OR cve_2'] | 1 | 2024-07-26 06:45:11+00:00 | 13 | 0 | SystemVerilog | 0 | [] |
 | rcen1nja/rcen1nja.github.io | Security Blog | https://github.com/rcen1nja/rcen1nja.github.io | ['rce'] | 1 | 2024-07-26 07:59:05+00:00 | 29 | 0 | Ruby | 0 | [] |
-| pexmee/d-link-dir-859-vulnerabilities-poc | This repository contains proof of concepts for a Denial of Service vulnerability, Path Traversal vulnerability and an Information Disclosure vulnerability in D-Link DIR-859 | https://github.com/pexmee/d-link-dir-859-vulnerabilities-poc | ['vuln poc', 'vulnerability poc'] | 2 | 2024-07-26 16:52:53+00:00 | 13 | 0 | nan | 0 | [] |
+| pexmee/d-link-dir-859-vulnerabilities-poc | This repository contains proof of concepts for a Denial of Service vulnerability, Path Traversal vulnerability and an Information Disclosure vulnerability in D-Link DIR-859 | https://github.com/pexmee/d-link-dir-859-vulnerabilities-poc | ['vuln poc', 'vulnerability poc'] | 2 | 2024-07-26 16:52:53+00:00 | 13 | 0 | | 0 | [] |
 | madhucnghubphilips/ThreatRadar-Pro | A structured approach used to identify, assess, and prioritize potential threats and vulnerabilities in a application. It helps organizations understand where their security weaknesses lie and how they might be exploited by attackers. The goal is to design | https://github.com/madhucnghubphilips/ThreatRadar-Pro | ['exploit'] | 1 | 2024-07-26 13:54:14+00:00 | 6 | 0 | | 0 | [] |
 | FlojBoj/CVE-2021-31630 | POC Exploit for CVE-2021-31630 written in Python3 and using C reverse shell with non-blocking mode | https://github.com/FlojBoj/CVE-2021-31630 | ['cve poc', 'cve-2 OR cve_2', 'exploit'] | 3 | 2024-07-26 16:23:29+00:00 | 3 | 0 | Python | 0 | ['CVE-2021-31630'] |
 | secsaburo/CVE-2024-41110- | CVE-2024-41110 docker AuthZ exploit | https://github.com/secsaburo/CVE-2024-41110- | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-07-26 17:42:12+00:00 | 0 | 0 | Go | 0 | ['CVE-2024-41110'] |
@@ -155,7 +155,9 @@
 | Sheheryar-de/ShellCode-LandingPage | None | https://github.com/Sheheryar-de/ShellCode-LandingPage | ['shellcode'] | 1 | 2024-07-26 16:28:28+00:00 | 7893 | 1 | JavaScript | 0 | [] |
 | rexder26/Reconrex | A Bug Bounty Recon tool, used different subdomain enumerating and Asset Discovery tools, in 1 used for time saving and to focus on exploiting. | https://github.com/rexder26/Reconrex | ['exploit'] | 1 | 2024-07-26 16:46:01+00:00 | 5 | 0 | Python | 0 | [] |
 | repo4Chu/nagiosxi-root-exploit-python | Nagiosxi root exploit python3 version | https://github.com/repo4Chu/nagiosxi-root-exploit-python | ['exploit'] | 1 | 2024-07-26 16:47:31+00:00 | 5 | 0 | Python | 0 | [] |
+| PauloParoPP/CVE-2024-41110-SCAN | None | https://github.com/PauloParoPP/CVE-2024-41110-SCAN | ['cve-2 OR cve_2'] | 1 | 2024-07-26 19:21:22+00:00 | 6 | 0 | Python | 0 | ['CVE-2024-41110'] |
 | jzafrap/Internal-External-Public-vulnerability-in-smart-contracts | Example of exploiting vulnerability - bad use of internal external public in solidity smart contracts | https://github.com/jzafrap/Internal-External-Public-vulnerability-in-smart-contracts | ['exploit'] | 1 | 2024-07-26 19:00:55+00:00 | 6 | 0 | Solidity | 0 | [] |
+| asd58584388/CVE-2021-44228 | CVE-2021-44228 vulnerability study | https://github.com/asd58584388/CVE-2021-44228 | ['cve-2 OR cve_2'] | 1 | 2024-07-26 20:57:47+00:00 | 824 | 0 | Java | 0 | ['CVE-2021-44228'] |
 | ScriptingWejqy/Client-Hax-v1.2 | Client Hax is a Roblox Exploiting menu that has very cool features, with only two features out of ten skidded! (very good for me) | https://github.com/ScriptingWejqy/Client-Hax-v1.2 | ['exploit'] | 1 | 2024-07-26 20:39:00+00:00 | 5 | 0 | Lua | 0 | [] |
 | seymenla/Roblox-PC-Exploit-Executor-Wave-FREE-Roblox-Exploit-Byfron-Bypass-Undetected-Windows | None | https://github.com/seymenla/Roblox-PC-Exploit-Executor-Wave-FREE-Roblox-Exploit-Byfron-Bypass-Undetected-Windows | ['exploit'] | 1 | 2024-07-26 21:54:49+00:00 | 0 | 0 | | 1 | [] |
 | arnavsubudhi/ssh-exploitation-tool | None | https://github.com/arnavsubudhi/ssh-exploitation-tool | ['exploit'] | 1 | 2024-07-26 22:31:58+00:00 | 8 | 0 | Python | 0 | [] |
