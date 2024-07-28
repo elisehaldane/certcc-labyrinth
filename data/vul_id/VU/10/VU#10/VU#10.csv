@@ -108,6 +108,7 @@ VU#10,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelu
 VU#10,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
 VU#10,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#10,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
+VU#10,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#10,0.04545455,https://github.com/ericyoc/hnn_attack_three_diff_defense_choices_poc,ericyoc/hnn_attack_three_diff_defense_choices_poc,804491924
 VU#10,0.04347826,https://github.com/jedilinux/Shellcode,jedilinux/Shellcode,832234093
 VU#10,0.04347826,https://github.com/treforevans/gp_grid,treforevans/gp_grid,118371522
@@ -155,7 +156,6 @@ VU#10,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7
 VU#10,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#10,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#10,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
-VU#10,0.02564103,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#10,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
 VU#10,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#10,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284

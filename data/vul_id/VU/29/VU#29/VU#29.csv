@@ -233,6 +233,7 @@ VU#29,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,3991
 VU#29,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#29,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#29,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+VU#29,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#29,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
@@ -305,7 +306,6 @@ VU#29,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/ph
 VU#29,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
-VU#29,0.02564103,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
@@ -464,7 +464,7 @@ VU#29,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,3370
 VU#29,0.01250000,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_1,828658576
 VU#29,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#29,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#29,0.01204819,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
+VU#29,0.01190476,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#29,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#29,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#29,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
