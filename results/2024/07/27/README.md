@@ -1,7 +1,7 @@
 
 # Summary for results/2024/07/27
     
-144 records found after deduplication
+145 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -10,6 +10,7 @@
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2024-07-27 06:00:05+00:00 | 6669 | 4434 | Python | 805 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2024-07-27 17:10:01+00:00 | 7405 | 6701 | Python | 718 | [] |
 | StarTux/Exploits | Detect common exploits | https://github.com/StarTux/Exploits | ['exploit'] | 1 | 2024-07-27 09:42:16+00:00 | 61 | 1 | Java | 1 | [] |
+| firmianay/CTF-All-In-One | CTF竞赛权威指南 | https://github.com/firmianay/CTF-All-In-One | ['exploit'] | 1 | 2024-07-27 18:28:34+00:00 | 48670 | 3994 | C | 696 | [] |
 | malwaredllc/byob | An open-source post-exploitation framework for students, researchers and developers. | https://github.com/malwaredllc/byob | ['exploit'] | 1 | 2024-07-27 01:49:17+00:00 | 39615 | 8850 | Python | 2099 | [] |
 | cultureelerfgoed/sparql | In deze repositories worden openbare SPARQL queries verzameld die gebruikt worden op linked datasets van de RCE | https://github.com/cultureelerfgoed/sparql | ['rce'] | 1 | 2024-07-27 02:03:26+00:00 | 493 | 0 | Python | 0 | [] |
 | bitsadmin/wesng | Windows Exploit Suggester - Next Generation | https://github.com/bitsadmin/wesng | ['exploit'] | 1 | 2024-07-27 17:09:03+00:00 | 133162 | 4073 | Python | 553 | [] |
@@ -19,7 +20,7 @@
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-27 00:35:29+00:00 | 484201 | 6278 | | 1151 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2024-07-27 00:50:31+00:00 | 75915 | 81 | | 39 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-07-27 05:04:35+00:00 | 1807093 | 115 | | 34 | [] |
-| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-07-27 16:46:18+00:00 | 513616 | 888 | Python | 192 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-07-27 04:48:38+00:00 | 508973 | 887 | Python | 192 | [] |
 | bigblackhat/oFx | 漏洞批量验证框架 | https://github.com/bigblackhat/oFx | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-07-27 11:19:50+00:00 | 63145 | 784 | Python | 160 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-07-27 01:21:54+00:00 | 2625 | 304 | HTML | 20 | [] |
 | pe83/pe83.github.io | PS3 & PS4 Exploit | https://github.com/pe83/pe83.github.io | ['exploit'] | 1 | 2024-07-27 13:37:15+00:00 | 1364 | 0 | HTML | 1 | [] |
@@ -38,7 +39,7 @@
 | bellpwn/test | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/test | ['exploit'] | 1 | 2024-07-27 14:44:26+00:00 | 656 | 1 | PHP | 0 | [] |
 | tymyrddin/red-bof | Buffer overflow exploits | https://github.com/tymyrddin/red-bof | ['exploit'] | 1 | 2024-07-27 13:59:13+00:00 | 2779 | 0 | CSS | 0 | [] |
 | vineelsai26/RCE | Remote Code Execution engine in Go | https://github.com/vineelsai26/RCE | ['rce', 'remote code execution'] | 2 | 2024-07-27 16:18:35+00:00 | 162 | 5 | Go | 0 | [] |
-| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-07-27 02:32:50+00:00 | 226596 | 129 | Go | 17 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-07-27 17:10:25+00:00 | 226202 | 129 | Go | 17 | [] |
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-07-27 09:36:48+00:00 | 12902 | 236 | | 18 | [] |
 | ztMotaLee/Regformer | Official implementation of our paper "Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining." | https://github.com/ztMotaLee/Regformer | ['exploit'] | 1 | 2024-07-27 11:21:15+00:00 | 4511 | 4 | Python | 1 | [] |
 | NobodyOffcal/vanguard-crash | valorant fortnite offsets csgo hack exploit free | https://github.com/NobodyOffcal/vanguard-crash | ['exploit'] | 1 | 2024-07-27 16:35:28+00:00 | 9945 | 3 | C++ | 0 | [] |
