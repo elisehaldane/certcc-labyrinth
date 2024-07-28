@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#24,1.00000000,https://github.com/R3DRUN3/sploitcraft,R3DRUN3/sploitcraft,818936781
 VU#24,1.00000000,https://github.com/Aidan-Walsh/Automated-Binary-Exploitation,Aidan-Walsh/Automated-Binary-Exploitation,793266398
 VU#24,1.00000000,https://github.com/BitDevelopersLLC/myexploitscanner,BitDevelopersLLC/myexploitscanner,748830639
 VU#24,1.00000000,https://github.com/catallo/ht,catallo/ht,705767979
@@ -300,6 +301,7 @@ VU#24,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#24,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#24,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#24,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#24,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,0chres0/FiveM-External-Cheat-KeyAuth-System,834754324
 VU#24,0.00990099,https://github.com/chress0/FiveM-External-Cheat-KeyAuth-System,chress0/FiveM-External-Cheat-KeyAuth-System,818766943
 VU#24,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#24,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
