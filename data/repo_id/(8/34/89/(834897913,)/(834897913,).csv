@@ -27,7 +27,7 @@ repo_id,repo_full_name,file,file_sha1,match
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/generator.py,9f9baf77d89b4411901e203096ea4c5832f1ef27,CVE-2021-40444
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/clean.bat,a11c163fc5aa23e3168ea1b8ab019cc67909c168,CVE-2021-40444
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/template/cab-orig-debobfuscated1.html,a30dae079501e1f00f3742ae6dfab5e58d682cad,CVE-2021-40444
-834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,README.md,aa4b120e5d424839fc5cb7ba3b6033af96ceb441,CVE-2021-40444
+834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,README.md,a45d0e902b0e3334c9e4b8bdea1b6bd02852151d,CVE-2021-40444
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/template/cab-uri-test-obfuscated.html,ad9bcb29132407401274f7695e686f51ccc09888,CVE-2021-40444
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/data/word_dat/word/webSettings.xml,b10c06f920c80f56b427223f0ebe641c9fbf4a91,CVE-2021-40444
 834897913,basim-ahmad/Follina-CVE-and-CVE-2021-40444,CVE-2021-40444/test/job-vbs.wsf,b14cec58b60ed5c712b6e617f6ffec1631263da6,CVE-2021-40444
