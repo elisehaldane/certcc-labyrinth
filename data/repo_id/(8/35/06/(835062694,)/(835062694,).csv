@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+835062694,seclib/Active-Directory-Exploitation,README.md,cb6c9acd2981d2276a99a4e0726a1d7da61dda0f,CVE-2020-0688
