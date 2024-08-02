@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 811899007,openexploitresearch/exploits,chrome/CVE-2024-0517_exploit.js,3be6113d01aa8a8f9826d66caeb6fb4bda991adb,CVE-2024-0517
+811899007,openexploitresearch/exploits,windows/CVE-2024-38112_IEvoker.py,5a476299ab14eeaa5b48a4e9a121c8b53fe29b15,CVE-2024-38112
 811899007,openexploitresearch/exploits,windows/dual_toctou_lpe(cve-2024-30088).cpp,9698715d44018039b8ec8452836a87c4ec5a82f7,CVE-2024-30088
