@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,CVE-2015-5600
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,CVE-2022-3365
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS03-031
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS08-040
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS08-052
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS09-004
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS09-062
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS11-049
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS12-070
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,MS15-058
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,VU#154421
+834741951,haroonawanofficial/ng-networkscanner,nmap-service-probes,ee05cc464ba3fa6679f35c19369c5a70648ab261,ZDI-11-113

@@ -1,0 +1,25 @@
+repo_id,repo_full_name,file,file_sha1,match
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2005-1807
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2021-3603
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2021-34551
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2020-36326
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2020-13625
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2018-19296
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2017-5223
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2017-11503
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2016-10033
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2016-10045
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2012-0796
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2011-3747
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2010-4914
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2008-5619
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2007-3215
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2007-2021
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2006-5734
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/SECURITY.md,3ccb8e789d913858f7ac26375a29f0259c3d0a5a,CVE-2015-8476
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,webapp pentest documentation.docx,650dc96cd8e42038455eaf15a9b258c3322bfabf,VU#2999
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,webapp pentest documentation.docx,650dc96cd8e42038455eaf15a9b258c3322bfabf,VU#142
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,webapp pentest documentation.docx,650dc96cd8e42038455eaf15a9b258c3322bfabf,VU#992
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/src/PHPMailer.php,c696a2033bf8f0ab324b74acf7afca22ae10e8dc,CVE-2016-10033
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/src/PHPMailer.php,c696a2033bf8f0ab324b74acf7afca22ae10e8dc,CVE-2016-10045
+832075651,AsraniSanjana/CODTECH-Task2-Webapp-Pentest,codtech/email/phpmailer/src/PHPMailer.php,c696a2033bf8f0ab324b74acf7afca22ae10e8dc,CVE-2021-3603
