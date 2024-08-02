@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+837062013,charchit-subedi/chamilo-lms-unauthenticated-rce-poc,README.md,7b6522dcfed1724b85aea24f175753d28dad564b,CVE-2023-4220
+837062013,charchit-subedi/chamilo-lms-unauthenticated-rce-poc,main.py,7dc056973ca5c103ecd97ff1d1d91e0b224417c2,CVE-2023-4220
+837062013,charchit-subedi/chamilo-lms-unauthenticated-rce-poc,_GITHUB_REPO_METADATA_,,CVE-2023-4220
