@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/zte/f460_f660_rce.py,1025dbed5b4874eaea17e3d55971a5dfa5802f5b,CVE-2014-2321
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/zte/f460_f660_rce.py,1025dbed5b4874eaea17e3d55971a5dfa5802f5b,VU#600724
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/mikrotik/winbox_credentials_disclosure.py,32c60c183973a08d0623cfcc813c97d56417093d,CVE-2018-14847
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/generic/p2p_password_disclosure.py,56485577ff0b53c914b88a3117da350ee1c33f24,CVE-2017-8225
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/linksys/wap54gv3_debug_rce.py,6e33b4626ae98f3468801bb527bc68c1b459096b,CVE-2010-1573
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/generic/dvr_credentials_disclosure.py,7e9ebfd0bc01474d2f1e500a93e2826e44ed8419,CVE-2018-9995
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/skybridge/100_110_code_execution.py,7f4bf40f2e442611c042f4b6437a73550deeb871,CVE-2023-23578
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/dlink/dir845l_credentials_disclosure.py,8483759f1d0e8ac942429dfc47e7b5c78383ebee,CVE-2024-33113
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/skybridge/100_110_credentials_disclosure.py,954361dbf3bdaa21a6abbdc4eaf4901d5a8fb9bf,CVE-2023-23578
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/generic/icewarp/webmail_path_traversal.py,ac544633476b63e5728f4d238e50e993abaae3d1,CVE-2019-12593
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/nostromo/remote_code_execution.py,b0b8567d47fdf66f5c96790d0a39d5ac34f45b28,CVE-2019-16278
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/dlink/dcs_credentials_disclosure.py,bdc8d3b9da88ac569473083217428eacfb9ccb5d,CVE-2020-25078
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/rompager/multi_password_disclosure.py,da0f38c77ad2904eb3a7fcfb5bd3e5d8e0c71f74,CVE-2014-4019
+339773808,EntySec/HatSploit,hatsploit/modules/exploit/linux/dlink/hedwig_code_execution.py,e3a4b86dcde6c898d024e291b7473b819475bd06,CVE-2013-7389
