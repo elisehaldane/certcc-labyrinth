@@ -44,6 +44,7 @@ VU#11,0.07692308,https://github.com/ruiking04/CutAddPaste,ruiking04/CutAddPaste,
 VU#11,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#11,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#11,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
+VU#11,0.06666667,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#11,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#11,0.06666667,https://github.com/colind0pe/Java-Vulnerability-Demo,colind0pe/Java-Vulnerability-Demo,532512601
 VU#11,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JNDI-Exploit-Server,440028136
@@ -61,7 +62,6 @@ VU#11,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/ran
 VU#11,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
 VU#11,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#11,0.04761905,https://github.com/left-nullspace/cointegration-exploration-python,left-nullspace/cointegration-exploration-python,818392043
-VU#11,0.04761905,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#11,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#11,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
 VU#11,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
@@ -235,8 +235,8 @@ VU#11,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#11,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#11,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#11,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#11,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#11,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#11,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#11,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

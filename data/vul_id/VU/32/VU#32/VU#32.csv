@@ -42,6 +42,7 @@ VU#32,0.50000000,https://github.com/minhnq22/CVE-2021-42171,minhnq22/CVE-2021-42
 VU#32,0.50000000,https://github.com/lilmond/Roblox-Exploit-Scripts,lilmond/Roblox-Exploit-Scripts,382204911
 VU#32,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#32,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
+VU#32,0.33333333,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#32,0.33333333,https://github.com/0xefd/binary_exploitation,0xefd/binary_exploitation,749293404
 VU#32,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#32,0.33333333,https://github.com/isfshax/isfshax,isfshax/isfshax,669924892
@@ -79,7 +80,6 @@ VU#32,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2
 VU#32,0.25000000,https://github.com/SitinCloud/Owlyshield,SitinCloud/Owlyshield,415018696
 VU#32,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#32,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
-VU#32,0.20000000,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#32,0.20000000,https://github.com/MiracleUFO/LendWise,MiracleUFO/LendWise,672371512
 VU#32,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
 VU#32,0.20000000,https://github.com/N1rv0us/kernel_exploitation,N1rv0us/kernel_exploitation,556869304
@@ -419,9 +419,9 @@ VU#32,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#32,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#32,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#32,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#32,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#32,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
+VU#32,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#32,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#32,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#32,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -607,7 +607,7 @@ VU#32,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#32,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#32,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#32,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#32,0.00018793,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00018790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -14,6 +14,7 @@ VU#10,0.50000000,https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CV
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
+VU#10,0.33333333,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#10,0.33333333,https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3,TechnicalForumResearcher/DuplicateDetectionWithGPT3,700450885
 VU#10,0.33333333,https://github.com/Songg45/CVE-2023-4683-Test,Songg45/CVE-2023-4683-Test,697961473
 VU#10,0.33333333,https://github.com/asdaweee/GitLabRCECVE-2021-22205-GUI,asdaweee/GitLabRCECVE-2021-22205-GUI,664967309
@@ -30,7 +31,6 @@ VU#10,0.25000000,https://github.com/AlexanderDaou/exploit-videos,AlexanderDaou/e
 VU#10,0.25000000,https://github.com/APTIRAN/CVE-2022-1040,APTIRAN/CVE-2022-1040,523301905
 VU#10,0.25000000,https://github.com/MojaveMF/RobloxClientAudio,MojaveMF/RobloxClientAudio,485045922
 VU#10,0.20000000,https://github.com/JordiChinnance/CraxsRat-7.6-source-code-compiler,JordiChinnance/CraxsRat-7.6-source-code-compiler,832225290
-VU#10,0.20000000,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#10,0.20000000,https://github.com/NZT48/exploiting-smart-contract-vulnerabilities,NZT48/exploiting-smart-contract-vulnerabilities,510038855
 VU#10,0.20000000,https://github.com/HappyyCat/exploit,HappyyCat/exploit,445970103
 VU#10,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
@@ -226,6 +226,7 @@ VU#10,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#10,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#10,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#10,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
+VU#10,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
 VU#10,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#10,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#10,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
@@ -285,8 +286,8 @@ VU#10,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#10,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#10,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#10,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
-VU#10,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#10,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#10,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#10,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#10,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#10,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -463,7 +464,7 @@ VU#10,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#10,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#10,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#10,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#10,0.00018793,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#10,0.00018790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#10,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#10,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#10,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

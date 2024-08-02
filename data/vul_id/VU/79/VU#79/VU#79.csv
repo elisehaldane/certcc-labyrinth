@@ -73,6 +73,7 @@ VU#79,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_e
 VU#79,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#79,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#79,0.06666667,https://github.com/Y5neKO/Y5_VulnHub,Y5neKO/Y5_VulnHub,826065615
+VU#79,0.06666667,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#79,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
 VU#79,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
 VU#79,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
@@ -85,7 +86,6 @@ VU#79,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-202
 VU#79,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#79,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
 VU#79,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
-VU#79,0.04761905,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#79,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#79,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#79,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
@@ -167,6 +167,7 @@ VU#79,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_t
 VU#79,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#79,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#79,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
+VU#79,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
 VU#79,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#79,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
 VU#79,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
@@ -240,7 +241,7 @@ VU#79,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-A
 VU#79,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#79,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#79,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
-VU#79,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#79,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#79,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#79,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#79,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -410,7 +411,7 @@ VU#79,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#79,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#79,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#79,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#79,0.00018793,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#79,0.00018790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#79,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

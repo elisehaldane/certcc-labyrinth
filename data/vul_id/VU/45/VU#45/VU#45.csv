@@ -22,7 +22,7 @@ VU#45,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123
 VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
-VU#45,0.50000000,https://github.com/cyberanand1337x/metasploit-termux-2023,cyberanand1337x/metasploit-termux-2023,543638364
+VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
 VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
@@ -67,7 +67,6 @@ VU#45,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,
 VU#45,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#45,0.25000000,https://github.com/0xalwayslucky/log4j-polkit-poc,0xalwayslucky/log4j-polkit-poc,452823928
 VU#45,0.25000000,https://github.com/ptef/CVE-2020-9273,ptef/CVE-2020-9273,310408864
-VU#45,0.20000000,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#45,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#45,0.20000000,https://github.com/Shaddyjr/simon_explore_v__exploit,Shaddyjr/simon_explore_v__exploit,503661195
 VU#45,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRescue,444224382
@@ -239,6 +238,7 @@ VU#45,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,4718
 VU#45,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#45,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#45,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
+VU#45,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
 VU#45,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#45,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#45,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
@@ -309,7 +309,7 @@ VU#45,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#45,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#45,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#45,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#45,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#45,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#45,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#45,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -488,7 +488,7 @@ VU#45,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#45,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#45,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#45,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#45,0.00018793,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#45,0.00018790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#45,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#45,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

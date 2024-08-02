@@ -97,6 +97,7 @@ VU#63,0.07142857,https://github.com/SaintsConnor/Exploits,SaintsConnor/Exploits,
 VU#63,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#63,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#63,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#63,0.06666667,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#63,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#63,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#63,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
@@ -120,7 +121,6 @@ VU#63,0.05000000,https://github.com/chains-project/exploits-for-sbom.exe,chains-
 VU#63,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelude-in-C,539674213
 VU#63,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
 VU#63,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
-VU#63,0.04761905,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#63,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
 VU#63,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#63,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
@@ -340,8 +340,8 @@ VU#63,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#63,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#63,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#63,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#63,0.00900901,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#63,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#63,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#63,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#63,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050

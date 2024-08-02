@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS11-049,0.08333333,https://github.com/haroonawanofficial/ng-networkscanner,haroonawanofficial/ng-networkscanner,834741951
 MS11-049,0.08333333,https://github.com/rstenvi/intrasploit,rstenvi/intrasploit,142786321
 MS11-049,0.05263158,https://github.com/ca3tie1/ExploitDepository,ca3tie1/ExploitDepository,428485331
 MS11-049,0.00800000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
