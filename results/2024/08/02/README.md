@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/02
     
-154 records found after deduplication
+160 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -55,7 +55,9 @@
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2024-08-02 00:25:12+00:00 | 1474471 | 5 | Jupyter Notebook | 1 | [] |
 | kirakundev/exploitHub | The exploit source code | https://github.com/kirakundev/exploitHub | ['exploit'] | 1 | 2024-08-02 20:23:49+00:00 | 3163 | 1 | PHP | 0 | [] |
 | Mehdi0x90/Web_Hacking | Bug Bounty Tricks and useful payloads and bypasses for Web Application Security. | https://github.com/Mehdi0x90/Web_Hacking | ['exploit'] | 1 | 2024-08-02 14:01:40+00:00 | 529 | 206 | | 38 | [] |
+| lucagrippa/cisa-kev-archive | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | ['exploit'] | 1 | 2024-08-02 23:31:59+00:00 | 2609 | 0 | | 0 | [] |
 | AndrePatri/LRHControl | Learning-based Receding Horizon Control exploiting Reinforcement Learning | https://github.com/AndrePatri/LRHControl | ['exploit'] | 1 | 2024-08-02 10:50:05+00:00 | 3038 | 3 | Python | 0 | [] |
+| errorfiathck/ssrf-exploit | an exploit of Server-side request forgery (SSRF) | https://github.com/errorfiathck/ssrf-exploit | ['exploit'] | 1 | 2024-08-02 22:24:40+00:00 | 4876 | 45 | Python | 9 | [] |
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-08-02 05:07:23+00:00 | 384803 | 0 | Python | 0 | [] |
 | charonlight/NacosExploitGUI | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | https://github.com/charonlight/NacosExploitGUI | ['exploit'] | 1 | 2024-08-02 01:13:12+00:00 | 23049 | 813 | Java | 63 | [] |
 | Tips-Discord/Cwelium | Cwelium is a Discord Raider _ a Discord raider with various features Its ALWAYS UpToDate | https://github.com/Tips-Discord/Cwelium | ['exploit'] | 1 | 2024-08-02 10:42:52+00:00 | 216 | 49 | Python | 7 | [] |
@@ -63,9 +65,11 @@
 | vulsio/vuls-data-raw-exploit-inthewild | None | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2024-08-02 00:13:37+00:00 | 26742 | 6 | | 1 | [] |
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2024-08-02 00:13:49+00:00 | 72282 | 0 | | 0 | [] |
 | ingmbioinfo/cia | CIA (Cluster Independent Annotation) is a new computational tool that enables a highly accurate automatic classification of cells in scRNA-seq datasets exploiting gene signatures. | https://github.com/ingmbioinfo/cia | ['exploit'] | 1 | 2024-08-02 15:11:36+00:00 | 59796 | 1 | Python | 0 | [] |
+| BC-SECURITY/Moriarty | Moriarty is designed to enumerate missing KBs, detect various vulnerabilities, and suggest potential exploits for Privilege Escalation in Windows environments. | https://github.com/BC-SECURITY/Moriarty | ['exploit'] | 1 | 2024-08-02 16:21:41+00:00 | 455 | 461 | C# | 54 | [] |
 | EntySec/SeaShell | SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information. | https://github.com/EntySec/SeaShell | ['exploit'] | 1 | 2024-08-02 01:23:34+00:00 | 19501 | 368 | Python | 50 | [] |
 | KhachikAstoyan/quandry-executor | The code executor service for my toy-rce project | https://github.com/KhachikAstoyan/quandry-executor | ['rce'] | 1 | 2024-08-02 20:56:43+00:00 | 153 | 0 | Rust | 0 | [] |
 | M3rcena/m3rcena-weky | None | https://github.com/M3rcena/m3rcena-weky | ['rce'] | 1 | 2024-08-02 13:32:52+00:00 | 693 | 2 | TypeScript | 4 | [] |
+| ytaousi/OverRide-BinaryExploits- | None | https://github.com/ytaousi/OverRide-BinaryExploits- | ['exploit'] | 1 | 2024-08-02 21:23:41+00:00 | 3829 | 0 | C | 0 | [] |
 | leesinz/crush | CRUSH aims to crawl historical vulnerability data from major platforms and monitor daily updates. | https://github.com/leesinz/crush | ['cve poc', 'metasploit module OR payload', 'vulnerability poc'] | 3 | 2024-08-02 01:08:39+00:00 | 93916 | 40 | Go | 3 | [] |
 | philrice-rcef/rcef_ws2024 | Rice Seed monitoring system wet season 2024 | https://github.com/philrice-rcef/rcef_ws2024 | ['rce'] | 1 | 2024-08-02 02:21:53+00:00 | 128967 | 0 | JavaScript | 0 | [] |
 | cve-sandbox-bot/cve_sandbox | A curated list of CVEs, respective PoC and a docker/vm to test it. | https://github.com/cve-sandbox-bot/cve_sandbox | ['cve poc'] | 1 | 2024-08-02 15:13:31+00:00 | 82253 | 1 | CSS | 0 | [] |
@@ -119,11 +123,12 @@
 | jiscaskalov/Oxycodone | A high performance, high security fork of Paper designed for large scale servers and exploit protection (work in progress) | https://github.com/jiscaskalov/Oxycodone | ['exploit'] | 1 | 2024-08-02 03:35:45+00:00 | 164 | 2 | | 0 | [] |
 | Th3Tr1ckst3r/ShadowTrack | An open-source list of IP ranges used, registered, or affiliated with the services of shadowserver.org. A "non-profit" that has tasked itself with protecting the internet on a global scale through non-exploitative servers probing any/all servers/online dev | https://github.com/Th3Tr1ckst3r/ShadowTrack | ['exploit'] | 1 | 2024-08-02 07:27:53+00:00 | 33 | 1 | | 0 | [] |
 | TimboFimbo/HackyHacky_JoyJoy | A puzzle game about exploiting software vulnerabilities | https://github.com/TimboFimbo/HackyHacky_JoyJoy | ['exploit'] | 1 | 2024-08-02 13:56:03+00:00 | 3510 | 0 | C# | 0 | [] |
-| Chocapikk/CVE-2024-36401 | GeoServer Remote Code Execution | https://github.com/Chocapikk/CVE-2024-36401 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2024-08-02 14:57:26+00:00 | 387 | 52 | Python | 12 | ['CVE-2024-36401'] |
+| Chocapikk/CVE-2024-36401 | GeoServer Remote Code Execution | https://github.com/Chocapikk/CVE-2024-36401 | ['cve-2 OR cve_2', 'remote code execution'] | 2 | 2024-08-02 14:57:26+00:00 | 387 | 51 | Python | 12 | ['CVE-2024-36401'] |
 | lypd0/DeadPotato | DeadPotato is a windows privilege escalation utility from the Potato family of exploits, leveraging the SeImpersonate right to obtain SYSTEM privileges. This script has been customized from the original GodPotato source code by BeichenDream. | https://github.com/lypd0/DeadPotato | ['exploit'] | 1 | 2024-08-02 10:09:55+00:00 | 658 | 116 | C# | 21 | [] |
 | h22n/Exploit-APN | h22n - World APN Service / Latest version 2024 | https://github.com/h22n/Exploit-APN | ['exploit'] | 1 | 2024-08-02 13:53:58+00:00 | 19 | 0 | | 0 | [] |
 | HeyMrSalt/AIS3-2024-Project-D5Team | Reappear-CVE-2022-21449-TLS-PoC | https://github.com/HeyMrSalt/AIS3-2024-Project-D5Team | ['cve poc'] | 1 | 2024-08-02 16:45:27+00:00 | 19 | 0 | | 0 | ['CVE-2022-21449'] |
 | guragainroshan0/gke-privilege-pod-exploit | Modification of GKE exec plugin . All the code is taken from kubernetes' official repo and modification done | https://github.com/guragainroshan0/gke-privilege-pod-exploit | ['exploit'] | 1 | 2024-08-02 15:47:57+00:00 | 20 | 0 | Go | 0 | [] |
+| RobloxAccountRevover/Roblox-Exploits | None | https://github.com/RobloxAccountRevover/Roblox-Exploits | ['exploit'] | 1 | 2024-08-02 23:04:35+00:00 | 19 | 0 | Lua | 0 | [] |
 | screwfelix/felix.gg | "felix.gg" is a exploit/cheat/script written in LuaU, meant to be used on the ROBLOX game "Criminality". My discord is @screwfelix, dm me for support! Our discord server is below. | https://github.com/screwfelix/felix.gg | ['exploit'] | 1 | 2024-08-02 17:49:46+00:00 | 73 | 1 | Luau | 0 | [] |
 | APTM82589933/cs50-cyberweapon-hunter-tutorial | helpful guide for inital learners of exploit engineers to sell for crypto or something; ideally updated with eventual dream of AI-powered exploit search & destroy | https://github.com/APTM82589933/cs50-cyberweapon-hunter-tutorial | ['exploit'] | 1 | 2024-08-02 01:30:21+00:00 | 2 | 0 | | 0 | [] |
 | GH726-dev/SocialSploit | None | https://github.com/GH726-dev/SocialSploit | ['sploit'] | 1 | 2024-08-02 02:44:39+00:00 | 5214 | 0 | | 0 | [] |
@@ -159,3 +164,4 @@
 | Abdurahmon3236/CVE-2024-5246 | None | https://github.com/Abdurahmon3236/CVE-2024-5246 | ['cve-2 OR cve_2'] | 1 | 2024-08-02 20:57:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2024-5246'] |
 | 0xCaner/RDP-NLA-Closing-Scanner | 用于批量扫描远程桌面是否关闭NLA，而后半自动寻找搜狗输入法RCE。 | https://github.com/0xCaner/RDP-NLA-Closing-Scanner | ['rce'] | 1 | 2024-08-02 21:44:40+00:00 | 0 | 0 | Python | 0 | [] |
 | Abdurahmon3236/CVE-2024-24549 | None | https://github.com/Abdurahmon3236/CVE-2024-24549 | ['cve-2 OR cve_2'] | 1 | 2024-08-02 21:06:02+00:00 | 0 | 0 | Python | 0 | ['CVE-2024-24549'] |
+| CalvinMachitje/Deathnote-vulhub-Report | This repository contains a detailed report on the penetration testing of the Deathnote VulnHub machine. The objective was to gain root access through various exploitation techniques. | https://github.com/CalvinMachitje/Deathnote-vulhub-Report | ['exploit'] | 1 | 2024-08-02 23:28:24+00:00 | 2419 | 1 | | 0 | [] |
