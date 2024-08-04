@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+835791874,White-BAO/CVE-2023-25813,README.md,0a1fdee51505adf7c367e940428142538012ee14,CVE-2023-25813
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#33
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#84
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/moment-timezone/changelog.md,3d9032a0f6dcec52a10cf22e4047478fc4a94977,GHSA-56X4-J7P9-FCF9
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/moment-timezone/changelog.md,3d9032a0f6dcec52a10cf22e4047478fc4a94977,GHSA-V78C-4P63-2J6C
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/moment/CHANGELOG.md,53f665bb03c69f569c839f54dac749502997bf7d,GHSA-8HFJ-J24R-96C4
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/sqlite3/deps/sqlite-autoconf-3440200.tar.gz,8398dd159f3a1fd8f1c5edf02c687512eaab69e4,VU#78
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/@types/node/tls.d.ts,bb309c1da90c0b5bbe2e1e30f3394e7c344903a3,CVE-2021-44531
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/@types/node/crypto.d.ts,c12e4cf455398b4f9bb62ed3e7bff4de3066b13e,CVE-2021-44532
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#243
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#48
+835791874,White-BAO/CVE-2023-25813,vuln/node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#93
+835791874,White-BAO/CVE-2023-25813,_GITHUB_REPO_METADATA_,,CVE-2023-25813
