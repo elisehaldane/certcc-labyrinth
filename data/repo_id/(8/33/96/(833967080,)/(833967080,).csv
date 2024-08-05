@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+833967080,aparish0328/VulnBoxNotes,Earth_Box_WriteUp.pdf,1b1c771db0cc377e133032159f9849f558928e7e,VU#56
+833967080,aparish0328/VulnBoxNotes,Beelzebub 1_WriteUp.pdf,b7ef4c1dae0849b2030f03536f188d1965f2be6c,CVE-2019-12181
+833967080,aparish0328/VulnBoxNotes,Beelzebub 1_WriteUp.pdf,b7ef4c1dae0849b2030f03536f188d1965f2be6c,VU#577
+833967080,aparish0328/VulnBoxNotes,Beelzebub 1_WriteUp.pdf,b7ef4c1dae0849b2030f03536f188d1965f2be6c,VU#98
