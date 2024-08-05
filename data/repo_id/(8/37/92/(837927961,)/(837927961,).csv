@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-837927961,nexussecelite/EvilDroid,README.md,af3ac1091c52ba2deec963197394f80d45a45934,CVE-2024-0044
+837927961,nexussecelite/EvilDroid,evildroid.py,264168f694c2cf73a7f0d640a5537382e3ecfab7,CVE-2024-0044
+837927961,nexussecelite/EvilDroid,README.md,f675d3c0483408166701b23d92d6a6ca5d2f43a8,CVE-2024-0044
 837927961,nexussecelite/EvilDroid,_GITHUB_REPO_METADATA_,,CVE-2024-0044
