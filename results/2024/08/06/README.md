@@ -1,0 +1,23 @@
+
+# Summary for results/2024/08/06
+    
+16 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| cultureelerfgoed/sparql | In deze repositories worden openbare SPARQL queries verzameld die gebruikt worden op linked datasets van de RCE | https://github.com/cultureelerfgoed/sparql | ['rce'] | 1 | 2024-08-06 02:06:21+00:00 | 558 | 0 | Python | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-08-06 04:31:58+00:00 | 1285123 | 484 | REXX | 44 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'vulnerability poc'] | 2 | 2024-08-06 00:35:38+00:00 | 482112 | 6297 | | 1155 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2024-08-06 04:48:40+00:00 | 510455 | 891 | Python | 195 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2024-08-06 00:56:39+00:00 | 1183 | 643 | Shell | 117 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-08-06 05:30:02+00:00 | 209465 | 250 | Go | 55 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc'] | 1 | 2024-08-06 05:30:43+00:00 | 226824 | 135 | Go | 18 | [] |
+| cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-08-06 05:07:46+00:00 | 409172 | 0 | Python | 0 | [] |
+| philrice-rcef/rcef_ws2024 | Rice Seed monitoring system wet season 2024 | https://github.com/philrice-rcef/rcef_ws2024 | ['rce'] | 1 | 2024-08-06 03:11:07+00:00 | 129169 | 0 | JavaScript | 0 | [] |
+| BigDataEngineer/cloud9_rceovery | rebuilding cloud9 repo as cloud9_recovery, since unable to push any changes since 2/6/2024 from AWS cloud9 | https://github.com/BigDataEngineer/cloud9_rceovery | ['rce'] | 1 | 2024-08-06 00:45:02+00:00 | 624091 | 0 | Roff | 0 | [] |
+| xosnrdev/rce-images | RCE Runtime Images for running user code. | https://github.com/xosnrdev/rce-images | ['rce'] | 1 | 2024-08-06 05:10:43+00:00 | 4942 | 0 | Nix | 0 | [] |
+| Recon6/ReconSploit | Reconsploit Framework | https://github.com/Recon6/ReconSploit | ['sploit'] | 1 | 2024-08-06 01:37:41+00:00 | 228 | 1 | Python | 0 | [] |
+| William-ex/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/William-ex/WinRAR-Exploit-Builder | ['0day'] | 1 | 2024-08-06 04:57:41+00:00 | 196 | 1 | C# | 1 | [] |
+| fyrworx4/kai | Shellcode to DLL | https://github.com/fyrworx4/kai | ['shellcode'] | 1 | 2024-08-06 03:06:01+00:00 | 11 | 0 | C++ | 0 | [] |
+| thedarknessdied/ThreadInjection | Shellcode Inject | https://github.com/thedarknessdied/ThreadInjection | ['shellcode'] | 1 | 2024-08-06 05:15:01+00:00 | 0 | 0 | C | 0 | [] |
+| NoSpaceAvailable/CVE-2024-23897 | Reproduce CVE-2024–23897 | https://github.com/NoSpaceAvailable/CVE-2024-23897 | ['cve-2 OR cve_2'] | 1 | 2024-08-06 05:27:50+00:00 | 0 | 0 | nan | 0 | ['CVE-2024-23897'] |
