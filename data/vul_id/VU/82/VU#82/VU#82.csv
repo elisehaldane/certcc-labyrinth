@@ -31,11 +31,11 @@ VU#82,0.14285714,https://github.com/Sunqiz/CVE-2013-2028-reproduction,Sunqiz/CVE
 VU#82,0.14285714,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
 VU#82,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
 VU#82,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSEC-Bluetooth-exploit,622227907
-VU#82,0.12500000,https://github.com/BaconBloxYT/ExploitzHub-Games.lua,BaconBloxYT/ExploitzHub-Games.lua,615758866
 VU#82,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#82,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
 VU#82,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
 VU#82,0.11111111,https://github.com/g-patin/RCE_projects,g-patin/RCE_projects,730282886
+VU#82,0.11111111,https://github.com/BaconBloxYT/ExploitzHub-Games.lua,BaconBloxYT/ExploitzHub-Games.lua,615758866
 VU#82,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#82,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
 VU#82,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
@@ -334,7 +334,7 @@ VU#82,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#82,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#82,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#82,0.00892857,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
-VU#82,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#82,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#82,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#82,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#82,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -375,7 +375,7 @@ VU#82,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#82,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#82,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#82,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#82,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#82,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#82,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#82,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#82,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
@@ -432,7 +432,7 @@ VU#82,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/wind
 VU#82,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#82,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#82,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#82,0.00304878,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#82,0.00303951,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#82,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#82,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#82,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
