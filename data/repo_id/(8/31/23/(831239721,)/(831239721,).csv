@@ -1,8 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-831239721,XOSPOnTop/Indigo,injector.exe,07e65bb15852e2e555528ae6d2cb0c9eb23a290b,VU#24
-831239721,XOSPOnTop/Indigo,injector.exe,07e65bb15852e2e555528ae6d2cb0c9eb23a290b,VU#51
-831239721,XOSPOnTop/Indigo,injector.exe,07e65bb15852e2e555528ae6d2cb0c9eb23a290b,VU#53
-831239721,XOSPOnTop/Indigo,injector.exe,07e65bb15852e2e555528ae6d2cb0c9eb23a290b,VU#8470
-831239721,XOSPOnTop/Indigo,injector.exe,07e65bb15852e2e555528ae6d2cb0c9eb23a290b,VU#98
 831239721,XOSPOnTop/Indigo,Monaco.zip,2a5f71fe049990f928fb71068de9a421d619586a,VU#40
 831239721,XOSPOnTop/Indigo,Monaco.zip,2a5f71fe049990f928fb71068de9a421d619586a,VU#52
+831239721,XOSPOnTop/Indigo,injector.exe,3c1edb28bb7a45afbf97f33dcde9482891585050,VU#372
+831239721,XOSPOnTop/Indigo,injector.exe,3c1edb28bb7a45afbf97f33dcde9482891585050,VU#57
