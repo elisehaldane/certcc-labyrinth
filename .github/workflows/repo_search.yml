@@ -57,6 +57,8 @@ jobs:
          - exploit
          # 17
          - UEFI bootkit
+         # 313
+         - uac bypass
          # 12
          - secure boot bypass
          # 35
