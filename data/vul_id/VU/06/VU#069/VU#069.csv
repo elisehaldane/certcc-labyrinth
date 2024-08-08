@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#069,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#069,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
+VU#069,0.01149425,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#069,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#069,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#069,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -64,4 +65,5 @@ VU#069,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/meta
 VU#069,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#069,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#069,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
-VU#069,0.00018790,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#069,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
+VU#069,0.00018786,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
