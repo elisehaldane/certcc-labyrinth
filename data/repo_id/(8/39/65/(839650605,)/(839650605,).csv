@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+839650605,bolkv/CVE-2024-4320,cve-2024-4320.yaml,ca5e55435f0a02bd4d06d53d90653a9163bb9eff,CVE-2024-4320
+839650605,bolkv/CVE-2024-4320,_GITHUB_REPO_METADATA_,,CVE-2024-4320
