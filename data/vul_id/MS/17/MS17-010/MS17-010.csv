@@ -318,7 +318,6 @@ MS17-010,0.12500000,https://github.com/Elite-Computer-Club/winxploit,Elite-Compu
 MS17-010,0.12500000,https://github.com/dar3k93/Service-Enumeration,dar3k93/Service-Enumeration,179030030
 MS17-010,0.12500000,https://github.com/pythonone/exploit-fix,pythonone/exploit-fix,133662541
 MS17-010,0.12500000,https://github.com/pythonone/MS17-010,pythonone/MS17-010,89766665
-MS17-010,0.11111111,https://github.com/solygambas/practical-ethical-hacking-course,solygambas/practical-ethical-hacking-course,774364571
 MS17-010,0.11111111,https://github.com/SayedAbdo-99/Automation-Pentration-Testing,SayedAbdo-99/Automation-Pentration-Testing,495962786
 MS17-010,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
 MS17-010,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
@@ -326,6 +325,7 @@ MS17-010,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
 MS17-010,0.11111111,https://github.com/edoardottt/tryhackme-ctf,edoardottt/tryhackme-ctf,315062629
 MS17-010,0.11111111,https://github.com/rodriguezcoding/hackthebox_exploited_machines_notes,rodriguezcoding/hackthebox_exploited_machines_notes,256037841
 MS17-010,0.11111111,https://github.com/oneplus-x/msf-plugins,oneplus-x/msf-plugins,165913682
+MS17-010,0.10000000,https://github.com/solygambas/practical-ethical-hacking-course,solygambas/practical-ethical-hacking-course,774364571
 MS17-010,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 MS17-010,0.10000000,https://github.com/L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,338316702
 MS17-010,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
@@ -698,7 +698,7 @@ MS17-010,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurp
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00016319,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00016316,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00014271,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
@@ -706,7 +706,7 @@ MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,Et
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00006214,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00006212,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
@@ -758,7 +758,7 @@ MS17-010,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 MS17-010,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS17-010,0.00000922,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-MS17-010,0.00000907,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+MS17-010,0.00000906,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 MS17-010,0.00000905,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
