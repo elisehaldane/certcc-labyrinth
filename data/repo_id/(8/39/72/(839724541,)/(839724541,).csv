@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+839724541,wubinworks/magento2-cosmic-sting-patch,README.md,4559d475c6d3536e99cdc4d5d82567a873fd7f74,CVE-2024-34102
+839724541,wubinworks/magento2-cosmic-sting-patch,Framework/Simplexml/Element.php,7e5d458356e6a0ade73183f1c6dc33ab895ed642,CVE-2024-34102
+839724541,wubinworks/magento2-cosmic-sting-patch,_GITHUB_REPO_METADATA_,,CVE-2024-34102
