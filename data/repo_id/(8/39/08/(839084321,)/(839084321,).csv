@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 839084321,simongreenblatt/HT2000W-Exploit,Metasploit Module/hughes_ht2000w_pass_reset.md,1519204bde8d977d206aa93155e2febe1659ed6c,CVE-2021-20090
-839084321,simongreenblatt/HT2000W-Exploit,Python Script/hughes_ht2000w_pass_reset.py,949f1afb6c8e1f094bf08a51537938a81135c809,CVE-2021-20090
-839084321,simongreenblatt/HT2000W-Exploit,Metasploit Module/hughes_ht2000w_pass_reset.rb,e4ba9615472cb62359105003a4485d98616ea56a,CVE-2021-20090
+839084321,simongreenblatt/HT2000W-Exploit,Python Script/hughes_ht2000w_pass_reset.py,933eee406327b7d024549088eb9fa24687201923,CVE-2021-20090
+839084321,simongreenblatt/HT2000W-Exploit,Metasploit Module/hughes_ht2000w_pass_reset.rb,96c674ada5a8b264fd9d6b2377199dbb36f7d3cf,CVE-2021-20090
+839084321,simongreenblatt/HT2000W-Exploit,Metasploit Module/hughes_ht2000w_pass_reset.rb,96c674ada5a8b264fd9d6b2377199dbb36f7d3cf,CVE-2021-20092

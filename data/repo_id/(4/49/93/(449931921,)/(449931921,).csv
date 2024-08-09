@@ -192,7 +192,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue49094.dir/p.go,03965c9ed71aba6d53da5da1f93ad30bdaacecf7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/comment/testdata/escape.txt,0399fb3c08118d0c58cdbaa1d4986efb1f9921a5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/noder/lex.go,03ab88a4a01067ae3f5b69abd792e967aa2e338f,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/gofmt/testdata/rewrite3.golden,03b2ba285695287bbbf147617bd0ca376251c6a4,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/gofmt/testdata/rewrite3.input,03b2ba285695287bbbf147617bd0ca376251c6a4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/x86/galign.go,03b71063cb68772b4fd0c7849829c4a3942c0d65,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/openat2.h,03c2eabd5737a327bd8a22b07e161b778a95a529,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/d2.go,03c463a0590749596170b01c5e666b440f08bb14,CVE-2022-21449
@@ -499,7 +499,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/auth.go,09d2506885064adea137e66bc61b1fbea110fec7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue50481c.out,09d2af8dd22201dd8d48e5dcfcaed281ff9422c7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/internal/goobj/mkbuiltin.go,09d6f45c889c383244a03f148a1c2084ed3b718e,CVE-2022-21449
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2021-4034/v3.0/source/pwnkit-v3.0.c,09de57b834ac120df5f9a4eb375e9cc7bc7cf64a,CVE-2021-4034
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2021-4034/v4.0/source/pwnkit-v4.0.c,09de57b834ac120df5f9a4eb375e9cc7bc7cf64a,CVE-2021-4034
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue50417b.go,09f4a9f3ad6fb2bd79789f59387344c7f5fd0d82,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/os/exec/internal/fdtest/exists_windows.go,09f715f473176309cae2df3abb91352b9e7b6e0a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter_bridge/ebt_nflog.h,09f97077d566c311d3cdc92732ec92f3f4a619ae,CVE-2024-1086
@@ -679,8 +679,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/usb/.midi.h.cmd,0d5ff676c7fbf039249bdfbd0a03a90e25b66b59,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/syntax/testdata/issue43674.go,0d651a4700e3a2fe148da1286e90622b041068d9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.atmsvc.h.cmd,0d65673aa11f8e1e758a52dfbf88c14f96974d82,CVE-2024-1086
-449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,CVE-2022-24124
 449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,GHSA-M358-G4RP-533R
+449931921,lal0ne/vulnerability,Casdoor/CVE-2022-24124/exploit.go,0d695ac9cff4f5c1d6f0c7e176e56ce35ce283cf,CVE-2022-24124
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/reflect/type.go,0d7451d944a469b8a73ff00976cad43fdf6079ff,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/time_fake.go,0d77fcb1d728eef7d7c73c96c4e29db254cb0560,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug151.go,0d785bb7de0185403be1e5f6aaef0d01a847a7cc,CVE-2022-21449
@@ -703,9 +703,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/base/bootstrap_false.go,0dd248cefba173179d6caf11157cbef7ee67c80b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/video/.edid.h.cmd,0dd58d68a470df2a853e53ac5a70334bc737fc16,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/mspanset.go,0dd8fb7b5605c2db1fb766e49dd65c6e37cffe01,CVE-2022-21449
+449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,CVE-2021-44228
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#23
-449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#74
 449931921,lal0ne/vulnerability,Apache/Log4j2/CVE-2021-44228/JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar,0dde383dc933d270b7ad57a2b9ce99a6464a4df7,VU#83
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/tc_act/.tc_defact.h.cmd,0dde7b2ed61fcac1503a963196485c0be537f4cf,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug480.dir/b.go,0decc17b04e02c118295b9dc8310d5e411360f8f,CVE-2022-21449
@@ -836,9 +836,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue24761.dir/b.go,0fe7d850431243214fa0bad7fa8f06e19333e3d5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/types_darwin.go,0fe7fcfec4047a87f15661dd2cd7385775b0fae3,CVE-2022-21449
 449931921,lal0ne/vulnerability,MySQL/CVE-2016-6663/mysqlpoc.c,0fef286341da26fe057f20b2b02327634d739eff,CVE-2016-5616
+449931921,lal0ne/vulnerability,MySQL/CVE-2016-6663/mysqlpoc.c,0fef286341da26fe057f20b2b02327634d739eff,CVE-2016-6662
 449931921,lal0ne/vulnerability,MySQL/CVE-2016-6663/mysqlpoc.c,0fef286341da26fe057f20b2b02327634d739eff,CVE-2016-6664
 449931921,lal0ne/vulnerability,MySQL/CVE-2016-6663/mysqlpoc.c,0fef286341da26fe057f20b2b02327634d739eff,CVE-2016-6663
-449931921,lal0ne/vulnerability,MySQL/CVE-2016-6663/mysqlpoc.c,0fef286341da26fe057f20b2b02327634d739eff,CVE-2016-6662
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/local-locker.go,0ff00c51051b5ebb74b736bf911a66c8f47dd59c,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zsyscall_linux_ppc64le.go,0ff4925e0baf47ec0bded01fe785259cd4b1f453,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/gccgosizes.go,10064ce87d89be599638841b6889a74b3648de93,CVE-2022-21449
@@ -890,8 +890,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue26024.go,11008693fd7a3b40ca0e2c7270abc953b9cbcce6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Spring/Spring-Kafka/CVE-2023-34040/spring-kafka-producer/src/main/resources/application.properties,110110fd5072934d5e9c2356e8af9905d20e993f,CVE-2023-34040
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/ssa/fuse.go,1101ba2e6766bacf4486e4ad50942e8fc108ac7d,CVE-2022-21449
-449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/README.md,1103b91334386038eed3f0c2554066ade8108e98,CVE-2018-1000861
 449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/README.md,1103b91334386038eed3f0c2554066ade8108e98,CVE-2019-1003005
+449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/README.md,1103b91334386038eed3f0c2554066ade8108e98,CVE-2018-1000861
 449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/README.md,1103b91334386038eed3f0c2554066ade8108e98,CVE-2019-1003029
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.mei.h.cmd,11047972b656e34ed16d231fa2b90452c37746c5,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue14010.go,1107a9919d9ca03f220e0b143f4cb96da852c971,CVE-2022-21449
@@ -966,8 +966,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/vmx.h,12378c30fb19f397bddbfaec07576988bd9f3073,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/elliptic/p256_asm_ppc64le.s,123ce73af2616e31179637c5128792251e8591f8,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/encryption-v1.go,123d264e0b5556834340a4316e880c7d8b3adbd2,CVE-2023-28434
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnIO.cs,123d52b0acd09acec1e0dbcd5778f3e7cfe9bcaa,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnIO.cs,123d52b0acd09acec1e0dbcd5778f3e7cfe9bcaa,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnIO.cs,123d52b0acd09acec1e0dbcd5778f3e7cfe9bcaa,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/internal/osinfo/os_windows.go,123e3d9b684ec58747ff79e37ec4008647991493,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/tools/go/analysis/internal/analysisflags/flags.go,12427d6a4e2d0739415a4590a1ee3fde074adc20,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug306.dir/p1.go,1248b5aca705baf74a0b05ee22ed5ade0c9e9220,CVE-2022-21449
@@ -1885,7 +1885,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Apache/ShenYu/CVE-2022-23944/README.md,23664a8609298a37789149db9f2df84472ada922,CVE-2022-23944
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.watchdog.h.cmd,2371b4623c715bbee1c667a325c3ec25d46b3c3a,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/vendormod.txt,23854c262c5ec247afdb2a36dec336c43fcd80a1,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue51219b.go,238794947b687e46828baf6a328830d54b4e1dc7,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue51423.go,238794947b687e46828baf6a328830d54b4e1dc7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Fortra/Goanywhere_MFT/CVE-2023-0669/src/main/java/org/gaw/ysoserial/payloads/annotation/Authors.java,238e48a117272528f5ce4fd49cb812096272c5f2,CVE-2023-0669
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug304.go,238e48df0f1f5acad32e1b44a274723d06079bea,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/ztypes_linux_mips.go,238ec04f3944ed33b62858d9efe7c5e632d84856,CVE-2022-21449
@@ -1967,7 +1967,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_dir.txt,24bc0af86c83ea40137dee85f7ce8af592de5cca,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/rune.go,24c7205c5c4d44154be3610b747ee37b309c1475,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue23179.dir/b.go,24d09b325d75f55d419d268fe5a8d254699ee7e6,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/issue17788.0.golden,24d7b1a10d94838a29c6c4dd3a8037c6cd7ef51c,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/issue17788.2.golden,24d7b1a10d94838a29c6c4dd3a8037c6cd7ef51c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/interface/noeq.go,24fbfee3c87f4ce227ed44aeadfef1d1e79a8000,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/link/internal/arm/asm.go,2501c24b90a5d1023d6fb4d60ad1099da87d2c0d,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/unix/at_sysnum_darwin.go,250a24c7ea0e641328df6556a2054f7752c6e0a8,CVE-2022-21449
@@ -2171,8 +2171,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/nss.go,28c826e8b1ae3819425c7b1743cf60c0c46d1217,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/mpagealloc_32bit.go,28cc7e1f0fdbf929153648b733edac7f3fc5671b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/unix/at_aix.go,28d5532db75874f6fbb841dcc591a968672335e7,CVE-2022-21449
-449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/exp.py,28d867a9d31282cc77475fa921b1b8fb126266dc,CVE-2018-1000861
 449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/exp.py,28d867a9d31282cc77475fa921b1b8fb126266dc,CVE-2019-1003005
+449931921,lal0ne/vulnerability,Jenkins/CVE-2018-1000861/exp.py,28d867a9d31282cc77475fa921b1b8fb126266dc,CVE-2018-1000861
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/metrics/sample.go,28e0a21a262618c98fea5a8f59c05ac8614b4d0a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/poll/fcntl_syscall.go,28e0bdfedef1e55b78a0bf92c0198da2f04ad388,CVE-2022-21449
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23131/README.md,28e5f901b5207be893132efc44eed5709e606eb2,CVE-2022-23131
@@ -2199,8 +2199,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/link/internal/ld/outbuf_linux.go,2955b93a6b764b37495c6503dd3e671d76087acf,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/scanner/errors.go,2956448c5876ff73ce9a20811362fa32caef5584,CVE-2022-21449
 449931921,lal0ne/vulnerability,WordPress/Forminator/CVE-2023-4596/exploit.py,29572a8ef75ba37f45c841cb15c469504a228ec5,CVE-2023-4596
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/README.md,29612932a348cde3dbc259ef03b4acfe4e25716c,CVE-2023-28434
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/README.md,29612932a348cde3dbc259ef03b4acfe4e25716c,CVE-2023-28432
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/README.md,29612932a348cde3dbc259ef03b4acfe4e25716c,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/g.go,29627d57036ce69bb4cf401efb225ac04d33a872,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/vet_deps.txt,29636e9065f39e0ed0879bc4487440ed4add6bba,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/abi/defer_recover_results.go,29752a7720943ac405657b4630bcb58fcd3fda92,CVE-2022-21449
@@ -2579,8 +2579,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/test/callback_c_gccgo.c,303026e5d0a7a1925fdddd104e71a79b384bf20d,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/typeswitch2.go,30322ee8c55d8c1278c893d9327d8ded1ee83f8b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug089.go,3037d75afa659968cf3dcde5c5dcec4d6ae18c45,CVE-2022-21449
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/handler-utils.go,30439f53f3163d6ee2690cc522979aa1ffc9a990,GHSA-76WF-9VGP-PJ7W
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/handler-utils.go,30439f53f3163d6ee2690cc522979aa1ffc9a990,CVE-2023-28434
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/handler-utils.go,30439f53f3163d6ee2690cc522979aa1ffc9a990,GHSA-76WF-9VGP-PJ7W
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/comment/testdata/doclink.txt,30447453bb8cee2c0f4703638abef786fdee248f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/trace/testdata/stress_start_stop_1_9_good,304ab21e61aa0c1a009fab411ae660ad0bb73f38,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zsysnum_linux_ppc64le.go,304ad404c8332d43f615549c376fcf24ec43532c,CVE-2022-21449
@@ -2659,9 +2659,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/poll/fd_writev_darwin.go,319dea590713f1411f8af80c3cf3936e33ff5e91,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/test/issue1435.go,319e51a85d2a198494d687f1ec15dbbca9ffe59e,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/s3-zip-handlers.go,31a1ff624a8e0054235355d5f144dcfe09554425,CVE-2023-28434
-449931921,lal0ne/vulnerability,GLiNET/CVE-2022-31898/LICENSE,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2022-31898
-449931921,lal0ne/vulnerability,OpenSSH/CVE-2023-38408/gpl-3.0.txt,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2023-38408
 449931921,lal0ne/vulnerability,FileCatalyst/CVE-2024-25153/LICENSE,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2024-25153
+449931921,lal0ne/vulnerability,OpenSSH/CVE-2023-38408/gpl-3.0.txt,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2023-38408
+449931921,lal0ne/vulnerability,GLiNET/CVE-2022-31898/LICENSE,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2022-31898
 449931921,lal0ne/vulnerability,7-Zip/CVE-2022-29072/LICENSE,31a3d460bb3c7d98845187c716a30db81c44b615,CVE-2022-29072
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue43167.go,31ab5a8ee6742cb7b68afc5dd0802c1e55f02c86,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/build_cache_disabled.txt,31adfda709a835c3b912b412a2bda47fb869ecc8,CVE-2022-21449
@@ -2671,8 +2671,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/src/main/java/com/example/shirodemo/ShiroConfig.java,31c7810abd4c7f13d8ff76225a881708c8564f7c,CVE-2022-32532
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/.github/ISSUE_TEMPLATE/02-pkgsite-removal.md,31c9708d4d9daf58de13e5a14557c1fe3f413ea1,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/.github/ISSUE_TEMPLATE/10-proposal.md,31d324f3e46fafa6443efcfccfc3ae9e1f7bd748,CVE-2022-21449
-449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/README_en.md,31de0c9f0a7aee275a4d4cefa46fa93b8a1ccb80,CVE-2023-42442
 449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/README_en.md,31de0c9f0a7aee275a4d4cefa46fa93b8a1ccb80,CVE-2023-42820
+449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/README_en.md,31de0c9f0a7aee275a4d4cefa46fa93b8a1ccb80,CVE-2023-42442
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_get_tags.txt,31de9d8fbe1603ed1642ced519e2114f185aca41,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/sizes.go,31e86ebec7aa8ee08582c72ffe94a403ce478c55,CVE-2022-21449
 449931921,lal0ne/vulnerability,php-fpm/CVE-2024-4577/CVE-2024-4577-PHP-RCE.py,31f115fe5e0b1a525515f6f82f986265b99d713f,CVE-2024-4577
@@ -2865,8 +2865,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue18419.dir/other.go,34d55c71b43f511e41a05713342f8a1559051415,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/.msr.h.cmd,34dc960b70b4c77d830d4a57f8f49ccfd8109df5,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/testcarchive/testdata/libgo7/sink.go,34dd6a1dad352f807b6d762090ac1b70fc1c0e1c,CVE-2022-21449
-449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2024-21887.sh,34e927d7165e455dcb89188c5ecf1b2ea9f6db0d,CVE-2023-46805
 449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2024-21887.sh,34e927d7165e455dcb89188c5ecf1b2ea9f6db0d,CVE-2024-21887
+449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2024-21887.sh,34e927d7165e455dcb89188c5ecf1b2ea9f6db0d,CVE-2023-46805
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue44732.dir/foo/foo.go,34edbe817049cc2691b26afc6b5464120aa50cb4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug291.go,34f7a849aab75996bb4d8f41194a9f2702689a70,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue10047.go,34fa8d98fb5bd1fb1180c9ff6b04d36ac53b66e4,CVE-2022-21449
@@ -3359,7 +3359,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/sound/.asound_fm.h.cmd,3e601b4c854c495eb0d725238c88bf04cffcece3,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/devnull.txt,3e60d4378935318685afc6eed09cc8d3e8e61cb2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/rsc.io_quote_v0.0.0-20180709153244-fd906ed3b100.txt,3e664f8faf0c890351b6434e3ab353921bbbfcf8,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/flate/testdata/huffman-null-max.wb.expect,3e742a11f179e677040ae9529fc4987131e86de9,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/flate/testdata/huffman-null-max.dyn.expect,3e742a11f179e677040ae9529fc4987131e86de9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/virtio_types.h,3e7fcb9a12c87f4192839e288675315f8517dd75,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/stmt.go,3e89b432155256f9361a32e00436b25570375f36,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/fuzz/counters_unsupported.go,3e8b8f4e7ebe3c032785923902b2f236f232ff24,CVE-2022-21449
@@ -3420,8 +3420,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/trace/testdata/user_task_span_1_11_good,3fc303cf403d1c4f80da7f866316a3cda928ac4a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Windows/Office/CVE-2023-21716/LICENSE,3fc359414c5180c6c46ef5b6a301f2dc2322d032,CVE-2023-21716
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/internal/vet/vetflag.go,3fc4b51c36f469bf87e6f9b51954d4001aee85ba,CVE-2022-21449
-449931921,lal0ne/vulnerability,Apache/Kafka/CVE-2023-25194/libs/mysql-connector-j-8.0.31.jar,3fd5850719d7e82d50705d34cc6a0037fab5731f,VU#64
 449931921,lal0ne/vulnerability,Apache/Kafka/CVE-2023-25194/libs/mysql-connector-j-8.0.31.jar,3fd5850719d7e82d50705d34cc6a0037fab5731f,CVE-2023-25194
+449931921,lal0ne/vulnerability,Apache/Kafka/CVE-2023-25194/libs/mysql-connector-j-8.0.31.jar,3fd5850719d7e82d50705d34cc6a0037fab5731f,VU#64
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue37246.go,3fd8cbb8b23400f900e3a3c1da6f182f161abd96,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/os/user/getgrouplist_unix.go,3fd920842d567558daa704f73d62c6856a222a54,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/debug/stubs.go,3fdc345a646acafc8f613067b1babad1dae94879,CVE-2022-21449
@@ -3567,8 +3567,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/ioutil/read_file_noatime_notsupported.go,4242c3da46a7987104887fbcd1b23ad849fc3eb0,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/zsyscall_linux_mips64.go,424dc4039b52e0581ae0dfb8c6140704eb1f0ce8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/fs.h,424e45d71dcad767cfed907382b118806baba3d3,CVE-2024-1086
-449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2021-42342
 449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2017-17562
+449931921,lal0ne/vulnerability,GoAhead/CVE-2021-42342/docker/README.md,4250016041cc31094035d8c119f9bdc7cdb73d89,CVE-2021-42342
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/clean_testcache.txt,4258c5d6f8ca92164948903e24b06cb1823152b9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/signal_linux_ppc64x.go,425e60c7f048fce23e1a36349565ecfc69fce1da,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/mime/testdata/test.types,425ff2137ca90b33216967b2294882b7d9fec5be,CVE-2022-21449
@@ -3595,7 +3595,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue49482.go,42df666649e9e0fabafdc570c6f1dffb57b78a6d,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/sts-handlers.go,42e523d1169298f1009d85f099ad4adcd7e1a580,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug445.go,42f08f6376e9c682dda77ce361c743be3c26986c,CVE-2022-21449
-449931921,lal0ne/vulnerability,Linux/util-linux/CVE-2024-28085/report/wall_2_27_2024.txt,42f18dfb2fd1717101a5089ef6bb1d1029c1fa04,CVE-2024-28085
+449931921,lal0ne/vulnerability,Linux/util-linux/CVE-2024-28085/report/README.txt,42f18dfb2fd1717101a5089ef6bb1d1029c1fa04,CVE-2024-28085
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15470.go,42f2cd760f636a50006a9d998c819a9b6583620c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/.socket.h.cmd,42f341ee7bc1d9107a114380632fe5ecfcbb1c5e,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Server-TLSv12-RSA-RSAPKCS1v15,42f4dede3de12af090e2cc765a248ef28db765ab,CVE-2022-21449
@@ -3727,7 +3727,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.sonypi.h.cmd,44e7330538a854b1b199267ef5cfc4570b154812,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/elliptic/p256.go,44f455fdd78b7b5356d473a986f26208769c146c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/lookup_unix.go,44fd5ca37d714157c636b9004ec7f87de10f8861,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/internal/imports/testdata/illumos/want.txt,450363db7bf615005c6bcba32f3e193117a5198b,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/internal/imports/testdata/android/want.txt,450363db7bf615005c6bcba32f3e193117a5198b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue52124.go,4504594cb48d1e71a656287cd9439f470d1e5779,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue42944.go,450496d2b6d138dc9f2c13de04bc25ecce6cff4f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/elliptic/p256_asm_amd64.s,4509b5270ec61543bf206857ac1f5f7fb1c09f9b,CVE-2022-21449
@@ -3736,8 +3736,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/vlop_arm.s,450fe7f3bfd5b501aa7d5eaf202c5adf61293efb,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/cover_pkgall_imports.txt,4511247e4db104a716b9036d2358840882c7713c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/virtio_bt.h,4515857bb145f3838c952a7ddf64ff9e6b43a037,CVE-2024-1086
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/.vs/noPac/v16/.suo,45175374985b95b12cdbb18f243af0c7f91a1aec,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/.vs/noPac/v16/.suo,45175374985b95b12cdbb18f243af0c7f91a1aec,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/.vs/noPac/v16/.suo,45175374985b95b12cdbb18f243af0c7f91a1aec,CVE-2021-42287
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/.vgem_drm.h.cmd,451f23c2e70e4499dc0cfea2c55b3e3accf0aadf,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/work_sync_missing_module.txt,451fcb29a8eeb5bcec2a6e9f768b8c4f5eecee3f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue47201.dir/b.go,4522003f9118848c05d82cc7ddc0581085e156e9,CVE-2022-21449
@@ -3875,8 +3875,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue26097.go,47e49d126ef653e31bc2a162b1660cd36a7d40bb,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/dvb/.version.h.cmd,47e870b9fc988375f5443ec198b245e615154fd3,CVE-2024-1086
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/s3select/unused-errors.go,47e933c101e468655591525c393631daf4b06a1d,CVE-2023-28434
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnException.cs,47e960fb4a179b45326bcdf792758d7443c49ef6,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnException.cs,47e960fb4a179b45326bcdf792758d7443c49ef6,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnException.cs,47e960fb4a179b45326bcdf792758d7443c49ef6,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/obj/Debug/noPac.csproj.AssemblyReference.cache,47ea115717cecad4dc77b84dcdbeee18678f811c,CVE-2021-42278
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/obj/Debug/noPac.csproj.AssemblyReference.cache,47ea115717cecad4dc77b84dcdbeee18678f811c,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/mod/sumdb/tlog/tlog.go,4804cd1610c71803694fd74f0add438b6900774d,CVE-2022-21449
@@ -4094,8 +4094,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue44383.go,4bef24cc2b719927c8147a761de0bec2f690b145,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/types_windows_arm.go,4bfaab4b033326badf1b9198cfcc9c7dbf1b0486,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/chanlinear.go,4bfad9458c812389fbdf1535db7f53e1fcb84108,CVE-2022-21449
-449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16278.sh,4bffb35215716cd48c89eac0189364d188f2bf76,CVE-2019-16279
 449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16278.sh,4bffb35215716cd48c89eac0189364d188f2bf76,CVE-2019-16278
+449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16278.sh,4bffb35215716cd48c89eac0189364d188f2bf76,CVE-2019-16279
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/pe/testdata/gcc-amd64-mingw-exec,4c00892cf7c4e458b5b35dc681db7960149d8f5c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/text/unicode/norm/trie.go,4c06ba84cb28e93069f73758a64ad5be449c0bd1,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/vhost_types.h,4c078ff1a20327f8bf9cd9690fa5d1520d289473,CVE-2024-1086
@@ -4203,7 +4203,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-0847/README.md,4de45fbf99e8c24f5b892857593cce5a440f2797,CVE-2022-0847
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/nfsd/.stats.h.cmd,4de48aa72ab09cd10507551034a92f63f489402a,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/parser/resolver.go,4dee84078f44749494da23165705521ec4407691,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/d.0.golden,4df456b561516365305dc790ca425a7c4a3eb351,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/d.2.golden,4df456b561516365305dc790ca425a7c4a3eb351,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug277.go,4df91c7943e65123c87f2dcb4238d1a9ea06bced,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Server-TLSv10-RSA-AES,4e0447a009b503dd57d5e2a989943f04075ee541,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/package.go,4e05976757e598c50c0b4ed9fa2a7454733ccc39,CVE-2022-21449
@@ -4380,8 +4380,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug335.go,50ed95a2030fbab2649da6aa51e7d9b48d663c96,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/CONTRIBUTORS,50f488457b88250e3b1d5c2dcb060d9cc30f7f44,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/CONTRIBUTORS,50f488457b88250e3b1d5c2dcb060d9cc30f7f44,VU#13
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-2639/sample_config,50f50ac60a1d1e5042cd59c2a8aaa0b30b4ed0f1,CVE-2022-2639
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-2639/sample_config,50f50ac60a1d1e5042cd59c2a8aaa0b30b4ed0f1,VU#300
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2022-2639/sample_config,50f50ac60a1d1e5042cd59c2a8aaa0b30b4ed0f1,CVE-2022-2639
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/abi/named_results.go,50f557a5399356ba8b0f7cbea096323eb47a68f2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/syscall_netbsd.go,50fa2e7787bf7ec50cbee304240dae2b417ca4d8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/version_build_settings.txt,51004553dbc8d545aa8b905e09677e34d36a6a73,CVE-2022-21449
@@ -4426,15 +4426,15 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/internal/obj/x86/avx_optabs.go,51dd872003b46ac3666fabda40b8d909c4cad896,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue47892.dir/a.go,51de19521d0e0e2e9ca8173c5d48c798e271ae05,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/rsc.io_quote_v0.0.0-20180709162918-a91498bed0a7.txt,51e311b34f73d30820e50e64c63fa5d08ff5192d,CVE-2022-21449
-449931921,lal0ne/vulnerability,1Panel/CVE-2024-27288/README.md,51e3891fa6df224817ea2466edef8ab14a5e6bdb,CVE-2024-27288
 449931921,lal0ne/vulnerability,1Panel/CVE-2024-27288/README.md,51e3891fa6df224817ea2466edef8ab14a5e6bdb,GHSA-26W3-Q4J8-4XJP
+449931921,lal0ne/vulnerability,1Panel/CVE-2024-27288/README.md,51e3891fa6df224817ea2466edef8ab14a5e6bdb,CVE-2024-27288
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/ztypes_linux_s390x.go,51ee8a5b9556410d0fb57200a14c4fb1de8ea3ca,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/http/httptest/server.go,51ef00aff2ead16b3f2de89f9a24b23849b6293c,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/notification-summary.go,51f6e8641a8f3d9218d8317c44bc7d8adad31993,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_incompatiblewithsub_v1.0.0.txt,51f86f751f52b66516f1f809f73503c0159b0b9f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/.drm_sarea.h.cmd,51f9e63053007d00d425fb7a92e9e24f45a77f5c,CVE-2024-1086
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/App.config,51fb2f4880ca997e939f8b55f9fee700a8e617b2,CVE-2021-42278
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/App.config,51fb2f4880ca997e939f8b55f9fee700a8e617b2,CVE-2021-42287
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/App.config,51fb2f4880ca997e939f8b55f9fee700a8e617b2,CVE-2021-42278
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/testdata/check/importdecl0/importdecl0a.go,51fe9295e8a2406389f8bb6c85db0af9002c81d1,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/buildscripts/minio-upgrade.sh,5206e076d4553f8bf645dd6d4e405ff453a2f3bb,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug428.go,520d5daff853fe3b40eb3a0d9866b78d9475fba5,CVE-2022-21449
@@ -4571,10 +4571,10 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/video/sisfb.h,54f4e3253065e7dba6a044fdb948ce9c6679ac60,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/doc/go1.17_spec.html,54f81dd89692073bf5b2a8ef217d2e50f62042c6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/cover/cover.go,54f91dd95a227c4043067fa91b87c16324d6ba78,CVE-2022-21449
-449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
-449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,CNVD-2022-10270
 449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#23
+449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#67
+449931921,lal0ne/vulnerability,SunloginClient/CNVD-2022-10270/SunloginClient_11.0.0.33162_X64.exe,550a47794b9ad4193ef175ad1cc29b979b11fb91,VU#08
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/example-cert.pem,550f00290389ef66328b42ac5572bfb177987d2a,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/os_windows.go,550f2a79a6324f00a06a226080374d981df6d91f,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/bits/bits_tables.go,551358d1c984458d3508a54322d2952f5163a0dc,CVE-2022-21449
@@ -4600,8 +4600,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/union.go,55591711dabfd847a9118ff0656471dda7585679,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue33460.go,555942ecf87033d1248e8cf9b3c2a01757a592ca,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug312.go,555ab868f184b0134844e5c3a4ea3ed0501228c5,CVE-2022-21449
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/testdata/metacache.s2,555d90c4fe5f75b7636bfe6779d54fe670a7d673,CVE-2023-28434
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/testdata/metacache.s2,555d90c4fe5f75b7636bfe6779d54fe670a7d673,VU#37
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/testdata/metacache.s2,555d90c4fe5f75b7636bfe6779d54fe670a7d673,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue20250.go,555ffce4e2ffe63801c36468399e3a01eb799a89,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/time/sys_unix.go,55603a78a30c285b6a1fcfc794021cd467dd992e,CVE-2022-21449
 449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/requirements.txt,556b5b4b498cc7c260e5b20e972f57bbe413bdba,CVE-2019-18370
@@ -5193,7 +5193,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/testing/example.go,611902c21406450facc7937478ba5d5ef5e6e4e8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/syscall_unix.go,611a2a5e5a5f1dd3f8bef38ad7669f60b52f18ab,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/.v3d_drm.h.cmd,61326ab6691be55b0e00c5e3edf34b25a853d9c1,CVE-2024-1086
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/testdata/fixedbugs/issue47796.go,61363c6ae4008506835eeae0c62581c1de0ed1d7,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue47796.go,61363c6ae4008506835eeae0c62581c1de0ed1d7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/html/template/error.go,613cbf6e8c66b9d12ae977c7f003415bc03a5674,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/.mtrr.h.cmd,613d0333b85e63c0f6690ad51dac6f9c507446ba,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter/nfnetlink_cttimeout.h,613d365b3ad05ec9608dd137a682ab688125f56f,CVE-2024-1086
@@ -5798,7 +5798,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/diff/diff.go,6ce3ff5cf2a24b399311a79742ad8400f80b143f,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/helm/minio/values.yaml,6cf4dd5b493ce8f57bd2e1d44acf868f139bb902,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/fuzz/counters_supported.go,6cfb6bc3e89d52f6b4232ddc1be99469bf6f43e2,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue39754.go,6d007add8a981ea8d4ed3342670750d389ce6422,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/testdata/fixedbugs/issue39754.go,6d007add8a981ea8d4ed3342670750d389ce6422,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15733.go,6d03e293992d4cc508e22479f5dd1892abe029a2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug446.go,6d04ddbdf117f9129bffd0211a980ed2e40d4f29,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/des/cipher.go,6d05743c847e0cdc574758bda63c83287faafda6,CVE-2022-21449
@@ -5859,18 +5859,18 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2021-4034/v2.0/source/cve-2021-4034-poc-x64.c,6e205abb3d781c7527f9278727bb8481df4ffa2c,CVE-2021-4034
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/test/testdata/issue29563.go,6e217800efc53f1a7f79bfd6f4b91cadc26aa0fe,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/setsimp.dir/main.go,6e28dfea14dec3ff84f84eeade2f5ce6bab203b1,CVE-2022-21449
-449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/LICENSE,6e2d1a921ffc5ff9284a8c81e2e20f620de70416,CVE-2023-42442
 449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/LICENSE,6e2d1a921ffc5ff9284a8c81e2e20f620de70416,CVE-2023-42820
+449931921,lal0ne/vulnerability,JumpServer/CVE-2023-42820&CVE-2023-42442/LICENSE,6e2d1a921ffc5ff9284a8c81e2e20f620de70416,CVE-2023-42442
 449931921,lal0ne/vulnerability,Progress/MOVEit Transfer/CVE-2024-5806/watchTowr-vs-progress-moveit_cve-2024-5806.py,6e3499bbf333e4dda56b81fcd51bf2293d1ce1b1,CVE-2024-5806
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#101010
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#410
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#8888
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#410
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#422
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#411
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#101010
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#444
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#420
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#888
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#420
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#444
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#411
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Server-TLSv10-RSA-RC4,6e3ecd757d50b2059b9a243969dc05f78f3b0c67,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/mgcwork.go,6e3f1f57dfda78a014818f92415040c298f672b9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/internal/atomic/atomic_ppc64x.s,6e421a93705b33022e015e367d28433cc9abf943,CVE-2022-21449
@@ -6034,8 +6034,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/ioutil/ioutil_test.go,71607ebe311f5a8eb9fe32eadfc6ce834b9b27a6,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue14520.go,7163aecbb127b23b0c38ad71e7ebb4414995a5f3,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/file_plan9.go,7166b1c8408d8fcdb1c0d280b5a155db5a82c67e,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/macho/testdata/gcc-amd64-darwin-exec.base64,7166b634c797407be7fe5583ade3582fb64ff40d,VU#19
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/macho/testdata/gcc-amd64-darwin-exec.base64,7166b634c797407be7fe5583ade3582fb64ff40d,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/macho/testdata/gcc-amd64-darwin-exec.base64,7166b634c797407be7fe5583ade3582fb64ff40d,VU#19
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/unix/at_sysnum_linux.go,7166f9486d91a663fe96ae6b9822687fd6641cc3,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/docs/metrics/prometheus/grafana/README.md,7169ab406380945b0dbd91c0feb3f747090f6936,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_ambiguous_a_b_v0.0.0-empty.txt,717937c70c3c435972fb216cf08f0e1f042dc02f,CVE-2022-21449
@@ -6080,8 +6080,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/testgodefs/testdata/issue37479.go,723e4d86b5835409023ce81a22a1ff980acb5085,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/windows/reparse_windows.go,72409c3ec9a6cfa08d0dd9e2a706c148ac52466c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/image/jpeg/reader.go,72414f6e8990e78e4a14c7156e229076e581b7e5,CVE-2022-21449
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-headers.go,72442b70b342d20f54c570621cfd5354d7700bab,CVE-2023-28434
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-headers.go,72442b70b342d20f54c570621cfd5354d7700bab,GHSA-76WF-9VGP-PJ7W
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-headers.go,72442b70b342d20f54c570621cfd5354d7700bab,CVE-2023-28434
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.coda.h.cmd,72487a6561f978f4f52940daca0d834f3202fa8b,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue22683.out,724ba28f4a9a1b472057ff99511ed393a45552e1,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue40367.go,725176769e26b9f1105e0abeb759d7b5f01cf809,CVE-2022-21449
@@ -6408,10 +6408,10 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/buildall.bash,777df1494a1b7859be407182ebfc81d8c0f95a5a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/usb/g_printer.h,7787ac8c1b3f0b3cf75a711cfd3118733fe98660,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/image/png/testdata/pngsuite/ftbyn3p08.sng,778908d497cb76bf986e965cce0f3e29e1c58b8c,CVE-2022-21449
-449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2022-31704
+449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2022-31706
 449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2022-31711
 449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2023-34051
-449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2022-31706
+449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/README.md,778eb063281348639bd3fe22b612b99d68fe8fec,CVE-2022-31704
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue14988.go,77902c465b4b054395beeb5efad4be358c37af53,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15071.dir/exp.go,7796bf9f8435b529886653802e080649b9368362,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue44325.dir/a.go,77974b2e4c46769197f9de60dfa1e583807f9105,CVE-2022-21449
@@ -6594,7 +6594,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue32959.go,7af98e635be5d5a6b74570c65eb0f90ae7ffd697,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.iso_fs.h.cmd,7b00ff0672252151989b09b5a40520296c5ce090,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/initializerr.go,7b07204d0df5c1819b33ed12624bce3da43d4af1,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/check/map0.go,7b0d0b339033379de5c2f86af333fef7dce83216,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/testdata/check/map0.go,7b0d0b339033379de5c2f86af333fef7dce83216,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/ipmi_bmc.h,7b11ef4a359a7aad8de73364e03bbe1e010f9bb0,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/unix/at_sysnum_openbsd.go,7b125e77a42c856a4938c778398a6636e554c7a7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue32901.dir/b.go,7b1662cb46f2bf32d278982ac3264d34f63620b0,CVE-2022-21449
@@ -6614,8 +6614,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/sys_linux_386.s,7b49f28ee688115206291104e6a37d75b180a0fe,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm-generic/unistd.h,7b5a5ec6818008294ef1168119ca354bb7c704b0,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug407.dir/one.go,7b5d262425592b4111df0b5a5fc12994b3f1a110,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnOID.cs,7b5fe032e19c518e81bf4af6308f8a3a2f1f5a9b,CVE-2021-42278
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnOID.cs,7b5fe032e19c518e81bf4af6308f8a3a2f1f5a9b,CVE-2021-42287
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnOID.cs,7b5fe032e19c518e81bf4af6308f8a3a2f1f5a9b,CVE-2021-42278
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/linkx_run.go,7b63b9a4e1014dcb047d3f614a66a47d33a41686,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.kcm.h.cmd,7b6e20b744832c3ef6f3258efec19d720681e16f,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue10066.dir/b.go,7b8418633ea2cc4b4d939b299e79420b785f0d17,CVE-2022-21449
@@ -6636,8 +6636,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/bucket-policy-handlers.go,7bc9275452461e9606e64100e4f3eb3d14013b87,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/ssa/rewriteARM.go,7bd4b1814e2c8996bc6a6691c91041fd8fbc562b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/arith.go,7bdc17b2b1e839db6a8fc662cdbb1a5d2bb016ab,CVE-2022-21449
-449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/README.md,7be483c17bbfb99c5122dc1f04319dbdad17962d,CVE-2024-6387
 449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/README.md,7be483c17bbfb99c5122dc1f04319dbdad17962d,CVE-2006-5051
+449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/README.md,7be483c17bbfb99c5122dc1f04319dbdad17962d,CVE-2024-6387
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/subtle/constant_time.go,7be4c7b976d0a2e73913b3d775bd6b0488750fb8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/ken/interfun.go,7be83676881809d82590bf5b0d98d3779186ecf7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug083.dir/bug0.go,7bf0fe61290e69f18b7934077af6f2645dba36d6,CVE-2022-21449
@@ -6700,6 +6700,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/internal/obj/objfile.go,7d1e3fabeba195969e882858ac2713427e6bd1dd,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/test_bad_example.txt,7d20037181164ada7e0b60e242734326ee957962,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/scsi/.scsi_netlink_fc.h.cmd,7d2230a661f55589d061c4a4522e1fd26d984e50,CVE-2024-1086
+449931921,lal0ne/vulnerability,Windows/CVE-2024-38077/README.md,7d2a403b73bcf0a3021522e5be788a74c59965d0,CVE-2024-38077
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.sonet.h.cmd,7d2a63c7ec971738da00040c772c82d4b8808299,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/testdata/testprog/syscalls_linux.go,7d2b01ef4b436683181bbba3fd5e63b7fa2fc333,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug266.go,7d2b7df6160f5d5eb912d06d33b3257c38312d9d,CVE-2022-21449
@@ -6746,9 +6747,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/zsysnum_netbsd_386.go,7de9f24930795a5edbf9e914937d7d308c9fab9e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue20014.out,7ded479a174b86889451862620ce6cea4859c7a5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/diff/testdata/triv.txt,7def7114e82dff9253b29e643b72a4398c3d54fd,CVE-2022-21449
-449931921,lal0ne/vulnerability,Spring/Spring-Kafka/CVE-2023-34040/LICENSE,7df059597099bb7dcf25d2a9aedfaf4465f72d8d,CVE-2023-34040
-449931921,lal0ne/vulnerability,Apache/RocketMQ/CVE-2023-37582/LICENSE,7df059597099bb7dcf25d2a9aedfaf4465f72d8d,CVE-2023-37582
 449931921,lal0ne/vulnerability,Apache/Superset/CVE-2023-27524/LICENSE,7df059597099bb7dcf25d2a9aedfaf4465f72d8d,CVE-2023-27524
+449931921,lal0ne/vulnerability,Apache/RocketMQ/CVE-2023-37582/LICENSE,7df059597099bb7dcf25d2a9aedfaf4465f72d8d,CVE-2023-37582
+449931921,lal0ne/vulnerability,Spring/Spring-Kafka/CVE-2023-34040/LICENSE,7df059597099bb7dcf25d2a9aedfaf4465f72d8d,CVE-2023-34040
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue36085.dir/b.go,7df38e6baf508e833454a67746d22325c0cc0b04,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/encoding/xml/xml.go,7df43d43c69c098916f80a7b117a65e760501f78,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/import6.go,7dfbe8997f11e7157c5daf5b0ec13a0b5b046e29,CVE-2022-21449
@@ -6798,8 +6799,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/mkall.sh,7ec09bc29b80119cec3b1dd19f885e43c2cd03fa,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/mtio.h,7ec1bc7ebb809da5e0cdf52697b2b56ca4b5d466,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm-generic/termios.h,7ed18c8200341a73ef81432eb4bddfa72a00e346,CVE-2024-1086
-449931921,lal0ne/vulnerability,Splunk/CVE-2022-43571/CVE-2022-43571.pdf,7ed48a5c9f4b4a6a53d5c2e04728693d428ed948,CVE-2022-43571
 449931921,lal0ne/vulnerability,Splunk/CVE-2022-43571/CVE-2022-43571.pdf,7ed48a5c9f4b4a6a53d5c2e04728693d428ed948,CVE-2019-17626
+449931921,lal0ne/vulnerability,Splunk/CVE-2022-43571/CVE-2022-43571.pdf,7ed48a5c9f4b4a6a53d5c2e04728693d428ed948,CVE-2022-43571
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug322.go,7ed650e83ed287d9292c080c1a66d82ec5a9f55b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/race.go,7ee5c6861dcf57e6c00f59ff7f9f6816fa4b5aab,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug504.dir/b.go,7ef408d4a7f7d43d43a46b11439249315449ba57,CVE-2022-21449
@@ -6843,11 +6844,11 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.atmclip.h.cmd,7fc8c9cf6320a6a4f7f3bae80cf2ed792b2a6412,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/syntax/walk.go,7fd2aad95af31f65bebef3139c6c747911008cc0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/am437x-vpfe.h,7fd4a2f86fca2d3f95d8e9b4c98d78a0c27871c9,CVE-2024-1086
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#52
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#73
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#4640
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#02
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#52
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/jsondata_test.go,7fddc2e7602285b692e7881a9ffe83e4b50734a8,VU#4640
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/comment/testdata/README.md,7fe0b3bbd730f9f9cc4834d90783409524cf7c69,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue23094.go,7fe1ef9b1799cce46217f436e55f3f2517fe5ccb,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/crypto/sse-s3.go,7fedc66482031378dc872adc1c80c948e6147780,CVE-2023-28434
@@ -6943,7 +6944,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/http/stats/http-traffic-recorder.go,817f85dad33258f80fd789cd9dadc36ad7ac71cb,CVE-2023-28434
 449931921,lal0ne/vulnerability,Apache/APISIX/CVE-2022-29266/README.md,818bbb1a4e9f0b9249b9a908ec8ad170c4acefe4,CVE-2022-29266
 449931921,lal0ne/vulnerability,Spring/CVE-2017-8046/.mvn/wrapper/maven-wrapper.jar,8196a861947fba6267db30f9541ad028c631e2d2,CVE-2017-8046
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/os/dirent_netbsd.go,81a16e6f6a746210a20a14977f276e12502cc7ef,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/os/dirent_freebsd.go,81a16e6f6a746210a20a14977f276e12502cc7ef,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue47131.dir/a.go,81a382fb7198081f9c88847ef56518b28a89f4e4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/archive/zip/testdata/utf8-infozip.zip,81a6a4c3ae50683fd8adb6d229a3725f45889059,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter/.xt_multiport.h.cmd,81a742dd5bdf8ee5c3137bb272246d0a9169870e,CVE-2024-1086
@@ -7134,8 +7135,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/syscall/windows/symlink_windows.go,850f1c702ef2dacf389b05e62673d823eec0adba,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/signal_netbsd_arm64.go,850f273862c4d81dbfd75d083b6b9f53efc25265,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/inline_math_bits_rotate.go,85132ab622da28fc064dbfb8b7403d859a0ad14e,CVE-2022-21449
-449931921,lal0ne/vulnerability,PlaySMS/CVE-2020-8644/README.md,8516604164ae81664f47ee958a7a454518dd9898,CVE-2022-8644
 449931921,lal0ne/vulnerability,PlaySMS/CVE-2020-8644/README.md,8516604164ae81664f47ee958a7a454518dd9898,CVE-2020-8644
+449931921,lal0ne/vulnerability,PlaySMS/CVE-2020-8644/README.md,8516604164ae81664f47ee958a7a454518dd9898,CVE-2022-8644
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/usb/.raw_gadget.h.cmd,8518203a79b75b706382abef2e3a21795141fe17,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/scsi/scsi_bsg_ufs.h,851e3302c9746c4614c9270c027e3b595ee938a2,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_fuzzfail_v0.2.0.txt,851ea19df3a28bbb421c4ae29bc52d6d8e07ea80,CVE-2022-21449
@@ -7347,8 +7348,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/src/main/java/com/example/shirodemo/ShiroDemoApplication.java,88f306b934965e6d052ebc3685d6770d236d1b81,CVE-2022-32532
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/named.go,88fea475246d9ab0b2de9368a8e9b4e5de01d57b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/internal/gccgoimporter/testdata/v1reflect.gox,8901f0fb793400366727fe4b16592868cae8ba91,CVE-2022-21449
-449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/ZeroNights2019.pdf,8904bda6ffe056f6a330d1dc4392af07871a05da,CVE-2019-11043
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/ZeroNights2019.pdf,8904bda6ffe056f6a330d1dc4392af07871a05da,VU#50
+449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/ZeroNights2019.pdf,8904bda6ffe056f6a330d1dc4392af07871a05da,CVE-2019-11043
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue8073.go,8913f1b4013322724d8ed61efe3692216afef87f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue51607.go,891a431471c0d4948d2908defc21ff6c1db70d8e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/test_fuzz_cleanup.txt,89221470282961fd317a36e260eda4915c2796e5,CVE-2022-21449
@@ -7469,10 +7470,10 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.v4l2-dv-timings.h.cmd,8b5a0c5bcb63b29d2691410959cd8da6419b11ab,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm-generic/.swab.h.cmd,8b658a2f128d08674712070a28136f96c5bbfda7,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/sound/.sfnt_info.h.cmd,8b65d95c378a906d78114a2f3c4bab9d857ac242,CVE-2024-1086
+449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2008-4109
+449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2002-0640
 449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2003-0693
 449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2024-6387
-449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2002-0640
-449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2008-4109
 449931921,lal0ne/vulnerability,OpenSSH/CVE-2024-6387/regresshion.txt,8b666471239bf1d732885e22e65e537cb279567d,CVE-2006-5051
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/helm/minio/templates/poddisruptionbudget.yaml,8b6f97008c633fa15c727b079efcf8453c208e9e,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15439.go,8b7b3e1dfd2388aed28cd726b553646a8608e015,CVE-2022-21449
@@ -7688,6 +7689,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/link/internal/loader/symbolbuilder.go,8eff478f630e56f5517d851fb1606b14d4183cca,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/arith_s390x.s,8f11e30aa3fc24600dd008d5119e66c5448b315e,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/helm-releases/minio-3.3.2.tgz,8f14b9e23d3302566e0018aff3c2179cca8265df,CVE-2023-28434
+449931921,lal0ne/vulnerability,Windows/CVE-2024-38077/漏洞分析.pdf,8f158036bdacc72018be38a6d897049396bfcaa2,CVE-2024-38077
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/gcc80226.go,8f214cb3b08f2dc0e0b5d2fdd72297a4d77ae3d7,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.ip6_tunnel.h.cmd,8f2c02945b1964d44764b8cb2454e55856d9fd54,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter/xt_realm.h,8f2c57c1c9895991bd8547565eed6c6266e7f750,CVE-2024-1086
@@ -7842,9 +7844,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15646.dir/a.go,92236210b006877290ecde20ec132d73568c5740,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/asm_bsd_amd64.s,922f0f61db9286e14e961ecc144de39e60623f3e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.wwan.h.cmd,9231b721ef8ea75fe166a9affa55e982fa3c0540,CVE-2024-1086
-449931921,lal0ne/vulnerability,Nostromo/CVE-2022-48253/CVE-2022-48253.pdf,9232c75751876acdd521ee78ca4ab7740f1fb7b9,CVE-2022-48253
 449931921,lal0ne/vulnerability,Nostromo/CVE-2022-48253/CVE-2022-48253.pdf,9232c75751876acdd521ee78ca4ab7740f1fb7b9,CVE-2019-16278
 449931921,lal0ne/vulnerability,Nostromo/CVE-2022-48253/CVE-2022-48253.pdf,9232c75751876acdd521ee78ca4ab7740f1fb7b9,CVE-2011-0751
+449931921,lal0ne/vulnerability,Nostromo/CVE-2022-48253/CVE-2022-48253.pdf,9232c75751876acdd521ee78ca4ab7740f1fb7b9,CVE-2022-48253
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug196.go,92363e78d2ce04519eeb17d10eec9edfd703122d,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue51367.dir/main.go,923700101c9a52919e23bcf80501f2296367a23b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/initcomma.go,923a0c2ea0baf0c8cf7c09186f2b59c6d653ad01,CVE-2022-21449
@@ -8089,8 +8091,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/init1.go,96f82b401960d666cc17889dc5745a06cae43da9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Progress/MOVEit Transfer/CVE-2024-5806/README.md,96ff4683d65b20d78fe4eaf5ee0617326d16f6e0,CVE-2024-5806
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/crossdomain-xml-handler_test.go,9704c550762eafc2ddc9519f3afaab6863a00f82,CVE-2023-28434
-449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23131
 449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23134
+449931921,lal0ne/vulnerability,Zabbix/CVE-2022-23134/README.md,97090fd87d64866c780e503c1fb91e5f0b06e64d,CVE-2022-23131
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.signalfd.h.cmd,970f0fe155fccb0d7d16c712eecf36450471772f,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue22941.dir/b.go,970fbc57fdf3474ad645ba995f5f15576df1f47a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue33866.go,9710e02dc1883e8608e8b9118cc89a2f21569067,CVE-2022-21449
@@ -8112,8 +8114,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/tools/go/analysis/passes/ifaceassert/ifaceassert.go,97460e21106ea604229cf7ba600b7e987a6a268b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_join_v1.1.0.txt,974626faeaefdd6aa8b08c45df4448a2a842dbfe,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/nfsd/.debug.h.cmd,974e4b9085e7236399c3d97b7ef9aac885c92d76,CVE-2024-1086
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-31248/ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2023-31248
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-31248/ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2022-2586
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-31248/ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2023-31248
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-31248/ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,CVE-2022-2078
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-31248/ZDI-22-1118/README.md,975704984bc97cc3ef87d7544c372d978ba851ec,ZDI-22-1118
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.eventpoll.h.cmd,9757dfdef2170847d9a71440d24f5426b55c6c17,CVE-2024-1086
@@ -8143,8 +8145,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue28688.go,97c0938d6ac1c697f955faf3c233a3766dabc112,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/internal/atomic/atomic_ppc64x.go,97d09a0025f0ed6c48a490648b173a0dd928cede,CVE-2022-21449
 449931921,lal0ne/vulnerability,Youdian/CVE-2022-32300/README.md,97d18da85ee3b7445b41181590f15c42918d70aa,CVE-2022-32300
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf,97d5435db3ff4d78867ee27c3e7fd4b75e38f679,CVE-2023-28432
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf,97d5435db3ff4d78867ee27c3e7fd4b75e38f679,CVE-2023-28434
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/CVE-2023-28432 minio 接口未授权访问到无损RCE和全局后门.pdf,97d5435db3ff4d78867ee27c3e7fd4b75e38f679,CVE-2023-28432
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/signal_aix_ppc64.go,97d6178e458d37f28178940cc39f1ecb8c70e94b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/race0.go,97d850f9445f25d476479ec431038b0ac21f2fe9,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/os-readdir-common.go,97da89b9659a3e61536e94bcf900a007a1831e42,CVE-2023-28434
@@ -8163,8 +8165,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug332.go,9813876d6c8167558ba295c330af08d121a69924,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/riscv64/gsubr.go,9814adcd9c39fd9c3d93037f427d282de9d0099b,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/bucket/lifecycle/rule.go,98184fc0669f6a9a5eeef6175f7796984f8e8dab,CVE-2023-28434
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-response.go,981af68902c671bc5138cf6c315a0b37dde55b06,CVE-2023-28434
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-response.go,981af68902c671bc5138cf6c315a0b37dde55b06,GHSA-76WF-9VGP-PJ7W
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/api-response.go,981af68902c671bc5138cf6c315a0b37dde55b06,CVE-2023-28434
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/ist.h,981efe6806057327c57e4a65117fc3201f0d4556,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue4909b.go,9834dcccc49b147564306b50264cfe79e33cdc3e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue7044.go,98373c5bbc38bd6c56bf29e8c814e54af529bae2,CVE-2022-21449
@@ -8172,8 +8174,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/test_example_goexit.txt,9841d9191c1c0d63a6e30763e322c34bdb4a412e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Atlassian/Atlassian Jira Mobile/CVE-2022-26135/requirements.txt,986091bd28921738291584788e9d4da012dee432,CVE-2022-26135
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/base/base.go,986251dd7b9cd83e5fe78ec7f2651709d8c984b8,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Print Spooler/CVE-2021-1675/C#/README.md,986519ee644b7221584f2d9fb86ca6cf62af1a82,CVE-2021-1675
 449931921,lal0ne/vulnerability,Windows/Print Spooler/CVE-2021-1675/C#/README.md,986519ee644b7221584f2d9fb86ca6cf62af1a82,CVE-2021-34527
+449931921,lal0ne/vulnerability,Windows/Print Spooler/CVE-2021-1675/C#/README.md,986519ee644b7221584f2d9fb86ca6cf62af1a82,CVE-2021-1675
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue4879.go,9868466a9fd8cb0fc4f99273113fbb3799d4b846,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/hsr_netlink.h,987563506d36965863b1fcf6533a48e00db583be,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/http/pprof/pprof.go,987bb0ab15d0c7acd8cf88013f7c7616dbb1a7a6,CVE-2022-21449
@@ -8541,11 +8543,11 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Fortra/Goanywhere_MFT/CVE-2023-0669/src/main/java/org/gaw/ysoserial/Serializer.java,9f8ce6d75eae39a6318c67e5f962a906bbf6d27b,CVE-2023-0669
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/int.go,9f90801031745a71508c06b4c67d60a8bece91e6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#410
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#411
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#444
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#420
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#422
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#411
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#420
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#444
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/syntax/pos.go,9f933a26cfd88e402e04b2bb7dddd3f108fb8b2a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/sha1/sha1block_arm64.go,9f947aee38db9944e75b93d788ef0fd2753464c3,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/http/cookiejar/punycode.go,9f989f644bfe723d2a143a5fdd41cc7546a0f215,CVE-2022-21449
@@ -8674,8 +8676,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/misc/.ocxl.h.cmd,a1cdbe2918c456edabf72b371aae9c659e65a876,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Client-TLSv10-ECDHE-ECDSA-AES,a1d24cd9aac82db6d36bbdb1147c4173f14e71cb,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue41575.go,a1d545f3995ddcdae5cb55e03d391db97fed708a,CVE-2022-21449
-449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/template.xml,a1df843dfbc2195128a8f17524af129345c0c915,CVE-2019-18370
 449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/template.xml,a1df843dfbc2195128a8f17524af129345c0c915,CVE-2019-18371
+449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/template.xml,a1df843dfbc2195128a8f17524af129345c0c915,CVE-2019-18370
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/embedvers.go,a1e0b9bfbb6a96497cf1082830c808f206d33817,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/elliptic/internal/fiat/Dockerfile,a1e703a7692b555ee8e414fe484054d8194553fd,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/reflect/float32reg_ppc64x.s,a1e843264c9ab5b1e1c4cadd3acfcfc7e641c884,CVE-2022-21449
@@ -8742,8 +8744,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/duff_arm64.s,a3166d8ffe8c9058bbd868294fe0eda39d4c2d6f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_get_nopkgs.txt,a31a6433303e3b23f79f48c74a037070a400ad8d,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/noder/scopes.go,a31cc26e4a461f2ae8cd4ba0f8226838cc5772b2,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac.sln,a31d037310bb08bb51a1cf51320ec9e98f0849f6,CVE-2021-42278
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac.sln,a31d037310bb08bb51a1cf51320ec9e98f0849f6,CVE-2021-42287
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac.sln,a31d037310bb08bb51a1cf51320ec9e98f0849f6,CVE-2021-42278
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/acrn.h,a31e5573cb0ec573f20c84d6fc1903e90f55a311,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15252.go,a32a70f7f1571beacccb22356cf783e2cbbbfecb,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/helm-releases/minio-3.5.0.tgz,a32eaebe3debaa30c33e785fec9daffd2c4e11a2,CVE-2023-28434
@@ -8970,8 +8972,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/jwt/parser.go,a74e418ef776d85afa1ef522158f58431ff660c4,CVE-2023-28434
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/uinput.h,a74fb88cf20e539c29336ae3692aeeada48bb3d8,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_dotgo.go_v1.0.0.txt,a74fb9b0cfcefbf67dbd309a46c71dc8df79a470,CVE-2022-21449
-449931921,lal0ne/vulnerability,JetBrains/CVE-2024-37051/CVE-2024-37051分析.pdf,a753216c16219a5e0e25ce054745b1cf7e2a8854,VU#42
 449931921,lal0ne/vulnerability,JetBrains/CVE-2024-37051/CVE-2024-37051分析.pdf,a753216c16219a5e0e25ce054745b1cf7e2a8854,CVE-2024-37051
+449931921,lal0ne/vulnerability,JetBrains/CVE-2024-37051/CVE-2024-37051分析.pdf,a753216c16219a5e0e25ce054745b1cf7e2a8854,VU#42
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/zsyscall_netbsd_amd64.go,a758ea44735d4cb0252fab177f77ef91e06db6c1,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/sinit.go,a7594bfdfd3fa82e305dee655eb89397571a56d0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue8280.dir/a.go,a75d71dcfc120f142e359d817cfb50db4c942d5f,CVE-2022-21449
@@ -9046,8 +9048,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/os_netbsd_arm.go,a8cda6a53389f2c909654240423d73d2a4a6c292,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/auth/credentials.go,a8cf21341fc75ac1c944384d7ffa2bfc20a48d81,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue4590.dir/pkg2.go,a8d45ff90599a97b79609d33ce3a0ccee589fc72,CVE-2022-21449
-449931921,lal0ne/vulnerability,GeoTools/CVE-2024-36404/README.md,a8d68d3f9d389e0f7474b8e1cc18161a76e855c0,CVE-2024-36404
 449931921,lal0ne/vulnerability,GeoTools/CVE-2024-36404/README.md,a8d68d3f9d389e0f7474b8e1cc18161a76e855c0,GHSA-W3PJ-WH35-FQ8W
+449931921,lal0ne/vulnerability,GeoTools/CVE-2024-36404/README.md,a8d68d3f9d389e0f7474b8e1cc18161a76e855c0,CVE-2024-36404
 449931921,lal0ne/vulnerability,Apache/Apache Commons Configuration/CVE-2022-33980/.idea/compiler.xml,a8d84ec833a13e4dcfa5556beaab497d71dfb35e,CVE-2022-33980
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/net/route/interface_openbsd.go,a8e1c467b1be43df99ce053a07a7e65c5ee2043b,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/jwt/parser_test.go,a8e1ca24c49040ce3a16bb89a40ac9d65f73998d,CVE-2023-28434
@@ -9166,8 +9168,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/abi/result_regalloc.go,ab6eade50a65878da45f1b8793a92f4985ad1346,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue10958.go,ab6f7f7d12bf7b78d6c38dfd3e56c33e7cb752d5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue44732.dir/main.go,ab7cb1cbe1785db1344be5cba4d731ca54d2435f,CVE-2022-21449
-449931921,lal0ne/vulnerability,Apache/Ofbiz/CVE-2024-38856/README.md,ab83a062d86a0f36503d78a94ad7768077668075,CVE-2024-32113
 449931921,lal0ne/vulnerability,Apache/Ofbiz/CVE-2024-38856/README.md,ab83a062d86a0f36503d78a94ad7768077668075,CVE-2024-38856
+449931921,lal0ne/vulnerability,Apache/Ofbiz/CVE-2024-38856/README.md,ab83a062d86a0f36503d78a94ad7768077668075,CVE-2024-32113
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/tc_act/.tc_ipt.h.cmd,ab85906e646d59a653a11bfa3aa5155cb6a3e5fd,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/test_buildvcs.txt,ab933ff0353d76c2e5a69db01a03a6ac551a4c0e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue29919.go,ab974e0616eaaa67e8f987334848aabcc6b53214,CVE-2022-21449
@@ -9230,8 +9232,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/uvcvideo.h,ad14caac4bebe8532cf5001f4f1a986004befc82,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/govcs.txt,ad1fa38e865caafbce71c3971b7e5d4fd78f5840,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/ssa/gen/generic.rules,ad2444c58d1b508d075615668b600b3a4fa27e45,CVE-2022-21449
-449931921,lal0ne/vulnerability,Apache/HTTPd/CVE-2021-42013/CVE-2021-42013.py,ad26b27456209a0f50a37d401cdfab462f348910,CVE-2021-41773
 449931921,lal0ne/vulnerability,Apache/HTTPd/CVE-2021-42013/CVE-2021-42013.py,ad26b27456209a0f50a37d401cdfab462f348910,CVE-2021-42013
+449931921,lal0ne/vulnerability,Apache/HTTPd/CVE-2021-42013/CVE-2021-42013.py,ad26b27456209a0f50a37d401cdfab462f348910,CVE-2021-41773
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/reflectlite/swapper.go,ad2728208459280917c3941145fb59e1fba6e79e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue26390.go,ad277c016f32582ef3b9634f306767cadaf5f9bc,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/sound/.skl-tplg-interface.h.cmd,ad2a7228bedefc1fcca8ef2f8a1c1fe24a2df1bf,CVE-2024-1086
@@ -9253,8 +9255,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/trace/mkcanned.bash,ad7000f8b684f2230677f8c4fdb81d5aa73054cc,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/api/go1.14.txt,ad7a0c7bbfc220fc4a9f40a30cd1b30cce48b197,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/typecheck/syms.go,ad7ba51a34afe79f8fb685dc1319144d7147de37,CVE-2022-21449
-449931921,lal0ne/vulnerability,FUXA/CVE-2023-33831/CVE-2023-33831.py,ad7be491329d9527ce87d379f1f188556a12868a,CVE-2022-26134
 449931921,lal0ne/vulnerability,FUXA/CVE-2023-33831/CVE-2023-33831.py,ad7be491329d9527ce87d379f1f188556a12868a,CVE-2023-33831
+449931921,lal0ne/vulnerability,FUXA/CVE-2023-33831/CVE-2023-33831.py,ad7be491329d9527ce87d379f1f188556a12868a,CVE-2022-26134
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/metrics/value.go,ad7caf4fa364ca5dc58c66f84e0d0c12f34ebf70,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/rsc.io_sampler_v1.0.0.txt,ad7f8d41cb7bb2ce58cd18d84c3c075b93dce838,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/mem_windows.go,ad8621d1dc3843774a6fde54b4cc662f06510dda,CVE-2022-21449
@@ -9262,8 +9264,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Nacos/CVE-2021-29441/README.md,ad930bbd2f82df5c78d3a473436f056ddd3d4851,CVE-2021-29441
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/internal/gccgoimporter/testdata/nointerface.go,ad943add36391382df174389b80e3d375d770d0e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/testdata/testprognet/main.go,ad9bd6ee67e6d2a80cbcf9222c55235705b103ec,CVE-2022-21449
-449931921,lal0ne/vulnerability,WAVLINK/CVE-2022-31845/CVE-2022-2486.yaml,ad9cffdfd634d93c014eb5bbefd1cfd81c1f60fd,CVE-2022-2486
 449931921,lal0ne/vulnerability,WAVLINK/CVE-2022-31845/CVE-2022-2486.yaml,ad9cffdfd634d93c014eb5bbefd1cfd81c1f60fd,CVE-2022-31845
+449931921,lal0ne/vulnerability,WAVLINK/CVE-2022-31845/CVE-2022-2486.yaml,ad9cffdfd634d93c014eb5bbefd1cfd81c1f60fd,CVE-2022-2486
 449931921,lal0ne/vulnerability,WAVLINK/CVE-2022-31845/CVE-2022-2486.yaml,ad9cffdfd634d93c014eb5bbefd1cfd81c1f60fd,CVE-2022-30489
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/issue16153.1.golden,ad9ebcd5750a380e66c72a93e482b6e7170f784c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue7538a.go,ada8344103d0066d0ddfbab2c06c08c80ec17f3c,CVE-2022-21449
@@ -9461,7 +9463,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/vendor_test_issue14613.txt,b0fd04d5fbe0a7ee95dd6ab14f60a53f2050f892,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue39472.go,b1044e07ec372947e83a84173a0808e25ab9012e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/syscall_darwin.1_13.go,b10b46feb3b17bc3a57e3eb642f2abbda6e2d2cc,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/modlegacy/src/old/p2/p2.go,b11132945c9254ad4e3ea5c8b4a7a8104df27e15,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/modlegacy/src/new/p2/p2.go,b11132945c9254ad4e3ea5c8b4a7a8104df27e15,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_indirect_tidy.txt,b1154af9c85a519fa174c752a0b0e8e35b7d89ef,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/check/builtins0.go,b11e762d43f5aa91d26bcdd8600d65a3ff1b0173,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/sqrt.go,b120e4ca35e08656d7ed7836f1636eaed955c81b,CVE-2022-21449
@@ -9518,8 +9520,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/config/heal/help.go,b215d64ebbcfe303c470bef29a7ea2e002d8dae4,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue8039.go,b2197c366e4b60716d248c611f4670d602d02185,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.bpf_common.h.cmd,b21a6488723b06960ee2ccde3cbd090cf7cae6a7,CVE-2024-1086
-449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2021-27065/README.md,b21ad6bc6fae3443b662626e82687f14cdb5537b,CVE-2021-27065
 449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2021-27065/README.md,b21ad6bc6fae3443b662626e82687f14cdb5537b,CVE-2021-26855
+449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2021-27065/README.md,b21ad6bc6fae3443b662626e82687f14cdb5537b,CVE-2021-27065
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/internal/help/helpdoc.go,b21ec3db3b72c65a48496e97004ed229079ae3b6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/pidfd.h,b22346482a89ec2bcca50e1a4de90554d87b95ed,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/assign1.go,b22513035d6c358962d7d8af7ff72dcb1b14cfe6,CVE-2022-21449
@@ -9548,8 +9550,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_git_export_subst.txt,b2770db9e8692356099df716931193c378235cd8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/list_ambiguous_path.txt,b27b54851fce391e6e871efcb99d32c4c1297ab2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/signal_linux_arm.go,b27cee195e4f006ffacbfe7940d6807907e3cf10,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2022-41080/README.md,b280f21fde42aa01945632b80b1614e3104f60b2,CVE-2022-41082
 449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2022-41080/README.md,b280f21fde42aa01945632b80b1614e3104f60b2,CVE-2022-41080
+449931921,lal0ne/vulnerability,Windows/Exchange Server/CVE-2022-41080/README.md,b280f21fde42aa01945632b80b1614e3104f60b2,CVE-2022-41082
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/testdata/fixedbugs/issue51158.go,b285e913522e1a4ba1380f4d088aaf79b4d4d744,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/config/api/api.go,b289123735e236283240d7fbe8496798d820fa3d,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue18725.go,b299baf72d409c34358bd50235052355991ab715,CVE-2022-21449
@@ -9749,8 +9751,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/trace/testdata/stress_1_7_good,b6850ad12d8808875455c2aafe39b4c161540ea4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/test_fuzz_io_error.txt,b687782a77dc81ae8743523723a93921e3429106,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/sys_ppc64x.go,b698561ab37de49515843c37887e1e9f93ce1381,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj.user,b6a242befe806fac5f7f851eb04274efb206aa05,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj.user,b6a242befe806fac5f7f851eb04274efb206aa05,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj.user,b6a242befe806fac5f7f851eb04274efb206aa05,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zerrors_linux_riscv64.go,b6a2d05cae9a806486b81f72e343c20f577ac46b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue9083.go,b6b9f1e5102f7694d2078c7850bbc3cb4d6b1a5b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/regexp/onepass.go,b6bd071d8ff794e7209e879c8bbdccbadadf00d1,CVE-2022-21449
@@ -10587,8 +10589,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue32477.go,c5feea0c64b06ed89c82314dbcbcdf06410b3c70,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/xl-storage-format-v2-legacy.go,c60c011e95d84b8ad3c0efba6b24e827a8227a2c,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/diff/testdata/same.txt,c60d8214d15472d63d3cc283554c493a0606fbb3,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj,c60dd7f03c39be8825ef6895660462112dbb2a0a,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj,c60dd7f03c39be8825ef6895660462112dbb2a0a,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/noPac.csproj,c60dd7f03c39be8825ef6895660462112dbb2a0a,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/maps.go,c60e7762a096a1f3730a593dbc0524e55a2b939a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter/xt_NFQUEUE.h,c60f9a1f2043d155b65e1a1854f5e77fcd5cfe9c,CVE-2024-1086
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/libnftnl/expr.h,c6139a54e369a03c8d30ed2326e8f2cbf6fb2a4b,CVE-2024-1086
@@ -10608,7 +10610,7 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/kernel-netfilter/CVE-2021-22555/README.md,c651d309a035fec6462f0c44d0b1b58cd57dda49,CVE-2021-22555
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zerrors_openbsd_amd64.go,c652265662cb4f235cacb4b1d2bc2b9df39a92d4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue9321.go,c652ee48d22eb9b176447af41ef02fcbf975ebb8,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/generics.2.golden,c65dd6f1e6c69d1e92fd050eebc3c6c49714bcde,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/testdata/generics.0.golden,c65dd6f1e6c69d1e92fd050eebc3c6c49714bcde,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.if_infiniband.h.cmd,c66784f1c2528b7752ed922d6ac114f682ad8a89,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug063.go,c67055a075b727e74c348c1f7e8921e6aa0e7fe8,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/arith_arm64.s,c672a99d903197290a11770e4e2e72b1a8f2f7f2,CVE-2022-21449
@@ -10655,10 +10657,10 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/rsc.io_quote_v1.0.0.txt,c75933589b2529f68ec6d059cc4a956d777838a2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue32680.go,c760b931486ef8ae4ce99eaca8d0aca7848339cd,CVE-2022-21449
 449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-5616
-449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-5617
-449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-6662
-449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-6663
 449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-6664
+449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-6662
+449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-5617
+449931921,lal0ne/vulnerability,MySQL/CVE-2016-6664/poc.sh,c76282e6c055e2b3431678eeded732bf3370c69c,CVE-2016-6663
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/asm/internal/asm/testdata/amd64dynlinkerror.s,c7631b4118c71af234427da4c439f244f3be33ee,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/bucket-replication-utils_gen_test.go,c763bc1037ced407b7989cd6ccd42b68e49e2119,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/cgo/gcc_libinit.c,c7658ff5b2a5e3674135ae219ba15632bc33e9b0,CVE-2022-21449
@@ -10741,8 +10743,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/swig/callback/callback.h,c8dd1f25879257bd6a90e017dbc9b2f00c33907a,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue43164.dir/b.go,c8ddb443d3d549edfdae8b20215295c9f8337622,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/archive/tar/testdata/gnu-nil-sparse-data.tar,c8e377f4df8854b395000ff7c7958baddc9d6a59,CVE-2022-21449
-449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2023-46805.sh,c8e3d257788b1eb7d12439f779210085b7bc37fd,CVE-2023-46805
 449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2023-46805.sh,c8e3d257788b1eb7d12439f779210085b7bc37fd,CVE-2024-21887
+449931921,lal0ne/vulnerability,Ivanti/CVE-2023-46805&CVE-2024-21887/CVE-2023-46805.sh,c8e3d257788b1eb7d12439f779210085b7bc37fd,CVE-2023-46805
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue7648.dir/b.go,c8ed2a30662e086a634d0e178ffa88035c90a9c6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/log1p.go,c8ee937f8b8fffa90325162dbe005a0c0b15903c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Server-TLSv12-Ed25519,c8fc43ac4cda4cd9c763eca135e4c1d234386729,CVE-2022-21449
@@ -10757,8 +10759,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/byteorder/.little_endian.h.cmd,c92405b6a3f84cd88a29d9d0a94daa68114ba70a,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue12686.go,c927a2f5aba923a14aacb29d03f2247d07f43e02,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue44823.go,c9280ad216808502825046248cd2ade6c407aa10,CVE-2022-21449
-449931921,lal0ne/vulnerability,Apache/Apache Commons Configuration/CVE-2022-33980/.idea/vcs.xml,c92f3eb0ad1c70371e177a4d7d741f90af3f902c,CVE-2022-33980
 449931921,lal0ne/vulnerability,Fortra/Goanywhere_MFT/CVE-2023-0669/.idea/vcs.xml,c92f3eb0ad1c70371e177a4d7d741f90af3f902c,CVE-2023-0669
+449931921,lal0ne/vulnerability,Apache/Apache Commons Configuration/CVE-2022-33980/.idea/vcs.xml,c92f3eb0ad1c70371e177a4d7d741f90af3f902c,CVE-2022-33980
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/server-main.go,c92fb143e44f10341ff97378e82cfd229e0d9988,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/ztypes_netbsd_arm.go,c933de529d51ec0643a1bba9d1fb8dd09bad39f0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Skyworth/CVE-2023-40930/lib.zip,c93651e1616ccc826cd0f85a119cbb21a2134b92,CVE-2023-40930
@@ -10784,9 +10786,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/macho/file.go,c9ae13594a2991945f221af026ca8fdd379d87cd,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/headscan.go,c9afbb5fd7938622226c7e5ddefca217c642f223,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/math/big/ratconv.go,c9b45b820173bfbe4ec712fbd65309a7602296db,CVE-2022-21449
-449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/VMSA-2023-0001.py,c9b94642a459cec71713a16700f1e1d2ac0ee776,CVE-2023-34051
 449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/VMSA-2023-0001.py,c9b94642a459cec71713a16700f1e1d2ac0ee776,CVE-2022-31704
 449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/VMSA-2023-0001.py,c9b94642a459cec71713a16700f1e1d2ac0ee776,CVE-2022-31711
+449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/VMSA-2023-0001.py,c9b94642a459cec71713a16700f1e1d2ac0ee776,CVE-2023-34051
 449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/VMSA-2023-0001.py,c9b94642a459cec71713a16700f1e1d2ac0ee776,CVE-2022-31706
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/docker-buildx.sh,c9bb3c121828540ffcb5980f471353423503c801,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/testdata/e.txt,c9bb4428ae629438c52d8fdcf2249e8996de3cdf,CVE-2022-21449
@@ -11118,8 +11120,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Windows/Office/CVE-2022-30190/doc/word/styles.xml,cfd1963cf0c3b174feea8790a8d498a267771856,CVE-2022-30190
 449931921,lal0ne/vulnerability,74cms/CVE-2024-2561/README.md,cfda7561539def53b6172c30fcf50105a1d0e34d,CVE-2024-2561
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue4517d.go,cfe3476a9f2d800325ebb9cf81653a56cb537792,CVE-2022-21449
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnElt.cs,cfe4c5dc05a2e282dbf54f6d951f76db74297623,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnElt.cs,cfe4c5dc05a2e282dbf54f6d951f76db74297623,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/AsnElt.cs,cfe4c5dc05a2e282dbf54f6d951f76db74297623,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/defs_netbsd_amd64.go,cfe5f4da826df2d087c145af4d119b802c341a6b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.uvcvideo.h.cmd,cff233293f4e98455b25c79721ad66068bbc8dea,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/api/testdata/src/issue21181/p/p.go,cff588015585bc487a04b053f6df748a532cbd65,CVE-2022-21449
@@ -11237,8 +11239,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/main.go,d203e14b57753d7bd69d6561a709ddf58a3108ec,CVE-2019-11043
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zerrors_solaris_amd64.go,d207da16c65f1bf95b23447b0be3f1319f0877b5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.dm-ioctl.h.cmd,d20965858a2b0470029cc105bf9f438c17ac9595,CVE-2024-1086
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/testcshared/testdata/main0.c,d209c47aa22fabc9de7acfa208879567ff6a9924,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/testcshared/testdata/main0.c,d209c47aa22fabc9de7acfa208879567ff6a9924,VU#2264
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/cgo/testcshared/testdata/main0.c,d209c47aa22fabc9de7acfa208879567ff6a9924,CVE-2022-21449
 449931921,lal0ne/vulnerability,Spring/Spring-Kafka/CVE-2023-34040/compose.yml,d20b2656e0d616d3696aa10335a0254e84c10a25,CVE-2023-34040
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/gofmt/testdata/stdin6.input,d210233eff5a28b3e5d5798e15dbe8264525f029,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/cipher/xor_amd64.go,d210400af24999fc99fd344a2ad3730a3ccdf00e,CVE-2022-21449
@@ -11361,8 +11363,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/mpagealloc.go,d4156060a3926e9c45343b9b7aa20485f49ac350,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/pprof/testdata/cpu.go,d4168b41850cf454dc19720ead8a690faea2dc60,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/polkit_pkexec/CVE-2021-4034/pwnkit.c,d416d1f8c5de5853c71ba14ade60291d263716dd,CVE-2021-4034
-449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/Asn1Extensions.cs,d41a8ad0aa50c1bfad6ffbaa0e6f5843ac07d87b,CVE-2021-42287
 449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/Asn1Extensions.cs,d41a8ad0aa50c1bfad6ffbaa0e6f5843ac07d87b,CVE-2021-42278
+449931921,lal0ne/vulnerability,Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/Asn1/Asn1Extensions.cs,d41a8ad0aa50c1bfad6ffbaa0e6f5843ac07d87b,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/ztypes_linux.go,d4246984336f0266dc8555d0112170d64c3ce318,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/zptrace_linux_arm64.go,d426ee2cd50047f351f64fd9cf0bc86c1647b1a2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/text/unicode/bidi/tables13.0.0.go,d4293978e9632ed460063f59a3bc1bf148868723,CVE-2022-21449
@@ -11422,8 +11424,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vet/testdata/buildtag/buildtag4.go,d5772130d3572032a42f4479178343cf84319b9e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/asm/sigcontext.h,d589587d2bf68572e76fa6e097e35a53f13f42e6,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/gofmt/testdata/stdin3.golden,d5911d4e576df6d4e9225a38e4d06c9dfa637ea9,CVE-2022-21449
-449931921,lal0ne/vulnerability,"Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs",d592302776fa10877e131e80325a887f1c34b96a,CVE-2021-42287
 449931921,lal0ne/vulnerability,"Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs",d592302776fa10877e131e80325a887f1c34b96a,CVE-2021-42278
+449931921,lal0ne/vulnerability,"Windows/Active Directory/CVE-2021-42287&CVE-2021-42278/noPac/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs",d592302776fa10877e131e80325a887f1c34b96a,CVE-2021-42287
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/pprof/protomem.go,d59a5c11d2bb50b8608c426305785800fba72994,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/handshake_server_tls13.go,d59affeee07e43cc7ee6e55eeb524031833d6daa,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/crypto/curve25519/internal/field/sync.checkpoint,d5a0abc576d5609eaabf2f606c19a71a74a1ad32,CVE-2022-21449
@@ -11548,8 +11550,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/ed25519/internal/edwards25519/edwards25519.go,d7c6e4c6e1e19af75af7c71403e99542f3309ec6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/typexpr.go,d7c74165220bb910e27540c6705981c3513c6cd9,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/bucket/replication/datatypes_gen_test.go,d7cea363a692c282aeff2edac708d51d8457e634,CVE-2023-28434
-449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/crypto/header_test.go,d7d62a207af153e215c721079e8e99616b50c605,CVE-2023-28434
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/crypto/header_test.go,d7d62a207af153e215c721079e8e99616b50c605,GHSA-76WF-9VGP-PJ7W
+449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/crypto/header_test.go,d7d62a207af153e215c721079e8e99616b50c605,CVE-2023-28434
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.unix_diag.h.cmd,d7de23075635f33097cffc17c2d05dbbe915c125,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_retract_rename_v1.0.0-bad.txt,d7e06b6c02df0c58bf0069c14cf85929e8a1b4d0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/retjmp.dir/main.go,d7e12bff5ec6e101d81720fd7c6ec5cda7033edf,CVE-2022-21449
@@ -11558,9 +11560,9 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/debug/elf/testdata/go-relocation-test-clang-x86.obj,d7f67d0d15bd2a02924960f96cb7b771c56e4c0d,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/race/norace.go,d7f7843a70c3eb4b8dc777bbdeb6a5a7e59c610f,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/code_of_conduct.md,d7f8be08aa3c587cf0cb431171743af0b2907901,CVE-2023-28434
-449931921,lal0ne/vulnerability,CobaltStrike/CVE-2022-39197/CVE-2022-39197.pdf,d7fa24dd34571310863523d45bd591a8bd9d91d3,VU#02
-449931921,lal0ne/vulnerability,CobaltStrike/CVE-2022-39197/CVE-2022-39197.pdf,d7fa24dd34571310863523d45bd591a8bd9d91d3,CVE-2022-39197
 449931921,lal0ne/vulnerability,CobaltStrike/CVE-2022-39197/CVE-2022-39197.pdf,d7fa24dd34571310863523d45bd591a8bd9d91d3,VU#46
+449931921,lal0ne/vulnerability,CobaltStrike/CVE-2022-39197/CVE-2022-39197.pdf,d7fa24dd34571310863523d45bd591a8bd9d91d3,CVE-2022-39197
+449931921,lal0ne/vulnerability,CobaltStrike/CVE-2022-39197/CVE-2022-39197.pdf,d7fa24dd34571310863523d45bd591a8bd9d91d3,VU#02
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/get_internal_wildcard.txt,d7ff19be18ef5de7aec0a0ad30e5370909168870,CVE-2022-21449
 449931921,lal0ne/vulnerability,PlaySMS/CVE-2020-8644/CVE-2020-8644.yaml,d8014b11036f82afa249d5eba5e245c58e848b29,CVE-2020-8644
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/mountinfo/mountinfo_others.go,d8046fd37754736b74083171917adfda156aa48c,CVE-2023-28434
@@ -11574,8 +11576,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/test/README,d82468e309bf19b5ccb69301daf0344e58add71b,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/bpool/bpool.go,d82892053a51c127ce8568e4ba1702ef13f870f8,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue40954.go,d83750b73107062ef2fec64d0677c184baed432a,CVE-2022-21449
-449931921,lal0ne/vulnerability,ConnectWise/ScreenConnect/CVE-2024-1709/ScreenConnect-AuthBypass-RCE.py,d83aa59d6b04d852b70ce015ae276478f85d9623,CVE-2024-1708
 449931921,lal0ne/vulnerability,ConnectWise/ScreenConnect/CVE-2024-1709/ScreenConnect-AuthBypass-RCE.py,d83aa59d6b04d852b70ce015ae276478f85d9623,CVE-2024-1709
+449931921,lal0ne/vulnerability,ConnectWise/ScreenConnect/CVE-2024-1709/ScreenConnect-AuthBypass-RCE.py,d83aa59d6b04d852b70ce015ae276478f85d9623,CVE-2024-1708
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter/.xt_quota.h.cmd,d8463d6886d7a67f1f7abcc009b00329e656ab40,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug092.go,d8504ef1267d1fc14172c6f92247743e54e2c369,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/reflect/asm_arm.s,d85e564a7e93900c6fc765518591bec08c175f20,CVE-2022-21449
@@ -11653,13 +11655,13 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug19403.go,d9c1d47067c3f93b6f3348757825458438673b82,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/misc/swig/callback/callback.go,d9c4b5d1ea85fcc360f938584031de92375d49aa,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue20749.go,d9c848a502cd0cd911878a810c50ef2ecf33c2e9,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#97
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#51
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#82
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#35
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#97
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#99
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#8775
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#35
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,VU#82
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/compress/gzip/testdata/issue6550.gz.base64,d9c9733091f58a7c58c027cb5fbd63b7b8e7f5f6,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/html/template/template.go,d9c9f7f4daf8ca18d5dbdfd078d707d2971a4ed0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue11610.go,d9cea94423c1cdd17c6087a1046002afee406fc0,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/printer/testdata/alignment.input,d9d02c2df3003209952f6ad02abbf668b3364be9,CVE-2022-21449
@@ -11683,14 +11685,14 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/workers/workers_test.go,da23fbf794cc738285e5d99607e829c9fa17786a,CVE-2023-28434
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.sctp.h.cmd,da2eb52ec88ad9b7392f42cc49c5a46f28bb6f53,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/compile/internal/types2/typeset.go,da32fa206178cc78f564f3988609a52eb7d1654f,CVE-2022-21449
-449931921,lal0ne/vulnerability,Spring/CVE-2017-8046/src/main/resources/application.yml,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2017-8046
-449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-0386/img/image-20230428112854184.png.baiduyun.uploading.cfg,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-0386
 449931921,lal0ne/vulnerability,SQLite/CVE-2022-35737/placeholder.sql3,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-35737
+449931921,lal0ne/vulnerability,Spring/CVE-2017-8046/src/main/resources/application.yml,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2017-8046
 449931921,lal0ne/vulnerability,php-fpm/CVE-2019-11043/reproducer/script.php,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2019-11043
-449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/src/main/resources/application.properties,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-32532
-449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/gen-py/__init__.py,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-34051
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/crypto/tls/testdata/Client-TLSv11-Ed25519,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/abi/struct_3_string_input.out,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-21449
 449931921,lal0ne/vulnerability,ImageMagick/CVE-2016-3714/classes/__init__.py,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2016-3714
+449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2023-0386/img/image-20230428112854184.png.baiduyun.uploading.cfg,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-0386
+449931921,lal0ne/vulnerability,VMware/Aria Operations for Networks/CVE-2023-34051/gen-py/__init__.py,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-34051
+449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/src/main/resources/application.properties,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-32532
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue15920.dir/b.go,da3ef59dd2a067f1602427f6c0353dafb28aa954,CVE-2022-21449
 449931921,lal0ne/vulnerability,Atlassian/Atlassian Bitbucket Data Center/CVE-2022-26133/README.md,da448182f86f82e843393ad9d0b7f88faaf30105,CVE-2022-26133
 449931921,lal0ne/vulnerability,Atlassian/Atlassian Bitbucket Data Center/CVE-2022-26133/README.md,da448182f86f82e843393ad9d0b7f88faaf30105,CVE-2016-10750
@@ -11902,13 +11904,13 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/s3select/csv/testdata/testdata.zip,de130588b0b7f91d207dfdabee24a27ecf876855,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/fuzz/minimize.go,de181da85a2e9cd9b2028d8df8e1b88b399b8651,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/crypto/cryptobyte/string.go,de18b3741ac9bb39c67b8a5a2341a6fe99a54779,CVE-2022-21449
-449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/README.md,de1c1e6ca31f774c681a48aba2c383ce26b0af5c,CVE-2011-0751
 449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/README.md,de1c1e6ca31f774c681a48aba2c383ce26b0af5c,CVE-2019-16278
 449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/README.md,de1c1e6ca31f774c681a48aba2c383ce26b0af5c,CVE-2019-16279
+449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/README.md,de1c1e6ca31f774c681a48aba2c383ce26b0af5c,CVE-2011-0751
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/docs/distributed/decom-encrypted.sh,de20354054f52e8525bd070ceb038d93feae05dc,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/zsysnum_linux_mips.go,de25176503472d63b2366422772efe6931dfefd4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue11369.go,de2574ea0a637901f822472fed66fc7066b38522,CVE-2022-21449
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue16133.dir/a2.go,de282a93ad49dce63cb1da72e853ebd55e2202b3,CVE-2022-21449
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue16133.dir/a1.go,de282a93ad49dce63cb1da72e853ebd55e2202b3,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/bug061.go,de2c64dc4896d61d6b6afbc9f93265c8ab6e95b1,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/vendor/golang.org/x/text/unicode/norm/tables9.0.0.go,de2e33901c7cd79ade6ddc602a37d23ed82781bf,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue47631.go,de302c42c9e8ffc302d65dae6537b8617d23703a,CVE-2022-21449
@@ -12438,8 +12440,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/internal/bytealg/index_arm64.s,e8e1ad1d67b6b4801bcac59207d35cabb61eb310,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/udf_fs_i.h,e8e48b46a2f2bbe7526e86c1fa7411b7745c9891,CVE-2024-1086
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/httprange.go,e8e72544388effb7605937ccda734a09dc19d283,CVE-2023-28434
-449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/regexp/testdata/re2-exhaustive.txt.bz2,e8eb0b7b1222e0919ade57a7b1f40d7bbf5d8238,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/regexp/testdata/re2-exhaustive.txt.bz2,e8eb0b7b1222e0919ade57a7b1f40d7bbf5d8238,VU#15
+449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/regexp/testdata/re2-exhaustive.txt.bz2,e8eb0b7b1222e0919ade57a7b1f40d7bbf5d8238,CVE-2022-21449
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/color/color.go,e8ece62acfdb2c3fa8f5e497578aa8db1e8d023f,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/doc/comment/testdata/link5.txt,e8f36ae0fe5b7c3bddb6f5183242833e041e85e2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/conversions.go,e8f3de2df608f532eb0b06763ce72887d9b063d8,CVE-2022-21449
@@ -12467,8 +12469,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/mime/type_plan9.go,e97a6f18bb81ebf919d8c10ee61e598c608be95f,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/rdma/rvt-abi.h,e999986f41c711f58120f040795964c4f55be702,CVE-2024-1086
 449931921,lal0ne/vulnerability,i3geo/CVE-2022-32409/README.md,e99b4d2de11062fb41cd4b239db4c023c4a96e04,CVE-2022-32409
-449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/README.md,e99eab94e73323f812a9a7d35117bb2fd75f8b53,CVE-2022-22978
 449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/README.md,e99eab94e73323f812a9a7d35117bb2fd75f8b53,CVE-2022-32532
+449931921,lal0ne/vulnerability,Apache/Shiro/CVE-2022-32532/README.md,e99eab94e73323f812a9a7d35117bb2fd75f8b53,CVE-2022-22978
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/x25.h,e99fb3bd23e41dd50b82b15fede4b00dfc5c4297,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/issue47925d.go,e9a14f9375ce85b6fcf26ab4c850fdc87962e323,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/check/decls2/decls2b.go,e9a219c19badc716e637e79e9c207c9bcd48a0b0,CVE-2022-21449
@@ -12587,8 +12589,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/cmd/update_nofips.go,ec1f4f8f45a164d78306aba717e336b92652ce79,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/github.com/google/pprof/internal/symbolz/symbolz.go,ec22457f9fc42df1340f19794bf2820b2589660c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue6703m.go,ec246b704129373f911cde03651866cde993a00d,CVE-2022-21449
-449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/arbitrary_file_read_vulnerability.py,ec2924b1642262918576681b5ea0f50663b0a599,CVE-2019-18370
 449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/arbitrary_file_read_vulnerability.py,ec2924b1642262918576681b5ea0f50663b0a599,CVE-2019-18371
+449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/arbitrary_file_read_vulnerability.py,ec2924b1642262918576681b5ea0f50663b0a599,CVE-2019-18370
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/typeparam/fact.go,ec295d8a339a948b5b755b5b2e58c7474d022e5b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/recover5.go,ec2b64a132c8905610905c41a1e374b8f58f76eb,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/build_i_deprecate.txt,ec2fdcbd05ff382421319665a4e5416b2fd96ce6,CVE-2022-21449
@@ -12756,8 +12758,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/objdump/testdata/testfilenum/go.mod,ef32287cda4eeb10b56daa61131d6ad0827bd9e2,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/ztypes_linux_riscv64.go,ef323217a7deb84831dddece8205dea374bcebad,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_multirepo.txt,ef33301c16d9ba93a5b28eebfd40dfb89f7cff63,CVE-2022-21449
-449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16279.sh,ef346d240068d2e54c57de6ba29c2dd6770ecaca,CVE-2019-16278
 449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16279.sh,ef346d240068d2e54c57de6ba29c2dd6770ecaca,CVE-2019-16279
+449931921,lal0ne/vulnerability,Nostromo/CVE-2019-16278&CVE-2019-16279/CVE-2019-16279.sh,ef346d240068d2e54c57de6ba29c2dd6770ecaca,CVE-2019-16278
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/escape_calls.go,ef3b8f26e5a919246f8e2822e0ad0dc920e0dc05,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2021-4034/v3.0/release/x86/cve-2021-4034-poc-86,ef3ba4c6ea34024c0288d8a48da4636d8281ad90,CVE-2021-4034
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/net/ipsock_plan9.go,ef3e605eb91c843213e68bc4dcc9df7417e6e22a,CVE-2022-21449
@@ -12790,8 +12792,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/printer/testdata/complit.input,efcaa2ad56d33f3d203bc59db9e1a85c274c521c,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/syscall/route_netbsd.go,efd24c0f010b641d52ccd4b8c9441136b09490e3,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/fsl_hypervisor.h,efd7d73fa1369a0c4cc1df0133bcdfd4d1e57e96,CVE-2024-1086
-449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/README.md,efddee29722459d0abe9add9ebe98ef805b6e297,CVE-2019-18370
 449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/README.md,efddee29722459d0abe9add9ebe98ef805b6e297,CVE-2019-18371
+449931921,lal0ne/vulnerability,XiaoMi/WiFi/CVE-2019-18370&CVE-2019-18371/README.md,efddee29722459d0abe9add9ebe98ef805b6e297,CVE-2019-18370
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/codegen/bmi.go,efe3c06d392872ace881e4c0ef28b3c2c0674fe9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/internal/modconv/vyml.go,efe7aa73913e3cb6d11c7d64c5fdf482d6e32f14,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/netfilter_arp/.arp_tables.h.cmd,efedc982794bfd1601a3f7cdeda5dfab70b4fc7a,CVE-2024-1086
@@ -12876,19 +12878,19 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/ivtvfb.h,f14375ef098a39b8d85a138a664b4926ae1362b3,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/vendor/golang.org/x/sys/unix/ztypes_darwin_amd64.go,f144f1e7e8438f6620be5728abad7a365aa359c3,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/gtp.h,f14d310c99c6a651df1fd636dab3b578b5aa87f4,CVE-2024-1086
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#48
 449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#67
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#50
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,CVE-2024-20931
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#25
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#75
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#33
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#26
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#34
 449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#42
 449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#81
-449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#18
 449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#78
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#48
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#50
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#75
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#18
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,CVE-2024-20931
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#25
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#26
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#34
+449931921,lal0ne/vulnerability,Weblogic/CVE-2024-20931/CVE-2024-20931.jar,f14ec23b6f39555b00e40f2f337e001d019f0620,VU#33
 449931921,lal0ne/vulnerability,MinIO/CVE-2023-28434/internal/config/identity/ldap/config.go,f14ef6703588ca808f26b3c30dfd2694f5516259,CVE-2023-28434
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/mod/example.com_ambiguous_a_v1.0.0.txt,f1528b43693b40604d39878b5684c38ce61bc23b,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/bench/go1/parserdata_test.go,f159f3d71222197a67c543a6d0e7915eb319e723,CVE-2022-21449
@@ -12970,8 +12972,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Joomla/CVE-2023-23752/README.md,f2fc393711f629ea7e056082c1d36a2a474a950c,CVE-2023-23752
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue14006.go,f2fd2c7d7ce2ec4d561134db610b924c405695eb,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/android/binderfs.h,f301eac81611f7d92366333fdcbf8a7499759553,CVE-2024-1086
-449931921,lal0ne/vulnerability,D-Link/NAS/CVE-2024-3272&CVE-2024-3273/README.md,f302d6061aa5f9346941a383f72aa536fc5ef5c7,CVE-2024-3272
 449931921,lal0ne/vulnerability,D-Link/NAS/CVE-2024-3272&CVE-2024-3273/README.md,f302d6061aa5f9346941a383f72aa536fc5ef5c7,CVE-2024-3273
+449931921,lal0ne/vulnerability,D-Link/NAS/CVE-2024-3272&CVE-2024-3273/README.md,f302d6061aa5f9346941a383f72aa536fc5ef5c7,CVE-2024-3272
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/escape_struct_param2.go,f30ddc3bc88e5b033e07aff6bd767fda2d29a65e,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/cmd/go/testdata/script/mod_gobuild_import.txt,f310e7f5ab74f3e36067a7c556e7f44491269e94,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/test/fixedbugs/issue19467.go,f312782d932a257f04007bf09fef986dd2ad7668,CVE-2022-21449
@@ -13058,8 +13060,8 @@ repo_id,repo_full_name,file,file_sha1,match
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/go/types/testdata/fixedbugs/issue46404.go1,f521b77581ca0e486541a6a7b190063aba2dbad4,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/time_linux_amd64.s,f523edf642f435f58554e768753fdb9d7093d9f9,CVE-2022-21449
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/api/README,f52d8eefe405cfbd9fb5ea7b9361f660d4841070,CVE-2022-21449
-449931921,lal0ne/vulnerability,apsystems/CVE-2023-28343/README.md,f53926c81a60f97c59e07dd4160d37a2cb5f6651,GHSA-77PG-3832-HJF8
 449931921,lal0ne/vulnerability,apsystems/CVE-2023-28343/README.md,f53926c81a60f97c59e07dd4160d37a2cb5f6651,CVE-2023-28343
+449931921,lal0ne/vulnerability,apsystems/CVE-2023-28343/README.md,f53926c81a60f97c59e07dd4160d37a2cb5f6651,GHSA-77PG-3832-HJF8
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/.i2o-dev.h.cmd,f54a7faf4cca257854ede64b78ebe1ebdde90364,CVE-2024-1086
 449931921,lal0ne/vulnerability,Java/CVE-2022-21449/go/src/runtime/testdata/testprogcgo/segv.go,f54c19886bd474653c3669a25e7ab6c540bb3ff5,CVE-2022-21449
 449931921,lal0ne/vulnerability,Linux/Kernel/CVE-2024-1086/include/linux-lts-6.1.72/linux/unix_diag.h,f54d42776a134a48ec803a0f45ac8cf679aac3b0,CVE-2024-1086
