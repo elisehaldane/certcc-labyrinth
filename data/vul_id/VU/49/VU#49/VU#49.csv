@@ -4,6 +4,7 @@ VU#49,1.00000000,https://github.com/wiqOcIQuK367461eV/poeBLACK,wiqOcIQuK367461eV
 VU#49,1.00000000,https://github.com/BRAINIAC22/MetasploitGUI---backdoor,BRAINIAC22/MetasploitGUI---backdoor,484557804
 VU#49,1.00000000,https://github.com/Itz-Ayanokoji/Kage,Itz-Ayanokoji/Kage,433870651
 VU#49,1.00000000,https://github.com/Zerx0r/Kage,Zerx0r/Kage,157828507
+VU#49,0.50000000,https://github.com/ZeusLost/Exploitmaker,ZeusLost/Exploitmaker,839833791
 VU#49,0.50000000,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
 VU#49,0.50000000,https://github.com/xosnrdev/rce-images,xosnrdev/rce-images,831845228
 VU#49,0.50000000,https://github.com/Zancelot/DB-MFIF,Zancelot/DB-MFIF,736942291
@@ -163,7 +164,6 @@ VU#49,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,
 VU#49,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#49,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#49,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
-VU#49,0.03333333,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#49,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#49,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
 VU#49,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
@@ -256,9 +256,11 @@ VU#49,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#49,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#49,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#49,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#49,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#49,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#49,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#49,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
+VU#49,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#49,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#49,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#49,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657

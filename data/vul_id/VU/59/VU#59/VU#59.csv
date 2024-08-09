@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#59,1.00000000,https://github.com/Jumpy22/Hellcode,Jumpy22/Hellcode,755692260
 VU#59,1.00000000,https://github.com/Kob123678/KoSploit-v2,Kob123678/KoSploit-v2,509768763
 VU#59,1.00000000,https://github.com/NathanTheIceCube/ProSploit-Hub,NathanTheIceCube/ProSploit-Hub,463701038
 VU#59,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
@@ -11,7 +12,6 @@ VU#59,0.33333333,https://github.com/HunterZREBORN/hunterzreborn.github.io,Hunter
 VU#59,0.33333333,https://github.com/AnimeGirlPlex/RealmAPI,AnimeGirlPlex/RealmAPI,692559460
 VU#59,0.33333333,https://github.com/FlexRBLX/Exploit-Template-with-WRDUWP,FlexRBLX/Exploit-Template-with-WRDUWP,667751370
 VU#59,0.33333333,https://github.com/MoistMonkey420/MicrosoftRobloxFluxAPI,MoistMonkey420/MicrosoftRobloxFluxAPI,652167805
-VU#59,0.33333333,https://github.com/jrson83/savescum,jrson83/savescum,638788759
 VU#59,0.33333333,https://github.com/ginsama01/exploit-train,ginsama01/exploit-train,525283089
 VU#59,0.33333333,https://github.com/michail811/reinforcement_learning_cartpole,michail811/reinforcement_learning_cartpole,497107310
 VU#59,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-22947,482005646
@@ -90,7 +90,6 @@ VU#59,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reducti
 VU#59,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#59,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#59,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
-VU#59,0.03333333,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#59,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#59,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#59,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
@@ -123,6 +122,7 @@ VU#59,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430
 VU#59,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#59,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#59,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
+VU#59,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#59,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#59,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#59,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657

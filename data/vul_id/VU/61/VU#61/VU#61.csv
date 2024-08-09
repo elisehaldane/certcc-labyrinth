@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#61,1.00000000,https://github.com/FergusGarcia/Slient-URL-Exploit,FergusGarcia/Slient-URL-Exploit,840008054
 VU#61,1.00000000,https://github.com/Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,Megalitons/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,818751248
 VU#61,1.00000000,https://github.com/CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,CarsPound/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,792336956
 VU#61,1.00000000,https://github.com/GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,GetCaption/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware,786240611
@@ -118,6 +119,7 @@ VU#61,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_
 VU#61,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#61,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#61,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#61,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#61,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#61,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#61,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -460,6 +462,6 @@ VU#61,0.00018786,https://github.com/rapid7/metasploit-framework,rapid7/metasploi
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
-VU#61,0.00000922,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+VU#61,0.00000921,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#61,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#61,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

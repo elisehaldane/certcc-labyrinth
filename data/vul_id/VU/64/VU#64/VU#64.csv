@@ -113,7 +113,6 @@ VU#64,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exp
 VU#64,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#64,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
 VU#64,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
-VU#64,0.04347826,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#64,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,741207383
 VU#64,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#64,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
@@ -139,6 +138,7 @@ VU#64,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830
 VU#64,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#64,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#64,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
+VU#64,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#64,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#64,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
 VU#64,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
@@ -400,7 +400,7 @@ VU#64,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#64,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#64,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#64,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
-VU#64,0.00303951,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#64,0.00303030,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#64,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#64,0.00291545,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#64,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
