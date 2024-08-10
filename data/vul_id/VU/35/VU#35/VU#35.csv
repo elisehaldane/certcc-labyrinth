@@ -8,6 +8,7 @@ VU#35,0.50000000,https://github.com/jimbaud/LAB_F411_STM32CubeIDE,jimbaud/LAB_F4
 VU#35,0.50000000,https://github.com/soujanyanmbri/exploits-mine-withcodes,soujanyanmbri/exploits-mine-withcodes,621189687
 VU#35,0.50000000,https://github.com/warning111/dhood,warning111/dhood,502349442
 VU#35,0.50000000,https://github.com/Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,Anaas0/apache_http_server_2_4_4_9_path_traversal_and_remote_code_execution,468115159
+VU#35,0.33333333,https://github.com/AabyssZG/2345-Input-method-Software_Insecure-configuration-RCE,AabyssZG/2345-Input-method-Software_Insecure-configuration-RCE,840689530
 VU#35,0.33333333,https://github.com/kilkat/diss,kilkat/diss,611554096
 VU#35,0.33333333,https://github.com/1emvr/The-Art-of-Exploitation,1emvr/The-Art-of-Exploitation,579968326
 VU#35,0.33333333,https://github.com/sjonks/Exploits,sjonks/Exploits,359301779
@@ -15,11 +16,11 @@ VU#35,0.25000000,https://github.com/DaintyJet/VChat_KSTET_DLL,DaintyJet/VChat_KS
 VU#35,0.25000000,https://github.com/moonleaks/RogueCE,moonleaks/RogueCE,732538648
 VU#35,0.25000000,https://github.com/cultureelerfgoed/Axiell-thesauri,cultureelerfgoed/Axiell-thesauri,698222907
 VU#35,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2Hub,420501078
-VU#35,0.20000000,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
 VU#35,0.20000000,https://github.com/saiddddd/-gwo-on-exploration-and-exploitation-measurement,saiddddd/-gwo-on-exploration-and-exploitation-measurement,799214249
 VU#35,0.20000000,https://github.com/DaintyJet/VChat_TRUN_ROP,DaintyJet/VChat_TRUN_ROP,746815394
 VU#35,0.20000000,https://github.com/RapidoBuzz/WrathSploitAPI,RapidoBuzz/WrathSploitAPI,515803951
 VU#35,0.20000000,https://github.com/Ch0pin/AVIator,Ch0pin/AVIator,129488616
+VU#35,0.16666667,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
 VU#35,0.16666667,https://github.com/Evan-Zhangyf/CVE-2023-45158,Evan-Zhangyf/CVE-2023-45158,714422608
 VU#35,0.16666667,https://github.com/ST5Sneaky/exploit-scripts,ST5Sneaky/exploit-scripts,607938233
 VU#35,0.14285714,https://github.com/mawg0ud/InvisMalware,mawg0ud/InvisMalware,810126133
@@ -430,6 +431,7 @@ VU#35,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#35,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#35,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#35,0.00019670,https://github.com/2lambda123/metasploit-framework,2lambda123/metasploit-framework,629991781
+VU#35,0.00019512,https://github.com/bedestall5/metasploit-framework,bedestall5/metasploit-framework,840667290
 VU#35,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#35,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#35,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910

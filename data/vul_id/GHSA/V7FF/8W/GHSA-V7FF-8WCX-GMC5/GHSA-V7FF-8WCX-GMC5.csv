@@ -25,6 +25,7 @@ GHSA-V7FF-8WCX-GMC5,0.00019932,https://github.com/Christyy123/Metasploit-framewo
 GHSA-V7FF-8WCX-GMC5,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 GHSA-V7FF-8WCX-GMC5,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 GHSA-V7FF-8WCX-GMC5,0.00019670,https://github.com/2lambda123/metasploit-framework,2lambda123/metasploit-framework,629991781
+GHSA-V7FF-8WCX-GMC5,0.00019512,https://github.com/bedestall5/metasploit-framework,bedestall5/metasploit-framework,840667290
 GHSA-V7FF-8WCX-GMC5,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 GHSA-V7FF-8WCX-GMC5,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 GHSA-V7FF-8WCX-GMC5,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
@@ -40,7 +41,7 @@ GHSA-V7FF-8WCX-GMC5,0.00018836,https://github.com/dzulqarnain28/metasploit-frame
 GHSA-V7FF-8WCX-GMC5,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 GHSA-V7FF-8WCX-GMC5,0.00018786,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-V7FF-8WCX-GMC5,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-GHSA-V7FF-8WCX-GMC5,0.00016297,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-V7FF-8WCX-GMC5,0.00016295,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 GHSA-V7FF-8WCX-GMC5,0.00014249,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-V7FF-8WCX-GMC5,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-V7FF-8WCX-GMC5,0.00006210,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
@@ -50,9 +51,9 @@ GHSA-V7FF-8WCX-GMC5,0.00001598,https://github.com/leesinz/crush,leesinz/crush,75
 GHSA-V7FF-8WCX-GMC5,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-V7FF-8WCX-GMC5,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 GHSA-V7FF-8WCX-GMC5,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
-GHSA-V7FF-8WCX-GMC5,0.00000920,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
+GHSA-V7FF-8WCX-GMC5,0.00000919,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-V7FF-8WCX-GMC5,0.00000905,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-V7FF-8WCX-GMC5,0.00000904,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-V7FF-8WCX-GMC5,0.00000903,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-V7FF-8WCX-GMC5,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
 GHSA-V7FF-8WCX-GMC5,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 GHSA-V7FF-8WCX-GMC5,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

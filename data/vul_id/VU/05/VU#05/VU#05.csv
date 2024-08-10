@@ -44,7 +44,6 @@ VU#05,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-doc
 VU#05,0.25000000,https://github.com/JitinKGoyal/RCEW-classes,JitinKGoyal/RCEW-classes,573280263
 VU#05,0.25000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,559708835
 VU#05,0.25000000,https://github.com/jopraveen/exploit-development,jopraveen/exploit-development,357628827
-VU#05,0.20000000,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
 VU#05,0.20000000,https://github.com/Laelmano24/The-mimic-script,Laelmano24/The-mimic-script,820557764
 VU#05,0.20000000,https://github.com/Niteshkumar13/Remote-code-execution,Niteshkumar13/Remote-code-execution,795170271
 VU#05,0.20000000,https://github.com/AnitaEluwa/Security-Scanner-Toolkit,AnitaEluwa/Security-Scanner-Toolkit,782573449
@@ -58,6 +57,7 @@ VU#05,0.20000000,https://github.com/RishiDarkDevil/Regularization-Based-Fair-Cla
 VU#05,0.20000000,https://github.com/dpfaffenbauer/defichain-icx-exploit-review,dpfaffenbauer/defichain-icx-exploit-review,446335747
 VU#05,0.20000000,https://github.com/GauthamVarmaK/Sainya-Ranakshetram-SDR-III,GauthamVarmaK/Sainya-Ranakshetram-SDR-III,443139961
 VU#05,0.20000000,https://github.com/Yolnan/24678_CVE_PS6,Yolnan/24678_CVE_PS6,424596008
+VU#05,0.16666667,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
 VU#05,0.16666667,https://github.com/AndrePatri/LRHControl,AndrePatri/LRHControl,683070279
 VU#05,0.16666667,https://github.com/GalateeM/SAE_2.4_EXPLOITATION_BD,GalateeM/SAE_2.4_EXPLOITATION_BD,595492765
 VU#05,0.16666667,https://github.com/0xCuSO4/DHLYK,0xCuSO4/DHLYK,445846830
@@ -426,6 +426,7 @@ VU#05,0.00019932,https://github.com/Christyy123/Metasploit-framework,Christyy123
 VU#05,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
 VU#05,0.00019701,https://github.com/threatcode/metasploit-framework,threatcode/metasploit-framework,621044028
 VU#05,0.00019670,https://github.com/2lambda123/metasploit-framework,2lambda123/metasploit-framework,629991781
+VU#05,0.00019512,https://github.com/bedestall5/metasploit-framework,bedestall5/metasploit-framework,840667290
 VU#05,0.00019501,https://github.com/artyang/metasploit-framework,artyang/metasploit-framework,665195980
 VU#05,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 VU#05,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
