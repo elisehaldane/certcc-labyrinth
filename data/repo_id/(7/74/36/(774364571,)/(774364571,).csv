@@ -10,3 +10,5 @@ repo_id,repo_full_name,file,file_sha1,match
 774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d41278a4f8f8ba685c3420c4582010a9056d81c,GPZ-1903
 774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d41278a4f8f8ba685c3420c4582010a9056d81c,MS17-010
 774364571,solygambas/practical-ethical-hacking-course,14. Capstone.md,8d41278a4f8f8ba685c3420c4582010a9056d81c,OSVDB-12184
+774364571,solygambas/practical-ethical-hacking-course,21. Additional Active Directory Attacks.md,fcde44fa0aa7e6f530f13745b6128806ea3a87ee,CVE-2020-1472
+774364571,solygambas/practical-ethical-hacking-course,21. Additional Active Directory Attacks.md,fcde44fa0aa7e6f530f13745b6128806ea3a87ee,CVE-2021-1675
