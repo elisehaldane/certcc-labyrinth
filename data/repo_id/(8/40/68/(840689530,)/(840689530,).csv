@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+840689530,AabyssZG/2345-Input-method-Software_Insecure-configuration-RCE,Installation-package/2345pinyin_v7.9.1.8332.z01,e2bf1e610e76f04a5b8aedabd57ca2d0d9471a13,VU#800
+840689530,AabyssZG/2345-Input-method-Software_Insecure-configuration-RCE,Installation-package/2345pinyin_v7.9.1.8332.z02,ea87896c628b105d0f69a97aa96248eb29154521,VU#28
+840689530,AabyssZG/2345-Input-method-Software_Insecure-configuration-RCE,Installation-package/2345pinyin_v7.9.1.8332.z02,ea87896c628b105d0f69a97aa96248eb29154521,VU#35
