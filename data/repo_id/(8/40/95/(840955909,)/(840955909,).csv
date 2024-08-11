@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+840955909,patrickl1u/CS179F-Dirty-Pipe-Exploit,exploit.c,1282934ac33de81d4cbf689e58b48f9ef7c7942c,CVE-2022-0847
+840955909,patrickl1u/CS179F-Dirty-Pipe-Exploit,README.md,a03a6af3b129ff5fee3a57df2bdc199cc6c6b643,CVE-2022-0847
