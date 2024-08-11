@@ -251,6 +251,7 @@ VU#25,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#25,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#25,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#25,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
+VU#25,0.01754386,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#25,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#25,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#25,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
@@ -262,7 +263,6 @@ VU#25,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
 VU#25,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#25,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#25,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
-VU#25,0.01666667,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#25,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#25,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#25,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
@@ -312,7 +312,7 @@ VU#25,0.01250000,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_
 VU#25,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#25,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#25,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
-VU#25,0.01190476,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
+VU#25,0.01204819,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#25,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#25,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#25,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
@@ -466,7 +466,7 @@ VU#25,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#25,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#25,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 VU#25,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#25,0.00323625,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#25,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#25,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#25,0.00303030,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#25,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
