@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/10
     
-140 records found after deduplication
+141 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -133,6 +133,7 @@
 | saxweg/gmod | gmod-cheat-hack-aimbot-silent-spoofer-exploit-esp-hacks-garry-mod-garry's | https://github.com/saxweg/gmod | ['exploit'] | 1 | 2024-08-10 12:26:01+00:00 | 2141 | 4 | C++ | 0 | [] |
 | w0rm99/rce | None | https://github.com/w0rm99/rce | ['rce'] | 1 | 2024-08-10 12:28:27+00:00 | 1 | 0 | | 0 | [] |
 | Malik-Hamza-Aamir/rceefe | None | https://github.com/Malik-Hamza-Aamir/rceefe | ['rce'] | 1 | 2024-08-10 12:38:12+00:00 | 56 | 0 | TypeScript | 0 | [] |
+| atlassion/CVE-2024-38077-check | 基于135端口检测目标是否存在CVE-2024-38077漏洞 | https://github.com/atlassion/CVE-2024-38077-check | ['cve-2 OR cve_2'] | 1 | 2024-08-10 09:48:38+00:00 | 17 | 0 | | 0 | ['CVE-2024-38077'] |
 | UlopeEx/Wave-Executor | A simple Roblox executor that is supposed to allow you to inject and bypass byfron and execute scripts into the game and allow you to exploit the game to do whatever you want. | https://github.com/UlopeEx/Wave-Executor | ['exploit'] | 1 | 2024-08-10 18:48:00+00:00 | 4 | 0 | | 0 | [] |
 | DevBO7MED/easy-terminal-script | A bash script for Kali Linux beginners with an interactive menu for managing Metasploit, Nessus, Apache2, and more. Features include payload creation, system updates, and IP display. Easy setup and usage. | https://github.com/DevBO7MED/easy-terminal-script | ['metasploit module OR payload'] | 1 | 2024-08-10 14:08:27+00:00 | 4 | 0 | Shell | 0 | [] |
 | hunThubSpace/CVE-2024-3105-PoC | A PoC Exploit for CVE-2024-3105 - The Woody code snippets – Insert Header Footer Code, AdSense Ads plugin for WordPress Remote Code Execution (RCE) | https://github.com/hunThubSpace/CVE-2024-3105-PoC | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc', 'remote code execution'] | 6 | 2024-08-10 15:22:07+00:00 | 22091 | 0 | | 0 | ['CVE-2024-3105'] |
