@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+841055763,BilgeNurBekar/CVE2CPE,prompt_template.py,13599cacc803714613ab971c83798076f6f36521,CVE-2018-1000843
+841055763,BilgeNurBekar/CVE2CPE,test/splunk.py,c2e5c4c788da7dce30a7f7b016f9f92e041f69b4,CVE-2024-36991
