@@ -1,0 +1,53 @@
+repo_id,repo_full_name,file,file_sha1,match
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Frameworks/libswiftIOKit.dylib,151666ea7697a913c1fa2b364ae3bf15f775e2a5,VU#94
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/1PasswordAnywhere/1Password_agile_keychain.html,16e51ebc41044a6892975c6f184dc1c7ea327e3f,VU#02
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/1PasswordAnywhere/1Password_agile_keychain.html,16e51ebc41044a6892975c6f184dc1c7ea327e3f,VU#04
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/1PasswordAnywhere/1Password_agile_keychain.html,16e51ebc41044a6892975c6f184dc1c7ea327e3f,VU#96
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/1PasswordAnywhere/1Password_agile_keychain.html,16e51ebc41044a6892975c6f184dc1c7ea327e3f,VU#53
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/1PasswordAnywhere/1Password_agile_keychain.html,16e51ebc41044a6892975c6f184dc1c7ea327e3f,VU#34
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Frameworks/OnePasswordDataModel.framework/Versions/A/_CodeSignature/CodeResources,32ba1cfceb677b5b19e77458abd008b88ae2cd22,VU#659
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Frameworks/OnePasswordDataModel.framework/Versions/A/_CodeSignature/CodeResources,32ba1cfceb677b5b19e77458abd008b88ae2cd22,VU#886
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Frameworks/OnePasswordDataModel.framework/Versions/A/_CodeSignature/CodeResources,32ba1cfceb677b5b19e77458abd008b88ae2cd22,VU#35
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Frameworks/libswiftIOKit.dylib,6779b2133065b01320d798f1b42b4653c8fd619d,VU#94
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/_CodeSignature/CodeResources,76a218939ae4adbf433de39c418a11259e47bc3b,VU#32
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/_CodeSignature/CodeResources,76a218939ae4adbf433de39c418a11259e47bc3b,VU#94
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/_CodeSignature/CodeResources,76a218939ae4adbf433de39c418a11259e47bc3b,VU#40
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Helpers/1Password Updater.app/Contents/Frameworks/libswiftIOKit.dylib,819d1c43d1495d1678fa7fa0902d1b08e2a9d389,VU#94
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password-6.6.2.pkg,9243fee51edcc4459286609c1240cbb39126c757,VU#38
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password-6.6.2.pkg,9243fee51edcc4459286609c1240cbb39126c757,VU#71
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password-6.6.2.pkg,9243fee51edcc4459286609c1240cbb39126c757,VU#54
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password-6.6.2.pkg,9243fee51edcc4459286609c1240cbb39126c757,VU#06
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password-6.6.2.pkg,9243fee51edcc4459286609c1240cbb39126c757,VU#73
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/Demo.1pif/data.1pif,ad1d3f01e0680fb2921c8a5defc810aa27ac9662,VU#87
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/Demo.1pif/data.1pif,ad1d3f01e0680fb2921c8a5defc810aa27ac9662,VU#14
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Helpers/1Password Updater.app/Contents/_CodeSignature/CodeResources,c6e9b8bb215cef0c35e1c6455757a9c0af3f230c,VU#94
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#86
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#90
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#71
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#67
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#66
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#64
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#49
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#97
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#51
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#01
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#05
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#08
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#10
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#13
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#19
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#58
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#24
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#43
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#44
+827970089,morganc3/1password-exploits,1Password-8.10.18.zip,e7560e7c8a38adef33b1bab91cc1f3f27dd5d2b8,VU#47
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#29
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#78
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#88
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#19
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#32
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#37
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#40
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#94
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/_CodeSignature/CodeResources,e80bea14e54e380b849f0dde585e64dbac6e8712,VU#00
+827970089,morganc3/1password-exploits,dylib_inject_exploit/1Password 6.app/Contents/Library/LoginItems/2BUA8C4S2C.com.agilebits.onepassword4-helper.app/Contents/Resources/license-icon.icns,efd0de9f01c1f29d4381d467333cddda57eb1ced,VU#84
