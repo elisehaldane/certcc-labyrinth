@@ -38,6 +38,7 @@ VU#86,0.11111111,https://github.com/Firebasky/CVE-2023-21839,Firebasky/CVE-2023-
 VU#86,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
 VU#86,0.11111111,https://github.com/Neluve/SimplExploitS,Neluve/SimplExploitS,534967733
 VU#86,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
+VU#86,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
 VU#86,0.10000000,https://github.com/harutomo-jp/Binary-Exploitation,harutomo-jp/Binary-Exploitation,789525643
 VU#86,0.10000000,https://github.com/pr1or1tyQ/nightmare,pr1or1tyQ/nightmare,691645490
 VU#86,0.10000000,https://github.com/mirzaazwad/CTF,mirzaazwad/CTF,626003373
@@ -126,6 +127,7 @@ VU#86,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#86,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#86,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#86,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
+VU#86,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#86,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#86,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#86,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
@@ -144,6 +146,7 @@ VU#86,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-en
 VU#86,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#86,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#86,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
+VU#86,0.01754386,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#86,0.01754386,https://github.com/SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,821756227
 VU#86,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,820706365
 VU#86,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
