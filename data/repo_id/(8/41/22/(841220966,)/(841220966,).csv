@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,README.md,1ae758c949d4d8e8648b6b120dc16878683a4153,CVE-2020-0796
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,PrintNightmare_Report.pdf,4ccf8917282c68f15500e02fcf12c96fb3624b00,CVE-2021-1675
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,PrintNightmare_Report.pdf,4ccf8917282c68f15500e02fcf12c96fb3624b00,CVE-2021-34527
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,Vulnerability_Detection_Mitigation_Report_SmbGhost.pdf,bb7972a02316a320c1862be729ead4e55eae15f0,CVE-2020-0796
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,SMBGHOST_Description_Report.pdf,bfa199aa1ce8bd588208b5458bbb3e4ac8f44c23,CVE-2020-0796
+841220966,z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2020-0796
