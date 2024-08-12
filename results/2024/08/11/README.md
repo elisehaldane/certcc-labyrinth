@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/11
     
-151 records found after deduplication
+152 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -22,6 +22,7 @@
 | xGinko/AnarchyExploitFixes | Fix exploits on anarchy Minecraft servers | https://github.com/xGinko/AnarchyExploitFixes | ['exploit'] | 1 | 2024-08-11 00:46:31+00:00 | 5140 | 297 | Java | 52 | [] |
 | bsauce/kernel-exploit-factory | Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore. | https://github.com/bsauce/kernel-exploit-factory | ['exploit'] | 1 | 2024-08-11 02:42:29+00:00 | 331052 | 1145 | C | 183 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-08-11 05:04:39+00:00 | 1849578 | 117 | | 34 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2024-08-11 21:12:30+00:00 | 264 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-08-11 04:49:13+00:00 | 510534 | 892 | Python | 195 | [] |
 | OverlordAkise/darkrp-exploits | A list of fun things to do with DarkRP addons | https://github.com/OverlordAkise/darkrp-exploits | ['exploit'] | 1 | 2024-08-11 14:34:35+00:00 | 139 | 29 | Lua | 8 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-08-11 01:37:05+00:00 | 3289 | 306 | HTML | 20 | [] |
@@ -64,7 +65,7 @@
 | For-ACGN/Gleam-RT | A runtime that can hide your code and memory data in the sleep time. | https://github.com/For-ACGN/Gleam-RT | ['shellcode'] | 1 | 2024-08-11 11:08:17+00:00 | 1009 | 1 | C | 0 | [] |
 | sftp-nik/ExploitEclipse | None | https://github.com/sftp-nik/ExploitEclipse | ['exploit'] | 1 | 2024-08-11 03:37:11+00:00 | 39 | 1 | Python | 0 | [] |
 | mun1bxD/Web-Exploitation | These are complete notes of my web Exploitation | https://github.com/mun1bxD/Web-Exploitation | ['exploit'] | 1 | 2024-08-11 00:47:52+00:00 | 36230 | 2 | Python | 0 | [] |
-| ShellUnease/CVE-2024-34833-payroll-management-system-rce | None | https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce | ['cve-2 OR cve_2'] | 1 | 2024-08-11 21:59:34+00:00 | 944 | 0 | PHP | 0 | ['CVE-2024-34833'] |
+| ShellUnease/CVE-2024-34833-payroll-management-system-rce | None | https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-08-11 21:59:34+00:00 | 944 | 0 | PHP | 0 | ['CVE-2024-34833'] |
 | adysec/nuclei_poc | Nuclei POC，每日更新 _ 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC，保存已被删除的POC。通过批量克隆Github项目，获取Nuclei POC，并将POC按类别分类存放，使用Github Action实现（已有11wPOC，已校验有效性并去重） | https://github.com/adysec/nuclei_poc | ['exploit'] | 1 | 2024-08-11 12:34:08+00:00 | 144696 | 404 | Python | 158 | [] |
 | OsGrGreen/4X4D-WIP | Explore, Expand, Exploit, Exterminate or Decline, Destruction, Dissolution, Division | https://github.com/OsGrGreen/4X4D-WIP | ['exploit'] | 1 | 2024-08-11 07:01:40+00:00 | 63 | 0 | Rust | 0 | [] |
 | TheUnitedUnion2/Exploits | None | https://github.com/TheUnitedUnion2/Exploits | ['exploit'] | 1 | 2024-08-11 09:53:43+00:00 | 12 | 0 | Lua | 0 | [] |
@@ -145,7 +146,7 @@
 | codingcore14/JPG-Silent-Exploit-NEW-ui | None | https://github.com/codingcore14/JPG-Silent-Exploit-NEW-ui | ['exploit'] | 1 | 2024-08-11 15:18:12+00:00 | 2 | 1 | | 0 | [] |
 | exp1007/exploits | None | https://github.com/exp1007/exploits | ['exploit'] | 1 | 2024-08-11 15:47:40+00:00 | 2 | 0 | | 0 | [] |
 | samarth4445/remote-code-execution-engine | None | https://github.com/samarth4445/remote-code-execution-engine | ['remote code execution'] | 1 | 2024-08-11 16:34:05+00:00 | 0 | 0 | | 0 | [] |
-| charlesgargasson/CVE-2023-41425 | Wonder CMS RCE (XSS) | https://github.com/charlesgargasson/CVE-2023-41425 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2024-08-11 17:26:28+00:00 | 8 | 0 | | 0 | ['CVE-2023-41425'] |
+| charlesgargasson/CVE-2023-41425 | Wonder CMS RCE | https://github.com/charlesgargasson/CVE-2023-41425 | ['cve poc', 'cve-2 OR cve_2', 'exploit', 'rce', 'rce poc'] | 5 | 2024-08-11 16:52:09+00:00 | 0 | 0 | | 0 | ['CVE-2023-41425'] |
 | PhilipPanda/RusherHack-BoatExecute | A RusherHack module plugin for 1.20.4 that exploits boat movement packets to instantly kill all passengers. | https://github.com/PhilipPanda/RusherHack-BoatExecute | ['exploit'] | 1 | 2024-08-11 18:44:55+00:00 | 97 | 1 | Java | 0 | [] |
 | Zero-Tang/atadma-rs | ATA-based DMA-attacking PoC tool written in Rust | https://github.com/Zero-Tang/atadma-rs | ['attack poc'] | 1 | 2024-08-11 20:15:37+00:00 | 15 | 2 | Rust | 0 | [] |
 | Bugat4ta/infotainment-exploits | None | https://github.com/Bugat4ta/infotainment-exploits | ['exploit'] | 1 | 2024-08-11 21:33:02+00:00 | 6 | 0 | Python | 0 | [] |
