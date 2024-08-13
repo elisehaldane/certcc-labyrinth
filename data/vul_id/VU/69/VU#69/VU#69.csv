@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#69,1.00000000,https://github.com/bogdansys/AlpacaExploit,bogdansys/AlpacaExploit,841746258
 VU#69,1.00000000,https://github.com/KrypDeveloper/KryptonExploit,KrypDeveloper/KryptonExploit,701809725
 VU#69,1.00000000,https://github.com/saveriofrancini/dataDriven,saveriofrancini/dataDriven,611186035
 VU#69,1.00000000,https://github.com/AntGra1/Moon-Executor,AntGra1/Moon-Executor,601740798
@@ -242,6 +243,7 @@ VU#69,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#69,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#69,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
 VU#69,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
+VU#69,0.01449275,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#69,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#69,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#69,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
@@ -253,9 +255,9 @@ VU#69,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient
 VU#69,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#69,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#69,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
-VU#69,0.01388889,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#69,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#69,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
+VU#69,0.01369863,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#69,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#69,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#69,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
@@ -392,7 +394,6 @@ VU#69,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlp
 VU#69,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#69,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#69,0.00454545,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
-VU#69,0.00448430,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#69,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#69,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#69,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
@@ -402,6 +403,7 @@ VU#69,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_
 VU#69,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#69,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
 VU#69,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
+VU#69,0.00395257,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#69,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#69,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
 VU#69,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
