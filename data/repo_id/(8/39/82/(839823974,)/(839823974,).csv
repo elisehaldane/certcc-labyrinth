@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-839823974,jenkinsci-cert/SECURITY-3430,src/main/java/io/jenkins/security/Security3430Workaround.java,864f642b57708983f59aad89e86c835440708320,CVE-2024-43044
+839823974,jenkinsci-cert/SECURITY-3430,src/main/java/io/jenkins/security/Security3430Workaround.java,16b0958ba4df6cb544925aad650a4d50c01de266,CVE-2024-43044
 839823974,jenkinsci-cert/SECURITY-3430,_GITHUB_REPO_METADATA_,,CVE-2024-43044
