@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+841902358,jFriedli/CVE-2023-3897,exploit.py,57ae1ecdc4e94efd2f74f01a0ad2bd850d51dfe7,CVE-2023-3897
+841902358,jFriedli/CVE-2023-3897,README.md,72ae2a548ef2d4fbdd092a0a5db667b8ff0005dd,CVE-2023-3897
+841902358,jFriedli/CVE-2023-3897,_GITHUB_REPO_METADATA_,,CVE-2023-3897
