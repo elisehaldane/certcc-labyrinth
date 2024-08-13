@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+842104964,JeanR12/Persistence-Script-Script-Exploit-,persistence_script.py,18940df81bf0a4465b9de936bf591e11cc5c1645,CVE-2021-3156
+842104964,JeanR12/Persistence-Script-Script-Exploit-,README.md,a209a237d9d7a101583fb51136ec1a86ad024161,CVE-2021-3156
