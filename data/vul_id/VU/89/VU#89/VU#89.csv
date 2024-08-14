@@ -189,8 +189,8 @@ VU#89,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Ni
 VU#89,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
 VU#89,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#89,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
-VU#89,0.01960784,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#89,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+VU#89,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#89,0.01851852,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#89,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#89,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
@@ -473,7 +473,7 @@ VU#89,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#89,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#89,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#89,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#89,0.00018786,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00018769,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#89,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#89,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
