@@ -22,8 +22,9 @@ repo_id,repo_full_name,file,file_sha1,match
 194125746,oxagast/oxasploits,exploits/CVE-2006-3392/webmin-remote-root-1.29.sh,2c84786c942e3bcf056e5e9dac5eb22d10513d1f,CVE-2006-3392
 194125746,oxagast/oxasploits,tools/punchbug/build/taskserv/taskserv.pkg,395b7e77d92ed49fcdb1ff8c243f70697ceb4e9b,VU#89
 194125746,oxagast/oxasploits,exploits/CVE-2010-2626/ppul.pl,3bebe414419dd7fe9882737e5c30bc0ccf0b347b,CVE-2010-2626
-194125746,oxagast/oxasploits,tools/punchbug/taskserv.exe,47973cd4305d66dcf888b7d54e86eb9bde42e2d6,VU#89
+194125746,oxagast/oxasploits,tools/punchbug/dist/taskserv.exe,47973cd4305d66dcf888b7d54e86eb9bde42e2d6,VU#89
 194125746,oxagast/oxasploits,notes/CVE-2023-38941/cve,4fe7e569e6ea2721f04d224eba6d683a7d22889c,CVE-2023-38941
+194125746,oxagast/oxasploits,exploits/CVE-2023-48250/bosche_netrunner_rce.rb,56804df1603a7fdf1cfa924b9472d4cc8b055a06,CVE-2023-48250
 194125746,oxagast/oxasploits,exploits/CVE-2023-38941/django_sspanel_good_create_rce.rb,5bc526f7158e5c40b5d93cacdf3f2b05712da020,CVE-2023-38941
 194125746,oxagast/oxasploits,exploits/Research/rexroth_coardless_netrunner/NxFw-V1300-SP1/NxFw-V1300-SP1.nxfw,69526fec6492cc2163e527ac15597839057d2602,VU#55
 194125746,oxagast/oxasploits,exploits/Research/rexroth_coardless_netrunner/NxFw-V1300-SP1/NxFw-V1300-SP1.nxfw,69526fec6492cc2163e527ac15597839057d2602,VU#32
