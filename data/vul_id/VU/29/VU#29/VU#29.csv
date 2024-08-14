@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/agenericapple/UAC-Bypass,agenericapple/UAC-Bypass,837134623
 VU#29,1.00000000,https://github.com/xjdhu/hessian-deserialize-rce,xjdhu/hessian-deserialize-rce,829035411
 VU#29,1.00000000,https://github.com/Mekasniz/UAC-Bypass-FUD,Mekasniz/UAC-Bypass-FUD,827303410
 VU#29,1.00000000,https://github.com/OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,827242906
@@ -266,7 +267,6 @@ VU#29,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#29,0.03846154,https://github.com/threedr3am/learnjavabug,threedr3am/learnjavabug,132132854
 VU#29,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#29,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
-VU#29,0.03571429,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.03571429,https://github.com/pxcs/CVE-29343-Sysmon-list,pxcs/CVE-29343-Sysmon-list,785288758
 VU#29,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#29,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
@@ -700,6 +700,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00039777,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#29,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
