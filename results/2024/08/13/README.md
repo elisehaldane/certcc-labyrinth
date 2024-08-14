@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/13
     
-177 records found after deduplication
+178 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -122,7 +122,7 @@
 | FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | Photo Exploit Builder | https://github.com/FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | ['exploit'] | 1 | 2024-08-13 04:55:27+00:00 | 533 | 0 | C++ | 0 | [] |
 | softwareploitoken/softwareploitoken.github.io | a collection of tokens developed by the exploit project software | https://github.com/softwareploitoken/softwareploitoken.github.io | ['exploit'] | 1 | 2024-08-13 09:21:35+00:00 | 3036 | 0 | HTML | 0 | [] |
 | HoangREALER/CVE-2023-27216 | Newbie's approach to firmware hacking | https://github.com/HoangREALER/CVE-2023-27216 | ['cve-2 OR cve_2'] | 1 | 2024-08-13 13:40:34+00:00 | 93717 | 0 | JavaScript | 0 | ['CVE-2023-27216'] |
-| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-13 17:15:12+00:00 | 106 | 0 | C# | 0 | [] |
+| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-13 05:08:11+00:00 | 97 | 0 | C# | 0 | [] |
 | IChres/FiveM-External-Cheat | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable. | https://github.com/IChres/FiveM-External-Cheat | ['exploit'] | 1 | 2024-08-13 05:15:11+00:00 | 4360 | 0 | C++ | 0 | [] |
 | IChres/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It includes a KeyAuth system for additional security and user management. The cheat is designed to be undetectabl | https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2024-08-13 04:59:33+00:00 | 9640 | 0 | C | 0 | [] |
 | g4nkd/CVE-2024-22120-RCE-with-gopher | This is my exploit for CVE-2024-22120, which involves an SSRF vulnerability inside an XXE with a Gopher payload. | https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2024-08-13 15:37:20+00:00 | 17 | 1 | Python | 1 | ['CVE-2024-22120'] |
@@ -163,6 +163,7 @@
 | passer12/CVE-2024-1931-reproduction | CVE-2024-1931-reproduction | https://github.com/passer12/CVE-2024-1931-reproduction | ['cve-2 OR cve_2'] | 1 | 2024-08-13 14:10:25+00:00 | 2 | 0 | Dockerfile | 0 | ['CVE-2024-1931'] |
 | d1ffeX/SkriptGG | Providing the best undetected FiveM, RageMP, Alt-V, GTA V mod menu for pvp and with never before seen exploits and more multiplayer game cheats. | https://github.com/d1ffeX/SkriptGG | ['exploit'] | 1 | 2024-08-13 14:20:30+00:00 | 422 | 1 | C++ | 0 | [] |
 | WHS-SEGFAULT/CVE-2021-39863 | None | https://github.com/WHS-SEGFAULT/CVE-2021-39863 | ['cve-2 OR cve_2'] | 1 | 2024-08-13 14:46:42+00:00 | 628 | 0 | JavaScript | 0 | ['CVE-2021-39863'] |
+| isPique/CVE-2024-22120-RCE-with-gopher | This is my exploit for CVE-2024-22120, which involves an SSRF vulnerability inside an XXE with a Gopher payload. | https://github.com/isPique/CVE-2024-22120-RCE-with-gopher | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-08-13 14:56:42+00:00 | 12 | 1 | Python | 0 | ['CVE-2024-22120'] |
 | nahid0x1/CVE-2024-0044 | a vulnerability affecting Android version 12 & 13 | https://github.com/nahid0x1/CVE-2024-0044 | ['cve-2 OR cve_2'] | 1 | 2024-08-13 15:20:44+00:00 | 7 | 1 | Shell | 0 | ['CVE-2024-0044'] |
 | Trecto34/TryHackMe | Repo to save my TryHackMe custom exploits, etc | https://github.com/Trecto34/TryHackMe | ['exploit'] | 1 | 2024-08-13 15:22:32+00:00 | 7 | 0 | Go | 0 | [] |
 | kevinHarianto/Example-of-work-done-for-CPENT-Courses | The example labs highlight my work done for some of the experimentation done with penetration testing tools. Most notably with Metasploit with the generation of polymorphic obfuscated code | https://github.com/kevinHarianto/Example-of-work-done-for-CPENT-Courses | ['metasploit module OR payload'] | 1 | 2024-08-13 15:34:09+00:00 | 23663 | 0 | | 0 | [] |
