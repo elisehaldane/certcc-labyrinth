@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+842041393,isPique/CVE-2024-22120-RCE-with-gopher,exploit.py,2e1159958aea4652fdc2496d15fe321b9b283769,CVE-2024-22120
+842041393,isPique/CVE-2024-22120-RCE-with-gopher,_GITHUB_REPO_METADATA_,,CVE-2024-22120
