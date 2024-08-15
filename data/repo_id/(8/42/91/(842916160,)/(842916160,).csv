@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,README.md,1e58eb91e9f836ecdea4eb7cdfa3928aaed3340f,CVE-2018-15473
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,Tools/sshUsernameEnumExploit.py,30b39c4fdc3b85b7479d2a0312bb1ec94befc48f,CVE-2018-15473
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,Docker/Dockerfile.ssh-snmp,c0b3e3fe75746af017cc4c98047df4308dfbe612,CVE-2018-15473
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,Tools/sshtranger_things.py,d5a1b4cf568fe990f7441c3e1627ab6f682c2364,CVE-2019-6110
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,Tools/sshtranger_things.py,d5a1b4cf568fe990f7441c3e1627ab6f682c2364,CVE-2019-6111
+842916160,MahdiOsman/CVE-2018-15473-SNMPv1-2-Community-String-Vulnerability-Testing,_GITHUB_REPO_METADATA_,,CVE-2018-15473
