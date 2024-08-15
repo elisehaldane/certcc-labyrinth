@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+659471096,ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection,poc-cve-2021-4034.py,1a01a0f0215d4cbadee1884487a39a83bb6edf85,CVE-2021-4034
 659471096,ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection,setup.sh,8f4e80933085be20dc85c424c739ac7332cd160e,CVE-2021-4034
 659471096,ps-interactive/lab_cve-2021-4034-polkit-emulation-and-detection,_GITHUB_REPO_METADATA_,,CVE-2021-4034
