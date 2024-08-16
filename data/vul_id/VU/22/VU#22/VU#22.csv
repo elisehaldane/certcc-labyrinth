@@ -6,6 +6,7 @@ VU#22,1.00000000,https://github.com/Eiernase/NeverGonnaCloseATab,Eiernase/NeverG
 VU#22,1.00000000,https://github.com/Meh-zx/R60Tool-for-Lunix,Meh-zx/R60Tool-for-Lunix,550619182
 VU#22,1.00000000,https://github.com/razzor-codes/Web3-Graveyard,razzor-codes/Web3-Graveyard,512263154
 VU#22,1.00000000,https://github.com/Benwick921/dnscachepoisoning,Benwick921/dnscachepoisoning,252932369
+VU#22,0.50000000,https://github.com/dd2257/Firewall-Exploration-Lab,dd2257/Firewall-Exploration-Lab,843102178
 VU#22,0.50000000,https://github.com/aditibv/MOVEit-CVE-2023-34362,aditibv/MOVEit-CVE-2023-34362,824317369
 VU#22,0.50000000,https://github.com/skribblez2718/blabbit,skribblez2718/blabbit,805839759
 VU#22,0.50000000,https://github.com/bbaranoff/CVE-2023-4863,bbaranoff/CVE-2023-4863,696220876
@@ -272,7 +273,6 @@ VU#22,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyuti
 VU#22,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#22,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#22,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
-VU#22,0.01149425,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#22,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#22,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#22,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
@@ -290,6 +290,7 @@ VU#22,0.01098901,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#22,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#22,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#22,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
+VU#22,0.01075269,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#22,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#22,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#22,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
