@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+843112264,sagarwal395/ExploitRepo,README.md,0d6f574f40c709ea039d45b58bdda7141d91c9a1,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/test-classes/the.hpl,1f86915ea0ab1b3f21e6c0d0519e8eeb2f8d9307,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/src/test/java/PoVTest.java,277945c1937df9c7a26ef5d33f2d216bd73f6744,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/test-classes/InjectedTest.class,3d3558a9274a78094b047014c9440f89c29632eb,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/src/test/.DS_Store,5642d2e78eecd6c997d4cca420879f42ac4426b0,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/test-classes/PoVTest$BuildWrapperWithSomeSensitiveVars.class,5d70eeda4b13f074d90cce05587d4f66fd136b96,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/src/.DS_Store,611de9e0c15724846b001d01788b2e033b997fd0,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/nuclei_template/CVE-20230-43494.yaml,71cc3e8812074ecc7cce6b3567d2d6e066ddba97,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/python_poc/pov.py,7423536038c60b5664bdd1b2ebb75fa329ab5a01,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/test-classes/PoVTest.class,ae1af5117f66ed03280ecb94b97e64cc38165aa8,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/test-classes/test-dependencies/index,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/pom.xml,ecb277a8c73ce87900aa080374c57a2ea8850bd2,CVE-2023-43494
+843112264,sagarwal395/ExploitRepo,CVE-2023-43494/java_poc/target/generated-test-sources/injected/InjectedTest.java,f58b128df62bebd00ae17bb90eb404513bff69b5,CVE-2023-43494
