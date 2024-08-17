@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+843844789,bluetoothStrawberry/gitlab_11.4.7_rce,exploit.py,994024d440fc25a627acddcd4e37494d7b82e19b,CVE-2018-19571
+843844789,bluetoothStrawberry/gitlab_11.4.7_rce,exploit.py,994024d440fc25a627acddcd4e37494d7b82e19b,CVE-2018-19585
+843844789,bluetoothStrawberry/gitlab_11.4.7_rce,README.md,a9e493ed941e7df09d0afcb0b3fe537230aadfa2,CVE-2018-19571
+843844789,bluetoothStrawberry/gitlab_11.4.7_rce,README.md,a9e493ed941e7df09d0afcb0b3fe537230aadfa2,CVE-2018-19585
