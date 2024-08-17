@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#95,1.00000000,https://github.com/IVRL/signal-leak-bias,IVRL/signal-leak-bias,765126094
 VU#95,1.00000000,https://github.com/Jahamezl/0day-Stealer,Jahamezl/0day-Stealer,661815653
+VU#95,1.00000000,https://github.com/kamalmjt/emerging-attackers,kamalmjt/emerging-attackers,563108087
 VU#95,1.00000000,https://github.com/susMdT/Indirect-Syscall-Shellcode-Loader,susMdT/Indirect-Syscall-Shellcode-Loader,560650303
 VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-webshell-application,p0dalirius/Tomcat-webshell-application,492338473
 VU#95,1.00000000,https://github.com/akr3ch/kubeletctl-cli-rce,akr3ch/kubeletctl-cli-rce,472089121
