@@ -15,15 +15,15 @@ repo_id,repo_full_name,file,file_sha1,match
 839489573,kairosart/Reset,.obsidian/plugins/obsidian-enhancing-export/main.js,152fc307d6979e0466c24036aef94895db926735,VU#21
 839489573,kairosart/Reset,.obsidian/plugins/obsidian-enhancing-export/main.js,152fc307d6979e0466c24036aef94895db926735,VU#29
 839489573,kairosart/Reset,.obsidian/plugins/obsidian-enhancing-export/main.js,152fc307d6979e0466c24036aef94895db926735,VU#19
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#94
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#71
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#97963
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#36
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#88
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#38
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#58
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#95
-839489573,kairosart/Reset,Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#49
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#94
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#71
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#97963
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#36
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#88
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#38
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#58
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#95
+839489573,kairosart/Reset,images/Diagram.svg.xml,15db04f6511d5421f48c41242c503208d6a94e88,VU#49
 839489573,kairosart/Reset,.obsidian/themes/Slytherin/theme.css,356a85718cad389ebbc2bdda875f50e19ed625ed,VU#89
 839489573,kairosart/Reset,.obsidian/themes/Slytherin/theme.css,356a85718cad389ebbc2bdda875f50e19ed625ed,VU#27
 839489573,kairosart/Reset,.obsidian/themes/Slytherin/theme.css,356a85718cad389ebbc2bdda875f50e19ed625ed,VU#52
@@ -124,12 +124,12 @@ repo_id,repo_full_name,file,file_sha1,match
 839489573,kairosart/Reset,.obsidian/themes/Royal Velvet/theme.css,c074c719a661afc5df4c154a20fa539769b72b42,VU#359
 839489573,kairosart/Reset,.obsidian/themes/Royal Velvet/theme.css,c074c719a661afc5df4c154a20fa539769b72b42,VU#302
 839489573,kairosart/Reset,.obsidian/themes/Royal Velvet/theme.css,c074c719a661afc5df4c154a20fa539769b72b42,VU#33
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#32
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#04
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#937
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#79
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#87
-839489573,kairosart/Reset,Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#23
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#32
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#04
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#937
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#79
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#87
+839489573,kairosart/Reset,images/Diagram.svg,e5787e39cf2e6d50bc9a509550575c46215397b1,VU#23
 839489573,kairosart/Reset,.obsidian/plugins/image-converter/main.js,f11f707f57e97b0b64346700ecefa3a5cdf10791,VU#84
 839489573,kairosart/Reset,.obsidian/plugins/image-converter/main.js,f11f707f57e97b0b64346700ecefa3a5cdf10791,VU#25
 839489573,kairosart/Reset,.obsidian/plugins/image-converter/main.js,f11f707f57e97b0b64346700ecefa3a5cdf10791,VU#29

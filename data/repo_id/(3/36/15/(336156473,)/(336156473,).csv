@@ -1,2 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 336156473,exploit-haxor/file,dp_crypto.py,6bd0506cdef5eebeb4a1126d8cf8fa1d5b5048fc,CVE-2017-9248
+336156473,exploit-haxor/file,rootwso.php,8ed7a5c840d3f4c6d05c63314951be6cfcb25796,VU#06
+336156473,exploit-haxor/file,rootwso.php,8ed7a5c840d3f4c6d05c63314951be6cfcb25796,VU#41
+336156473,exploit-haxor/file,rootwso.php,8ed7a5c840d3f4c6d05c63314951be6cfcb25796,VU#8659
