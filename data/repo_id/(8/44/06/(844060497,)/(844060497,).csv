@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+844060497,PrincessPi3/esp-bootrom-exploit,esp-rom-elfs-20230320/esp32c2_rev100_rom.elf,3064ef7ef4161338104b24cc9667bc7fb8a3f41a,VU#77
+844060497,PrincessPi3/esp-bootrom-exploit,esp-rom-elfs-20230320/esp32c3_rev3_rom.elf,d68afeb5bd7ab7904e7d5d3adf4d670df9d19c96,VU#77
