@@ -1,0 +1,25 @@
+
+# Summary for results/2024/08/19
+    
+18 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|-------------------|
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-08-19 04:32:31+00:00 | 1554396 | 490 | REXX | 45 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'vulnerability poc'] | 2 | 2024-08-19 00:35:48+00:00 | 530636 | 6322 | | 1159 | [] |
+| XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2024-08-19 02:56:32+00:00 | 7235 | 2 | Java | 0 | [] |
+| ycdxsb/PocOrExp_in_Github | 聚合Github上已有的Poc或者Exp，CVE信息来自CVE官网。Auto Collect Poc Or Exp from Github by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2024-08-19 04:48:59+00:00 | 517096 | 894 | Python | 196 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-08-19 00:12:36+00:00 | 9967 | 0 | | 1 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2024-08-19 00:58:17+00:00 | 1297 | 645 | Shell | 116 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-08-19 04:47:34+00:00 | 214893 | 252 | Go | 57 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc'] | 1 | 2024-08-19 05:12:06+00:00 | 231443 | 136 | Go | 18 | [] |
+| cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-08-19 05:07:39+00:00 | 400903 | 0 | Python | 0 | [] |
+| HackerCalico/No_X_Memory_ShellCode_Loader | 无可执行权限加载 ShellCode。Loading ShellCode without executable permission. | https://github.com/HackerCalico/No_X_Memory_ShellCode_Loader | ['shellcode'] | 1 | 2024-08-19 03:16:00+00:00 | 1263 | 298 | C++ | 53 | [] |
+| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['uac bypass'] | 1 | 2024-08-19 05:14:20+00:00 | 587 | 3 | C# | 0 | [] |
+| FergusGarcia/HTA-Exploit | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/FergusGarcia/HTA-Exploit | ['remote code execution'] | 1 | 2024-08-19 05:49:07+00:00 | 380 | 0 | C# | 0 | [] |
+| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day'] | 1 | 2024-08-19 05:07:12+00:00 | 229 | 0 | C# | 0 | [] |
+| ImKKingshuk/StealthNoSQL | StealthNoSQL : The Ultimate NoSQL Injection Tool - Unleash the power of advanced NoSQL injection techniques with this comprehensive command-line tool! Whether you’re pentesting MongoDB, CouchDB, or any other NoSQL database, StealthNoSQL has you covered. 🚀💻 | https://github.com/ImKKingshuk/StealthNoSQL | ['command injection'] | 1 | 2024-08-19 00:09:09+00:00 | 20 | 0 | Shell | 0 | [] |
+| osiristape/USB-Device-Control-Tool | A Python tool to monitor, block, and unblock USB devices, with optional integration with Metasploit for advanced operations. | https://github.com/osiristape/USB-Device-Control-Tool | ['metasploit module OR payload'] | 1 | 2024-08-19 00:36:32+00:00 | 8 | 1 | Python | 0 | [] |
+| ImKKingshuk/StealthNewSQL | StealthNewSQL : The Ultimate NewSQL Injection Tool - Your All-in-One Solution for NewSQL Database Security! 🛡️ Uncover, exploit, and secure NewSQL database vulnerabilities with this feature-packed command-line tool. Whether you're a penetration tester, sec | https://github.com/ImKKingshuk/StealthNewSQL | ['command injection'] | 1 | 2024-08-19 01:45:45+00:00 | 21 | 1 | Shell | 0 | [] |
+| MrW0l05zyn/cve-2024-0044 | CVE-2024-0044 | https://github.com/MrW0l05zyn/cve-2024-0044 | ['cve-2 OR cve_2'] | 1 | 2024-08-19 04:40:40+00:00 | 2 | 0 | Python | 0 | ['CVE-2024-0044'] |
+| bufferb0y/ws-loader | Load shellcode over a websocket. | https://github.com/bufferb0y/ws-loader | ['shellcode'] | 1 | 2024-08-19 03:52:24+00:00 | 8 | 0 | C | 0 | [] |
