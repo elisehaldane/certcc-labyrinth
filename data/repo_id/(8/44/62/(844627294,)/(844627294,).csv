@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+844627294,plafonats27/metasploit-payloads,java/javapayload/index.html,3514e58213dd2cf26be746016e88e860d8034737,CVE-2008-5353
+844627294,plafonats27/metasploit-payloads,c/meterpreter/source/extensions/python/Resource Files/python_core.cz,c0ded5b0cd1d957ce7dd6a1ef9761014dda84591,VU#45
+844627294,plafonats27/metasploit-payloads,c/meterpreter/source/bionic/libc/kernel/common/linux/videodev2.h,c2746c5c8bccf47f30550605dd0abf4b56f42e02,VU#410
+844627294,plafonats27/metasploit-payloads,c/meterpreter/source/bionic/libc/kernel/common/linux/videodev2.h,c2746c5c8bccf47f30550605dd0abf4b56f42e02,VU#420
+844627294,plafonats27/metasploit-payloads,c/meterpreter/source/extensions/python/Modules/_ssl.c,e266908302bd3fdd0ac0d2e4862707d487164350,CVE-2013-4238
