@@ -15,7 +15,6 @@ VU#06,0.25000000,https://github.com/MKONE19/Carte_Exploitation-KONE,MKONE19/Cart
 VU#06,0.25000000,https://github.com/huyql109/Kernel-exploitation,huyql109/Kernel-exploitation,527288721
 VU#06,0.25000000,https://github.com/caiquebaracho/CVE-2021-44228,caiquebaracho/CVE-2021-44228,494091356
 VU#06,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
-VU#06,0.25000000,https://github.com/exploit-haxor/file,exploit-haxor/file,336156473
 VU#06,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#06,0.20000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
 VU#06,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
@@ -42,6 +41,7 @@ VU#06,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-
 VU#06,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#06,0.08333333,https://github.com/pg001001/exploit,pg001001/exploit,812914507
 VU#06,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
+VU#06,0.08333333,https://github.com/exploit-haxor/file,exploit-haxor/file,336156473
 VU#06,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#06,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#06,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
@@ -379,7 +379,7 @@ VU#06,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#06,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#06,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#06,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#06,0.00018769,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#06,0.00018765,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#06,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#06,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
