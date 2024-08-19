@@ -1,11 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
+844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35539.go,2690945e6695100bf97488f78f63c6d099670755,CVE-2024-35538
+844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35539.go,2690945e6695100bf97488f78f63c6d099670755,CVE-2024-35539
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35540.go,831fb7f7433ecb6572fe7ae5a71ddae0a344e9ed,CVE-2024-35540
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,README.md,9891c1980b2170bf9aa9bbaf6ef9b2ee98a4e63b,CVE-2024-35538
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,README.md,9891c1980b2170bf9aa9bbaf6ef9b2ee98a4e63b,CVE-2024-35539
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,README.md,9891c1980b2170bf9aa9bbaf6ef9b2ee98a4e63b,CVE-2024-35540
-844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35539.go,99a07c273d1ae61916064e07a3d01d63b5f03a55,CVE-2024-35538
-844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35539.go,99a07c273d1ae61916064e07a3d01d63b5f03a55,CVE-2024-35539
-844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35538.go,9c21bdf88962a0a4aa75f010101a4a0100964a39,CVE-2024-35538
+844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,CVE-2024-35538.go,bf39abdd972bcb7397b5672ce3ec4e906b6c1fc8,CVE-2024-35538
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2024-35538
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2024-35539
 844197058,cyberaz0r/Typecho-Multiple-Vulnerabilities,_GITHUB_REPO_METADATA_,,CVE-2024-35540
