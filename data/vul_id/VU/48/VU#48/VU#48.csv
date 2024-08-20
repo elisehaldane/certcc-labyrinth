@@ -134,6 +134,7 @@ VU#48,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstor
 VU#48,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#48,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#48,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
+VU#48,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#48,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#48,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
 VU#48,0.02272727,https://github.com/deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,828885447
@@ -154,7 +155,6 @@ VU#48,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,14
 VU#48,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#48,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#48,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
-VU#48,0.01851852,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#48,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#48,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#48,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -451,8 +451,8 @@ VU#48,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000912,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#48,0.00000898,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#48,0.00000897,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00000897,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
+VU#48,0.00000896,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
