@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/19
     
-185 records found after deduplication
+188 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -87,6 +87,7 @@
 | solygambas/practical-ethical-hacking-course | Comprehensive notes from a hands-on course covering networking, Linux, Python, Metasploit, Burp Suite, Active Directory, and web application penetration testing. | https://github.com/solygambas/practical-ethical-hacking-course | ['metasploit module OR payload'] | 1 | 2024-08-19 10:42:03+00:00 | 339 | 1 | Python | 0 | [] |
 | R3CI/Lime-lite | Lite version of lime buy the full on discord | https://github.com/R3CI/Lime-lite | ['exploit'] | 1 | 2024-08-19 17:07:59+00:00 | 110 | 19 | Python | 1 | [] |
 | fdx-xdf/darkPulse | darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。 | https://github.com/fdx-xdf/darkPulse | ['shellcode'] | 1 | 2024-08-19 05:59:09+00:00 | 14413 | 706 | Go | 97 | [] |
+| AlSploit/AlSploit | nan | https://github.com/AlSploit/AlSploit | ['sploit'] | 1 | 2024-08-19 19:10:11+00:00 | 1592 | 0 | Lua | 5 | [] |
 | CamoCatX/camocatx.github.io | The source code for Delete the Matrix blog - Exploiting, Experimenting, and Exploring the Universe | https://github.com/CamoCatX/camocatx.github.io | ['exploit'] | 1 | 2024-08-19 23:37:08+00:00 | 7965 | 1 | HTML | 0 | [] |
 | progmatix21/Briefly | Briefly is a text summarizer exploiting a topic modelling algorithm. | https://github.com/progmatix21/Briefly | ['exploit'] | 1 | 2024-08-19 07:20:33+00:00 | 1931 | 0 | Python | 0 | [] |
 | mun1bxD/Web-Exploitation | These are complete notes of my web Exploitation | https://github.com/mun1bxD/Web-Exploitation | ['exploit'] | 1 | 2024-08-19 13:38:30+00:00 | 36233 | 2 | Python | 0 | [] |
@@ -98,6 +99,7 @@
 | B1TC0R3/drupal_webshell | A Drupal webshell that can be leveraged for RCE with correct permissions. | https://github.com/B1TC0R3/drupal_webshell | ['rce'] | 1 | 2024-08-19 08:38:04+00:00 | 19 | 0 | PHP | 0 | [] |
 | zeropio/Exploitsenal | None | https://github.com/zeropio/Exploitsenal | ['exploit'] | 1 | 2024-08-19 15:35:27+00:00 | 28 | 1 | C | 0 | [] |
 | Jhonsonwannaa/CVE-2024-31819 | An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component. | https://github.com/Jhonsonwannaa/CVE-2024-31819 | ['cve-2 OR cve_2'] | 1 | 2024-08-19 16:06:50+00:00 | 17 | 0 | Python | 0 | ['CVE-2024-31819'] |
+| Sqttyxsq/Simple-Exec-Shellcode-NTAPI | None | https://github.com/Sqttyxsq/Simple-Exec-Shellcode-NTAPI | ['shellcode'] | 1 | 2024-08-19 18:39:09+00:00 | 1464 | 2 | C++ | 0 | [] |
 | chadlrnsn/wuwa-basesdk | A basic sdk to exploiting another anime game (updated to 1.2.0) | https://github.com/chadlrnsn/wuwa-basesdk | ['exploit'] | 1 | 2024-08-19 17:22:01+00:00 | 5472 | 1 | C++ | 0 | [] |
 | Koukyosyumei/VulnVault | A collection of smart contract vulnerability demos and exploit examples | https://github.com/Koukyosyumei/VulnVault | ['exploit'] | 1 | 2024-08-19 11:17:36+00:00 | 359 | 0 | JavaScript | 0 | [] |
 | passandscore/solidity-challenges | Solidity exploits & challenges. | https://github.com/passandscore/solidity-challenges | ['exploit'] | 1 | 2024-08-19 15:30:28+00:00 | 1734 | 22 | Solidity | 7 | [] |
@@ -114,7 +116,7 @@
 | yinsel/ShellcodeDev | 基于C/C++的shellcode开发项目模板 | https://github.com/yinsel/ShellcodeDev | ['shellcode'] | 1 | 2024-08-19 14:29:30+00:00 | 53 | 6 | C++ | 3 | [] |
 | b1nzeex/rce.js | None | https://github.com/b1nzeex/rce.js | ['rce'] | 1 | 2024-08-19 20:53:56+00:00 | 150 | 2 | TypeScript | 0 | [] |
 | xp101t/searchPoC | Search for PoC with CVE | https://github.com/xp101t/searchPoC | ['cve poc'] | 1 | 2024-08-19 19:37:32+00:00 | 11 | 1 | Python | 0 | [] |
-| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-19 05:14:20+00:00 | 587 | 3 | C# | 0 | [] |
+| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-19 17:54:52+00:00 | 602 | 3 | C# | 0 | [] |
 | l-urk/CVE-2024-6387-L | Proof of concept python script for regreSSHion exploit. | https://github.com/l-urk/CVE-2024-6387-L | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-08-19 06:04:13+00:00 | 163 | 0 | Python | 0 | ['CVE-2024-6387'] |
 | TimboFimbo/HackyHacky_JoyJoy | A puzzle game about exploiting software vulnerabilities | https://github.com/TimboFimbo/HackyHacky_JoyJoy | ['exploit'] | 1 | 2024-08-19 13:38:48+00:00 | 4844 | 0 | C# | 0 | [] |
 | EstebanNBfr/Exploit_RL | None | https://github.com/EstebanNBfr/Exploit_RL | ['exploit'] | 1 | 2024-08-19 15:39:59+00:00 | 190 | 0 | Python | 0 | [] |
@@ -129,7 +131,7 @@
 | FergusGarcia/Slient-URL-Exploit | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/FergusGarcia/Slient-URL-Exploit | ['exploit'] | 1 | 2024-08-19 17:53:54+00:00 | 1067 | 0 | C# | 0 | [] |
 | FergusGarcia/Discord-Image-Logger-Stealer | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/FergusGarcia/Discord-Image-Logger-Stealer | ['exploit'] | 1 | 2024-08-19 17:49:40+00:00 | 396 | 0 | C# | 0 | [] |
 | FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | Photo Exploit Builder | https://github.com/FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | ['exploit'] | 1 | 2024-08-19 17:51:49+00:00 | 681 | 0 | C++ | 0 | [] |
-| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-19 05:07:12+00:00 | 229 | 0 | C# | 0 | [] |
+| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-19 17:48:41+00:00 | 235 | 0 | C# | 0 | [] |
 | IChres/FiveM-External-Cheat | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable. | https://github.com/IChres/FiveM-External-Cheat | ['exploit'] | 1 | 2024-08-19 17:53:51+00:00 | 4476 | 0 | C++ | 0 | [] |
 | IChres/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It includes a KeyAuth system for additional security and user management. The cheat is designed to be undetectabl | https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2024-08-19 17:47:33+00:00 | 9780 | 0 | C | 0 | [] |
 | nickharrison2002000/exploit-1 | None | https://github.com/nickharrison2002000/exploit-1 | ['exploit'] | 1 | 2024-08-19 14:10:19+00:00 | 65 | 0 | C | 0 | [] |
@@ -157,6 +159,7 @@
 | bufferb0y/ws-loader | Load shellcode over a websocket. | https://github.com/bufferb0y/ws-loader | ['shellcode'] | 1 | 2024-08-19 03:52:24+00:00 | 8 | 0 | C | 0 | [] |
 | AabyssZG/Docker-TCP-Scan | 旨在以攻促防，针对Docker TCP socket的开源利用工具 | https://github.com/AabyssZG/Docker-TCP-Scan | ['rce'] | 1 | 2024-08-19 09:25:12+00:00 | 1198 | 190 | Python | 13 | [] |
 | Umair-progs/Secure-Systems | Files corresponding to Buffer Overflow, ROP and Heap Attacks that were carried out. | https://github.com/Umair-progs/Secure-Systems | ['heap overflow'] | 1 | 2024-08-19 06:54:16+00:00 | 19239 | 0 | Python | 0 | [] |
+| jreina/robotomy-poc | A novel LLM attack method that uses crafted/generative embeddings to isolate sections of a network from one another | https://github.com/jreina/robotomy-poc | ['attack poc'] | 1 | 2024-08-19 06:51:42+00:00 | 0 | 0 | nan | 0 | [] |
 | anmolksachan/CVE-2020-2733 | None | https://github.com/anmolksachan/CVE-2020-2733 | ['cve-2 OR cve_2'] | 1 | 2024-08-19 10:45:22+00:00 | 21 | 0 | Python | 0 | ['CVE-2020-2733'] |
 | ps-jb/ps-jb.github.io | Smiley's PS4 Exploit | https://github.com/ps-jb/ps-jb.github.io | ['exploit'] | 1 | 2024-08-19 10:25:20+00:00 | 942 | 0 | JavaScript | 0 | [] |
 | Cyb0xOne/bukan-0day-kok | None | https://github.com/Cyb0xOne/bukan-0day-kok | ['0day'] | 1 | 2024-08-19 10:30:31+00:00 | 18566 | 1 | PHP | 0 | [] |
