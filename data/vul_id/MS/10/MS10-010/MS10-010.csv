@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS10-010,0.50000000,https://github.com/player23-0/Eternal_Blue_Manual_Exploit,player23-0/Eternal_Blue_Manual_Exploit,844943770
 MS10-010,0.12500000,https://github.com/pythonone/exploit-fix,pythonone/exploit-fix,133662541
 MS10-010,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS10-010,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
