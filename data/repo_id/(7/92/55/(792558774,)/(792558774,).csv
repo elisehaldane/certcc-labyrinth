@@ -7,11 +7,11 @@ repo_id,repo_full_name,file,file_sha1,match
 792558774,ronin-rb/community-pocs,exploits/crushftp/CVE-2024-4040.rb,3067172ced114d2e899ba5a1f938b45e3974b9aa,CVE-2024-4040
 792558774,ronin-rb/community-pocs,spec/exploits/ivanti/CVE-2024-21887_spec.rb,5aa002660c98ac0c6124811a69eb4311755ce184,CVE-2024-21887
 792558774,ronin-rb/community-pocs,exploits/activemq/CVE-2023-46604.rb,642071788243069319374fe7cda5cb7a3d627cb7,CVE-2023-46604
+792558774,ronin-rb/community-pocs,exploits/ivanti/CVE-2021-44529.rb,75c463ec8d5dc93b986ceaf0eabb5c75d7bc0a90,CVE-2021-44529
 792558774,ronin-rb/community-pocs,spec/exploits/sophos/CVE-2023-1671_spec.rb,8a14290eb18bf203f727496845214e389076781f,CVE-2023-1671
 792558774,ronin-rb/community-pocs,spec/exploits/sophos/CVE-2023-1671_spec.rb,8a14290eb18bf203f727496845214e389076781f,CVE-2024-3273
 792558774,ronin-rb/community-pocs,exploits/flowmon/CVE-2024-2389.rb,a40f98bb1543d3aeb85e87bacb7b4da35f2cca7a,CVE-2024-2389
 792558774,ronin-rb/community-pocs,exploits/sophos/CVE-2023-1671.rb,afcf6483c69ed7bdcf4ba32aec3aebc3927ce381,CVE-2023-1671
-792558774,ronin-rb/community-pocs,exploits/ivanti/CVE-2021-44529.rb,c94a033dde9a3369629a5e2aa4e003a47c7e122d,CVE-2021-44529
 792558774,ronin-rb/community-pocs,exploits/ivanti/CVE-2024-21887.rb,ecfb9f759858412e3f665f28bf5bcd5ea862bab9,CVE-2024-21887
 792558774,ronin-rb/community-pocs,exploits/ivanti/CVE-2024-21887.rb,ecfb9f759858412e3f665f28bf5bcd5ea862bab9,CVE-2023-21887
 792558774,ronin-rb/community-pocs,exploits/ivanti/CVE-2024-21887.rb,ecfb9f759858412e3f665f28bf5bcd5ea862bab9,CVE-2023-46805
