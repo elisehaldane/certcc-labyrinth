@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/BaseSynchronizationLib.lib,3679a4b7b889d4215f4e458001d74311cc1cbb18,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/BasePrintLib.lib,403971da25538b1a7cc4afbbb7d4ef5b263529a5,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/BaseLib.lib,43c202e521fb13251ea481cf526c6383ef4ee108,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/UefiLib.lib,6d447dbc6b673712bcad96e4a7f7430841e9ccf3,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/MdePkg/Include/Library/BaseLib.h,703eaaf72a240764a4d1f646ea541c4156e3d5ce,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/Voyager.map,73842558e60063a1fdfc073077b11272b2f47626,VU#64
+693208798,cutecatsandvirtualmachines/Sputnik,Sputnik/edk2/UefiShellLib.lib,9e0536754d3ee55da4a3f70687839424c0860ac7,VU#64
