@@ -88,6 +88,7 @@ VU#83,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,ris
 VU#83,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
 VU#83,0.11111111,https://github.com/Jonathan-Elias/Exploits,Jonathan-Elias/Exploits,404832318
 VU#83,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
+VU#83,0.09090909,https://github.com/fffffw1/shiro_exploit,fffffw1/shiro_exploit,845494228
 VU#83,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#83,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#83,0.09090909,https://github.com/Laurin226/checkm8_toolbox,Laurin226/checkm8_toolbox,602263237
@@ -487,7 +488,7 @@ VU#83,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#83,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#83,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#83,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#83,0.00018765,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00018762,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#83,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

@@ -128,6 +128,7 @@ VU#37,0.11111111,https://github.com/kozmic/laravel-poc-CVE-2018-15133,kozmic/lar
 VU#37,0.10000000,https://github.com/Glottocrisio/IKG4CH,Glottocrisio/IKG4CH,602042663
 VU#37,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
 VU#37,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
+VU#37,0.09090909,https://github.com/fffffw1/shiro_exploit,fffffw1/shiro_exploit,845494228
 VU#37,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#37,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#37,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
@@ -571,7 +572,7 @@ VU#37,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#37,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#37,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#37,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#37,0.00018765,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#37,0.00018762,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#37,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#37,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#37,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
