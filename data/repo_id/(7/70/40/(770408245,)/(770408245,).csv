@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-770408245,cleypanw/prisma-cloud-kubernetes-exploitation-demo,README.md,634e61b7fd8cefa3d728acfb07b62b2cfd028713,CVE-2023-42282
+770408245,cleypanw/prisma-cloud-kubernetes-exploitation-demo,README.md,74fe8e4e752fcac9ae2d27e78133b867b71a1afc,CVE-2023-42282
