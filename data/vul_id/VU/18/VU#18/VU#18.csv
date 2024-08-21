@@ -21,7 +21,6 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
-VU#18,0.50000000,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
 VU#18,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
 VU#18,0.50000000,https://github.com/xosnrdev/rce-images,xosnrdev/rce-images,831845228
 VU#18,0.50000000,https://github.com/vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,829632417
@@ -155,6 +154,7 @@ VU#18,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,3074
 VU#18,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
 VU#18,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#18,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
+VU#18,0.09090909,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
 VU#18,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#18,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#18,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,696068877
