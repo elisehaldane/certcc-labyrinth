@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/20
     
-169 records found after deduplication
+170 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -38,7 +38,7 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-08-20 18:10:51+00:00 | 10759 | 32 | HTML | 4 | [] |
 | awslabs/aws-codeseeder | The aws-codeseeder project enables builders to easily "seed" python code to AWS CodeBuild for remote execution in their cloud environments. | https://github.com/awslabs/aws-codeseeder | ['remote code execution'] | 1 | 2024-08-20 15:28:42+00:00 | 740 | 36 | Python | 9 | [] |
 | volkandindar/agartha | A Burp extension helps identifying injection flaws (LFI, RCE, SQLi), authentication/authorization issues, and HTTP 403 access violations, while also converting HTTP requests to JavaScript for enhanced XSS exploitation. | https://github.com/volkandindar/agartha | ['exploit', 'rce'] | 2 | 2024-08-20 10:07:24+00:00 | 944 | 338 | Python | 66 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['exploit', 'vulnerability poc'] | 2 | 2024-08-20 14:33:30+00:00 | 360141 | 6385 | HTML | 808 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['exploit', 'vulnerability poc'] | 2 | 2024-08-20 22:29:02+00:00 | 362534 | 6387 | HTML | 808 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-08-20 00:12:29+00:00 | 10014 | 0 | | 1 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc'] | 4 | 2024-08-20 00:57:02+00:00 | 1313 | 645 | Shell | 116 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-08-20 05:47:41+00:00 | 215187 | 252 | Go | 57 | [] |
@@ -68,6 +68,7 @@
 | n132/libx | A Linux Kernel Exploitation C Library | https://github.com/n132/libx | ['exploit'] | 1 | 2024-08-20 18:11:29+00:00 | 105 | 3 | C | 0 | [] |
 | dbx0/oh-my-vault | Oh My Vault! is the ultimate framework created to exploit and automate pen testing on the OpenMediaVault NAS solution. | https://github.com/dbx0/oh-my-vault | ['exploit'] | 1 | 2024-08-20 02:18:35+00:00 | 41 | 0 | Python | 0 | [] |
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-08-20 05:07:10+00:00 | 408631 | 0 | Python | 0 | [] |
+| Cyfrin/sc-exploits-minimized | A repo to showcase web3 hacks | https://github.com/Cyfrin/sc-exploits-minimized | ['exploit'] | 1 | 2024-08-20 00:10:34+00:00 | 12639 | 288 | Solidity | 103 | [] |
 | actuator/Android-Security-Exploits-YouTube-Curriculum | 🔓A curated list of modern Android exploitation conference talks. | https://github.com/actuator/Android-Security-Exploits-YouTube-Curriculum | ['exploit'] | 1 | 2024-08-20 18:07:44+00:00 | 170 | 424 | | 30 | [] |
 | vulsio/vuls-data-raw-exploit-github | None | https://github.com/vulsio/vuls-data-raw-exploit-github | ['exploit'] | 1 | 2024-08-20 00:13:57+00:00 | 25492 | 0 | | 1 | [] |
 | vulsio/vuls-data-raw-exploit-inthewild | None | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2024-08-20 00:15:15+00:00 | 27141 | 6 | | 2 | [] |
@@ -101,7 +102,7 @@
 | b1nzeex/rce.js | None | https://github.com/b1nzeex/rce.js | ['rce'] | 1 | 2024-08-20 14:58:42+00:00 | 355 | 2 | TypeScript | 0 | [] |
 | 7h3-h4k3r/C-program | exercies,example,exploit | https://github.com/7h3-h4k3r/C-program | ['exploit'] | 1 | 2024-08-20 16:50:42+00:00 | 214 | 0 | C | 0 | [] |
 | ryvoxxp/Ryvox-Hub | mm2 exploit *beta* | https://github.com/ryvoxxp/Ryvox-Hub | ['exploit'] | 1 | 2024-08-20 18:10:39+00:00 | 44 | 1 | | 0 | [] |
-| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-20 05:53:55+00:00 | 613 | 3 | C# | 0 | [] |
+| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-20 05:11:50+00:00 | 613 | 3 | C# | 0 | [] |
 | TimboFimbo/HackyHacky_JoyJoy | A puzzle game about exploiting software vulnerabilities | https://github.com/TimboFimbo/HackyHacky_JoyJoy | ['exploit'] | 1 | 2024-08-20 15:15:27+00:00 | 6949 | 0 | C# | 0 | [] |
 | sharvil-lade/Remote-Code-Execution-Engine | None | https://github.com/sharvil-lade/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2024-08-20 15:49:14+00:00 | 4835 | 0 | JavaScript | 0 | [] |
 | CroodSolutions/BypassIT | BypassIT is a framework for covert malware delivery and post-exploitation using AutoIT for red / blue team self assessment. | https://github.com/CroodSolutions/BypassIT | ['exploit'] | 1 | 2024-08-20 23:35:05+00:00 | 4537 | 8 | AutoIt | 3 | [] |
