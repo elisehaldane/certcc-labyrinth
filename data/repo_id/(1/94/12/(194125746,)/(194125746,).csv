@@ -37,9 +37,9 @@ repo_id,repo_full_name,file,file_sha1,match
 194125746,oxagast/oxasploits,exploits/Research/rexroth_coardless_netrunner/NxFw-V1300-SP1.zip,71baceb421a6da42dc482a8e90a7f9a49eaa53c9,VU#71
 194125746,oxagast/oxasploits,exploits/Research/rexroth_coardless_netrunner/NxFw-V1300-SP1.zip,71baceb421a6da42dc482a8e90a7f9a49eaa53c9,VU#80
 194125746,oxagast/oxasploits,exploits/Research/rexroth_coardless_netrunner/NxFw-V1300-SP1.zip,71baceb421a6da42dc482a8e90a7f9a49eaa53c9,VU#30
-194125746,oxagast/oxasploits,exploits/CVE-2023-48251/bosche_netrunner_rce.rb,8d70e30904a6d08c1e0c08bdb8781221b7fe75fa,CVE-2023-48251
 194125746,oxagast/oxasploits,notes/CVE-2023-38941/requirements.txt,8ea2dbb8e3e761d3bbed9e01418fdb931b7065f0,CVE-2023-38941
 194125746,oxagast/oxasploits,exploits/CVE-2016-10401/pk5001z00pin.c,9c347fd8177e8c8505842512ff8b325e9634af48,CVE-2016-10401
+194125746,oxagast/oxasploits,exploits/CVE-2023-48251/bosche_netrunner_rce.rb,b0acf6e40dfbf5479a89036b10a3e82917b6ed94,CVE-2023-48251
 194125746,oxagast/oxasploits,tools/punchbug/build/loader/loader.pkg,bdd0d873ad0b329bf0aab57ec10d94c38bddeb07,VU#89
 194125746,oxagast/oxasploits,tools/punchbug/dist/loader.exe,bfaa2f8167f689eca8e26f87bffe6425c04495b3,VU#89
 194125746,oxagast/oxasploits,notes/CVE-2023-38941/install-help.txt,c2ada1905f9ceb9388760585c893d6e8f15f2883,CVE-2023-38941
