@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/21
     
-177 records found after deduplication
+180 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -31,6 +31,7 @@
 | sha0coder/scemu | x86 malware emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2024-08-21 16:12:51+00:00 | 52531 | 189 | Rust | 25 | [] |
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2024-08-21 14:47:09+00:00 | 1036 | 4 | | 2 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-08-21 18:10:58+00:00 | 10935 | 32 | HTML | 4 | [] |
+| awslabs/aws-codeseeder | The aws-codeseeder project enables builders to easily "seed" python code to AWS CodeBuild for remote execution in their cloud environments. | https://github.com/awslabs/aws-codeseeder | ['remote code execution'] | 1 | 2024-08-21 17:34:30+00:00 | 773 | 36 | Python | 9 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-08-21 14:35:22+00:00 | 363449 | 6387 | HTML | 808 | [] |
 | johnnadamm/exploits | None | https://github.com/johnnadamm/exploits | ['exploit'] | 1 | 2024-08-21 09:16:29+00:00 | 2383 | 0 | | 0 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-08-21 00:12:06+00:00 | 10075 | 0 | | 1 | [] |
@@ -110,9 +111,10 @@
 | roddux/ixode | exploit for some stupid n_gsm bug | https://github.com/roddux/ixode | ['exploit'] | 1 | 2024-08-21 11:03:28+00:00 | 21 | 0 | C | 0 | [] |
 | TimboFimbo/HackyHacky_JoyJoy | A puzzle game about exploiting software vulnerabilities | https://github.com/TimboFimbo/HackyHacky_JoyJoy | ['exploit'] | 1 | 2024-08-21 13:55:20+00:00 | 9519 | 0 | C# | 0 | [] |
 | Oblivionxz/OblivLdr_sRDI | My Implementation for shellcode Reflective Dll Injection | https://github.com/Oblivionxz/OblivLdr_sRDI | ['shellcode'] | 1 | 2024-08-21 01:51:54+00:00 | 27 | 2 | C | 0 | [] |
+| sharvil-lade/Remote-Code-Execution-Engine | None | https://github.com/sharvil-lade/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2024-08-21 19:20:33+00:00 | 4835 | 0 | JavaScript | 0 | [] |
 | qwerty-po/kernel_exploit_modules | None | https://github.com/qwerty-po/kernel_exploit_modules | ['exploit'] | 1 | 2024-08-21 09:38:13+00:00 | 39 | 1 | C | 0 | [] |
 | AllenJustine/Exploiting-the-Log4j-Vulnerability-A-Step-by-Step-Guide | None | https://github.com/AllenJustine/Exploiting-the-Log4j-Vulnerability-A-Step-by-Step-Guide | ['exploit'] | 1 | 2024-08-21 22:24:05+00:00 | 10 | 0 | | 0 | [] |
-| KhachikAstoyan/rce | RCE stands for remote code execution engine | https://github.com/KhachikAstoyan/rce | ['rce'] | 1 | 2024-08-21 22:03:25+00:00 | 408 | 1 | TypeScript | 0 | [] |
+| KhachikAstoyan/rce | RCE stands for remote code execution engine | https://github.com/KhachikAstoyan/rce | ['rce', 'remote code execution'] | 2 | 2024-08-21 22:03:25+00:00 | 408 | 1 | TypeScript | 0 | [] |
 | ToolKitHub/rce-images | RCE runtime environment for running user code. | https://github.com/ToolKitHub/rce-images | ['rce'] | 1 | 2024-08-21 01:19:02+00:00 | 11281 | 0 | Nix | 0 | [] |
 | ToolKitHub/rce-engine | An engine for running untrusted code inside transient docker containers. | https://github.com/ToolKitHub/rce-engine | ['rce'] | 1 | 2024-08-21 02:11:26+00:00 | 78 | 1 | Rust | 0 | [] |
 | lorispuchol/rainfall | Dive into reverse engineering by exploiting executable files to reconstruct and comprehend code, as well as identify breaches. | https://github.com/lorispuchol/rainfall | ['exploit'] | 1 | 2024-08-21 09:41:16+00:00 | 44 | 0 | C | 0 | [] |
@@ -123,10 +125,11 @@
 | FergusGarcia/Slient-URL-Exploit | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/FergusGarcia/Slient-URL-Exploit | ['exploit'] | 1 | 2024-08-21 05:54:05+00:00 | 1086 | 0 | C# | 0 | [] |
 | FergusGarcia/Discord-Image-Logger-Stealer | Ephemeral discourse is embodied by the likes of Messenger Sessions, the digital portraits of Accounts, and the enigmatic Token | https://github.com/FergusGarcia/Discord-Image-Logger-Stealer | ['exploit'] | 1 | 2024-08-21 05:57:04+00:00 | 428 | 0 | C# | 0 | [] |
 | FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | Photo Exploit Builder | https://github.com/FergusGarcia/JPG-PNG-Exploit-Slient-Builder-Exploit | ['exploit'] | 1 | 2024-08-21 05:59:53+00:00 | 710 | 0 | C++ | 0 | [] |
-| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-21 05:09:34+00:00 | 269 | 0 | C# | 0 | [] |
+| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-08-21 05:58:55+00:00 | 271 | 0 | C# | 0 | [] |
 | IChres/FiveM-External-Cheat | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It is completely undetectable. | https://github.com/IChres/FiveM-External-Cheat | ['exploit'] | 1 | 2024-08-21 05:55:08+00:00 | 4507 | 0 | C++ | 0 | [] |
 | IChres/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It includes a KeyAuth system for additional security and user management. The cheat is designed to be undetectabl | https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2024-08-21 05:56:44+00:00 | 9809 | 0 | C | 0 | [] |
 | cole-bauml/duolingo-hacks | Advanced and maintained Duolingo hacks. Formerly cole-bauml/duolingo-xp-hack. | https://github.com/cole-bauml/duolingo-hacks | ['exploit'] | 1 | 2024-08-21 12:01:18+00:00 | 1388 | 3 | JavaScript | 20 | [] |
+| simonisHereHelp/copilot_todo_zeroday | nan | https://github.com/simonisHereHelp/copilot_todo_zeroday | ['zeroday'] | 1 | 2024-08-21 23:08:42+00:00 | 510 | 0 | TypeScript | 0 | [] |
 | iamafnankhan/food_ecomm3rce | None | https://github.com/iamafnankhan/food_ecomm3rce | ['rce'] | 1 | 2024-08-21 09:28:13+00:00 | 15795 | 0 | Blade | 0 | [] |
 | tashitams/winrar-exploit | None | https://github.com/tashitams/winrar-exploit | ['exploit'] | 1 | 2024-08-21 13:34:33+00:00 | 176 | 0 | Python | 0 | [] |
 | DevEclipse1/slacklib_v2_roblox | drawing library for roblox exploits, strictly for educational purposes only! | https://github.com/DevEclipse1/slacklib_v2_roblox | ['exploit'] | 1 | 2024-08-21 17:11:23+00:00 | 146 | 0 | Lua | 0 | [] |
@@ -177,7 +180,7 @@
 | securelayer7/CVE-2024-22263_Scanner | (CVE-2024-22263) Spring Cloud Dataflow Arbitrary File Writing Scanner | https://github.com/securelayer7/CVE-2024-22263_Scanner | ['cve-2 OR cve_2'] | 1 | 2024-08-21 20:08:25+00:00 | 6 | 0 | Python | 0 | ['CVE-2024-22263'] |
 | BSidesTriad/Exploits | A collection of various exploits, written in various languages. And just like our other repos, contribution is welcomed. | https://github.com/BSidesTriad/Exploits | ['exploit'] | 1 | 2024-08-21 21:51:53+00:00 | 33 | 0 | Python | 0 | [] |
 | BitcoinChatGPT/Jacobian-Curve-Vulnerability-Algorithm | Discover the implications of the Jacobian Curve vulnerability in elliptic curve cryptography, particularly its impact on the Elliptic Curve Digital Signature Algorithm (ECDSA). This article explores how attackers can exploit this flaw to generate fraudulen | https://github.com/BitcoinChatGPT/Jacobian-Curve-Vulnerability-Algorithm | ['exploit'] | 1 | 2024-08-21 22:12:35+00:00 | 1806 | 0 | Jupyter Notebook | 0 | [] |
-| jofpin/IFA | PoC exposing a critical IndexedDB vulnerability that enables a disk flooding attack by exploiting the lack of restrictions. | https://github.com/jofpin/IFA | ['exploit', 'vulnerability poc'] | 2 | 2024-08-21 23:11:48+00:00 | 1182 | 2 | JavaScript | 0 | [] |
+| jofpin/IFA | PoC exposing a critical IndexedDB vulnerability that enables a disk flooding attack by exploiting the lack of restrictions. | https://github.com/jofpin/IFA | ['attack poc', 'exploit', 'vulnerability poc'] | 3 | 2024-08-21 23:11:48+00:00 | 1182 | 2 | JavaScript | 0 | [] |
 | codingcore14/PDF-SILENT-EXPLOIT-CLEAN-zs | None | https://github.com/codingcore14/PDF-SILENT-EXPLOIT-CLEAN-zs | ['exploit'] | 1 | 2024-08-21 23:12:02+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/DOC-SILENT-EXPLOIT-CLEAN-zs | None | https://github.com/codingcore14/DOC-SILENT-EXPLOIT-CLEAN-zs | ['exploit'] | 1 | 2024-08-21 23:12:46+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-zs | None | https://github.com/codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-zs | ['exploit'] | 1 | 2024-08-21 23:13:39+00:00 | 2 | 1 | | 0 | [] |
