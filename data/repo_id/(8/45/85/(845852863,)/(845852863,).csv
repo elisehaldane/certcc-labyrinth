@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+845852863,zaneoblaneo/cve_2024_38063_research,apps/cve_2024_38063_poc_take_1/Cargo.toml,38b83f775087a89274cc65003f07109b9b5ea9db,CVE-2024-38063
+845852863,zaneoblaneo/cve_2024_38063_research,README.md,87ca4c156bd9bd94545e50b3ca27d4032c522a3c,CVE-2024-38063
+845852863,zaneoblaneo/cve_2024_38063_research,apps/cve_2024_38063_poc_take_1/src/main.rs,b1713adaf16c3f6c66a004116b83cd15d88d2fd6,CVE-2024-38063
+845852863,zaneoblaneo/cve_2024_38063_research,_GITHUB_REPO_METADATA_,,CVE-2024-38063
