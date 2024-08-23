@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+563424783,srcporter/CVE-2021-44228,README.md,09d63e20abea0a9e89222949fc399d44af5f2f30,CVE-2021-44228
+563424783,srcporter/CVE-2021-44228,src/main/java/com/example/demo/DemoApplication.java,254fc3f5c7c7269f39c6986d90e4aef259a7e7fe,CVE-2021-44228
+563424783,srcporter/CVE-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
