@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#37,1.00000000,https://github.com/wave-exploit/Wave,wave-exploit/Wave,833028020
+VU#37,1.00000000,https://github.com/MicheleCovi/Java_RMI_Vulnerability_Exploitation_Report_MicheleCovi.docx,MicheleCovi/Java_RMI_Vulnerability_Exploitation_Report_MicheleCovi.docx,805352110
 VU#37,1.00000000,https://github.com/GigglyGiggle/FhackMain,GigglyGiggle/FhackMain,615052152
 VU#37,1.00000000,https://github.com/Enelg52/KittyStager,Enelg52/KittyStager,548910923
 VU#37,1.00000000,https://github.com/mousepad01/exploitation_workbench,mousepad01/exploitation_workbench,525278770
@@ -169,6 +170,7 @@ VU#37,0.06250000,https://github.com/AnonymousMonke12/Updated-ExlinSploit,Anonymo
 VU#37,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#37,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#37,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#37,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
 VU#37,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
 VU#37,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#37,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
