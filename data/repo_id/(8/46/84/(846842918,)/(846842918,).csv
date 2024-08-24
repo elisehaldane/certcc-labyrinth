@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+846842918,AabyssZG/Chrome-RCE-Poc,README.md,76f281adbdb49d0b41199dd4d829a7bd40bd0fb2,CVE-2024-2887
+846842918,AabyssZG/Chrome-RCE-Poc,poc.js,f584320e1f86035a8130a3cf5d359dc7a3929c9c,CVE-2024-2887
