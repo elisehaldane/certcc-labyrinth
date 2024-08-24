@@ -143,6 +143,7 @@ VU#09,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-309
 VU#09,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#09,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#09,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
+VU#09,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
 VU#09,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#09,0.06250000,https://github.com/CLARKBENHAM/sep_finetune_llm,CLARKBENHAM/sep_finetune_llm,720223198
 VU#09,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
@@ -546,6 +547,7 @@ VU#09,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#09,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#09,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#09,0.00018751,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#09,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#09,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#09,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#09,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
