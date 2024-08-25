@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+847072591,thefizzyfish/CVE-2023-50564-pluck,CVE-2023-50564.py,290c579086f56dca80d2fb5478ed5bcfeae498bb,CVE-2023-50564
+847072591,thefizzyfish/CVE-2023-50564-pluck,README.md,bb41f07c59d38a77d71d5a60cd8861661ca243eb,CVE-2023-50564
+847072591,thefizzyfish/CVE-2023-50564-pluck,_GITHUB_REPO_METADATA_,,CVE-2023-50564
