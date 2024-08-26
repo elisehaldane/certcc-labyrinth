@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-846999955,haroonawanofficial/CVE-2024-38063-Research-Tool,readme.md,ae7ac0af4f0df8b66a30464adbeb97be6762094d,CVE-2024-38063
+846999955,haroonawanofficial/CVE-2024-38063-Research-Tool,packetmanipulation_adv.pl,0e73c8f0d5642abdb0713f2f21b3c654a3e5491a,CVE-2024-38063
+846999955,haroonawanofficial/CVE-2024-38063-Research-Tool,readme.md,a8c4b68d1c3f5536946df51fd1c633a1b28ec2e8,CVE-2024-38063
 846999955,haroonawanofficial/CVE-2024-38063-Research-Tool,packetmanipulation.pl,c79465705411e9c7b3b697447ee13cc44a8c4eac,CVE-2024-38063
 846999955,haroonawanofficial/CVE-2024-38063-Research-Tool,_GITHUB_REPO_METADATA_,,CVE-2024-38063
