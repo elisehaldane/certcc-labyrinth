@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+847582059,laxmiyamkolu/SUDO-privilege-escalation,Lab Manual SUDO Privilege ESCALATION in LINUX.docx,090594cfd6b65d1fb3b052179d12aaefae9074bd,VU#55
+847582059,laxmiyamkolu/SUDO-privilege-escalation,README.md,aafb818e545a3cb3a2170ce603ba771234b00b5b,CVE-2023-22809
+847582059,laxmiyamkolu/SUDO-privilege-escalation,_GITHUB_REPO_METADATA_,,CVE-2023-22809
