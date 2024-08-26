@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+796882501,pxcs/CrackMacExpo,osxectory/src/CVE-2015-5889.py,0a9498720e35e40fda72badb33f144d13e41db7c,CVE-2015-5889
+796882501,pxcs/CrackMacExpo,src/server/modules/server/CVE-2015-5889.py,0b3c5d2302d84c572a51d9cea604de1739c7fbc1,CVE-2015-5889
+796882501,pxcs/CrackMacExpo,recon/crackmacexpo-recon/meterpreter/source/extensions/python/Modules/_ssl.c,188e7b049ee14b5765fb18bdb0db2cc0ecc49ab4,CVE-2013-4238
+796882501,pxcs/CrackMacExpo,src/server/modules/bot/CVE-2015-5889.py,341d62fa13ec0df8c6d19948c1418fa64d395925,CVE-2015-5889
+796882501,pxcs/CrackMacExpo,recon/src/java/javapayload/README.md,4beb3bda412a885687c1c4f91ca271b676f0d333,CVE-2008-5353
+796882501,pxcs/CrackMacExpo,recon/crackmacexpo-recon/meterpreter/source/extensions/kiwi/mimikatz/mimikatz/modules/kuhl_m_lsadump.c,9a3852b2c2700a8787a7fcaa02513928c859d02a,CVE-2020-1472
+796882501,pxcs/CrackMacExpo,src/server/modules/bot/CVE-2020-3950.py,c05ba6783fa585a122dbdeb3379483f55035c41d,CVE-2020-3950
+796882501,pxcs/CrackMacExpo,src/server/modules/server/CVE-2020-3950.py,c278422cf7eb1417cb0712b7fc1c1d7f5c39ff8e,CVE-2020-3950
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#05
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#18
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#19
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#25
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#29
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#291
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#34
+796882501,pxcs/CrackMacExpo,src/rubella/payloads/payloads.txt,d78a9d77cd9ff64d753fe51d4355afc0a432947c,VU#8853
