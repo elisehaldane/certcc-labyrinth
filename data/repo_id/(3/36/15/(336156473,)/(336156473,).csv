@@ -12,6 +12,8 @@ repo_id,repo_full_name,file,file_sha1,match
 336156473,exploit-haxor/webshell,mydb.php,48e26febd904f4781e0c71b3bacd0ad40c0df306,VU#21
 336156473,exploit-haxor/webshell,mydb.php,48e26febd904f4781e0c71b3bacd0ad40c0df306,VU#14
 336156473,exploit-haxor/webshell,dp_crypto.py,6bd0506cdef5eebeb4a1126d8cf8fa1d5b5048fc,CVE-2017-9248
+336156473,exploit-haxor/webshell,shell,6f49ca662cc57565894fe614069e1065bbe6fd4c,VU#21
+336156473,exploit-haxor/webshell,shell,6f49ca662cc57565894fe614069e1065bbe6fd4c,VU#291
 336156473,exploit-haxor/webshell,rave.txt,844ce00775d2b3c8bf333bc11542481407da872d,VU#25
 336156473,exploit-haxor/webshell,rave.txt,844ce00775d2b3c8bf333bc11542481407da872d,VU#14
 336156473,exploit-haxor/webshell,rave.txt,844ce00775d2b3c8bf333bc11542481407da872d,VU#29
