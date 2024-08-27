@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+848332085,God4n/nextjs-CVE-2024-34351-_exploit,README.md,1d5fbe3d0c62261a2ea065ca1038cfd5e45ced14,CVE-2024-34351
+848332085,God4n/nextjs-CVE-2024-34351-_exploit,README.md,1d5fbe3d0c62261a2ea065ca1038cfd5e45ced14,GHSA-FR5H-RQP8-MJ6G
+848332085,God4n/nextjs-CVE-2024-34351-_exploit,_GITHUB_REPO_METADATA_,,CVE-2024-34351
