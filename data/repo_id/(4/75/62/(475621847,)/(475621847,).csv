@@ -20,11 +20,11 @@ repo_id,repo_full_name,file,file_sha1,match
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week6/PPT/IntegralsAppliedElectronicsPart3.pptx,152c5169b0c2a3599efbc73c6d021a0d8b387bd4,VU#58
 475621847,leistimo/RCET_ThirdSemester,RCET2253/old/Lab 1/References/AFG1022-Quick-Start-User-Manual-EN.pdf,17320792cbc5dcdf4e5884ed57375dfd7b2ecab0,VU#74
 475621847,leistimo/RCET_ThirdSemester,RCET2253/TestEquipment/References/AFG1022UserManual.pdf,17320792cbc5dcdf4e5884ed57375dfd7b2ecab0,VU#65
+475621847,leistimo/RCET_ThirdSemester,RCET2251/RCET_3rdTheoryBook.pdf,22859eba9093c0361ca4f8f3185936f0d8569494,VU#28
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week1/PPT/DerivativeExamplesPart2.pptx,2326235d04a7fb354e71e6cb1552ae4eb81d5f7d,VU#10
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week1/PPT/DerivativeExamplesPart2.pptx,2326235d04a7fb354e71e6cb1552ae4eb81d5f7d,VU#98
 475621847,leistimo/RCET_ThirdSemester,RCET2251/PowerTopologiesQuickReferenceGuide.pdf,26c17c354e9ac4ab3bcdea2584a78036075f5f13,VU#98
 475621847,leistimo/RCET_ThirdSemester,RCET2251/PowerTopologiesQuickReferenceGuide.pdf,26c17c354e9ac4ab3bcdea2584a78036075f5f13,VU#1111
-475621847,leistimo/RCET_ThirdSemester,RCET2251/OLD/RCET_3rdTheoryBook.pdf,30e60b959fc1d97cc97ca0db9c9e9c26faa85921,VU#28
 475621847,leistimo/RCET_ThirdSemester,RCET2253/TestEquipment/References/SG5218SineSquareAudioGenerator.pdf,3631b9ccf6e6a1ad33a9289246b7932324357cf8,VU#99
 475621847,leistimo/RCET_ThirdSemester,RCET2253/old/Lab 1/References/SG-5218 Sine-Square Audio Generator.pdf,3631b9ccf6e6a1ad33a9289246b7932324357cf8,VU#08
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week8/PPT/ParabolasAppliedEx1.pptx,38481e502ea47dfbf814027d8de77954a8969b0c,VU#97
@@ -49,8 +49,8 @@ repo_id,repo_full_name,file,file_sha1,match
 475621847,leistimo/RCET_ThirdSemester,RCET2253/old/Lab 1/References/Tektronix TDS2024 Oscilloscope.PDF,5bf6dec9223c81cf7e71f9ef8bb69117e045be51,VU#04
 475621847,leistimo/RCET_ThirdSemester,RCET2253/old/Lab 1/References/Tektronix TDS2024 Oscilloscope.PDF,5bf6dec9223c81cf7e71f9ef8bb69117e045be51,VU#98
 475621847,leistimo/RCET_ThirdSemester,RCET2253/old/Lab 1/References/Tektronix TDS2024 Oscilloscope.PDF,5bf6dec9223c81cf7e71f9ef8bb69117e045be51,VU#89
-475621847,leistimo/RCET_ThirdSemester,RCET1372/Week1/PPT/DerivativeExamplesProductRule.pptx,5eeeb49e7fc1029c0827da0287004f5749eda119,VU#52
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week1/PPT/DerivativeExamplesProductRule.pptx,5eeeb49e7fc1029c0827da0287004f5749eda119,VU#94
+475621847,leistimo/RCET_ThirdSemester,RCET1372/Week1/PPT/DerivativeExamplesProductRule.pptx,5eeeb49e7fc1029c0827da0287004f5749eda119,VU#52
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week3/PPT/DerivativesAppliedPart1.pptx,63960889512cfe181b83ca1093bf55edb79d7f0b,VU#65
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsAppliedPart1.pptx,6594b643bceebb8bee784157fe45eeaeabb182dc,VU#54
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsAppliedPart1.pptx,6594b643bceebb8bee784157fe45eeaeabb182dc,VU#43
@@ -62,8 +62,8 @@ repo_id,repo_full_name,file,file_sha1,match
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week7/PPT/LogarithmsAppliedElectronicsPart3.pptx,7032f15dc8264d8f0a847ab984263f1b500f3d30,VU#91
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart2.pptx,83be5e5ab03501048adc3a223d766807e37fc179,VU#91
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart2.pptx,83be5e5ab03501048adc3a223d766807e37fc179,VU#22
-475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart2.pptx,83be5e5ab03501048adc3a223d766807e37fc179,VU#66
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart2.pptx,83be5e5ab03501048adc3a223d766807e37fc179,VU#13
+475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart2.pptx,83be5e5ab03501048adc3a223d766807e37fc179,VU#66
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week10/PPT/MaxMinAppliedEx2.pptx,83c2a599f970ee951598cb340073b8721a540044,VU#97
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week10/PPT/MaxMinAppliedEx2.pptx,83c2a599f970ee951598cb340073b8721a540044,VU#01
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week10/PPT/MaxMinAppliedEx2.pptx,83c2a599f970ee951598cb340073b8721a540044,VU#24
@@ -126,6 +126,6 @@ repo_id,repo_full_name,file,file_sha1,match
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart1.pptx,ef5b88f6c5de2a0af00b23082c475f85daffbbbd,VU#66
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week5/PPT/IntegralsPart1.pptx,ef5b88f6c5de2a0af00b23082c475f85daffbbbd,VU#34
 475621847,leistimo/RCET_ThirdSemester,RCET2253/TestEquipment/References/TektronixFFT.pdf,ef63989f74d407df07c3e4c5aaa6f6d780a6af36,VU#86
-475621847,leistimo/RCET_ThirdSemester,RCET2251/RCET_3rdTheoryBook.pdf,f5885b13755f893a69ae1a53498f51f40c81d525,VU#28
+475621847,leistimo/RCET_ThirdSemester,RCET2251/OLD/RCET_3rdTheoryBook.pdf,f5885b13755f893a69ae1a53498f51f40c81d525,VU#28
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week6/PPT/IntegralsAppliedElectronicsPart1.pptx,fc35b3726924b1b17796bfb9e92f2f9f4e5b1908,VU#622
 475621847,leistimo/RCET_ThirdSemester,RCET1372/Week6/PPT/IntegralsAppliedElectronicsPart1.pptx,fc35b3726924b1b17796bfb9e92f2f9f4e5b1908,VU#62
