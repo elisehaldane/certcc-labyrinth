@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-848016259,thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26,README.md,fc87fafc53794e90793818cd39148fe75147469c,CVE-2024-25641
-848016259,thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26,README.md,fc87fafc53794e90793818cd39148fe75147469c,GHSA-7CMJ-G5QC-PJ88
+848016259,thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26,README.md,5f23fb9249e85d61dc22871ec7f6d486f1c39ac2,CVE-2024-25641
+848016259,thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26,README.md,5f23fb9249e85d61dc22871ec7f6d486f1c39ac2,GHSA-7CMJ-G5QC-PJ88
 848016259,thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26,_GITHUB_REPO_METADATA_,,CVE-2024-25641
