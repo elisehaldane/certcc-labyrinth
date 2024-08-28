@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/undici/lib/llhttp/llhttp-wasm.js,0e9bacd334ada7848cb3e6183517813c09a83966,VU#19
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/undici/lib/llhttp/llhttp-wasm.js,0e9bacd334ada7848cb3e6183517813c09a83966,VU#29
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/axios/CHANGELOG.md,5c7ef3df8874077420d8065038df2af4d21c631d,CVE-2023-45857
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/axios/CHANGELOG.md,5c7ef3df8874077420d8065038df2af4d21c631d,CVE-2024-39338
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/undici/lib/llhttp/llhttp_simd-wasm.js,9f7b32c0ff4b9f42ef5d42fb6d11cb9a348adf73,VU#19
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/undici/lib/llhttp/llhttp_simd-wasm.js,9f7b32c0ff4b9f42ef5d42fb6d11cb9a348adf73,VU#29
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/@types/node/crypto.d.ts,c12e4cf455398b4f9bb62ed3e7bff4de3066b13e,CVE-2021-44532
+848614319,Nic-Tech-Bots/ExploitUpdateTrackerBot,node_modules/@types/node/tls.d.ts,c9b7428c0246be46ac3cc53086ba2ea8e70b4773,CVE-2021-44531
