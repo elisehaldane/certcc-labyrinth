@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+846725221,convisolabs/CVE-2024-43044-jenkins,README.md,48e4c8d9e1c260fbc4bc2b0eec90983e6accaa5d,CVE-2024-43044
+846725221,convisolabs/CVE-2024-43044-jenkins,pom.xml,f8e468f7b293d967fcf9ba214231362af78fcd84,CVE-2024-43044
+846725221,convisolabs/CVE-2024-43044-jenkins,_GITHUB_REPO_METADATA_,,CVE-2024-43044
