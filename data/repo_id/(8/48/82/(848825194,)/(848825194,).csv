@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-848825194,identity-threat-labs/CVE-2024-6387-Vulnerability-Checker,README.md,bd5a98e4b5eada98405d72f5242fec8c4a5a34aa,CVE-2024-6387
+848825194,identity-threat-labs/CVE-2024-6387-Vulnerability-Checker,CVE-2024-6387-Vulnerability-Checker.py,4b62e095e92f485097f3eed16cee4fde09872714,CVE-2024-6387
+848825194,identity-threat-labs/CVE-2024-6387-Vulnerability-Checker,README.md,8d1fbaf633d34ada91004c864301fbec9779ec4f,CVE-2024-6387
 848825194,identity-threat-labs/CVE-2024-6387-Vulnerability-Checker,_GITHUB_REPO_METADATA_,,CVE-2024-6387
