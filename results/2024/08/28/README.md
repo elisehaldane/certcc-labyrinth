@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/28
     
-163 records found after deduplication
+164 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -119,6 +119,7 @@
 | luanrenek/Lunar-Executor | Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features. | https://github.com/luanrenek/Lunar-Executor | ['exploit'] | 1 | 2024-08-28 05:55:13+00:00 | 85 | 28 | Lua | 0 | [] |
 | Th3Tr1ckst3r/CVE-2024-38063 | CVE-2024-38063 research so you don't have to. | https://github.com/Th3Tr1ckst3r/CVE-2024-38063 | ['cve-2 OR cve_2'] | 1 | 2024-08-28 07:47:07+00:00 | 18 | 1 | | 0 | ['CVE-2024-38063'] |
 | Changissnz/vehicle_hacking__TheRussianPerspective | Probable generation of a Russian agent's account of their days of exploiting car-hacking | https://github.com/Changissnz/vehicle_hacking__TheRussianPerspective | ['exploit'] | 1 | 2024-08-28 18:23:29+00:00 | 145 | 0 | | 0 | [] |
+| nicholasaleks/MavSploit | MavSploit is an advanced penetration testing tool designed specifically for identifying and exploiting vulnerabilities within the MAVLink communication protocol, commonly used in drones and UAV systems | https://github.com/nicholasaleks/MavSploit | ['exploit', 'sploit'] | 2 | 2024-08-28 13:58:29+00:00 | 590 | 0 | Python | 0 | [] |
 | VanishedPeople/CVE-2023-4220 | None | https://github.com/VanishedPeople/CVE-2023-4220 | ['cve-2 OR cve_2'] | 1 | 2024-08-28 06:54:27+00:00 | 19 | 0 | Python | 0 | ['CVE-2023-4220'] |
 | pjobsina/RiteCMS-2.0-Exploit-RCE | A one liner Remote Code Execution python script to exploit RiteCMS 2.0 | https://github.com/pjobsina/RiteCMS-2.0-Exploit-RCE | ['exploit', 'rce', 'remote code execution'] | 3 | 2024-08-28 12:41:43+00:00 | 17 | 1 | Python | 0 | [] |
 | EQSTLab/CVE-2024-5932 | Proof-of-Concept for CVE-2024-5932 | https://github.com/EQSTLab/CVE-2024-5932 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2024-08-28 10:19:41+00:00 | 148 | 20 | Python | 4 | ['CVE-2024-5932'] |
@@ -144,7 +145,7 @@
 | aztec-eagle/cve-2016-20012 | None | https://github.com/aztec-eagle/cve-2016-20012 | ['cve-2 OR cve_2'] | 1 | 2024-08-28 03:19:01+00:00 | 1 | 0 | Python | 0 | ['CVE-2016-20012'] |
 | BBD-YZZ/CVE-2024-38856-RCE | None | https://github.com/BBD-YZZ/CVE-2024-38856-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-08-28 03:17:51+00:00 | 0 | 0 | | 0 | ['CVE-2024-38856'] |
 | Nic-Tech-Bots/ExploitUpdateTrackerBot | A Discord bot that provides real-time updates on Roblox executors its open source feel free to view the source code or fork, also it use Discord.js and AxiOS | https://github.com/Nic-Tech-Bots/ExploitUpdateTrackerBot | ['exploit'] | 1 | 2024-08-28 05:10:48+00:00 | 3272 | 1 | JavaScript | 0 | [] |
-| Lt-Official/SessionSploit | SessionSploit | https://github.com/Lt-Official/SessionSploit | ['sploit'] | 1 | 2024-08-28 05:05:36+00:00 | 0 | 0 | nan | 0 | [] |
+| Lt-Official/SessionSploit | SessionSploit | https://github.com/Lt-Official/SessionSploit | ['sploit'] | 1 | 2024-08-28 05:05:36+00:00 | 0 | 0 | | 0 | [] |
 | m1erphy/CVE-2022-20073 | arbitrary file upload em routers cisco com payloads encodificados para bypassar proteções XSS-PROTECTION e CSP. | https://github.com/m1erphy/CVE-2022-20073 | ['cve-2 OR cve_2'] | 1 | 2024-08-28 07:40:46+00:00 | 9 | 0 | Python | 0 | ['CVE-2022-20073'] |
 | Rohan-Thapa/Exploit_Linux_Tasks | This was the task of developing the exploit of the executable files of Linux. | https://github.com/Rohan-Thapa/Exploit_Linux_Tasks | ['exploit'] | 1 | 2024-08-28 08:21:36+00:00 | 589 | 0 | Python | 0 | [] |
 | zenzue/CVE-2024-38063-POC | potential memory corruption vulnerabilities in IPv6 networks. | https://github.com/zenzue/CVE-2024-38063-POC | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2024-08-28 09:02:59+00:00 | 6 | 0 | Python | 0 | ['CVE-2024-38063'] |
