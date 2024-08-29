@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS15-134,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS15-134,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS15-134,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
+MS15-134,0.00800000,https://github.com/eymenaslan79/ExploitHunt,eymenaslan79/ExploitHunt,849218694
 MS15-134,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
 MS15-134,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS15-134,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
