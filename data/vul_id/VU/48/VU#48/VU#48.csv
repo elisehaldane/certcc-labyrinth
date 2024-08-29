@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#48,1.00000000,https://github.com/yyxRoy/tcp-exploit-reports,yyxRoy/tcp-exploit-reports,622087152
 VU#48,1.00000000,https://github.com/LukasNad/vulnerable-software-in-your-pocket,LukasNad/vulnerable-software-in-your-pocket,571947496
-VU#48,1.00000000,https://github.com/rcesarpacheco/rcesarpacheco.github.io,rcesarpacheco/rcesarpacheco.github.io,527810294
 VU#48,1.00000000,https://github.com/yxwang1794/RCE-GAN,yxwang1794/RCE-GAN,445027138
 VU#48,1.00000000,https://github.com/imabadhacker/LOLexploit,imabadhacker/LOLexploit,417917400
 VU#48,0.50000000,https://github.com/toanln-cov/CVE-2023-36845,toanln-cov/CVE-2023-36845,697223244
@@ -25,6 +24,7 @@ VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_
 VU#48,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
 VU#48,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
 VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
+VU#48,0.20000000,https://github.com/rcesarpacheco/rcesarpacheco.github.io,rcesarpacheco/rcesarpacheco.github.io,527810294
 VU#48,0.16666667,https://github.com/rezagoodarzi/QLearning_Cliff_walking,rezagoodarzi/QLearning_Cliff_walking,778704995
 VU#48,0.16666667,https://github.com/Madhavaprasath23/Attentionexploitation,Madhavaprasath23/Attentionexploitation,747095597
 VU#48,0.16666667,https://github.com/FlR0X/roblox-script-archive,FlR0X/roblox-script-archive,556678373
@@ -185,7 +185,6 @@ VU#48,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#48,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#48,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#48,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
-VU#48,0.01449275,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#48,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#48,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#48,0.01408451,https://github.com/wjl110/CVE-Master,wjl110/CVE-Master,537680373
@@ -213,6 +212,7 @@ VU#48,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyuti
 VU#48,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#48,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#48,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#48,0.01219512,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#48,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#48,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#48,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
@@ -443,7 +443,7 @@ VU#48,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#48,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#48,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#48,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#48,0.00018737,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#48,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#48,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#48,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#48,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
@@ -456,7 +456,7 @@ VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000907,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#48,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#48,0.00000890,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00000888,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

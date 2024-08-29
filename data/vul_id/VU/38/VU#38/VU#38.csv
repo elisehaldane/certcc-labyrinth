@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#38,1.00000000,https://github.com/lananesvesta/exploit,lananesvesta/exploit,835422967
 VU#38,1.00000000,https://github.com/BMOLKAIST/AberrationMatrix,BMOLKAIST/AberrationMatrix,820261035
 VU#38,1.00000000,https://github.com/Nitchlol/Solara-Executor,Nitchlol/Solara-Executor,817845994
 VU#38,1.00000000,https://github.com/Peakscriptss/Krnl,Peakscriptss/Krnl,786642864
@@ -189,7 +190,6 @@ VU#38,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,5235
 VU#38,0.01515152,https://github.com/Rh077king/Exploiter,Rh077king/Exploiter,523280094
 VU#38,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#38,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
-VU#38,0.01449275,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#38,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#38,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#38,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -215,6 +215,7 @@ VU#38,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#38,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#38,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#38,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
+VU#38,0.01219512,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#38,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#38,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#38,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
@@ -449,7 +450,7 @@ VU#38,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#38,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#38,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#38,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#38,0.00018737,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#38,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#38,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
