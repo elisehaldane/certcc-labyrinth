@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+849722373,mellow-hype/cve-2024-20017,README.md,2ebfcecb548d948b43299b0779104cddad129892,CVE-2024-20017
+849722373,mellow-hype/cve-2024-20017,x86_64/x86_64_full_relro.py,7bc52afeecf7be1dfaf98a008960c810f75079e7,CVE-2024-20017
+849722373,mellow-hype/cve-2024-20017,x86_64/x86_64_partial_relro_got.py,8bfe60f9a05f984cf50010a24cd7ab2ed8ab0090,CVE-2024-20017
+849722373,mellow-hype/cve-2024-20017,WAX206-aarch64/wax-rip-system-rop.py,968f135f25217134c3eaf07b43a4258597bb370b,CVE-2024-20017
+849722373,mellow-hype/cve-2024-20017,_GITHUB_REPO_METADATA_,,CVE-2024-20017
