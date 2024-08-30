@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#06,1.00000000,https://github.com/AymanRbati/appsec-scripts,AymanRbati/appsec-scripts,519871096
 VU#06,1.00000000,https://github.com/Codeta12/test,Codeta12/test,489149437
+VU#06,0.50000000,https://github.com/khushijain21200/XSS_Attack,khushijain21200/XSS_Attack,849318361
 VU#06,0.50000000,https://github.com/ZeusLost/Exploitmaker,ZeusLost/Exploitmaker,839833791
 VU#06,0.50000000,https://github.com/2k6k/Exter-Roblox-Exploit-V0.1,2k6k/Exter-Roblox-Exploit-V0.1,827463521
 VU#06,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981

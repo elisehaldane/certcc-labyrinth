@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-VHRW-72F6-GWP5,0.00082372,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-VHRW-72F6-GWP5,0.00082034,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-VHRW-72F6-GWP5,0.00000907,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-VHRW-72F6-GWP5,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
 GHSA-VHRW-72F6-GWP5,0.00000887,https://github.com/trickest/cve,trickest/cve,454015416
