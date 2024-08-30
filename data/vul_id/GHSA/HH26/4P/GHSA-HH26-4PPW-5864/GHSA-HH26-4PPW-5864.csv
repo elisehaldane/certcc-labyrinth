@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HH26-4PPW-5864,0.00000907,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-HH26-4PPW-5864,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-HH26-4PPW-5864,0.00000888,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-HH26-4PPW-5864,0.00000887,https://github.com/trickest/cve,trickest/cve,454015416
