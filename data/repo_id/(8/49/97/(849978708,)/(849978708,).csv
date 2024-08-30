@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+849978708,Sharkkcode/CVE_2024_6239_slide,20240831.pdf,3aff0b46fb1cffd18e4b11549f30b445712ea98b,VU#40
+849978708,Sharkkcode/CVE_2024_6239_slide,20240831.pdf,3aff0b46fb1cffd18e4b11549f30b445712ea98b,VU#74
+849978708,Sharkkcode/CVE_2024_6239_slide,20240831.pdf,3aff0b46fb1cffd18e4b11549f30b445712ea98b,VU#88
+849978708,Sharkkcode/CVE_2024_6239_slide,_GITHUB_REPO_METADATA_,,CVE-2024-6239
