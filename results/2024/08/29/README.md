@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/29
     
-148 records found after deduplication
+149 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -153,3 +153,4 @@
 | txng/Metasploitable-2-in-VirtualBox | None | https://github.com/txng/Metasploitable-2-in-VirtualBox | ['metasploit module OR payload'] | 1 | 2024-08-29 22:44:20+00:00 | 692 | 0 | | 0 | [] |
 | nimad70/VulRAG | Investigating the vulnerability of Large Language Models (LLMs) to misinformation in Retrieval-Augmented Generation (RAG) systems by poisoning vector databases and analyzing LLM responses to identify potential weaknesses and exploitation risks. | https://github.com/nimad70/VulRAG | ['exploit'] | 1 | 2024-08-29 22:26:48+00:00 | 16 | 0 | | 0 | [] |
 | kkalemkus3434/Hacken-von-Metasploitable2-mit-Kali-Linux_Teil_2 | None | https://github.com/kkalemkus3434/Hacken-von-Metasploitable2-mit-Kali-Linux_Teil_2 | ['metasploit module OR payload'] | 1 | 2024-08-29 22:47:39+00:00 | 0 | 0 | | 0 | [] |
+| bigherocenter/CVE-2024-7029-EXPLOIT | None | https://github.com/bigherocenter/CVE-2024-7029-EXPLOIT | ['cve-2 OR cve_2'] | 1 | 2024-08-29 17:41:35+00:00 | 3 | 0 | | 0 | ['CVE-2024-7029'] |
