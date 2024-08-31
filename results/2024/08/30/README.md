@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/30
     
-156 records found after deduplication
+157 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -36,6 +36,7 @@
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-08-30 00:59:44+00:00 | 1093 | 647 | Shell | 117 | [] |
 | Ostorlab/KEV | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | ['0day', 'exploit'] | 2 | 2024-08-30 16:02:49+00:00 | 1851 | 513 | | 31 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-08-30 05:10:04+00:00 | 215555 | 255 | Go | 57 | [] |
+| efchatz/WPAxFuzz | A full-featured open-source Wi-Fi fuzzer | https://github.com/efchatz/WPAxFuzz | ['exploit'] | 1 | 2024-08-30 13:31:49+00:00 | 441 | 171 | Python | 17 | [] |
 | edoardottt/awesome-hacker-search-engines | A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more | https://github.com/edoardottt/awesome-hacker-search-engines | ['exploit'] | 1 | 2024-08-30 07:29:51+00:00 | 581 | 7371 | Shell | 700 | [] |
 | etianl/Trouser-Streak | A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and update | https://github.com/etianl/Trouser-Streak | ['exploit'] | 1 | 2024-08-30 11:41:47+00:00 | 1825 | 145 | Java | 16 | [] |
 | kamalmjt/emerging-attackers | Emerging attacks is a blacklist of Malicious IPs that perform live attacks, the blacklist is updated every 24 hours. The blacklist includes any IP address that has performed port scans, brute force attacks, SQL injection attempts, LDAP, local or remote fil | https://github.com/kamalmjt/emerging-attackers | ['exploit'] | 1 | 2024-08-30 23:04:54+00:00 | 730 | 1 | | 0 | [] |
@@ -89,7 +90,7 @@
 | cispa/cascading-spy-sheets | This repository contains the artifact for our paper "Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Email and Browser Fingerprinting" published at NDSS 2025. | https://github.com/cispa/cascading-spy-sheets | ['exploit'] | 1 | 2024-08-30 10:07:22+00:00 | 17274 | 2 | HTML | 0 | [] |
 | DrYenyen/An-introduction-to-Exploits-Goldhen-and-PS4-Homebrew-for-beginners | An explanation about Goldhen, exploit compatability, PS4 downgrade conditions and other useful beginner information | https://github.com/DrYenyen/An-introduction-to-Exploits-Goldhen-and-PS4-Homebrew-for-beginners | ['exploit'] | 1 | 2024-08-30 18:31:47+00:00 | 68 | 6 | | 0 | [] |
 | 4n0nym4u5/CVE | Trying to farm some CVE's and post the PoC's here. | https://github.com/4n0nym4u5/CVE | ['cve poc'] | 1 | 2024-08-30 08:44:38+00:00 | 15 | 0 | | 0 | [] |
-| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-30 05:20:01+00:00 | 869 | 5 | C# | 0 | [] |
+| AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-30 05:56:50+00:00 | 869 | 5 | C# | 0 | [] |
 | l-urk/CVE-2024-6387 | Proof of concept python script for regreSSHion exploit. | https://github.com/l-urk/CVE-2024-6387 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-08-30 23:00:13+00:00 | 188 | 0 | Python | 0 | ['CVE-2024-6387'] |
 | DezrannCAS/Exploit_RL | None | https://github.com/DezrannCAS/Exploit_RL | ['exploit'] | 1 | 2024-08-30 21:05:44+00:00 | 202 | 0 | Python | 0 | [] |
 | sharvil-lade/Remote-Code-Execution-Engine | None | https://github.com/sharvil-lade/Remote-Code-Execution-Engine | ['remote code execution'] | 1 | 2024-08-30 06:50:10+00:00 | 4843 | 0 | JavaScript | 0 | [] |
@@ -134,7 +135,7 @@
 | codingcore14/JPG-Silent-Exploit-NEW-jd | None | https://github.com/codingcore14/JPG-Silent-Exploit-NEW-jd | ['exploit'] | 1 | 2024-08-30 00:30:57+00:00 | 2 | 1 | | 0 | [] |
 | Und3rTh3bu5/Shellcode-C2-Setter | Sets the IP and port of the C2 server on shellcode. (IPv4 only) | https://github.com/Und3rTh3bu5/Shellcode-C2-Setter | ['shellcode'] | 1 | 2024-08-30 01:17:25+00:00 | 3 | 0 | Python | 0 | [] |
 | kkll5875/CVE-2024-42913 | None | https://github.com/kkll5875/CVE-2024-42913 | ['cve-2 OR cve_2'] | 1 | 2024-08-30 05:07:55+00:00 | 1 | 0 | | 0 | ['CVE-2024-42913'] |
-| fa-rrel/CVE-2024-1071-SQL-Injection | Proof of concept : CVE-2024-1071: WordPress Vulnerability Exploited | https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-08-30 05:10:51+00:00 | 79 | 0 | Python | 0 | ['CVE-2024-1071'] |
+| fa-rrel/CVE-2024-1071-SQL-Injection | Proof of concept : CVE-2024-1071: WordPress Vulnerability Exploited | https://github.com/fa-rrel/CVE-2024-1071-SQL-Injection | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-08-30 05:10:51+00:00 | 0 | 0 | Python | 0 | ['CVE-2024-1071'] |
 | Thomasdaly/0day.nvim | None | https://github.com/Thomasdaly/0day.nvim | ['0day'] | 1 | 2024-08-30 04:54:25+00:00 | 20 | 0 | Lua | 0 | [] |
 | mellow-hype/cve-2024-20017 | exploits for CVE-2024-20017 | https://github.com/mellow-hype/cve-2024-20017 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-08-30 05:55:20+00:00 | 10 | 0 | Python | 0 | ['CVE-2024-20017'] |
 | vijaykumargowdakk/Comprehensive-Pentesting-Application | Resploit is a GUI-based network and security scanning tool built with Python and PyQt5. It supports popular tools like Nmap, Wireshark, and Metasploit, allowing users to easily select tools, choose predefined scan options, input custom arguments, and view | https://github.com/vijaykumargowdakk/Comprehensive-Pentesting-Application | ['metasploit module OR payload'] | 1 | 2024-08-30 07:16:37+00:00 | 13 | 0 | Python | 0 | [] |
