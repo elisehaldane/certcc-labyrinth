@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#753,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#753,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#753,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
+VU#753,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#753,0.00395257,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#753,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#753,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087

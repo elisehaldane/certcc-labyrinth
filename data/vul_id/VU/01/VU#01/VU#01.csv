@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#01,1.00000000,https://github.com/s1v11/VAPT_Project,s1v11/VAPT_Project,850219638
 VU#01,1.00000000,https://github.com/PsiLupan/SSBM-Memory-Card-Loader,PsiLupan/SSBM-Memory-Card-Loader,33613469
 VU#01,0.50000000,https://github.com/goldenstar9393/Shellcode_Injection_C-,goldenstar9393/Shellcode_Injection_C-,824260304
 VU#01,0.50000000,https://github.com/yoongi43/music_audio_enhancement_conformer,yoongi43/music_audio_enhancement_conformer,822066747
@@ -23,10 +24,20 @@ VU#01,0.25000000,https://github.com/HavocIncorporated/Havoc-Executor,HavocIncorp
 VU#01,0.25000000,https://github.com/Laurikes/synapse,Laurikes/synapse,694125869
 VU#01,0.25000000,https://github.com/FIRSTdotorg/epss,FIRSTdotorg/epss,487842087
 VU#01,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
+VU#01,0.20000000,https://github.com/CryptoThink78/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,CryptoThink78/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,850324746
+VU#01,0.20000000,https://github.com/CryptoThink78/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,CryptoThink78/Xborg-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,850324690
+VU#01,0.20000000,https://github.com/TechSphere33/Super-Champs-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,TechSphere33/Super-Champs-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,850324684
+VU#01,0.20000000,https://github.com/TechSphere33/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack,TechSphere33/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack,850324676
+VU#01,0.20000000,https://github.com/SustainFuture23/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat,SustainFuture23/PiggyPiggy-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Api-Cheat,850301218
+VU#01,0.20000000,https://github.com/TechSavvy95/Rocky-Rabbit-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,TechSavvy95/Rocky-Rabbit-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,850301201
+VU#01,0.20000000,https://github.com/BioInnovate44/Hamster-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,BioInnovate44/Hamster-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,850292786
+VU#01,0.20000000,https://github.com/AIFrontiers42/Dogs-House-Game-Bot-Auto-Trading-Clicker-Crypto-Exchange-Telegram-Hack-Cheat,AIFrontiers42/Dogs-House-Game-Bot-Auto-Trading-Clicker-Crypto-Exchange-Telegram-Hack-Cheat,850292738
+VU#01,0.20000000,https://github.com/InnovateX5/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat,InnovateX5/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat,850292606
 VU#01,0.20000000,https://github.com/Prestonbishop1/SchoolBoringEX,Prestonbishop1/SchoolBoringEX,792401984
 VU#01,0.20000000,https://github.com/NZT48/exploiting-smart-contract-vulnerabilities,NZT48/exploiting-smart-contract-vulnerabilities,510038855
 VU#01,0.20000000,https://github.com/Eclipsemos/FPS-game-reverse-programming,Eclipsemos/FPS-game-reverse-programming,445801114
 VU#01,0.20000000,https://github.com/SouvikBan/multi_sense_learning,SouvikBan/multi_sense_learning,429338492
+VU#01,0.16666667,https://github.com/AIFrontiers42/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat,AIFrontiers42/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat,850292699
 VU#01,0.16666667,https://github.com/Madhavaprasath23/Attentionexploitation,Madhavaprasath23/Attentionexploitation,747095597
 VU#01,0.16666667,https://github.com/FlR0X/roblox-script-archive,FlR0X/roblox-script-archive,556678373
 VU#01,0.16666667,https://github.com/capiyowebmaster/TicTacToe,capiyowebmaster/TicTacToe,497334479
@@ -122,7 +133,6 @@ VU#01,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in
 VU#01,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#01,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#01,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
-VU#01,0.02941176,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#01,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
 VU#01,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#01,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
@@ -334,6 +344,7 @@ VU#01,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,siti
 VU#01,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#01,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#01,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
+VU#01,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#01,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#01,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#01,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
