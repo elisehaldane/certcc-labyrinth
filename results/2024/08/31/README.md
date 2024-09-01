@@ -1,7 +1,7 @@
 
 # Summary for results/2024/08/31
     
-180 records found after deduplication
+183 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -55,6 +55,7 @@
 | vchan-in/vbank | vBank is a vulnerable bank application that demonstrates how to exploit common REST and GraphQL API vulnerabilities, such as those listed in the OWASP API Security Top 10. | https://github.com/vchan-in/vbank | ['exploit'] | 1 | 2024-08-31 09:00:29+00:00 | 3114 | 2 | Vue | 2 | [] |
 | Shelter1234/VulneraLab | 该项目收集了很多厂商产品CMS的漏洞环境，以web为主。漏洞环境主要以Dockerfile的文件形式呈现，用户只需一键启动相应漏斗环境，使用项目文章中提供的poc，便可进行复现。 | https://github.com/Shelter1234/VulneraLab | ['vuln poc'] | 1 | 2024-08-31 02:31:02+00:00 | 32242 | 25 | PLpgSQL | 5 | [] |
 | Istaarkk/R206-Exploitation-BDD | None | https://github.com/Istaarkk/R206-Exploitation-BDD | ['exploit'] | 1 | 2024-08-31 22:51:10+00:00 | 79 | 0 | | 0 | [] |
+| 0xf00sec/OSX-Injection | x64/x86 shellcode injector for Mac OS X | https://github.com/0xf00sec/OSX-Injection | ['shellcode'] | 1 | 2024-08-31 20:55:05+00:00 | 23 | 18 | C | 2 | [] |
 | For-ACGN/GRT-PELoader | A PE Loader that can hide your code and memory data in the sleep time. | https://github.com/For-ACGN/GRT-PELoader | ['shellcode'] | 1 | 2024-08-31 14:22:35+00:00 | 419 | 0 | C | 0 | [] |
 | mun1bxD/Web-Exploitation | These are complete notes of my web Exploitation | https://github.com/mun1bxD/Web-Exploitation | ['exploit'] | 1 | 2024-08-31 18:42:10+00:00 | 47174 | 2 | Python | 0 | [] |
 | xcodepyx/EXPLOIT-PDF-2024 | Bypass PDF Security | https://github.com/xcodepyx/EXPLOIT-PDF-2024 | ['exploit'] | 1 | 2024-08-31 15:20:28+00:00 | 49 | 0 | | 0 | [] |
@@ -72,6 +73,7 @@
 | thesrikarpaida/Binary-Exploitation-Resources | This repository is a collection of different resources I stumbled upon regarding binary exploitation. | https://github.com/thesrikarpaida/Binary-Exploitation-Resources | ['exploit'] | 1 | 2024-08-31 00:44:49+00:00 | 11 | 0 | | 0 | [] |
 | yj94/BinarySpy | 一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV. | https://github.com/yj94/BinarySpy | ['shellcode'] | 1 | 2024-08-31 12:53:53+00:00 | 2961 | 358 | Python | 50 | [] |
 | b1nzeex/rce.js | None | https://github.com/b1nzeex/rce.js | ['rce'] | 1 | 2024-08-31 17:19:28+00:00 | 672 | 2 | TypeScript | 0 | [] |
+| D3cl4n/Mordor | An implementation of Hell's Gate with encoding support for shellcode | https://github.com/D3cl4n/Mordor | ['shellcode'] | 1 | 2024-08-31 21:58:46+00:00 | 650 | 1 | C | 0 | [] |
 | AndrirezdaSilvas/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/AndrirezdaSilvas/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2024-08-31 05:17:06+00:00 | 894 | 6 | C# | 0 | [] |
 | TimboFimbo/HackyHacky_JoyJoy | A puzzle game about exploiting software vulnerabilities | https://github.com/TimboFimbo/HackyHacky_JoyJoy | ['exploit'] | 1 | 2024-08-31 15:24:55+00:00 | 9892 | 0 | C# | 0 | [] |
 | KhachikAstoyan/rce | RCE stands for remote code execution engine | https://github.com/KhachikAstoyan/rce | ['rce', 'remote code execution'] | 2 | 2024-08-31 14:06:34+00:00 | 609 | 1 | TypeScript | 0 | [] |
@@ -184,4 +186,5 @@
 | 0xDivyanshu-new/CVE-2023-29360 | POC for CVE-2023-29360 | https://github.com/0xDivyanshu-new/CVE-2023-29360 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-08-31 21:11:39+00:00 | 12 | 0 | C++ | 0 | ['CVE-2023-29360'] |
 | Batc3r/-Stake-Predictor | stakepredictor stake stake-predictor stake-crash-hack stake-hack stake-crash-predictor stakeholders stake-crash-predictor-free stake-casino-bot stake-casino-crash-predictor stake-casino-deposit casino casino-source-code casino-exploit casino-game casinos c | https://github.com/Batc3r/-Stake-Predictor | ['exploit'] | 1 | 2024-08-31 21:19:26+00:00 | 3 | 0 | | 0 | [] |
 | 2aqu/CVE-2023-VULN | cve-2023 vuln certify | https://github.com/2aqu/CVE-2023-VULN | ['cve-2 OR cve_2'] | 1 | 2024-08-31 21:44:06+00:00 | 1 | 0 | Python | 0 | [] |
+| 0xZ0F/PIC | PIC/Shellcode Generation | https://github.com/0xZ0F/PIC | ['shellcode'] | 1 | 2024-08-31 21:57:51+00:00 | 0 | 0 | | 0 | [] |
 | arpex-scripts/argentum-exploitz-lifecraft-script-2024_xmD2 | this is not my script, disclaimer! [credits to argentum exploitz] | https://github.com/arpex-scripts/argentum-exploitz-lifecraft-script-2024_xmD2 | ['exploit'] | 1 | 2024-08-31 23:07:13+00:00 | 41 | 0 | Lua | 0 | [] |
