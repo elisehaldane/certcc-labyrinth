@@ -5,6 +5,7 @@ GHSA-V7FF-8WCX-GMC5,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,49591770
 GHSA-V7FF-8WCX-GMC5,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-V7FF-8WCX-GMC5,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 GHSA-V7FF-8WCX-GMC5,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+GHSA-V7FF-8WCX-GMC5,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 GHSA-V7FF-8WCX-GMC5,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GHSA-V7FF-8WCX-GMC5,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-V7FF-8WCX-GMC5,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
@@ -43,8 +44,8 @@ GHSA-V7FF-8WCX-GMC5,0.00018793,https://github.com/freedarwuin/metasploit,freedar
 GHSA-V7FF-8WCX-GMC5,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-V7FF-8WCX-GMC5,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 GHSA-V7FF-8WCX-GMC5,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-GHSA-V7FF-8WCX-GMC5,0.00016119,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-GHSA-V7FF-8WCX-GMC5,0.00014079,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-V7FF-8WCX-GMC5,0.00016108,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-V7FF-8WCX-GMC5,0.00014075,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-V7FF-8WCX-GMC5,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-V7FF-8WCX-GMC5,0.00006177,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 GHSA-V7FF-8WCX-GMC5,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
