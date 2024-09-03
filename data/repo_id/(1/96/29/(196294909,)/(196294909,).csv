@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+196294909,NiteR1d3r/ScriptsAndGoodies,CVE_2021-41773_42013/apacheRCE2.4.49_50.py,58bac4b7a25fb4b8dc3d1ed79db2b11ee31e6f46,CVE-2021-41773
+196294909,NiteR1d3r/ScriptsAndGoodies,CVE_2021-41773_42013/apacheRCE2.4.49_50.py,58bac4b7a25fb4b8dc3d1ed79db2b11ee31e6f46,CVE-2021-42013
