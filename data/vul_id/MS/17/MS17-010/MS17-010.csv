@@ -476,7 +476,7 @@ MS17-010,0.00813008,https://github.com/384564527/DeepExploit-pytorch,384564527/D
 MS17-010,0.00800000,https://github.com/eymenaslan79/ExploitHunt,eymenaslan79/ExploitHunt,849218694
 MS17-010,0.00800000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 MS17-010,0.00800000,https://github.com/Err0r-ICA/Searchsploit,Err0r-ICA/Searchsploit,316384675
-MS17-010,0.00787402,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+MS17-010,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 MS17-010,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS17-010,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS17-010,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
@@ -585,7 +585,7 @@ MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30the
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
 MS17-010,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-MS17-010,0.00082034,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+MS17-010,0.00081967,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 MS17-010,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
@@ -705,7 +705,7 @@ MS17-010,0.00018591,https://github.com/phucoding286/metasploit-framework,phucodi
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00016108,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00016093,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00014067,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
@@ -713,7 +713,7 @@ MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,Et
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00006174,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00006173,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912

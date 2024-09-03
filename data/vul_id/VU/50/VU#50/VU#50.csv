@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#50,1.00000000,https://github.com/DaniloMalagoli977/S6.L1---Exploit-file-Web-app,DaniloMalagoli977/S6.L1---Exploit-file-Web-app,802839771
 VU#50,1.00000000,https://github.com/IvanGalati/Exploit-Con-Metasploit,IvanGalati/Exploit-Con-Metasploit,715150183
 VU#50,1.00000000,https://github.com/limbo237/ML,limbo237/ML,649179818
+VU#50,1.00000000,https://github.com/kamalmjt/emerging-attackers,kamalmjt/emerging-attackers,563108087
 VU#50,1.00000000,https://github.com/paradigmer/sakurajb,paradigmer/sakurajb,371559958
 VU#50,1.00000000,https://github.com/cpesr/kpiESR,cpesr/kpiESR,263617615
 VU#50,1.00000000,https://github.com/JonathanSalwan/ROPgadget,JonathanSalwan/ROPgadget,2234715
@@ -29,6 +30,7 @@ VU#50,0.33333333,https://github.com/mr-sami-x/Digital-Storm,mr-sami-x/Digital-St
 VU#50,0.33333333,https://github.com/xzalagaq/Synapse-X-crack,xzalagaq/Synapse-X-crack,520975470
 VU#50,0.33333333,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,474467374
 VU#50,0.33333333,https://github.com/AndreMaquesMachado/POC,AndreMaquesMachado/POC,426691915
+VU#50,0.25000000,https://github.com/oz9un/log-slapper,oz9un/log-slapper,781706929
 VU#50,0.25000000,https://github.com/edipandit123/Python_exploit,edipandit123/Python_exploit,696589286
 VU#50,0.25000000,https://github.com/Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152,Fjowel/CVE-2022-37150-CVE-2022-37151-CVE-2022-37152,528240019
 VU#50,0.25000000,https://github.com/twseptian/python-exploit-scripts,twseptian/python-exploit-scripts,461289600
@@ -253,9 +255,9 @@ VU#50,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_T
 VU#50,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-Exploits,493832027
 VU#50,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#50,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
-VU#50,0.00787402,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#50,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#50,0.00775194,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#50,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#50,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#50,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
 VU#50,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
