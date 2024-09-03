@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+851612450,0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit,README.md,756b0c2078f4e5059791fb24ac1e9e9d97be1a6c,CVE-2023-4220
+851612450,0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit,exploit.py,8298497c8a8728de7ea00cddecbd167b068deb31,CVE-2023-4220
+851612450,0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit,_GITHUB_REPO_METADATA_,,CVE-2023-4220
