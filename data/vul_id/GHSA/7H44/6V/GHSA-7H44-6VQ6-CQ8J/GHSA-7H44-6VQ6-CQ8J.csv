@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7H44-6VQ6-CQ8J,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-7H44-6VQ6-CQ8J,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-7H44-6VQ6-CQ8J,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-7H44-6VQ6-CQ8J,0.00000886,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-7H44-6VQ6-CQ8J,0.00000885,https://github.com/trickest/cve,trickest/cve,454015416
