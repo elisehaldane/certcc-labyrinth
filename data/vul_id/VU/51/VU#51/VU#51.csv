@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
 VU#51,0.50000000,https://github.com/azertyuiopexe/njrat,azertyuiopexe/njrat,732631644
 VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
-VU#51,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
+VU#51,0.50000000,https://github.com/AnonymousHumanBeing/AnonSploit-Executer,AnonymousHumanBeing/AnonSploit-Executer,461288930
 VU#51,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_CVE-2020-0201,Trinadh465/packages_apps_Settings_CVE-2020-0201,816647824
 VU#51,0.33333333,https://github.com/uthrasri/Packages_app_settings_CVE-2020-0201,uthrasri/Packages_app_settings_CVE-2020-0201,710491787
 VU#51,0.33333333,https://github.com/Sjossa/cvenligne2,Sjossa/cvenligne2,673689809
@@ -388,7 +388,7 @@ VU#51,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exp
 VU#51,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#51,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#51,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#51,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
+VU#51,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#51,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#51,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#51,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
