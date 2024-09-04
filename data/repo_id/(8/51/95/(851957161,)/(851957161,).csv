@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+851957161,Kongchengsain/okm-review,src/main/java/okm/analysis/utils/UIntroduce.java,3b279a9776ba89adcf94d8f0bfba22ac483bbc24,CVE-2024-38077
+851957161,Kongchengsain/okm-review,src/main/java/okm/analysis/Main.java,51c8a4d425ce31e1d7c38e42b9381e4dd92ca618,CVE-2024-38077
+851957161,Kongchengsain/okm-review,README.md,777a032bdb1d23b6c8c998e8e8eed1d9939740a0,CVE-2024-38077
+851957161,Kongchengsain/okm-review,src/main/resources/pocs/CVE-2024-38077.exe,85ecbdb053950a20b9748e867586d059aaa19115,CVE-2024-38077
+851957161,Kongchengsain/okm-review,src/main/resources/pocs/CVE-2024-38077.exe,85ecbdb053950a20b9748e867586d059aaa19115,VU#02
+851957161,Kongchengsain/okm-review,src/main/java/okm/analysis/pocs/POCCatalog.java,dc59fb29330aa6976dc81d0b486ff9271c0c4784,CVE-2024-38077
