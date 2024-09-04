@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+719176787,mr-tomr/Exploits,cve-2019-9193(postgresqlexec).py,24ed404276b72c15677d44d2008c8a2eb536912a,CVE-2019-9193
 719176787,mr-tomr/Exploits,ConfluenceRCE-cve-2022-26134.sh,5714263f0bab0834f81a763013e3dd244976f082,CVE-2022-26134
 719176787,mr-tomr/Exploits,46481.py,6662f632678f73fae5824664d7adf1c59e0b27d5,CVE-2019-9194
 719176787,mr-tomr/Exploits,LaVita,8f697163f46fc6ad8348c3c219cf0b22b28f9103,CVE-2021-3129
