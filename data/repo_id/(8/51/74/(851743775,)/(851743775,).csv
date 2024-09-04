@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/target_profile.py,2df0393d6ccc73532fc2789e29e9713602cca89c,CVE-2021-1234
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/target_profile.py,2df0393d6ccc73532fc2789e29e9713602cca89c,CVE-2021-5678
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/vulnerability_scanner.py,9104b5000ea6541cff9567c29afb3f3f55730f7f,CVE-2021-1234
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/vulnerability_scanner.py,9104b5000ea6541cff9567c29afb3f3f55730f7f,CVE-2021-5678
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/target_profiler.py,b473d3264d87f2102630029d3e9c746832325d83,CVE-2021-1234
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/target_profiler.py,b473d3264d87f2102630029d3e9c746832325d83,CVE-2021-5678
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/__pycache__/vulnerability_scanner.cpython-312.pyc,bd33127e1a19b0c5cb40facee61b348dbcb9904b,CVE-2021-1234
+851743775,Coding-Connoisseur/Metasploit-AI,ai_core/__pycache__/vulnerability_scanner.cpython-312.pyc,bd33127e1a19b0c5cb40facee61b348dbcb9904b,CVE-2021-5678
