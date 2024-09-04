@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-R5PH-4JXM-6J9P,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-R5PH-4JXM-6J9P,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-R5PH-4JXM-6J9P,0.00000885,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-R5PH-4JXM-6J9P,0.00000884,https://github.com/trickest/cve,trickest/cve,454015416

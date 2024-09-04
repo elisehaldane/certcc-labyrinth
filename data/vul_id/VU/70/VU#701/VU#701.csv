@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#701,0.33333333,https://github.com/corelight/CVE-2021-1675,corelight/CVE-2021-1675,382407157
 VU#701,0.01282051,https://github.com/hupe1980/aisploit,hupe1980/aisploit,762676512
 VU#701,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#701,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
