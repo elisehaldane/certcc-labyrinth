@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,852374041
 VU#29,1.00000000,https://github.com/cbwang505/TcpServerChannelRce,cbwang505/TcpServerChannelRce,842853155
 VU#29,1.00000000,https://github.com/agenericapple/UAC-Bypass,agenericapple/UAC-Bypass,837134623
 VU#29,1.00000000,https://github.com/xjdhu/hessian-deserialize-rce,xjdhu/hessian-deserialize-rce,829035411
@@ -156,6 +157,7 @@ VU#29,0.11111111,https://github.com/shyeun/exploit,shyeun/exploit,456794098
 VU#29,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#29,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#29,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
+VU#29,0.10000000,https://github.com/ericyoc/cnn_hnn_comparison_analysis_poc,ericyoc/cnn_hnn_comparison_analysis_poc,782261984
 VU#29,0.10000000,https://github.com/SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,775406097
 VU#29,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#29,0.10000000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093

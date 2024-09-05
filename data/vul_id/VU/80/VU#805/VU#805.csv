@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#805,0.33333333,https://github.com/cran/Vicus,cran/Vicus,618242442
+VU#805,0.05882353,https://github.com/ericyoc/quantum-circuit-anomaly-detection-poc,ericyoc/quantum-circuit-anomaly-detection-poc,783459338
 VU#805,0.04000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#805,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#805,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
