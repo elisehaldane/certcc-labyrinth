@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#29,1.00000000,https://github.com/RichElver/UAC-Bypass-FUD,RichElver/UAC-Bypass-FUD,852865561
 VU#29,1.00000000,https://github.com/BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,852374041
 VU#29,1.00000000,https://github.com/cbwang505/TcpServerChannelRce,cbwang505/TcpServerChannelRce,842853155
 VU#29,1.00000000,https://github.com/agenericapple/UAC-Bypass,agenericapple/UAC-Bypass,837134623
@@ -255,6 +256,7 @@ VU#29,0.04347826,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,
 VU#29,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
 VU#29,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
+VU#29,0.04000000,https://github.com/4ra1n/poc-runner,4ra1n/poc-runner,847692663
 VU#29,0.04000000,https://github.com/XingLuoXL/Delta-Executor-PC-Roblox,XingLuoXL/Delta-Executor-PC-Roblox,831474844
 VU#29,0.04000000,https://github.com/PranshuRanjanTiwari/delta-executor-roblox,PranshuRanjanTiwari/delta-executor-roblox,831109520
 VU#29,0.04000000,https://github.com/wigiroa/wave-executor-roblox,wigiroa/wave-executor-roblox,831104168

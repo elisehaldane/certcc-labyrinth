@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-X268-QPG6-W9G2,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-X268-QPG6-W9G2,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-X268-QPG6-W9G2,0.00000884,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-X268-QPG6-W9G2,0.00000883,https://github.com/trickest/cve,trickest/cve,454015416

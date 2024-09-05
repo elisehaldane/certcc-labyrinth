@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-56JV-HMCH-QM6C,1.00000000,https://github.com/ElnurBDa/cmsimple-xh-RCE-Authenticated-1.7.6,ElnurBDa/cmsimple-xh-RCE-Authenticated-1.7.6,852797176
