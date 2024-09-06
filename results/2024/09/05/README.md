@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/05
     
-97 records found after deduplication
+104 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -9,6 +9,7 @@
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2024-09-05 07:14:43+00:00 | 46509 | 978 | Python | 204 | [] |
 | cirosantilli/china-dictatorship | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police m | https://github.com/cirosantilli/china-dictatorship | ['attack poc', 'exploit'] | 2 | 2024-09-05 07:06:29+00:00 | 100305 | 1958 | HTML | 226 | [] |
 | ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | temp shellcode | https://github.com/ReneNyffenegger/temp-hacking-reverse_engineering-debugging-assembler | ['shellcode'] | 1 | 2024-09-05 05:50:56+00:00 | 3749 | 1 | C | 0 | [] |
+| hodor-sec/Binary-Exploitation | None | https://github.com/hodor-sec/Binary-Exploitation | ['shellcode'] | 1 | 2024-09-05 21:55:52+00:00 | 73936 | 2 | Python | 2 | [] |
 | drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-09-05 04:32:53+00:00 | 1970315 | 501 | REXX | 46 | [] |
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-09-05 00:36:03+00:00 | 538406 | 6373 | | 1167 | [] |
 | nomi-sec/NVD-Exploit-List-Ja | 🔍NVD exploit & JVN(Japan Vulnerability Notes) easy description | https://github.com/nomi-sec/NVD-Exploit-List-Ja | ['exploit'] | 1 | 2024-09-05 00:51:03+00:00 | 74879 | 79 | | 39 | [] |
@@ -47,13 +48,16 @@
 | Brednan/Rat-Server | This is the API server for my RAT (Remote-Access-Trojan). It will be used by the infected devices to retrieve any pending commands to execute, as well as to retrieve shellcode. It also contains API endpoints that the Operator will use when managing the ser | https://github.com/Brednan/Rat-Server | ['shellcode'] | 1 | 2024-09-05 02:17:15+00:00 | 3755 | 0 | C# | 0 | [] |
 | R3DRUN3/sploitcraft | 🏴‍☠️ Hacking Guides, Demos and Proof-of-Concepts 🥷 | https://github.com/R3DRUN3/sploitcraft | ['sploit'] | 1 | 2024-09-05 16:14:58+00:00 | 8778 | 113 | Jupyter Notebook | 16 | [] |
 | hacktoor1/Spider-Security | Notes Certificate && WriteUps && Solve Machines && Books | https://github.com/hacktoor1/Spider-Security | ['exploit'] | 1 | 2024-09-05 06:11:57+00:00 | 144456 | 1 | | 0 | [] |
+| Chocapikk/CVE-2024-34102 | CosmicSting (CVE-2024-34102) | https://github.com/Chocapikk/CVE-2024-34102 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 18:38:46+00:00 | 7 | 36 | Python | 10 | ['CVE-2024-34102'] |
 | ralvares/ssvc.me | Exploit & Vulnerability Intelligence Repository | https://github.com/ralvares/ssvc.me | ['exploit'] | 1 | 2024-09-05 04:18:13+00:00 | 57983 | 14 | Python | 2 | [] |
 | BTtea/CVE-2018-14714-RCE_exploit | ASUS wifi router RCE vulnerability | https://github.com/BTtea/CVE-2018-14714-RCE_exploit | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-09-05 17:10:45+00:00 | 2855 | 1 | Python | 1 | ['CVE-2018-14714'] |
+| x86-512/Polymorpheus | A polymorphic shellcode obfuscator designed for shellcodes/implants that need to run in W^X memory. | https://github.com/x86-512/Polymorpheus | ['shellcode'] | 1 | 2024-09-05 22:12:53+00:00 | 250 | 0 | Python | 0 | [] |
 | b1nzeex/rce.js | None | https://github.com/b1nzeex/rce.js | ['rce'] | 1 | 2024-09-05 16:22:17+00:00 | 522 | 2 | TypeScript | 0 | [] |
 | KhachikAstoyan/rce | RCE stands for remote code execution engine | https://github.com/KhachikAstoyan/rce | ['rce', 'remote code execution'] | 2 | 2024-09-05 05:01:06+00:00 | 387 | 1 | TypeScript | 0 | [] |
 | WH1T3-E4GL3/Honeypot | A vulnerable honeypot setup using Flask and SSH to capture and analyze malicious activities. Includes real-time logging and monitoring to study attack patterns and exploit attempts | https://github.com/WH1T3-E4GL3/Honeypot | ['exploit'] | 1 | 2024-09-05 05:39:45+00:00 | 43 | 3 | HTML | 0 | [] |
 | VanishedPeople/CVE-2017-7269 | None | https://github.com/VanishedPeople/CVE-2017-7269 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 08:41:00+00:00 | 32 | 0 | Python | 0 | ['CVE-2017-7269'] |
 | 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-09-05 04:55:10+00:00 | 591 | 1 | C# | 0 | [] |
+| fortra/CVE-2024-30051 | None | https://github.com/fortra/CVE-2024-30051 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 23:21:00+00:00 | 18460 | 1 | C++ | 0 | ['CVE-2024-30051'] |
 | rabinoo/0day | None | https://github.com/rabinoo/0day | ['0day'] | 1 | 2024-09-05 15:55:25+00:00 | 37566 | 2 | CSS | 0 | [] |
 | Leo4j/ShellGen | PowerShell script to generate ShellCode in various formats | https://github.com/Leo4j/ShellGen | ['shellcode'] | 1 | 2024-09-05 12:12:39+00:00 | 23 | 22 | PowerShell | 7 | [] |
 | ZeroDay-Alliance-SNU/website | The Website Of ZeroDay Alliance SNU | https://github.com/ZeroDay-Alliance-SNU/website | ['zeroday'] | 1 | 2024-09-05 09:11:50+00:00 | 1779 | 0 | JavaScript | 4 | [] |
@@ -99,6 +103,9 @@
 | RichElver/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/RichElver/UAC-Bypass-FUD | ['uac bypass'] | 1 | 2024-09-05 17:55:30+00:00 | 25 | 0 | C# | 0 | [] |
 | phirojshah/CVE-2021-4044 | None | https://github.com/phirojshah/CVE-2021-4044 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 16:26:48+00:00 | 5 | 0 | Python | 0 | ['CVE-2021-4044'] |
 | fru1ts/CVE-2024-44902 | None | https://github.com/fru1ts/CVE-2024-44902 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 16:00:08+00:00 | 165 | 0 | | 0 | ['CVE-2024-44902'] |
+| Cgv-Dev/Metasploit-Module-TFM | Module written in Ruby with the objective of exploiting vulnerabilities CVE-2023-2728 and CVE-2024-3177, both related to the secret mount policy in a Kubernetes cluster using a custom Metasploit module. Part of a Cybersecurity Master's degree finalization | https://github.com/Cgv-Dev/Metasploit-Module-TFM | ['metasploit module OR payload'] | 1 | 2024-09-05 17:44:50+00:00 | 20 | 0 | Ruby | 0 | ['CVE-2023-2728', 'CVE-2024-3177'] |
 | accelerated-computing-class/telerun | Remote Code Execution as a Service | https://github.com/accelerated-computing-class/telerun | ['remote code execution'] | 1 | 2024-09-05 17:29:15+00:00 | 7 | 0 | Python | 0 | [] |
 | kanishkIIITD/Remote-Code-Execution | None | https://github.com/kanishkIIITD/Remote-Code-Execution | ['remote code execution'] | 1 | 2024-09-05 17:02:25+00:00 | 0 | 0 | JavaScript | 0 | [] |
 | JustMahmud1/CVE-Scraper-v2 | None | https://github.com/JustMahmud1/CVE-Scraper-v2 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 17:38:27+00:00 | 0 | 0 | SCSS | 0 | [] |
+| codeb0ss/CVE-2024-20419-PoC | CVE-2024-20419 - Cisco SSM On-Prem < Mass Password Reset Account Takeover Exploit | https://github.com/codeb0ss/CVE-2024-20419-PoC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-09-05 19:11:42+00:00 | 400 | 0 | Python | 0 | ['CVE-2024-20419'] |
+| TrixSec/CVE-2015-57115 | Mass Checker For CVE-2015-57115 | https://github.com/TrixSec/CVE-2015-57115 | ['cve-2 OR cve_2'] | 1 | 2024-09-05 19:54:52+00:00 | 16 | 1 | Python | 0 | ['CVE-2015-57115'] |
