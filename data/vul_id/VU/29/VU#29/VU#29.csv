@@ -38,6 +38,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/Chhers/FiveM-External-Cheat,Chhers/FiveM-External-Cheat,852977677
 VU#29,0.50000000,https://github.com/kevinsocute2/Xeon-Exploit-JS-Config,kevinsocute2/Xeon-Exploit-JS-Config,850389973
 VU#29,0.50000000,https://github.com/glen-pearson/CVE-2023-34362-RCE,glen-pearson/CVE-2023-34362-RCE,821497009
 VU#29,0.50000000,https://github.com/chress0/FiveM-External-Cheat,chress0/FiveM-External-Cheat,818767377
@@ -103,6 +104,7 @@ VU#29,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-
 VU#29,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#29,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
 VU#29,0.25000000,https://github.com/JoyChou93/java-sec-code,JoyChou93/java-sec-code,115394871
+VU#29,0.20000000,https://github.com/PopsCorsns/FiveM-External-Cheat,PopsCorsns/FiveM-External-Cheat,853341859
 VU#29,0.20000000,https://github.com/MInggongK/Penetration-mining-src,MInggongK/Penetration-mining-src,831606747
 VU#29,0.20000000,https://github.com/MInggongK/SpringbootGuiExploit,MInggongK/SpringbootGuiExploit,797005918
 VU#29,0.20000000,https://github.com/intexpression/nekito,intexpression/nekito,660558312
@@ -304,6 +306,7 @@ VU#29,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poke
 VU#29,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#29,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#29,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
+VU#29,0.02777778,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#29,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#29,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
@@ -318,7 +321,6 @@ VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
-VU#29,0.02500000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#29,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#29,0.02439024,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
@@ -516,6 +518,7 @@ VU#29,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#29,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#29,0.00990099,https://github.com/Chhers/FiveM-External-Cheat-KeyAuth-System,Chhers/FiveM-External-Cheat-KeyAuth-System,852967537
 VU#29,0.00990099,https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System,IChres/FiveM-External-Cheat-KeyAuth-System,840427185
 VU#29,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,0chres0/FiveM-External-Cheat-KeyAuth-System,834754324
 VU#29,0.00990099,https://github.com/chress0/FiveM-External-Cheat-KeyAuth-System,chress0/FiveM-External-Cheat-KeyAuth-System,818766943

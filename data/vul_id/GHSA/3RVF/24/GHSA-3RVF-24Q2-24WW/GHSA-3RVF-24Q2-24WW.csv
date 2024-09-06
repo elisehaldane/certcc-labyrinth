@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3RVF-24Q2-24WW,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-3RVF-24Q2-24WW,0.00000883,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-3RVF-24Q2-24WW,0.00000882,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-3RVF-24Q2-24WW,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
