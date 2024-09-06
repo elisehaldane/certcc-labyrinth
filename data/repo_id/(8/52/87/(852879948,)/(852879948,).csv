@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+852879948,Cgv-Dev/Metasploit-Module-TFM,README.md,152ed894d5a31bd1c856695fe7eb4ad82adab129,CVE-2023-2728
+852879948,Cgv-Dev/Metasploit-Module-TFM,README.md,152ed894d5a31bd1c856695fe7eb4ad82adab129,CVE-2024-3177
+852879948,Cgv-Dev/Metasploit-Module-TFM,double_secrets_cve.rb,ed7222f25f2c5aee38924159a3cab39abff91f0c,CVE-2023-2728
+852879948,Cgv-Dev/Metasploit-Module-TFM,double_secrets_cve.rb,ed7222f25f2c5aee38924159a3cab39abff91f0c,CVE-2024-3177
+852879948,Cgv-Dev/Metasploit-Module-TFM,_GITHUB_REPO_METADATA_,,CVE-2023-2728
+852879948,Cgv-Dev/Metasploit-Module-TFM,_GITHUB_REPO_METADATA_,,CVE-2024-3177
