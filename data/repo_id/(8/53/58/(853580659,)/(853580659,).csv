@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,BID-48539
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,BID-70574
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,BID-74733
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,CVE-2007-6750
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,CVE-2011-2523
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,CVE-2014-0224
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,CVE-2014-3566
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,CVE-2015-4000
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,MS10-054
+853580659,messaouddhia/penetration-testing-home-lab,scanning/nmap_vuln_scan.txt,02525063cab8afb0a92249ec809890c8c4cdb1f3,MS10-061
