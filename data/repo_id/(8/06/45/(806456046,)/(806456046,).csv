@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-806456046,ambionics/cnext-exploits,README.md,04671f612cf03b3da7e9ac4f42e0b5644187ea6a,CVE-2024-2961
-806456046,ambionics/cnext-exploits,cnext-exploit.py,5d7603d7cbf4e45db6e4bd040a93f850497c35c9,CVE-2024-2961
 806456046,ambionics/cnext-exploits,cosmicsting-cnext-exploit.py,60567a36e6c388c48ad9da7daa05ee2481a8a2d0,CVE-2024-2961
 806456046,ambionics/cnext-exploits,cosmicsting-cnext-exploit.py,60567a36e6c388c48ad9da7daa05ee2481a8a2d0,CVE-2024-34102
 806456046,ambionics/cnext-exploits,pocs/poc.c,6a3e3c52312439ab5869cbda9601cefa5b3c2dea,CVE-2024-2961
-806456046,ambionics/cnext-exploits,roundcube-exploit.py,afe19c79dd33c546d13eeb14c1d37d3e92af6aa2,CVE-2024-2961
+806456046,ambionics/cnext-exploits,cnext-exploit.py,9b7a6b3970767270c7ee6d91eadf2ecd283616d0,CVE-2024-2961
+806456046,ambionics/cnext-exploits,README.md,d05833e14662bda842e480431f5b055daf2e7a3d,CVE-2024-2961
+806456046,ambionics/cnext-exploits,roundcube-exploit.py,fa0347b1be645624d226175a9dfe94fea2f6d11d,CVE-2024-2961
 806456046,ambionics/cnext-exploits,_GITHUB_REPO_METADATA_,,CVE-2024-2961

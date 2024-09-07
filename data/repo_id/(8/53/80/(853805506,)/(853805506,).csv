@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+853805506,b17fr13nds/kernel-exploits,CVE-2022-24122/README.md,290af75d1a2e9f9bdf941757f0ce3a0c0e2cca4d,CVE-2022-24122
+853805506,b17fr13nds/kernel-exploits,CVE-2022-24122/give_root.c,43b46dcba5f7477d3e0b665bf3a7bc6ba63eec3e,CVE-2022-24122
+853805506,b17fr13nds/kernel-exploits,CVE-2022-24122/exp.c,689e361982fc8d573e6bdd9e8b820c15afb08204,CVE-2022-24122
