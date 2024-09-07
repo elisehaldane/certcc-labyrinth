@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#18,1.00000000,https://github.com/Lovepreetxo/Scriptware,Lovepreetxo/Scriptware,853573869
+VU#18,1.00000000,https://github.com/camiloCZZ/Scriptware,camiloCZZ/Scriptware,853548527
 VU#18,1.00000000,https://github.com/vagnermengali/yrprey-docker,vagnermengali/yrprey-docker,798838720
 VU#18,1.00000000,https://github.com/akashialt/w-azure,akashialt/w-azure,728379660
 VU#18,1.00000000,https://github.com/sukantamajhi/rcEcom,sukantamajhi/rcEcom,722469524
@@ -364,6 +366,7 @@ VU#18,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#18,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#18,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#18,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#18,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#18,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#18,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#18,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254

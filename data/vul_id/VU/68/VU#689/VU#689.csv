@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#689,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#689,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
+VU#689,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#689,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#689,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
 VU#689,0.01111111,https://github.com/web3santa/exploits-minimized,web3santa/exploits-minimized,791332254
