@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+853633561,gunzf0x/Grav-CMS-RCE-Authenticated,README.md,d3f13cd5c10b3492aad91490fabd3d550abbea34,CVE-2024-28116
+853633561,gunzf0x/Grav-CMS-RCE-Authenticated,README.md,d3f13cd5c10b3492aad91490fabd3d550abbea34,GHSA-C9GP-64C4-2RRH
