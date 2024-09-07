@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-789485373,throwaway96/dejavuln-autoroot,README.md,09a3ffacda9ac48758a15f5266d223d6353a2a45,CVE-2023-6319
 789485373,throwaway96/dejavuln-autoroot,autoroot.sh,5247e9c32e434e5fbb7530d8e3794096521cfaac,CVE-2023-6319
 789485373,throwaway96/dejavuln-autoroot,hbchannel.ipk,c651a4bbc966c0f5bdcc747274a272008e026e8b,VU#35
+789485373,throwaway96/dejavuln-autoroot,README.md,d1b1f2a215d0dfa0651b22cfc082b5fba972163f,CVE-2023-6319
