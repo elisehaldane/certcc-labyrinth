@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+316446651,mustgundogdu/Research,Dolibarr_12.0.5-HtmlInjection/README.md,404ea8e10c17e2efaee264c6eb6b516bc2ebd34b,CVE-2022-30876
+316446651,mustgundogdu/Research,PrestaShop/ReflectedXSS_1.7.7.4.md,4c0d53c65f806629c4d395bd545385f20c527045,CVE-2023-31508
+316446651,mustgundogdu/Research,Dolibar_7.0.2-StoredXSS/burpfollowResponse.PNG,837cb37c7820f6b7a8576cc76a05d1a43f54749f,VU#57
+316446651,mustgundogdu/Research,Dolibar_7.0.2-StoredXSS/README.md,c40c1cea5029a1dc27e24d0c4b796f5f17b03527,CVE-2022-22293
