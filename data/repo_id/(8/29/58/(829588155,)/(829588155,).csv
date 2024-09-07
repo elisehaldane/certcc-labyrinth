@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-829588155,vulncheck-oss/go-exploit-cache,README.md,9682afef91a0f2b784ad1a8f6bfe97b7c8eb05aa,CVE-2023-22527
 829588155,vulncheck-oss/go-exploit-cache,test/testdata/shodan-confluence.json.gz,aba055a953bdab1d7b058a82afe30564a89ebe83,VU#14
 829588155,vulncheck-oss/go-exploit-cache,test/testdata/shodan-confluence.json.gz,aba055a953bdab1d7b058a82afe30564a89ebe83,VU#69
 829588155,vulncheck-oss/go-exploit-cache,test/testdata/shodan-confluence.json.gz,aba055a953bdab1d7b058a82afe30564a89ebe83,VU#85
 829588155,vulncheck-oss/go-exploit-cache,test/testdata/shodan-confluence.json.gz,aba055a953bdab1d7b058a82afe30564a89ebe83,VU#86
+829588155,vulncheck-oss/go-exploit-cache,README.md,fa5b04ee8fa44fc71fdfe6e9348f9dfb87b14086,CVE-2023-22527
