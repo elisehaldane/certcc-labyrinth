@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+853823211,FrancescoDiSalesGithub/quick-fix-cve-2024-38063,README.md,b63b671f278885f799f7e3f2a4c0ac74fc57c811,CVE-2024-38063
+853823211,FrancescoDiSalesGithub/quick-fix-cve-2024-38063,cve-2024-38063-fix.ps1,ba23bbd232df8e701de0ecc5d7c63ef658b9ca5d,CVE-2024-38063
+853823211,FrancescoDiSalesGithub/quick-fix-cve-2024-38063,_GITHUB_REPO_METADATA_,,CVE-2024-38063
