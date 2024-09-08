@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+853423919,ps-interactive/lab_exploiting-with-bloodhound-and-mimikatz,wmiexec.exe,6ee6664df9bfb47d97090492b6cde68bf056a42a,VU#02
