@@ -1,0 +1,19 @@
+repo_id,repo_full_name,file,file_sha1,match
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#754
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#67
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#577
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#50
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#17
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Russian APT groups Adversary Simulation.pdf,3929a196d4cd265613034119eaaf37f0f604b0ee,VU#75
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Voodoo-Bear-APT/WithSecure-Research-Kapeka.pdf,395e013b5da206db129413c8db3fd05602cc8732,VU#47
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/APT28-Adversary-Simulation/README.md,5de0755dbf7173ff39b7067338a3e1682a8c5466,CVE-2021-40444
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/EnergeticBear_exploit.rb,6e9f41ec056690051b231a932a7eda5fca150632,OSVDB-71686
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/EnergeticBear_exploit.rb,6e9f41ec056690051b231a932a7eda5fca150632,CVE-2011-0611
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/EnergeticBear_exploit.rb,6e9f41ec056690051b231a932a7eda5fca150632,BID-47314
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/README.md,ac3174d583cbc0c109e31f24495f49efa7ba3e4d,CVE-2013-2465
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/README.md,ac3174d583cbc0c109e31f24495f49efa7ba3e4d,CVE-2013-1347
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/README.md,ac3174d583cbc0c109e31f24495f49efa7ba3e4d,CVE-2012-1723
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/README.md,ac3174d583cbc0c109e31f24495f49efa7ba3e4d,CVE-2011-0611
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Ember-Bear-APT/README.md,d7694df1fd4532d4f4da2069a4a4a96b97cb4b3a,MS17-11882
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Ember-Bear-APT/README.md,d7694df1fd4532d4f4da2069a4a4a96b97cb4b3a,CVE-2017-11882
+851133210,S3N4T0R-0X0/APT-Attack-Simulation,Russian APT/Energetic-Bear-APT/Malicious-XML.xdp,f40b927157476520a7c1619d984b3c0fa5801c5d,CVE-2011-0611
