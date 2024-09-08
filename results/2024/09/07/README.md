@@ -1,10 +1,11 @@
 
 # Summary for results/2024/09/07
     
-145 records found after deduplication
+147 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
+| electron/node-rcedit | Node module to edit resources of exe | https://github.com/electron/node-rcedit | ['rce'] | 1 | 2024-09-07 17:43:23+00:00 | 29490 | 186 | JavaScript | 36 | [] |
 | mdeous/exploitdb | Shell-style script to search exploit-db.com exploits. | https://github.com/mdeous/exploitdb | ['exploit'] | 1 | 2024-09-07 20:45:27+00:00 | 494 | 59 | Python | 14 | [] |
 | hugsy/gef | GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux | https://github.com/hugsy/gef | ['exploit'] | 1 | 2024-09-07 18:48:27+00:00 | 7422 | 6802 | Python | 720 | [] |
 | hasherezade/pe-sieve | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/pe-sieve | ['shellcode'] | 1 | 2024-09-07 16:15:41+00:00 | 108964 | 3032 | C++ | 422 | [] |
@@ -37,7 +38,7 @@
 | FFJ1/Roblox-Exploits | None | https://github.com/FFJ1/Roblox-Exploits | ['exploit'] | 1 | 2024-09-07 07:14:36+00:00 | 24176 | 1 | Lua | 2 | [] |
 | bellpwn/test | Tutorial Deface, Download shell backdoor, exploit lainnya | https://github.com/bellpwn/test | ['exploit'] | 1 | 2024-09-07 15:50:10+00:00 | 1151 | 1 | PHP | 0 | [] |
 | searabbitx/tapeworm | Inject your shellcode into a code cave at the end of the .text section of a PE file | https://github.com/searabbitx/tapeworm | ['shellcode'] | 1 | 2024-09-07 16:14:53+00:00 | 11 | 1 | Python | 0 | [] |
-| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-09-07 05:49:07+00:00 | 243115 | 138 | Go | 18 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-09-07 04:48:50+00:00 | 243115 | 138 | Go | 18 | [] |
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-09-07 07:57:36+00:00 | 13005 | 241 | | 19 | [] |
 | MickaelFontes/noplp-stats | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | ['exploit'] | 1 | 2024-09-07 12:13:07+00:00 | 6163 | 0 | Python | 0 | [] |
 | Exunys/Exunys-ESP | ROBLOX Universal ESP Module | https://github.com/Exunys/Exunys-ESP | ['exploit'] | 1 | 2024-09-07 15:18:32+00:00 | 369 | 7 | Lua | 3 | [] |
@@ -127,7 +128,7 @@
 | liujianyu2022/sc-exploits-minimized | None | https://github.com/liujianyu2022/sc-exploits-minimized | ['exploit'] | 1 | 2024-09-07 03:11:40+00:00 | 11601 | 0 | Solidity | 0 | [] |
 | dmpdump/SetTimer-Shellcode-Execution | None | https://github.com/dmpdump/SetTimer-Shellcode-Execution | ['shellcode'] | 1 | 2024-09-07 04:01:05+00:00 | 1 | 0 | C++ | 0 | [] |
 | abdulbugblaster/CVE-2024-29184 | None | https://github.com/abdulbugblaster/CVE-2024-29184 | ['cve-2 OR cve_2'] | 1 | 2024-09-07 04:11:39+00:00 | 2 | 0 | | 0 | ['CVE-2024-29184'] |
-| gunzf0x/Grav-CMS-RCE-Authenticated | Exploit against Grav CMS that allows Remote Code Execution for an authenticated user. | https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated | ['exploit', 'rce', 'remote code execution'] | 3 | 2024-09-07 05:19:17+00:00 | 0 | 0 | Python | 0 | [] |
+| gunzf0x/Grav-CMS-RCE-Authenticated | Exploit against Grav CMS that allows Remote Code Execution for an authenticated user. | https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated | ['exploit', 'rce', 'remote code execution'] | 3 | 2024-09-07 05:20:11+00:00 | 0 | 0 | Python | 0 | [] |
 | Errahulaws/fuel-cms-1.4-RCA-exploit | None | https://github.com/Errahulaws/fuel-cms-1.4-RCA-exploit | ['exploit'] | 1 | 2024-09-07 05:16:08+00:00 | 0 | 0 | Python | 0 | [] |
 | 0DayS3c/0DayS3c.github.io | None | https://github.com/0DayS3c/0DayS3c.github.io | ['0day'] | 1 | 2024-09-07 06:49:12+00:00 | 3 | 0 | HTML | 0 | [] |
 | unknownperson89800/Chill-Hack-TryHackme-Walkthrow | Fully Described Cracking the System Using Docker and Command Injection | https://github.com/unknownperson89800/Chill-Hack-TryHackme-Walkthrow | ['command injection'] | 1 | 2024-09-07 06:03:43+00:00 | 3 | 0 | nan | 0 | [] |
@@ -149,4 +150,5 @@
 | FrancescoDiSalesGithub/quick-fix-cve-2024-38063 | quick powershell script to fix cve-2024-38063 | https://github.com/FrancescoDiSalesGithub/quick-fix-cve-2024-38063 | ['cve-2 OR cve_2'] | 1 | 2024-09-07 16:39:07+00:00 | 17 | 0 | PowerShell | 0 | ['CVE-2024-38063'] |
 | nandinigupta2207/Vulnerability-Assessment-Using-ML | This project aims to enhance vulnerability management by using machine learning to predict and prioritize vulnerabilities before they are exploited. | https://github.com/nandinigupta2207/Vulnerability-Assessment-Using-ML | ['exploit'] | 1 | 2024-09-07 17:46:35+00:00 | 4 | 0 | | 0 | [] |
 | tehhav3/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It includes a KeyAuth system for additional security and user management. The cheat is designed to be undetectabl | https://github.com/tehhav3/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2024-09-07 18:50:34+00:00 | 1733 | 1 | C++ | 0 | [] |
+| Jj-joe/RCEoP | None | https://github.com/Jj-joe/RCEoP | ['rce'] | 1 | 2024-09-07 21:39:57+00:00 | 0 | 0 | | 0 | [] |
 | Cheval-Paresseux/Statistical-Arbitrage-Experiment | This repository hosts experiments on statistical arbitrage strategies in financial markets. The aim is to explore and implement various approaches based on time series models and machine learning techniques to identify and exploit market inefficiencies. | https://github.com/Cheval-Paresseux/Statistical-Arbitrage-Experiment | ['exploit'] | 1 | 2024-09-07 22:03:27+00:00 | 1 | 0 | | 0 | [] |
