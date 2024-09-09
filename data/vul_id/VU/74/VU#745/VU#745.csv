@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#745,1.00000000,https://github.com/GalloLuigi/Penetration_Test_of_CyberSploit2,GalloLuigi/Penetration_Test_of_CyberSploit2,808656856
 VU#745,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
+VU#745,0.01219512,https://github.com/SSSSuperX/CVE-2024-28000,SSSSuperX/CVE-2024-28000,854418896
 VU#745,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#745,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#745,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#592,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,482165348
 VU#592,0.06250000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
+VU#592,0.01219512,https://github.com/SSSSuperX/CVE-2024-28000,SSSSuperX/CVE-2024-28000,854418896
 VU#592,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#592,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#592,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
