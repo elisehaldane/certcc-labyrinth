@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+854355028,fa-rrel/Calibre-Vulnerability,XSS.yaml,032a1ae810bc48210f891d558363526e1c5a9316,CVE-2024-7008
+854355028,fa-rrel/Calibre-Vulnerability,RCE.yaml,5831e29693941a5aca31d7779e1eb9e2f23ae2f6,CVE-2024-6782
+854355028,fa-rrel/Calibre-Vulnerability,README.md,8f0f5b234611a10862ff02c31e21e1c56ce2ce17,CVE-2024-6782
+854355028,fa-rrel/Calibre-Vulnerability,README.md,8f0f5b234611a10862ff02c31e21e1c56ce2ce17,CVE-2024-7008
