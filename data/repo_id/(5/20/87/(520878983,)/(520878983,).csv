@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+520878983,MajortomVR/exploits,Webmin_V1.890/exploit.py,570859169b4676d4ca8b140edda31b7f687483cb,CVE-2019-15107
+520878983,MajortomVR/exploits,ThinVNC/exploit.py,c8f4045cfd49670f53dae5719eb3bb31054169dc,CVE-2019-17662
+520878983,MajortomVR/exploits,README.md,fcbf02c632d64bbc6a20c6478937a530d6ed8d88,CVE-2019-15107
+520878983,MajortomVR/exploits,README.md,fcbf02c632d64bbc6a20c6478937a530d6ed8d88,CVE-2019-17662
