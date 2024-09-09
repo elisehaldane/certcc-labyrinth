@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+854599651,lisu60/cve-2018-6574,go.mod,2753bd84ed56da2255b76387d32663fbc69959ba,CVE-2018-6574
+854599651,lisu60/cve-2018-6574,_GITHUB_REPO_METADATA_,,CVE-2018-6574
