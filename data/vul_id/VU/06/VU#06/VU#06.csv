@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#06,1.00000000,https://github.com/thijor/gbcic_2024_cvep_workshop,thijor/gbcic_2024_cvep_workshop,853425670
 VU#06,1.00000000,https://github.com/AymanRbati/appsec-scripts,AymanRbati/appsec-scripts,519871096
 VU#06,1.00000000,https://github.com/Codeta12/test,Codeta12/test,489149437
 VU#06,0.50000000,https://github.com/khushijain21200/XSS_Attack,khushijain21200/XSS_Attack,849318361
