@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-V92F-JX6P-73RX,0.00080906,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+GHSA-V92F-JX6P-73RX,0.00080645,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
 GHSA-V92F-JX6P-73RX,0.00080515,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
-GHSA-V92F-JX6P-73RX,0.00080386,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+GHSA-V92F-JX6P-73RX,0.00080128,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 GHSA-V92F-JX6P-73RX,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-V92F-JX6P-73RX,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-V92F-JX6P-73RX,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
