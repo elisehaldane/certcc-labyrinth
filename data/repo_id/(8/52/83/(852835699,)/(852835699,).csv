@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+852835699,fkie-cad/Android-Bytecode-Exploitation,bytecode-reuse/framework.jar,45463ee41033ea0d89f6c234b8587efb3935175b,VU#861
+852835699,fkie-cad/Android-Bytecode-Exploitation,bytecode-reuse/poc_local.apk,c95b71a1bdccd06a5e51cf7421d5ffcee995cb38,VU#861
+852835699,fkie-cad/Android-Bytecode-Exploitation,bytecode-injection/poc_remote.apk,ddbc7336b8a957dbac87da0a9d87c39cf420dcbf,VU#861
