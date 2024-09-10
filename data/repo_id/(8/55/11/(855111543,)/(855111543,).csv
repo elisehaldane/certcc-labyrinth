@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+855111543,0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944,exploit.py,67a842d3d36b3ff4d405c2cb577ea875f791493d,CVE-2022-0944
+855111543,0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944,README.md,fb77f89c4ffd538d5b7d701c7463a764456e0b92,CVE-2022-0944
+855111543,0xRoqeeb/sqlpad-rce-exploit-CVE-2022-0944,_GITHUB_REPO_METADATA_,,CVE-2022-0944
