@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+855192500,Artemisxxx37/cve-2024-0944,exploit.py,2ea3cbe7824e5227a7eb981314c3e2765f39f902,CVE-2022-0944
+855192500,Artemisxxx37/cve-2024-0944,README.md,2f323d26e0bd1aab3eadcc4543168aca09c63e0e,CVE-2022-0944
+855192500,Artemisxxx37/cve-2024-0944,_GITHUB_REPO_METADATA_,,CVE-2024-0944
