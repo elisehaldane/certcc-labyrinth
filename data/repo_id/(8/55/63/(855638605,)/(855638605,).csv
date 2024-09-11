@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,IT22589668 - CVE-2007-3280.pdf,43e8323c738698eda418c55e2b241d5da0a8f80b,CVE-2007-3280
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,IT22589668 - CVE-2017-0144.pdf,493f461e2c0e15d71db0d62cf6a46f32b2c39e33,CVE-2017-0144
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,README.md,f02821f60d23cf7e7861bdc832458146aecaffdd,CVE-2007-3280
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,README.md,f02821f60d23cf7e7861bdc832458146aecaffdd,CVE-2017-0144
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,README.md,f02821f60d23cf7e7861bdc832458146aecaffdd,CVE-2019-0708
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,IT22589668 - CVE-2019-0708.pdf,fb564d33373b3954d01b8d5580552b7ca1cef877,CVE-2019-0708
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,IT22589668 - CVE-2019-0708.pdf,fb564d33373b3954d01b8d5580552b7ca1cef877,VU#60
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,_GITHUB_REPO_METADATA_,,CVE-2007-3280
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,_GITHUB_REPO_METADATA_,,CVE-2017-0144
+855638605,DenuwanJayasekara/CVE-Exploitation-Reports,_GITHUB_REPO_METADATA_,,CVE-2019-0708
