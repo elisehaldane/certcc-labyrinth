@@ -60,6 +60,7 @@ VU#35,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass
 VU#35,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#35,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
 VU#35,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
+VU#35,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#35,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#35,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#35,0.06666667,https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python,ChloeM1515/Marketing-Analysis-Project-in-Python,672221537
@@ -463,7 +464,7 @@ VU#35,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#35,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#35,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#35,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#35,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#35,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#35,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#35,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#35,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570

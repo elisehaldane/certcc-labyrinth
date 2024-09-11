@@ -153,6 +153,7 @@ VU#37,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rc
 VU#37,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#37,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#37,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#37,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#37,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#37,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
 VU#37,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitro-ssh-rce,582125673
@@ -586,7 +587,7 @@ VU#37,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#37,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#37,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#37,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#37,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#37,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#37,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#37,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#37,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

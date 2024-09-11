@@ -111,6 +111,7 @@ VU#83,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-
 VU#83,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
 VU#83,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#83,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#83,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#83,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#83,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#83,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
@@ -502,7 +503,7 @@ VU#83,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#83,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#83,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#83,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#83,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

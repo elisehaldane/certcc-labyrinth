@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#70,1.00000000,https://github.com/DeogenesMaranan/WebExploitMachine,DeogenesMaranan/WebExploitMachine,853308086
 VU#70,1.00000000,https://github.com/uumair327/guardiancare,uumair327/guardiancare,746319730
 VU#70,1.00000000,https://github.com/S1dNSh1v/Remote-Code-Execution-Engine,S1dNSh1v/Remote-Code-Execution-Engine,729436765
 VU#70,1.00000000,https://github.com/tatedean/threat-aware,tatedean/threat-aware,691759997
@@ -40,6 +41,7 @@ VU#70,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/W
 VU#70,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#70,0.14285714,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
 VU#70,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
+VU#70,0.12500000,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#70,0.12500000,https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,467904542
 VU#70,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#70,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515

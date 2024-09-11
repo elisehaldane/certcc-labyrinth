@@ -65,6 +65,7 @@ VU#95,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-
 VU#95,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#95,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#95,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
+VU#95,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#95,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#95,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#95,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
@@ -351,6 +352,7 @@ VU#95,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,80
 VU#95,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#95,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#95,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+VU#95,0.00115340,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#95,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#95,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#95,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
@@ -362,7 +364,6 @@ VU#95,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#95,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#95,0.00031566,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#95,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

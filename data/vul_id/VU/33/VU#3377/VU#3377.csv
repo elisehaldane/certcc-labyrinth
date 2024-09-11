@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#3377,0.12500000,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#3377,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
 VU#3377,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#3377,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839

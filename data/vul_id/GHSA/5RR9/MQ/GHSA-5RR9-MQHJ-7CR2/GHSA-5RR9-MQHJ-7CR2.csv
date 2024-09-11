@@ -1,4 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5RR9-MQHJ-7CR2,0.00081699,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-5RR9-MQHJ-7CR2,0.00035804,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-5RR9-MQHJ-7CR2,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

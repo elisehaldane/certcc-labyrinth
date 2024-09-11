@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#414,0.12500000,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#414,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
 VU#414,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#414,0.00884956,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571

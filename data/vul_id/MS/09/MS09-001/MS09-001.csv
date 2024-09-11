@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS09-001,0.50000000,https://github.com/christophercaruso96/metasploit_telnet,christophercaruso96/metasploit_telnet,784218170
 MS09-001,0.25000000,https://github.com/tntC4stl3/POC,tntC4stl3/POC,17425373
+MS09-001,0.04000000,https://github.com/0xhav0c/FastVulnVerify,0xhav0c/FastVulnVerify,855686846
 MS09-001,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS09-001,0.01136364,https://github.com/ksmaheshkumar/metasploit,ksmaheshkumar/metasploit,31601285
 MS09-001,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
@@ -200,7 +201,7 @@ MS09-001,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS09-001,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS09-001,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS09-001,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS09-001,0.00018734,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS09-001,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS09-001,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS09-001,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS09-001,0.00005376,https://github.com/cvebase/cvebase.com,cvebase/cvebase.com,300791308
