@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+855566883,kryptonproject/CVE-2024-5522-PoC,README.md,aa7e04d7301bde9cbc52712c66589f09d7da1ca5,CVE-2024-5522
+855566883,kryptonproject/CVE-2024-5522-PoC,exploit.py,e3e0b9cfa11c962fcef1f983cbc00db01cf12536,CVE-2024-5522
+855566883,kryptonproject/CVE-2024-5522-PoC,_GITHUB_REPO_METADATA_,,CVE-2024-5522
