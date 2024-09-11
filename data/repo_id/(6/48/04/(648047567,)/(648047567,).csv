@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/4_symbex.md,0359057164584d54fc582d552dac52bbaec76c2f,CVE-2022-27646
+648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/4_symbex.md,072d6670224999f901f4196409e083334eb13d57,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_01.svg,11c96aa6417297e0587cd4f123f2a88e34b58926,VU#55
 648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/5_vulnerability.md,1cce2751155611fe3bc883866952219a2f50b6d7,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/5_vulnerability.md,1cce2751155611fe3bc883866952219a2f50b6d7,CVE-2022-27644
@@ -22,16 +22,16 @@ repo_id,repo_full_name,file,file_sha1,match
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/Morion_Overview.svg,7fb309adce7a99f42ea36582e2d253c2f26f1bb0,VU#06
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/Morion_Overview.svg,7fb309adce7a99f42ea36582e2d253c2f26f1bb0,VU#94
 648047567,cyber-defence-campus/netgear_r6700v3_circled,server/circled.server.py,96c93da05c0d5756345965c9d5bfe6e2c3bcd1ad,CVE-2022-27646
-648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/6_exploitation.md,9df1942382b35a79a5f4473c056eb317a733ad71,CVE-2022-27646
+648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/6_exploitation.md,a5cf73d683e2a7a7b34bf7d43e52540b8a779f72,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_03.svg,aa885b6034f2892f49e271b89df94634bc3ef753,VU#50
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_03.svg,aa885b6034f2892f49e271b89df94634bc3ef753,VU#12
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_03.svg,aa885b6034f2892f49e271b89df94634bc3ef753,VU#31
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_03.svg,aa885b6034f2892f49e271b89df94634bc3ef753,VU#29
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_03.svg,aa885b6034f2892f49e271b89df94634bc3ef753,VU#710
-648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/3_tracing.md,abfd2f487d2dc824c41cc160a072ca052e936f71,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/1_setup.md,b168e703a25140dc90b8ece7c38001be608bd25c,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_02.svg,e981688173315a6caaec78fe40bdb1ddb87be576,VU#397
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_02.svg,e981688173315a6caaec78fe40bdb1ddb87be576,VU#67
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_02.svg,e981688173315a6caaec78fe40bdb1ddb87be576,VU#37
 648047567,cyber-defence-campus/netgear_r6700v3_circled,images/RE_Vuln_02.svg,e981688173315a6caaec78fe40bdb1ddb87be576,VU#252
+648047567,cyber-defence-campus/netgear_r6700v3_circled,docs/3_tracing.md,fd16bc7d776ca0ea66918377b491439e350fc121,CVE-2022-27646
 648047567,cyber-defence-campus/netgear_r6700v3_circled,_GITHUB_REPO_METADATA_,,CVE-2022-27646
