@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#03
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#23
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#26
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#35
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#37
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#39
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#45
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#46
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#56
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#59
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#74
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#83
+855573158,safeer-accuknox/log4j-shell-poc,JNDI-exploit-kit/JNDI-Exploit-Kit.jar,43faaeba047eae9d52bf9591f216df88a17c3dbd,VU#95
+855573158,safeer-accuknox/log4j-shell-poc,_GITHUB_REPO_METADATA_,,CVE-2021-44228
