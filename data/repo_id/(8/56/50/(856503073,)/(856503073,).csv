@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+856503073,impost0r/CVE-2022-1388,exploit.py,2e93f7ad3455ec78144bf1f27eac47dc8a19ff06,CVE-2022-1388
+856503073,impost0r/CVE-2022-1388,_GITHUB_REPO_METADATA_,,CVE-2022-1388
