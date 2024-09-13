@@ -1,4 +1,16 @@
 repo_id,repo_full_name,file,file_sha1,match
-853012766,OnomatoPwn/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,CVE-2019-1132
-853012766,OnomatoPwn/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,CVE-2019-1215
-853012766,OnomatoPwn/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,MS17-010
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,"Buffer Overflow Attacks - Detect, Exploit, Prevent (2005).pdf",0c08aa0fa237fffefcba870df2790588676b471e,VU#85
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,CVE-2019-1132
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,CVE-2019-1215
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,windows_mitigations.md,b85e60fd359b97fddbb4c62478feb710bb31532c,MS17-010
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,"Exploiting_Software_How_to_Break_Code_G_Hoglund,_et_al_,_Addison.pdf",bad0c21cdd099730c2edbe54e7d5b9b4fbd64b0b,VU#62
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#00
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#10
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#35
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#48
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#58
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#80
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#82
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#84
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#88
+853012766,ring0-c0d3-br34k3r/Exploit-Development-Notes,5_6242083001585369332.pdf,c89a84169b89cd79af2addf04aa94942064f9b5c,VU#98
