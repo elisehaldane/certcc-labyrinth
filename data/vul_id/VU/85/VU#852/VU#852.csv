@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#852,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#852,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#852,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
+VU#852,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#852,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#852,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#852,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980

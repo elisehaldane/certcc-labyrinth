@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#597,0.33333333,https://github.com/ngshaohui/ATutor,ngshaohui/ATutor,732318639
 VU#597,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#597,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#597,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#597,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#597,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#597,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828

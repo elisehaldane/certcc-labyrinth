@@ -82,6 +82,7 @@ VU#10,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corn
 VU#10,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
 VU#10,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#10,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
+VU#10,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes,ring0-c0d3-br34k3r/Exploit-Development-Notes,853012766
 VU#10,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-3094,780415912
 VU#10,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#10,0.06666667,https://github.com/WinstonShine/f23-binary-exploitation,WinstonShine/f23-binary-exploitation,697567791
@@ -333,6 +334,7 @@ VU#10,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Usin
 VU#10,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#10,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#10,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
+VU#10,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#10,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#10,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#10,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690

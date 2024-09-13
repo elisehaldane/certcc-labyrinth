@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#21,1.00000000,https://github.com/lvkien19112001/shellcode,lvkien19112001/shellcode,856994505
 VU#21,1.00000000,https://github.com/Neo-Maoku/DllMainHijacking,Neo-Maoku/DllMainHijacking,771810138
 VU#21,1.00000000,https://github.com/yadhukrishnam/bi0sCTF22,yadhukrishnam/bi0sCTF22,592319698
 VU#21,1.00000000,https://github.com/marik22354/Python-Payload-Crypter-V1,marik22354/Python-Payload-Crypter-V1,493417206
@@ -166,6 +167,7 @@ VU#21,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in
 VU#21,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#21,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#21,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
+VU#21,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
 VU#21,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
 VU#21,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#21,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
@@ -424,6 +426,7 @@ VU#21,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,68
 VU#21,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#21,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
 VU#21,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
+VU#21,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#21,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#21,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#21,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
