@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7GWQ-XQW3-CR63,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-7GWQ-XQW3-CR63,0.00000871,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-7GWQ-XQW3-CR63,0.00000867,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-7GWQ-XQW3-CR63,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-7GWQ-XQW3-CR63,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-7GWQ-XQW3-CR63,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

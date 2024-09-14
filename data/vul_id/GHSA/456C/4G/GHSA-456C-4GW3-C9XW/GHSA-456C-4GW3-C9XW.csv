@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-456C-4GW3-C9XW,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-456C-4GW3-C9XW,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-456C-4GW3-C9XW,0.00000871,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-456C-4GW3-C9XW,0.00000867,https://github.com/trickest/cve,trickest/cve,454015416

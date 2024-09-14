@@ -165,7 +165,6 @@ VU#29,0.10000000,https://github.com/SathruwanCooray/Phantom_Wallet_Passphrase_Cr
 VU#29,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#29,0.10000000,https://github.com/7Rocky/HackTheBox-scripts,7Rocky/HackTheBox-scripts,420396093
 VU#29,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
-VU#29,0.09090909,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#29,0.09090909,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
 VU#29,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#29,0.09090909,https://github.com/allwin199/common-exploits-web3,allwin199/common-exploits-web3,765075257
@@ -188,6 +187,7 @@ VU#29,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-
 VU#29,0.08333333,https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,468803860
 VU#29,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#29,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
+VU#29,0.07692308,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#29,0.07692308,https://github.com/pxcs/CrackMacExpo,pxcs/CrackMacExpo,796882501
 VU#29,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#29,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
@@ -315,10 +315,10 @@ VU#29,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-
 VU#29,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#29,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#29,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
+VU#29,0.02702703,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#29,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#29,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
-VU#29,0.02631579,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
@@ -404,6 +404,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#29,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#29,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924

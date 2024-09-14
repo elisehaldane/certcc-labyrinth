@@ -95,7 +95,6 @@ VU#03,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
 VU#03,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#03,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#03,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
-VU#03,0.09090909,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#03,0.09090909,https://github.com/fffffw1/shiro_exploit,fffffw1/shiro_exploit,845494228
 VU#03,0.09090909,https://github.com/BLACKHATSGODBOLTE/LFI-RCE,BLACKHATSGODBOLTE/LFI-RCE,783250491
 VU#03,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
@@ -115,6 +114,7 @@ VU#03,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/
 VU#03,0.08333333,https://github.com/catp3rson/crypto_exploits,catp3rson/crypto_exploits,382872016
 VU#03,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
 VU#03,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
+VU#03,0.07692308,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#03,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#03,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
 VU#03,0.07692308,https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467,yukselberkay/CVE-2023-49070_CVE-2023-51467,742169705
@@ -178,10 +178,10 @@ VU#03,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids
 VU#03,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#03,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
 VU#03,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
+VU#03,0.02702703,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#03,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#03,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#03,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
-VU#03,0.02631579,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#03,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#03,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#03,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
