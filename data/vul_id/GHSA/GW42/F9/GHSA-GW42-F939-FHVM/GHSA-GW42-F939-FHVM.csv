@@ -2,10 +2,10 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-GW42-F939-FHVM,0.02325581,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
 GHSA-GW42-F939-FHVM,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-GW42-F939-FHVM,0.00183486,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
-GHSA-GW42-F939-FHVM,0.00115340,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-GW42-F939-FHVM,0.00081699,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-GW42-F939-FHVM,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-GW42-F939-FHVM,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
+GHSA-GW42-F939-FHVM,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-GW42-F939-FHVM,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 GHSA-GW42-F939-FHVM,0.00019482,https://github.com/Rayo20/METASPLOIT,Rayo20/METASPLOIT,669333997
 GHSA-GW42-F939-FHVM,0.00019286,https://github.com/Saurabh1973/Metasploit_Framework,Saurabh1973/Metasploit_Framework,695886910
@@ -21,8 +21,8 @@ GHSA-GW42-F939-FHVM,0.00018836,https://github.com/dzulqarnain28/metasploit-frame
 GHSA-GW42-F939-FHVM,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 GHSA-GW42-F939-FHVM,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-GW42-F939-FHVM,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-GHSA-GW42-F939-FHVM,0.00015911,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-GHSA-GW42-F939-FHVM,0.00013893,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-GW42-F939-FHVM,0.00015906,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-GW42-F939-FHVM,0.00013891,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-GW42-F939-FHVM,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 GHSA-GW42-F939-FHVM,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-GW42-F939-FHVM,0.00006146,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029

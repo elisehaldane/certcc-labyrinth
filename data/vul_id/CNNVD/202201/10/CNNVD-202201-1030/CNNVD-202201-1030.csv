@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNNVD-202201-1030,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 CNNVD-202201-1030,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 CNNVD-202201-1030,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
-CNNVD-202201-1030,0.00115340,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
+CNNVD-202201-1030,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256

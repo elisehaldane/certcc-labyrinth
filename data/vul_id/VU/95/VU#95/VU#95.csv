@@ -207,8 +207,8 @@ VU#95,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#95,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#95,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#95,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
+VU#95,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#95,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
-VU#95,0.00990099,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#95,0.00990099,https://github.com/Chhers/FiveM-External-Cheat-KeyAuth-System,Chhers/FiveM-External-Cheat-KeyAuth-System,852967537
 VU#95,0.00990099,https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System,IChres/FiveM-External-Cheat-KeyAuth-System,840427185
 VU#95,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,0chres0/FiveM-External-Cheat-KeyAuth-System,834754324
@@ -354,7 +354,6 @@ VU#95,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,80
 VU#95,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#95,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#95,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
-VU#95,0.00115340,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#95,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#95,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#95,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
