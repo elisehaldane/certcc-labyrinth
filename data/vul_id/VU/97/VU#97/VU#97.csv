@@ -194,7 +194,6 @@ VU#97,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#97,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#97,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#97,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#97,0.02000000,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#97,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#97,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#97,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
@@ -208,7 +207,6 @@ VU#97,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#97,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#97,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#97,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
-VU#97,0.01724138,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#97,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#97,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#97,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
@@ -218,6 +216,7 @@ VU#97,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22
 VU#97,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#97,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#97,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/COVID-19-Paper-Analysis,846274713
+VU#97,0.01587302,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#97,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#97,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#97,0.01515152,https://github.com/trhacknon/Exploiter,trhacknon/Exploiter,523523373
@@ -280,6 +279,7 @@ VU#97,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#97,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#97,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#97,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#97,0.00990099,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#97,0.00990099,https://github.com/Chhers/FiveM-External-Cheat-KeyAuth-System,Chhers/FiveM-External-Cheat-KeyAuth-System,852967537
 VU#97,0.00990099,https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System,IChres/FiveM-External-Cheat-KeyAuth-System,840427185
 VU#97,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,0chres0/FiveM-External-Cheat-KeyAuth-System,834754324
