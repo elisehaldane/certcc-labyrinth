@@ -64,6 +64,7 @@ VU#32,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#32,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#32,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#32,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#32,0.25000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#32,0.25000000,https://github.com/bboywangxinyu/Command-dataset,bboywangxinyu/Command-dataset,775311200
 VU#32,0.25000000,https://github.com/MdRimon18/rcelleApp,MdRimon18/rcelleApp,749133956
 VU#32,0.25000000,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
@@ -81,7 +82,6 @@ VU#32,0.25000000,https://github.com/poopMaster2000/IdKv2Hub,poopMaster2000/IdKv2
 VU#32,0.25000000,https://github.com/SitinCloud/Owlyshield,SitinCloud/Owlyshield,415018696
 VU#32,0.25000000,https://github.com/MaherAzzouzi/LinuxExploitation,MaherAzzouzi/LinuxExploitation,248117918
 VU#32,0.25000000,https://github.com/nishantparhi/Custom-Kernel-Exploit,nishantparhi/Custom-Kernel-Exploit,244973462
-VU#32,0.20000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#32,0.20000000,https://github.com/MiracleUFO/LendWise,MiracleUFO/LendWise,672371512
 VU#32,0.20000000,https://github.com/PabloMK7/ENLBufferPwn,PabloMK7/ENLBufferPwn,581221755
 VU#32,0.20000000,https://github.com/N1rv0us/kernel_exploitation,N1rv0us/kernel_exploitation,556869304
@@ -418,7 +418,7 @@ VU#32,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_
 VU#32,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#32,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#32,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
-VU#32,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#32,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#32,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#32,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#32,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551

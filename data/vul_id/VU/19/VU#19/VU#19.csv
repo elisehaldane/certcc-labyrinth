@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#19,1.00000000,https://github.com/Hexcein-moonsters/bookwidgets-password-hack,Hexcein-moonsters/bookwidgets-password-hack,858073929
 VU#19,1.00000000,https://github.com/odneavvn/doc-macro-exploit,odneavvn/doc-macro-exploit,815838373
 VU#19,1.00000000,https://github.com/lmertz2/Proxyshell-Exploit,lmertz2/Proxyshell-Exploit,581621472
 VU#19,1.00000000,https://github.com/InfoSecWarrior/Offensive-Payloads,InfoSecWarrior/Offensive-Payloads,567665994
@@ -264,7 +265,7 @@ VU#19,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-c
 VU#19,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#19,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#19,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
-VU#19,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
+VU#19,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#19,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#19,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#19,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
@@ -429,7 +430,7 @@ VU#19,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exp
 VU#19,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#19,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#19,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#19,0.00080064,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#19,0.00079936,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#19,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#19,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#19,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511

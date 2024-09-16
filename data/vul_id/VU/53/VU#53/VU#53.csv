@@ -34,7 +34,6 @@ VU#53,0.25000000,https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847,stf
 VU#53,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#53,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
 VU#53,0.20000000,https://github.com/truonghuuphuc/CVE-2024-30491-Poc,truonghuuphuc/CVE-2024-30491-Poc,795962526
-VU#53,0.20000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#53,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
 VU#53,0.20000000,https://github.com/pswalia2u/CVE-2020-7246,pswalia2u/CVE-2020-7246,537412534
 VU#53,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
@@ -265,8 +264,8 @@ VU#53,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#53,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#53,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#53,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
-VU#53,0.01052632,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#53,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
+VU#53,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#53,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#53,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#53,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
