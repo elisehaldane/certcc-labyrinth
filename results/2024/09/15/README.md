@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/15
     
-128 records found after deduplication
+130 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -54,6 +54,7 @@
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2024-09-15 12:05:51+00:00 | 80497 | 0 | | 0 | [] |
 | Nero22k/Exploits | Repo with different exploits & PoCs | https://github.com/Nero22k/Exploits | ['exploit'] | 1 | 2024-09-15 15:31:21+00:00 | 148 | 56 | C | 12 | [] |
 | Shelter1234/VulneraLab | 该项目收集了很多厂商产品CMS的漏洞环境，以web为主。漏洞环境主要以Dockerfile的文件形式呈现，用户只需一键启动相应漏斗环境，使用项目文章中提供的poc，便可进行复现。 | https://github.com/Shelter1234/VulneraLab | ['vuln poc'] | 1 | 2024-09-15 03:51:55+00:00 | 33717 | 27 | PLpgSQL | 5 | [] |
+| AlSploit/AlSploit | nan | https://github.com/AlSploit/AlSploit | ['sploit'] | 1 | 2024-09-15 21:53:27+00:00 | 2044 | 2 | Lua | 5 | [] |
 | AlexandruCostea/Heap-Corruption | A Stack Overflow-inspired app that fosters collaboration among IT professionals for effective issue resolution and knowledge sharing. | https://github.com/AlexandruCostea/Heap-Corruption | ['heap overflow'] | 1 | 2024-09-15 19:33:12+00:00 | 299 | 0 | JavaScript | 0 | [] |
 | For-ACGN/GRT-PELoader | A PE Loader that can hide your instruction and memory data in the sleep time. | https://github.com/For-ACGN/GRT-PELoader | ['shellcode'] | 1 | 2024-09-15 13:32:35+00:00 | 793 | 1 | C | 0 | [] |
 | For-ACGN/Gleam-RT | A Runtime that can hide your instruction and memory data in the sleep time. | https://github.com/For-ACGN/Gleam-RT | ['shellcode'] | 1 | 2024-09-15 13:24:41+00:00 | 1453 | 6 | C | 1 | [] |
@@ -98,9 +99,10 @@
 | cyberpunk-afanx/pyhtb | Python Lib For Web Exploit Development | https://github.com/cyberpunk-afanx/pyhtb | ['exploit'] | 1 | 2024-09-15 15:39:59+00:00 | 5 | 0 | Python | 0 | [] |
 | Morgan1420/Cassini_Hackathon | Find potential areas to exploit eolic energy | https://github.com/Morgan1420/Cassini_Hackathon | ['exploit'] | 1 | 2024-09-15 12:06:44+00:00 | 1706386 | 0 | Jupyter Notebook | 0 | [] |
 | povargek/MiTurboFix | SA:MP 0.3.7 RCE Vulnerabilities Fix plugin | https://github.com/povargek/MiTurboFix | ['rce'] | 1 | 2024-09-15 00:46:45+00:00 | 17 | 2 | C++ | 0 | [] |
-| Chocapikk/CVE-2024-8504 | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | https://github.com/Chocapikk/CVE-2024-8504 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2024-09-15 15:32:42+00:00 | 77 | 12 | Python | 1 | ['CVE-2024-8503', 'CVE-2024-8504'] |
+| Chocapikk/CVE-2024-8504 | VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504) | https://github.com/Chocapikk/CVE-2024-8504 | ['cve-2 OR cve_2', 'exploit', 'rce'] | 3 | 2024-09-15 15:32:42+00:00 | 77 | 13 | Python | 1 | ['CVE-2024-8503', 'CVE-2024-8504'] |
 | Quantum-Hacker/CVE-2024-2876 | None | https://github.com/Quantum-Hacker/CVE-2024-2876 | ['cve-2 OR cve_2'] | 1 | 2024-09-15 15:53:50+00:00 | 9 | 0 | | 0 | ['CVE-2024-2876'] |
 | suryavirkapur/sandcode | web-based remote code execution | https://github.com/suryavirkapur/sandcode | ['remote code execution'] | 1 | 2024-09-15 04:19:18+00:00 | 5766 | 0 | TypeScript | 0 | [] |
+| sinsinology/CVE-2024-29847 | Exploit for CVE-2024-29847 | https://github.com/sinsinology/CVE-2024-29847 | ['exploit'] | 1 | 2024-09-15 08:07:22+00:00 | 1882 | 0 | ASP.NET | 0 | ['CVE-2024-29847'] |
 | justrealcarl/DevHaxx | DevHaxx is the BEST i-Ready Utility | https://github.com/justrealcarl/DevHaxx | ['exploit'] | 1 | 2024-09-15 18:10:37+00:00 | 1163 | 0 | | 0 | [] |
 | codingcore14/PDF-SILENT-EXPLOIT-CLEAN-LO | None | https://github.com/codingcore14/PDF-SILENT-EXPLOIT-CLEAN-LO | ['exploit'] | 1 | 2024-09-15 00:58:15+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/DOC-SILENT-EXPLOIT-CLEAN-LO | None | https://github.com/codingcore14/DOC-SILENT-EXPLOIT-CLEAN-LO | ['exploit'] | 1 | 2024-09-15 00:58:48+00:00 | 2 | 1 | | 0 | [] |
