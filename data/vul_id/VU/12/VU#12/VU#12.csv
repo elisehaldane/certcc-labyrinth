@@ -45,6 +45,7 @@ VU#12,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrSho
 VU#12,0.09090909,https://github.com/wellafl3x/infotecs_TI_automation,wellafl3x/infotecs_TI_automation,762888104
 VU#12,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#12,0.09090909,https://github.com/lsecqt/CVE-2022-26923-Powershell-POC,lsecqt/CVE-2022-26923-Powershell-POC,525955636
+VU#12,0.07692308,https://github.com/Jassu7082/FAW,Jassu7082/FAW,858622127
 VU#12,0.07692308,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#12,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#12,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
@@ -377,7 +378,7 @@ VU#12,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#12,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#12,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#12,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#12,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#12,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#12,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#12,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#12,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
@@ -522,7 +523,7 @@ VU#12,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#12,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#12,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#12,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#12,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00018716,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#12,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

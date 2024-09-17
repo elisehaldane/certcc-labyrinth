@@ -163,7 +163,7 @@ VU#25,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque
 VU#25,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#25,0.04166667,https://github.com/MariliaMeira/CVE-2019-14287,MariliaMeira/CVE-2019-14287,550531926
 VU#25,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
-VU#25,0.04166667,https://github.com/N3rdyN3xus/MS17-010_CVE-2017-0143,N3rdyN3xus/MS17-010_CVE-2017-0143,384203070
+VU#25,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
 VU#25,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
 VU#25,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#25,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
@@ -274,8 +274,8 @@ VU#25,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/CO
 VU#25,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#25,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#25,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
-VU#25,0.01587302,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#25,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
+VU#25,0.01538462,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#25,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#25,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
 VU#25,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
@@ -366,7 +366,7 @@ VU#25,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPre
 VU#25,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#25,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#25,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#25,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#25,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#25,0.00884956,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#25,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#25,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
@@ -416,7 +416,7 @@ VU#25,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#25,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#25,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#25,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#25,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#25,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#25,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#25,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#25,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
@@ -581,7 +581,7 @@ VU#25,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#25,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#25,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#25,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#25,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00018716,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

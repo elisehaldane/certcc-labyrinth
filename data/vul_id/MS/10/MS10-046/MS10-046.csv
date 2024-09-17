@@ -59,9 +59,9 @@ MS10-046,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550
 MS10-046,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS10-046,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS10-046,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-MS10-046,0.00080451,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
+MS10-046,0.00080192,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
 MS10-046,0.00080064,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
-MS10-046,0.00079936,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+MS10-046,0.00079681,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 MS10-046,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS10-046,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS10-046,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
@@ -188,7 +188,7 @@ MS10-046,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS10-046,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS10-046,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS10-046,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS10-046,0.00018727,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS10-046,0.00018716,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS10-046,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS10-046,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS10-046,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
