@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/16
     
-173 records found after deduplication
+175 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -48,6 +48,7 @@
 | jrson83/savescum | A command-line tool & webinterface, to efficiently save scum on an exploitable PS4/PS5. | https://github.com/jrson83/savescum | ['exploit'] | 1 | 2024-09-16 03:16:31+00:00 | 1958 | 3 | TypeScript | 0 | [] |
 | DataDog/KubeHound | Tool for building Kubernetes attack paths | https://github.com/DataDog/KubeHound | ['exploit'] | 1 | 2024-09-16 08:16:42+00:00 | 42603 | 746 | Go | 41 | [] |
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2024-09-16 00:29:14+00:00 | 1830252 | 5 | Jupyter Notebook | 1 | [] |
+| MatanBudimir/remote-code-execution-api | None | https://github.com/MatanBudimir/remote-code-execution-api | ['remote code execution'] | 1 | 2024-09-16 22:13:31+00:00 | 46 | 0 | Go | 0 | [] |
 | lucagrippa/cisa-kev-archive | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | ['exploit'] | 1 | 2024-09-16 23:32:00+00:00 | 4287 | 0 | | 0 | [] |
 | AndrePatri/LRHControl | Learning-based Receding Horizon Control exploiting Reinforcement Learning | https://github.com/AndrePatri/LRHControl | ['exploit'] | 1 | 2024-09-16 15:13:50+00:00 | 3313 | 3 | Python | 0 | [] |
 | n132/libx | A Linux Kernel Exploitation C Library | https://github.com/n132/libx | ['exploit'] | 1 | 2024-09-16 00:03:15+00:00 | 146 | 3 | C | 0 | [] |
@@ -82,7 +83,7 @@
 | x86-512/Polymorpheus | A polymorphic/metamorphic shellcode obfuscator designed for shellcodes/implants that need to run in W^X memory. | https://github.com/x86-512/Polymorpheus | ['shellcode'] | 1 | 2024-09-16 17:54:03+00:00 | 310 | 0 | Python | 0 | [] |
 | xosnrdev/rce-images | RCE Runtime Images for running user code. | https://github.com/xosnrdev/rce-images | ['rce'] | 1 | 2024-09-16 19:25:21+00:00 | 4948 | 1 | Nix | 0 | [] |
 | xosnrdev/rce-runner | None | https://github.com/xosnrdev/rce-runner | ['rce'] | 1 | 2024-09-16 19:21:07+00:00 | 19 | 1 | Rust | 1 | [] |
-| b0ySie7e/Pluck_Cms_4.7.18_RCE_Exploit | Automated script in the creation of php and zip file for upload, this script is based on Pluck Cms 4.7.18 RCE. | https://github.com/b0ySie7e/Pluck_Cms_4.7.18_RCE_Exploit | ['exploit', 'rce'] | 2 | 2024-09-16 17:50:43+00:00 | 7 | 2 | Python | 0 | [] |
+| b0ySie7e/Pluck_Cms_4.7.18_RCE_Exploit | Automated script in the creation of php and zip file for upload, this script is based on Pluck Cms 4.7.18 RCE. | https://github.com/b0ySie7e/Pluck_Cms_4.7.18_RCE_Exploit | ['exploit', 'rce'] | 2 | 2024-09-16 17:50:43+00:00 | 4 | 2 | Python | 0 | [] |
 | CaenJones/ChromeSEC | A guide for admins to secure chromeOS devices through the admin console. | https://github.com/CaenJones/ChromeSEC | ['exploit'] | 1 | 2024-09-16 15:25:24+00:00 | 181 | 5 | HTML | 0 | [] |
 | LuSlower/FilterKeysModder | exploit FilterKeys values | https://github.com/LuSlower/FilterKeysModder | ['exploit'] | 1 | 2024-09-16 22:51:59+00:00 | 37 | 0 | PowerShell | 0 | [] |
 | h22n/Exploit-APN | h22n - World APN Service / Latest version 2024 | https://github.com/h22n/Exploit-APN | ['exploit'] | 1 | 2024-09-16 15:49:28+00:00 | 49 | 0 | | 0 | [] |
@@ -152,6 +153,7 @@
 | kdairatchi/port-scanner-exploitdb | None | https://github.com/kdairatchi/port-scanner-exploitdb | ['exploit'] | 1 | 2024-09-16 17:15:18+00:00 | 0 | 0 | | 0 | [] |
 | 8f8gigohohu/ExploitDarlenepRO.zip | ExploitDarlenepRO.zip | https://github.com/8f8gigohohu/ExploitDarlenepRO.zip | ['exploit'] | 1 | 2024-09-16 17:43:00+00:00 | 0 | 0 | | 0 | [] |
 | 0dayCTF/CVE-2020-9484 | Remake of CVE-2020-9484 by Pentestical | https://github.com/0dayCTF/CVE-2020-9484 | ['cve-2 OR cve_2'] | 1 | 2024-09-16 18:22:36+00:00 | 7 | 3 | Python | 0 | ['CVE-2020-9484'] |
+| bi-zone/CVE-2024-7965 | This repository contains PoC for CVE-2024-7965. This is the vulnerability in the V8 that occurs only within ARM64. | https://github.com/bi-zone/CVE-2024-7965 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2024-09-16 19:44:54+00:00 | 3 | 6 | JavaScript | 1 | ['CVE-2024-7965'] |
 | EvilBytecode/EByte-Shellcode-Loader | shellcode loader that uses indirect syscalls written in D Lang The loader bypasses user-mode hooks by resolving system calls manually from NTDLL using a hash-based method. | https://github.com/EvilBytecode/EByte-Shellcode-Loader | ['shellcode'] | 1 | 2024-09-16 19:28:41+00:00 | 145 | 2 | D | 0 | [] |
 | Saboor-Hakimi/CVE-2018-6574 | None | https://github.com/Saboor-Hakimi/CVE-2018-6574 | ['cve-2 OR cve_2'] | 1 | 2024-09-16 19:41:01+00:00 | 2 | 0 | Go | 0 | ['CVE-2018-6574'] |
 | blookethacksnum1/OTW-Client-Blooket-hacks- | clients for exploiting in blooket | https://github.com/blookethacksnum1/OTW-Client-Blooket-hacks- | ['exploit'] | 1 | 2024-09-16 19:55:58+00:00 | 57 | 0 | | 0 | [] |
