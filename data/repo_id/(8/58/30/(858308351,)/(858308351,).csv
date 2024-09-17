@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+858308351,kdairatchi/port-scanner-exploitdb,exploitdb-API/schema.sql,5e05e718a47d7676d00add6dcbaf47104483fcaa,CVE-2021-12345
+858308351,kdairatchi/port-scanner-exploitdb,README.md,fb3cc7f3deed477b6f359554b477d569f9a6faa3,CVE-2021-12345
