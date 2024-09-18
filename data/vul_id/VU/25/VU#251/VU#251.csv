@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#251,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#251,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
 VU#251,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+VU#251,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#251,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#251,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#251,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794

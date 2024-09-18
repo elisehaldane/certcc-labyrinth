@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#043,0.33333333,https://github.com/h0cksr/Fastjson--CVE-2017-18349-,h0cksr/Fastjson--CVE-2017-18349-,481674832
 VU#043,0.25000000,https://github.com/Dlol/exploitsite,Dlol/exploitsite,460512744
 VU#043,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
+VU#043,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#043,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#043,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#043,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
