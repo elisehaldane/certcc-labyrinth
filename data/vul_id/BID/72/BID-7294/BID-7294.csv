@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-7294,0.33333333,https://github.com/KernelPan1k/trans2open-CVE-2003-0201,KernelPan1k/trans2open-CVE-2003-0201,357315738
+BID-7294,0.25000000,https://github.com/byt3n33dl3/CrypeAlbatros,byt3n33dl3/CrypeAlbatros,859387276
 BID-7294,0.25000000,https://github.com/piyush-saurabh/exploits,piyush-saurabh/exploits,106070058
 BID-7294,0.00531915,https://github.com/sshayb/exploit_scripts,sshayb/exploit_scripts,227637487
 BID-7294,0.00154799,https://github.com/radar-webhook-testing/metasploit-framework-commits,radar-webhook-testing/metasploit-framework-commits,744218740
