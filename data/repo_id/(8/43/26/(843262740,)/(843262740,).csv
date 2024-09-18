@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+843262740,DF1sh/TryHackMe-Rooms,Vulnerability Capstone/exploit.py,0f62c073af2b9cc53997b6833569e17c0fefe97d,CVE-2018-16763
+843262740,DF1sh/TryHackMe-Rooms,Linux Privilege Escalation/README.md,474aee403e3cebb62499d407a3cd536a3a68fc16,CVE-2015-1328
+843262740,DF1sh/TryHackMe-Rooms,Phishing/README.md,6fe9d094698a50c14fd493da5546eb7b9faba848,CVE-2021-40444
+843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS08-067
+843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS17-010
+843262740,DF1sh/TryHackMe-Rooms,Incident handling with Splunk/README.md,a97af3f9925468c2db9b9ef648b748b9e803493b,CVE-2014-6271
+843262740,DF1sh/TryHackMe-Rooms,Vulnerability Capstone/README.md,b72dcbeb62b8c25165a8148630f0048a4fcbed56,CVE-2018-16763
+843262740,DF1sh/TryHackMe-Rooms,Phishing Analysis Tools/README.md,c689a5cbac30a4da103dfdcee0547ade57096770,CVE-2017-11882
+843262740,DF1sh/TryHackMe-Rooms,Snort Challenge - The Basics/README.md,c9f408dbe9f229f4025715b30aba8c5fe1aa1a91,MS17-010
+843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2007-0017
+843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2016-1240
+843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2019-18634
+843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2020-10385
+843262740,DF1sh/TryHackMe-Rooms,Nmap Post Port Scans/README.md,dd2f64d1d4d232c3421101549219ae442a62ad43,MS15-034
