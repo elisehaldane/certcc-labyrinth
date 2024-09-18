@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+859387276,byt3n33dl3/CrypeAlbatros,README.md,38b15a6e25d3b607b0a733b8fb9b7e857f8fa53a,CVE-2020-0688
+859387276,byt3n33dl3/CrypeAlbatros,kit/smb-exploit.c,53ab74ae9cb1e25f8b527559ccbece06b79e3b9c,BID-7294
+859387276,byt3n33dl3/CrypeAlbatros,kit/main-neo.c,cee3810c61d9539ea49da23d2797ee9afbf06546,CVE-2009-2698
+859387276,byt3n33dl3/CrypeAlbatros,kit/heartbleed.py,eec74a624b9c3f083f380dbe10df9dd6b80f2773,CVE-2014-0160
