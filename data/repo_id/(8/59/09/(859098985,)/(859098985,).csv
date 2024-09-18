@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CVE-2024-4040-EXPLOIT/crushed.py,0e5f2650cbd9a752443a8fcdfab4baacba40dc10,CVE-2024-4040
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,k8s.yaml,270fae1664208ead4295e163be26dec4e1aab073,CVE-2024-4040
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,README.md,a01102111f7aeed8a77a611080de84aac5e553ac,CVE-2024-4040
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CVE-2024-4040-EXPLOIT/README.md,c0ef92053d53a06a7ad43b8ea9627b1cfa456592,CVE-2024-4040
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#02
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#04
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#06
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#14
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#29
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#34
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#37
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#39
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#55
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#66
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#96
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,_GITHUB_REPO_METADATA_,,CVE-2024-4040
