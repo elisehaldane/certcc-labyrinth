@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS14-064,1.00000000,https://github.com/CyberwarriorMetasploit/RubySMB-Error---MS14-64-58-SMB_PSEXEC,CyberwarriorMetasploit/RubySMB-Error---MS14-64-58-SMB_PSEXEC,206845892
 MS14-064,1.00000000,https://github.com/codecrack3/HTA-Exploit-,codecrack3/HTA-Exploit-,41165651
+MS14-064,0.33333333,https://github.com/Kvrzmm/Tangero,Kvrzmm/Tangero,859471915
 MS14-064,0.33333333,https://github.com/khr0x40sh/metasploit-modules,khr0x40sh/metasploit-modules,36300501
 MS14-064,0.16666667,https://github.com/sirmx100/metasploit_rc,sirmx100/metasploit_rc,178301978
 MS14-064,0.14285714,https://github.com/OrangeHacking-CyberSecurity/Metasploit,OrangeHacking-CyberSecurity/Metasploit,380954345
@@ -293,7 +294,7 @@ MS14-064,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS14-064,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS14-064,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS14-064,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS14-064,0.00000866,https://github.com/trickest/cve,trickest/cve,454015416
+MS14-064,0.00000865,https://github.com/trickest/cve,trickest/cve,454015416
 MS14-064,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS14-064,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS14-064,0.00000402,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
