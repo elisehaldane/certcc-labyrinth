@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-GW42-F939-FHVM,0.02325581,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
 GHSA-GW42-F939-FHVM,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-GW42-F939-FHVM,0.00182149,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
-GHSA-GW42-F939-FHVM,0.00081633,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-GW42-F939-FHVM,0.00081433,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-GW42-F939-FHVM,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-GW42-F939-FHVM,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-GW42-F939-FHVM,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
@@ -26,7 +26,7 @@ GHSA-GW42-F939-FHVM,0.00013872,https://github.com/ycdxsb/PocOrExp_in_Github,ycdx
 GHSA-GW42-F939-FHVM,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 GHSA-GW42-F939-FHVM,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-GW42-F939-FHVM,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
-GHSA-GW42-F939-FHVM,0.00006140,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+GHSA-GW42-F939-FHVM,0.00006138,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 GHSA-GW42-F939-FHVM,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
 GHSA-GW42-F939-FHVM,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 GHSA-GW42-F939-FHVM,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
