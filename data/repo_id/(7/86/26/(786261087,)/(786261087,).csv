@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+786261087,Hosvile/Luarion,auth/main.lua,58067bcc5ee986f570d45914e4e28b56a20cf706,VU#67
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#21
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#31
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#32
