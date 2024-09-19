@@ -2,4 +2,5 @@ repo_id,repo_full_name,file,file_sha1,match
 837869159,abhi-ingle/Vulnerability-Research,Yzane Markdown Pdf/Pathname Traversal/CVE-2024-7738.md,0ef16d8b995356dc2b5d62c47d9a65619cc35f00,CVE-2024-7738
 837869159,abhi-ingle/Vulnerability-Research,README.md,3caa205753e202358a803138734c52cb5fbdda09,CVE-2024-7738
 837869159,abhi-ingle/Vulnerability-Research,README.md,3caa205753e202358a803138734c52cb5fbdda09,CVE-2024-7739
+837869159,abhi-ingle/Vulnerability-Research,RelaxedJS/File Read/file_read.mp4,df36ed58b5adb974d1b0a71e4785122594934166,VU#70
 837869159,abhi-ingle/Vulnerability-Research,Yzane Markdown Pdf/Script Injection/CVE-2024-7739.md,e86cef5c9db6a5cd3ef2681a3402959f2ea4ccb5,CVE-2024-7739
