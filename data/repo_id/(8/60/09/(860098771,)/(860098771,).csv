@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+860098771,cpncrunch/dp_crypto-authenticated,DP_crypto_auth.py,0cfe745e1bd03d00d42270d5424f0edb291d032f,CVE-2017-9248
+860098771,cpncrunch/dp_crypto-authenticated,README.md,6da4101c3ee3323635b0b854a12414e985b24527,CVE-2017-9248
