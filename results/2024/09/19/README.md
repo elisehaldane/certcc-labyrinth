@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/19
     
-175 records found after deduplication
+176 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
@@ -82,6 +82,7 @@
 | 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-09-19 05:11:35+00:00 | 879 | 1 | C# | 0 | [] |
 | logangoins/Cable | Active Directory Enumeration & Exploitation Tool | https://github.com/logangoins/Cable | ['exploit'] | 1 | 2024-09-19 20:51:23+00:00 | 2026 | 2 | C# | 0 | [] |
 | DF1sh/TryHackMe-Rooms | Notes and Answers for some of the THM rooms | https://github.com/DF1sh/TryHackMe-Rooms | ['exploit'] | 1 | 2024-09-19 15:40:56+00:00 | 443 | 1 | Python | 0 | [] |
+| cr33p1ngp4ck3t/iRC-Sploit-main | None | https://github.com/cr33p1ngp4ck3t/iRC-Sploit-main | ['sploit'] | 1 | 2024-09-19 15:52:51+00:00 | 26457 | 0 | Go | 0 | [] |
 | Leo4j/ShellGen | PowerShell script to generate ShellCode in various formats | https://github.com/Leo4j/ShellGen | ['shellcode'] | 1 | 2024-09-19 12:37:46+00:00 | 36 | 22 | PowerShell | 7 | [] |
 | 4ra1n/poc-runner | Small & Fast Vulnerability Scanner Engine based on XRAY YAML Rule _ 基于 XRAY YAML 规则的超轻量快速漏洞扫描引擎 _ 可执行文件体积仅 2 MB | https://github.com/4ra1n/poc-runner | ['vulnerability poc'] | 1 | 2024-09-19 17:39:22+00:00 | 3760 | 121 | Go | 13 | [] |
 | shaddy43/BrowserSnatch | This project steals important data from all chromium and gecko browsers installed in the system and gather the data in a stealer db to be exfiltrated out. A powerful Browser Stealer | https://github.com/shaddy43/BrowserSnatch | ['exploit'] | 1 | 2024-09-19 20:17:33+00:00 | 20155 | 92 | C | 19 | [] |
@@ -110,7 +111,7 @@
 | J-Lw/smart-contract-exploits | None | https://github.com/J-Lw/smart-contract-exploits | ['exploit'] | 1 | 2024-09-19 21:00:00+00:00 | 5 | 0 | Solidity | 0 | [] |
 | povargek/MiTurboFix | SA:MP 0.3.7 RCE Vulnerabilities Fix plugin | https://github.com/povargek/MiTurboFix | ['rce'] | 1 | 2024-09-19 23:01:01+00:00 | 37 | 5 | C++ | 0 | [] |
 | hack-with-ethics/PySploit | This Tool is used to Interact with some metasploit modules using python script | https://github.com/hack-with-ethics/PySploit | ['metasploit module OR payload', 'sploit'] | 2 | 2024-09-19 13:55:05+00:00 | 25 | 0 | Python | 0 | [] |
-| verylazytech/CVE-2024-23692 | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | https://github.com/verylazytech/CVE-2024-23692 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2024-09-19 09:23:59+00:00 | 924 | 20 | Shell | 10 | ['CVE-2024-23692'] |
+| verylazytech/CVE-2024-23692 | POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692 | https://github.com/verylazytech/CVE-2024-23692 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2024-09-19 09:23:59+00:00 | 924 | 21 | Shell | 10 | ['CVE-2024-23692'] |
 | Ripunjay42/remote-code-execution | nan | https://github.com/Ripunjay42/remote-code-execution | ['remote code execution'] | 1 | 2024-09-19 23:55:17+00:00 | 303 | 1 | JavaScript | 0 | [] |
 | Shu-AFK/mozz | A DLL Shellcode injector without leaving a disk footprint. | https://github.com/Shu-AFK/mozz | ['shellcode'] | 1 | 2024-09-19 21:01:35+00:00 | 15 | 0 | C++ | 0 | [] |
 | loganliddiard/ExploreExploit | None | https://github.com/loganliddiard/ExploreExploit | ['exploit'] | 1 | 2024-09-19 02:55:51+00:00 | 5 | 0 | Python | 0 | [] |
