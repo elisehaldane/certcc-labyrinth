@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+860336798,sleep33/HackN-Metal,README.md,1f7dc5254f49a499f5a9888e97d750a7e6bb05ba,CVE-2021-41773
+860336798,sleep33/HackN-Metal,hacknmetal.py,a01e31ac3824bf460518c520bdc74b9f5f997f9c,CVE-2018-3282
+860336798,sleep33/HackN-Metal,hacknmetal.py,a01e31ac3824bf460518c520bdc74b9f5f997f9c,CVE-2021-41773
+860336798,sleep33/HackN-Metal,hacknmetal.py,a01e31ac3824bf460518c520bdc74b9f5f997f9c,CVE-2021-42013
