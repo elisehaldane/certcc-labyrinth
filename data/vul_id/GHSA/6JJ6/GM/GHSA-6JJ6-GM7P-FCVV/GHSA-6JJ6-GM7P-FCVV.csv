@@ -1,11 +1,12 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6JJ6-GM7P-FCVV,0.33333333,https://github.com/Mr-xn/CVE-2024-36401,Mr-xn/CVE-2024-36401,824794128
+GHSA-6JJ6-GM7P-FCVV,0.04545455,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
 GHSA-6JJ6-GM7P-FCVV,0.02325581,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
 GHSA-6JJ6-GM7P-FCVV,0.00510204,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-6JJ6-GM7P-FCVV,0.00182149,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GHSA-6JJ6-GM7P-FCVV,0.00081433,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-6JJ6-GM7P-FCVV,0.00079872,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
-GHSA-6JJ6-GM7P-FCVV,0.00079554,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
+GHSA-6JJ6-GM7P-FCVV,0.00079491,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
 GHSA-6JJ6-GM7P-FCVV,0.00079365,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 GHSA-6JJ6-GM7P-FCVV,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 GHSA-6JJ6-GM7P-FCVV,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256

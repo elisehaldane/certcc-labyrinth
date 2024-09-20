@@ -15,7 +15,6 @@ VU#10,0.50000000,https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CV
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
-VU#10,0.33333333,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#10,0.33333333,https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3,TechnicalForumResearcher/DuplicateDetectionWithGPT3,700450885
 VU#10,0.33333333,https://github.com/Songg45/CVE-2023-4683-Test,Songg45/CVE-2023-4683-Test,697961473
 VU#10,0.33333333,https://github.com/asdaweee/GitLabRCECVE-2021-22205-GUI,asdaweee/GitLabRCECVE-2021-22205-GUI,664967309
@@ -45,6 +44,7 @@ VU#10,0.14285714,https://github.com/HG-Arman/metasploit-easy-,HG-Arman/metasploi
 VU#10,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#10,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#10,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
+VU#10,0.14285714,https://github.com/cloudflare/exim-cve-2019-10149-data,cloudflare/exim-cve-2019-10149-data,268969538
 VU#10,0.12500000,https://github.com/tluxxx/weekly-pattern-in-stock-markets,tluxxx/weekly-pattern-in-stock-markets,776704499
 VU#10,0.12500000,https://github.com/ElectroBoy404NotFound/TinyiOS,ElectroBoy404NotFound/TinyiOS,724353108
 VU#10,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencStarterDev/Storm-Exploits-Web,550810079
@@ -54,6 +54,7 @@ VU#10,0.12500000,https://github.com/ramirosantos/Spring-Boot-Log4j-CVE-2021-4422
 VU#10,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,437603411
 VU#10,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
 VU#10,0.12500000,https://github.com/metasploit/metasploit.github.io,metasploit/metasploit.github.io,28104677
+VU#10,0.11111111,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#10,0.11111111,https://github.com/Nathancrz/MTB-telemetry,Nathancrz/MTB-telemetry,723656886
 VU#10,0.11111111,https://github.com/Avaluate/MainDab,Avaluate/MainDab,607958031
 VU#10,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
@@ -273,6 +274,7 @@ VU#10,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#10,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#10,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#10,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#10,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lorenzofranze/ANN-time-series-forecasting,859416095
 VU#10,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#10,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#10,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536

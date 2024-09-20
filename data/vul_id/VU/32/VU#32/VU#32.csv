@@ -43,7 +43,6 @@ VU#32,0.50000000,https://github.com/lilmond/Roblox-Exploit-Scripts,lilmond/Roblo
 VU#32,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
 VU#32,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
 VU#32,0.33333333,https://github.com/Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE,Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE,838448093
-VU#32,0.33333333,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#32,0.33333333,https://github.com/0xefd/binary_exploitation,0xefd/binary_exploitation,749293404
 VU#32,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#32,0.33333333,https://github.com/isfshax/isfshax,isfshax/isfshax,669924892
@@ -107,6 +106,7 @@ VU#32,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-
 VU#32,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimples1337/NewSilenceFix-opensources,520340048
 VU#32,0.12500000,https://github.com/RohamAh/WinroSploit,RohamAh/WinroSploit,468544905
 VU#32,0.12500000,https://github.com/Raycodex/Exploiting,Raycodex/Exploiting,326085661
+VU#32,0.11111111,https://github.com/MdRimon18/FinalRcellE,MdRimon18/FinalRcellE,768751055
 VU#32,0.11111111,https://github.com/mondrasovic/vectorization_presentation,mondrasovic/vectorization_presentation,735270060
 VU#32,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
 VU#32,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
@@ -414,6 +414,7 @@ VU#32,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutoria
 VU#32,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#32,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#32,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#32,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lorenzofranze/ANN-time-series-forecasting,859416095
 VU#32,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#32,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#32,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
