@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+860469807,alfairuzz/cve-scraper2000,parse_google_chrome_link.py,8faaf224f5d87c39b0eb252ce58937247d445741,CVE-2024-8904
