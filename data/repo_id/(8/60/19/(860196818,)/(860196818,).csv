@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+860196818,weliveby/cve-2024-38816-demo,pom.xml,c2affb1bd08a21eac9c5ce805db3dacee01cdbe9,CVE-2024-38816
+860196818,weliveby/cve-2024-38816-demo,_GITHUB_REPO_METADATA_,,CVE-2024-38816
