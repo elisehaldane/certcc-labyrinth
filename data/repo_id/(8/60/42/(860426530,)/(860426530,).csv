@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+860426530,SwiftSecur/teamcity-exploit-cve-2023-42793,TeamCity.sh,23443ec261bd05c43a63ec8569c6f4f646ce8cc8,CVE-2023-42793
+860426530,SwiftSecur/teamcity-exploit-cve-2023-42793,README.md,a3a28debb78e486f9eb3b0cb1ef2b71d8b854253,CVE-2023-42793
+860426530,SwiftSecur/teamcity-exploit-cve-2023-42793,_GITHUB_REPO_METADATA_,,CVE-2023-42793
