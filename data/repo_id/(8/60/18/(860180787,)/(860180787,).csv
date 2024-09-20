@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+860180787,aifuzzer/poc-CVE-2020-35489,README.md,af0b584741da7da1bb9128724e4927e4ecc0fc6e,CVE-2020-35489
+860180787,aifuzzer/poc-CVE-2020-35489,_GITHUB_REPO_METADATA_,,CVE-2020-35489
