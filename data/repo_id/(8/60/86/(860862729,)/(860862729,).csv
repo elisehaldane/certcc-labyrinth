@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+860862729,X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE,CVE-2024-3273.py,14c9a4404d18d2b6dc439de3d7e2081c4d0afb12,CVE-2024-3273
+860862729,X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE,README.md,a4a5c095fae401df24692cc11487098cec6911ad,CVE-2024-3273
+860862729,X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-3273
