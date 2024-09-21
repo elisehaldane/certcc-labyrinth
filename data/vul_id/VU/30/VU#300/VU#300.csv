@@ -10,6 +10,7 @@ VU#300,0.50000000,https://github.com/veritas501/CVE-2022-2639-PipeVersion,verita
 VU#300,0.50000000,https://github.com/veritas501/CVE-2022-34918,veritas501/CVE-2022-34918,520440526
 VU#300,0.50000000,https://github.com/vusec/bhi-spectre-bhb,vusec/bhi-spectre-bhb,465411926
 VU#300,0.50000000,https://github.com/yuawn/Linux-Kernel-Exploitation,yuawn/Linux-Kernel-Exploitation,322191605
+VU#300,0.33333333,https://github.com/vusec/inspectre-gadget,vusec/inspectre-gadget,718035064
 VU#300,0.33333333,https://github.com/H4K6/CVE-2023-0179-PoC,H4K6/CVE-2023-0179-PoC,614641482
 VU#300,0.33333333,https://github.com/TurtleARM/CVE-2023-0179-PoC,TurtleARM/CVE-2023-0179-PoC,591523271
 VU#300,0.33333333,https://github.com/0vercl0k/zenith,0vercl0k/zenith,415061966
