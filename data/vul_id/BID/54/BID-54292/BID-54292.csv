@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-54292,0.04545455,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
+BID-54292,0.04166667,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
 BID-54292,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 BID-54292,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 BID-54292,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
