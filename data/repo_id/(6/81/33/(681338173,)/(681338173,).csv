@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+681338173,Lrdsnow/PureKFD,Shared/MDC/grant_full_disk_access.m,020f36d4dd737699d3c8f60495c014945e8165e8,CVE-2022-46689
+681338173,Lrdsnow/PureKFD,README.md,32ba6e627e43c896d716f0a9ee986fa97512a257,CVE-2022-46689
+681338173,Lrdsnow/PureKFD,README.md,32ba6e627e43c896d716f0a9ee986fa97512a257,CVE-2023-41974
+681338173,Lrdsnow/PureKFD,Shared/MDC/grant_full_disk_access.h,ad38bef6487e17bec9b4b73d0b0b4ede5dda4d22,CVE-2022-46689
+681338173,Lrdsnow/PureKFD,Shared/MDC/vm_unaligned_copy_switch_race.h,ec17370085e7729169261c0cab52ba660adc942d,CVE-2022-46689
+681338173,Lrdsnow/PureKFD,Shared/MDC+/Wrappers.swift,fb3e606defd9dff382a13a4d696cabab579855e8,CVE-2022-46689
