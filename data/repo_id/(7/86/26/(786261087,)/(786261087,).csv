@@ -3,5 +3,3 @@ repo_id,repo_full_name,file,file_sha1,match
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#31
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#32
 786261087,Hosvile/Luarion,Security/Init.lua,65cd72a77ea62558566699dd068fc79578fc445a,VU#34
-786261087,Hosvile/Luarion,auth/main.lua,9c0f5559fe185c995de1f427fd94d2e4c1b2761a,VU#47
-786261087,Hosvile/Luarion,auth/main.lua,9c0f5559fe185c995de1f427fd94d2e4c1b2761a,VU#93
