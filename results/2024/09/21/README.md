@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/21
     
-126 records found after deduplication
+127 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -17,9 +17,10 @@
 | ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. If you are unable to find the POC/EXP on GitHub, you can also check here: https://pocorexps.nsa.im/ | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-09-21 04:52:17+00:00 | 531292 | 907 | Python | 197 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-09-21 01:36:20+00:00 | 3580 | 309 | HTML | 20 | [] |
 | gmatuz/inthewilddb | Hourly updated database of exploit and exploitation reports | https://github.com/gmatuz/inthewilddb | ['exploit'] | 1 | 2024-09-21 05:08:15+00:00 | 3722 | 231 | Python | 18 | [] |
+| laluka/bypass-url-parser | bypass-url-parser | https://github.com/laluka/bypass-url-parser | ['exploit'] | 1 | 2024-09-21 12:08:00+00:00 | 346 | 1001 | Python | 104 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-09-21 18:10:49+00:00 | 12676 | 32 | HTML | 4 | [] |
 | Winds-Studio/Surf | Fix exploits and remove illegal/NBT items for anarchy servers | https://github.com/Winds-Studio/Surf | ['exploit'] | 1 | 2024-09-21 14:00:54+00:00 | 2138 | 22 | Java | 5 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-09-21 14:36:29+00:00 | 389224 | 6460 | HTML | 814 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-09-21 22:41:27+00:00 | 388585 | 6461 | HTML | 814 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-09-21 01:00:31+00:00 | 1296 | 648 | Shell | 117 | [] |
 | Choi-Suhyeon/shellcodeGen | It is shell script to make shell code easier | https://github.com/Choi-Suhyeon/shellcodeGen | ['shellcode'] | 1 | 2024-09-21 07:41:57+00:00 | 44 | 1 | Shell | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-09-21 02:50:22+00:00 | 220780 | 260 | Go | 57 | [] |
