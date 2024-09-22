@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 843262740,DF1sh/TryHackMe-Rooms,Vulnerability Capstone/exploit.py,0f62c073af2b9cc53997b6833569e17c0fefe97d,CVE-2018-16763
 843262740,DF1sh/TryHackMe-Rooms,Linux Privilege Escalation/README.md,474aee403e3cebb62499d407a3cd536a3a68fc16,CVE-2015-1328
+843262740,DF1sh/TryHackMe-Rooms,Skynet/README.md,6dca59b90cbf20d6dfc6ce0c4775c3bfad6f06b4,CVE-2017-7692
 843262740,DF1sh/TryHackMe-Rooms,Phishing/README.md,6fe9d094698a50c14fd493da5546eb7b9faba848,CVE-2021-40444
 843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS08-067
 843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS17-010
