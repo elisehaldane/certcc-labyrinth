@@ -1,7 +1,7 @@
 
 # Summary for results/2024/09/23
     
-151 records found after deduplication
+152 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
@@ -41,6 +41,7 @@
 | Ostorlab/KEV | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | ['0day', 'exploit'] | 2 | 2024-09-23 17:34:04+00:00 | 1811 | 525 | | 33 | [] |
 | Choi-Suhyeon/shellcodeGen | It is shell script to make shell code easier | https://github.com/Choi-Suhyeon/shellcodeGen | ['shellcode'] | 1 | 2024-09-23 08:36:38+00:00 | 51 | 1 | Perl | 0 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-09-23 04:13:02+00:00 | 220776 | 260 | Go | 57 | [] |
+| 0xricksanchez/like-dbg | Fully dockerized Linux kernel debugging environment | https://github.com/0xricksanchez/like-dbg | ['exploit'] | 1 | 2024-09-23 09:51:54+00:00 | 5395 | 733 | Python | 58 | [] |
 | darksideoftheshmoo/rcell2-cellid | R package bundling Cell-ID and tools to optimize its performance. | https://github.com/darksideoftheshmoo/rcell2-cellid | ['rce'] | 1 | 2024-09-23 17:52:55+00:00 | 5448 | 1 | C | 0 | [] |
 | kamalmjt/emerging-attackers | Emerging attacks is a blacklist of Malicious IPs that perform live attacks, the blacklist is updated every 24 hours. The blacklist includes any IP address that has performed port scans, brute force attacks, SQL injection attempts, LDAP, local or remote fil | https://github.com/kamalmjt/emerging-attackers | ['exploit'] | 1 | 2024-09-23 23:07:27+00:00 | 768 | 1 | | 0 | [] |
 | bhanson10/gbees | Grid-based Bayesian Estimation Exploiting Sparsity (GBEES) is a non-Gaussian recursive Bayesian filtering method for propagating non-Gaussian uncertainty subject to nonlinear dynamics and measurement models. | https://github.com/bhanson10/gbees | ['exploit'] | 1 | 2024-09-23 20:20:59+00:00 | 1193502 | 0 | C | 1 | [] |
