@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+862503373,hacktheworldlive/exploits-guide,README.md,920d80692092c5d810ca8fd58f3127d5b4116638,CVE-2017-5638
+862503373,hacktheworldlive/exploits-guide,README.md,920d80692092c5d810ca8fd58f3127d5b4116638,CVE-2021-34527
+862503373,hacktheworldlive/exploits-guide,README.md,920d80692092c5d810ca8fd58f3127d5b4116638,MS17-010
