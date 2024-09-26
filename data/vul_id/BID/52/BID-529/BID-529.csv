@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-529,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-Toolkit,180024946
 BID-529,0.00628931,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
 BID-529,0.00518135,https://github.com/sabri-zaki/EasY_HaCk,sabri-zaki/EasY_HaCk,148261032
-BID-529,0.00487805,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
+BID-529,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 BID-529,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-529,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 BID-529,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
@@ -118,7 +118,7 @@ BID-529,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Met
 BID-529,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 BID-529,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 BID-529,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-BID-529,0.00018716,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-529,0.00018695,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-529,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 BID-529,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-529,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

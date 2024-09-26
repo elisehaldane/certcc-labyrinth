@@ -102,7 +102,6 @@ VU#11,0.02702703,https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934,S
 VU#11,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371,Trinadh465/linux-4.1.15_CVE-2017-1000371,596439217
 VU#11,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trinadh465/linux-4.1.15_CVE-2022-45934,591256259
 VU#11,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
-VU#11,0.02702703,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#11,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#11,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
@@ -111,6 +110,7 @@ VU#11,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika
 VU#11,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#11,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#11,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
+VU#11,0.02564103,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#11,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#11,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
 VU#11,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
@@ -253,7 +253,7 @@ VU#11,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,41248219
 VU#11,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#11,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#11,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
-VU#11,0.00884956,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#11,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#11,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#11,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
@@ -263,8 +263,8 @@ VU#11,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation
 VU#11,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#11,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#11,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#11,0.00775194,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#11,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+VU#11,0.00769231,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#11,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#11,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#11,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
@@ -352,8 +352,8 @@ VU#11,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#11,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#11,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#11,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
-VU#11,0.00243902,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#11,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#11,0.00240385,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#11,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#11,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#11,0.00223714,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
@@ -380,6 +380,7 @@ VU#11,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,7618
 VU#11,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#11,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#11,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
+VU#11,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#11,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#11,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#11,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

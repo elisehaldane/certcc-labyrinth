@@ -71,6 +71,7 @@ VU#53,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommen
 VU#53,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#53,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#53,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
+VU#53,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
 VU#53,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
 VU#53,0.07692308,https://github.com/Holifkly/Holifkly,Holifkly/Holifkly,730428469
 VU#53,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
@@ -291,8 +292,8 @@ VU#53,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPre
 VU#53,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#53,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#53,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#53,0.00884956,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#53,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
+VU#53,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#53,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#53,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#53,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -304,8 +305,8 @@ VU#53,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_
 VU#53,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#53,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#53,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#53,0.00775194,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#53,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+VU#53,0.00769231,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#53,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#53,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#53,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
@@ -357,8 +358,8 @@ VU#53,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#53,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#53,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#53,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#53,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#53,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
+VU#53,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#53,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#53,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#53,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
@@ -393,7 +394,7 @@ VU#53,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAl
 VU#53,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#53,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#53,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
-VU#53,0.00243902,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#53,0.00240385,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#53,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#53,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#53,0.00223714,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
@@ -420,6 +421,7 @@ VU#53,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,80
 VU#53,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#53,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#53,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+VU#53,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#53,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#53,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#53,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697

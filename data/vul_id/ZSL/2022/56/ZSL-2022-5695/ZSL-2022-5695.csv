@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2022-5695,0.00102354,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2022-5695,0.00101729,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5695,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 ZSL-2022-5695,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 ZSL-2022-5695,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

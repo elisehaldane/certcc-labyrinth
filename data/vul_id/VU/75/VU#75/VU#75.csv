@@ -25,6 +25,7 @@ VU#75,0.33333333,https://github.com/ITduniya/exploits,ITduniya/exploits,77823715
 VU#75,0.33333333,https://github.com/p3nOnion/POC-vulnerability,p3nOnion/POC-vulnerability,763989175
 VU#75,0.33333333,https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection,siegfrkn/CSCI5403_CVE20220847_Detection,568584383
 VU#75,0.33333333,https://github.com/MJMODZZ/Roblox-Cheat-Script,MJMODZZ/Roblox-Cheat-Script,518921786
+VU#75,0.25000000,https://github.com/beacnascimento/stiefelpol,beacnascimento/stiefelpol,863021450
 VU#75,0.25000000,https://github.com/canyie/MagiskEoP,canyie/MagiskEoP,846894468
 VU#75,0.25000000,https://github.com/kevinHarianto/Example-of-work-done-for-CPENT-Courses,kevinHarianto/Example-of-work-done-for-CPENT-Courses,842059575
 VU#75,0.25000000,https://github.com/andersongomes001/nginxWebUI-poc,andersongomes001/nginxWebUI-poc,724371245
@@ -305,8 +306,8 @@ VU#75,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#75,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#75,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#75,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#75,0.00884956,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#75,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
+VU#75,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#75,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#75,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#75,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
@@ -314,8 +315,8 @@ VU#75,0.00806452,https://github.com/prok3z/Wordpress-Exploits,prok3z/Wordpress-E
 VU#75,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#75,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
 VU#75,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
-VU#75,0.00775194,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#75,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
+VU#75,0.00769231,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#75,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#75,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#75,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
@@ -378,7 +379,6 @@ VU#75,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#75,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#75,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#75,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
-VU#75,0.00487805,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#75,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#75,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 VU#75,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
@@ -432,8 +432,8 @@ VU#75,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#75,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#75,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#75,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
-VU#75,0.00243902,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#75,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
+VU#75,0.00240385,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#75,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#75,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#75,0.00223714,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
@@ -461,6 +461,7 @@ VU#75,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,80
 VU#75,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#75,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
 VU#75,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+VU#75,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#75,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#75,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#75,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
@@ -503,7 +504,7 @@ VU#75,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#75,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#75,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#75,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#75,0.00018716,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#75,0.00018695,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#75,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#75,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#75,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

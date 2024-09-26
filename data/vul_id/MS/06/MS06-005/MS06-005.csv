@@ -42,7 +42,7 @@ MS06-005,0.00523560,https://github.com/jared1981/SomeToolsAndExploits,jared1981/
 MS06-005,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS06-005,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
 MS06-005,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
-MS06-005,0.00487805,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+MS06-005,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 MS06-005,0.00395257,https://github.com/gclu0212/windows-kernel-exploits,gclu0212/windows-kernel-exploits,99306149
 MS06-005,0.00389105,https://github.com/yifengyou/windows-kernel-exploits,yifengyou/windows-kernel-exploits,102417985
 MS06-005,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196810793
@@ -96,6 +96,7 @@ MS06-005,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p
 MS06-005,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
 MS06-005,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS06-005,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
+MS06-005,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 MS06-005,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
 MS06-005,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCodeBackup/exploits-backup,36551455
 MS06-005,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -163,7 +164,7 @@ MS06-005,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS06-005,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS06-005,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS06-005,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS06-005,0.00000863,https://github.com/trickest/cve,trickest/cve,454015416
+MS06-005,0.00000862,https://github.com/trickest/cve,trickest/cve,454015416
 MS06-005,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS06-005,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS06-005,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
