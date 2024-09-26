@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/RECORD,6ca4a3b0395d0b4424c76593a3f2ac1139efc8ed,VU#34449
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/RECORD,6ca4a3b0395d0b4424c76593a3f2ac1139efc8ed,VU#95
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip-22.0.2.dist-info/RECORD,6ca4a3b0395d0b4424c76593a3f2ac1139efc8ed,VU#96
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#17
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#32
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#33
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#396
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#49
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#53
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#65
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#82
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#84
+863059841,gavinlampkin/Predatory-Exploitation-Detection-System,venv/lib/python3.10/site-packages/pip/_vendor/certifi/cacert.pem,d904976736e6db3c69c304e96172234078242331,VU#85
