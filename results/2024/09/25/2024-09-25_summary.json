@@ -138,6 +138,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -303,6 +304,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -441,6 +443,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -605,6 +608,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -746,6 +750,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -882,6 +887,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -1023,6 +1029,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "remote code execution"
     ],
@@ -1153,6 +1160,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -1295,6 +1303,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -1442,6 +1451,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1587,6 +1597,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -1722,6 +1733,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -1867,6 +1879,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -2020,6 +2033,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -2146,6 +2160,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2272,6 +2287,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2425,8 +2441,157 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":340611396,
+    "node_id":"MDEwOlJlcG9zaXRvcnkzNDA2MTEzOTY=",
+    "name":"rce",
+    "full_name":"tencentcloud-sdk-php\/rce",
+    "private":false,
+    "html_url":"https:\/\/github.com\/tencentcloud-sdk-php\/rce",
+    "description":"None",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce",
+    "forks_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/tencentcloud-sdk-php\/rce\/deployments",
+    "created_at":"2021-02-20T09:13:31Z",
+    "updated_at":"2024-09-25T21:05:53Z",
+    "pushed_at":"2024-09-25T21:05:50Z",
+    "git_url":"git:\/\/github.com\/tencentcloud-sdk-php\/rce.git",
+    "ssh_url":"git@github.com:tencentcloud-sdk-php\/rce.git",
+    "clone_url":"https:\/\/github.com\/tencentcloud-sdk-php\/rce.git",
+    "svn_url":"https:\/\/github.com\/tencentcloud-sdk-php\/rce",
+    "homepage":null,
+    "size":273,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"PHP",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"apache-2.0",
+      "name":"Apache License 2.0",
+      "spdx_id":"Apache-2.0",
+      "url":"https:\/\/api.github.com\/licenses\/apache-2.0",
+      "node_id":"MDc6TGljZW5zZTI="
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"master",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":2,
+    "matched_at":"2024-09-26T17:23:15Z",
+    "owner_login":"tencentcloud-sdk-php",
+    "owner_id":68686224,
+    "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjY4Njg2MjI0",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/68686224?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php",
+    "owner_html_url":"https:\/\/github.com\/tencentcloud-sdk-php",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/received_events",
+    "owner_type":"Organization",
+    "owner_site_admin":false,
+    "custom_properties":{
+
+    },
+    "organization":{
+      "login":"tencentcloud-sdk-php",
+      "id":68686224,
+      "node_id":"MDEyOk9yZ2FuaXphdGlvbjY4Njg2MjI0",
+      "avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/68686224?v=4",
+      "gravatar_id":"",
+      "url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php",
+      "html_url":"https:\/\/github.com\/tencentcloud-sdk-php",
+      "followers_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/followers",
+      "following_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/following{\/other_user}",
+      "gists_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/gists{\/gist_id}",
+      "starred_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/starred{\/owner}{\/repo}",
+      "subscriptions_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/subscriptions",
+      "organizations_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/orgs",
+      "repos_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/repos",
+      "events_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/events{\/privacy}",
+      "received_events_url":"https:\/\/api.github.com\/users\/tencentcloud-sdk-php\/received_events",
+      "type":"Organization",
+      "site_admin":false
+    },
+    "template_repository":null,
+    "matched_list":[
+      "rce"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -2562,6 +2727,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -2691,6 +2857,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -2830,6 +2997,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -2977,6 +3145,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3112,6 +3281,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -3248,6 +3418,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3405,6 +3576,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3531,6 +3703,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3667,6 +3840,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3809,6 +3983,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -3864,16 +4039,16 @@
     "releases_url":"https:\/\/api.github.com\/repos\/trickest\/cve\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/trickest\/cve\/deployments",
     "created_at":"2022-01-31T13:23:51Z",
-    "updated_at":"2024-09-25T15:32:33Z",
-    "pushed_at":"2024-09-25T14:35:07Z",
+    "updated_at":"2024-09-26T02:07:13Z",
+    "pushed_at":"2024-09-25T22:33:25Z",
     "git_url":"git:\/\/github.com\/trickest\/cve.git",
     "ssh_url":"git@github.com:trickest\/cve.git",
     "clone_url":"https:\/\/github.com\/trickest\/cve.git",
     "svn_url":"https:\/\/github.com\/trickest\/cve",
     "homepage":"https:\/\/trickest.com",
-    "size":396057,
-    "stargazers_count":6464,
-    "watchers_count":6464,
+    "size":396078,
+    "stargazers_count":6465,
+    "watchers_count":6465,
     "language":"HTML",
     "has_issues":true,
     "has_projects":true,
@@ -3918,7 +4093,7 @@
     "visibility":"public",
     "forks":817,
     "open_issues":17,
-    "watchers":6464,
+    "watchers":6465,
     "default_branch":"main",
     "permissions":{
       "admin":false,
@@ -3930,7 +4105,7 @@
     "temp_clone_token":"",
     "network_count":817,
     "subscribers_count":335,
-    "matched_at":"2024-09-25T17:22:45Z",
+    "matched_at":"2024-09-26T05:21:18Z",
     "owner_login":"trickest",
     "owner_id":62057399,
     "owner_node_id":"MDEyOk9yZ2FuaXphdGlvbjYyMDU3Mzk5",
@@ -3972,6 +4147,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -4080,7 +4256,7 @@
     "temp_clone_token":"",
     "network_count":117,
     "subscribers_count":31,
-    "matched_at":"2024-09-25T05:20:44Z",
+    "matched_at":"2024-09-25T05:17:27Z",
     "owner_login":"GhostTroops",
     "owner_id":151980876,
     "owner_node_id":"O_kgDOCQ8LTA",
@@ -4122,6 +4298,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit",
@@ -4255,6 +4432,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -4378,6 +4556,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4506,6 +4685,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4634,6 +4814,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4754,6 +4935,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -4862,7 +5044,7 @@
     "temp_clone_token":"",
     "network_count":19,
     "subscribers_count":5,
-    "matched_at":"2024-09-25T05:58:37Z",
+    "matched_at":"2024-09-25T05:57:35Z",
     "owner_login":"adminlove520",
     "owner_id":32920883,
     "owner_node_id":"MDQ6VXNlcjMyOTIwODgz",
@@ -4883,6 +5065,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "exploit"
@@ -5017,6 +5200,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5143,6 +5327,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5198,14 +5383,14 @@
     "releases_url":"https:\/\/api.github.com\/repos\/YounesTasra-R4z3rSw0rd\/CTF-Scripts\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/YounesTasra-R4z3rSw0rd\/CTF-Scripts\/deployments",
     "created_at":"2023-04-27T12:55:54Z",
-    "updated_at":"2024-09-25T16:26:36Z",
-    "pushed_at":"2024-09-25T16:26:32Z",
+    "updated_at":"2024-09-25T20:35:19Z",
+    "pushed_at":"2024-09-25T20:35:15Z",
     "git_url":"git:\/\/github.com\/YounesTasra-R4z3rSw0rd\/CTF-Scripts.git",
     "ssh_url":"git@github.com:YounesTasra-R4z3rSw0rd\/CTF-Scripts.git",
     "clone_url":"https:\/\/github.com\/YounesTasra-R4z3rSw0rd\/CTF-Scripts.git",
     "svn_url":"https:\/\/github.com\/YounesTasra-R4z3rSw0rd\/CTF-Scripts",
     "homepage":null,
-    "size":257,
+    "size":264,
     "stargazers_count":2,
     "watchers_count":2,
     "language":"Python",
@@ -5242,7 +5427,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-09-25T17:18:14Z",
+    "matched_at":"2024-09-26T05:21:13Z",
     "owner_login":"YounesTasra-R4z3rSw0rd",
     "owner_id":101610095,
     "owner_node_id":"U_kgDOBg5ybw",
@@ -5263,6 +5448,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "vulnerability poc"
@@ -5384,6 +5570,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5508,6 +5695,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -5628,8 +5816,132 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":699706315,
+    "node_id":"R_kgDOKbSryw",
+    "name":"home-assistant-rce",
+    "full_name":"PePeLLee\/home-assistant-rce",
+    "private":false,
+    "html_url":"https:\/\/github.com\/PePeLLee\/home-assistant-rce",
+    "description":"integration for Rynkowa cena energii elektrycznej (RCE)",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce",
+    "forks_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/PePeLLee\/home-assistant-rce\/deployments",
+    "created_at":"2023-10-03T07:12:09Z",
+    "updated_at":"2024-09-25T12:00:02Z",
+    "pushed_at":"2024-09-25T11:58:25Z",
+    "git_url":"git:\/\/github.com\/PePeLLee\/home-assistant-rce.git",
+    "ssh_url":"git@github.com:PePeLLee\/home-assistant-rce.git",
+    "clone_url":"https:\/\/github.com\/PePeLLee\/home-assistant-rce.git",
+    "svn_url":"https:\/\/github.com\/PePeLLee\/home-assistant-rce",
+    "homepage":"",
+    "size":31,
+    "stargazers_count":7,
+    "watchers_count":7,
+    "language":"Python",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":false,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":1,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+      "electricity",
+      "homeassistant",
+      "pse"
+    ],
+    "visibility":"public",
+    "forks":1,
+    "open_issues":0,
+    "watchers":7,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":1,
+    "subscribers_count":2,
+    "matched_at":"2024-09-26T17:23:15Z",
+    "owner_login":"PePeLLee",
+    "owner_id":61408245,
+    "owner_node_id":"MDQ6VXNlcjYxNDA4MjQ1",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/61408245?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/PePeLLee",
+    "owner_html_url":"https:\/\/github.com\/PePeLLee",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/PePeLLee\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/PePeLLee\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/PePeLLee\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/PePeLLee\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/PePeLLee\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/PePeLLee\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/PePeLLee\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/PePeLLee\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/PePeLLee\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "custom_properties":null,
+    "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "rce"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -5771,6 +6083,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -5891,6 +6204,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6032,6 +6346,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6173,6 +6488,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6303,6 +6619,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -6402,7 +6719,7 @@
     "temp_clone_token":"",
     "network_count":9,
     "subscribers_count":3,
-    "matched_at":"2024-09-26T05:15:20Z",
+    "matched_at":"2024-09-26T17:23:15Z",
     "owner_login":"hyperreality",
     "owner_id":6343433,
     "owner_node_id":"MDQ6VXNlcjYzNDM0MzM=",
@@ -6423,11 +6740,13 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
+      "rce",
       "rce poc",
       "vuln poc"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
 
     ]
@@ -6552,6 +6871,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -6672,6 +6992,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "rce"
     ],
@@ -6804,6 +7125,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "vulnerability poc"
     ],
@@ -6924,6 +7246,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7044,6 +7367,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7171,6 +7495,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -7291,6 +7616,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7417,6 +7743,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -7556,6 +7883,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7676,6 +8004,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7827,6 +8156,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -7947,6 +8277,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8088,6 +8419,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8214,6 +8546,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8334,6 +8667,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8464,6 +8798,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8584,6 +8919,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8710,6 +9046,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -8765,14 +9102,14 @@
     "releases_url":"https:\/\/api.github.com\/repos\/KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC\/deployments",
     "created_at":"2024-07-08T16:48:29Z",
-    "updated_at":"2024-09-25T18:24:31Z",
-    "pushed_at":"2024-09-25T18:24:27Z",
+    "updated_at":"2024-09-25T01:46:17Z",
+    "pushed_at":"2024-09-25T01:46:13Z",
     "git_url":"git:\/\/github.com\/KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC.git",
     "ssh_url":"git@github.com:KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC.git",
     "clone_url":"https:\/\/github.com\/KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC.git",
     "svn_url":"https:\/\/github.com\/KevinMitchell-OSWP-CISSP\/CVE-2023-52709-PoC",
     "homepage":null,
-    "size":392,
+    "size":388,
     "stargazers_count":2,
     "watchers_count":2,
     "language":"Python",
@@ -8809,7 +9146,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":2,
-    "matched_at":"2024-09-26T05:20:27Z",
+    "matched_at":"2024-09-25T05:57:35Z",
     "owner_login":"KevinMitchell-OSWP-CISSP",
     "owner_id":15947372,
     "owner_node_id":"MDQ6VXNlcjE1OTQ3Mzcy",
@@ -8830,6 +9167,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -8972,6 +9310,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9105,6 +9444,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9235,6 +9575,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9355,6 +9696,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9481,6 +9823,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9647,6 +9990,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "0day",
       "exploit"
@@ -9777,6 +10121,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -9922,6 +10267,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -10048,6 +10394,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10168,6 +10515,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -10294,6 +10642,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10434,6 +10783,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10554,6 +10904,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cnvd-c OR cnvd-2 OR cnnvd-2"
     ],
@@ -10698,6 +11049,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10818,6 +11170,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -10938,6 +11291,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11104,6 +11458,7 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11249,6 +11604,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -11390,8 +11746,136 @@
       "type":"Organization",
       "site_admin":false
     },
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":856096294,
+    "node_id":"R_kgDOMwb-Jg",
+    "name":"OpsLoader",
+    "full_name":"EricEsquivel\/OpsLoader",
+    "private":false,
+    "html_url":"https:\/\/github.com\/EricEsquivel\/OpsLoader",
+    "description":"A Cobalt Strike payload generator and lateral movement aggressor script which places Beacon shellcode into a custom shellcode loader",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader",
+    "forks_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/EricEsquivel\/OpsLoader\/deployments",
+    "created_at":"2024-09-12T01:33:29Z",
+    "updated_at":"2024-09-26T13:13:19Z",
+    "pushed_at":"2024-09-25T18:04:58Z",
+    "git_url":"git:\/\/github.com\/EricEsquivel\/OpsLoader.git",
+    "ssh_url":"git@github.com:EricEsquivel\/OpsLoader.git",
+    "clone_url":"https:\/\/github.com\/EricEsquivel\/OpsLoader.git",
+    "svn_url":"https:\/\/github.com\/EricEsquivel\/OpsLoader",
+    "homepage":null,
+    "size":18240,
+    "stargazers_count":11,
+    "watchers_count":11,
+    "language":"C",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":false,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":2,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":{
+      "key":"gpl-3.0",
+      "name":"GNU General Public License v3.0",
+      "spdx_id":"GPL-3.0",
+      "url":"https:\/\/api.github.com\/licenses\/gpl-3.0",
+      "node_id":"MDc6TGljZW5zZTk="
+    },
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":2,
+    "open_issues":0,
+    "watchers":11,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":2,
+    "subscribers_count":1,
+    "matched_at":"2024-09-26T17:22:34Z",
+    "owner_login":"EricEsquivel",
+    "owner_id":109621757,
+    "owner_node_id":"U_kgDOBoix_Q",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/109621757?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/EricEsquivel",
+    "owner_html_url":"https:\/\/github.com\/EricEsquivel",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/EricEsquivel\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/EricEsquivel\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/EricEsquivel\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/EricEsquivel\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/EricEsquivel\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/EricEsquivel\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/EricEsquivel\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/EricEsquivel\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/EricEsquivel\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "custom_properties":null,
+    "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "shellcode"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -11510,6 +11994,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11630,6 +12115,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -11774,6 +12260,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -11904,6 +12391,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12024,6 +12512,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12144,6 +12633,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12264,6 +12754,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -12384,6 +12875,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "sploit"
     ],
@@ -12504,6 +12996,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12624,6 +13117,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12744,6 +13238,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -12864,6 +13359,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -12984,6 +13480,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13104,6 +13601,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -13230,6 +13728,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13350,6 +13849,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "rce"
@@ -13471,6 +13971,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13591,6 +14092,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "zeroday"
     ],
@@ -13711,8 +14213,130 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
+    ],
+    "matched_count":1,
+    "vul_ids":[
+
+    ]
+  },
+  {
+    "id":862783448,
+    "node_id":"R_kgDOM20H2A",
+    "name":"phpRceToNgrokReverse",
+    "full_name":"fami0110\/phpRceToNgrokReverse",
+    "private":false,
+    "html_url":"https:\/\/github.com\/fami0110\/phpRceToNgrokReverse",
+    "description":"PHP CLI program to send the reverse shell payload to the target.",
+    "fork":false,
+    "url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse",
+    "forks_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/forks",
+    "keys_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/keys{\/key_id}",
+    "collaborators_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/collaborators{\/collaborator}",
+    "teams_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/teams",
+    "hooks_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/hooks",
+    "issue_events_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/issues\/events{\/number}",
+    "events_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/events",
+    "assignees_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/assignees{\/user}",
+    "branches_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/branches{\/branch}",
+    "tags_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/tags",
+    "blobs_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/git\/blobs{\/sha}",
+    "git_tags_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/git\/tags{\/sha}",
+    "git_refs_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/git\/refs{\/sha}",
+    "trees_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/git\/trees{\/sha}",
+    "statuses_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/statuses\/{sha}",
+    "languages_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/languages",
+    "stargazers_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/stargazers",
+    "contributors_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/contributors",
+    "subscribers_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/subscribers",
+    "subscription_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/subscription",
+    "commits_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/commits{\/sha}",
+    "git_commits_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/git\/commits{\/sha}",
+    "comments_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/comments{\/number}",
+    "issue_comment_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/issues\/comments{\/number}",
+    "contents_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/contents\/{+path}",
+    "compare_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/compare\/{base}...{head}",
+    "merges_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/merges",
+    "archive_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/{archive_format}{\/ref}",
+    "downloads_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/downloads",
+    "issues_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/issues{\/number}",
+    "pulls_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/pulls{\/number}",
+    "milestones_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/milestones{\/number}",
+    "notifications_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/notifications{?since,all,participating}",
+    "labels_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/labels{\/name}",
+    "releases_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/releases{\/id}",
+    "deployments_url":"https:\/\/api.github.com\/repos\/fami0110\/phpRceToNgrokReverse\/deployments",
+    "created_at":"2024-09-25T07:22:59Z",
+    "updated_at":"2024-09-25T07:39:54Z",
+    "pushed_at":"2024-09-25T07:39:51Z",
+    "git_url":"git:\/\/github.com\/fami0110\/phpRceToNgrokReverse.git",
+    "ssh_url":"git@github.com:fami0110\/phpRceToNgrokReverse.git",
+    "clone_url":"https:\/\/github.com\/fami0110\/phpRceToNgrokReverse.git",
+    "svn_url":"https:\/\/github.com\/fami0110\/phpRceToNgrokReverse",
+    "homepage":null,
+    "size":6,
+    "stargazers_count":0,
+    "watchers_count":0,
+    "language":"PHP",
+    "has_issues":true,
+    "has_projects":true,
+    "has_downloads":true,
+    "has_wiki":true,
+    "has_pages":false,
+    "has_discussions":false,
+    "forks_count":0,
+    "mirror_url":null,
+    "archived":false,
+    "disabled":false,
+    "open_issues_count":0,
+    "license":null,
+    "allow_forking":true,
+    "is_template":false,
+    "web_commit_signoff_required":false,
+    "topics":[
+
+    ],
+    "visibility":"public",
+    "forks":0,
+    "open_issues":0,
+    "watchers":0,
+    "default_branch":"main",
+    "permissions":{
+      "admin":false,
+      "maintain":false,
+      "push":false,
+      "triage":false,
+      "pull":false
+    },
+    "temp_clone_token":"",
+    "network_count":0,
+    "subscribers_count":1,
+    "matched_at":"2024-09-26T17:23:14Z",
+    "owner_login":"fami0110",
+    "owner_id":94789221,
+    "owner_node_id":"U_kgDOBaZeZQ",
+    "owner_avatar_url":"https:\/\/avatars.githubusercontent.com\/u\/94789221?v=4",
+    "owner_gravatar_id":"",
+    "owner_url":"https:\/\/api.github.com\/users\/fami0110",
+    "owner_html_url":"https:\/\/github.com\/fami0110",
+    "owner_followers_url":"https:\/\/api.github.com\/users\/fami0110\/followers",
+    "owner_following_url":"https:\/\/api.github.com\/users\/fami0110\/following{\/other_user}",
+    "owner_gists_url":"https:\/\/api.github.com\/users\/fami0110\/gists{\/gist_id}",
+    "owner_starred_url":"https:\/\/api.github.com\/users\/fami0110\/starred{\/owner}{\/repo}",
+    "owner_subscriptions_url":"https:\/\/api.github.com\/users\/fami0110\/subscriptions",
+    "owner_organizations_url":"https:\/\/api.github.com\/users\/fami0110\/orgs",
+    "owner_repos_url":"https:\/\/api.github.com\/users\/fami0110\/repos",
+    "owner_events_url":"https:\/\/api.github.com\/users\/fami0110\/events{\/privacy}",
+    "owner_received_events_url":"https:\/\/api.github.com\/users\/fami0110\/received_events",
+    "owner_type":"User",
+    "owner_site_admin":false,
+    "custom_properties":null,
+    "organization":null,
+    "template_repository":null,
+    "matched_list":[
+      "rce"
     ],
     "matched_count":1,
     "vul_ids":[
@@ -13831,6 +14455,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -13970,6 +14595,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14090,6 +14716,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -14216,6 +14843,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc"
     ],
@@ -14336,6 +14964,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "metasploit module OR payload"
     ],
@@ -14462,6 +15091,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -14586,6 +15216,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "shellcode"
     ],
@@ -14706,6 +15337,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -14826,6 +15458,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -14947,6 +15580,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15067,6 +15701,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15187,6 +15822,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15308,6 +15944,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15407,7 +16044,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-09-26T05:20:59Z",
+    "matched_at":"2024-09-25T17:21:44Z",
     "owner_login":"Zhiyang123",
     "owner_id":61216405,
     "owner_node_id":"MDQ6VXNlcjYxMjE2NDA1",
@@ -15428,6 +16065,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit",
       "metasploit module OR payload"
@@ -15549,6 +16187,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15669,6 +16308,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15789,6 +16429,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -15909,6 +16550,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -16029,6 +16671,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "command injection"
     ],
@@ -16128,7 +16771,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-09-26T05:20:24Z",
+    "matched_at":"2024-09-25T17:22:45Z",
     "owner_login":"Disturbante",
     "owner_id":126893851,
     "owner_node_id":"U_kgDOB5A_Gw",
@@ -16149,6 +16792,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve poc",
       "cve-2 OR cve_2"
@@ -16270,6 +16914,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16390,6 +17035,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16518,6 +17164,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16657,6 +17304,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16777,6 +17425,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -16897,6 +17546,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17017,6 +17667,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17137,6 +17788,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17257,6 +17909,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17377,6 +18030,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17497,6 +18151,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "cve-2 OR cve_2"
     ],
@@ -17617,6 +18272,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17737,6 +18393,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17857,6 +18514,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -17983,6 +18641,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18120,6 +18779,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18240,6 +18900,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18360,6 +19021,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18480,6 +19142,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18600,6 +19263,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
@@ -18720,6 +19384,7 @@
     "owner_site_admin":false,
     "custom_properties":null,
     "organization":null,
+    "template_repository":null,
     "matched_list":[
       "exploit"
     ],
