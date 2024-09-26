@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3H5V-Q93C-6H6Q,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-3H5V-Q93C-6H6Q,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-3H5V-Q93C-6H6Q,0.00000862,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-3H5V-Q93C-6H6Q,0.00000861,https://github.com/trickest/cve,trickest/cve,454015416

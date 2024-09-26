@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2022-5725,0.00101729,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2022-5725,0.00101523,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5725,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 ZSL-2022-5725,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
 ZSL-2022-5725,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051

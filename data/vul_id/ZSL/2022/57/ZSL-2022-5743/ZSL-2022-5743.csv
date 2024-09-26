@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2022-5743,0.14285714,https://github.com/ARPSyndicate/puncia,ARPSyndicate/puncia,689642135
-ZSL-2022-5743,0.00101729,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2022-5743,0.00101523,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2022-5743,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 ZSL-2022-5743,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
 ZSL-2022-5743,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,757653051
@@ -13,6 +13,6 @@ ZSL-2022-5743,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,61774804
 ZSL-2022-5743,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 ZSL-2022-5743,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 ZSL-2022-5743,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-ZSL-2022-5743,0.00000862,https://github.com/trickest/cve,trickest/cve,454015416
+ZSL-2022-5743,0.00000861,https://github.com/trickest/cve,trickest/cve,454015416
 ZSL-2022-5743,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 ZSL-2022-5743,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
