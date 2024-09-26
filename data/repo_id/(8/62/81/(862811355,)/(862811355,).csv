@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/snort_rules/cve-2017-5487.rules,48a5b55169404059e878f63bc555b905fbb351c7,CVE-2017-5487
+862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/exploit_code.py,efaa979e03967a9ef631ff33642f3f6dd578a718,CVE-2017-5487
+862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/README.md,fcba3c00b555f09dd58a95b1d71f7a2ae42bd4d0,CVE-2017-5487
