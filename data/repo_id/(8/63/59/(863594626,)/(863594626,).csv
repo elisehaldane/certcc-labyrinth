@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+863594626,UMASANKAR-MG/Path-Traversal-CVE-2024-4956,cve/units/__pycache__/url.cpython-312.pyc,3eecd7dee124482c413bbc7fb3de777d30d2c836,CVE-2024-4956
+863594626,UMASANKAR-MG/Path-Traversal-CVE-2024-4956,cve/units/url.py,5b8601bdd89d87ee9aa6ee01ccf5a86951463995,CVE-2024-4956
+863594626,UMASANKAR-MG/Path-Traversal-CVE-2024-4956,_GITHUB_REPO_METADATA_,,CVE-2024-4956
