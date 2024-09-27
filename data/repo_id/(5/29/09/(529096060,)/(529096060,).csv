@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+529096060,luksecurity/securitystuff,exploits/thick client/notepad++/CVE-2022-32168/adduser_adm.cpp,09e730e23156c7bdb964ad8c0d12f34f163561a8,CVE-2022-32168
 529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-2640
 529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32629
 529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32649
+529096060,luksecurity/securitystuff,exploits/thick client/notepad++/CVE-2022-32168/README.md,a085799c1c870a4d6013eb18046fb5acfdf58e89,CVE-2022-32168
