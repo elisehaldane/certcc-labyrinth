@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-806026716,ifconfig-me/CVE-2024-4956-Bulk-Scanner,CVE-2024-4956-scanner.py,9e302e375d502145526b030f15937bd57dd8d893,CVE-2024-4956
+806026716,ifconfig-me/CVE-2024-4956-Bulk-Scanner,CVE-2024-4956-scanner.py,ddebe17990a93a2b1f1cabacb01e0729d154da03,CVE-2024-4956
 806026716,ifconfig-me/CVE-2024-4956-Bulk-Scanner,README.md,fc7a8113c74d2dcc545d558cfde94a6ff7505ea7,CVE-2024-4956
 806026716,ifconfig-me/CVE-2024-4956-Bulk-Scanner,_GITHUB_REPO_METADATA_,,CVE-2024-4956
