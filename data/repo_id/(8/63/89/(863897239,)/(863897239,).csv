@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+863897239,xNala/KaWSploit,packages/FontAwesome.Sharp.6.6.0/FontAwesome.Sharp.6.6.0.nupkg,8a3d21c19cb171bf151a551c8a4820296b23232f,VU#56
+863897239,xNala/KaWSploit,packages/Newtonsoft.Json.13.0.3/Newtonsoft.Json.13.0.3.nupkg,f418efd4238eb069cf38d1c86f4edc34444777dd,VU#11
