@@ -13855,6 +13855,6 @@ repo_id,repo_full_name,file,file_sha1,match
 151353348,vulsio/go-exploitdb,integration/cveid.txt,38f1f76e29bc6bab1ee4d2a1bbc2557a7a61b22b,CVE-2021-3560
 151353348,vulsio/go-exploitdb,util/util_test.go,818a1377bf5f500c1ee29329db73fb3064a1a056,CVE-2019-15511
 151353348,vulsio/go-exploitdb,util/util_test.go,818a1377bf5f500c1ee29329db73fb3064a1a056,CVE-2016-2107
-151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,83f70cf32aedbc70f174fa84d588eeb4c1553c87,CVE-0000-0000
-151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,83f70cf32aedbc70f174fa84d588eeb4c1553c87,CVE-1999-1015
-151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,83f70cf32aedbc70f174fa84d588eeb4c1553c87,OSVDB-5970
+151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,b5db543ac55a50dfddb9e6fee7627ef409ec5da2,CVE-0000-0000
+151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,b5db543ac55a50dfddb9e6fee7627ef409ec5da2,CVE-1999-1015
+151353348,vulsio/go-exploitdb,fetcher/exploitdb_test.go,b5db543ac55a50dfddb9e6fee7627ef409ec5da2,OSVDB-5970

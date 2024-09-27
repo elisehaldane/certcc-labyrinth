@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+864192858,leonooo13/CNVD-2020-10487-Tomcat-Ajp-lfi,README.md,8b14ccb2ae708c4caaa8e75c0e05a4e998ebe7bd,CNVD-2020-10487
+864192858,leonooo13/CNVD-2020-10487-Tomcat-Ajp-lfi,README.md,8b14ccb2ae708c4caaa8e75c0e05a4e998ebe7bd,CVE-2020-1938
+864192858,leonooo13/CNVD-2020-10487-Tomcat-Ajp-lfi,CNVD-2020-10487-Tomcat-Ajp-lfi.py,dea0568edeacda69e016089b956e0676887f2bc6,CNVD-2020-10487
+864192858,leonooo13/CNVD-2020-10487-Tomcat-Ajp-lfi,_GITHUB_REPO_METADATA_,,CNVD-2020-10487
