@@ -27,10 +27,10 @@ VU#82,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,cr
 VU#82,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
 VU#82,0.14285714,https://github.com/W0r1d-Pr1nt/RCEmap,W0r1d-Pr1nt/RCEmap,767623521
 VU#82,0.14285714,https://github.com/matrixjaen18/exploit,matrixjaen18/exploit,755360270
-VU#82,0.14285714,https://github.com/josexgonzalez/exploit,josexgonzalez/exploit,703612549
 VU#82,0.14285714,https://github.com/Sunqiz/CVE-2013-2028-reproduction,Sunqiz/CVE-2013-2028-reproduction,524887947
 VU#82,0.14285714,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
 VU#82,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
+VU#82,0.12500000,https://github.com/josexgonzalez/exploit,josexgonzalez/exploit,703612549
 VU#82,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSEC-Bluetooth-exploit,622227907
 VU#82,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#82,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
@@ -159,6 +159,7 @@ VU#82,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#82,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#82,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#82,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#82,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rceneumet.github.io,864542403
 VU#82,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#82,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#82,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
@@ -368,10 +369,10 @@ VU#82,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/The
 VU#82,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#82,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#82,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
-VU#82,0.00769231,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#82,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#82,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#82,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#82,0.00751880,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#82,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#82,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#82,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
