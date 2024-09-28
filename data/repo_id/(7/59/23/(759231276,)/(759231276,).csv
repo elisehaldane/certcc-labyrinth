@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+759231276,zhazhalove/osquery_cve-2024-23443,README.md,88fb0c335dde05aa7fdcd109c4b56853936f64c6,CVE-2024-23443
+759231276,zhazhalove/osquery_cve-2024-23443,_GITHUB_REPO_METADATA_,,CVE-2024-23443
