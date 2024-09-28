@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+864245047,technicalcorp2/CVE-2023-38831-exploit-generator,README.md,812b41ff71df0700e92ec96f905b402b3db363c3,CVE-2023-38831
+864245047,technicalcorp2/CVE-2023-38831-exploit-generator,CVE-2023-38831-WinRar-Exploit.py,ecf3e351db528e7df2cb26dc657930076f1cc0e6,CVE-2023-38831
+864245047,technicalcorp2/CVE-2023-38831-exploit-generator,_GITHUB_REPO_METADATA_,,CVE-2023-38831
