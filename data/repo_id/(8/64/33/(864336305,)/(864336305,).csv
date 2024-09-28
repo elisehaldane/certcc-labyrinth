@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+864336305,hacktheclown/exploits,CVE-2024-23897/README.md,1dbaa26b05f844ceed42d821d8f7a747902185ea,CVE-2024-23897
+864336305,hacktheclown/exploits,CVE-2024-23897/exploit.py,ea3ce27dfb7ca8c6d5a4a6470fb4703117d16e48,CVE-2024-23897
