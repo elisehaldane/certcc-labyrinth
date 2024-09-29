@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#2020
+864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#601
+864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#709
+864923088,dywsy21/CVE-2023-6350_Reproduction,_GITHUB_REPO_METADATA_,,CVE-2023-6350
