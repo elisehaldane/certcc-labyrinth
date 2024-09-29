@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5Q88-CJFQ-G2MH,0.00021039,https://github.com/kaRaGODDD/Cve-with-thier-PoC-s,kaRaGODDD/Cve-with-thier-PoC-s,754747508
 GHSA-5Q88-CJFQ-G2MH,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-GHSA-5Q88-CJFQ-G2MH,0.00013808,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-5Q88-CJFQ-G2MH,0.00013782,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-5Q88-CJFQ-G2MH,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
 GHSA-5Q88-CJFQ-G2MH,0.00001465,https://github.com/SkyBelll/CVE-PoC,SkyBelll/CVE-PoC,585756450
 GHSA-5Q88-CJFQ-G2MH,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
