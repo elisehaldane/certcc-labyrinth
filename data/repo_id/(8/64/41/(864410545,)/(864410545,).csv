@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+864410545,ooooooo-q/puma_header_normalization-CVE-2024-45614,README.md,e77f6e859a3563571a8b0b29bef3565980c2da97,CVE-2024-45614
+864410545,ooooooo-q/puma_header_normalization-CVE-2024-45614,README.md,e77f6e859a3563571a8b0b29bef3565980c2da97,GHSA-9HF4-67FC-4VF4
+864410545,ooooooo-q/puma_header_normalization-CVE-2024-45614,_GITHUB_REPO_METADATA_,,CVE-2024-45614
