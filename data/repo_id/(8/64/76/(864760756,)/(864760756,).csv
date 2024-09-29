@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+864760756,cleissonbarbosa/telegram-security-bot,src/commands/entry_points.py,b9e144f36e93a79dd24a986f8728dabd84a56ab0,CVE-2021-34527
