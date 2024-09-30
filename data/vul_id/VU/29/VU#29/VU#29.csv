@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#29,1.00000000,https://github.com/RichElver/UAC-Bypass-FUD,RichElver/UAC-Bypass-FUD,852865561
 VU#29,1.00000000,https://github.com/BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,BmarksTo/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,852374041
 VU#29,1.00000000,https://github.com/cbwang505/TcpServerChannelRce,cbwang505/TcpServerChannelRce,842853155
-VU#29,1.00000000,https://github.com/agenericapple/UAC-Bypass,agenericapple/UAC-Bypass,837134623
+VU#29,1.00000000,https://github.com/rooootdev/UAC-Bypass,rooootdev/UAC-Bypass,837134623
 VU#29,1.00000000,https://github.com/xjdhu/hessian-deserialize-rce,xjdhu/hessian-deserialize-rce,829035411
 VU#29,1.00000000,https://github.com/Mekasniz/UAC-Bypass-FUD,Mekasniz/UAC-Bypass-FUD,827303410
 VU#29,1.00000000,https://github.com/OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,OrgsTe/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,827242906
@@ -647,6 +647,7 @@ VU#29,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-pr
 VU#29,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#29,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
 VU#29,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
+VU#29,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#29,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
 VU#29,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
 VU#29,0.00401606,https://github.com/Vobzie/elliottdoesthings.tk,Vobzie/elliottdoesthings.tk,567815510
