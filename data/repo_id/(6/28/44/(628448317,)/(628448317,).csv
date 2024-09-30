@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+628448317,EntySec/HatSploit-Docs,docs/getting-started/hatsploit-modules.md,a49e6e4cc2b3b2716ea1ee0dd3955a9c9ce31bbb,CVE-2014-4019
