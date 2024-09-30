@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+865497094,geniuszlyy/GenCrushSSTIExploit,GenCrushSSTIExploit.py,b6e9478d1b15b561e6ceda1689ba76513a96d7e0,CVE-2024-4040
+865497094,geniuszlyy/GenCrushSSTIExploit,README.md,e4081c4544338cabbf5cf81ae897a86e0384e4c9,CVE-2024-4040
+865497094,geniuszlyy/GenCrushSSTIExploit,_GITHUB_REPO_METADATA_,,CVE-2024-4040
