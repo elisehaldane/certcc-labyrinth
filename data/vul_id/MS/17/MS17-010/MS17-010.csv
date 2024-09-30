@@ -176,7 +176,6 @@ MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
 MS17-010,0.50000000,https://github.com/player23-0/Eternal_Blue_Manual_Exploit,player23-0/Eternal_Blue_Manual_Exploit,844943770
-MS17-010,0.50000000,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS17-010,0.50000000,https://github.com/sftp-nik/ExploitEclipse,sftp-nik/ExploitEclipse,789728517
 MS17-010,0.50000000,https://github.com/christophercaruso96/metasploit_telnet,christophercaruso96/metasploit_telnet,784218170
 MS17-010,0.50000000,https://github.com/j-arivazhagan/auto,j-arivazhagan/auto,784084395
@@ -244,6 +243,7 @@ MS17-010,0.50000000,https://github.com/actuated/msf-exploit-loop,actuated/msf-ex
 MS17-010,0.50000000,https://github.com/Dviros/Excalibur,Dviros/Excalibur,100004703
 MS17-010,0.50000000,https://github.com/kn0/battery,kn0/battery,31389422
 MS17-010,0.33333333,https://github.com/hacktheworldlive/exploits-guide,hacktheworldlive/exploits-guide,862503373
+MS17-010,0.33333333,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS17-010,0.33333333,https://github.com/mchklt/PFE,mchklt/PFE,812644339
 MS17-010,0.33333333,https://github.com/mofaal1/eternalblue-exploitation,mofaal1/eternalblue-exploitation,812266535
 MS17-010,0.33333333,https://github.com/ITduniya/exploits,ITduniya/exploits,778237159
@@ -715,8 +715,8 @@ MS17-010,0.00018591,https://github.com/phucoding286/metasploit-framework,phucodi
 MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
-MS17-010,0.00015736,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS17-010,0.00013768,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00015743,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00013763,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
