@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+555814228,mawg0ud/VulnVortex,src/core/VulnerabilityScanner.py,b374da4489c9e6a76346588e38f2392440dfa9ea,CVE-2019-0708
+555814228,mawg0ud/VulnVortex,src/core/VulnerabilityScanner.py,b374da4489c9e6a76346588e38f2392440dfa9ea,CVE-2021-34527
