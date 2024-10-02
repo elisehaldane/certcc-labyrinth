@@ -68,7 +68,7 @@ VU#61,0.16666667,https://github.com/ST5Sneaky/exploit-scripts,ST5Sneaky/exploit-
 VU#61,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#61,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
 VU#61,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/karakasis2020exploiting,434408982
-VU#61,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
+VU#61,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/browser-dojo,741204715
 VU#61,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#61,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
 VU#61,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
@@ -264,6 +264,7 @@ VU#61,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#61,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#61,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#61,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#61,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
 VU#61,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#61,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#61,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
@@ -446,7 +447,8 @@ VU#61,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#61,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#61,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#61,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#61,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#61,0.00038168,https://github.com/sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,866214266
+VU#61,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#61,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#61,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#61,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -475,7 +477,7 @@ VU#61,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#61,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#61,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#61,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#61,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#61,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#61,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

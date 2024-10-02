@@ -35,7 +35,7 @@ VU#28,0.14285714,https://github.com/oselin/drone-pose-estimation,oselin/drone-po
 VU#28,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
 VU#28,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
 VU#28,0.14285714,https://github.com/xsscx/Commodity-Injection-Signatures,xsscx/Commodity-Injection-Signatures,30133372
-VU#28,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
+VU#28,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/browser-dojo,741204715
 VU#28,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
 VU#28,0.11111111,https://github.com/nova-master/CVE-2022-21894,nova-master/CVE-2022-21894,696622822
 VU#28,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,523015625
@@ -204,6 +204,7 @@ VU#28,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machine
 VU#28,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#28,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#28,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#28,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
 VU#28,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#28,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#28,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
@@ -353,6 +354,7 @@ VU#28,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthew
 VU#28,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#28,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#28,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#28,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#28,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#28,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#28,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
@@ -407,7 +409,7 @@ VU#28,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#28,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#28,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#28,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#28,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#28,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#28,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#28,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#28,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
@@ -442,7 +444,7 @@ VU#28,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#28,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#28,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#28,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#28,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#28,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#28,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#28,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#28,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

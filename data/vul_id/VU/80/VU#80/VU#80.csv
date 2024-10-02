@@ -30,6 +30,7 @@ VU#80,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,43
 VU#80,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#80,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#80,0.16666667,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
+VU#80,0.16666667,https://github.com/chaithanyam123/metasploitable2.0-,chaithanyam123/metasploitable2.0-,804360568
 VU#80,0.16666667,https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228,YangHyperData/LOGJ4_PocShell_CVE-2021-44228,780990164
 VU#80,0.16666667,https://github.com/Bendrox/LLM_SFCR_exploit_Langchain_Azure,Bendrox/LLM_SFCR_exploit_Langchain_Azure,777972885
 VU#80,0.16666667,https://github.com/UtkarshV09/Log4j-Exploit,UtkarshV09/Log4j-Exploit,570304337
@@ -224,6 +225,7 @@ VU#80,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#80,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#80,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#80,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#80,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
 VU#80,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#80,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#80,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
@@ -352,6 +354,7 @@ VU#80,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthew
 VU#80,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#80,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#80,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
+VU#80,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#80,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#80,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#80,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -402,7 +405,7 @@ VU#80,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#80,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#80,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#80,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#80,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#80,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#80,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#80,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#80,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540

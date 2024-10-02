@@ -29,7 +29,7 @@ VU#82,0.14285714,https://github.com/W0r1d-Pr1nt/RCEmap,W0r1d-Pr1nt/RCEmap,767623
 VU#82,0.14285714,https://github.com/matrixjaen18/exploit,matrixjaen18/exploit,755360270
 VU#82,0.14285714,https://github.com/Sunqiz/CVE-2013-2028-reproduction,Sunqiz/CVE-2013-2028-reproduction,524887947
 VU#82,0.14285714,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
-VU#82,0.12500000,https://github.com/jackfromeast/web-pwn,jackfromeast/web-pwn,741204715
+VU#82,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/browser-dojo,741204715
 VU#82,0.12500000,https://github.com/josexgonzalez/exploit,josexgonzalez/exploit,703612549
 VU#82,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSEC-Bluetooth-exploit,622227907
 VU#82,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
@@ -308,6 +308,7 @@ VU#82,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#82,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#82,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#82,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#82,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
 VU#82,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#82,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#82,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
@@ -515,7 +516,7 @@ VU#82,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#82,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#82,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#82,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#82,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#82,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

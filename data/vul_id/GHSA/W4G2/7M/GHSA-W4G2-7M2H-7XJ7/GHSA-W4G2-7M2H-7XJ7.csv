@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W4G2-7M2H-7XJ7,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-W4G2-7M2H-7XJ7,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-W4G2-7M2H-7XJ7,0.00000859,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-W4G2-7M2H-7XJ7,0.00000858,https://github.com/trickest/cve,trickest/cve,454015416

@@ -81,6 +81,7 @@ MS13-096,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS13-096,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS13-096,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS13-096,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+MS13-096,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 MS13-096,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall/HackingAllTheThings,150547417
 MS13-096,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS13-096,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -200,7 +201,7 @@ MS13-096,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS13-096,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS13-096,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS13-096,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS13-096,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS13-096,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS13-096,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS13-096,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS13-096,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702

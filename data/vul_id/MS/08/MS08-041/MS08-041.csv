@@ -210,7 +210,7 @@ MS08-041,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS08-041,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-041,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS08-041,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS08-041,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-041,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-041,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS08-041,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-041,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -252,5 +252,5 @@ MS08-041,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-e
 MS08-041,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS08-041,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 MS08-041,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS08-041,0.00000402,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS08-041,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-041,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

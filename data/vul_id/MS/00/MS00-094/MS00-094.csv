@@ -23,7 +23,6 @@ MS00-094,0.00645161,https://github.com/ChrisDryden/CTF-Toolkit,ChrisDryden/CTF-T
 MS00-094,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
 MS00-094,0.00628931,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
 MS00-094,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
-MS00-094,0.00609756,https://github.com/InfoSecWarrior/Vulnerable-Box-Resources,InfoSecWarrior/Vulnerable-Box-Resources,859249134
 MS00-094,0.00602410,https://github.com/praveendhac/VulnerabilityResearch,praveendhac/VulnerabilityResearch,31780535
 MS00-094,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 MS00-094,0.00584795,https://github.com/Sanchit60/Windows-Exploit-Suggester,Sanchit60/Windows-Exploit-Suggester,770226766
@@ -46,6 +45,7 @@ MS00-094,0.00584795,https://github.com/Micr067/Windows-Exploit-Suggester,Micr067
 MS00-094,0.00584795,https://github.com/aspiggy/Windows-Exploit-Suggester,aspiggy/Windows-Exploit-Suggester,86702953
 MS00-094,0.00584795,https://github.com/AonCyberLabs/Windows-Exploit-Suggester,AonCyberLabs/Windows-Exploit-Suggester,21613236
 MS00-094,0.00578035,https://github.com/Rayferrufino/Red-Team,Rayferrufino/Red-Team,201990626
+MS00-094,0.00574713,https://github.com/InfoSecWarrior/Vulnerable-Box-Resources,InfoSecWarrior/Vulnerable-Box-Resources,859249134
 MS00-094,0.00571429,https://github.com/brianlam38/Sec-Cheatsheets,brianlam38/Sec-Cheatsheets,129731037
 MS00-094,0.00564972,https://github.com/Pasanlaksitha/Hackthebox-Machines,Pasanlaksitha/Hackthebox-Machines,759004310
 MS00-094,0.00531915,https://github.com/sshayb/exploit_scripts,sshayb/exploit_scripts,227637487
@@ -237,7 +237,7 @@ MS00-094,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS00-094,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS00-094,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS00-094,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS00-094,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS00-094,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS00-094,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS00-094,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS00-094,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
@@ -289,7 +289,7 @@ MS00-094,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,8025405
 MS00-094,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS00-094,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS00-094,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS00-094,0.00000402,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS00-094,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS00-094,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS00-094,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS00-094,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

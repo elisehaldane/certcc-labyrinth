@@ -51,6 +51,7 @@ MS13-081,0.00380228,https://github.com/alichtman/writeups,alichtman/writeups,196
 MS13-081,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 MS13-081,0.00362319,https://github.com/cys3c/viper-shell,cys3c/viper-shell,94091391
 MS13-081,0.00333333,https://github.com/soheil-vanaee/Vulnerability-Vault,soheil-vanaee/Vulnerability-Vault,663461857
+MS13-081,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 MS13-081,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS13-081,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
 MS13-081,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
@@ -183,7 +184,7 @@ MS13-081,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS13-081,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS13-081,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS13-081,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS13-081,0.00018685,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS13-081,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS13-081,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS13-081,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS13-081,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -234,7 +235,7 @@ MS13-081,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-data
 MS13-081,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 MS13-081,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS13-081,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS13-081,0.00000402,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS13-081,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS13-081,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS13-081,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS13-081,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

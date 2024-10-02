@@ -13,7 +13,6 @@ VU#22,0.50000000,https://github.com/skribblez2718/blabbit,skribblez2718/blabbit,
 VU#22,0.50000000,https://github.com/bbaranoff/CVE-2023-4863,bbaranoff/CVE-2023-4863,696220876
 VU#22,0.50000000,https://github.com/payatu/BugBazaar,payatu/BugBazaar,670897578
 VU#22,0.50000000,https://github.com/ilijadivi/VisionExploit,ilijadivi/VisionExploit,464673860
-VU#22,0.33333333,https://github.com/MunciNotHere/M1M1,MunciNotHere/M1M1,864181880
 VU#22,0.33333333,https://github.com/Vxlkz/exploit,Vxlkz/exploit,747430634
 VU#22,0.33333333,https://github.com/d4ba/Exploit-Guard,d4ba/Exploit-Guard,659905965
 VU#22,0.33333333,https://github.com/doyensec/Session-Hijacking-Visual-Exploitation,doyensec/Session-Hijacking-Visual-Exploitation,623535179
@@ -283,6 +282,7 @@ VU#22,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,5261
 VU#22,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#22,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#22,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
+VU#22,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
 VU#22,0.01111111,https://github.com/liujianyu2022/sc-exploits-minimized,liujianyu2022/sc-exploits-minimized,853610081
 VU#22,0.01111111,https://github.com/Pedrog75/sc-exploits-minimized,Pedrog75/sc-exploits-minimized,810707145
 VU#22,0.01111111,https://github.com/raazymuhd1/known-exploits-vector,raazymuhd1/known-exploits-vector,809551705
@@ -468,7 +468,7 @@ VU#22,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#22,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#22,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#22,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#22,0.00030184,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#22,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#22,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#22,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#22,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

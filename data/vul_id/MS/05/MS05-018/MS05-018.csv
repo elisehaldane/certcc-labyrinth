@@ -90,6 +90,7 @@ MS05-018,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-expl
 MS05-018,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS05-018,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 MS05-018,0.00333333,https://github.com/soheil-vanaee/Vulnerability-Vault,soheil-vanaee/Vulnerability-Vault,663461857
+MS05-018,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 MS05-018,0.00323625,https://github.com/lassalleloan/digital-storytelling,lassalleloan/digital-storytelling,109948228
 MS05-018,0.00323625,https://github.com/4thel00z/ExploitDB-Downloader,4thel00z/ExploitDB-Downloader,97280758
 MS05-018,0.00322581,https://github.com/0x802/Rrhododendron,0x802/Rrhododendron,223783259
@@ -178,7 +179,7 @@ MS05-018,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS05-018,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS05-018,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS05-018,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS05-018,0.00000859,https://github.com/trickest/cve,trickest/cve,454015416
+MS05-018,0.00000858,https://github.com/trickest/cve,trickest/cve,454015416
 MS05-018,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS05-018,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS05-018,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
