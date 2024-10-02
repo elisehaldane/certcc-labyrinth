@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+804360568,chaithanyam123/metasploitable2.0-,report_pentest_metasploitable.pdf,4e915771b7c64a287d60c11b67cb2ff9d035570c,VU#80
 804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,CVE-1999-0678
 804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,CVE-2003-1418
 804360568,chaithanyam123/metasploitable2.0-,metasploitable2.ctb,d5e8818dc302596ca1aca3ea889927a121ad0bb7,OSVDB-12184
