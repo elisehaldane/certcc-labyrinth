@@ -1,0 +1,29 @@
+
+# Summary for results/2024/10/03
+    
+22 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| leebaird/discover | Custom bash scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Kali Linux. | https://github.com/leebaird/discover | ['metasploit module OR payload'] | 1 | 2024-10-03 01:13:33+00:00 | 3623 | 3416 | PowerShell | 822 | [] |
+| commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection'] | 1 | 2024-10-03 05:14:12+00:00 | 6700 | 4530 | Python | 808 | [] |
+| cultureelerfgoed/sparql | In deze repositories worden openbare SPARQL queries verzameld die gebruikt worden op linked datasets van de RCE | https://github.com/cultureelerfgoed/sparql | ['rce'] | 1 | 2024-10-03 02:19:35+00:00 | 720 | 0 | Python | 0 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-10-03 04:32:25+00:00 | 2522862 | 515 | REXX | 47 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'vulnerability poc'] | 2 | 2024-10-03 00:30:27+00:00 | 544162 | 6450 | | 1186 | [] |
+| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. If you are unable to find the POC/EXP on GitHub, you can also check here: https://pocorexps.nsa.im/ | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2024-10-03 05:00:53+00:00 | 540040 | 909 | Python | 197 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2024-10-03 01:03:36+00:00 | 1174 | 648 | Shell | 116 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-10-03 05:47:34+00:00 | 224662 | 263 | Go | 57 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc'] | 1 | 2024-10-03 05:48:54+00:00 | 248100 | 142 | Go | 20 | [] |
+| him114514/shellcode-python-him | 几个免杀的实例 | https://github.com/him114514/shellcode-python-him | ['shellcode'] | 1 | 2024-10-03 04:29:31+00:00 | 3219 | 1 | Python | 0 | [] |
+| EugenMayer/cisa-known-exploited-mirror | nan | https://github.com/EugenMayer/cisa-known-exploited-mirror | ['exploit'] | 1 | 2024-10-03 00:08:28+00:00 | 943 | 7 | nan | 5 | [] |
+| cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-10-03 05:08:10+00:00 | 439991 | 0 | Python | 0 | [] |
+| vulsio/vuls-data-raw-exploit-github | nan | https://github.com/vulsio/vuls-data-raw-exploit-github | ['exploit'] | 1 | 2024-10-03 00:15:02+00:00 | 27845 | 1 | nan | 2 | [] |
+| vulsio/vuls-data-raw-exploit-inthewild | nan | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2024-10-03 00:15:12+00:00 | 30628 | 6 | nan | 2 | [] |
+| chi111i/fuzzshell | CTF WEB RCE签到题一把梭 自动绕过WAF | https://github.com/chi111i/fuzzshell | ['rce'] | 1 | 2024-10-03 03:32:52+00:00 | 4068 | 17 | Python | 0 | [] |
+| 00Romans00/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/00Romans00/WinRAR-Exploit-Builder | ['0day'] | 1 | 2024-10-03 04:54:36+00:00 | 1161 | 2 | C# | 0 | [] |
+| MystersCat/HTA-Exploit | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/MystersCat/HTA-Exploit | ['remote code execution'] | 1 | 2024-10-03 05:54:19+00:00 | 163 | 0 | C# | 0 | [] |
+| MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/MystersCat/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | ['cve-2 OR cve_2'] | 1 | 2024-10-03 04:51:21+00:00 | 500 | 0 | C++ | 0 | [] |
+| ArthurHendrich/vulnerable-nodeApp-sonarcloud | This is a node Application that is vulnerable to SSRF and Command Injection | https://github.com/ArthurHendrich/vulnerable-nodeApp-sonarcloud | ['command injection'] | 1 | 2024-10-03 00:58:05+00:00 | 88 | 0 | HTML | 0 | [] |
+| nop2nop/cve-2019-11248 | POC for CVE-2019-11248, remote code execution (RCE) | https://github.com/nop2nop/cve-2019-11248 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'remote code execution'] | 5 | 2024-10-03 01:53:19+00:00 | 141 | 7 | C | 2 | ['CVE-2019-11248'] |
+| hal3002/shellcode_generator | None | https://github.com/hal3002/shellcode_generator | ['shellcode'] | 1 | 2024-10-03 02:47:59+00:00 | 7 | 0 | Python | 0 | [] |
+| Kovax00/Hacking-PSRemoting | Ejecución de comandos para administrar mal configurados, RCE, Mensajes, Sabotaje. | https://github.com/Kovax00/Hacking-PSRemoting | ['rce'] | 1 | 2024-10-03 05:24:52+00:00 | 0 | 0 | | 0 | [] |
