@@ -24,7 +24,6 @@ VU#13,0.33333333,https://github.com/harrychien1311/Distributed-Slice-mobility-at
 VU#13,0.33333333,https://github.com/zxzxz1/Exploit_Version.1.2.0,zxzxz1/Exploit_Version.1.2.0,476262258
 VU#13,0.25000000,https://github.com/bboywangxinyu/Command-dataset,bboywangxinyu/Command-dataset,775311200
 VU#13,0.25000000,https://github.com/Zalushka/EzExploitStore,Zalushka/EzExploitStore,622470963
-VU#13,0.25000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#13,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#13,0.25000000,https://github.com/Bw3ll/ShellWasp,Bw3ll/ShellWasp,516953882
 VU#13,0.25000000,https://github.com/soumosir/exploting-binaries,soumosir/exploting-binaries,445038377
@@ -82,6 +81,7 @@ VU#13,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_
 VU#13,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#13,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#13,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
+VU#13,0.04347826,https://github.com/liamadoyle/PhD_Study_3,liamadoyle/PhD_Study_3,795320731
 VU#13,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,741207383
 VU#13,0.04347826,https://github.com/KingExploit06/Roblox-Exploits,KingExploit06/Roblox-Exploits,683732742
 VU#13,0.04347826,https://github.com/AryanVBW/LinuxDroid,AryanVBW/LinuxDroid,596378884
@@ -438,7 +438,7 @@ VU#13,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#13,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#13,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#13,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#13,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#13,0.00018674,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#13,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#13,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#13,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
@@ -449,7 +449,7 @@ VU#13,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector
 VU#13,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#13,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#13,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#13,0.00000858,https://github.com/trickest/cve,trickest/cve,454015416
+VU#13,0.00000857,https://github.com/trickest/cve,trickest/cve,454015416
 VU#13,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 VU#13,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 VU#13,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

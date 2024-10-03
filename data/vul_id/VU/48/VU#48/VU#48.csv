@@ -91,6 +91,7 @@ VU#48,0.04545455,https://github.com/anapaulasandes/financ-time-series-exploit,an
 VU#48,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,michele-abruzzese/predictive_maintenance,721573848
 VU#48,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#48,0.04347826,https://github.com/jedilinux/Shellcode,jedilinux/Shellcode,832234093
+VU#48,0.04347826,https://github.com/liamadoyle/PhD_Study_3,liamadoyle/PhD_Study_3,795320731
 VU#48,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,filippoprafloriani/Distributed-Algorithms-Direct-QR-factorization,741207383
 VU#48,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733902391
 VU#48,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733394340
@@ -461,7 +462,7 @@ VU#48,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#48,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#48,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#48,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#48,0.00018681,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#48,0.00018674,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#48,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#48,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#48,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
@@ -474,7 +475,7 @@ VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#48,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#48,0.00000858,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00000857,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
