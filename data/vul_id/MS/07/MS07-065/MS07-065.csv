@@ -4,6 +4,7 @@ MS07-065,0.05555556,https://github.com/wrayjustin/unsploitable,wrayjustin/unsplo
 MS07-065,0.05555556,https://github.com/tklengyel/dionaea,tklengyel/dionaea,10159961
 MS07-065,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
 MS07-065,0.01234568,https://github.com/1N3/PrivEsc,1N3/PrivEsc,71915988
+MS07-065,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS07-065,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS07-065,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS07-065,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
@@ -298,7 +299,7 @@ MS07-065,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS07-065,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS07-065,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS07-065,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS07-065,0.00000857,https://github.com/trickest/cve,trickest/cve,454015416
+MS07-065,0.00000856,https://github.com/trickest/cve,trickest/cve,454015416
 MS07-065,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS07-065,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS07-065,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

@@ -3,6 +3,7 @@ MS15-004,0.50000000,https://github.com/Patrowl/PatrowlHears,Patrowl/PatrowlHears
 MS15-004,0.14285714,https://github.com/BlackCyber21/exploit-toolkit,BlackCyber21/exploit-toolkit,356499280
 MS15-004,0.10000000,https://github.com/bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,bcheung/EE379K-Lab-3-APT-Fuzzing-Exploitation,216675078
 MS15-004,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
+MS15-004,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS15-004,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS15-004,0.00925926,https://github.com/unkn0wnh4ckr/hackers-tool-kit,unkn0wnh4ckr/hackers-tool-kit,166695695
 MS15-004,0.00813008,https://github.com/384564527/DeepExploit-pytorch,384564527/DeepExploit-pytorch,777765414
@@ -206,7 +207,7 @@ MS15-004,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS15-004,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS15-004,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS15-004,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS15-004,0.00000857,https://github.com/trickest/cve,trickest/cve,454015416
+MS15-004,0.00000856,https://github.com/trickest/cve,trickest/cve,454015416
 MS15-004,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS15-004,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 MS15-004,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

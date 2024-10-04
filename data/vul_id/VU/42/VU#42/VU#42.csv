@@ -66,6 +66,7 @@ VU#42,0.05263158,https://github.com/julioarruda/poc-vuln-java-2,julioarruda/poc-
 VU#42,0.05263158,https://github.com/julioarruda/poc-vuln-java,julioarruda/poc-vuln-java,659747151
 VU#42,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#42,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
+VU#42,0.05000000,https://github.com/christianvagnoni/BuildWeek2_4Ottobre2024,christianvagnoni/BuildWeek2_4Ottobre2024,867525965
 VU#42,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
 VU#42,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#42,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
@@ -207,13 +208,13 @@ VU#42,0.01098901,https://github.com/richteague/gofish,richteague/gofish,19930690
 VU#42,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#42,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#42,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
-VU#42,0.01086957,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#42,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#42,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#42,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#42,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#42,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#42,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#42,0.01052632,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#42,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#42,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#42,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514

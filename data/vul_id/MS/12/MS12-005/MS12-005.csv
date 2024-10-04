@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS12-005,0.06250000,https://github.com/alien-keric/milley,alien-keric/milley,767573421
 MS12-005,0.05555556,https://github.com/cstayyab/offensive-mamba,cstayyab/offensive-mamba,269058155
+MS12-005,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS12-005,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS12-005,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS12-005,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
