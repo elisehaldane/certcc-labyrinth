@@ -1,0 +1,66 @@
+repo_id,repo_full_name,file,file_sha1,match
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/000-default.conf,047d6b2c4f38722616dc0d173b9f25af74bb205b,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/sop/static/fonts/Poppins-ExtraLight.ttf,05d356f14c2ebbbe4e3f32d0640999602661e6ad,VU#33
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/main.js,06a4360dd6d7afa73b8e3ee1989c346318798aa0,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/POC.sh,0a74b533b268abdf4721544997424ac2748889c2,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/bootstrap.min.js,0ea50cfc2f0df52117c5aeb8c5a87dd45b2c6f84,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/sop/static/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/fonts/ionicons.ttf,1b0a0de084905946a20300ca8c354865dec46764,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/Enfold Free Website Template - Free-CSS.com.zip,1f2ed8b328a6694fd61b3b997f503130854b37c0,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.fractionslider.min.js,2737c8efc1737e80eb41399456a29d6574237618,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/sop/static/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.fitvids.js,2dfb4a5ef03f7f1b5fd3663c198570eb4d86f285,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/entry.sh,2f42f3465bfbf2756732dbd4ee3a3b5e7e5ecf2a,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/2022 CTF.zip,30b906c4426c7028158a5f696fc848d4dbc3da7d,VU#37
+867345699,Ankur452/CTF-challenges,2022/2022 CTF.zip,30b906c4426c7028158a5f696fc848d4dbc3da7d,VU#59
+867345699,Ankur452/CTF-challenges,2022/2022 CTF.zip,30b906c4426c7028158a5f696fc848d4dbc3da7d,VU#69
+867345699,Ankur452/CTF-challenges,2022/2022 CTF.zip,30b906c4426c7028158a5f696fc848d4dbc3da7d,VU#90
+867345699,Ankur452/CTF-challenges,2022/2022 CTF.zip,30b906c4426c7028158a5f696fc848d4dbc3da7d,VU#41
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/README.md,3d57554b2f7ec6ff7d4da1def7ad4754c0ad3bc3,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/portal-manager.zip,3df1f5f05d32fad23095494762d105493db2bd6b,VU#41
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/fonts/ionicons.svg,3f1ca28fcb042d2bcc6ee6a4e3dd817e5132eeea,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2023/2023 CTF.zip,47a247e0153dc9f563284b4f0588d7ba26acc10a,VU#41
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/wow.js,4f04201879d80afc7e75c7b5d6267c3c5adc12c5,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/superfish.js,50847a65dcab0ca677358aa3c15734dcf720efee,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/css/bootstrap.css,53a72fb09307db486c5b61f13daf84c193464f9b,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/CVE_payloads.txt,5438297e7d8a74d0bb2912ff8cdad44d7cc18743,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/owl.carousel.min.js,5cfc389925bd8200ee1e0fb224434ded9cae3f15,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#396
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#37
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#85
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#33
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#84
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#32
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#49
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#82
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip/_vendor/certifi/cacert.pem,5d10cbd25ac1c7ced5bfb3d6f185fa150f6ea134,VU#65
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773.zip,5f07863893ffeddb7abcd2225bb1bb48dffc410c,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773.zip,5f07863893ffeddb7abcd2225bb1bb48dffc410c,VU#59
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/fonts/ionicons.eot,61532e89e212f8dd16ba31f3ebcf35c0a7334035,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.isotope.min.js,63beec74c6f4286293bd99a4333a5addaf1fcf5b,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/SmoothScroll.js,640b5f4477604734d786091156b3e6f270f58bb3,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/Steps to deploy.txt,6f2c97b1238cb7bce608b4ecb50ee3b787e9fab6,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/container-security/docker-compose.yml,833c521c475d9c7e1f9edaaa1ef38bd16b4d4fc8,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.min.js,97dc2a1cd769197be6935f2adf4c525ac0f5ac0a,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.easing.js,98831b353c1778007cb3043786f4d582bb92a8d7,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/css/animate.css,a07fed99aa723ba07c48f8223afc944939290604,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/License.txt,ac1835fc5f5618d44e57cd56aa6016c6b1445db2,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/css/ionicons.min.css,b9dd2c4b957d8b6e657c538a36642290cae7fc08,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/form-scripts.js,bdce030a435b8793abfe16a99c38a368c0172d46,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/validator.min.js,c03a6517da694e1ba5aa6b9dc6a647bd119b819a,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/Dockerfile,c6d5f53ead9ef3a22d4b0093d7dd00be3081ac1b,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/container-security/container-security.zip,c8232c8eb92fb4ba647ba5e47a7bd2cc94cbfa0b,VU#59
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery-ui-1.10.4.custom.min.js,ca187cd5afdc572d2fccbffa628399f75a527477,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/index.html,cb2b63e6314e99edbbad0c1635dfa2ea2d3565dd,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/css/style.css,d7d14443356f023d6c7c4d9396e5c6fbcaf2bcfd,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jflickrfeed.min.js,d931f03b729e64ed6783782a2e616b5ddd56ab0c,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2022/sop/static/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pylint-1.9.5.dist-info/RECORD,e44a2423768bc765e7fd29c0e5f8c4e0fd12ed80,VU#391
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pylint-1.9.5.dist-info/RECORD,e44a2423768bc765e7fd29c0e5f8c4e0fd12ed80,VU#71
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pylint-1.9.5.dist-info/RECORD,e44a2423768bc765e7fd29c0e5f8c4e0fd12ed80,VU#358
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pylint-1.9.5.dist-info/RECORD,e44a2423768bc765e7fd29c0e5f8c4e0fd12ed80,VU#496
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/fonts/ionicons.woff,e46819e863a46751d622c1190c4e8a83ebc20612,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/solr-injection/flask-introduction/env/lib/python2.7/site-packages/pip-20.2.3.dist-info/RECORD,e4901b570b3e3174dbf3866690137f22c6a29c08,VU#96
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/FLAG.txt,e5d7d115629bb2a519a60d7e348109820794afab,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/jquery.magnific-popup.js,f0a38912f3067bc47111bb5ee3549fa915a2c27c,CVE-2021-41773
+867345699,Ankur452/CTF-challenges,2021/CVE-2021-41773/challenge1/js/gmap3.min.js,f0e5e63ce8c7779f195002e69cd280d93f06ea31,CVE-2021-41773
