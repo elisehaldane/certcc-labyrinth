@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+867649513,JeninSutradhar/CVE-2024-4577-checker,cve_2024_4577_checker.sh,1a2e987d9dc28cc6e88ed2cf91393cfd8fb1607d,CVE-2024-4577
+867649513,JeninSutradhar/CVE-2024-4577-checker,README.md,a2554e5cf49002cc24f57c1c26adee34cc63b0f2,CVE-2024-4577
+867649513,JeninSutradhar/CVE-2024-4577-checker,_GITHUB_REPO_METADATA_,,CVE-2024-4577
