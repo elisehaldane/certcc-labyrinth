@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+867524521,Kanishkajha29/Stratus-Command-Injection,src/core/modules/shellshock/shellshock.py,d532614bdab2d79c51e381db39f77fde65692784,CVE-2014-6271
+867524521,Kanishkajha29/Stratus-Command-Injection,src/core/modules/shellshock/shellshock.py,d532614bdab2d79c51e381db39f77fde65692784,CVE-2014-6278
