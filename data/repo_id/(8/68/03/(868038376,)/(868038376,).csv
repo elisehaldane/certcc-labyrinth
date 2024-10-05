@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+868038376,netuseradministrator/CVE-2024-36401,main.go,f55046f6f25f5451bbe5879fa3cd7599d408368e,CVE-2024-36401
+868038376,netuseradministrator/CVE-2024-36401,_GITHUB_REPO_METADATA_,,CVE-2024-36401
