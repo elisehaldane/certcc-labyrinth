@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+868225551,mrmtwoj/TuDoor-,README.md,ad96483bde95fb53e42d6f86884cc93fd9b32579,CVE-2023-28452
+868225551,mrmtwoj/TuDoor-,README.md,ad96483bde95fb53e42d6f86884cc93fd9b32579,CVE-2023-29483
+868225551,mrmtwoj/TuDoor-,exploit_dns.py,ca876aaef3c99362dbe41acc2ee3345d7ec08356,CVE-2023-28452
+868225551,mrmtwoj/TuDoor-,exploit_dns.py,ca876aaef3c99362dbe41acc2ee3345d7ec08356,CVE-2023-29483
