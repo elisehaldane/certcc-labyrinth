@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+813940731,BinBashBanana/badrecovery,assets/buildroot-badrecovery.tar.gz,08ad1f072a56e09fd54f582a8b76972de985736a,VU#18
+813940731,BinBashBanana/badrecovery,assets/bzImage,35b1831d9adce65597cdcd67e9ea57bb19a19815,VU#53
+813940731,BinBashBanana/badrecovery,assets/bzImage,35b1831d9adce65597cdcd67e9ea57bb19a19815,VU#62
+813940731,BinBashBanana/badrecovery,assets/rootfs.cpio.gz,52d320f151b639a2a14a8ed26b99d13b005bf3c6,VU#76
