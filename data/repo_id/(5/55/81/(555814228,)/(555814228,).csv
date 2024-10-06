@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 555814228,mawg0ud/VulnVortex,src/core/Exploitation.py,6bb2f2905093b0c768416ec18df56f3ef76c15df,CVE-2021-34527
+555814228,mawg0ud/VulnVortex,src/reporting/ReportGenerator.py,713347fc2657a1c66d48d4032d6456d35a3266fd,CVE-2021-34527
 555814228,mawg0ud/VulnVortex,src/core/VulnerabilityScanner.py,b374da4489c9e6a76346588e38f2392440dfa9ea,CVE-2019-0708
 555814228,mawg0ud/VulnVortex,src/core/VulnerabilityScanner.py,b374da4489c9e6a76346588e38f2392440dfa9ea,CVE-2021-34527
