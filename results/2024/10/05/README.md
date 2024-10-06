@@ -1,7 +1,7 @@
 
 # Summary for results/2024/10/05
     
-182 records found after deduplication
+183 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -155,7 +155,7 @@
 | rbaklouty28/AI-IN-Aerospace | Here’s a more concise description for your GitHub repository: CNN model for binary classification of images using TensorFlow and Keras. The model predicts whether a resource is exploitable (> 60% utilization) based on image data. Features include data au | https://github.com/rbaklouty28/AI-IN-Aerospace | ['exploit'] | 1 | 2024-10-05 11:27:11+00:00 | 11 | 0 | Jupyter Notebook | 0 | [] |
 | Chadrack00/Syst-me-d-exploitation- | None | https://github.com/Chadrack00/Syst-me-d-exploitation- | ['exploit'] | 1 | 2024-10-05 11:41:00+00:00 | 0 | 0 | | 0 | [] |
 | me-jndildap/BookExploitFix | Spigot plugin to improve security surrounding books with JSON content | https://github.com/me-jndildap/BookExploitFix | ['exploit'] | 1 | 2024-10-05 11:45:43+00:00 | 88 | 1 | Java | 0 | [] |
-| 0xCZR1/CUPS-RCE | None | https://github.com/0xCZR1/CUPS-RCE | ['rce'] | 1 | 2024-10-05 12:55:28+00:00 | 17 | 0 | Python | 0 | [] |
+| 0xCZR1/PoC-Cups-RCE-CVE-exploit-chain | None | https://github.com/0xCZR1/PoC-Cups-RCE-CVE-exploit-chain | ['cve poc', 'exploit', 'rce'] | 3 | 2024-10-05 12:55:28+00:00 | 17 | 0 | Python | 0 | [] |
 | ousax/JsXssExploits | None | https://github.com/ousax/JsXssExploits | ['exploit'] | 1 | 2024-10-05 14:53:20+00:00 | 15 | 0 | Python | 0 | [] |
 | lorcoom7/Exploit-Development | Custom exploits I developed and tested in various vulnerable environments. | https://github.com/lorcoom7/Exploit-Development | ['exploit'] | 1 | 2024-10-05 12:03:56+00:00 | 0 | 0 | | 0 | [] |
 | geniuszlyy/GenGravSSTIExploit | is a PoC Python script that exploits an authenticated Server-Side Template Injection (SSTI) vulnerability in Grav CMS versions <= 1.7.44 (CVE-2024-28116) | https://github.com/geniuszlyy/GenGravSSTIExploit | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-10-05 12:08:37+00:00 | 9 | 3 | Python | 0 | ['CVE-2024-28116'] |
@@ -180,6 +180,7 @@
 | Mihjol-hub/tp1_System_exploitation | None | https://github.com/Mihjol-hub/tp1_System_exploitation | ['exploit'] | 1 | 2024-10-05 20:24:56+00:00 | 0 | 0 | | 0 | [] |
 | RBXTeam/wave-executor | Wave is a brand new Windows executor developed by industry expert reverse engineers. Currently Solara supports 98% UNC and is level 8 executor. Please be informed that Wave is not able to bypass byfron/hyperion currently and you should always use alt accou | https://github.com/RBXTeam/wave-executor | ['exploit'] | 1 | 2024-10-05 20:15:09+00:00 | 6 | 26 | | 2 | [] |
 | Spix0r/django-rce-exploit | A Python tool for exploiting Django RCE via deserialization vulnerabilities in session cookies, allowing remote code execution through forged cookies. | https://github.com/Spix0r/django-rce-exploit | ['exploit', 'rce', 'remote code execution'] | 3 | 2024-10-05 20:23:01+00:00 | 5 | 2 | Python | 0 | [] |
+| ScytheSploits1/ScytheSploits-loader | nan | https://github.com/ScytheSploits1/ScytheSploits-loader | ['sploit'] | 1 | 2024-10-05 20:30:28+00:00 | 1 | 0 | nan | 0 | [] |
 | mrmtwoj/apache-vulnerability-testing | Apache HTTP Server Vulnerability Testing Tool _ PoC for CVE-2024-38472 , CVE-2024-39573 , CVE-2024-38477 , CVE-2024-38476 , CVE-2024-38475 , CVE-2024-38474 , CVE-2024-38473 , CVE-2023-38709 | https://github.com/mrmtwoj/apache-vulnerability-testing | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2024-10-05 20:37:02+00:00 | 5 | 0 | Python | 0 | ['CVE-2023-38709', 'CVE-2024-38472', 'CVE-2024-38473', 'CVE-2024-38474', 'CVE-2024-38475', 'CVE-2024-38476', 'CVE-2024-38477', 'CVE-2024-39573'] |
 | mrmtwoj/GraphQL_exploitation | An automated tool for discovering vulnerabilities in GraphQL applications through fuzzing techniques, including OS Command Injection and XSS, with a focus on OWASP Top Ten vulnerabilities. | https://github.com/mrmtwoj/GraphQL_exploitation | ['command injection', 'exploit'] | 2 | 2024-10-05 21:38:34+00:00 | 6 | 0 | Python | 0 | [] |
 | Skyart97/Roblox-Solara-Injector | Solara Injector for Roblox | https://github.com/Skyart97/Roblox-Solara-Injector | ['exploit'] | 1 | 2024-10-05 22:53:43+00:00 | 3 | 0 | | 0 | [] |
