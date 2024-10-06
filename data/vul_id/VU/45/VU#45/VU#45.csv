@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#45,1.00000000,https://github.com/0xbitx/DEDSEC_PoC_FINDER,0xbitx/DEDSEC_PoC_FINDER,868076596
 VU#45,1.00000000,https://github.com/DevKDKO/ExploitFixes-Plugin,DevKDKO/ExploitFixes-Plugin,822780074
 VU#45,1.00000000,https://github.com/SystronLab/ThreadBatteryAttack,SystronLab/ThreadBatteryAttack,732148694
 VU#45,1.00000000,https://github.com/CybotRoot/metasploitlab1,CybotRoot/metasploitlab1,575038846
