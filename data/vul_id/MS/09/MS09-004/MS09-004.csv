@@ -18,6 +18,7 @@ MS09-004,0.02000000,https://github.com/0x727/MetasploitCoop-Backend,0x727/Metasp
 MS09-004,0.02000000,https://github.com/bemonolit/metasploitHelper,bemonolit/metasploitHelper,91027954
 MS09-004,0.01351351,https://github.com/ym2011/POC-EXP,ym2011/POC-EXP,130572615
 MS09-004,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
+MS09-004,0.01086957,https://github.com/JoelJJohnson/deep_exploit-PPO-,JoelJJohnson/deep_exploit-PPO-,868397301
 MS09-004,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS09-004,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS09-004,0.00990099,https://github.com/pxcs/Injectionmap_v2,pxcs/Injectionmap_v2,774248240
@@ -320,7 +321,7 @@ MS09-004,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS09-004,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS09-004,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS09-004,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS09-004,0.00000856,https://github.com/trickest/cve,trickest/cve,454015416
+MS09-004,0.00000855,https://github.com/trickest/cve,trickest/cve,454015416
 MS09-004,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS09-004,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS09-004,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

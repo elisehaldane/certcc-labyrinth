@@ -3,6 +3,7 @@ MS13-097,0.08333333,https://github.com/THIRUPATHI1807/metasploit-framework,THIRU
 MS13-097,0.06666667,https://github.com/mrbrownnn/MetasploitFramework,mrbrownnn/MetasploitFramework,789680836
 MS13-097,0.05882353,https://github.com/Jamshid272/Metasploit-framework,Jamshid272/Metasploit-framework,799386098
 MS13-097,0.03333333,https://github.com/darksh3llgr/autoscan,darksh3llgr/autoscan,150855506
+MS13-097,0.01086957,https://github.com/JoelJJohnson/deep_exploit-PPO-,JoelJJohnson/deep_exploit-PPO-,868397301
 MS13-097,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS13-097,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
 MS13-097,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
@@ -279,7 +280,7 @@ MS13-097,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS13-097,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS13-097,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS13-097,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS13-097,0.00000856,https://github.com/trickest/cve,trickest/cve,454015416
+MS13-097,0.00000855,https://github.com/trickest/cve,trickest/cve,454015416
 MS13-097,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS13-097,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS13-097,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
