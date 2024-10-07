@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+868990274,dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth,exploit.sh,07d72428b8cd2a3e010c4fcae6f7f3b3f38efc36,CVE-2020-6287
+868990274,dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth,README.md,0e00423d927ab35b98d8869926edab1385c75a73,CVE-2020-6287
+868990274,dylvie/CVE-2020-6287_SAP-NetWeaver-bypass-auth,_GITHUB_REPO_METADATA_,,CVE-2020-6287
