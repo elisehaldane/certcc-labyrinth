@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+869138465,xorya1/Exploits-for-Mobile-Evidence-Acquisition,README.md,32a6cde92430726d026d77575a2bcff81e3469d5,CVE-2019-6447
+869138465,xorya1/Exploits-for-Mobile-Evidence-Acquisition,AndroidProjet.docx,e295ce2ff5d0496777e4a46b5bc26cfe167c94a7,VU#07
+869138465,xorya1/Exploits-for-Mobile-Evidence-Acquisition,AndroidProjet.docx,e295ce2ff5d0496777e4a46b5bc26cfe167c94a7,VU#544
