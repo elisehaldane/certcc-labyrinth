@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2016-5297,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 ZSL-2016-5297,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 ZSL-2016-5297,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
-ZSL-2016-5297,0.00101010,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2016-5297,0.00100908,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2016-5297,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 ZSL-2016-5297,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 ZSL-2016-5297,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

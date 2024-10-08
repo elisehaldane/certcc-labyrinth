@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-P9RH-JXMQ-GQ47,0.12500000,https://github.com/l0n3m4n/CVE-2024-47176,l0n3m4n/CVE-2024-47176,867190495
 GHSA-P9RH-JXMQ-GQ47,0.00080710,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-P9RH-JXMQ-GQ47,0.00000855,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-P9RH-JXMQ-GQ47,0.00000854,https://github.com/trickest/cve,trickest/cve,454015416

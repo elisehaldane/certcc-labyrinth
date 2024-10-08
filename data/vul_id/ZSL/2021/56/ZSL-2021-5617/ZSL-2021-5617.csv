@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2021-5617,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-ZSL-2021-5617,0.00101010,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2021-5617,0.00100908,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2021-5617,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 ZSL-2021-5617,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 ZSL-2021-5617,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
