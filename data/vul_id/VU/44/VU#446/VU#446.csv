@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#446,1.00000000,https://github.com/STMicroelectronics/x-cube-memsmic1,STMicroelectronics/x-cube-memsmic1,539400464
 VU#446,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
-VU#446,0.04000000,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#446,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#446,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#446,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519

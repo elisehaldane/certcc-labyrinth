@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-X674-V45J-FWXW,0.20000000,https://github.com/pabes74/ContainerVulnerabilityScanner.POC,pabes74/ContainerVulnerabilityScanner.POC,869436147
 GHSA-X674-V45J-FWXW,0.20000000,https://github.com/pabes74/SyftGrypeScraper.POC,pabes74/SyftGrypeScraper.POC,859130216
 GHSA-X674-V45J-FWXW,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

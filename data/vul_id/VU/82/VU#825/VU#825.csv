@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#825,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSEC-Bluetooth-exploit,622227907
 VU#825,0.10000000,https://github.com/ericyoc/cnn_hnn_comparison_analysis_poc,ericyoc/cnn_hnn_comparison_analysis_poc,782261984
+VU#825,0.04166667,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#825,0.01754386,https://github.com/SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,821756227
 VU#825,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#825,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213

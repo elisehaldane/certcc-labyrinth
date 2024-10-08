@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#095,0.50000000,https://github.com/lrapp-x41-pub/unikernel-security-research,lrapp-x41-pub/unikernel-security-research,485128301
 VU#095,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
-VU#095,0.04000000,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#095,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#095,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#095,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082

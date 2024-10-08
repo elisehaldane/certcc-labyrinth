@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#246,0.09090909,https://github.com/DaintyJet/VChat_Brute_Force,DaintyJet/VChat_Brute_Force,760123694
-VU#246,0.04000000,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#246,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#246,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#246,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808

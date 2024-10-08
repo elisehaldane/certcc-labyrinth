@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1640,0.03846154,https://github.com/howardgood88/CVE-reproduce,howardgood88/CVE-reproduce,349943817
 GPZ-1640,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
-GPZ-1640,0.00182149,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GPZ-1640,0.00181488,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GPZ-1640,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 GPZ-1640,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 GPZ-1640,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
