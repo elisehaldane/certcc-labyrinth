@@ -1,0 +1,13 @@
+full_name,description,html_url,matched_list,matched_count,pushed_at,size,stargazers_count,language,forks_count,vul_ids
+drb-ra/C2IntelFeeds,Automatically created C2 Feeds,https://github.com/drb-ra/C2IntelFeeds,['metasploit module OR payload'],1,2024-10-08T04:32:37+0000,2627978,515,REXX,47,[]
+EugenMayer/cisa-known-exploited-mirror,nan,https://github.com/EugenMayer/cisa-known-exploited-mirror,['exploit'],1,2024-10-08T00:07:47+0000,520,7,,5,[]
+vulsio/vuls-data-raw-exploit-inthewild,nan,https://github.com/vulsio/vuls-data-raw-exploit-inthewild,['exploit'],1,2024-10-08T00:15:36+0000,32686,6,,2,[]
+vulsio/vuls-data-raw-exploit-trickest,nan,https://github.com/vulsio/vuls-data-raw-exploit-trickest,['exploit'],1,2024-10-08T00:15:46+0000,77860,0,,0,[]
+HackerCalico/No_X_BOF,加载 BOF & ShellCode 无需可执行权限内存。Loading BOF & ShellCode without executable permission memory.,https://github.com/HackerCalico/No_X_BOF,['shellcode'],1,2024-10-08T05:15:04+0000,9469,338,C++,61,[]
+00Romans00/WinRAR-Exploit-Builder,The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR.,https://github.com/00Romans00/WinRAR-Exploit-Builder,['0day'],1,2024-10-08T04:58:49+0000,1256,2,C#,0,[]
+WooshanGamage/SQL-Injection-Scanner,"The SQL Injection Vulnerability Scanner is a Python tool that identifies SQL injection flaws in web forms using HTTP handling and HTML parsing. It tests forms with SQL payloads and analyzes responses for vulnerabilities, with a simple command-line interfac",https://github.com/WooshanGamage/SQL-Injection-Scanner,['command injection'],1,2024-10-08T02:11:24+0000,557,2,Python,0,[]
+Zsly1010/Amun_shellcodeAnalyzer,None,https://github.com/Zsly1010/Amun_shellcodeAnalyzer,['shellcode'],1,2024-10-08T02:43:04+0000,7745,0,Python,0,[]
+MystersCat/HTA-Exploit,Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution,https://github.com/MystersCat/HTA-Exploit,['remote code execution'],1,2024-10-08T04:56:41+0000,242,0,C#,0,[]
+ExampleST/UAC-Bypass-FUD,"UAC bypass, Elevate, Persistence methods",https://github.com/ExampleST/UAC-Bypass-FUD,['uac bypass'],1,2024-10-08T05:50:52+0000,30,0,C#,0,[]
+dumbguy4/RoSploit-V1.1,"Rosploit made by random dude - simple executor, 72% unc, auto-inject",https://github.com/dumbguy4/RoSploit-V1.1,['sploit'],1,2024-10-08T00:43:19+0000,3279,0,C#,0,[]
+MarqueseMotley/Command-Injection-Attack-Detection,None,https://github.com/MarqueseMotley/Command-Injection-Attack-Detection,['command injection'],1,2024-10-08T04:47:19+0000,0,0,,0,[]
