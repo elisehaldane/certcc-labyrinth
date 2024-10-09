@@ -1,9 +1,9 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-22679,0.00100908,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZDI-CAN-22679,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-ZDI-CAN-22679,0.00015667,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-ZDI-CAN-22679,0.00013686,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
-ZDI-CAN-22679,0.00006108,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+ZDI-CAN-22679,0.00015652,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-22679,0.00013684,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-22679,0.00006106,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 ZDI-CAN-22679,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 ZDI-CAN-22679,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-ZDI-CAN-22679,0.00000854,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-CAN-22679,0.00000853,https://github.com/trickest/cve,trickest/cve,454015416

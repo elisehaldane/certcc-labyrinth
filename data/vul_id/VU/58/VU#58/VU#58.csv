@@ -27,7 +27,7 @@ VU#58,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#58,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
+VU#58,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#58,0.33333333,https://github.com/Recon6/ReconSploit,Recon6/ReconSploit,834347543
@@ -121,7 +121,7 @@ VU#58,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analy
 VU#58,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#58,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
 VU#58,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
-VU#58,0.04166667,https://github.com/N3rdyN3xus/MS17-010_CVE-2017-0143,N3rdyN3xus/MS17-010_CVE-2017-0143,384203070
+VU#58,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
 VU#58,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#58,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#58,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
@@ -274,7 +274,7 @@ VU#58,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#58,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#58,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#58,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#58,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
+VU#58,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#58,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#58,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#58,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
