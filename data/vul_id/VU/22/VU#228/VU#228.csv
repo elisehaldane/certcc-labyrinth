@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#228,0.11111111,https://github.com/hodor-sec/Binary-Exploitation,hodor-sec/Binary-Exploitation,151313853
 VU#228,0.02272727,https://github.com/deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,828885447
 VU#228,0.02272727,https://github.com/Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,825606080
+VU#228,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#228,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#228,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#228,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911

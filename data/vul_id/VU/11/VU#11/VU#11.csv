@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#11,1.00000000,https://github.com/LTSczewak/MrAnonShit-v2.X.X,LTSczewak/MrAnonShit-v2.X.X,806923425
 VU#11,1.00000000,https://github.com/kindawindytoday/SussyPayloads,kindawindytoday/SussyPayloads,604086028
 VU#11,1.00000000,https://github.com/Elagasamel/R-alisation-d-un-compilateur,Elagasamel/R-alisation-d-un-compilateur,460498854
-VU#11,0.50000000,https://github.com/meoawjidevfz/Flexer,meoawjidevfz/Flexer,864076815
 VU#11,0.50000000,https://github.com/xNala/KaWSploit,xNala/KaWSploit,863897239
 VU#11,0.50000000,https://github.com/wh0amitz/SharpADWS,wh0amitz/SharpADWS,756986063
 VU#11,0.50000000,https://github.com/Joe1sn/CVE-2022-22965,Joe1sn/CVE-2022-22965,476708454
@@ -15,6 +14,7 @@ VU#11,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesC
 VU#11,0.33333333,https://github.com/AidenPearce369/Vulnserver-Walkthrough,AidenPearce369/Vulnserver-Walkthrough,457252612
 VU#11,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_paper,384251587
 VU#11,0.33333333,https://github.com/mveytsman/dilettante,mveytsman/dilettante,22237663
+VU#11,0.25000000,https://github.com/meoawjidevfz/Flexer,meoawjidevfz/Flexer,864076815
 VU#11,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#11,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew/Tiramisu,462477498
 VU#11,0.20000000,https://github.com/adambsokol/Ice-cloud-feedbacks-in-RCEMIP,adambsokol/Ice-cloud-feedbacks-in-RCEMIP,666559909
@@ -138,6 +138,7 @@ VU#11,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#11,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#11,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#11,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#11,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#11,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#11,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#11,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -241,6 +242,7 @@ VU#11,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cass
 VU#11,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#11,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#11,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#11,0.00990099,https://github.com/vzxyyyyz/FiveM-External-Cheat-KeyAuth-System,vzxyyyyz/FiveM-External-Cheat-KeyAuth-System,868897020
 VU#11,0.00990099,https://github.com/Chhers/FiveM-External-Cheat-KeyAuth-System,Chhers/FiveM-External-Cheat-KeyAuth-System,852967537
 VU#11,0.00990099,https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System,IChres/FiveM-External-Cheat-KeyAuth-System,840427185
 VU#11,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,0chres0/FiveM-External-Cheat-KeyAuth-System,834754324
