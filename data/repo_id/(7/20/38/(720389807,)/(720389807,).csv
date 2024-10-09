@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+720389807,Hack-Oeil/EJS_INJECTION_CVE_2022,http/www/ho-sandbox-node.docx,09cd7cf89a0fa249b394158f61d50b26e423e135,VU#07
+720389807,Hack-Oeil/EJS_INJECTION_CVE_2022,http/www/ho-sandbox-node.docx,09cd7cf89a0fa249b394158f61d50b26e423e135,VU#33
+720389807,Hack-Oeil/EJS_INJECTION_CVE_2022,http/www/ho-sandbox-node.docx,09cd7cf89a0fa249b394158f61d50b26e423e135,VU#96

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+869481497,bipbopbup/CVE-2023-46818-python-exploit,README.md,23dcc025ece5111ddc59ed49c266a36ddf52b474,CVE-2023-46818
+869481497,bipbopbup/CVE-2023-46818-python-exploit,exploit.py,bdfc83ff04333f810a397268f85da0c0f9f01c24,CVE-2023-46818
+869481497,bipbopbup/CVE-2023-46818-python-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-46818
