@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,slides.md,39f3b8a02492ff1e29f270fd0d1537f01e24e640,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/README.md,3f0a1fb1f3cf6872bbeec225e52380e17557833c,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/server.php,43b2eacaa484d52d55baa72a0641220986b7ec59,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/dtd.xml,5101e7bffa2c37dd4c135b06a696cca67277a0d8,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/._VULN-27015-2.4.6x.composer.patch,54c7c10e977d306039157c88e1dc2e1ece511e7f,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/jwt-builder.php,8c2f67369ecc8e248295117b1deff61360ec4d43,CVE-2024-34102
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,_GITHUB_REPO_METADATA_,,CVE-2024-34102
