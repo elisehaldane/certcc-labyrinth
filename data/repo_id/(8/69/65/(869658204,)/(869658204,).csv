@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/change-crypt-key.php,127fa33a2f4fd682695a246ceb69ad965e218714,CVE-2024-34102
 869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,slides.md,39f3b8a02492ff1e29f270fd0d1537f01e24e640,CVE-2024-34102
 869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/README.md,3f0a1fb1f3cf6872bbeec225e52380e17557833c,CVE-2024-34102
 869658204,bka/magento-cve-2024-34102-exploit-cosmicstring,cve-2024-34102-exploit/server.php,43b2eacaa484d52d55baa72a0641220986b7ec59,CVE-2024-34102
