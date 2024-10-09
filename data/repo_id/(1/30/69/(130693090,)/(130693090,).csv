@@ -443,7 +443,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/viewer/xcube-viewer-in-jl.ipynb,7083bb292e283c8a3690bb0512c466ca36dcba94,VU#21
 130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_tsm/3.1.5,73d3a8e8c416c54dc7573e4b428ebee33954ffce,VU#99
 130693090,xcube-dev/xcube,examples/serve/demo/cube-5-100-200.zarr/conc_chl/0.1.3,7cad10ea00ead577b1f5a61e72c18a728bf90c2a,VU#11
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_tsm/0.1.1,8a37bb47f05a514f26ad334d7cec417e11e3bec0,VU#244
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/conc_tsm/0.1.1,8a37bb47f05a514f26ad334d7cec417e11e3bec0,VU#244
 130693090,xcube-dev/xcube,examples/notebooks/resampling/rectify_dataset.ipynb,8b6b2a3b7ca83f67f701f14fbaf2ac87b73e024b,VU#107
 130693090,xcube-dev/xcube,examples/notebooks/resampling/rectify_dataset.ipynb,8b6b2a3b7ca83f67f701f14fbaf2ac87b73e024b,VU#26
 130693090,xcube-dev/xcube,examples/notebooks/resampling/rectify_dataset.ipynb,8b6b2a3b7ca83f67f701f14fbaf2ac87b73e024b,VU#12
@@ -672,7 +672,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/datastores/1_getting_started.ipynb,9edc97ebb8e15ada1cdcf27b63fc7c786b634c73,VU#15
 130693090,xcube-dev/xcube,examples/notebooks/datastores/1_getting_started.ipynb,9edc97ebb8e15ada1cdcf27b63fc7c786b634c73,VU#43
 130693090,xcube-dev/xcube,examples/notebooks/datastores/1_getting_started.ipynb,9edc97ebb8e15ada1cdcf27b63fc7c786b634c73,VU#22
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_chl/0.1.3,9ffaac92ff4d33f90dcefe8a75bef6bdeeb11f52,VU#33
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/conc_chl/0.1.3,9ffaac92ff4d33f90dcefe8a75bef6bdeeb11f52,VU#33
 130693090,xcube-dev/xcube,examples/notebooks/generators/3_remote.ipynb,a51284242efdd6e4b7accd8e803224d725aee3d2,VU#19
 130693090,xcube-dev/xcube,examples/notebooks/generators/3_remote.ipynb,a51284242efdd6e4b7accd8e803224d725aee3d2,VU#378
 130693090,xcube-dev/xcube,examples/notebooks/generators/3_remote.ipynb,a51284242efdd6e4b7accd8e803224d725aee3d2,VU#38
@@ -928,7 +928,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/resampling/resample_in_space.ipynb,c02a4a010ee8d3e86fa9bb942a20121ef884a9aa,VU#74
 130693090,xcube-dev/xcube,examples/notebooks/resampling/resample_in_space.ipynb,c02a4a010ee8d3e86fa9bb942a20121ef884a9aa,VU#248
 130693090,xcube-dev/xcube,examples/notebooks/resampling/resample_in_space.ipynb,c02a4a010ee8d3e86fa9bb942a20121ef884a9aa,VU#111
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/conc_tsm/0.2.2,c7b0f9130487a279ea0544ef00a440c23fe717e8,VU#55
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_tsm/0.2.2,c7b0f9130487a279ea0544ef00a440c23fe717e8,VU#55
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#07
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#477
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#21
@@ -940,7 +940,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#08
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#73
 130693090,xcube-dev/xcube,examples/notebooks/server/compute-api.ipynb,c89c3a1348a2a730a4340c31dd82e0a38008160d,VU#41
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/kd489/0.3.1,cbcabe7d14a9428eaafbecae8632dc223e0a1411,VU#44
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/kd489/0.3.1,cbcabe7d14a9428eaafbecae8632dc223e0a1411,VU#44
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#37
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#68
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#8767
@@ -958,7 +958,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#92
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#27
 130693090,xcube-dev/xcube,examples/notebooks/general/performance_guide.ipynb,d1e93d77c5cdbde9bcabb0e9e9e6c327dda4a793,VU#24
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/conc_chl/3.0.3,d405ac6e30d956e0d94fac187f3d4f9bb9cc1cc2,VU#11
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_chl/3.0.3,d405ac6e30d956e0d94fac187f3d4f9bb9cc1cc2,VU#11
 130693090,xcube-dev/xcube,examples/serve/demo/cube-5-100-200.zarr/conc_tsm/0.4.6,d58de480996e4b9c139ccc3a5c61ee939bf0dd7f,VU#99
 130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/conc_chl/3.1.6,d6dddf12c623267a409665f49b7179d6b7e43a29,VU#11
 130693090,xcube-dev/xcube,examples/serve/demo/cube-5-100-200.zarr/kd489/0.3.2,dc989aaea041bb5b7555e6ec084a108b392f12dd,VU#112
@@ -992,7 +992,7 @@ repo_id,repo_full_name,file,file_sha1,match
 130693090,xcube-dev/xcube,examples/notebooks/generators/4_processing.ipynb,ddb7001f94ff7a247c51e8988fbc2ee6e6b63638,VU#41
 130693090,xcube-dev/xcube,examples/notebooks/generators/4_processing.ipynb,ddb7001f94ff7a247c51e8988fbc2ee6e6b63638,VU#073
 130693090,xcube-dev/xcube,examples/notebooks/generators/4_processing.ipynb,ddb7001f94ff7a247c51e8988fbc2ee6e6b63638,VU#410
-130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/kd489/3.1.1,e0af92da6a69b05ed2eca4a4dd220d2434e02840,VU#112
+130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/0.zarr/kd489/3.1.1,e0af92da6a69b05ed2eca4a4dd220d2434e02840,VU#112
 130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.zarr/conc_tsm/1.0.6,e13b5ae9b3034134799ede0845466bafe017af63,VU#988
 130693090,xcube-dev/xcube,examples/serve/demo/cube-1-250-250.levels/1.zarr/kd489/3.0.2,e2fca0747700bfb6c346d85fc5c72050f2aedd48,VU#75
 130693090,xcube-dev/xcube,examples/serve/demo/cube-5-100-200.zarr/kd489/0.7.2,e3a9f383e6b44befb57713db7fae95fa9888fad1,VU#44
