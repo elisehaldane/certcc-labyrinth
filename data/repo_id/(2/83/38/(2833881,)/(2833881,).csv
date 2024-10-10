@@ -2,7 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,02a15b708ffcb19ae448d68b1bdc3c8243681d83,CVE-2014-0627
 2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,02a15b708ffcb19ae448d68b1bdc3c8243681d83,CVE-2014-6271
 2833881,beefproject/beef,core/main/server.rb,08f24a85c15758641cdc48ca6390359f568826d4,CVE-2014-0160
-2833881,beefproject/beef,modules/social_engineering/firefox_extension_bindshell/command.js,0a24617282eea7a254ed9172982bcc5deb9c486f,VU#59
+2833881,beefproject/beef,modules/social_engineering/firefox_extension_reverse_shell/command.js,0a24617282eea7a254ed9172982bcc5deb9c486f,VU#59
 2833881,beefproject/beef,modules/exploits/farsite_x25_remote_shell/config.yaml,0a41b7a5f106f2bb3ec2d91f9be437b9517b35a0,CVE-2014-7173
 2833881,beefproject/beef,modules/exploits/farsite_x25_remote_shell/config.yaml,0a41b7a5f106f2bb3ec2d91f9be437b9517b35a0,CVE-2014-7175
 2833881,beefproject/beef,beef_key.pem,1725119c1ec5a42347a2fac2ad2789f4f299ea4f,VU#67
