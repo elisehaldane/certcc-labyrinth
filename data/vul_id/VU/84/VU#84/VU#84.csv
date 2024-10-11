@@ -17,6 +17,7 @@ VU#84,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-01
 VU#84,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-31805,482013810
 VU#84,0.20000000,https://github.com/Um4r719/UD-BUG,Um4r719/UD-BUG,833695148
 VU#84,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
+VU#84,0.16666667,https://github.com/H2rsh16/rce_system_backend,H2rsh16/rce_system_backend,870806409
 VU#84,0.16666667,https://github.com/rezagoodarzi/QLearning_Cliff_walking,rezagoodarzi/QLearning_Cliff_walking,778704995
 VU#84,0.16666667,https://github.com/JasonK145/GameProject_01,JasonK145/GameProject_01,672271649
 VU#84,0.16666667,https://github.com/Charlie0257/T2TL,Charlie0257/T2TL,515790479
@@ -137,6 +138,7 @@ VU#84,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#84,0.03333333,https://github.com/msam13/wyze-cam-firmware-analysis,msam13/wyze-cam-firmware-analysis,483096219
 VU#84,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#84,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
+VU#84,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
 VU#84,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#84,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#84,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
