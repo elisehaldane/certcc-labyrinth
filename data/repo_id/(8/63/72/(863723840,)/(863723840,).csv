@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Windows/win_client(localhost-print-upx).exe,12b745fa9ccdb8544b2a0a2e140f0d81b662eaad,VU#04
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Linux/linux_client_gui(localhost),36e0cdf3dad51635e0748b02d0a38da662c9bad3,VU#89
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Linux/linux_client_headless(localhost),5d2423040acb62a470f8da2a765fb425f11f35b4,VU#89
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Linux/c2_server_linux(localhost),5d5c690d0bc83bf4c3a6780e1b4d0a1c5333501b,VU#89
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Windows/win_client(localhost-noprint-upx).exe,864d9f82157a278676d513138bd784e25d762d45,VU#04
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Windows/win_client(localhost-noprint-simple).exe,e8c034f942ac36f3ffc554e67c440054da229a70,VU#83
+863723840,davoodya/C2-YakuzaDesign,Build Versions/Version 1.0.0/Windows/win_client(localhost-noprint-simple).exe,e8c034f942ac36f3ffc554e67c440054da229a70,VU#94
