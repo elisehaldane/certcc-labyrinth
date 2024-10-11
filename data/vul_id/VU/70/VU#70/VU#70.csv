@@ -37,10 +37,10 @@ VU#70,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,
 VU#70,0.20000000,https://github.com/PsySlayer/Krum-V1-Exploit,PsySlayer/Krum-V1-Exploit,606785072
 VU#70,0.20000000,https://github.com/lijiejie/swagger-exp,lijiejie/swagger-exp,350607453
 VU#70,0.20000000,https://github.com/jm33-m0/static-bins,jm33-m0/static-bins,313888500
-VU#70,0.16666667,https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,710643666
 VU#70,0.16666667,https://github.com/maldev866/WordExp_CVE_2023_21716,maldev866/WordExp_CVE_2023_21716,611233363
 VU#70,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#70,0.14285714,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
+VU#70,0.14285714,https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,710643666
 VU#70,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
 VU#70,0.12500000,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#70,0.12500000,https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,467904542
@@ -99,6 +99,7 @@ VU#70,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRc
 VU#70,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#70,0.04166667,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#70,0.04166667,https://github.com/Delioos/dopamine-exploiter,Delioos/dopamine-exploiter,816137507
+VU#70,0.04000000,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871090461
 VU#70,0.04000000,https://github.com/dlsaavedra/rcens,dlsaavedra/rcens,730905381
 VU#70,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#70,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
@@ -118,8 +119,8 @@ VU#70,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploit
 VU#70,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#70,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#70,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
+VU#70,0.02222222,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#70,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
-VU#70,0.02173913,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#70,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#70,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#70,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
