@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+870806409,H2rsh16/rce_system_backend,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#33
+870806409,H2rsh16/rce_system_backend,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#84
+870806409,H2rsh16/rce_system_backend,node_modules/mquery/History.md,467a6091e535892efeeb507f8d58eb1e55451270,CVE-2020-35149
+870806409,H2rsh16/rce_system_backend,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#243
+870806409,H2rsh16/rce_system_backend,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#48
+870806409,H2rsh16/rce_system_backend,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#93
