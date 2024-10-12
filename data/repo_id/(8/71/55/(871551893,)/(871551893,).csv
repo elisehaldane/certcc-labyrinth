@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+871551893,Thejoyofgettingusedtolife/ADSelfService-Plus-RCE,CVE-2021-40539：ADSelfService Plus RCE漏洞.py,52e70d26d597d49942f81cb7f905120990661a98,CVE-2021-40539
+871551893,Thejoyofgettingusedtolife/ADSelfService-Plus-RCE,README.md,aba35f4158d71393eaa479043b9ded1520bc6d52,CVE-2021-40539
