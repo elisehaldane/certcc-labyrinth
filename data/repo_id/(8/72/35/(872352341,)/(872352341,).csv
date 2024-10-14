@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,getapps-apks/com.xiaomi.mipicks-v4003028.apk,07d4e317d9370e92d9f7143ba6566b480899cdd5,VU#14
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,README.md,a3ca4a7d7a090a9ddb8aac69dca516bc48ca0867,CVE-2024-4406
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,DEF CON 32 - Ken Gannon Ilyes Beghdadi - Xiaomi The Money Our Toronto Pwn2Own Exploit and Behind The Scenes Story.pdf,e775581c3aa2e7ab896477f4a0facb2e08370d74,VU#08
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,DEF CON 32 - Ken Gannon Ilyes Beghdadi - Xiaomi The Money Our Toronto Pwn2Own Exploit and Behind The Scenes Story.pdf,e775581c3aa2e7ab896477f4a0facb2e08370d74,VU#34
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,DEF CON 32 - Ken Gannon Ilyes Beghdadi - Xiaomi The Money Our Toronto Pwn2Own Exploit and Behind The Scenes Story.pdf,e775581c3aa2e7ab896477f4a0facb2e08370d74,VU#74
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,getapps-apks/com.xiaomi.mipicks-v4003027.apk,ff0b74a477c082d65fe5247c1d45f76eb50b4bf6,VU#10
+872352341,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,_GITHUB_REPO_METADATA_,,CVE-2024-4406
