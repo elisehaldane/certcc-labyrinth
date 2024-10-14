@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+871779653,reubensammut/published-exploits,CVE-2018-0834/README.md,7e9d195bf8bf995bd8e413363cade21ce97c2d59,CVE-2018-0834
+871779653,reubensammut/published-exploits,CVE-2018-0834/exploit.js,97a95fbc8b9841388b745e0b17ec24d3e97ef236,CVE-2018-0834
