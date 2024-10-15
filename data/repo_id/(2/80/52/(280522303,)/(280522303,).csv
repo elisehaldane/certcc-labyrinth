@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-280522303,Ne0nd0g/merlin-agent,docs/CHANGELOG.MD,29d8be1a0b6b1bd56f166f3d1f4c723b787fa7ef,CVE-2024-2687
-280522303,Ne0nd0g/merlin-agent,docs/CHANGELOG.MD,29d8be1a0b6b1bd56f166f3d1f4c723b787fa7ef,CVE-2024-28180
+280522303,Ne0nd0g/merlin-agent,docs/CHANGELOG.MD,7d62eb818a3463317ae7c3bb1f2c3a9ffeaf2eb8,CVE-2024-2687
+280522303,Ne0nd0g/merlin-agent,docs/CHANGELOG.MD,7d62eb818a3463317ae7c3bb1f2c3a9ffeaf2eb8,CVE-2024-28180
+280522303,Ne0nd0g/merlin-agent,go.sum,e18d8e6e1d8a3ba717792303c98b2f9b9f3d472e,VU#144
