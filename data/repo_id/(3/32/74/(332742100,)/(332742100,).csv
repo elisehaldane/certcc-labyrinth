@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-332742100,MythicAgents/merlin,Payload_Type/merlin/CHANGELOG.MD,cb6c6218f4237a9ba4267cfc79b3166b3ab3563d,CVE-2024-2687
+332742100,MythicAgents/merlin,Payload_Type/merlin/CHANGELOG.MD,3d2d3204bce5f2b0d5f0abb83b34556f4ada8628,CVE-2024-2687
+332742100,MythicAgents/merlin,Payload_Type/merlin/agent/go.sum,f0549671378011310783bfafbac5f98adf6e6033,VU#144

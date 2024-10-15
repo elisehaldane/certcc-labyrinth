@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+872768510,vpxuser/VMware-ESXI-OpenSLP-Exploit,README.md,4ebf555be8e344525e23cb6371e5664e17647aaa,CVE-2019-5544
+872768510,vpxuser/VMware-ESXI-OpenSLP-Exploit,.idea/modules.xml,d6a581de227764296ca886a5f5308a7f8b2a3ec0,CVE-2019-5544
+872768510,vpxuser/VMware-ESXI-OpenSLP-Exploit,.idea/CVE-2019-5544.iml,e97d654372ef437ced1d771fc7339a3a5ea653c8,CVE-2019-5544
+872768510,vpxuser/VMware-ESXI-OpenSLP-Exploit,_GITHUB_REPO_METADATA_,,CVE-2019-5544
+872768510,vpxuser/VMware-ESXI-OpenSLP-Exploit,_GITHUB_REPO_METADATA_,,CVE-2020-3992
