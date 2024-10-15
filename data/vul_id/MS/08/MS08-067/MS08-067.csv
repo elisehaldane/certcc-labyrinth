@@ -200,11 +200,11 @@ MS08-067,0.07692308,https://github.com/Noslive/PowerSploit,Noslive/PowerSploit,8
 MS08-067,0.07692308,https://github.com/xtr4nge/FruityC2,xtr4nge/FruityC2,78662322
 MS08-067,0.07692308,https://github.com/Exploit-install/Empire,Exploit-install/Empire,76759040
 MS08-067,0.07692308,https://github.com/Arno0x/DBC2,Arno0x/DBC2,76449989
-MS08-067,0.07142857,https://github.com/DF1sh/TryHackMe-Rooms,DF1sh/TryHackMe-Rooms,843262740
 MS08-067,0.07142857,https://github.com/sandoche/Terminhack,sandoche/Terminhack,290534663
 MS08-067,0.07142857,https://github.com/pattersonbr/InvokeShellcode,pattersonbr/InvokeShellcode,30663715
 MS08-067,0.07142857,https://github.com/Demuxx/nifflsploit,Demuxx/nifflsploit,9782286
 MS08-067,0.07142857,https://github.com/rapid7/metasploit_data_models,rapid7/metasploit_data_models,3072132
+MS08-067,0.06666667,https://github.com/DF1sh/TryHackMe-Rooms,DF1sh/TryHackMe-Rooms,843262740
 MS08-067,0.06666667,https://github.com/mrbrownnn/MetasploitFramework,mrbrownnn/MetasploitFramework,789680836
 MS08-067,0.06666667,https://github.com/noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,noondi/Exploit-Windows-with-Eternal-Blue-and-Doublepulsar,134124105
 MS08-067,0.06666667,https://github.com/n1nj4sec/pupy,n1nj4sec/pupy,42882329
@@ -574,7 +574,7 @@ MS08-067,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Me
 MS08-067,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-067,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 MS08-067,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-MS08-067,0.00018674,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00018664,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
@@ -638,7 +638,7 @@ MS08-067,0.00000850,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
-MS08-067,0.00000400,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
+MS08-067,0.00000398,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-067,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS08-067,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS08-067,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -79,6 +79,7 @@ VU#34,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,6081
 VU#34,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#34,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#34,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,safeer-accuknox/CrushFTP-cve-2024-4040-poc,859098985
+VU#34,0.08333333,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#34,0.08333333,https://github.com/Zounzxx/exploits,Zounzxx/exploits,795312393
 VU#34,0.07692308,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#34,0.07692308,https://github.com/Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,816119709
@@ -86,7 +87,6 @@ VU#34,0.07692308,https://github.com/sarkersaad/Optimizing-Delivery-Routes-to-Min
 VU#34,0.07692308,https://github.com/pxcs/CrackMacExpo,pxcs/CrackMacExpo,796882501
 VU#34,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#34,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
-VU#34,0.06666667,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#34,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#34,0.05882353,https://github.com/AllenJustine/Automating-Log4j-Exploit-using-Python,AllenJustine/Automating-Log4j-Exploit-using-Python,848872567
 VU#34,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
@@ -466,7 +466,7 @@ VU#34,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#34,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#34,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#34,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#34,0.00018674,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#34,0.00018664,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#34,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#34,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
