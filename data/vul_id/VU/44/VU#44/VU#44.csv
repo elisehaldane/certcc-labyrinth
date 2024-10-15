@@ -49,7 +49,6 @@ VU#44,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,Baboo
 VU#44,0.14285714,https://github.com/at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,at0m-b0mb/Cracking-OSCP-Your-Roadmap-to-Ethical-Hacking-Success,710643666
 VU#44,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#44,0.14285714,https://github.com/Shankhajit-Sen/Shellcode-sols,Shankhajit-Sen/Shellcode-sols,456201869
-VU#44,0.12500000,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#44,0.12500000,https://github.com/wowletsgo/scripts,wowletsgo/scripts,606304812
 VU#44,0.12500000,https://github.com/JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,JHKLing/Final-Project---Offensive-Defensive-and-Network-Analysis,467904542
 VU#44,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
@@ -68,6 +67,7 @@ VU#44,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV
 VU#44,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#44,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#44,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
+VU#44,0.06666667,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#44,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#44,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
 VU#44,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,598918447
@@ -117,6 +117,7 @@ VU#44,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9
 VU#44,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#44,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#44,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
+VU#44,0.02857143,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
 VU#44,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#44,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#44,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rceneumet.github.io,864542403
@@ -252,6 +253,7 @@ VU#44,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,
 VU#44,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#44,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#44,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#44,0.00787402,https://github.com/vmtenorio/io-gnn,vmtenorio/io-gnn,872686079
 VU#44,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#44,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#44,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047

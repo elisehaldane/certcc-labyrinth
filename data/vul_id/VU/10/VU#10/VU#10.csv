@@ -78,7 +78,6 @@ VU#10,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-
 VU#10,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468699338
 VU#10,0.08333333,https://github.com/SysdigDan/log4j-exploit-demo,SysdigDan/log4j-exploit-demo,465217373
 VU#10,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
-VU#10,0.07692308,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
 VU#10,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#10,0.07692308,https://github.com/sdrinken/Def4Cloud-Log4J,sdrinken/Def4Cloud-Log4J,445610442
 VU#10,0.07692308,https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE,corneacristian/Log4J-CVE-2021-44228-RCE,437664611
@@ -152,6 +151,7 @@ VU#10,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/
 VU#10,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#10,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#10,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
+VU#10,0.02857143,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
 VU#10,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#10,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#10,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
@@ -317,6 +317,7 @@ VU#10,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,
 VU#10,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
 VU#10,0.00800000,https://github.com/rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,rhacrsse/IOT-Forensics-Android-UI-Automation-Testing,477794488
 VU#10,0.00800000,https://github.com/Nobea/Thesis_ReprogrammingFAIRGANs,Nobea/Thesis_ReprogrammingFAIRGANs,418106789
+VU#10,0.00787402,https://github.com/vmtenorio/io-gnn,vmtenorio/io-gnn,872686079
 VU#10,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#10,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#10,0.00775194,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
