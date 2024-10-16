@@ -14,4 +14,5 @@ repo_id,repo_full_name,file,file_sha1,match
 859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#55
 859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#66
 859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,CrushFTP.zip,de4e2b80dabcc0941f6fd5776f7c98fec2046c0d,VU#96
+859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,policy.yaml,ef5223adac173bfa9718e1d974d3d95c73aab1d5,CVE-2024-4040
 859098985,safeer-accuknox/CrushFTP-cve-2024-4040-poc,_GITHUB_REPO_METADATA_,,CVE-2024-4040
