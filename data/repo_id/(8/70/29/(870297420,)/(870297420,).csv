@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+870297420,Cipher7/Exploit-Development,OSED/Tools/mona/vcredist_x86.exe,df7f0a73bfa077e483e51bfb97f5e2eceedfb6a3,VU#14
+870297420,Cipher7/Exploit-Development,OSED/Tools/mona/python-2.7.17.msi,f00aa0cc5a41a94e5b06b7b16af36a2156e6c96c,VU#04
+870297420,Cipher7/Exploit-Development,OSED/Tools/mona/python-2.7.17.msi,f00aa0cc5a41a94e5b06b7b16af36a2156e6c96c,VU#24
+870297420,Cipher7/Exploit-Development,OSED/Tools/mona/python-2.7.17.msi,f00aa0cc5a41a94e5b06b7b16af36a2156e6c96c,VU#41
+870297420,Cipher7/Exploit-Development,OSED/Tools/mona/python-2.7.17.msi,f00aa0cc5a41a94e5b06b7b16af36a2156e6c96c,VU#93
