@@ -51,7 +51,7 @@ VU#92,0.11111111,https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine,SNE-M23-
 VU#92,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#92,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
 VU#92,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
-VU#92,0.08333333,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
+VU#92,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#92,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#92,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#92,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxicsudo/flash-loan-exploit-tutorial,588540872
@@ -299,7 +299,7 @@ VU#92,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#92,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#92,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#92,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
-VU#92,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#92,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#92,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#92,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#92,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053

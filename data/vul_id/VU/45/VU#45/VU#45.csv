@@ -103,7 +103,6 @@ VU#45,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-
 VU#45,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#45,0.09090909,https://github.com/zzwlpx/weblogicPoc,zzwlpx/weblogicPoc,264347023
 VU#45,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
-VU#45,0.08333333,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.08333333,https://github.com/0xrobiul/CVE-2023-49070,0xrobiul/CVE-2023-49070,732816678
 VU#45,0.08333333,https://github.com/kahla-sec/CVE-2021-27850_POC,kahla-sec/CVE-2021-27850_POC,380253996
 VU#45,0.07692308,https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467,744384595
@@ -113,6 +112,7 @@ VU#45,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-
 VU#45,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#45,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#45,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
+VU#45,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#45,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#45,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
@@ -219,6 +219,7 @@ VU#45,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/
 VU#45,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#45,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#45,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#45,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
 VU#45,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#45,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
 VU#45,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,467550868
@@ -321,7 +322,7 @@ VU#45,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#45,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#45,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#45,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
-VU#45,0.00877193,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#45,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#45,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#45,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
