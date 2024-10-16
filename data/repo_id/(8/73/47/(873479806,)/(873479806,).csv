@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+873479806,nwclasantha/Apache_2.4.29_Exploit,README.md,ed40b0224ae3b0dc3612fb57ab27bad2184ae8a1,CVE-2021-41773
+873479806,nwclasantha/Apache_2.4.29_Exploit,README.md,ed40b0224ae3b0dc3612fb57ab27bad2184ae8a1,OSVDB-877
+873479806,nwclasantha/Apache_2.4.29_Exploit,_GITHUB_REPO_METADATA_,,CVE-2021-41773
