@@ -7,7 +7,10 @@ repo_id,repo_full_name,file,file_sha1,match
 836910080,davidcsisk/vector-search-with-security-logs,demo-neural-search-with-proxy-logs-with-output.ipynb,001a4c9863cdf2c27ccc289f2c94324e7e1c768d,VU#414
 836910080,davidcsisk/vector-search-with-security-logs,demo-neural-search-with-proxy-logs-with-output.ipynb,001a4c9863cdf2c27ccc289f2c94324e7e1c768d,VU#44
 836910080,davidcsisk/vector-search-with-security-logs,demo-neural-search-with-proxy-logs-with-output.ipynb,001a4c9863cdf2c27ccc289f2c94324e7e1c768d,VU#70
-836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,6d7f5116c98facfe9a26e96e7225c12b79e18108,VU#45
-836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,6d7f5116c98facfe9a26e96e7225c12b79e18108,VU#66
-836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,6d7f5116c98facfe9a26e96e7225c12b79e18108,VU#92
-836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,6d7f5116c98facfe9a26e96e7225c12b79e18108,VU#9996
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,0dac1ba25eeea4017da0c252f722ade68b4f3e65,VU#45
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,0dac1ba25eeea4017da0c252f722ade68b4f3e65,VU#66
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,0dac1ba25eeea4017da0c252f722ade68b4f3e65,VU#92
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-vector-embeddings.ipynb,0dac1ba25eeea4017da0c252f722ade68b4f3e65,VU#9996
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-levenshtein-similarity-scores.ipynb,6109b503744826e5e75e2b32541af6411142f3a5,VU#09
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-levenshtein-similarity-scores.ipynb,6109b503744826e5e75e2b32541af6411142f3a5,VU#36
+836910080,davidcsisk/vector-search-with-security-logs,unsupervised-anomaly-detection-with-levenshtein-similarity-scores.ipynb,6109b503744826e5e75e2b32541af6411142f3a5,VU#666
