@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+874221105,fazilbaig1/cve_2023_38408_scanner,README.md,4e2f927d082f5b05e0d6017b2274ebb5eab2c4cc,CVE-2023-38408
+874221105,fazilbaig1/cve_2023_38408_scanner,cve_2023_38408_scanner.py,c4505f6dc399694718167fab5286ca1131cacff2,CVE-2023-38408
+874221105,fazilbaig1/cve_2023_38408_scanner,_GITHUB_REPO_METADATA_,,CVE-2023-38408
