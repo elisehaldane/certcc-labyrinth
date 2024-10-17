@@ -68,7 +68,6 @@ VU#66,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinV
 VU#66,0.09090909,https://github.com/anirudhmalik/xhunter,anirudhmalik/xhunter,290417289
 VU#66,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
 VU#66,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,safeer-accuknox/CrushFTP-cve-2024-4040-poc,859098985
-VU#66,0.08333333,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#66,0.08333333,https://github.com/KanzakiisYU/exploit,KanzakiisYU/exploit,820214507
 VU#66,0.08333333,https://github.com/Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,Keshari07/METASPLOIT-BASIC_--HOW-TO-EXPLOIT-VICTIM-MACHIN,803799985
 VU#66,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
@@ -81,6 +80,7 @@ VU#66,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-2162
 VU#66,0.07692308,https://github.com/Khushi-Thapar/RCED,Khushi-Thapar/RCED,568344596
 VU#66,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#66,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
+VU#66,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#66,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#66,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#66,0.07142857,https://github.com/z3dc0ps/ROCKING-CVE,z3dc0ps/ROCKING-CVE,546059644
@@ -406,7 +406,6 @@ VU#66,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/Malw
 VU#66,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#66,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#66,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
-VU#66,0.00244499,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#66,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#66,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#66,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
@@ -417,6 +416,7 @@ VU#66,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#66,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#66,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#66,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
+VU#66,0.00209205,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#66,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#66,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#66,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753

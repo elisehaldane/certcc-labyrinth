@@ -79,13 +79,13 @@ VU#34,0.09090909,https://github.com/patriciamdr/ma-code,patriciamdr/ma-code,6081
 VU#34,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#34,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#34,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,safeer-accuknox/CrushFTP-cve-2024-4040-poc,859098985
-VU#34,0.08333333,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#34,0.08333333,https://github.com/Zounzxx/exploits,Zounzxx/exploits,795312393
 VU#34,0.07692308,https://github.com/project-sekai-ctf/sekaictf-2024,project-sekai-ctf/sekaictf-2024,848924138
 VU#34,0.07692308,https://github.com/Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,816119709
 VU#34,0.07692308,https://github.com/sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,802382773
 VU#34,0.07692308,https://github.com/pxcs/CrackMacExpo,pxcs/CrackMacExpo,796882501
 VU#34,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
+VU#34,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#34,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#34,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#34,0.05882353,https://github.com/AllenJustine/Automating-Log4j-Exploit-using-Python,AllenJustine/Automating-Log4j-Exploit-using-Python,848872567
@@ -393,7 +393,6 @@ VU#34,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot
 VU#34,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#34,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#34,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
-VU#34,0.00244499,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#34,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#34,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
@@ -404,6 +403,7 @@ VU#34,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#34,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#34,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#34,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
+VU#34,0.00209205,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#34,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#34,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
