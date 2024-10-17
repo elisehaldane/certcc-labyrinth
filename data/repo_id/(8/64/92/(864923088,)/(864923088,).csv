@@ -1,5 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
+864923088,dywsy21/CVE-2023-6350_Reproduction,gd_install/bin/gdcmpgif,1999d71ccf236d34faa51a08cb8fd6a6ed31c987,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,gd_install/lib/pkgconfig/gdlib.pc,40c4e349d2d76af6ab9942dd52dbe3817659e898,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,avif_install/lib/pkgconfig/libavif.pc,51ee7bdbb1f948093c6371973007b50803a453e2,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,fuzz driver/compile.sh,88ea4fe7fa698037e131a6ea6ccfce6ef6e300ab,CVE-2023-6350
 864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#2020
 864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#601
 864923088,dywsy21/CVE-2023-6350_Reproduction,libavif-1.0.1/src/reformat_libyuv.c,ab5363fc0978ae1c4f6a8e6e6ea5e0081d210ab9,VU#709
+864923088,dywsy21/CVE-2023-6350_Reproduction,gd_install/lib/libavif.so,c5c31b1eedd0c7d12821ab5afc3665c65ce88ae1,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,result.md,cc759981a4d802ba1092baa8a4c4d765ee01dfa7,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,gd_install/lib/libgd.so.3.0.16,d98c5860c5baf16c4d7536ca8c70d08b000d2483,CVE-2023-6350
+864923088,dywsy21/CVE-2023-6350_Reproduction,gd_install/lib/pkgconfig/libavif.pc,dc3949a3e5f61d11c7b94b06e7d62e9484c165d9,CVE-2023-6350
 864923088,dywsy21/CVE-2023-6350_Reproduction,_GITHUB_REPO_METADATA_,,CVE-2023-6350
