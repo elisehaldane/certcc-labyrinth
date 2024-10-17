@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+873989131,vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC,CVE-2023-38831-WinRar-Exploit.py,7d3c2d0123b5df70aedca3e0923c790d9322e0ca,CVE-2023-38831
+873989131,vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC,README.md,e8cfd8964a33ba58d3c8294c23fa40aa65cfc796,CVE-2023-3883
+873989131,vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC,README.md,e8cfd8964a33ba58d3c8294c23fa40aa65cfc796,CVE-2023-38831
+873989131,vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC,_GITHUB_REPO_METADATA_,,CVE-2023-38831
