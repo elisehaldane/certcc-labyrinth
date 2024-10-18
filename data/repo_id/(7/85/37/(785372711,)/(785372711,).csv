@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+785372711,illixion/root-my-webos-tv,README.md,3f92c4f09ef8bc7c71fc34a4935e7c5262c728cd,CVE-2023-6319
+785372711,illixion/root-my-webos-tv,_GITHUB_REPO_METADATA_,,CVE-2023-6319
