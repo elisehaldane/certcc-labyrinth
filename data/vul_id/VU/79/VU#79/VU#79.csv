@@ -1,6 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#79,1.00000000,https://github.com/lucadroid/C.A.R.,lucadroid/C.A.R.,874301071
 VU#79,1.00000000,https://github.com/Ndongo-FALL/RCEM,Ndongo-FALL/RCEM,825790875
 VU#79,1.00000000,https://github.com/Nazar-Hordii/PPwn-Loader,Nazar-Hordii/PPwn-Loader,800044443
+VU#79,1.00000000,https://github.com/fluxina/Flexer,fluxina/Flexer,772102399
 VU#79,1.00000000,https://github.com/Cryptlogger/LnkXploiter,Cryptlogger/LnkXploiter,760263464
 VU#79,1.00000000,https://github.com/mariaskv/PenTest-ExploitingTheMetasploitable3-Walkthrough,mariaskv/PenTest-ExploitingTheMetasploitable3-Walkthrough,751273756
 VU#79,1.00000000,https://github.com/anon-2024/zengo-lindell17-exploit-poc,anon-2024/zengo-lindell17-exploit-poc,743958273
@@ -254,6 +256,7 @@ VU#79,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cass
 VU#79,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#79,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#79,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#79,0.00990099,https://github.com/Tukashix/FiveM-External-Cheat-KeyAuth-System,Tukashix/FiveM-External-Cheat-KeyAuth-System,874426310
 VU#79,0.00990099,https://github.com/vzxyyyyz/FiveM-External-Cheat-KeyAuth-System,vzxyyyyz/FiveM-External-Cheat-KeyAuth-System,868897020
 VU#79,0.00990099,https://github.com/Chhers/FiveM-External-Cheat-KeyAuth-System,Chhers/FiveM-External-Cheat-KeyAuth-System,852967537
 VU#79,0.00990099,https://github.com/IChres/FiveM-External-Cheat-KeyAuth-System,IChres/FiveM-External-Cheat-KeyAuth-System,840427185

@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS11-087,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
-MS11-087,0.00581395,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
+MS11-087,0.00578035,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
 MS11-087,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
 MS11-087,0.00448430,https://github.com/fortify24x7/exploit-database-papers,fortify24x7/exploit-database-papers,117653847
 MS11-087,0.00411523,https://github.com/kingofthebeat/exploitdb-papers,kingofthebeat/exploitdb-papers,166951331
@@ -17,7 +17,7 @@ MS11-087,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,6066573
 MS11-087,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS11-087,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS11-087,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS11-087,0.00000848,https://github.com/trickest/cve,trickest/cve,454015416
+MS11-087,0.00000847,https://github.com/trickest/cve,trickest/cve,454015416
 MS11-087,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS11-087,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS11-087,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
