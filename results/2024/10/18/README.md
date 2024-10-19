@@ -1,7 +1,7 @@
 
 # Summary for results/2024/10/18
     
-222 records found after deduplication
+223 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -50,6 +50,7 @@
 | cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-10-18 05:08:40+00:00 | 489082 | 0 | Python | 0 | [] |
 | hacktivesec/beginner-kernel-exploitation-setup | None | https://github.com/hacktivesec/beginner-kernel-exploitation-setup | ['exploit'] | 1 | 2024-10-18 15:14:27+00:00 | 18 | 14 | Shell | 2 | [] |
 | johniwasz/rce-serialization-dotnet | Examples of JSON and binary and serialization vulnerabilities in .NET | https://github.com/johniwasz/rce-serialization-dotnet | ['rce'] | 1 | 2024-10-18 13:05:53+00:00 | 2354 | 6 | JavaScript | 0 | [] |
+| X1r0z/JNDIMap | JNDI 注入利用工具, 支持 RMI, LDAP 和 LDAPS 协议, 包含多种高版本 JDK 绕过方式 _ A JNDI injection exploit tool that supports RMI, LDAP and LDAPS protocols, including a variety of methods to bypass higher-version JDK | https://github.com/X1r0z/JNDIMap | ['exploit'] | 1 | 2024-10-18 10:04:14+00:00 | 618 | 319 | Java | 24 | [] |
 | XiaohanLei/IEVE | PyTorch implementation of CVPR 2024 paper: Instance-aware Exploration-Verification-Exploitation for Instance ImageGoal Navigation | https://github.com/XiaohanLei/IEVE | ['exploit'] | 1 | 2024-10-18 03:02:58+00:00 | 41621 | 14 | Python | 2 | [] |
 | vulsio/vuls-data-raw-exploit-github | None | https://github.com/vulsio/vuls-data-raw-exploit-github | ['exploit'] | 1 | 2024-10-18 00:15:29+00:00 | 31288 | 1 | | 2 | [] |
 | vulsio/vuls-data-raw-exploit-inthewild | None | https://github.com/vulsio/vuls-data-raw-exploit-inthewild | ['exploit'] | 1 | 2024-10-18 00:15:34+00:00 | 26905 | 6 | | 2 | [] |
@@ -131,7 +132,7 @@
 | Bhanu-Sai-Enamala/Ethernaut-Solutions-2024 | This repository contains solutions to the Ethernaut challenges using Foundry. It demonstrates smart contract exploits and Ethereum security best practices, with detailed scripts and insights for each challenge. A valuable resource for learning about Ethere | https://github.com/Bhanu-Sai-Enamala/Ethernaut-Solutions-2024 | ['exploit'] | 1 | 2024-10-18 04:42:49+00:00 | 1964 | 1 | JavaScript | 0 | [] |
 | rix4uni/cvemapping | This repo Gathers all available cve exploits from github.⚠️ Be careful Malware. | https://github.com/rix4uni/cvemapping | ['exploit'] | 1 | 2024-10-18 22:35:49+00:00 | 97616 | 2 | Python | 0 | [] |
 | 0xchang/DockerApiRCE | DockerApiRCE | https://github.com/0xchang/DockerApiRCE | ['rce'] | 1 | 2024-10-18 13:36:46+00:00 | 6083 | 119 | | 8 | [] |
-| SamBodys/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/SamBodys/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-10-18 04:51:33+00:00 | 73 | 1 | C# | 0 | [] |
+| SamBodys/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/SamBodys/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2024-10-18 05:57:26+00:00 | 74 | 1 | C# | 0 | [] |
 | InnovateY1/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat | Bot that automates farming and clicker activities in Catizen mini-game. Includes features for crypto integration and blockchain technology. The bot supports hacks and cheats to optimize profit and enhance gameplay efficiency. | https://github.com/InnovateY1/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat | ['exploit'] | 1 | 2024-10-18 05:54:37+00:00 | 784 | 1 | Python | 0 | [] |
 | smidolt/CodeExploit | EDUCATION ONLY! | https://github.com/smidolt/CodeExploit | ['exploit'] | 1 | 2024-10-18 07:59:16+00:00 | 23 | 0 | Solidity | 0 | [] |
 | EcoVision51/Legends-of-Elumia-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Elumia-Api-Cheat | Bot that automates farming and clicker activities in Legends of Elumia game. Includes integration with Elumia crypto and API support. Features hacks and cheats to optimize profit and enhance gameplay efficiency. | https://github.com/EcoVision51/Legends-of-Elumia-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Elumia-Api-Cheat | ['exploit'] | 1 | 2024-10-18 05:54:02+00:00 | 357 | 0 | C++ | 0 | [] |
