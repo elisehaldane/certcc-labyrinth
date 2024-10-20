@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+875658453,Chayn08/Metasploit-introduction,msfconsole,a58db99af2c963d958844bdeccabc1b0f7eda8a9,CVE-2017-0144
+875658453,Chayn08/Metasploit-introduction,msfconsole,a58db99af2c963d958844bdeccabc1b0f7eda8a9,MS17-010
