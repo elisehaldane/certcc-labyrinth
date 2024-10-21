@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-R9MQ-3C9R-FMJQ,0.50000000,https://github.com/EQSTLab/CVE-2024-48914,EQSTLab/CVE-2024-48914,876045350

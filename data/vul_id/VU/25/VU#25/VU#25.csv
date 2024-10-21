@@ -166,12 +166,12 @@ VU#25,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#25,0.04166667,https://github.com/MariliaMeira/CVE-2019-14287,MariliaMeira/CVE-2019-14287,550531926
 VU#25,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#25,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#25,0.04000000,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871358549
 VU#25,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
 VU#25,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#25,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#25,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#25,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
-VU#25,0.03846154,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871358549
 VU#25,0.03846154,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871090461
 VU#25,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#25,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
@@ -458,6 +458,7 @@ VU#25,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,46
 VU#25,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#25,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#25,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#25,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
 VU#25,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#25,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#25,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/windows-privesc-tools,528721763
@@ -561,7 +562,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00034831,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00034807,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

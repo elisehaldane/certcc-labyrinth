@@ -21,7 +21,6 @@ VU#16,0.50000000,https://github.com/oracle312/rce_easy_keygen,oracle312/rce_easy
 VU#16,0.50000000,https://github.com/oracle312/codeengn_rce_l20,oracle312/codeengn_rce_l20,823763385
 VU#16,0.50000000,https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV,805400947
 VU#16,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
-VU#16,0.50000000,https://github.com/chi111i/fuzzshell,chi111i/fuzzshell,787791696
 VU#16,0.50000000,https://github.com/zero-day-nft/zeroday,zero-day-nft/zeroday,787402790
 VU#16,0.50000000,https://github.com/paralinguist/Terminal-Exploit,paralinguist/Terminal-Exploit,712989842
 VU#16,0.50000000,https://github.com/InvoxiPlayGames/robohaxx,InvoxiPlayGames/robohaxx,672580426
@@ -35,6 +34,7 @@ VU#16,0.50000000,https://github.com/Zebratic/UE4Injector,Zebratic/UE4Injector,44
 VU#16,0.50000000,https://github.com/MainDabRblx/MainDabApiSrc,MainDabRblx/MainDabApiSrc,282792358
 VU#16,0.33333333,https://github.com/Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE,Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE,838448093
 VU#16,0.33333333,https://github.com/birozuru/poc-aal-attacks,birozuru/poc-aal-attacks,791804151
+VU#16,0.33333333,https://github.com/chi111i/fuzzshell,chi111i/fuzzshell,787791696
 VU#16,0.33333333,https://github.com/Widar999/exploit.com,Widar999/exploit.com,748202341
 VU#16,0.33333333,https://github.com/hackyourlife/c-shell,hackyourlife/c-shell,732829870
 VU#16,0.33333333,https://github.com/isfshax/isfshax,isfshax/isfshax,669924892
@@ -387,6 +387,7 @@ VU#16,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,46
 VU#16,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#16,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#16,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#16,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
 VU#16,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#16,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429

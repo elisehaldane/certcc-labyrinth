@@ -14,13 +14,13 @@ VU#46,1.00000000,https://github.com/KIRANKALLA/rce_face_recognition,KIRANKALLA/r
 VU#46,1.00000000,https://github.com/thisisnotcsarg/CySec-toolbox,thisisnotcsarg/CySec-toolbox,697900566
 VU#46,1.00000000,https://github.com/fuze136/F-136-Exploit,fuze136/F-136-Exploit,609125269
 VU#46,0.50000000,https://github.com/jtjisgod/exploiting_mobile_applications_practice,jtjisgod/exploiting_mobile_applications_practice,846309520
-VU#46,0.50000000,https://github.com/chi111i/fuzzshell,chi111i/fuzzshell,787791696
 VU#46,0.50000000,https://github.com/PrarabdhGarg/CVE-POCs-Exploits,PrarabdhGarg/CVE-POCs-Exploits,744361543
 VU#46,0.50000000,https://github.com/chucvv/POC-exploit-vulnerability,chucvv/POC-exploit-vulnerability,705451038
 VU#46,0.50000000,https://github.com/Dismalitie/ProtoSploit,Dismalitie/ProtoSploit,692865963
 VU#46,0.50000000,https://github.com/adarshpv9746/Log4j-exploit,adarshpv9746/Log4j-exploit,562809397
 VU#46,0.50000000,https://github.com/0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,0xSojalSce/XSS-Attacks---Exploits-and-Defense.pdf,476386220
 VU#46,0.33333333,https://github.com/mbadanoiu/CVE-2024-34693,mbadanoiu/CVE-2024-34693,834629281
+VU#46,0.33333333,https://github.com/chi111i/fuzzshell,chi111i/fuzzshell,787791696
 VU#46,0.33333333,https://github.com/felipearmat/seguranca-de-redes,felipearmat/seguranca-de-redes,720565228
 VU#46,0.33333333,https://github.com/Notorioua/Kali-s-Exploit-Roblox,Notorioua/Kali-s-Exploit-Roblox,665561196
 VU#46,0.33333333,https://github.com/adhikara13/CVE-2022-44268-MagiLeak,adhikara13/CVE-2022-44268-MagiLeak,658471431
@@ -315,6 +315,7 @@ VU#46,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boost
 VU#46,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#46,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#46,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#46,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
 VU#46,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#46,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#46,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173

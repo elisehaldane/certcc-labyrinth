@@ -30,6 +30,7 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
+VU#18,0.50000000,https://github.com/usuariojavier/Exploited,usuariojavier/Exploited,875944484
 VU#18,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
 VU#18,0.50000000,https://github.com/xosnrdev/rce-images,xosnrdev/rce-images,831845228
 VU#18,0.50000000,https://github.com/vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,829632417
@@ -497,6 +498,7 @@ VU#18,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boost
 VU#18,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#18,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#18,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
+VU#18,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
 VU#18,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#18,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#18,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
