@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+848392191,cisagov/cyhy-kevsync,tests/test_kevsync.py,cbea494e9e26300ba23dfb46f9d0538d865f948a,CVE-2024-28987
+848392191,cisagov/cyhy-kevsync,tests/test_kevsync.py,cbea494e9e26300ba23dfb46f9d0538d865f948a,CVE-2024-40711
