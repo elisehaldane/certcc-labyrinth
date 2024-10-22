@@ -184,9 +184,9 @@ VU#18,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#18,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#18,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#18,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
+VU#18,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#18,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/metasploitgui,452186033
 VU#18,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
-VU#18,0.06250000,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#18,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#18,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#18,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
@@ -199,7 +199,6 @@ VU#18,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/sa
 VU#18,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
 VU#18,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#18,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
-VU#18,0.05000000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#18,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#18,0.04761905,https://github.com/uclaacm/lactf-website,uclaacm/lactf-website,504959946
 VU#18,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
@@ -229,6 +228,7 @@ VU#18,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#18,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#18,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#18,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#18,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#18,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#18,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
 VU#18,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
