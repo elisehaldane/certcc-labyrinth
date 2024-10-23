@@ -6,7 +6,6 @@ repo_id,repo_full_name,file,file_sha1,match
 843262740,DF1sh/TryHackMe-Rooms,Phishing/README.md,6fe9d094698a50c14fd493da5546eb7b9faba848,CVE-2021-40444
 843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS08-067
 843262740,DF1sh/TryHackMe-Rooms,Blue/README.md,7d4e6a1173688372796b7d8a6b174b46e8a6ccc5,MS17-010
-843262740,DF1sh/TryHackMe-Rooms,TryHack3M: Bricks Heist/README.md,93237aee82854efaa231081f31d476fe2d29a3a6,CVE-2024-25600
 843262740,DF1sh/TryHackMe-Rooms,Dreaming/README.md,a25ca326e2c4e4e8452d47856ca88b3e5406ab7c,CVE-2020-29607
 843262740,DF1sh/TryHackMe-Rooms,Incident handling with Splunk/README.md,a97af3f9925468c2db9b9ef648b748b9e803493b,CVE-2014-6271
 843262740,DF1sh/TryHackMe-Rooms,Vulnerability Capstone/README.md,b72dcbeb62b8c25165a8148630f0048a4fcbed56,CVE-2018-16763
@@ -18,3 +17,4 @@ repo_id,repo_full_name,file,file_sha1,match
 843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2019-18634
 843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2020-10385
 843262740,DF1sh/TryHackMe-Rooms,Nmap Post Port Scans/README.md,dd2f64d1d4d232c3421101549219ae442a62ad43,MS15-034
+843262740,DF1sh/TryHackMe-Rooms,TryHack3M: Bricks Heist/README.md,f27990dacb9c675ee038aff8d8401918ef6f8dac,CVE-2024-25600
