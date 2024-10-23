@@ -1,10 +1,11 @@
 
 # Summary for results/2024/10/22
     
-196 records found after deduplication
+200 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
+| rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2024-10-22 19:24:03+00:00 | 1041208 | 34028 | Ruby | 13943 | [] |
 | buffer/thug | Python low-interaction honeyclient | https://github.com/buffer/thug | ['shellcode'] | 1 | 2024-10-22 07:01:33+00:00 | 46540 | 987 | Python | 202 | [] |
 | commixproject/commix | Automated All-in-One OS Command Injection Exploitation Tool. | https://github.com/commixproject/commix | ['command injection', 'exploit'] | 2 | 2024-10-22 05:10:55+00:00 | 6768 | 4562 | Python | 814 | [] |
 | cultureelerfgoed/sparql | In deze repositories worden openbare SPARQL queries verzameld die gebruikt worden op linked datasets van de RCE | https://github.com/cultureelerfgoed/sparql | ['rce'] | 1 | 2024-10-22 02:20:47+00:00 | 843 | 0 | Python | 0 | [] |
@@ -60,6 +61,7 @@
 | Pwnzer0tt1/exploitfarm | ExploitFarm is an attacker and flag submitter for A/D CTF competition created by Pwnzer0tt1 | https://github.com/Pwnzer0tt1/exploitfarm | ['exploit'] | 1 | 2024-10-22 10:03:28+00:00 | 14928 | 9 | TypeScript | 1 | [] |
 | CodeInvers3/PPPwn_ow | Autorun pppwn exploit PS4 | https://github.com/CodeInvers3/PPPwn_ow | ['exploit'] | 1 | 2024-10-22 00:45:31+00:00 | 3118 | 24 | Shell | 5 | [] |
 | 0xMarcio/cve | Latest CVEs with their Proof of Concept exploits. | https://github.com/0xMarcio/cve | ['exploit'] | 1 | 2024-10-22 00:47:47+00:00 | 179713 | 8 | Python | 2 | [] |
+| ProxyPog/POC-CVE-2023-22726 | CVE-2023-22726 | https://github.com/ProxyPog/POC-CVE-2023-22726 | ['cve poc'] | 1 | 2024-10-22 20:33:20+00:00 | 1133 | 0 | PowerShell | 0 | ['CVE-2023-22726'] |
 | R3DRUN3/sploitcraft | 🏴‍☠️ Hacking Guides, Demos and Proof-of-Concepts 🥷 | https://github.com/R3DRUN3/sploitcraft | ['sploit'] | 1 | 2024-10-22 07:10:58+00:00 | 14104 | 156 | Jupyter Notebook | 22 | [] |
 | ralvares/ssvc.me | Exploit & Vulnerability Intelligence Repository | https://github.com/ralvares/ssvc.me | ['exploit'] | 1 | 2024-10-22 04:17:38+00:00 | 48931 | 18 | Python | 2 | [] |
 | efi-mirror/known_exploited_vulnerabilities_mirror | None | https://github.com/efi-mirror/known_exploited_vulnerabilities_mirror | ['exploit'] | 1 | 2024-10-22 02:15:05+00:00 | 1032 | 0 | | 0 | [] |
@@ -71,6 +73,7 @@
 | AmitMoshel1/gdrv_sys_exploit | An exploit POC for an outdated Gigabyte driver | https://github.com/AmitMoshel1/gdrv_sys_exploit | ['exploit'] | 1 | 2024-10-22 17:20:35+00:00 | 212 | 0 | C++ | 0 | [] |
 | dev-ryuken/Script | a roblox exploit | https://github.com/dev-ryuken/Script | ['exploit'] | 1 | 2024-10-22 05:57:55+00:00 | 73 | 0 | Lua | 0 | [] |
 | rosstimo/RCET3371 | None | https://github.com/rosstimo/RCET3371 | ['rce'] | 1 | 2024-10-22 16:29:37+00:00 | 109 | 0 | Visual Basic .NET | 0 | [] |
+| omjadhav25/TestPen | Automated Penetration Testing Script automates reconnaissance and vulnerability assessment using tools like Nmap, Nikto, and Metasploit. It scans target systems, generates reports in TXT/JSON format, and includes an optional exploitation phase. Ideal for e | https://github.com/omjadhav25/TestPen | ['metasploit module OR payload'] | 1 | 2024-10-22 19:03:11+00:00 | 4 | 0 | Python | 0 | [] |
 | thredeisacoder/CTF-Write-ups | A collection of CTF write-ups focusing on web exploitation and OSINT challenges. Explore solutions, techniques, and insights from various competitions. | https://github.com/thredeisacoder/CTF-Write-ups | ['exploit'] | 1 | 2024-10-22 04:40:46+00:00 | 21576 | 9 | PHP | 0 | [] |
 | nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks- | None | https://github.com/nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks- | ['exploit', 'rce'] | 2 | 2024-10-22 10:17:48+00:00 | 4470 | 0 | | 0 | [] |
 | ExploitDeveloperDil/BlackHatOps | BlackHatOps and C programs for sockets, reverse shell, shellcode execution, and process injection. | https://github.com/ExploitDeveloperDil/BlackHatOps | ['shellcode'] | 1 | 2024-10-22 17:05:58+00:00 | 495 | 0 | C | 0 | [] |
@@ -186,6 +189,7 @@
 | acarballocastro/ConceptEnhanced | Code for the paper: Exploiting Interpretable Capabilities with Concept-Enhanced Diffusion and Prototype Networks | https://github.com/acarballocastro/ConceptEnhanced | ['exploit'] | 1 | 2024-10-22 09:39:53+00:00 | 68 | 0 | Python | 0 | [] |
 | ek1l/desserializa-oPHP-RCE- | Este projeto foi desenvolvido com o objetivo de aplicar, na prática, o conhecimento adquirido durante o curso Web Hacking na Prática 3.0 oferecido pela CROWSEC. | https://github.com/ek1l/desserializa-oPHP-RCE- | ['rce'] | 1 | 2024-10-22 10:46:29+00:00 | 8 | 1 | JavaScript | 0 | [] |
 | ybyan-ember/RCEGD | None | https://github.com/ybyan-ember/RCEGD | ['rce'] | 1 | 2024-10-22 11:59:39+00:00 | 3 | 0 | R | 0 | [] |
+| blakebrandon-hub/Heap-Overflow | nan | https://github.com/blakebrandon-hub/Heap-Overflow | ['heap overflow'] | 1 | 2024-10-22 12:09:27+00:00 | 91 | 0 | CSS | 0 | [] |
 | DivyTej/suid-Exploit-Finder | None | https://github.com/DivyTej/suid-Exploit-Finder | ['exploit'] | 1 | 2024-10-22 11:58:47+00:00 | 1 | 0 | Shell | 0 | [] |
 | grecosamuel/CVE-2024-32002 | None | https://github.com/grecosamuel/CVE-2024-32002 | ['cve-2 OR cve_2'] | 1 | 2024-10-22 14:46:13+00:00 | 3 | 0 | Python | 0 | ['CVE-2024-32002'] |
 | jake1325/WhatExploitAPIsAreOnline | None | https://github.com/jake1325/WhatExploitAPIsAreOnline | ['exploit'] | 1 | 2024-10-22 13:51:46+00:00 | 22 | 0 | JavaScript | 0 | [] |
