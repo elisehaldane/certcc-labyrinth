@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+877132815,rahisec/CVE-2024-4040,cve-2024-4040-nuclei-template.yaml,9804c988d5a3a95de1db4a6a1a026edec95fe4dc,CVE-2024-4040
+877132815,rahisec/CVE-2024-4040,_GITHUB_REPO_METADATA_,,CVE-2024-4040
