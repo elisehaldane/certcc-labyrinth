@@ -52,7 +52,6 @@ VU#92,0.11111111,https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine,SNE-M23-
 VU#92,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#92,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
 VU#92,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
-VU#92,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#92,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#92,0.06666667,https://github.com/lilyscripts/scripts,lilyscripts/scripts,781088825
 VU#92,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
@@ -71,6 +70,7 @@ VU#92,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,6406
 VU#92,0.04761905,https://github.com/left-nullspace/cointegration-exploration-python,left-nullspace/cointegration-exploration-python,818392043
 VU#92,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#92,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#92,0.04545455,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#92,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#92,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-2022-21661-Demo,598931701
 VU#92,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197

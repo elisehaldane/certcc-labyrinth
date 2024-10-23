@@ -113,7 +113,6 @@ VU#45,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-
 VU#45,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#45,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#45,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
-VU#45,0.07142857,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#45,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#45,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
@@ -142,6 +141,7 @@ VU#45,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelu
 VU#45,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#45,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
 VU#45,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
+VU#45,0.04545455,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#45,0.04545455,https://github.com/ericyoc/hnn_attack_three_diff_defense_choices_poc,ericyoc/hnn_attack_three_diff_defense_choices_poc,804491924
 VU#45,0.04545455,https://github.com/anapaulasandes/financ-time-series-exploit,anapaulasandes/financ-time-series-exploit,737404431
@@ -345,6 +345,7 @@ VU#45,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and
 VU#45,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
 VU#45,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
 VU#45,0.00751880,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#45,0.00729927,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#45,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#45,0.00719424,https://github.com/2lambda123/Windows10Exploits,2lambda123/Windows10Exploits,746360690
 VU#45,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
