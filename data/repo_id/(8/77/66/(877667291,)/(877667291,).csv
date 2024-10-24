@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-877667291,bl4ckarch/pf-pwnme,pf-pwnme.py,6af48990294f4dd6b78d9dad4add99d5bda5bcae,CVE-2023-42326
-877667291,bl4ckarch/pf-pwnme,README.md,fa99dcf8921d87c45696976e471d84ae413640dc,CVE-2023-42326
+877667291,bl4ckarch/pf-pwnme,README.md,3e6c4fee1c44400ee3968c82664c3b0f760db182,CVE-2023-42326
+877667291,bl4ckarch/pf-pwnme,pf-pwnme.py,986f313df6d13315da366809f2615082fc3f11e8,CVE-2023-42326
 877667291,bl4ckarch/pf-pwnme,_GITHUB_REPO_METADATA_,,CVE-2023-42326
