@@ -1,7 +1,7 @@
 
 # Summary for results/2024/10/23
     
-79 records found after deduplication
+92 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -13,10 +13,12 @@
 | nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'vulnerability poc'] | 2 | 2024-10-23 00:31:07+00:00 | 546354 | 6481 | | 1191 | [] |
 | sneakerhax/C2PE | C2 and Post Exploitation Code | https://github.com/sneakerhax/C2PE | ['exploit'] | 1 | 2024-10-23 03:09:22+00:00 | 578 | 34 | Go | 6 | [] |
 | XenoAmess/metasploit-java-external-module | java external module for metasploit framework. | https://github.com/XenoAmess/metasploit-java-external-module | ['metasploit module OR payload'] | 1 | 2024-10-23 02:43:05+00:00 | 7299 | 2 | Java | 0 | [] |
+| tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2024-10-23 21:05:24+00:00 | 280 | 0 | PHP | 0 | [] |
 | ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. If you are unable to find the POC/EXP on GitHub, you can also check here: https://pocorexps.nsa.im/ | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2024-10-23 04:57:18+00:00 | 534920 | 913 | Python | 198 | [] |
 | BrenoFariasdaSilva/University | Here you can find basically most of the exercises I'm solving during my University journey. This repo will contain lots of folders inside of it, each of one related to one subject. It won't be limited to one language. | https://github.com/BrenoFariasdaSilva/University | ['shellcode'] | 1 | 2024-10-23 15:24:04+00:00 | 52530 | 1 | Jupyter Notebook | 0 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-10-23 01:41:41+00:00 | 3555 | 318 | HTML | 20 | [] |
 | sha0coder/scemu | x86 malware emulator | https://github.com/sha0coder/scemu | ['metasploit module OR payload', 'shellcode'] | 2 | 2024-10-23 06:10:25+00:00 | 53922 | 199 | Rust | 26 | [] |
+| edavgaun/RCEL_506 | None | https://github.com/edavgaun/RCEL_506 | ['rce'] | 1 | 2024-10-23 21:05:17+00:00 | 118481 | 4 | | 3 | [] |
 | jamarir/HttpRCE | None | https://github.com/jamarir/HttpRCE | ['rce'] | 1 | 2024-10-23 11:35:16+00:00 | 23 | 2 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'vulnerability poc'] | 2 | 2024-10-23 14:33:24+00:00 | 418066 | 6530 | HTML | 831 | [] |
 | Threekiii/Awesome-Redteam | 一个攻防知识仓库 Red Teaming and Offensive Security | https://github.com/Threekiii/Awesome-Redteam | ['exploit'] | 1 | 2024-10-23 01:03:15+00:00 | 33634 | 3577 | Python | 628 | [] |
@@ -40,6 +42,7 @@
 | CodeInvers3/PPPwn_ow | Autorun pppwn exploit PS4 | https://github.com/CodeInvers3/PPPwn_ow | ['exploit'] | 1 | 2024-10-23 01:03:46+00:00 | 3127 | 24 | Shell | 5 | [] |
 | heroesofcode/inject-sql | Command Line Tools to check for SQL Injection vulnerability. | https://github.com/heroesofcode/inject-sql | ['command injection'] | 1 | 2024-10-23 01:26:55+00:00 | 2160 | 1 | Rust | 0 | [] |
 | D3vN3x/PDF-Exploit-Edge-Browser-D3vN3x-Security | A Simple ShowCase For Edge Browser PDF | https://github.com/D3vN3x/PDF-Exploit-Edge-Browser-D3vN3x-Security | ['exploit'] | 1 | 2024-10-23 03:07:11+00:00 | 3550 | 5 | C++ | 1 | [] |
+| hadiqHus/Thread-Hijacking | This code demonstrates a process injection technique, specifically injecting shellcode into a running instance of notepad.exe. | https://github.com/hadiqHus/Thread-Hijacking | ['shellcode'] | 1 | 2024-10-23 20:28:15+00:00 | 30 | 0 | C++ | 0 | [] |
 | SpaceNetLab/SKYFALL | SKYFALL: dynamically identifies and exploits bottleneck links with a geo-distributed botnet to flood them. | https://github.com/SpaceNetLab/SKYFALL | ['exploit'] | 1 | 2024-10-23 03:32:23+00:00 | 90 | 1 | Python | 1 | [] |
 | efi-mirror/known_exploited_vulnerabilities_mirror | None | https://github.com/efi-mirror/known_exploited_vulnerabilities_mirror | ['exploit'] | 1 | 2024-10-23 02:13:59+00:00 | 1031 | 0 | | 0 | [] |
 | b1nzeex/rce.js | None | https://github.com/b1nzeex/rce.js | ['rce'] | 1 | 2024-10-23 17:18:18+00:00 | 1133 | 4 | TypeScript | 3 | [] |
@@ -54,9 +57,11 @@
 | j0rd1s3rr4n0/EvilTV | EvilTV is an advanced remote control tool designed primarily for Samsung TVs. With EvilTV, you can remotely control your TV, automate actions, manage applications, and even simulate Denial of Service (DoS) attacks for stress testing. | https://github.com/j0rd1s3rr4n0/EvilTV | ['attack poc'] | 1 | 2024-10-23 16:00:02+00:00 | 31 | 3 | Python | 0 | [] |
 | RegistersNinja/shellcoders_handbook | None | https://github.com/RegistersNinja/shellcoders_handbook | ['shellcode'] | 1 | 2024-10-23 12:06:26+00:00 | 58 | 0 | | 0 | [] |
 | redarmy34/RCE-WebGL-Page | None | https://github.com/redarmy34/RCE-WebGL-Page | ['rce'] | 1 | 2024-10-23 06:12:16+00:00 | 142269 | 0 | HTML | 0 | [] |
+| akiralabtech/ZeroDay.moscow | nan | https://github.com/akiralabtech/ZeroDay.moscow | ['zeroday'] | 1 | 2024-10-23 15:51:11+00:00 | 469 | 0 | HTML | 0 | [] |
 | mohamad-amin/adam-coordinate-adaptivity | Code accompanying the paper "Adam Exploits ℓ∞-geometry of Loss Landscape via Coordinate-wise Adaptivity". | https://github.com/mohamad-amin/adam-coordinate-adaptivity | ['exploit'] | 1 | 2024-10-23 04:00:12+00:00 | 90 | 0 | Python | 0 | [] |
 | Galeax/CVE2CAPEC | Generate a MITRE ATT&CK Navigator based on a list of CVEs. Database with CVE, CWE, CAPEC, and MITRE ATT&CK Techniques data is updated daily. | https://github.com/Galeax/CVE2CAPEC | ['cve-2 OR cve_2'] | 1 | 2024-10-23 16:15:13+00:00 | 13470 | 2 | Python | 0 | [] |
 | certuscyber/cve-pocs | None | https://github.com/certuscyber/cve-pocs | ['cve poc'] | 1 | 2024-10-23 15:35:21+00:00 | 2641 | 0 | Python | 0 | [] |
+| Warp-Softworks-LLC/WarpSploit | WarpSploit is a unique script utility for Roblox. | https://github.com/Warp-Softworks-LLC/WarpSploit | ['sploit'] | 1 | 2024-10-23 20:49:33+00:00 | 18301 | 0 | C# | 0 | [] |
 | dilshan0201/fileUploadVulnerfiles | file upload vulnerability, allowing files without proper validation, insecure storage, and no size limits. These issues can lead to remote code execution or DoS attacks. It serves as an example to highlight the risks of insecure file uploads | https://github.com/dilshan0201/fileUploadVulnerfiles | ['remote code execution'] | 1 | 2024-10-23 12:55:06+00:00 | 4 | 0 | CSS | 0 | [] |
 | foorw1nner/routerwcd | Exploiting static directory cache rules | https://github.com/foorw1nner/routerwcd | ['exploit'] | 1 | 2024-10-23 00:01:49+00:00 | 97 | 5 | Shell | 0 | [] |
 | GrandTheBest/TeleSploit | TeleSploit - a utility for advanced interaction with Telegram | https://github.com/GrandTheBest/TeleSploit | ['sploit'] | 1 | 2024-10-23 04:42:10+00:00 | 93 | 2 | Python | 0 | [] |
@@ -69,7 +74,7 @@
 | codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-yy | None | https://github.com/codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-yy | ['exploit'] | 1 | 2024-10-23 00:09:09+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/JPG-Silent-Exploit-NEW-yy | None | https://github.com/codingcore14/JPG-Silent-Exploit-NEW-yy | ['exploit'] | 1 | 2024-10-23 00:10:41+00:00 | 2 | 1 | | 0 | [] |
 | radnovaxwavez/RCEAutomator | A simple automator for finding RCEs on a given list of domains | https://github.com/radnovaxwavez/RCEAutomator | ['rce'] | 1 | 2024-10-23 00:13:36+00:00 | 2 | 0 | Python | 0 | [] |
-| Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF- | None | https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF- | ['exploit'] | 1 | 2024-10-23 01:17:49+00:00 | 9 | 0 | | 0 | [] |
+| Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF- | None | https://github.com/Bogdy88/ZeroDay-Exploit-Simulation-Framework-ZESF- | ['exploit', 'zeroday'] | 2 | 2024-10-23 01:17:49+00:00 | 9 | 0 | | 0 | [] |
 | Javiko-KEMANDO/9.00 | LANZAR EXPLOIT AUTOMATICO PS4 9.00 | https://github.com/Javiko-KEMANDO/9.00 | ['exploit'] | 1 | 2024-10-23 04:19:51+00:00 | 2095 | 0 | JavaScript | 0 | [] |
 | bueno-armando/CVE-2023-4220-RCE | None | https://github.com/bueno-armando/CVE-2023-4220-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-10-23 05:06:18+00:00 | 4 | 0 | Python | 0 | ['CVE-2023-4220'] |
 | yessirbbldrizzt/exploits | None | https://github.com/yessirbbldrizzt/exploits | ['exploit'] | 1 | 2024-10-23 04:32:25+00:00 | 0 | 0 | | 0 | [] |
@@ -78,9 +83,17 @@
 | rahisec/CVE-2024-4040 | None | https://github.com/rahisec/CVE-2024-4040 | ['cve-2 OR cve_2'] | 1 | 2024-10-23 06:31:09+00:00 | 2 | 0 | | 0 | ['CVE-2024-4040'] |
 | iamvikramjeet1910/ShellCoder | None | https://github.com/iamvikramjeet1910/ShellCoder | ['shellcode'] | 1 | 2024-10-23 07:23:14+00:00 | 0 | 0 | | 0 | [] |
 | Gelcon/PoC-of-Hodoku-V2.3.0-RCE | None | https://github.com/Gelcon/PoC-of-Hodoku-V2.3.0-RCE | ['rce', 'rce poc'] | 2 | 2024-10-23 09:27:35+00:00 | 4667 | 0 | | 0 | [] |
-| EQSTLab/CVE-2024-46538 | Proof-of-Concept for CVE-2024-46538 | https://github.com/EQSTLab/CVE-2024-46538 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2024-10-23 15:07:25+00:00 | 486 | 4 | Python | 0 | ['CVE-2024-46538'] |
+| EQSTLab/CVE-2024-46538 | PoC for CVE-2024-46538 | https://github.com/EQSTLab/CVE-2024-46538 | ['cve poc', 'cve-2 OR cve_2', 'vulnerability poc'] | 3 | 2024-10-23 15:07:25+00:00 | 486 | 4 | Python | 0 | ['CVE-2024-46538'] |
+| JesseKavungal/Metasploitable-2-VAPT-Report | None | https://github.com/JesseKavungal/Metasploitable-2-VAPT-Report | ['metasploit module OR payload'] | 1 | 2024-10-23 21:06:37+00:00 | 40 | 0 | | 0 | [] |
 | Xanexs/CVE-2023-46747-Mass-RCE | CVE-2023-46747-Mass-RCE | https://github.com/Xanexs/CVE-2023-46747-Mass-RCE | ['cve-2 OR cve_2', 'rce'] | 2 | 2024-10-23 13:29:50+00:00 | 2 | 0 | | 0 | ['CVE-2023-46747'] |
 | masterguyarjun/rcetest | None | https://github.com/masterguyarjun/rcetest | ['rce'] | 1 | 2024-10-23 13:39:26+00:00 | 1 | 0 | HTML | 0 | [] |
 | spbu-coding-2024/workshop-shellcode-injection | None | https://github.com/spbu-coding-2024/workshop-shellcode-injection | ['shellcode'] | 1 | 2024-10-23 16:09:50+00:00 | 4 | 0 | C | 0 | [] |
 | Brughy/minimal_shellcode_rust | Simple example of chellcode injection in memory in Rust | https://github.com/Brughy/minimal_shellcode_rust | ['shellcode'] | 1 | 2024-10-23 17:50:16+00:00 | 0 | 0 | Rust | 0 | [] |
 | leftp/FirewallMoniker | A C# implementation that disables Windows Firewall bypassing UAC | https://github.com/leftp/FirewallMoniker | ['uac bypass'] | 1 | 2024-10-23 17:46:37+00:00 | 0 | 0 | C# | 0 | [] |
+| faqezza/Meterpreter-session-direct-syscalls-shellcode-encoded-IPv4s | None | https://github.com/faqezza/Meterpreter-session-direct-syscalls-shellcode-encoded-IPv4s | ['shellcode'] | 1 | 2024-10-23 19:08:46+00:00 | 12 | 0 | C | 0 | [] |
+| Pablohtp1/Cverino-dos-Contratos-2 | None | https://github.com/Pablohtp1/Cverino-dos-Contratos-2 | ['cve-2 OR cve_2'] | 1 | 2024-10-23 21:11:52+00:00 | 3076 | 0 | | 0 | [] |
+| JesusGonzalezAragon/instalacion-metasploitable3 | Como instalar Metasploitable 3 en un ubuntu 24.04 | https://github.com/JesusGonzalezAragon/instalacion-metasploitable3 | ['metasploit module OR payload'] | 1 | 2024-10-23 22:10:26+00:00 | 397 | 1 | | 0 | [] |
+| JesusGonzalezAragon/metasploitable3-installation | Installation of Metasploitable 3 on Ubuntu 24.04 | https://github.com/JesusGonzalezAragon/metasploitable3-installation | ['metasploit module OR payload'] | 1 | 2024-10-23 22:10:59+00:00 | 395 | 0 | | 0 | [] |
+| sjljrvis/xFunc | Remote code and workflow execution service | https://github.com/sjljrvis/xFunc | ['remote code execution'] | 1 | 2024-10-23 22:23:14+00:00 | 27 | 0 | Go | 0 | [] |
+| SpectrTech/silent-payload-loader | silent-payload-loader is a tool that downloads and executes a payload(shellcode) from a remote server while maintaining persistence by copying itself to the Windows Startup folder. It hides its true purpose by running a fake calculator interface in the for | https://github.com/SpectrTech/silent-payload-loader | ['shellcode'] | 1 | 2024-10-23 22:56:48+00:00 | 15 | 1 | C | 0 | [] |
+| ParsifaJlb/metasploit-framework0000000 | None | https://github.com/ParsifaJlb/metasploit-framework0000000 | ['metasploit module OR payload'] | 1 | 2024-10-23 23:17:25+00:00 | 70449 | 0 | Ruby | 0 | [] |
