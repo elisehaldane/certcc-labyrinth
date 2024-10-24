@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-FX9G-8FR2-Q899,0.01136364,https://github.com/llc896/cve2,llc896/cve2,877716293
 GHSA-FX9G-8FR2-Q899,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
