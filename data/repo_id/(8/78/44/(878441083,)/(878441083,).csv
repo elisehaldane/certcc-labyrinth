@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+878441083,superwen811/Network-Countermeasure-Maneuver,4day1.zip,016f9ba00b3113a0b19c87693961162b51538686,VU#28
+878441083,superwen811/Network-Countermeasure-Maneuver,4day1.zip,016f9ba00b3113a0b19c87693961162b51538686,VU#31
+878441083,superwen811/Network-Countermeasure-Maneuver,4day1.zip,016f9ba00b3113a0b19c87693961162b51538686,VU#48
+878441083,superwen811/Network-Countermeasure-Maneuver,experiment_malicious.zip,58be162d18c368d3827ecfd57ad28ae9b3b3a90b,VU#05
+878441083,superwen811/Network-Countermeasure-Maneuver,experiment_malicious.zip,58be162d18c368d3827ecfd57ad28ae9b3b3a90b,VU#46
+878441083,superwen811/Network-Countermeasure-Maneuver,pwn_challenge.zip,89602286c0d2696b14063a5031a17cdee50d5561,VU#64
+878441083,superwen811/Network-Countermeasure-Maneuver,pwn_challenge.zip,89602286c0d2696b14063a5031a17cdee50d5561,VU#73
+878441083,superwen811/Network-Countermeasure-Maneuver,FTK Imager 4.2.1.7z,ba1e3dd9538127068766c3c63a9f2b59f7b22078,VU#69
