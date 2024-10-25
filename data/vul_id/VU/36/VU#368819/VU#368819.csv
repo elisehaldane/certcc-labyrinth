@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#368819,0.11111111,https://github.com/yinsel/ShellcodeCryptor,yinsel/ShellcodeCryptor,783624479
+VU#368819,0.10000000,https://github.com/vgszf/Fivem-External-SilentAim,vgszf/Fivem-External-SilentAim,863179318
 VU#368819,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 VU#368819,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#368819,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

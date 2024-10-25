@@ -176,7 +176,6 @@ VU#09,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pac
 VU#09,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#09,0.04761905,https://github.com/sambacha/exploit-website-wallet-drain,sambacha/exploit-website-wallet-drain,511307954
 VU#09,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
-VU#09,0.04545455,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#09,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#09,0.04545455,https://github.com/JennValentine/exploitsPMJ-,JennValentine/exploitsPMJ-,773572713
 VU#09,0.04545455,https://github.com/michele-abruzzese/predictive_maintenance,michele-abruzzese/predictive_maintenance,721573848
@@ -216,6 +215,7 @@ VU#09,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#09,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#09,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#09,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
+VU#09,0.03571429,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#09,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#09,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#09,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
@@ -488,6 +488,7 @@ VU#09,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#09,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#09,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#09,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
+VU#09,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#09,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#09,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#09,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
@@ -541,7 +542,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00034795,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00034722,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581

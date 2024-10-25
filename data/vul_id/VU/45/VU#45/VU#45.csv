@@ -141,7 +141,6 @@ VU#45,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelu
 VU#45,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#45,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
 VU#45,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
-VU#45,0.04545455,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#45,0.04545455,https://github.com/ericyoc/hnn_attack_three_diff_defense_choices_poc,ericyoc/hnn_attack_three_diff_defense_choices_poc,804491924
 VU#45,0.04545455,https://github.com/anapaulasandes/financ-time-series-exploit,anapaulasandes/financ-time-series-exploit,737404431
@@ -162,6 +161,7 @@ VU#45,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_S
 VU#45,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#45,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#45,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
+VU#45,0.03571429,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#45,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#45,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
@@ -428,6 +428,7 @@ VU#45,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#45,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#45,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#45,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
+VU#45,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#45,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#45,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#45,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
