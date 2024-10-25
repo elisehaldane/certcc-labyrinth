@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+878251477,ShaharyarJalaluddin/cve20220847,exploit.c,8f37ef477a383ffbaa0443cb21bc599780e312ec,CVE-2022-0847
+878251477,ShaharyarJalaluddin/cve20220847,_GITHUB_REPO_METADATA_,,CVE-2022-0847
