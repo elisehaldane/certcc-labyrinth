@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+878546846,eric-olsson-chalmers/ethical-hacking-exploit,shellshock/media/Untitled.m4v,1260c91785347b089a5f0c8dee487fed91c0f8bf,VU#23
+878546846,eric-olsson-chalmers/ethical-hacking-exploit,shellshock/README.md,bf52e30eb96f1de771e03a458fed2b21f5ab12cc,CVE-2014-6271
+878546846,eric-olsson-chalmers/ethical-hacking-exploit,shellshock/README.md,bf52e30eb96f1de771e03a458fed2b21f5ab12cc,CVE-2014-7169
+878546846,eric-olsson-chalmers/ethical-hacking-exploit,shellshock/README.md,bf52e30eb96f1de771e03a458fed2b21f5ab12cc,CVE-2014-7186
+878546846,eric-olsson-chalmers/ethical-hacking-exploit,shellshock/README.md,bf52e30eb96f1de771e03a458fed2b21f5ab12cc,CVE-2014-7187
