@@ -201,6 +201,7 @@ VU#32,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-
 VU#32,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#32,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#32,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
+VU#32,0.04545455,https://github.com/Jinmo/ctfs,Jinmo/ctfs,68125231
 VU#32,0.04347826,https://github.com/KingExploit06/Roblox-Exploits,KingExploit06/Roblox-Exploits,683732742
 VU#32,0.04347826,https://github.com/DilnozaBobokalonova1/rust-blackhat,DilnozaBobokalonova1/rust-blackhat,679056951
 VU#32,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
@@ -617,7 +618,7 @@ VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00034674,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00034578,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
