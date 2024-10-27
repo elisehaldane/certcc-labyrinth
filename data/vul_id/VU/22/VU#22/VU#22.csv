@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#22,1.00000000,https://github.com/hikidisn/OpenStash-og_would_this_work-,hikidisn/OpenStash-og_would_this_work-,860691998
+VU#22,1.00000000,https://github.com/zwar808/exploitware,zwar808/exploitware,835636906
 VU#22,1.00000000,https://github.com/Orphanlol/iReady-fr,Orphanlol/iReady-fr,736083030
 VU#22,1.00000000,https://github.com/wea-f/ByePassHub,wea-f/ByePassHub,719329578
 VU#22,1.00000000,https://github.com/iEatALot666/School-Exploit,iEatALot666/School-Exploit,713961886
@@ -126,6 +127,7 @@ VU#22,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#22,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#22,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#22,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#22,0.03448276,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#22,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#22,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#22,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339

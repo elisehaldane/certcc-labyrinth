@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-4469,0.33333333,https://github.com/KernelPan1k/trans2open-CVE-2003-0201,KernelPan1k/trans2open-CVE-2003-0201,357315738
 OSVDB-4469,0.00369004,https://github.com/metasploit/framework2,metasploit/framework2,23290150
 OSVDB-4469,0.00154799,https://github.com/radar-webhook-testing/metasploit-framework-commits,radar-webhook-testing/metasploit-framework-commits,744218740
-OSVDB-4469,0.00034566,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+OSVDB-4469,0.00034483,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 OSVDB-4469,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 OSVDB-4469,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 OSVDB-4469,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
