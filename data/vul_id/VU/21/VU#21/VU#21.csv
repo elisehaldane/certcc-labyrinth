@@ -271,12 +271,12 @@ VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#21,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#21,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#21,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#21,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#21,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#21,0.01960784,https://github.com/ouldevloper/Linux-kernel-exploit,ouldevloper/Linux-kernel-exploit,617887691
 VU#21,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
-VU#21,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#21,0.01886792,https://github.com/Sylvain062/CDAoct23-Exploitation-Cinematographique,Sylvain062/CDAoct23-Exploitation-Cinematographique,794466916
 VU#21,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
 VU#21,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
@@ -420,7 +420,7 @@ VU#21,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-
 VU#21,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#21,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#21,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
-VU#21,0.00751880,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#21,0.00746269,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#21,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#21,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#21,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
