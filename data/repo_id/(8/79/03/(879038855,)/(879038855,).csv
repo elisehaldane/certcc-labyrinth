@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+879038855,arminask/Mu-qcom-hollywood,Silicon/Qualcomm/SM8250Pkg/Drivers/UsbPwrEnablerDxe/UsbPwrEnablerDxe.efi,273e93946f30dcd0191f633c665ebf30cd6d89b9,VU#64
