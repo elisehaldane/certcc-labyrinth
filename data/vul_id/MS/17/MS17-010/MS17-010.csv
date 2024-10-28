@@ -23,7 +23,6 @@ MS17-010,1.00000000,https://github.com/trixiahorner/EternalBlueExploit,trixiahor
 MS17-010,1.00000000,https://github.com/Pen87/Eternal-Blue,Pen87/Eternal-Blue,762405198
 MS17-010,1.00000000,https://github.com/Taukir1515/Metasploit,Taukir1515/Metasploit,761362049
 MS17-010,1.00000000,https://github.com/Taukir1515/Metasploit-Introduction,Taukir1515/Metasploit-Introduction,761141516
-MS17-010,1.00000000,https://github.com/vaishnavucv/autoscan,vaishnavucv/autoscan,761026638
 MS17-010,1.00000000,https://github.com/Andresyuju/Bluemetal,Andresyuju/Bluemetal,756933241
 MS17-010,1.00000000,https://github.com/NitinSharma973/Network-penetration,NitinSharma973/Network-penetration,753096853
 MS17-010,1.00000000,https://github.com/franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,franciscogneto/Windows-2016-Server-Remote-Code-Execution-MS17-010,751951625
@@ -184,6 +183,7 @@ MS17-010,0.50000000,https://github.com/christophercaruso96/metasploit_telnet,chr
 MS17-010,0.50000000,https://github.com/j-arivazhagan/auto,j-arivazhagan/auto,784084395
 MS17-010,0.50000000,https://github.com/ducanh2oo3/Vulnerability-Research-CVE-2017-0144,ducanh2oo3/Vulnerability-Research-CVE-2017-0144,781339379
 MS17-010,0.50000000,https://github.com/AdamSonov/smbGhostCVE-2020-0796,AdamSonov/smbGhostCVE-2020-0796,767077239
+MS17-010,0.50000000,https://github.com/vaishnavucv/autoscan,vaishnavucv/autoscan,761026638
 MS17-010,0.50000000,https://github.com/BHNamSSD/Exploits-vulnerability-MS17-010,BHNamSSD/Exploits-vulnerability-MS17-010,741375645
 MS17-010,0.50000000,https://github.com/jaibirsingh/Metasploit-framework,jaibirsingh/Metasploit-framework,721820529
 MS17-010,0.50000000,https://github.com/adeljck/MS17-010,adeljck/MS17-010,711074080
@@ -724,7 +724,7 @@ MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00015439,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS17-010,0.00013490,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00013488,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -732,7 +732,7 @@ MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,61982
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS17-010,0.00007955,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 MS17-010,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
-MS17-010,0.00006071,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00006070,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
