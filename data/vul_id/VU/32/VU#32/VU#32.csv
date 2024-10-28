@@ -92,7 +92,6 @@ VU#32,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/g
 VU#32,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#32,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
 VU#32,0.16666667,https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396,486848599
-VU#32,0.14285714,https://github.com/315732/automatic-palm-tree,315732/automatic-palm-tree,869548091
 VU#32,0.14285714,https://github.com/Jacarte/tawasco,Jacarte/tawasco,633324752
 VU#32,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428995
 VU#32,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
@@ -124,6 +123,7 @@ VU#32,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Sh
 VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
+VU#32,0.09090909,https://github.com/315732/automatic-palm-tree,315732/automatic-palm-tree,869548091
 VU#32,0.09090909,https://github.com/clockticksfast/Roblox-Cleaner,clockticksfast/Roblox-Cleaner,846737853
 VU#32,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
 VU#32,0.09090909,https://github.com/SkidLua1/Exploit,SkidLua1/Exploit,792586733
@@ -619,7 +619,7 @@ VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00034483,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00034471,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
