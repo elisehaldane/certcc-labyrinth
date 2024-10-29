@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+770508164,aggressor0/GL.iNet-Exploits,CVE-2024-45261.py,26508704fbfdd949d6aba86daa9fe1bb77f04f92,CVE-2024-45260
+770508164,aggressor0/GL.iNet-Exploits,CVE-2024-45261.py,26508704fbfdd949d6aba86daa9fe1bb77f04f92,CVE-2024-45261
 770508164,aggressor0/GL.iNet-Exploits,Unauthenticated_RCE_Chained_Vulns.py,29bc072d7026b2b0bff4a5f47ad3aa66712e0fe0,CVE-2024-45260
 770508164,aggressor0/GL.iNet-Exploits,Unauthenticated_RCE_Chained_Vulns.py,29bc072d7026b2b0bff4a5f47ad3aa66712e0fe0,CVE-2024-45261
 770508164,aggressor0/GL.iNet-Exploits,README.md,44089f54176ce1f5df5ed5dc4520a9bda12379f5,CVE-2024-27356
@@ -6,8 +8,6 @@ repo_id,repo_full_name,file,file_sha1,match
 770508164,aggressor0/GL.iNet-Exploits,README.md,44089f54176ce1f5df5ed5dc4520a9bda12379f5,CVE-2024-45260
 770508164,aggressor0/GL.iNet-Exploits,README.md,44089f54176ce1f5df5ed5dc4520a9bda12379f5,CVE-2024-45261
 770508164,aggressor0/GL.iNet-Exploits,CVE-2024-27356.py,4c6499982938d4aa1eb264675e719537ddff67c9,CVE-2024-27356
-770508164,aggressor0/GL.iNet-Exploits,CVE-2024-45261.py,77024742210c57a8b3060ce7871646bf3c0ef7f4,CVE-2024-45260
-770508164,aggressor0/GL.iNet-Exploits,CVE-2024-45261.py,77024742210c57a8b3060ce7871646bf3c0ef7f4,CVE-2024-45261
 770508164,aggressor0/GL.iNet-Exploits,CVE-2024-45260.py,8ba8945e556f3742920259772f634d93e64d0f3c,CVE-2024-45260
 770508164,aggressor0/GL.iNet-Exploits,CVE-2024-39225.py,9db68502fbf77d31f31e5952ee23cc17cea03b2f,CVE-2023-50920
 770508164,aggressor0/GL.iNet-Exploits,CVE-2024-39225.py,9db68502fbf77d31f31e5952ee23cc17cea03b2f,CVE-2024-27356
