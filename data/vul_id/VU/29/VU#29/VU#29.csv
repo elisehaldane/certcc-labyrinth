@@ -292,6 +292,7 @@ VU#29,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.gi
 VU#29,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#29,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#29,0.03571429,https://github.com/pxcs/CVE-29343-Sysmon-list,pxcs/CVE-29343-Sysmon-list,785288758
+VU#29,0.03571429,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#29,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#29,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
@@ -331,7 +332,6 @@ VU#29,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#29,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
-VU#29,0.02500000,https://github.com/FFJ1/Roblox-Exploits,FFJ1/Roblox-Exploits,575802450
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#29,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#29,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
@@ -544,8 +544,8 @@ VU#29,0.00990099,https://github.com/0chres0/FiveM-External-Cheat-KeyAuth-System,
 VU#29,0.00990099,https://github.com/chress0/FiveM-External-Cheat-KeyAuth-System,chress0/FiveM-External-Cheat-KeyAuth-System,818766943
 VU#29,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,chrees0/FiveM-External-Cheat-KeyAuth-System,805559447
 VU#29,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
-VU#29,0.00990099,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#29,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
+VU#29,0.00980392,https://github.com/ernestang98/win-exploits,ernestang98/win-exploits,747775231
 VU#29,0.00980392,https://github.com/EnricoPittini/LSA-on-movies,EnricoPittini/LSA-on-movies,589354476
 VU#29,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#29,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
@@ -749,7 +749,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00034447,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00034388,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
