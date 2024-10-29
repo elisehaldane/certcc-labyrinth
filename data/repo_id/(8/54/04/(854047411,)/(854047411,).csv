@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#17
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#20
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#32
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#33
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#396
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#49
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#53
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#65
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#82
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#84
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#85
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip-24.0.dist-info/RECORD,ba28780d1ad2ae8777c0c321023ace992526fe73,VU#87
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip-24.0.dist-info/RECORD,ba28780d1ad2ae8777c0c321023ace992526fe73,VU#9048
