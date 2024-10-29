@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-CNVD-2022-86535,0.01562500,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
+CNVD-2022-86535,0.01538462,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 CNVD-2022-86535,0.00934579,https://github.com/CLincat/vulcat,CLincat/vulcat,480022314
 CNVD-2022-86535,0.00181488,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 CNVD-2022-86535,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
