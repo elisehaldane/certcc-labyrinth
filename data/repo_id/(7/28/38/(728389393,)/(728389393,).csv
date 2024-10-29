@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+728389393,hackgnar/setc,docker_images/httpd/CVE-2021-41773/Dockerfile,35b1b0a90698560eacdbf999729308f525aa980e,CVE-2021-41773
+728389393,hackgnar/setc,docker_images/httpd/CVE-2021-42013/Dockerfile,37035b0cffbf6a32941a4d44a9c8e553ea637331,CVE-2021-42013
+728389393,hackgnar/setc,README.md,48b566f983ad7f2eae01977bc9b052da9dd8bd26,CVE-2021-41773
+728389393,hackgnar/setc,README.md,48b566f983ad7f2eae01977bc9b052da9dd8bd26,CVE-2021-42013

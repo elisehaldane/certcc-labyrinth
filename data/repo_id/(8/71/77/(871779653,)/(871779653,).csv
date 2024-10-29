@@ -1,3 +1,15 @@
 repo_id,repo_full_name,file,file_sha1,match
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/CVE-2024-29072.vcxproj,0a071e4d19662a2192658dd66e91d6acb7bd90c4,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/shell/Source.cpp,0d248102d981cffd1b3bfc983dc730b704abdfd9,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/Source.cpp,2ac6d51b9fb3d8e88e1295ca0fb495c4a15d827a,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072.sln,36023c715cae965e4683bfff1cf32d486a4d46bd,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/FileOpLock.cpp,4773d0df95a0f03b096de4551c42e2e65dae2ff3,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/Resource.rc,57d80082bb8ae22159b94ab5ed3d15389154c283,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/shell/shell.vcxproj,7bb0e5eb89c90204d0696db35d2f40b0d8fbea11,CVE-2024-29072
 871779653,reubensammut/published-exploits,CVE-2018-0834/README.md,7e9d195bf8bf995bd8e413363cade21ce97c2d59,CVE-2018-0834
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/resource.h,8130ed06b7115af2de71d3c8c33da1ac60919a27,CVE-2024-29072
 871779653,reubensammut/published-exploits,CVE-2018-0834/exploit.js,97a95fbc8b9841388b745e0b17ec24d3e97ef236,CVE-2018-0834
+871779653,reubensammut/published-exploits,CVE-2024-29072/shell/shell.vcxproj.filters,b7fda69ca541f279f01bfbfcb192c4e9c9b9a587,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/README.md,b9faf9cafe93b20fe179194fa13ed3fe48b93475,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/CVE-2024-29072.vcxproj.filters,d0a2a7ad9d76bf5754b635805f2ef00020cf8a64,CVE-2024-29072
+871779653,reubensammut/published-exploits,CVE-2024-29072/CVE-2024-29072/FileOpLock.h,d7527b5d5eccf132f971b8795b805df70bec9b86,CVE-2024-29072
