@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+880655043,Net-sec6/Metasploit-Toolkit,README.md,aec656026eff29939a39ae01f97db7905d5f2d10,CVE-2021-34527
+880655043,Net-sec6/Metasploit-Toolkit,README.md,aec656026eff29939a39ae01f97db7905d5f2d10,MS09-020
+880655043,Net-sec6/Metasploit-Toolkit,README.md,aec656026eff29939a39ae01f97db7905d5f2d10,MS17-010
