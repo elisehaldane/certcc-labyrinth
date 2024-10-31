@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+661627757,m3ssap0/cacti-rce-snmp-options-vulnerable-application,README.md,2752bd7da1f28f5e9fe415b7bc305346a02d167c,CVE-2023-39362
+661627757,m3ssap0/cacti-rce-snmp-options-vulnerable-application,README.md,2752bd7da1f28f5e9fe415b7bc305346a02d167c,GHSA-G6FF-58CJ-X3CP
+661627757,m3ssap0/cacti-rce-snmp-options-vulnerable-application,_GITHUB_REPO_METADATA_,,CVE-2023-39362
