@@ -143,8 +143,8 @@ VU#83,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
 VU#83,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#83,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#83,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
-VU#83,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#83,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
+VU#83,0.04545455,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#83,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
@@ -450,8 +450,8 @@ VU#83,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#83,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#83,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#83,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
-VU#83,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#83,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#83,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#83,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#83,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#83,0.00293255,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
@@ -526,7 +526,7 @@ VU#83,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#83,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#83,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#83,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#83,0.00018643,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00018636,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -104,13 +104,13 @@ VU#20,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-
 VU#20,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#20,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
 VU#20,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
-VU#20,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#20,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#20,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#20,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#20,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#20,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
 VU#20,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
+VU#20,0.04545455,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#20,0.04347826,https://github.com/DilnozaBobokalonova1/rust-blackhat,DilnozaBobokalonova1/rust-blackhat,679056951
 VU#20,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinux,745019351
 VU#20,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
@@ -380,8 +380,8 @@ VU#20,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#20,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#20,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#20,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
-VU#20,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#20,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#20,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#20,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#20,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#20,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -471,7 +471,7 @@ VU#20,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#20,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#20,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#20,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#20,0.00018643,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00018636,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#20,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

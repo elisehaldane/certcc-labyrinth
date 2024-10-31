@@ -118,6 +118,7 @@ VU#09,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-rep
 VU#09,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 VU#09,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#09,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
+VU#09,0.09090909,https://github.com/cookepm86/elo-grad,cookepm86/elo-grad,871013784
 VU#09,0.09090909,https://github.com/freedarwuin/SocialSploit,freedarwuin/SocialSploit,839009068
 VU#09,0.09090909,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
 VU#09,0.09090909,https://github.com/Un-known001/RoshanSploit,Un-known001/RoshanSploit,775385829
@@ -489,8 +490,8 @@ VU#09,0.00369004,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#09,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#09,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#09,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
-VU#09,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#09,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#09,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#09,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#09,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#09,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -543,7 +544,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00034282,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00034270,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -584,7 +585,7 @@ VU#09,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#09,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#09,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#09,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#09,0.00018643,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#09,0.00018636,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#09,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#09,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#09,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

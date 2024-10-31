@@ -65,7 +65,6 @@ VU#55,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOC
 VU#55,0.10000000,https://github.com/ericyoc/cnn_hnn_comparison_analysis_poc,ericyoc/cnn_hnn_comparison_analysis_poc,782261984
 VU#55,0.10000000,https://github.com/mirzaazwad/CTF,mirzaazwad/CTF,626003373
 VU#55,0.10000000,https://github.com/Glottocrisio/IKG4CH,Glottocrisio/IKG4CH,602042663
-VU#55,0.09090909,https://github.com/315732/automatic-palm-tree,315732/automatic-palm-tree,869548091
 VU#55,0.09090909,https://github.com/PaulChauveau17/TSH,PaulChauveau17/TSH,751908057
 VU#55,0.09090909,https://github.com/thanawutjaroenpon/Old-Roblox-Exploit,thanawutjaroenpon/Old-Roblox-Exploit,731247055
 VU#55,0.09090909,https://github.com/Tchuanm/AViTMP,Tchuanm/AViTMP,710905666
@@ -76,6 +75,7 @@ VU#55,0.09090909,https://github.com/LCBlevins/ApollyonRoblox,LCBlevins/ApollyonR
 VU#55,0.09090909,https://github.com/redtimmy/Richsploit,redtimmy/Richsploit,245462807
 VU#55,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,safeer-accuknox/CrushFTP-cve-2024-4040-poc,859098985
 VU#55,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
+VU#55,0.07692308,https://github.com/315732/automatic-palm-tree,315732/automatic-palm-tree,869548091
 VU#55,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
 VU#55,0.07142857,https://github.com/atharimran728/DVWA-Pentest-report,atharimran728/DVWA-Pentest-report,836300268
 VU#55,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
@@ -106,11 +106,11 @@ VU#55,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelu
 VU#55,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
 VU#55,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
 VU#55,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
-VU#55,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#55,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#55,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#55,0.04545455,https://github.com/anapaulasandes/financ-time-series-exploit,anapaulasandes/financ-time-series-exploit,737404431
 VU#55,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
+VU#55,0.04545455,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#55,0.04545455,https://github.com/master-info/masteRcensus,master-info/masteRcensus,483044333
 VU#55,0.04545455,https://github.com/Jinmo/ctfs,Jinmo/ctfs,68125231
 VU#55,0.04347826,https://github.com/jedilinux/Shellcode,jedilinux/Shellcode,832234093
@@ -510,8 +510,8 @@ VU#55,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#55,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#55,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#55,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
-VU#55,0.00330033,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#55,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#55,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#55,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#55,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#55,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -590,7 +590,7 @@ VU#55,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#55,0.00018918,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#55,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#55,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#55,0.00018643,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#55,0.00018636,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#55,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#55,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#55,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
