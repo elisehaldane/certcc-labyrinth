@@ -9,4 +9,6 @@ repo_id,repo_full_name,file,file_sha1,match
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2014-0160
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2024-29988
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2024-3094
+869548091,315732/automatic-palm-tree,XSS.md,9225ef1e12a1c8b1fdd1aa9852b0f1ac826a4d81,CVE-2021-38757
+869548091,315732/automatic-palm-tree,XSS.md,9225ef1e12a1c8b1fdd1aa9852b0f1ac826a4d81,CVE-2023-38501
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Wreath.md,d7d26b843755c81bc8e7e6e70238aa0eada844f3,CVE-2019-15107
