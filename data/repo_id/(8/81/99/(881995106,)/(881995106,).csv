@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+881995106,7own/CVE-2021-26690---Apache-mod_session,README.md,1aef0d66a78ded8669a992406b726373a4fbe949,CVE-2021-26690
+881995106,7own/CVE-2021-26690---Apache-mod_session,CVE-2021-26690 patch diffing - Apache HTTP mod_session NULL pointer dereference.pdf,a3e693e7d175239105df416deaa2817a913cc622,CVE-2021-26690
+881995106,7own/CVE-2021-26690---Apache-mod_session,CVE-2021-26690 patch diffing - Apache HTTP mod_session NULL pointer dereference.pdf,a3e693e7d175239105df416deaa2817a913cc622,VU#56
+881995106,7own/CVE-2021-26690---Apache-mod_session,_GITHUB_REPO_METADATA_,,CVE-2021-26690
