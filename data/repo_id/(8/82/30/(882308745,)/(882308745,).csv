@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/istanbul-lib-instrument/CHANGELOG.md,0c5810757f21b6d2aa97d99d45e0962694ac6ed0,CVE-2022-25883
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/istanbul-lib-instrument/CHANGELOG.md,0c5810757f21b6d2aa97d99d45e0962694ac6ed0,CVE-2023-45133
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/cliui/CHANGELOG.md,0d4d6e83dd4a27e51b83745abef3b663ba3cd943,CVE-2021-3807
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/istanbul-lib-report/CHANGELOG.md,2234800970b83d5b4798a195e31fafc25a9770d7,CVE-2022-25883
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/yarn.nix,490c6a90a4bcf6a1b04e0edf6de1c3513d3038fc,VU#09
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/yarn.nix,490c6a90a4bcf6a1b04e0edf6de1c3513d3038fc,VU#18
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/yarn.lock,785c963067afa227407effb9c38ec486b0a4bc86,VU#09
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/yarn.lock,785c963067afa227407effb9c38ec486b0a4bc86,VU#18
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/axios/CHANGELOG.md,8b4df1575a848dd94e6dbd5f2c2011405d718cf9,CVE-2023-45857
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/axios/CHANGELOG.md,8b4df1575a848dd94e6dbd5f2c2011405d718cf9,CVE-2024-39338
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#29
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#291
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/@types/node/crypto.d.ts,c12e4cf455398b4f9bb62ed3e7bff4de3066b13e,CVE-2021-44532
+882308745,ToolKitHub/rce-images,src/languages/javascript/rce-node-modules/node_modules/@types/node/tls.d.ts,c9b7428c0246be46ac3cc53086ba2ea8e70b4773,CVE-2021-44531
