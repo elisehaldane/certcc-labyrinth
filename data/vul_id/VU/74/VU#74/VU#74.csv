@@ -60,6 +60,7 @@ VU#74,0.20000000,https://github.com/basfora/SearchandRescue,basfora/SearchandRes
 VU#74,0.20000000,https://github.com/anvbis/windows.x86.expl,anvbis/windows.x86.expl,438593074
 VU#74,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#74,0.20000000,https://github.com/jassics/python-for-cybersecurity,jassics/python-for-cybersecurity,92945550
+VU#74,0.16666667,https://github.com/ucbg/ninja-cat-exploit,ucbg/ninja-cat-exploit,881788261
 VU#74,0.16666667,https://github.com/MasonGroup/SVCINJ,MasonGroup/SVCINJ,881334287
 VU#74,0.16666667,https://github.com/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,872352341
 VU#74,0.16666667,https://github.com/Christophe-Jouan/LinkyMonitor,Christophe-Jouan/LinkyMonitor,856410920
@@ -96,7 +97,6 @@ VU#74,0.10000000,https://github.com/ails-lab/with,ails-lab/with,263122268
 VU#74,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
 VU#74,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
 VU#74,0.09090909,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
-VU#74,0.09090909,https://github.com/cookepm86/elo-grad,cookepm86/elo-grad,871013784
 VU#74,0.09090909,https://github.com/jl33-ai/hacks4nets,jl33-ai/hacks4nets,745662775
 VU#74,0.09090909,https://github.com/PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,PacktPublishing/Attacking-and-Exploiting-Modern-Web-Applications,669084766
 VU#74,0.09090909,https://github.com/simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,simoneonofri/Attacking-and-Exploiting-Modern-Web-Applications,669072032
@@ -107,6 +107,7 @@ VU#74,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#74,0.08333333,https://github.com/Ramyasura/MediEthiCare,Ramyasura/MediEthiCare,782132288
 VU#74,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-Project,519458932
 VU#74,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
+VU#74,0.07692308,https://github.com/cookepm86/elo-grad,cookepm86/elo-grad,871013784
 VU#74,0.07692308,https://github.com/ruiking04/CutAddPaste,ruiking04/CutAddPaste,808587457
 VU#74,0.07692308,https://github.com/sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,sarkersaad/Optimizing-Delivery-Routes-to-Minimize-travelling-distance-and-time-using-Quantum-Computing,802382773
 VU#74,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
@@ -122,6 +123,7 @@ VU#74,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,
 VU#74,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#74,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#74,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
+VU#74,0.05882353,https://github.com/atharimran728/DVWA-Pentest-report,atharimran728/DVWA-Pentest-report,836300268
 VU#74,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#74,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#74,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
