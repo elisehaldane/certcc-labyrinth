@@ -1,7 +1,7 @@
 
 # Summary for results/2024/11/01
     
-246 records found after deduplication
+247 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|-------------------|---------------|--------------------|
@@ -207,7 +207,7 @@
 | codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-nd | None | https://github.com/codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-nd | ['exploit'] | 1 | 2024-11-01 02:19:11+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/JPG-Silent-Exploit-NEW-nd | None | https://github.com/codingcore14/JPG-Silent-Exploit-NEW-nd | ['exploit'] | 1 | 2024-11-01 02:19:44+00:00 | 2 | 1 | | 0 | [] |
 | jerryclass/git_rce | None | https://github.com/jerryclass/git_rce | ['rce'] | 1 | 2024-11-01 05:15:46+00:00 | 0 | 0 | | 0 | [] |
-| Almond-Latte/timing_attack_poc | nan | https://github.com/Almond-Latte/timing_attack_poc | ['attack poc'] | 1 | 2024-11-01 04:27:30+00:00 | 0 | 0 | Python | 0 | [] |
+| Almond-Latte/timing_attack_poc | None | https://github.com/Almond-Latte/timing_attack_poc | ['attack poc'] | 1 | 2024-11-01 04:27:30+00:00 | 0 | 0 | Python | 0 | [] |
 | jerryclass/git_sub_rce | None | https://github.com/jerryclass/git_sub_rce | ['rce'] | 1 | 2024-11-01 04:29:30+00:00 | 0 | 0 | | 0 | [] |
 | ajrielrm/CVE-2024-48217 | CVE-2024-48217 Sismart Vulnerability | https://github.com/ajrielrm/CVE-2024-48217 | ['cve-2 OR cve_2'] | 1 | 2024-11-01 04:44:17+00:00 | 0 | 0 | | 0 | ['CVE-2024-48217'] |
 | MaximBri/Exploit | lending on React.js | https://github.com/MaximBri/Exploit | ['exploit'] | 1 | 2024-11-01 20:51:19+00:00 | 3317 | 0 | TypeScript | 0 | [] |
@@ -248,6 +248,7 @@
 | PezwariNaan/CVE-2014-0195 | Exploit for CVE-2014-0195 | https://github.com/PezwariNaan/CVE-2014-0195 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-11-01 19:48:54+00:00 | 3 | 0 | Python | 0 | ['CVE-2014-0195'] |
 | feylins/Athena-Exploit | 🚀 Best exploit for roblox with 82% UNC | https://github.com/feylins/Athena-Exploit | ['exploit'] | 1 | 2024-11-01 22:59:49+00:00 | 770 | 0 | | 0 | [] |
 | nkrasnovajr/EcoBattle-test- | EcoBattle: Solar vs Toxic is a strategy game where players toggle between eco-friendly and exploitative strategies to pollinate flowers, shift ecological balance, and respond to global events—like pest surges or ecological boosts—driven by collective playe | https://github.com/nkrasnovajr/EcoBattle-test- | ['exploit'] | 1 | 2024-11-01 21:51:30+00:00 | 906 | 0 | JavaScript | 0 | [] |
+| hardenedlinux/userland-exec | Userland exec PoC to be used as attack vector technique | https://github.com/hardenedlinux/userland-exec | ['attack poc'] | 1 | 2024-11-01 21:27:15+00:00 | 17 | 8 | C | 0 | [] |
 | nkrasnovajr/EcoBattle-test2- | EcoBattle: Solar vs Toxic is a strategy game where players toggle between eco-friendly and exploitative strategies to pollinate flowers, shift ecological balance, and respond to global events—like pest surges or ecological boosts—driven by collective playe | https://github.com/nkrasnovajr/EcoBattle-test2- | ['exploit'] | 1 | 2024-11-01 21:58:10+00:00 | 902 | 0 | JavaScript | 0 | [] |
 | nkrasnovajr/EcoBattle | EcoBattle: Solar vs Toxic is a strategy game where players toggle between eco-friendly and exploitative strategies to pollinate flowers, shift ecological balance, and respond to global events—like pest surges or ecological boosts—driven by collective playe | https://github.com/nkrasnovajr/EcoBattle | ['exploit'] | 1 | 2024-11-01 22:03:45+00:00 | 902 | 0 | JavaScript | 0 | [] |
 | Ismail-Benali/MacSiphon | MacSiphon is a macOS data extraction tool that efficiently collects valuable files. | https://github.com/Ismail-Benali/MacSiphon | ['exploit'] | 1 | 2024-11-01 23:12:35+00:00 | 4 | 0 | Python | 0 | [] |
