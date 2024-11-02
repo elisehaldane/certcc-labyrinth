@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+881788261,ucbg/ninja-cat-exploit,patch/sdkv3/UnityLoader.js,3eb39adda617b52e0dc3c2178917a8f22b31b152,VU#69
+881788261,ucbg/ninja-cat-exploit,patch/sdkv3/UnityLoader.js,3eb39adda617b52e0dc3c2178917a8f22b31b152,VU#74
+881788261,ucbg/ninja-cat-exploit,patch/sdkv3/UnityLoader.js,3eb39adda617b52e0dc3c2178917a8f22b31b152,VU#77
+881788261,ucbg/ninja-cat-exploit,patch/sdkv3/UnityLoader.js,3eb39adda617b52e0dc3c2178917a8f22b31b152,VU#851
+881788261,ucbg/ninja-cat-exploit,patch/poki-sdk-core-v2.263.0.js,de7f89b4f24259613adc33f866c2e69faff82a3f,BID-0
+881788261,ucbg/ninja-cat-exploit,patch/poki-sdk-core-v2.263.0.js,de7f89b4f24259613adc33f866c2e69faff82a3f,VU#71
+881788261,ucbg/ninja-cat-exploit,patch/UnityLoader.js,eb717485fe3ceb081e368d8feb0fadf5c4a660e9,VU#69
+881788261,ucbg/ninja-cat-exploit,patch/UnityLoader.js,eb717485fe3ceb081e368d8feb0fadf5c4a660e9,VU#74
+881788261,ucbg/ninja-cat-exploit,patch/UnityLoader.js,eb717485fe3ceb081e368d8feb0fadf5c4a660e9,VU#77
+881788261,ucbg/ninja-cat-exploit,patch/UnityLoader.js,eb717485fe3ceb081e368d8feb0fadf5c4a660e9,VU#851
