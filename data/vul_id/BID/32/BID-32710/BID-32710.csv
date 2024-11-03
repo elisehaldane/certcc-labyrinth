@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 BID-32710,0.25000000,https://github.com/SECFORCE/CVE-2008-5416,SECFORCE/CVE-2008-5416,90185993
 BID-32710,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 BID-32710,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
-BID-32710,0.00034095,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+BID-32710,0.00034060,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 BID-32710,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 BID-32710,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 BID-32710,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
