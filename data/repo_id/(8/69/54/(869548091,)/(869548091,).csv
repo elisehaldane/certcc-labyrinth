@@ -1,14 +1,18 @@
 repo_id,repo_full_name,file,file_sha1,match
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/XSS.md,18ad74ce3460782da39702aac17ba99f3891512e,CVE-2021-38757
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/XSS.md,18ad74ce3460782da39702aac17ba99f3891512e,CVE-2023-38501
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#08
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#10666
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#32
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#38
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#51
-869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#55
 869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#976
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#51
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#38
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#32
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#10666
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#08
+869548091,315732/automatic-palm-tree,.obsidian/themes/Blue Topaz/theme.css,37e65878b918221a54b9802a5139f4e1ee633068,VU#55
+869548091,315732/automatic-palm-tree,Introductory Researching.md,4a3c8336e483cf9f77852472615e21f606a991a1,CVE-2007-0017
+869548091,315732/automatic-palm-tree,Introductory Researching.md,4a3c8336e483cf9f77852472615e21f606a991a1,CVE-2020-10385
+869548091,315732/automatic-palm-tree,Introductory Researching.md,4a3c8336e483cf9f77852472615e21f606a991a1,CVE-2019-18634
+869548091,315732/automatic-palm-tree,Introductory Researching.md,4a3c8336e483cf9f77852472615e21f606a991a1,CVE-2016-1240
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2014-0160
-869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2024-29988
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2024-3094
+869548091,315732/automatic-palm-tree,TryHackMe/rooms/Search Skills.md,88e6bc5f06fc345d87a04772e2b3049e541c984a,CVE-2024-29988
 869548091,315732/automatic-palm-tree,TryHackMe/rooms/Wreath.md,d7d26b843755c81bc8e7e6e70238aa0eada844f3,CVE-2019-15107
