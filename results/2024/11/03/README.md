@@ -1,7 +1,7 @@
 
 # Summary for results/2024/11/03
     
-211 records found after deduplication
+213 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -44,6 +44,7 @@
 | TURROKS/CVE_Prioritizer | Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed about the latest trends. | https://github.com/TURROKS/CVE_Prioritizer | ['exploit'] | 1 | 2024-11-03 12:25:24+00:00 | 7024 | 517 | Python | 67 | [] |
 | NobodyOffcal/vanguard-crash | valorant fortnite offsets csgo hack exploit free | https://github.com/NobodyOffcal/vanguard-crash | ['exploit'] | 1 | 2024-11-03 17:24:20+00:00 | 26415 | 4 | C++ | 0 | [] |
 | g3tsyst3m/asmgoodness | asm programming projects, shellcode, etc | https://github.com/g3tsyst3m/asmgoodness | ['shellcode'] | 1 | 2024-11-03 14:11:13+00:00 | 7316 | 3 | Assembly | 0 | [] |
+| vulncheck-oss/go-exploit | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | ['exploit'] | 1 | 2024-11-03 00:31:52+00:00 | 623 | 303 | Go | 29 | [] |
 | S-PScripts/chromebook-utilities | This repo has a collection of cheats, exploits, gxmes, hubs, movies, prxes and more! | https://github.com/S-PScripts/chromebook-utilities | ['exploit'] | 1 | 2024-11-03 20:03:35+00:00 | 1946 | 101 | HTML | 46 | [] |
 | lucagrippa/cisa-kev-archive | Storing historical snapshots of the CISA Known Exploited Vulnerabilities (KEV) list | https://github.com/lucagrippa/cisa-kev-archive | ['exploit'] | 1 | 2024-11-03 23:32:20+00:00 | 3934 | 0 | | 0 | [] |
 | Diego-AltF4/writeups | Just some random CTF writeups and exploits I want to save. | https://github.com/Diego-AltF4/writeups | ['exploit'] | 1 | 2024-11-03 17:56:57+00:00 | 53998 | 0 | Python | 0 | [] |
@@ -193,6 +194,7 @@
 | liessforce/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. It includes a KeyAuth system for additional security and user management. The cheat is designed to be undetectabl | https://github.com/liessforce/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2024-11-03 06:41:37+00:00 | 468 | 1 | C++ | 0 | [] |
 | amirzargham/CVE-2024-37383-exploit | Roundcube mail server exploit for CVE-2024-37383 (Stored XSS) | https://github.com/amirzargham/CVE-2024-37383-exploit | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-11-03 07:24:32+00:00 | 12 | 0 | JavaScript | 0 | ['CVE-2024-37383'] |
 | H4shCod3r/InkExploit | None | https://github.com/H4shCod3r/InkExploit | ['exploit'] | 1 | 2024-11-03 09:48:38+00:00 | 10064 | 0 | | 0 | [] |
+| RiietLony/NMAPHomeNetworkPenTest | Using Nmap To Penetration Test our home network ans using tools such as Metasploitable to attempt to exploit them. | https://github.com/RiietLony/NMAPHomeNetworkPenTest | ['exploit'] | 1 | 2024-11-03 10:26:23+00:00 | 4 | 0 | | 0 | [] |
 | karaz-debug/Ultimate-Algos-Connected-To-DEX-and-CCXT-Exchanges | a versatile automated trading system integrating four distinct trading strategies: Consolidation, Correlation, Mean Reversion, and Turtle Trading, each tailored to exploit different market conditions across multiple cryptocurrency symbols connect to Differ | https://github.com/karaz-debug/Ultimate-Algos-Connected-To-DEX-and-CCXT-Exchanges | ['exploit'] | 1 | 2024-11-03 12:18:11+00:00 | 9422 | 0 | Python | 0 | [] |
 | Isaac-000/exploits | None | https://github.com/Isaac-000/exploits | ['exploit'] | 1 | 2024-11-03 12:21:03+00:00 | 0 | 0 | | 0 | [] |
 | mriot/bypass-uac-for-trusted-apps | A script that allows trusted applications on your Windows PC to bypass the UAC prompt | https://github.com/mriot/bypass-uac-for-trusted-apps | ['uac bypass'] | 1 | 2024-11-03 12:26:58+00:00 | 53 | 1 | Batchfile | 0 | [] |
