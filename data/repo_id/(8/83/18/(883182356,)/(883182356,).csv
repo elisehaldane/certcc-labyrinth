@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#03
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#23
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,target/marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,README.md,ccea28929b8bd7106244f2539a2dac5c06e35375,CVE-2021-44228
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,log4shell_group15_final.zip,fa75b212f72e020248a0102448d2a304a62a3f09,VU#111
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,log4shell_group15_final.zip,fa75b212f72e020248a0102448d2a304a62a3f09,VU#43
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,log4shell_group15_final.zip,fa75b212f72e020248a0102448d2a304a62a3f09,VU#44
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,log4shell_group15_final.zip,fa75b212f72e020248a0102448d2a304a62a3f09,VU#76
+883182356,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,log4shell_group15_final.zip,fa75b212f72e020248a0102448d2a304a62a3f09,VU#99
