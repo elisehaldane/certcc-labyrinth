@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+861581302,Lunartyx/Metasploit-Framework,exploits/distccd.py,76d3d8f1b8afa47f1970410fc742cb5acdd9da0b,CVE-2004-2687
+861581302,Lunartyx/Metasploit-Framework,exploits/privilege_escalation.c,b937b75c7b69e134de40f5d1773cd047d955b693,CVE-2009-1185
+861581302,Lunartyx/Metasploit-Framework,README.md,f2f02e4827e5a8bbce3f7a6fbc5f7aab4e01cbfc,CVE-2004-2687

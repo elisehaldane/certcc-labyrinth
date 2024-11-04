@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+882539612,justikail/jtools,src/app/(tools)/exploit/cve202444000/csr.jsx,01e0c1e36f263db458d2431338ef44c3b24fbb1b,CVE-2024-44000
+882539612,justikail/jtools,src/app/api/cve202444000/route.js,9fdc50a811d618a731518357a49f613a87ea24ee,CVE-2024-44000
+882539612,justikail/jtools,src/app/(tools)/exploit/cve202444000/page.js,e4a0b72d7dc98b00132ca1a4a8e8d5f0a8421134,CVE-2024-44000
+882539612,justikail/jtools,src/app/components/templates/menuItems.jsx,fdbd3e6b57d7430b892677985eb489309ea920b0,CVE-2024-44000
