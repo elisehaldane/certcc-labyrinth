@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-9677,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
+BID-9677,0.00001463,https://github.com/ChaoticWagon/Llama3.2_CVE,ChaoticWagon/Llama3.2_CVE,869139798
 BID-9677,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 BID-9677,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 BID-9677,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899

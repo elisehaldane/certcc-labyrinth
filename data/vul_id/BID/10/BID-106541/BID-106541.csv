@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-106541,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
 BID-106541,0.00007487,https://github.com/enaqx/sploitware,enaqx/sploitware,22348337
+BID-106541,0.00001463,https://github.com/ChaoticWagon/Llama3.2_CVE,ChaoticWagon/Llama3.2_CVE,869139798
 BID-106541,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 BID-106541,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 BID-106541,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
