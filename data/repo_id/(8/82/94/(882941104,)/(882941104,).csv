@@ -1,8 +1,13 @@
 repo_id,repo_full_name,file,file_sha1,match
+882941104,pbj2647/CVE-2023-25813,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#33
+882941104,pbj2647/CVE-2023-25813,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#84
 882941104,pbj2647/CVE-2023-25813,node_modules/moment-timezone/changelog.md,2f940a3e354bf6a1e5b79d33bec1bb34c405c26b,GHSA-56X4-J7P9-FCF9
 882941104,pbj2647/CVE-2023-25813,node_modules/moment-timezone/changelog.md,2f940a3e354bf6a1e5b79d33bec1bb34c405c26b,GHSA-V78C-4P63-2J6C
 882941104,pbj2647/CVE-2023-25813,node_modules/moment/CHANGELOG.md,53f665bb03c69f569c839f54dac749502997bf7d,GHSA-8HFJ-J24R-96C4
 882941104,pbj2647/CVE-2023-25813,node_modules/@types/node/crypto.d.ts,6a0a547481d576459f25b2c85977717b3c6783b8,CVE-2021-44532
 882941104,pbj2647/CVE-2023-25813,node_modules/@types/node/tls.d.ts,92074a18f1febe8004b09cc8a1701ea9abf07fa3,CVE-2021-44531
 882941104,pbj2647/CVE-2023-25813,bin/www,b24a98578d534068cc68e87bdc91472870989d83,CVE-2023-25813
+882941104,pbj2647/CVE-2023-25813,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#243
+882941104,pbj2647/CVE-2023-25813,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#48
+882941104,pbj2647/CVE-2023-25813,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#93
 882941104,pbj2647/CVE-2023-25813,_GITHUB_REPO_METADATA_,,CVE-2023-25813
