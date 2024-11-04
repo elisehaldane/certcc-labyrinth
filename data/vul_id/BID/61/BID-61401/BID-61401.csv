@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-61401,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 BID-61401,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
-BID-61401,0.00006141,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-61401,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-61401,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 BID-61401,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -18,6 +17,7 @@ BID-61401,0.00005122,https://github.com/xfinest/exploit-database,xfinest/exploit
 BID-61401,0.00005068,https://github.com/kunphiphitb/exploitdb,kunphiphitb/exploitdb,152238433
 BID-61401,0.00005041,https://github.com/metoo10987/exploitdb,metoo10987/exploitdb,156733009
 BID-61401,0.00005020,https://github.com/TheGableMethod/exploitdb,TheGableMethod/exploitdb,164003708
+BID-61401,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-61401,0.00004878,https://github.com/blackunixteam/exploit-exploitdb,blackunixteam/exploit-exploitdb,223551245
 BID-61401,0.00004800,https://github.com/84KaliPleXon3/offensive-security-exploitdb,84KaliPleXon3/offensive-security-exploitdb,282981718
 BID-61401,0.00004747,https://github.com/Silentsoul04/exploitdb-1,Silentsoul04/exploitdb-1,336607627

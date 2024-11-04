@@ -8,7 +8,7 @@ VU#85,1.00000000,https://github.com/b23r0/Heroinn,b23r0/Heroinn,35727618
 VU#85,0.50000000,https://github.com/Esonhugh/ProxyInBrowser,Esonhugh/ProxyInBrowser,871457044
 VU#85,0.50000000,https://github.com/ADIR360/SQL_Injection,ADIR360/SQL_Injection,844439640
 VU#85,0.50000000,https://github.com/hakaioffsec/jwt-hunter,hakaioffsec/jwt-hunter,825861786
-VU#85,0.50000000,https://github.com/car-axle-client/car-axle-client,car-axle-client/car-axle-client,675796049
+VU#85,0.50000000,https://github.com/penguinify/car-axle-client,penguinify/car-axle-client,675796049
 VU#85,0.50000000,https://github.com/HaythmKenway/shellcode,HaythmKenway/shellcode,637379978
 VU#85,0.50000000,https://github.com/MuhammadHelmyRoslan/ExploitNetflixDataSet,MuhammadHelmyRoslan/ExploitNetflixDataSet,544090291
 VU#85,0.50000000,https://github.com/Kob123678/Max-KoSploit,Kob123678/Max-KoSploit,490315297
@@ -115,6 +115,7 @@ VU#85,0.06666667,https://github.com/Zsly1010/Amun_shellcodeAnalyzer,Zsly1010/Amu
 VU#85,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes,ring0-c0d3-br34k3r/Exploit-Development-Notes,853012766
 VU#85,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#85,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
+VU#85,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#85,0.06250000,https://github.com/1-5Pool/JMessage-Security-Project,1-5Pool/JMessage-Security-Project,825877316
 VU#85,0.06250000,https://github.com/Mohamed-Haneef/Exploit-box,Mohamed-Haneef/Exploit-box,802023457
 VU#85,0.06250000,https://github.com/kirakundev/exploitHub,kirakundev/exploitHub,674706227
@@ -125,7 +126,6 @@ VU#85,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcoc
 VU#85,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
 VU#85,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#85,0.05882353,https://github.com/Calvindd2f/Methodologies,Calvindd2f/Methodologies,531263981
-VU#85,0.05882353,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
 VU#85,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#85,0.05263158,https://github.com/Ankur452/CTF-challenges,Ankur452/CTF-challenges,867345699
 VU#85,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
@@ -136,6 +136,7 @@ VU#85,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/sa
 VU#85,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#85,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
 VU#85,0.05000000,https://github.com/pxcs/TheFatRat_v2,pxcs/TheFatRat_v2,778506916
+VU#85,0.05000000,https://github.com/friuns2/BlackFriday-GPTs-Prompts,friuns2/BlackFriday-GPTs-Prompts,722125767
 VU#85,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
 VU#85,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
 VU#85,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
@@ -151,6 +152,7 @@ VU#85,0.04347826,https://github.com/liamadoyle/PhD_Study_3,liamadoyle/PhD_Study_
 VU#85,0.04347826,https://github.com/MdRimon18/rcelleNgApp,MdRimon18/rcelleNgApp,749138197
 VU#85,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
 VU#85,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
+VU#85,0.04347826,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
 VU#85,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#85,0.04166667,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/PoCVerify,863746409
 VU#85,0.04166667,https://github.com/backendGuru88/End-exploitation-website,backendGuru88/End-exploitation-website,697231446
