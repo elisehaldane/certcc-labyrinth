@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+883546631,Trangdz/bagisto_ssti_cve_2023_33570,packages/Webkul/Velocity/publishable/assets/fonts/font-awesome/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+883546631,Trangdz/bagisto_ssti_cve_2023_33570,packages/Webkul/Velocity/publishable/assets/fonts/font-awesome/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+883546631,Trangdz/bagisto_ssti_cve_2023_33570,README.md,8def7db254f12a340d4599584d9b2a95e3a73d19,CVE-2023-33570
+883546631,Trangdz/bagisto_ssti_cve_2023_33570,packages/Webkul/Velocity/publishable/assets/fonts/font-awesome/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
+883546631,Trangdz/bagisto_ssti_cve_2023_33570,_GITHUB_REPO_METADATA_,,CVE-2023-33570
