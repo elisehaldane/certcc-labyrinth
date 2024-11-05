@@ -1,4 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/node_modules/@types/node/crypto.d.ts,6a0a547481d576459f25b2c85977717b3c6783b8,CVE-2021-44532
+854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/node_modules/@types/node/tls.d.ts,92074a18f1febe8004b09cc8a1701ea9abf07fa3,CVE-2021-44531
 854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#17
 854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#20
 854047411,Sasank123k/Crypto-Arbitrage-Bot,backend/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#32
