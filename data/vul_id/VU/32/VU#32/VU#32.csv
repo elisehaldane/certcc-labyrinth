@@ -135,7 +135,6 @@ VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyT
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#32,0.08333333,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
 VU#32,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
-VU#32,0.07692308,https://github.com/Sasank123k/Crypto-Arbitrage-Bot,Sasank123k/Crypto-Arbitrage-Bot,854047411
 VU#32,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
 VU#32,0.07692308,https://github.com/Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,816119709
 VU#32,0.07692308,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,732493597
@@ -155,6 +154,7 @@ VU#32,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproye
 VU#32,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#32,0.07142857,https://github.com/FroxenProject/FroxenAntiHackingEngine,FroxenProject/FroxenAntiHackingEngine,490542517
 VU#32,0.06666667,https://github.com/Zsly1010/Amun_shellcodeAnalyzer,Zsly1010/Amun_shellcodeAnalyzer,859840136
+VU#32,0.06666667,https://github.com/Sasank123k/Crypto-Arbitrage-Bot,Sasank123k/Crypto-Arbitrage-Bot,854047411
 VU#32,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#32,0.06666667,https://github.com/teloryfrozy/Lumatic-kartdlphax,teloryfrozy/Lumatic-kartdlphax,649274248
 VU#32,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
@@ -622,7 +622,7 @@ VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00033990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00033956,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

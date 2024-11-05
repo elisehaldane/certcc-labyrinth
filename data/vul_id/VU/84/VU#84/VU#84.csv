@@ -64,7 +64,6 @@ VU#84,0.08333333,https://github.com/Bryanmillan/Final-Project,Bryanmillan/Final-
 VU#84,0.08333333,https://github.com/Am0rphous/Malware,Am0rphous/Malware,289031927
 VU#84,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#84,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
-VU#84,0.07692308,https://github.com/Sasank123k/Crypto-Arbitrage-Bot,Sasank123k/Crypto-Arbitrage-Bot,854047411
 VU#84,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
 VU#84,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#84,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
@@ -82,6 +81,7 @@ VU#84,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-My
 VU#84,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#84,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
 VU#84,0.06666667,https://github.com/Zsly1010/Amun_shellcodeAnalyzer,Zsly1010/Amun_shellcodeAnalyzer,859840136
+VU#84,0.06666667,https://github.com/Sasank123k/Crypto-Arbitrage-Bot,Sasank123k/Crypto-Arbitrage-Bot,854047411
 VU#84,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes,ring0-c0d3-br34k3r/Exploit-Development-Notes,853012766
 VU#84,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#84,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
@@ -436,7 +436,7 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00033990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00033956,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#84,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
