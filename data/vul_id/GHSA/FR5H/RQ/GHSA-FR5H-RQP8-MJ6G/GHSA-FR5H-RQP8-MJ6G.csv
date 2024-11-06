@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-FR5H-RQP8-MJ6G,0.50000000,https://github.com/God4n/nextjs-CVE-2024-34351-_exploit,God4n/nextjs-CVE-2024-34351-_exploit,848332085
-GHSA-FR5H-RQP8-MJ6G,0.00033875,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-FR5H-RQP8-MJ6G,0.00033795,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-FR5H-RQP8-MJ6G,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-FR5H-RQP8-MJ6G,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

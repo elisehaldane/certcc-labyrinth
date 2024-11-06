@@ -69,6 +69,7 @@ VU#84,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,
 VU#84,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#84,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#84,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
+VU#84,0.07142857,https://github.com/pbj2647/CVE-2023-25813,pbj2647/CVE-2023-25813,884065369
 VU#84,0.07142857,https://github.com/mojtaba-eshghie/XploGen,mojtaba-eshghie/XploGen,839474444
 VU#84,0.07142857,https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container,MagpieRYL/CVE-2024-3094-backdoor-env-container,781419608
 VU#84,0.07142857,https://github.com/phannhat17/metasploit-web-interface,phannhat17/metasploit-web-interface,771534245
@@ -436,7 +437,7 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00033875,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00033795,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#84,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
