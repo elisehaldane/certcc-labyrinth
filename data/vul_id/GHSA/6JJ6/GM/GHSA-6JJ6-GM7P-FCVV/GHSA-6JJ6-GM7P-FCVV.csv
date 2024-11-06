@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6JJ6-GM7P-FCVV,0.33333333,https://github.com/Mr-xn/CVE-2024-36401,Mr-xn/CVE-2024-36401,824794128
 GHSA-6JJ6-GM7P-FCVV,0.03846154,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
 GHSA-6JJ6-GM7P-FCVV,0.02272727,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
-GHSA-6JJ6-GM7P-FCVV,0.00467290,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
+GHSA-6JJ6-GM7P-FCVV,0.00454545,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-6JJ6-GM7P-FCVV,0.00180832,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GHSA-6JJ6-GM7P-FCVV,0.00080128,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-6JJ6-GM7P-FCVV,0.00078309,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
@@ -16,4 +16,4 @@ GHSA-6JJ6-GM7P-FCVV,0.00018591,https://github.com/phucoding286/metasploit-framew
 GHSA-6JJ6-GM7P-FCVV,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-6JJ6-GM7P-FCVV,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-6JJ6-GM7P-FCVV,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-GHSA-6JJ6-GM7P-FCVV,0.00000838,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-6JJ6-GM7P-FCVV,0.00000837,https://github.com/trickest/cve,trickest/cve,454015416
