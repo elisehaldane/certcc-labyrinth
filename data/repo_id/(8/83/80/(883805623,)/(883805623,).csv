@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+883805623,tamatee/test_cve_2024_23897,Jenkinsfile,30decaca18f47435cd24cb28ed4abbd9fd1d4bce,CVE-2024-23897
+883805623,tamatee/test_cve_2024_23897,_GITHUB_REPO_METADATA_,,CVE-2024-23897
