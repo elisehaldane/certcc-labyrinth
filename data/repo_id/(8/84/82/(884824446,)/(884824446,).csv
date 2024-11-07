@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+884824446,luelueking/CVE-2022-25845-In-Spring,pom.xml,05723f2ac19bb81f1d6eeaa76c691b1c4b2bdddf,CVE-2022-25845
+884824446,luelueking/CVE-2022-25845-In-Spring,README.md,199c6b8b70b330f9e2e1dd9ad273a6bf5a816015,CVE-2022-25845
+884824446,luelueking/CVE-2022-25845-In-Spring,Dockerfile,51278dfac6aef9d4087edb9bbb3086bce748c207,CVE-2022-25845
+884824446,luelueking/CVE-2022-25845-In-Spring,_GITHUB_REPO_METADATA_,,CVE-2022-25845
