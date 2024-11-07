@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+848021016,woodruffw/gha-hazmat,.github/workflows/known-vulnerable-actions.yml,d2c6916db9680d647025b53cb51c6813a1fa9163,GHSA-4XQX-PQPJ-9FQW
+848021016,woodruffw/gha-hazmat,.github/workflows/known-vulnerable-actions.yml,d2c6916db9680d647025b53cb51c6813a1fa9163,GHSA-6Q4M-7476-932W
