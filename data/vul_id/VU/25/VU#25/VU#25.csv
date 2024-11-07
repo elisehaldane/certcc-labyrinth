@@ -489,7 +489,6 @@ VU#25,0.00395257,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Ti
 VU#25,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMunhangane/NETWORK-TD-SOM-Master-thesis,539172997
 VU#25,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
 VU#25,0.00386100,https://github.com/Karmaz95/crimson_lisp,Karmaz95/crimson_lisp,503106685
-VU#25,0.00386100,https://github.com/YasserGersy/cazador_unr,YasserGersy/cazador_unr,193280788
 VU#25,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#25,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#25,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
@@ -499,6 +498,7 @@ VU#25,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#25,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#25,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#25,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+VU#25,0.00337838,https://github.com/YasserGersy/cazador_unr,YasserGersy/cazador_unr,193280788
 VU#25,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#25,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#25,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
@@ -567,7 +567,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00033784,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00033772,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -613,7 +613,7 @@ VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#25,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#25,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#25,0.00000373,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#25,0.00000372,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
 VU#25,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#25,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#25,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
