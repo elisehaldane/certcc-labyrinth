@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+884939153,Duongvipro/exploit,exploit.c,4b54e3deb4670954f4677779a62f64927439e6cf,CVE-2024-0582
+884939153,Duongvipro/exploit,GenIoURingExploit.c,744f79e052a8c34732a343729bb63d87696abfba,CVE-2024-0582
