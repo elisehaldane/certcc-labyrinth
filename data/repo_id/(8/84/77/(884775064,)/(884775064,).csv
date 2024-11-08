@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+884775064,Sk3pper/CVE-2024-21626-old-docker-versions,README.md,ddbc335397bcf08d6ed1528f05b286547d8b7eb5,CVE-2024-21626
+884775064,Sk3pper/CVE-2024-21626-old-docker-versions,README.md,ddbc335397bcf08d6ed1528f05b286547d8b7eb5,GHSA-XR7R-F8XQ-VFVV
+884775064,Sk3pper/CVE-2024-21626-old-docker-versions,_GITHUB_REPO_METADATA_,,CVE-2024-21626
