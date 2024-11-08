@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#106,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
+VU#106,0.16666667,https://github.com/jhruppert/wrf-ideal-crf,jhruppert/wrf-ideal-crf,880564298
 VU#106,0.02380952,https://github.com/physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,879102558
 VU#106,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#106,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298

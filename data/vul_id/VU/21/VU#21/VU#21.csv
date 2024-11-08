@@ -86,7 +86,6 @@ VU#21,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Expl
 VU#21,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#21,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#21,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/defcon-25-workshop,97747585
-VU#21,0.07692308,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#21,0.07692308,https://github.com/Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,Sunny-Kaushik/MediOptix-Intelligent-Doctor-Discovery-System,816119709
 VU#21,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
 VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
@@ -169,6 +168,7 @@ VU#21,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#21,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#21,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#21,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#21,0.03225806,https://github.com/BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,885354155
 VU#21,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#21,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#21,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
@@ -184,6 +184,7 @@ VU#21,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poke
 VU#21,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#21,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#21,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
+VU#21,0.02702703,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#21,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#21,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#21,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
@@ -513,6 +514,7 @@ VU#21,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#21,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
 VU#21,0.00324675,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#21,0.00322581,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#21,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#21,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#21,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#21,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
