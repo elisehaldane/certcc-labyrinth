@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-J222-J9MF-H6J9,0.50000000,https://github.com/indevi0us/CVE-2020-5248,indevi0us/CVE-2020-5248,302635416
-GHSA-J222-J9MF-H6J9,0.00033761,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-J222-J9MF-H6J9,0.00033750,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-J222-J9MF-H6J9,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-J222-J9MF-H6J9,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-J222-J9MF-H6J9,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
