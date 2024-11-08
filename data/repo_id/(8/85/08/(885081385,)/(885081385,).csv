@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+885081385,AdaHop-Cyber-Security/Pocy,README.md,23e64eb8d1ba968f8c5acbd71c971ebd4de66fdd,CVE-2023-42115
+885081385,AdaHop-Cyber-Security/Pocy,exploit.py,87ded40cbdbee23a838b8adcde84c91f0adb34e1,CVE-2023-42115
+885081385,AdaHop-Cyber-Security/Pocy,_GITHUB_REPO_METADATA_,,CVE-2023-42115
