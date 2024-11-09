@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W7HQ-F2PJ-C53G,0.33333333,https://github.com/Marven11/CVE-2024-39205-Pyload-RCE,Marven11/CVE-2024-39205-Pyload-RCE,878732098
-GHSA-W7HQ-F2PJ-C53G,0.00033647,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-W7HQ-F2PJ-C53G,0.00033580,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
