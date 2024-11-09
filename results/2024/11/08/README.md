@@ -1,7 +1,7 @@
 
 # Summary for results/2024/11/08
     
-228 records found after deduplication
+229 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -41,6 +41,7 @@
 | unknownhad/CloudIntel | This repo contains IOC, malware and malware analysis associated with Public cloud | https://github.com/unknownhad/CloudIntel | ['exploit'] | 1 | 2024-11-08 11:39:16+00:00 | 13060 | 244 | | 21 | [] |
 | RozhakXD/Premium | None | https://github.com/RozhakXD/Premium | ['exploit'] | 1 | 2024-11-08 12:21:58+00:00 | 139115 | 73 | | 20 | [] |
 | EugenMayer/cisa-known-exploited-mirror | None | https://github.com/EugenMayer/cisa-known-exploited-mirror | ['exploit'] | 1 | 2024-11-08 00:08:06+00:00 | 814 | 8 | | 5 | [] |
+| vulncheck-oss/go-exploit | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | ['exploit'] | 1 | 2024-11-08 23:38:27+00:00 | 637 | 304 | Go | 29 | [] |
 | pcaversaccio/tornado-cash-exploit | This repository implements a simplified PoC that showcases how a contract can morph. A similar approach was used as part of the governance attack on Tornado Cash in May 2023. | https://github.com/pcaversaccio/tornado-cash-exploit | ['attack poc', 'exploit'] | 2 | 2024-11-08 18:06:39+00:00 | 98 | 48 | Solidity | 9 | [] |
 | pcaversaccio/malleable-signatures | This repository implements a simplified PoC that demonstrates how signature malleability attacks using compact signatures can be executed. | https://github.com/pcaversaccio/malleable-signatures | ['attack poc', 'exploit'] | 2 | 2024-11-08 18:07:30+00:00 | 111 | 107 | Solidity | 9 | [] |
 | S-PScripts/chromebook-utilities | This repo has a collection of cheats, exploits, gxmes, hubs, movies, prxes and more! | https://github.com/S-PScripts/chromebook-utilities | ['exploit'] | 1 | 2024-11-08 08:49:48+00:00 | 2006 | 103 | HTML | 47 | [] |
