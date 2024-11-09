@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-881924384,m3ssap0/wordpress-jetpack-broken-access-control-exploit,README.md,666bf471f954d8ea46f8866cf999c528d7a8109c,CVE-2024-9926
-881924384,m3ssap0/wordpress-jetpack-broken-access-control-exploit,exploit.py,7f10691b391801533a082e9cfa3ac2bdf5041a26,CVE-2024-9926
+881924384,m3ssap0/wordpress-jetpack-broken-access-control-exploit,exploit.py,022971a9ff2e7f629b386ca8e46eb472b44c62f3,CVE-2024-9926
+881924384,m3ssap0/wordpress-jetpack-broken-access-control-exploit,README.md,a221d89345d1f37f3df66646ee9c2d5433617348,CVE-2024-9926
 881924384,m3ssap0/wordpress-jetpack-broken-access-control-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-9926
