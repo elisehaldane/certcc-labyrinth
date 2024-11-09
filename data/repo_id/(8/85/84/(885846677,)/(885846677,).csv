@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+885846677,C9b3rD3vi1/Fuel-CMS-_Remote-Code-Execution-,another_shell.py,09af35cfdb0e936fc4898ab7b75cf4185030855b,CVE-2018-16763
+885846677,C9b3rD3vi1/Fuel-CMS-_Remote-Code-Execution-,remote_shell.py,d00449620ce79286481deff2bd3a3635c2e21a22,CVE-2018-16763
