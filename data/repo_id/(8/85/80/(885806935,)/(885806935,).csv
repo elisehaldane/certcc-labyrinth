@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+885806935,sea-middle/cve-2023-25813,node_modules/moment-timezone/changelog.md,2f940a3e354bf6a1e5b79d33bec1bb34c405c26b,GHSA-56X4-J7P9-FCF9
+885806935,sea-middle/cve-2023-25813,node_modules/moment-timezone/changelog.md,2f940a3e354bf6a1e5b79d33bec1bb34c405c26b,GHSA-V78C-4P63-2J6C
+885806935,sea-middle/cve-2023-25813,app.js,3809b012a89d391b24af5b759eb3fd0da54475e1,CVE-2023-25813
+885806935,sea-middle/cve-2023-25813,node_modules/moment/CHANGELOG.md,53f665bb03c69f569c839f54dac749502997bf7d,GHSA-8HFJ-J24R-96C4
+885806935,sea-middle/cve-2023-25813,node_modules/@types/node/tls.d.ts,56a1851786dc9a1c66ca2ab2307b6b3f4e7b74bb,CVE-2021-44531
+885806935,sea-middle/cve-2023-25813,node_modules/@types/node/crypto.d.ts,6a0a547481d576459f25b2c85977717b3c6783b8,CVE-2021-44532
+885806935,sea-middle/cve-2023-25813,node_modules/sqlite3/deps/sqlite-autoconf-3440200.tar.gz,8398dd159f3a1fd8f1c5edf02c687512eaab69e4,VU#78
+885806935,sea-middle/cve-2023-25813,node_modules/express/History.md,ff965ba2a56167233ede848ec6eec0fbbea12f1c,CVE-2024-47764
+885806935,sea-middle/cve-2023-25813,_GITHUB_REPO_METADATA_,,CVE-2023-25813
