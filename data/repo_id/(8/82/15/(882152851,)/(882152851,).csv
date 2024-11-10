@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-1999-0519
+882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,MS17-010
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,MS16-047
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,MS09-001
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,MS08-067
@@ -7,9 +8,8 @@ repo_id,repo_full_name,file,file_sha1,match
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0199
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0148
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0147
-882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0146
-882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,MS17-010
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0145
+882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0146
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2017-0143
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2016-0128
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,CVE-2008-4835
@@ -23,3 +23,5 @@ repo_id,repo_full_name,file,file_sha1,match
 882152851,Jhonnymgx115/Actividad-4-Seguridad,My Basic Network Scan_znblin.nessus,2672fc086155af5973a29c4dfca6a555694827e4,VU#405600
 882152851,Jhonnymgx115/Actividad-4-Seguridad,Nivel de Amenzas y aseguramiento/Criticos,9693d5c61bbbe653c0e80de91441341b13bacc56,MS08-067
 882152851,Jhonnymgx115/Actividad-4-Seguridad,Nivel de Amenzas y aseguramiento/Criticos,9693d5c61bbbe653c0e80de91441341b13bacc56,MS09-001
+882152851,Jhonnymgx115/Actividad-4-Seguridad,Nivel de Amenzas y aseguramiento/High-Altos,aaa01f38581b4d354c5a3d93225b30ae0f4a7496,MS17-010
+882152851,Jhonnymgx115/Actividad-4-Seguridad,Nivel de Amenzas y aseguramiento/High-Altos,aaa01f38581b4d354c5a3d93225b30ae0f4a7496,CVE-2021-36942
