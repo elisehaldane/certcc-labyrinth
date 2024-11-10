@@ -5,5 +5,5 @@ repo_id,repo_full_name,file,file_sha1,match
 880564298,jhruppert/wrf-ideal-crf,python/surface_flux_test.ipynb,664442f112467e116a158dc6ffc0a7665584baca,VU#48
 880564298,jhruppert/wrf-ideal-crf,python/surface_flux_test.ipynb,664442f112467e116a158dc6ffc0a7665584baca,VU#58
 880564298,jhruppert/wrf-ideal-crf,python/surface_flux_test.ipynb,664442f112467e116a158dc6ffc0a7665584baca,VU#91
-880564298,jhruppert/wrf-ideal-crf,python/rce_prof_tser.ipynb,98214a931df196e446e8a44d1a1e53ba374abf67,VU#01
-880564298,jhruppert/wrf-ideal-crf,python/rce_prof_tser.ipynb,98214a931df196e446e8a44d1a1e53ba374abf67,VU#91
+880564298,jhruppert/wrf-ideal-crf,python/rce_prof_tser.ipynb,8ba283d942ed37a65571e94dc1ad87a08d403cd7,VU#27
+880564298,jhruppert/wrf-ideal-crf,python/rce_prof_tser.ipynb,8ba283d942ed37a65571e94dc1ad87a08d403cd7,VU#55
