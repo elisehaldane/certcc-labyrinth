@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+886447560,safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC,exploit/README.md,04fd4ef4ff5e4badde6432c1239265c955a12441,CVE-2024-23897
+886447560,safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC,README.md,7cf9859420df27d1a1cf7109098ed18f1df1106d,CVE-2024-23897
+886447560,safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC,exploit/CVE-2024-23897.py,b0dd3f824fe9f5521508fc5e207f97c1984cdd24,CVE-2024-23897
+886447560,safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC,_GITHUB_REPO_METADATA_,,CVE-2024-23897
