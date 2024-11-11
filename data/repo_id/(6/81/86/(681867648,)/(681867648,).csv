@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 681867648,synfinner/KEVin,README.md,0b75ebedbf6d8db0e114df261d0160378320be66,CVE-2023-1234
-681867648,synfinner/KEVin,templates/index.html,53d0d5206e7afdaee867a3d8ce47afb92853bbb4,CVE-2023-1234
-681867648,synfinner/KEVin,templates/index.html,53d0d5206e7afdaee867a3d8ce47afb92853bbb4,CVE-2023-22527
 681867648,synfinner/KEVin,tests/sanitization_test.py,5822ced2ab8e86ca71d9538a721dab50e84b929e,CVE-1234-123456
 681867648,synfinner/KEVin,templates/example.html,6a0df8e1077b4e470183f713487c78843bba7658,CVE-2023-1234
-681867648,synfinner/KEVin,kevin.py,962f2ea8ccaf7cd3873d575f56afbcc8d5912f03,CVE-2021-1234
+681867648,synfinner/KEVin,templates/index.html,6b6b2b6fe70a988042dc72ab7dfde09b07b246d4,CVE-2023-1234
+681867648,synfinner/KEVin,templates/index.html,6b6b2b6fe70a988042dc72ab7dfde09b07b246d4,CVE-2023-22527
+681867648,synfinner/KEVin,kevin.py,b37a8eb3a329897218b39703f8791df008dbf03f,CVE-2021-1234
