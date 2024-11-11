@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/convert_from.cc,1ecd1c2431d3564aa03ca0ac696d8bb0a913c75a,VU#601
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/convert_from.cc,1ecd1c2431d3564aa03ca0ac696d8bb0a913c75a,VU#709
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/planar_functions.cc,3a23b64b4e8fd9dc365bed20a1524682d3daabbe,VU#601
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/include/libyuv/row.h,634016a60e45c5e2b0f5176ac86e6b9399514365,VU#601
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/include/libyuv/row.h,634016a60e45c5e2b0f5176ac86e6b9399514365,VU#709
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/convert_argb.cc,c1539e839249e89a4906dad74a66cc4ed066edc2,VU#601
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/convert_argb.cc,c1539e839249e89a4906dad74a66cc4ed066edc2,VU#709
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/row_common.cc,e78da9f25a3d9d11d76a7c2a65c1c0eb89f3136f,VU#601
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,third_party/libyuv/source/row_common.cc,e78da9f25a3d9d11d76a7c2a65c1c0eb89f3136f,VU#709
+886624608,uthrasri/CVE-2023-44488-_libvpx_1.8.0,_GITHUB_REPO_METADATA_,,CVE-2023-44488
