@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+887003363,0xNslabs/SoftBankMeshAPI,README.md,918f128c88f599ec2185ab65b954c3fc15e05f1c,CVE-2024-45827
+887003363,0xNslabs/SoftBankMeshAPI,README.md,918f128c88f599ec2185ab65b954c3fc15e05f1c,CVE-2024-47799
