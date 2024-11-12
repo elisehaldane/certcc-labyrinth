@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+887103413,kuppamjohari/vsftpd-3.0.3-DoS,README.md,1119e1a4db0d28b39fc4cde4997bafdc2fffe01b,CVE-2021-30047

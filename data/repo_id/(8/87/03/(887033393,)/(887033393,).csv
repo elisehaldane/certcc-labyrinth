@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/db-javascript/default/cache/pages/41.pack,2b4ccd23dacf6d3c37a8e4e1de7d82393ded4653,VU#331
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.230907.011.log,3562726d471770ac3e4ff9f4e55fd79512eec4b8,VU#20
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.170436.711.log,3fc52a91aa0e8c6e1edbeff0e85f82d07cb463a1,VU#20
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.170436.711.log,3fc52a91aa0e8c6e1edbeff0e85f82d07cb463a1,VU#24
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.170436.711.log,3fc52a91aa0e8c6e1edbeff0e85f82d07cb463a1,VU#288
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.170436.711.log,3fc52a91aa0e8c6e1edbeff0e85f82d07cb463a1,VU#60
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.170436.711.log,3fc52a91aa0e8c6e1edbeff0e85f82d07cb463a1,VU#69
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.232331.355.log,486539f42f6a48773f42e0d69e0ab55dd4b90309,VU#20
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.230925.669.log,4d26b32a8545182f7567bee45667abd4632420e1,VU#20
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.232518.352.log,7d39e84d72e3f9237035cdf8e3bb5f8b2ceacb85,VU#20
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.165708.800.log,976a9a20cbfd293729ecace5cce0d193a7445a8f,VU#68
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/log/execute-queries-20241112.165708.800.log,976a9a20cbfd293729ecace5cce0d193a7445a8f,VU#77164
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/db-javascript/default/cache/relations/c2.pack,af3ef500d7e883f29ade9d15d5dc650f20d24331,VU#331
+887033393,TheBigStonk/CodeQL-PoC-XSS-App,codeql-db/db-javascript/default/cache/predicates/ab.pack,e14995f21f549ae6015ad878514531a2c58f1dc7,VU#72
