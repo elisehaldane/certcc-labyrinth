@@ -56,6 +56,7 @@ VU#72,0.14285714,https://github.com/wetw0rk/MBE-NOTES,wetw0rk/MBE-NOTES,73215976
 VU#72,0.14285714,https://github.com/yadavpunam/Human_Act_Recog_DNN,yadavpunam/Human_Act_Recog_DNN,712184165
 VU#72,0.12500000,https://github.com/Caihuar/Joomla-cve-2015-8562,Caihuar/Joomla-cve-2015-8562,539365000
 VU#72,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104242
+VU#72,0.11111111,https://github.com/TheBigStonk/CodeQL-PoC-XSS-App,TheBigStonk/CodeQL-PoC-XSS-App,887033393
 VU#72,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit-Development,whoami-chmod777/Buffer-Overflow-Exploit-Development,734487808
 VU#72,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoami-chmod777/Buffer-Overflow-Exploit,720209650
 VU#72,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
@@ -391,7 +392,7 @@ VU#72,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#72,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#72,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#72,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#72,0.00033490,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#72,0.00033411,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#72,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 VU#72,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#72,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
