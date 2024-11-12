@@ -1,7 +1,7 @@
 
 # Summary for results/2024/11/11
     
-248 records found after deduplication
+249 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -197,6 +197,7 @@
 | roblox-macros/Anime-Royale | Roblox Anime Royale Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm AUTO UPGRADE , AUTO PLAY , AUTOFARM LEVELS , GAME SPEED | https://github.com/roblox-macros/Anime-Royale | ['exploit'] | 1 | 2024-11-11 20:27:21+00:00 | 1638 | 20 | | 15 | [] |
 | roblox-macros/Anime-Last-Stand | Roblox Anime Last Stand Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm AUTO START, CLAIM REWARDS, AUTO LEVEL | https://github.com/roblox-macros/Anime-Last-Stand | ['exploit'] | 1 | 2024-11-11 20:28:35+00:00 | 1638 | 20 | | 15 | [] |
 | roblox-macros/Anime-Defenders | Roblox Anime Defenders Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm Buang Hub Gem & RR Method With Autofarm, Teleports & MORE | https://github.com/roblox-macros/Anime-Defenders | ['exploit'] | 1 | 2024-11-11 20:29:21+00:00 | 1638 | 20 | | 15 | [] |
+| VictorRobert0/SecSCAN-Securitytool | SecSCAN é uma ferramenta de segurança simples desenvolvida em Python que facilita a execução de comandos de ferramentas como Nmap e Metasploit diretamente de uma interface gráfica construída com Tkinter. O projeto visa ajudar a automatizar algumas tarefas | https://github.com/VictorRobert0/SecSCAN-Securitytool | ['metasploit module OR payload'] | 1 | 2024-11-11 23:57:27+00:00 | 138588 | 0 | Python | 0 | [] |
 | saisathvik1/CVE-2024-47062 | CVE-2024-47062 PoC | https://github.com/saisathvik1/CVE-2024-47062 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-11-11 18:18:09+00:00 | 77 | 0 | Python | 0 | ['CVE-2024-47062'] |
 | Roblox-games-scripts/Five-Nights-TD | Roblox Five Nights TD Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm Auto Upgrade Auto Farm & Place | https://github.com/Roblox-games-scripts/Five-Nights-TD | ['exploit'] | 1 | 2024-11-11 20:37:41+00:00 | 1151 | 20 | | 5 | [] |
 | Roblox-games-scripts/Tower-Defense-X | Roblox Tower Defense X Script Hack Cheat Exploit Executor GUI Lua Keyless No Key Macros Pastebin 2024 (Working PC/Mobile/Android/IOS) OP Autofarm INF CASH, AND MORE | https://github.com/Roblox-games-scripts/Tower-Defense-X | ['exploit'] | 1 | 2024-11-11 20:36:59+00:00 | 1151 | 20 | | 5 | [] |
@@ -213,7 +214,7 @@
 | rootbakar/Sample-CSRF-Exploit-Code | None | https://github.com/rootbakar/Sample-CSRF-Exploit-Code | ['exploit'] | 1 | 2024-11-11 06:49:07+00:00 | 16 | 0 | | 0 | [] |
 | alwalxed/juicyurls | CLI tool to scan URLs for suspicious keywords, extensions, paths, and hidden files. | https://github.com/alwalxed/juicyurls | ['exploit'] | 1 | 2024-11-11 12:22:51+00:00 | 16 | 2 | Go | 0 | [] |
 | Thrcle421/Exploiting-Inter-Sample-Affinity-for-Knowability-Aware-Universal-Domain-Adaptation | None | https://github.com/Thrcle421/Exploiting-Inter-Sample-Affinity-for-Knowability-Aware-Universal-Domain-Adaptation | ['exploit'] | 1 | 2024-11-11 01:31:04+00:00 | 161 | 0 | Python | 0 | [] |
-| safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC | Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability Leading to RCE | https://github.com/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-11-11 04:55:47+00:00 | 0 | 0 | Python | 0 | ['CVE-2024-23897'] |
+| safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC | Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability Leading to RCE | https://github.com/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-11-11 04:55:47+00:00 | 3 | 0 | Python | 0 | ['CVE-2024-23897'] |
 | NaNA1337/Dnsmaq2.86-Heap-buffer-overflow-PoC | nan | https://github.com/NaNA1337/Dnsmaq2.86-Heap-buffer-overflow-PoC | ['heap overflow'] | 1 | 2024-11-11 04:01:22+00:00 | 8 | 1 | C++ | 1 | [] |
 | tequilasunsh1ne/kindeeEas_appUtil_rce | None | https://github.com/tequilasunsh1ne/kindeeEas_appUtil_rce | ['rce'] | 1 | 2024-11-11 03:41:32+00:00 | 2 | 0 | | 0 | [] |
 | tequilasunsh1ne/HANDLINK_login_handler_rce | None | https://github.com/tequilasunsh1ne/HANDLINK_login_handler_rce | ['rce'] | 1 | 2024-11-11 03:48:48+00:00 | 2 | 0 | | 0 | [] |
@@ -244,8 +245,8 @@
 | whiterose7777/Exploit-Karnel | None | https://github.com/whiterose7777/Exploit-Karnel | ['exploit'] | 1 | 2024-11-11 15:13:38+00:00 | 3780 | 0 | C | 0 | [] |
 | dragonlost/Presentation_RCE_2024 | None | https://github.com/dragonlost/Presentation_RCE_2024 | ['rce'] | 1 | 2024-11-11 16:55:50+00:00 | 0 | 0 | | 0 | [] |
 | AxelJL/EscapeNoGame | Etablir une chaîne de transmission de l'information depuis la création du son jusqu'à sa réception et son exploitation en expliquant et illustrant toute les étapes. | https://github.com/AxelJL/EscapeNoGame | ['exploit'] | 1 | 2024-11-11 16:06:04+00:00 | 2185 | 0 | Jupyter Notebook | 0 | [] |
-| Fear2o/ShellKill | an advanced python-based web shell uploader | https://github.com/Fear2o/ShellKill | ['exploit', 'rce'] | 2 | 2024-11-11 19:24:59+00:00 | 3358 | 2 | Python | 0 | [] |
-| hatvix1/CVE-2024-11016 | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') | https://github.com/hatvix1/CVE-2024-11016 | ['command injection', 'cve-2 OR cve_2'] | 2 | 2024-11-11 17:17:23+00:00 | 0 | 0 | | 0 | ['CVE-2024-11016'] |
+| Fear2o/ShellKill | an advanced python-based web shell uploader | https://github.com/Fear2o/ShellKill | ['exploit', 'rce'] | 2 | 2024-11-11 17:46:39+00:00 | 64 | 2 | Python | 0 | [] |
+| hatvix1/CVE-2024-11016 | CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') | https://github.com/hatvix1/CVE-2024-11016 | ['command injection', 'cve-2 OR cve_2'] | 2 | 2024-11-11 17:41:23+00:00 | 2 | 1 | | 0 | ['CVE-2024-11016'] |
 | MOBR4/Binary-exploitation | None | https://github.com/MOBR4/Binary-exploitation | ['exploit'] | 1 | 2024-11-11 19:01:52+00:00 | 25 | 0 | Python | 0 | [] |
 | kenn3y/exploits | None | https://github.com/kenn3y/exploits | ['exploit'] | 1 | 2024-11-11 22:03:36+00:00 | 6 | 0 | Python | 0 | [] |
 | DreamTechVR/exp3 | PS3 exploit fork | https://github.com/DreamTechVR/exp3 | ['exploit'] | 1 | 2024-11-11 21:41:30+00:00 | 68 | 0 | | 0 | [] |
