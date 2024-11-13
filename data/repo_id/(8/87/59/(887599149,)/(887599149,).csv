@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+887599149,bluetoothStrawberry/cve-2021-21425,exploit.py,279fef65be5cb2d1b9d2d2ed2e927bfcd9bda281,CVE-2021-21425
+887599149,bluetoothStrawberry/cve-2021-21425,_GITHUB_REPO_METADATA_,,CVE-2021-21425
