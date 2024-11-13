@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-887398153,RajeevThapa/VDEF,scans/reports/summary_report.md,47d3839a39cad42ab04e24f47a3564dac964a5f9,VU#45
-887398153,RajeevThapa/VDEF,scans/reports/summary_report.md,47d3839a39cad42ab04e24f47a3564dac964a5f9,VU#91
+887398153,RajeevThapa/VDEF,scans/reports/summary_report.md,70fabd7e05efbba5a9b85dc563b9ea43dbb1ce22,VU#45
+887398153,RajeevThapa/VDEF,scans/reports/summary_report.md,70fabd7e05efbba5a9b85dc563b9ea43dbb1ce22,VU#91
+887398153,RajeevThapa/VDEF,scans/zap/testhtml5.vulnweb.com_zap_report.html,bf4d416a5e1a1a2b2b01a74d40c5176786d93aeb,VU#45
+887398153,RajeevThapa/VDEF,scans/zap/testhtml5.vulnweb.com_zap_report.html,bf4d416a5e1a1a2b2b01a74d40c5176786d93aeb,VU#91
