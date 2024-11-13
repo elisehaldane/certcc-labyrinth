@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+887792818,Bad3r/CVE-2021-3156-without-ip-command,exploit_nss.py,53fe32978783684eddb143de6e1e4e08f7283325,CVE-2021-3156
+887792818,Bad3r/CVE-2021-3156-without-ip-command,README.md,fed1a9ce364ce7991770de86b0e779254fd03191,CVE-2021-3156
+887792818,Bad3r/CVE-2021-3156-without-ip-command,_GITHUB_REPO_METADATA_,,CVE-2021-3156
