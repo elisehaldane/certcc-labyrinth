@@ -20,6 +20,7 @@ VU#09,0.50000000,https://github.com/0x3SC4L4T3/Babykernel-ctf-ret2usr,0x3SC4L4T3
 VU#09,0.50000000,https://github.com/momo1239/buffshark-shellcode-runner,momo1239/buffshark-shellcode-runner,430599967
 VU#09,0.50000000,https://github.com/x6t/vc-exploit,x6t/vc-exploit,419883426
 VU#09,0.50000000,https://github.com/vlourn/vc-exploit,vlourn/vc-exploit,418013307
+VU#09,0.33333333,https://github.com/mattia-didonato/S7-L3-Exploit-SQL,mattia-didonato/S7-L3-Exploit-SQL,887997079
 VU#09,0.33333333,https://github.com/yaseenibnakhtar/WESTWILD-2.0,yaseenibnakhtar/WESTWILD-2.0,868547490
 VU#09,0.33333333,https://github.com/hackervegas001/CVE-2024-26521,hackervegas001/CVE-2024-26521,758345985
 VU#09,0.33333333,https://github.com/alex-picoulet/s2.04ExploitationBaseDeDonnees,alex-picoulet/s2.04ExploitationBaseDeDonnees,754711475
@@ -337,7 +338,6 @@ VU#09,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,42
 VU#09,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
 VU#09,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#09,0.01265823,https://github.com/vital-information-resource-under-siege/PWN-Challenges,vital-information-resource-under-siege/PWN-Challenges,334582086
-VU#09,0.01250000,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_1,828658576
 VU#09,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#09,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#09,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
@@ -515,7 +515,7 @@ VU#09,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities
 VU#09,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
 VU#09,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#09,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
-VU#09,0.00223214,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#09,0.00223714,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
 VU#09,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
 VU#09,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#09,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
@@ -550,7 +550,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00033400,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00033344,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
