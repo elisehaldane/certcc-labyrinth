@@ -1,7 +1,7 @@
 
 # Summary for results/2024/11/13
     
-232 records found after deduplication
+233 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -28,11 +28,11 @@
 | JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | Git Scraping project for CISA Known Exploited Vulnerability Catalog | https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG | ['exploit'] | 1 | 2024-11-13 15:30:12+00:00 | 886 | 4 | | 2 | [] |
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-11-13 18:10:59+00:00 | 11631 | 32 | HTML | 4 | [] |
 | rcelyte/BeatUpRcelyte | A lightweight modded Beat Saber multiplayer server | https://github.com/rcelyte/BeatUpRcelyte | ['rce'] | 1 | 2024-11-13 00:19:12+00:00 | 1981 | 17 | C | 5 | [] |
-| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-11-13 14:28:55+00:00 | 431779 | 6574 | HTML | 836 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-11-13 22:24:49+00:00 | 430842 | 6574 | HTML | 836 | [] |
 | StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-11-13 00:13:55+00:00 | 11052 | 0 | | 1 | [] |
 | GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-11-13 01:03:43+00:00 | 1265 | 663 | Shell | 120 | [] |
 | SocolSRT/cloudflare-rules | Rules of Cloudflare Firewall for Block Bad Bot and Exploiting | https://github.com/SocolSRT/cloudflare-rules | ['exploit'] | 1 | 2024-11-13 07:59:06+00:00 | 59 | 133 | | 19 | [] |
-| Ostorlab/KEV | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | ['0day', 'exploit'] | 2 | 2024-11-13 02:28:12+00:00 | 1852 | 538 | nan | 34 | [] |
+| Ostorlab/KEV | Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs. | https://github.com/Ostorlab/KEV | ['0day', 'exploit'] | 2 | 2024-11-13 02:28:12+00:00 | 1852 | 538 | | 34 | [] |
 | Threekiii/Vulnerability-Wiki | 基于 docsify 快速部署 Awesome-POC 中的漏洞文档 | https://github.com/Threekiii/Vulnerability-Wiki | ['cve poc', 'vuln poc', 'vulnerability poc'] | 3 | 2024-11-13 02:48:39+00:00 | 1791206 | 1641 | HTML | 331 | [] |
 | sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-11-13 04:32:34+00:00 | 240239 | 276 | Go | 59 | [] |
 | r0oth3x49/ghauri | An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws | https://github.com/r0oth3x49/ghauri | ['exploit'] | 1 | 2024-11-13 11:12:43+00:00 | 364 | 3108 | Python | 309 | [] |
@@ -66,6 +66,7 @@
 | cultureelerfgoed/rce_kennisdag | Voorbeeld collectie datasets om te gebruiken tijdens de workshop Digitaal Erfgoed tijdens de RCE Kennisdag Collecties en Connecties | https://github.com/cultureelerfgoed/rce_kennisdag | ['rce'] | 1 | 2024-11-13 19:33:12+00:00 | 1219 | 0 | | 0 | [] |
 | 0xMarcio/cve | Latest CVEs with their Proof of Concept exploits. | https://github.com/0xMarcio/cve | ['exploit'] | 1 | 2024-11-13 00:48:02+00:00 | 167503 | 11 | Python | 2 | [] |
 | friendlyanon/shellcodeish | Gaining access to ntdll and kernel32 functions by navigating TEB, PEB and others on x86 and amd64 Windows | https://github.com/friendlyanon/shellcodeish | ['shellcode'] | 1 | 2024-11-13 15:17:53+00:00 | 38 | 1 | Assembly | 1 | [] |
+| synacktiv/octoscan | Octoscan is a static vulnerability scanner for GitHub action workflows. | https://github.com/synacktiv/octoscan | ['exploit'] | 1 | 2024-11-13 22:45:48+00:00 | 399 | 167 | Go | 11 | [] |
 | dayzerosec/zerodayfans | Source for the 0dayfans.com feed and site generator based on a Commafeed backend | https://github.com/dayzerosec/zerodayfans | ['zeroday'] | 1 | 2024-11-13 19:42:59+00:00 | 162 | 0 | Go | 0 | [] |
 | piergo98/OCSLC | This Python class addresses Switched Linear Systems optimization exploiting matrix exponential computation and optimizing over controls and switching instants at the same time. | https://github.com/piergo98/OCSLC | ['exploit'] | 1 | 2024-11-13 22:11:05+00:00 | 202 | 1 | Python | 0 | [] |
 | Cpixiee/Binary-Exploitaion | None | https://github.com/Cpixiee/Binary-Exploitaion | ['exploit'] | 1 | 2024-11-13 01:23:26+00:00 | 56 | 0 | Python | 0 | [] |
@@ -218,7 +219,7 @@
 | mukliodx/delta-executor | Delta Executor – Powerful Roblox Exploit Tool | https://github.com/mukliodx/delta-executor | ['exploit'] | 1 | 2024-11-13 10:34:22+00:00 | 1 | 0 | | 0 | [] |
 | CryptoSecEd/blind_rce_exfil | Perform a Blind RCE Exfiltration by converting the output to binary | https://github.com/CryptoSecEd/blind_rce_exfil | ['rce'] | 1 | 2024-11-13 12:15:38+00:00 | 3 | 0 | Python | 0 | [] |
 | Liam-Nothing/ExploitMe-Chat | None | https://github.com/Liam-Nothing/ExploitMe-Chat | ['exploit'] | 1 | 2024-11-13 13:32:12+00:00 | 46 | 0 | PHP | 0 | [] |
-| Makavael/PhoneSploit-Pro | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/Makavael/PhoneSploit-Pro | ['exploit', 'metasploit module OR payload', 'sploit'] | 3 | 2024-11-13 14:36:29+00:00 | 429 | 2 | Python | 0 | [] |
+| Makavael/PhoneSploit-Pro | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. | https://github.com/Makavael/PhoneSploit-Pro | ['exploit', 'metasploit module OR payload', 'sploit'] | 3 | 2024-11-13 14:36:29+00:00 | 429 | 1 | Python | 0 | [] |
 | patfire94/CVE-2024-8963 | Ivanti Cloud Services Appliance - Path Traversal | https://github.com/patfire94/CVE-2024-8963 | ['cve-2 OR cve_2'] | 1 | 2024-11-13 20:10:03+00:00 | 6 | 0 | Python | 0 | ['CVE-2024-8963'] |
 | baguswijaksono/Clea | bot for cybersecurity offensive operations. Built to streamline penetration testing, vulnerability discovery, and exploitation processes | https://github.com/baguswijaksono/Clea | ['exploit'] | 1 | 2024-11-13 14:19:44+00:00 | 0 | 0 | | 0 | [] |
 | zyr1on/WebMin-1.890-Unauthenticated-RCE | None | https://github.com/zyr1on/WebMin-1.890-Unauthenticated-RCE | ['rce'] | 1 | 2024-11-13 16:06:15+00:00 | 29 | 0 | Python | 0 | [] |
