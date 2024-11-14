@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+888565114,elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653,README.md,ca16af3dbccbda26b6e5929fab0cb1c58a105a81,CVE-2003-1567
+888565114,elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653,README.md,ca16af3dbccbda26b6e5929fab0cb1c58a105a81,CVE-2019-1653
+888565114,elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653,_GITHUB_REPO_METADATA_,,CVE-2019-1653
