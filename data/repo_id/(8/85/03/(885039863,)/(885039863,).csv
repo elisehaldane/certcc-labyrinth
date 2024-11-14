@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+885039863,watchtowrlabs/Fortijump-Exploit-CVE-2024-47575,CVE-2024-47575.py,d2024237ae87fda0a8a73c1dfc66c24e21cbfd87,CVE-2024-47575
+885039863,watchtowrlabs/Fortijump-Exploit-CVE-2024-47575,README.md,f3caf85b7758c71f3f592ecc4442c5d8f157655d,CVE-2024-23113
+885039863,watchtowrlabs/Fortijump-Exploit-CVE-2024-47575,README.md,f3caf85b7758c71f3f592ecc4442c5d8f157655d,CVE-2024-47575
+885039863,watchtowrlabs/Fortijump-Exploit-CVE-2024-47575,_GITHUB_REPO_METADATA_,,CVE-2024-47575
