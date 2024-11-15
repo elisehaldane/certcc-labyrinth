@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2019-19299,0.33333333,https://github.com/zxc7528064/1-Day-RCE-Scripts,zxc7528064/1-Day-RCE-Scripts,672529879
 CNVD-2019-19299,0.02272727,https://github.com/yhy0/Jie,yhy0/Jie,594922017
-CNVD-2019-19299,0.01470588,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
+CNVD-2019-19299,0.01449275,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 CNVD-2019-19299,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2019-19299,0.00909091,https://github.com/youki992/VscanPlus,youki992/VscanPlus,763934320
 CNVD-2019-19299,0.00800000,https://github.com/yqcs/prismx,yqcs/prismx,735493683
