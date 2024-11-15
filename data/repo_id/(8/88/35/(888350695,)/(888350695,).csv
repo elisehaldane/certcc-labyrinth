@@ -2,7 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 888350695,cxxsheng/CVE-2022-20474,app/build.gradle,09cfb4609b19bc77a7468078027dcf1e960b78c8,CVE-2022-20474
 888350695,cxxsheng/CVE-2022-20474,.idea/.name,5eb3a495c09304b06958535f9c7f4a69db81afaf,CVE-2022-20474
 888350695,cxxsheng/CVE-2022-20474,settings.gradle,6d075348c320c94235a717d0a7baadfc4197e603,CVE-2022-20474
-888350695,cxxsheng/CVE-2022-20474,README.md,d219617116d58323120e22a461569e4a9f208ce9,CVE-2022-20474
+888350695,cxxsheng/CVE-2022-20474,README.md,a7e858e942925d35675683e8e01351bf93a28cab,CVE-2022-20474
 888350695,cxxsheng/CVE-2022-20474,app/src/main/java/com/cxxsheng/cve_2022_20474/MainActivity.java,df3e7528053b8af8b3fd93baebdb00e21dbb620d,CVE-2022-20474
 888350695,cxxsheng/CVE-2022-20474,app/src/test/java/com/cxxsheng/cve_2022_20474/ExampleUnitTest.java,e94aa6930fdbd59b30e606e91a5ebc6032c1c418,CVE-2022-20474
 888350695,cxxsheng/CVE-2022-20474,app/src/main/res/values/strings.xml,ea6ba3d796a6b3e942148c13aa6f2ba9c33524fe,CVE-2022-20474
