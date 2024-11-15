@@ -270,7 +270,6 @@ VU#29,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/R
 VU#29,0.04347826,https://github.com/dlsaavedra/rcens,dlsaavedra/rcens,730905381
 VU#29,0.04347826,https://github.com/Ha-L0/Ha-L0.github.io,Ha-L0/Ha-L0.github.io,556854694
 VU#29,0.04347826,https://github.com/purple-WL/vulnerability-poc,purple-WL/vulnerability-poc,538845179
-VU#29,0.04166667,https://github.com/safeer-accuknox/BLOG-POC,safeer-accuknox/BLOG-POC,886447560
 VU#29,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
 VU#29,0.04166667,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#29,0.04000000,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871358549
@@ -290,6 +289,7 @@ VU#29,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanm
 VU#29,0.04000000,https://github.com/saeedizade/Roblox-Wave-Executor,saeedizade/Roblox-Wave-Executor,368851259
 VU#29,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
 VU#29,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
+VU#29,0.03846154,https://github.com/safeer-accuknox/BLOG-POC,safeer-accuknox/BLOG-POC,886447560
 VU#29,0.03846154,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote-Code-Execution,871090461
 VU#29,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled,cyber-defence-campus/netgear_r6700v3_circled,648047567
 VU#29,0.03846154,https://github.com/floppy-sh/Floppy_Ressources,floppy-sh/Floppy_Ressources,601576439
@@ -749,7 +749,7 @@ VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#29,0.00077160,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00077042,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -760,7 +760,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00033245,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00033212,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -802,7 +802,7 @@ VU#29,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#29,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#29,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#29,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00018629,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018619,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#29,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
