@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+889176771,MGamalCYSEC/ExploitFix-Windows,Privilege Escalation Exploits/MS10-59/Readme.md,00dcdddd07c15437cb7f2bedfaed97e94318a9cc,CVE-2010-2568
+889176771,MGamalCYSEC/ExploitFix-Windows,Privilege Escalation Exploits/MS10-59/Readme.md,00dcdddd07c15437cb7f2bedfaed97e94318a9cc,MS10-059
+889176771,MGamalCYSEC/ExploitFix-Windows,RCE Exploits/MS08-067/README.md,028203aef1ca664b041d15ae7f41f2236716b989,CVE-2008-4250
+889176771,MGamalCYSEC/ExploitFix-Windows,RCE Exploits/MS08-067/README.md,028203aef1ca664b041d15ae7f41f2236716b989,MS08-067
+889176771,MGamalCYSEC/ExploitFix-Windows,RCE Exploits/MS08-067/ms08_067_exploit.py,67cf920dd4cc3c2ef0ed43a27218b9da30c960f5,MS08-067
+889176771,MGamalCYSEC/ExploitFix-Windows,Privilege Escalation Exploits/MS10-59/Chimichurri.rar,78cd14b1bf8c93859d321bdf1e1498a16488706b,MS10-059
+889176771,MGamalCYSEC/ExploitFix-Windows,RCE Exploits/MS08-067/walkthrough.md,90aa8d3cc8097fb34de0f451505b802641b0abf4,MS08-067
+889176771,MGamalCYSEC/ExploitFix-Windows,Privilege Escalation Exploits/MS10-59/walkthrough.md,cc2ae72183b11ac25f890eb1f25176fa8a8a3ff7,MS10-059
