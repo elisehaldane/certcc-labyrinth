@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/ScreenConnect-AuthBypass-RCE.py,48a6cf5a2c738cc387c8f14c2721a33368f932e4,CVE-2024-1708
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/ScreenConnect-AuthBypass-RCE.py,48a6cf5a2c738cc387c8f14c2721a33368f932e4,CVE-2024-1709
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/batchAdduser.py,7663bb78bd7f35b11d5b2941299ce63f41f95391,CVE-2024-1709
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Authenticated Command Injection CVE-2024-9464/CVE-2024-9464.py,77b71013415b5d49393558554e7bf73f7e2878cb,CVE-2024-9464
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Authenticated Command Injection CVE-2024-9464/README.md,a3713ae072d288bf671ea6e9df3cedfd0f599dae,CVE-2024-9464
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/README.md,a903789c2718203cd9cf0dbe10f69f966f52a080,CVE-2024-1708
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/README.md,a903789c2718203cd9cf0dbe10f69f966f52a080,CVE-2024-1709
+889370174,JoshuaOrtizR/Proof-Of-Concepts,Remote Code Execution CVE-2024-1709/check.py,f744d17d43b0870c364c552c04742203fbc4c31d,CVE-2024-1709
