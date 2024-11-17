@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/DNS.ps1,07127e812d50bba35154f7b05d03cdf4354780db,CVE-2020-1350
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/DNS.ps1,07127e812d50bba35154f7b05d03cdf4354780db,CVE-2020-25705
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/Firewall.ps1,71a93ca04dda0cb2b871aadbde58b934d684326b,CVE-2024-38063
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/Active Directory.ps1,aee1758843cc5e7b2b2998af416d5a6c1aa09c33,CVE-2020-1472
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/Active Directory.ps1,aee1758843cc5e7b2b2998af416d5a6c1aa09c33,CVE-2021-42278
+856711654,Dudcom/Light-Weight-WMI-C2,pushsys/scripts/win-main/win-main/modules/Active Directory.ps1,aee1758843cc5e7b2b2998af416d5a6c1aa09c33,CVE-2021-42287
