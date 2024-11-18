@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+872913014,0xjiefeng/SspiUacBypass-BOF,SspiUacBypass/SspiUacBypass.vcxproj,5e34ae4e193606e2908a4a3c936157d84939a34a,CVE-2024-35250
