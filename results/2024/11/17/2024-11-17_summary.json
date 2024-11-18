@@ -18603,13 +18603,14 @@
     "owner_user_view_type":"public",
     "owner_site_admin":false,
     "matched_list":[
+      "cve poc",
       "cve-2 OR cve_2",
       "exploit",
       "rce",
       "rce poc",
       "vulnerability poc"
     ],
-    "matched_count":5,
+    "matched_count":6,
     "vul_ids":[
       "CVE-2024-9264"
     ]
@@ -22323,7 +22324,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2024-11-17T06:03:28Z",
+    "matched_at":"2024-11-17T06:02:27Z",
     "custom_properties":{
 
     },
@@ -22828,7 +22829,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2024-11-17T06:02:21Z",
+    "matched_at":"2024-11-17T06:03:24Z",
     "custom_properties":{
 
     },
@@ -23111,7 +23112,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2024-11-17T06:03:27Z",
+    "matched_at":"2024-11-17T06:01:40Z",
     "custom_properties":{
 
     },
@@ -23212,14 +23213,14 @@
     "releases_url":"https:\/\/api.github.com\/repos\/Part-s\/WinRAR-Exploit-Builder\/releases{\/id}",
     "deployments_url":"https:\/\/api.github.com\/repos\/Part-s\/WinRAR-Exploit-Builder\/deployments",
     "created_at":"2024-11-16T09:40:32Z",
-    "updated_at":"2024-11-17T04:55:26Z",
-    "pushed_at":"2024-11-17T04:55:22Z",
+    "updated_at":"2024-11-17T05:57:58Z",
+    "pushed_at":"2024-11-17T05:57:55Z",
     "git_url":"git:\/\/github.com\/Part-s\/WinRAR-Exploit-Builder.git",
     "ssh_url":"git@github.com:Part-s\/WinRAR-Exploit-Builder.git",
     "clone_url":"https:\/\/github.com\/Part-s\/WinRAR-Exploit-Builder.git",
     "svn_url":"https:\/\/github.com\/Part-s\/WinRAR-Exploit-Builder",
     "homepage":"",
-    "size":28,
+    "size":29,
     "stargazers_count":0,
     "watchers_count":0,
     "language":"C#",
@@ -23281,7 +23282,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":0,
-    "matched_at":"2024-11-17T05:17:27Z",
+    "matched_at":"2024-11-17T06:03:25Z",
     "custom_properties":{
 
     },
@@ -23800,7 +23801,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-11-18T05:22:51Z",
+    "matched_at":"2024-11-18T17:24:38Z",
     "custom_properties":null,
     "organization":null,
     "template_repository":null,
@@ -23824,9 +23825,10 @@
     "owner_user_view_type":"public",
     "owner_site_admin":false,
     "matched_list":[
+      "cve poc",
       "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2024-38063"
     ]
@@ -26861,7 +26863,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-11-18T06:03:45Z",
+    "matched_at":"2024-11-18T05:22:49Z",
     "custom_properties":null,
     "organization":null,
     "template_repository":null,
@@ -26885,10 +26887,11 @@
     "owner_user_view_type":"public",
     "owner_site_admin":false,
     "matched_list":[
+      "cve poc",
       "cve-2 OR cve_2",
       "exploit"
     ],
-    "matched_count":2,
+    "matched_count":3,
     "vul_ids":[
       "CVE-2024-10793"
     ]
@@ -27513,7 +27516,7 @@
     "temp_clone_token":"",
     "network_count":0,
     "subscribers_count":1,
-    "matched_at":"2024-11-18T05:22:51Z",
+    "matched_at":"2024-11-18T17:24:37Z",
     "custom_properties":null,
     "organization":null,
     "template_repository":null,
@@ -27537,9 +27540,10 @@
     "owner_user_view_type":"public",
     "owner_site_admin":false,
     "matched_list":[
+      "cve poc",
       "cve-2 OR cve_2"
     ],
-    "matched_count":1,
+    "matched_count":2,
     "vul_ids":[
       "CVE-2024-27821"
     ]
