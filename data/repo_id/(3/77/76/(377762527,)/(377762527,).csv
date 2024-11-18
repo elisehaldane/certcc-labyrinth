@@ -389,7 +389,7 @@ repo_id,repo_full_name,file,file_sha1,match
 377762527,KiritoLoveAsuna/Exploits,CVE-2022-0824/Webmin-revshell.py,c2c29af3b3a9121d9f249ad3f84c786c828584b9,CVE-2022-0824
 377762527,KiritoLoveAsuna/Exploits,CVE-2014-10069/hitron-cfg-decrypter-master.zip,c309aa9c16b85ea54de61649b0fb8e1cbea20241,CVE-2014-10069
 377762527,KiritoLoveAsuna/Exploits,CVE-2018-6479/dos_poc.py,c354039887b427601021ddafd9d469b1e47dc12f,CVE-2018-6479
-377762527,KiritoLoveAsuna/Exploits,CVE-2020-28653/gadget-2016.bin,c4281d9235799469dfdedbb923a7f6d3ea4808bb,CVE-2020-28653
+377762527,KiritoLoveAsuna/Exploits,CVE-2020-28653/gadget-2018.bin,c4281d9235799469dfdedbb923a7f6d3ea4808bb,CVE-2020-28653
 377762527,KiritoLoveAsuna/Exploits,CVE-2021-3449/cve-2021-3449-main/demo/openssl.Dockerfile,c4355d086edecdbbdbde949285ea42ccbb7a351c,CVE-2021-3449
 377762527,KiritoLoveAsuna/Exploits,CVE-2021-3449/cve-2021-3449-main/tls/ticket.go,c5008e703cf1dd6c384051eb2b58a58cb4d289c0,CVE-2021-3449
 377762527,KiritoLoveAsuna/Exploits,CVE-2022-22947_springcloudgateway_rce/CVE-2022-22947.py,c53cd8b59ef92e4151905ef068c2260afc58f733,CVE-2022-22947
