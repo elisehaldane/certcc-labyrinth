@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#84,1.00000000,https://github.com/exploitationandci/exploitationandci.github.io,exploitationandci/exploitationandci.github.io,889633779
 VU#84,1.00000000,https://github.com/jo-muuuuuu/Bushfire-Research-Using-CNNs,jo-muuuuuu/Bushfire-Research-Using-CNNs,769802218
 VU#84,1.00000000,https://github.com/reztdev/pyRAT,reztdev/pyRAT,225530760
 VU#84,0.50000000,https://github.com/nottkriksis/Vox-Exploit,nottkriksis/Vox-Exploit,599679741
@@ -12,6 +11,7 @@ VU#84,0.33333333,https://github.com/michail811/reinforcement_learning_cartpole,m
 VU#84,0.33333333,https://github.com/WilfriedMercier/ExploitGUI,WilfriedMercier/ExploitGUI,416756880
 VU#84,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
 VU#84,0.33333333,https://github.com/versionxcontrol/super-payload-launcher,versionxcontrol/super-payload-launcher,343623390
+VU#84,0.25000000,https://github.com/exploitationandci/exploitationandci.github.io,exploitationandci/exploitationandci.github.io,889633779
 VU#84,0.25000000,https://github.com/MKONE19/Carte_Exploitation-KONE,MKONE19/Carte_Exploitation-KONE,818374991
 VU#84,0.25000000,https://github.com/oz9un/log-slapper,oz9un/log-slapper,781706929
 VU#84,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
@@ -446,7 +446,7 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00032960,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00032895,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#84,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

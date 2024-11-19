@@ -43,6 +43,7 @@ MS16-034,0.00353357,https://github.com/asr511/windows-kernel-exploits,asr511/win
 MS16-034,0.00353357,https://github.com/mishmashclone/SecWiki-windows-kernel-exploits,mishmashclone/SecWiki-windows-kernel-exploits,225470403
 MS16-034,0.00353357,https://github.com/SecWiki/windows-kernel-exploits,SecWiki/windows-kernel-exploits,89315980
 MS16-034,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
+MS16-034,0.00300300,https://github.com/ycdxsb/WindowsPrivilegeEscalation,ycdxsb/WindowsPrivilegeEscalation,360380764
 MS16-034,0.00280899,https://github.com/wukong-bin/PeiQi-0day,wukong-bin/PeiQi-0day,465142654
 MS16-034,0.00274725,https://github.com/chenxianshen789/0day,chenxianshen789/0day,808071258
 MS16-034,0.00274725,https://github.com/GGStudy-DDUp/0day,GGStudy-DDUp/0day,541448279
@@ -55,7 +56,7 @@ MS16-034,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iamp
 MS16-034,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 MS16-034,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 MS16-034,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
-MS16-034,0.00032960,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS16-034,0.00032895,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS16-034,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS16-034,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
 MS16-034,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
