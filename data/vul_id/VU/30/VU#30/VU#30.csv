@@ -72,12 +72,12 @@ VU#30,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwer
 VU#30,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#30,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#30,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
+VU#30,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#30,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#30,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#30,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#30,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
 VU#30,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
-VU#30,0.04545455,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#30,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#30,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#30,0.04545455,https://github.com/Jinmo/ctfs,Jinmo/ctfs,68125231
@@ -126,7 +126,6 @@ VU#30,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poke
 VU#30,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
 VU#30,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
 VU#30,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
-VU#30,0.02702703,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#30,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#30,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#30,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
@@ -134,6 +133,7 @@ VU#30,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#30,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#30,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#30,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
+VU#30,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#30,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#30,0.02439024,https://github.com/skeenbean/BinaryWorkshop,skeenbean/BinaryWorkshop,822781650
 VU#30,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404

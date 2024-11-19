@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#33,1.00000000,https://github.com/FiveM-Exec-Bypass/FiveM-Exec-Bypass,FiveM-Exec-Bypass/FiveM-Exec-Bypass,565287415
 VU#33,1.00000000,https://github.com/THE0FFICIALP0WER/P0WER-Sploit-,THE0FFICIALP0WER/P0WER-Sploit-,520928373
 VU#33,1.00000000,https://github.com/CodeBoy1877/AlfaCgi-1877,CodeBoy1877/AlfaCgi-1877,476880049
+VU#33,0.50000000,https://github.com/Moaz-Awad/PENTESTING-REPORT-FOR-HTB-LANTERN-MACHINE,Moaz-Awad/PENTESTING-REPORT-FOR-HTB-LANTERN-MACHINE,890538489
 VU#33,0.50000000,https://github.com/ludovic-estival/projetIUT-exploit-bd,ludovic-estival/projetIUT-exploit-bd,553417044
 VU#33,0.50000000,https://github.com/Neurotiv/Maki,Neurotiv/Maki,542653163
 VU#33,0.50000000,https://github.com/shinoTM/Saturne-Exploit,shinoTM/Saturne-Exploit,521627336
@@ -192,7 +193,6 @@ VU#33,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#33,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
 VU#33,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#33,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
-VU#33,0.02702703,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#33,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#33,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#33,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
@@ -202,6 +202,7 @@ VU#33,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika
 VU#33,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#33,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
 VU#33,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
+VU#33,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#33,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#33,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#33,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134

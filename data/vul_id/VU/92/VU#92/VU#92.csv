@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#92,1.00000000,https://github.com/NeM0x00/BadGPT,NeM0x00/BadGPT,871650334
 VU#92,1.00000000,https://github.com/Samangelde/Exploiting-a-Vulnerable-Web-App,Samangelde/Exploiting-a-Vulnerable-Web-App,866125865
 VU#92,1.00000000,https://github.com/ninhpn1337/go-exploit-mssql,ninhpn1337/go-exploit-mssql,828141630
 VU#92,1.00000000,https://github.com/gubinmv/RCED-isolate-voiceA,gubinmv/RCED-isolate-voiceA,729235170
@@ -12,6 +11,7 @@ VU#92,1.00000000,https://github.com/nshalabi/RunShell64,nshalabi/RunShell64,2423
 VU#92,1.00000000,https://github.com/basti564/MNSPlusTrasher,basti564/MNSPlusTrasher,197252644
 VU#92,1.00000000,https://github.com/nccgroup/Winpayloads,nccgroup/Winpayloads,43946043
 VU#92,0.50000000,https://github.com/Gamer98822/T7-Exploit-Menu,Gamer98822/T7-Exploit-Menu,873896517
+VU#92,0.50000000,https://github.com/NeM0x00/BadGPT,NeM0x00/BadGPT,871650334
 VU#92,0.50000000,https://github.com/meeplabsdev/smarter-revise,meeplabsdev/smarter-revise,790922249
 VU#92,0.50000000,https://github.com/novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,669835102
 VU#92,0.50000000,https://github.com/privilegedll/nb0t,privilegedll/nb0t,655120714

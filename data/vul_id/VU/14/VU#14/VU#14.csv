@@ -90,9 +90,9 @@ VU#14,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/Mor
 VU#14,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#14,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#14,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
+VU#14,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#14,0.04761905,https://github.com/almehdiKrisni/Projet_RI,almehdiKrisni/Projet_RI,476310371
 VU#14,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
-VU#14,0.04545455,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#14,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#14,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
 VU#14,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
@@ -128,7 +128,6 @@ VU#14,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khaledna
 VU#14,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#14,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#14,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
-VU#14,0.02702703,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#14,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rceneumet.github.io,864542403
 VU#14,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#14,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
@@ -144,6 +143,7 @@ VU#14,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#14,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#14,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#14,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
+VU#14,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#14,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#14,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#14,0.02439024,https://github.com/ambarus/linux-0day,ambarus/linux-0day,169202663

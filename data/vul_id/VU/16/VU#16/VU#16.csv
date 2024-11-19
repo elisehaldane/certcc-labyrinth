@@ -51,6 +51,7 @@ VU#16,0.33333333,https://github.com/zoogie/unSAFE_MODE,zoogie/unSAFE_MODE,257893
 VU#16,0.33333333,https://github.com/TuxSH/universal-otherapp,TuxSH/universal-otherapp,257754324
 VU#16,0.33333333,https://github.com/zoogie/Bannerbomb3,zoogie/Bannerbomb3,198808647
 VU#16,0.33333333,https://github.com/wiiu-env/JsTypeHax_payload,wiiu-env/JsTypeHax_payload,165501509
+VU#16,0.25000000,https://github.com/Nephster/CVE-2024-38193,Nephster/CVE-2024-38193,890642037
 VU#16,0.25000000,https://github.com/bfengj/eBPFeXPLOIT,bfengj/eBPFeXPLOIT,739648663
 VU#16,0.25000000,https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4207,nidhi7598/linux-4.19.72_net_CVE-2023-4207,722409780
 VU#16,0.25000000,https://github.com/sh3d0ww01f/shellcodeloader,sh3d0ww01f/shellcodeloader,532798607
@@ -162,7 +163,6 @@ VU#16,0.02857143,https://github.com/MeowKu/InternalUI,MeowKu/InternalUI,75858664
 VU#16,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#16,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#16,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
-VU#16,0.02702703,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#16,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rceneumet.github.io,864542403
 VU#16,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#16,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
@@ -173,6 +173,7 @@ VU#16,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika
 VU#16,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#16,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#16,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
+VU#16,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#16,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#16,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#16,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
