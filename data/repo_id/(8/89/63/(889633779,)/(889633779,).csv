@@ -1,2 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 889633779,exploitationandci/exploitationandci.github.io,images/RoseBroad.webp,3d058cf1513776ce92c799ad81f8f2b93ae1cd30,VU#84
+889633779,exploitationandci/exploitationandci.github.io,favicon.svg,9c5e81a09246aad677acb882776b3ffa4da730ac,VU#01
+889633779,exploitationandci/exploitationandci.github.io,favicon.svg,9c5e81a09246aad677acb882776b3ffa4da730ac,VU#19
+889633779,exploitationandci/exploitationandci.github.io,favicon.svg,9c5e81a09246aad677acb882776b3ffa4da730ac,VU#699
