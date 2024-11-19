@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+890817341,watchtowrlabs/palo-alto-panos-cve-2024-0012,palo-alto-vpn-CVE-2024-0012-check-wt.yaml,207df1c1404c93ba4f10bf3dcb5d509cbc24a2a3,CVE-2024-0012
+890817341,watchtowrlabs/palo-alto-panos-cve-2024-0012,palo-alto-vpn-CVE-2024-0012-check-wt.yaml,207df1c1404c93ba4f10bf3dcb5d509cbc24a2a3,CVE-2024-9474
+890817341,watchtowrlabs/palo-alto-panos-cve-2024-0012,README.md,6fb15f44bb7d8acea49645dfecc8a73b8855869b,CVE-2024-0012
+890817341,watchtowrlabs/palo-alto-panos-cve-2024-0012,README.md,6fb15f44bb7d8acea49645dfecc8a73b8855869b,CVE-2024-9474
+890817341,watchtowrlabs/palo-alto-panos-cve-2024-0012,_GITHUB_REPO_METADATA_,,CVE-2024-0012
