@@ -4,7 +4,6 @@ repo_id,repo_full_name,file,file_sha1,match
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,0ccb07f8bb45e7c4018c7e9138e55eb5524bfaf2,CVE-2023-28432
 644013740,vulncheck-oss/go-exploit,docs/getting-started.md,0f3ffb2db862bb3bb8802d6823c12a945ddf5d2f,CVE-2024-1270
 644013740,vulncheck-oss/go-exploit,protocol/ajp/ajp.go,15f8541ac75a990037d68dd3f89d2530bd47593d,CVE-2020-1938
-644013740,vulncheck-oss/go-exploit,protocol/fortinet/fgfm.go,26a584be9811ee8c99766395a8940e31ad4f81ce,CVE-2024-47575
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2024-37084
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2020-7961
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2023-22527
@@ -20,6 +19,7 @@ repo_id,repo_full_name,file,file_sha1,match
 644013740,vulncheck-oss/go-exploit,docs/db.md,4a34022c4b65e4cfd9df0ad7832d667574c67b47,CVE-2024-31982
 644013740,vulncheck-oss/go-exploit,db/create.go,4e62bf349cf20563a319c55b74fc516dfecd55d5,CVE-2024-31983
 644013740,vulncheck-oss/go-exploit,db/create.go,4e62bf349cf20563a319c55b74fc516dfecd55d5,CVE-2024-31982
+644013740,vulncheck-oss/go-exploit,protocol/fortinet/fgfm.go,51bac3d93879a0958a18b6b40a4b5b4f157aaade,CVE-2024-47575
 644013740,vulncheck-oss/go-exploit,c2/shelltunnel/shelltunnel.go,61316d17303d9777d4990dd129110ad6be523c84,CVE-2023-46604
 644013740,vulncheck-oss/go-exploit,config/config_test.go,626d3a8d5c2c5825a3692d8306b05d3405191c59,CVE-2024-45507
 644013740,vulncheck-oss/go-exploit,cli/commandline_test.go,6fee174162bf25c4cec279981a5176e89e4c1d07,CVE-2023-1270
