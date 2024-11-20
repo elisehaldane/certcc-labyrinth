@@ -1,3 +1,15 @@
 repo_id,repo_full_name,file,file_sha1,match
+889344276,Nathan-B-97/Pentest-_TryHackMe,Breaching-Active-Directory/7 - Configuration Files.pdf,19500e6c7537de8c0cb12ad612d2bb0dc2234a9f,VU#99
+889344276,Nathan-B-97/Pentest-_TryHackMe,Active-Directory-Basics/01 - Windows Domains.pdf,21278d48815acff1c6b01cddfbeadb433bbd7b97,VU#555
+889344276,Nathan-B-97/Pentest-_TryHackMe,Active-Directory-Basics/01 - Windows Domains.pdf,21278d48815acff1c6b01cddfbeadb433bbd7b97,VU#766
+889344276,Nathan-B-97/Pentest-_TryHackMe,Breaching-Active-Directory/000-All-Combined.pdf,24ff46a52286d305d1dd767434172dfb90e8b357,VU#99
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/0 - 0 - 0-All-Combined.pdf,3ac8438585e119f43a2d75886c571798d460766a,VU#18
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/0 - 0 - 0-All-Combined.pdf,3ac8438585e119f43a2d75886c571798d460766a,VU#286
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/0 - 0 - 0-All-Combined.pdf,3ac8438585e119f43a2d75886c571798d460766a,VU#75
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/5 - Cron Jobs.pdf,453315d4c27986b682c6fd734a907d5a7e13f4d7,VU#18
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/3 - SUID.pdf,728ffe5fbdf55ff7777cec2cb842d45e481b1ccf,VU#75
+889344276,Nathan-B-97/Pentest-_TryHackMe,Linux_Privilege_Escalation/6 - PATH.pdf,76509454afb1b91c10b94d1f012579e3c3243140,VU#286
 889344276,Nathan-B-97/Pentest-_TryHackMe,Into-To-Pentesting-Tools-And-Network-Concepts/1 (6).pdf,c8df39696971890ce78738f555a600d46927abcf,VU#91
+889344276,Nathan-B-97/Pentest-_TryHackMe,Active-Directory-Basics/000-All-Combined.pdf,ce24caf377fb0ea3e9a4a42aa69787277420cff7,VU#555
+889344276,Nathan-B-97/Pentest-_TryHackMe,Active-Directory-Basics/000-All-Combined.pdf,ce24caf377fb0ea3e9a4a42aa69787277420cff7,VU#766
 889344276,Nathan-B-97/Pentest-_TryHackMe,Into-To-Pentesting-Tools-And-Network-Concepts/000-All-Combined.pdf,f84f38bd730478b9886d18f373412a56358cd0e5,VU#91
