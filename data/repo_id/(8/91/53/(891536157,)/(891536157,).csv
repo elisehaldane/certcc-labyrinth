@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+891536157,HFTHaidra/HFTTriangularArbitrage,Slow.cs,0ee714d60e085ec0e9a96d8bafe2b5d7f691cfb9,BID-3
+891536157,HFTHaidra/HFTTriangularArbitrage,BinanceFuture.cs,810f9af0ecee2f37903c51da22b876e75db56ad0,BID-3
+891536157,HFTHaidra/HFTTriangularArbitrage,GateFuture.cs,9cafd761d1a992ef8d887a6bb41bcb523dbaef43,BID-3
+891536157,HFTHaidra/HFTTriangularArbitrage,BanaceSpot.cs,c8f767317117eb0f959e704101f311fc2f9f077c,BID-3
