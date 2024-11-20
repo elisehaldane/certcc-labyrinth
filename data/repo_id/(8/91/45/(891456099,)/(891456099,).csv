@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+891456099,tesaguri/activitypub-type-confusion-poc,README.md,aa4405b49ae432ec1320909a635078a0265d85c5,CVE-2024-25623
+891456099,tesaguri/activitypub-type-confusion-poc,README.md,aa4405b49ae432ec1320909a635078a0265d85c5,CVE-2024-25636
+891456099,tesaguri/activitypub-type-confusion-poc,README.md,aa4405b49ae432ec1320909a635078a0265d85c5,GHSA-JHRQ-QVRM-QR36
+891456099,tesaguri/activitypub-type-confusion-poc,README.md,aa4405b49ae432ec1320909a635078a0265d85c5,GHSA-QQRM-9GRJ-6V32

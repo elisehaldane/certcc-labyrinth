@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+891623429,Diegomjx/Hack-the-box-Writeups,easy/ChemistryHTB/README.md,9029c93539a0f611ec62f3c57e234eb4236f4285,CVE-2024-23334
+891623429,Diegomjx/Hack-the-box-Writeups,easy/ChemistryHTB/README.md,9029c93539a0f611ec62f3c57e234eb4236f4285,GHSA-VGV8-5CPJ-QJ2F
