@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+891608864,hazesecurity/CVE-2024-0012,README.md,ea99145cebef3b40be4522b3e62a8e1e39c2ddb0,CVE-2024-0012
+891608864,hazesecurity/CVE-2024-0012,README.md,ea99145cebef3b40be4522b3e62a8e1e39c2ddb0,CVE-2024-9474
+891608864,hazesecurity/CVE-2024-0012,_GITHUB_REPO_METADATA_,,CVE-2024-0012
