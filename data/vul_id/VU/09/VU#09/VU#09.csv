@@ -241,6 +241,7 @@ VU#09,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#09,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#09,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#09,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
+VU#09,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#09,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#09,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
 VU#09,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
@@ -254,7 +255,6 @@ VU#09,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgen
 VU#09,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#09,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#09,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
-VU#09,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#09,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#09,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#09,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
@@ -551,7 +551,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00032895,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00032884,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -592,7 +592,7 @@ VU#09,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#09,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#09,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#09,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#09,0.00018619,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#09,0.00018615,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#09,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#09,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#09,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

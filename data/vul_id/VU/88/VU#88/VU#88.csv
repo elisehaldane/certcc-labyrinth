@@ -169,6 +169,7 @@ VU#88,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/
 VU#88,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#88,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#88,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
+VU#88,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#88,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
 VU#88,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#88,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
@@ -179,6 +180,7 @@ VU#88,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830
 VU#88,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#88,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
 VU#88,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
+VU#88,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#88,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#88,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#88,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
@@ -196,7 +198,6 @@ VU#88,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarah
 VU#88,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#88,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#88,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
-VU#88,0.02500000,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#88,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
 VU#88,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#88,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -583,7 +584,7 @@ VU#88,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#88,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#88,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#88,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#88,0.00018619,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00018615,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#88,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

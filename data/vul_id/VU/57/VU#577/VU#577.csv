@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#577,1.00000000,https://github.com/hackersploitxxsploitation/Exploit-material,hackersploitxxsploitation/Exploit-material,722747406
 VU#577,1.00000000,https://github.com/cristhianmt/tryhackme,cristhianmt/tryhackme,492590631
 VU#577,1.00000000,https://github.com/aW3ikun/Modern_Windows_Exploit_Development,aW3ikun/Modern_Windows_Exploit_Development,438576357
+VU#577,0.50000000,https://github.com/J-0k3r/CVE-2024-52677,J-0k3r/CVE-2024-52677,880850474
 VU#577,0.25000000,https://github.com/aparish0328/VulnBoxNotes,aparish0328/VulnBoxNotes,833967080
 VU#577,0.25000000,https://github.com/gikabyte27/Pentest,gikabyte27/Pentest,300961124
 VU#577,0.20000000,https://github.com/Forrest1106/Exploitation-of-Vulnerabilities-,Forrest1106/Exploitation-of-Vulnerabilities-,879370599

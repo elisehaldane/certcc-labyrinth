@@ -101,6 +101,7 @@ VU#12,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.gi
 VU#12,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#12,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#12,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
+VU#12,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#12,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#12,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
 VU#12,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
@@ -463,10 +464,10 @@ VU#12,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#12,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#12,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#12,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#12,0.00258398,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#12,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#12,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
+VU#12,0.00246305,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#12,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#12,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
@@ -544,7 +545,7 @@ VU#12,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#12,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#12,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#12,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#12,0.00018619,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00018615,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#12,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
