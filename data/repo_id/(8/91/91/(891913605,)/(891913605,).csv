@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+891913605,vah13/Firefox-CVE,CVE-2024-9936/Readme.md,7f8b048ae6b2126184cd164badef5c7a0e6352d2,CVE-2024-9936
+891913605,vah13/Firefox-CVE,CVE-2024-9936/poc.html,bc4204fe75c229dbb40441c36c52da5b44fd197e,CVE-2024-9936
