@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+891831346,laysakura/RestrictedPython-CVE-PoC,example/cve_2023_41039.py,1ad798358ec96ad927ced0c3d18e1b91928216ae,CVE-2023-41039
+891831346,laysakura/RestrictedPython-CVE-PoC,example/cve_2023_37271.py,1cfc1bc12b3b900da2a8b820cc04eafbc77250d6,CVE-2023-37271
