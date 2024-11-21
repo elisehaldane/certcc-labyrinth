@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+869470523,Julian-gmz/hook_CVE-2024-32002,y/hooks/post-checkout,4b51470edd78e731fc651bba1630ae11c17ffc7d,CVE-2024-32002
 869470523,Julian-gmz/hook_CVE-2024-32002,_GITHUB_REPO_METADATA_,,CVE-2024-32002
