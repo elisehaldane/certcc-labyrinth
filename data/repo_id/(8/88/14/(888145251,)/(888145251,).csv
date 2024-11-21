@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#46
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#52
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#54
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#72
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#74
+888145251,rohilchaudhry/CVE-Session2-Group5,OpenImageIO/v2.3.19.0.tar.gz,6bc80525ca1562de63f7aa20540e5cd610f63916,VU#95
+888145251,rohilchaudhry/CVE-Session2-Group5,ZBAR/CVE-2023-40889.md,8cf9f27ac96a7f4e7b713b49f0504d109fa9b726,CVE-2023-40889
+888145251,rohilchaudhry/CVE-Session2-Group5,README.md,994d92fa5b30714367e1896d011f827844ed7981,CVE-2022-38143
+888145251,rohilchaudhry/CVE-Session2-Group5,README.md,994d92fa5b30714367e1896d011f827844ed7981,CVE-2023-40889
+888145251,rohilchaudhry/CVE-Session2-Group5,README.md,994d92fa5b30714367e1896d011f827844ed7981,CVE-2023-40890
+888145251,rohilchaudhry/CVE-Session2-Group5,NOTES,b6873f1fdb1cccd87a53c02360e14faf9d335d78,CVE-2023-40889
+888145251,rohilchaudhry/CVE-Session2-Group5,NOTES,b6873f1fdb1cccd87a53c02360e14faf9d335d78,CVE-2023-40890
