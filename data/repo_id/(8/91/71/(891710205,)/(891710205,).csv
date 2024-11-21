@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+891710205,cosminsaracil/node-sql-inj,node_modules/sqlite3/deps/sqlite-autoconf-3440200.tar.gz,8398dd159f3a1fd8f1c5edf02c687512eaab69e4,VU#78
+891710205,cosminsaracil/node-sql-inj,node_modules/express/History.md,ff965ba2a56167233ede848ec6eec0fbbea12f1c,CVE-2024-47764
