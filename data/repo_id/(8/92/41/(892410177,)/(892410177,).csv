@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,README.md,9d0f8fa18415b4ff10eeefd064cd1b5041dfc1a3,CVE-2024-36401
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,pom.xml,bb91572ea92975d3d42a3c24d364090b73b06852,CVE-2024-36401
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,src/main/java/me/gv7/woodpecker/plugin/VulPluginInfo.java,c083d2f4de20b572c65ad948d58661476b76d35d,CVE-2024-36401
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,src/main/java/me/gv7/woodpecker/plugin/pocs/Poc.java,c9bef4103d41b5dcab0bed25edf38d1851796757,CVE-2024-36401
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,src/main/java/me/gv7/woodpecker/plugin/exploits/Exploit.java,f92209f1f28c6c428f94dc0e82074dc63467741c,CVE-2024-36401
+892410177,thestar0/CVE-2024-36401-WoodpeckerPlugin,_GITHUB_REPO_METADATA_,,CVE-2024-36401

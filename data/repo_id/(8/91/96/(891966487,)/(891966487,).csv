@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+891966487,cedricbonhomme/ExploitDBSighting,README.md,1c3e5d122a153025f08f6cbfb0c415c76c4e8c04,CVE-2017-14084
+891966487,cedricbonhomme/ExploitDBSighting,README.md,1c3e5d122a153025f08f6cbfb0c415c76c4e8c04,CVE-2017-14085
+891966487,cedricbonhomme/ExploitDBSighting,README.md,1c3e5d122a153025f08f6cbfb0c415c76c4e8c04,CVE-2017-14086
