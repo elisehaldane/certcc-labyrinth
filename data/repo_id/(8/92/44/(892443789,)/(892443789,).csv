@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2020-0796
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2020-0938
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2020-9715
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2021-20294
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2021-21574
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,README.md,78bfca1b93f5798b9ffbba2124d72fe543a4aa0e,CVE-2023-29336
+892443789,by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation,(Linear) Stack Buffer Overflows/CVE-2021-21574.md,8fa0a0df650bf6cf9370b7ce2ffeaf677ef51cf6,CVE-2021-21574
