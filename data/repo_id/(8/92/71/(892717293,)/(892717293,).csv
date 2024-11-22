@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+892717293,XiaomingX/marshalsec-plus,src/main/java/marshalsec/Jackson.java,b9d2b24850ff2af4777f5c04b8941057bdf20afc,CVE-2017-7525
+892717293,XiaomingX/marshalsec-plus,README.md,cd227d41c861636a2c6b5c9c4ca224e4c90c61db,CVE-2021-44228
