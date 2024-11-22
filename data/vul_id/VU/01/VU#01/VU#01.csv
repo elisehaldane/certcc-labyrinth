@@ -61,6 +61,7 @@ VU#01,0.14285714,https://github.com/gkrishnan724/CVE-2021-38297,gkrishnan724/CVE
 VU#01,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#01,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#01,0.14285714,https://github.com/SurpriseMTFK/Mass-Exploit3r,SurpriseMTFK/Mass-Exploit3r,328641997
+VU#01,0.12500000,https://github.com/ArySon90/S8-BW2,ArySon90/S8-BW2,892620856
 VU#01,0.12500000,https://github.com/jhruppert/wrf-ideal-crf,jhruppert/wrf-ideal-crf,880564298
 VU#01,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
 VU#01,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
@@ -441,6 +442,7 @@ VU#01,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_
 VU#01,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
 VU#01,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#01,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
+VU#01,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
 VU#01,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#01,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#01,0.00458716,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
@@ -563,8 +565,8 @@ VU#01,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#01,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#01,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#01,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#01,0.00018605,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#01,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
+VU#01,0.00018580,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#01,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#01,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#01,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
