@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-891177744,Performant-Labs/CVE-2022-22970,spring-cve-harness/src/main/java/com/example/App.java,1f5847ece71c037967d556d6ffd48f5c30fd4421,CVE-2022-22970
+891177744,Performant-Labs/CVE-2022-22970,spring-cve-harness/src/main/java/com/example/App.java,0f6b6a1ebb963494b5b8356a352d3148a65ba0c7,CVE-2022-22970
+891177744,Performant-Labs/CVE-2022-22970,spring-cve-harness/src/main/java/com/example/App.java,0f6b6a1ebb963494b5b8356a352d3148a65ba0c7,CVE-2024-38829
 891177744,Performant-Labs/CVE-2022-22970,README.md,7ca694e2b84dab113287bd40e6ba701924e2575a,CVE-2022-22970
 891177744,Performant-Labs/CVE-2022-22970,_GITHUB_REPO_METADATA_,,CVE-2022-22970
