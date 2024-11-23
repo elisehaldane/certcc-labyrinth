@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-V9PC-9FC9-4FF8,0.50000000,https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated,787180944
 GHSA-V9PC-9FC9-4FF8,0.50000000,https://github.com/HussienMisbah/Exploits,HussienMisbah/Exploits,410027003
-GHSA-V9PC-9FC9-4FF8,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-V9PC-9FC9-4FF8,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-V9PC-9FC9-4FF8,0.00032723,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-V9PC-9FC9-4FF8,0.00032658,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
