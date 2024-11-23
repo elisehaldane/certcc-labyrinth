@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-HPH4-7J37-7C97,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

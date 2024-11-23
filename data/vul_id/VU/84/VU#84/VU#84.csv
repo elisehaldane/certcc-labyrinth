@@ -193,11 +193,11 @@ VU#84,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitati
 VU#84,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
 VU#84,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#84,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
-VU#84,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#84,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#84,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#84,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#84,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+VU#84,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#84,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#84,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#84,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
@@ -298,8 +298,8 @@ VU#84,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquiva
 VU#84,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#84,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#84,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#84,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#84,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+VU#84,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#84,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#84,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#84,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -399,13 +399,13 @@ VU#84,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#84,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#84,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#84,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#84,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#84,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#84,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#84,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#84,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#84,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#84,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#84,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#84,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#84,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#84,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -449,7 +449,8 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#84,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#84,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

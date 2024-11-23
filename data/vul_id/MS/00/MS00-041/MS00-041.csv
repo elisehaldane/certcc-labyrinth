@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS00-041,0.00190114,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS00-041,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS00-041,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
+MS00-041,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 MS00-041,0.00159744,https://github.com/francisck/DanderSpritz_docs,francisck/DanderSpritz_docs,90116796
 MS00-041,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS00-041,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514

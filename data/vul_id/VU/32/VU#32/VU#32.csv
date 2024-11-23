@@ -329,11 +329,11 @@ VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode.github.io,tanmay12-sud0/shellcode.github.io,530183631
 VU#32,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#32,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#32,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#32,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#32,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
+VU#32,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#32,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#32,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -457,7 +457,7 @@ VU#32,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,44732213
 VU#32,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#32,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#32,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#32,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#32,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#32,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#32,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#32,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
@@ -577,7 +577,6 @@ VU#32,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#32,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#32,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#32,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#32,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#32,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#32,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#32,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -592,6 +591,7 @@ VU#32,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#32,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#32,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#32,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#32,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#32,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#32,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#32,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
@@ -605,8 +605,8 @@ VU#32,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniqu
 VU#32,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#32,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#32,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
-VU#32,0.00211864,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
+VU#32,0.00207469,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00204082,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#32,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#32,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
@@ -637,7 +637,8 @@ VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#32,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

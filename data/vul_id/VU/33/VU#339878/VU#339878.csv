@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#339878,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
+VU#339878,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 VU#339878,0.00001463,https://github.com/ChaoticWagon/Llama3.2_CVE,ChaoticWagon/Llama3.2_CVE,869139798
 VU#339878,0.00001435,https://github.com/michaelglass/holey-moley,michaelglass/holey-moley,556068
 VU#339878,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

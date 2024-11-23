@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS04-025,0.00190114,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 MS04-025,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS04-025,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
+MS04-025,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 MS04-025,0.00159744,https://github.com/francisck/DanderSpritz_docs,francisck/DanderSpritz_docs,90116796
 MS04-025,0.00159490,https://github.com/r3p3r/DonnchaC-shadowbrokers-exploits,r3p3r/DonnchaC-shadowbrokers-exploits,115910466
 MS04-025,0.00159490,https://github.com/DonnchaC/shadowbrokers-exploits,DonnchaC/shadowbrokers-exploits,88255514
@@ -28,6 +29,6 @@ MS04-025,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J
 MS04-025,0.00000553,https://github.com/jgamblin/EPSSNVD,jgamblin/EPSSNVD,457057905
 MS04-025,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS04-025,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-MS04-025,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS04-025,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS04-025,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS04-025,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

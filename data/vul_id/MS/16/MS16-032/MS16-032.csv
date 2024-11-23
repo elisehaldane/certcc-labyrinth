@@ -324,8 +324,8 @@ MS16-032,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS16-032,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS16-032,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-032,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
-MS16-032,0.00015094,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS16-032,0.00013148,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00015092,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS16-032,0.00013110,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS16-032,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS16-032,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -389,6 +389,6 @@ MS16-032,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_sp
 MS16-032,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS16-032,0.00000391,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS16-032,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-MS16-032,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+MS16-032,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 MS16-032,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 MS16-032,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

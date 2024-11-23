@@ -171,8 +171,8 @@ VU#35,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cry
 VU#35,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#35,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#35,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
-VU#35,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#35,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
+VU#35,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#35,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#35,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
 VU#35,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
@@ -406,7 +406,6 @@ VU#35,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#35,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#35,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#35,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#35,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#35,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#35,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#35,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -417,6 +416,7 @@ VU#35,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayj
 VU#35,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#35,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#35,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#35,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#35,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#35,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#35,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -506,4 +506,4 @@ VU#35,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#35,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#35,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#35,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871
-VU#35,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#35,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

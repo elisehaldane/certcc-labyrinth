@@ -211,13 +211,13 @@ VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#98,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#98,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#98,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#98,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#98,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#98,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#98,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
+VU#98,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#98,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#98,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#98,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
@@ -423,7 +423,6 @@ VU#98,0.00353357,https://github.com/password520/windows-kernel-exploits,password
 VU#98,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 VU#98,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#98,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#98,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#98,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#98,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#98,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -440,6 +439,7 @@ VU#98,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#98,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#98,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#98,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#98,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#98,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#98,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#98,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
@@ -483,7 +483,8 @@ VU#98,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#98,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#98,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#98,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#98,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#98,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#98,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#98,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#98,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#98,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

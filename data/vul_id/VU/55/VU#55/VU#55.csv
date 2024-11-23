@@ -271,7 +271,6 @@ VU#55,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#55,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#55,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#55,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#55,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#55,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#55,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#55,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -279,6 +278,7 @@ VU#55,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#55,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#55,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#55,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+VU#55,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#55,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#55,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
 VU#55,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
@@ -522,7 +522,6 @@ VU#55,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#55,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#55,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 VU#55,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#55,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#55,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#55,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#55,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -537,6 +536,7 @@ VU#55,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#55,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#55,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#55,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#55,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#55,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#55,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#55,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386

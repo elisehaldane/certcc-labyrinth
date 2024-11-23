@@ -258,12 +258,12 @@ VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#82,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#82,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#82,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#82,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#82,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#82,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
+VU#82,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#82,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#82,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#82,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
@@ -480,7 +480,6 @@ VU#82,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#82,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#82,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 VU#82,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#82,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#82,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#82,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#82,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -498,6 +497,7 @@ VU#82,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#82,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#82,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#82,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#82,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#82,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#82,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#82,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -540,7 +540,8 @@ VU#82,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#82,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#82,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#82,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#82,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570

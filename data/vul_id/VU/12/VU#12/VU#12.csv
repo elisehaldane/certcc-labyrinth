@@ -242,7 +242,6 @@ VU#12,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#12,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#12,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#12,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#12,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#12,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#12,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#12,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
@@ -250,6 +249,7 @@ VU#12,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021
 VU#12,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#12,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#12,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+VU#12,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#12,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#12,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#12,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -348,8 +348,8 @@ VU#12,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#12,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#12,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#12,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
-VU#12,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#12,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+VU#12,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#12,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#12,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#12,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -448,7 +448,6 @@ VU#12,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#12,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#12,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#12,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#12,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#12,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#12,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#12,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -465,6 +464,7 @@ VU#12,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#12,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#12,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#12,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#12,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#12,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#12,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#12,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
@@ -478,8 +478,8 @@ VU#12,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniqu
 VU#12,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,222740271
 VU#12,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#12,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
-VU#12,0.00211864,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
+VU#12,0.00207469,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00204082,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#12,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#12,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
@@ -489,6 +489,7 @@ VU#12,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,Giggio
 VU#12,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#12,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#12,0.00164474,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
+VU#12,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 VU#12,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#12,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#12,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582
@@ -553,6 +554,6 @@ VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#12,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#12,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#12,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#12,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#12,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#12,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

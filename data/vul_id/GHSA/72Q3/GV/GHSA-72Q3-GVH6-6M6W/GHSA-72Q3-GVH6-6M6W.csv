@@ -1,2 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-72Q3-GVH6-6M6W,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-72Q3-GVH6-6M6W,0.00004790,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

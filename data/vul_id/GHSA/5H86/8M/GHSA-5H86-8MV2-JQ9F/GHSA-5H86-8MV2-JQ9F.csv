@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5H86-8MV2-JQ9F,0.50000000,https://github.com/wizarddos/CVE-2024-23334,wizarddos/CVE-2024-23334,875667799
 GHSA-5H86-8MV2-JQ9F,0.02500000,https://github.com/Shelter1234/VulneraLab,Shelter1234/VulneraLab,763555782
-GHSA-5H86-8MV2-JQ9F,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-5H86-8MV2-JQ9F,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-5H86-8MV2-JQ9F,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -285,8 +285,8 @@ VU#38,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#38,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#38,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#38,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#38,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#38,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+VU#38,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#38,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#38,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#38,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
@@ -399,7 +399,6 @@ VU#38,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#38,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#38,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#38,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#38,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#38,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#38,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#38,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -409,6 +408,7 @@ VU#38,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Ex
 VU#38,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#38,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#38,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#38,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#38,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#38,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#38,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
@@ -450,7 +450,8 @@ VU#38,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#38,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#38,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#38,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
-VU#38,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#38,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#38,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#38,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#38,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#38,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
@@ -497,7 +498,7 @@ VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/Shell
 VU#38,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#38,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#38,0.00004790,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#38,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#38,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#38,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301

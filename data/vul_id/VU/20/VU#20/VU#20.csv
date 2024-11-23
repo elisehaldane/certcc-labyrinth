@@ -168,10 +168,10 @@ VU#20,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#20,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
 VU#20,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#20,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
-VU#20,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#20,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#20,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#20,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
+VU#20,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#20,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#20,0.01851852,https://github.com/the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,the1anas/Pairs-Trading-Statistical-Arbitrage-between-KOTAKBANK-and-HDFCBANK,873135187
 VU#20,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
@@ -275,8 +275,8 @@ VU#20,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquiva
 VU#20,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#20,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#20,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#20,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#20,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
+VU#20,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#20,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#20,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#20,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
@@ -393,7 +393,6 @@ VU#20,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#20,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#20,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#20,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#20,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#20,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#20,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#20,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -404,6 +403,7 @@ VU#20,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayj
 VU#20,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#20,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#20,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#20,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#20,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#20,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#20,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -427,6 +427,7 @@ VU#20,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,Giggio
 VU#20,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#20,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#20,0.00164474,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
+VU#20,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 VU#20,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#20,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#20,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582

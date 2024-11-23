@@ -187,11 +187,11 @@ VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#87,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#87,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#87,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#87,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#87,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
+VU#87,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#87,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#87,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#87,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
@@ -404,7 +404,6 @@ VU#87,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#87,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#87,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#87,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#87,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#87,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#87,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#87,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -422,6 +421,7 @@ VU#87,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#87,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#87,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#87,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#87,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#87,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#87,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
 VU#87,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383

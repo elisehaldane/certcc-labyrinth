@@ -8,6 +8,7 @@ VU#44,1.00000000,https://github.com/XiaoyuShi97/VideoFlow,XiaoyuShi97/VideoFlow,
 VU#44,1.00000000,https://github.com/KOZ1OL/exploits,KOZ1OL/exploits,456404139
 VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,346977279
 VU#44,1.00000000,https://github.com/Err0r-ICA/VARIOUS,Err0r-ICA/VARIOUS,259476199
+VU#44,0.50000000,https://github.com/XiaomingX/cve-2024-37084-Poc,XiaomingX/cve-2024-37084-Poc,892641642
 VU#44,0.50000000,https://github.com/NouraAyman20/Test-app,NouraAyman20/Test-app,870592958
 VU#44,0.50000000,https://github.com/8f8gigohohu/ExploitDarlenePRO.zip1,8f8gigohohu/ExploitDarlenePRO.zip1,858246289
 VU#44,0.50000000,https://github.com/vuhz/CVE-2024-37084,vuhz/CVE-2024-37084,855821849
@@ -152,10 +153,10 @@ VU#44,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,
 VU#44,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
 VU#44,0.02040816,https://github.com/retr0-13/Windows10Exploits,retr0-13/Windows10Exploits,467954238
 VU#44,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/Windows10Exploits,238522875
-VU#44,0.02040816,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#44,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#44,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#44,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
+VU#44,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#44,0.01886792,https://github.com/SecTheBit/RedTeam-Toolkits,SecTheBit/RedTeam-Toolkits,250823388
 VU#44,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#44,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
@@ -353,7 +354,6 @@ VU#44,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#44,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#44,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#44,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#44,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#44,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#44,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#44,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -362,6 +362,7 @@ VU#44,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Ex
 VU#44,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#44,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#44,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#44,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#44,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#44,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#44,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
@@ -427,4 +428,4 @@ VU#44,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#44,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#44,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#44,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#44,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#44,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

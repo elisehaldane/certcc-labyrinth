@@ -12,7 +12,8 @@ GHSA-6P93-P743-35GF,0.00076687,https://github.com/lucagrippa/cisa-kev-archive,lu
 GHSA-6P93-P743-35GF,0.00076570,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 GHSA-6P93-P743-35GF,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-6P93-P743-35GF,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
-GHSA-6P93-P743-35GF,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-6P93-P743-35GF,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-6P93-P743-35GF,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-6P93-P743-35GF,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-6P93-P743-35GF,0.00024050,https://github.com/TAplutos/autosploit,TAplutos/autosploit,715864568
 GHSA-6P93-P743-35GF,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -37,12 +38,12 @@ GHSA-6P93-P743-35GF,0.00018591,https://github.com/phucoding286/metasploit-framew
 GHSA-6P93-P743-35GF,0.00018580,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-6P93-P743-35GF,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 GHSA-6P93-P743-35GF,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-GHSA-6P93-P743-35GF,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-6P93-P743-35GF,0.00004790,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-6P93-P743-35GF,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-6P93-P743-35GF,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-6P93-P743-35GF,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-6P93-P743-35GF,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 GHSA-6P93-P743-35GF,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-GHSA-6P93-P743-35GF,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+GHSA-6P93-P743-35GF,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-6P93-P743-35GF,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 GHSA-6P93-P743-35GF,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

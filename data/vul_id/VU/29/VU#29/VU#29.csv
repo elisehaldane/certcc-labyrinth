@@ -565,9 +565,9 @@ VU#29,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/M
 VU#29,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#29,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#29,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#29,0.00917431,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#29,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#29,0.00909091,https://github.com/youki992/VscanPlus,youki992/VscanPlus,763934320
+VU#29,0.00909091,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#29,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#29,0.00900901,https://github.com/DarkFunct/CVE_Exploits,DarkFunct/CVE_Exploits,411731731
 VU#29,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
@@ -693,7 +693,6 @@ VU#29,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#29,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#29,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#29,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#29,0.00321543,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#29,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#29,0.00303951,https://github.com/zan8in/afrog,zan8in/afrog,463027648
 VU#29,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -711,6 +710,7 @@ VU#29,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,ta
 VU#29,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
 VU#29,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#29,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#29,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#29,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#29,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#29,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
@@ -764,7 +764,8 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00032723,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00032733,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00032701,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -814,7 +815,7 @@ VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/Shell
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#29,0.00004961,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00004790,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
@@ -830,4 +831,4 @@ VU#29,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitd
 VU#29,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#29,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#29,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
-VU#29,0.00000359,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#29,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
