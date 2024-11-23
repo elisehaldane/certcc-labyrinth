@@ -2,6 +2,6 @@ repo_id,repo_full_name,file,file_sha1,match
 824675966,HexBuddy/HikvisionExploiter,README.md,88e071dbf02f51b81658b69e77435ec5e2de59ff,CVE-2017-7921
 824675966,HexBuddy/HikvisionExploiter,README.md,88e071dbf02f51b81658b69e77435ec5e2de59ff,CVE-2021-36260
 824675966,HexBuddy/HikvisionExploiter,README.md,88e071dbf02f51b81658b69e77435ec5e2de59ff,CVE-2022-28171
-824675966,HexBuddy/HikvisionExploiter,checker.py,ba9397be53a034d806029824a2d936cddbabf3f1,CVE-2017-7921
-824675966,HexBuddy/HikvisionExploiter,checker.py,ba9397be53a034d806029824a2d936cddbabf3f1,CVE-2021-36260
-824675966,HexBuddy/HikvisionExploiter,checker.py,ba9397be53a034d806029824a2d936cddbabf3f1,CVE-2022-28171
+824675966,HexBuddy/HikvisionExploiter,checker.py,f2aa435de2bedafef89a64db36e911254a9d9e3f,CVE-2017-7921
+824675966,HexBuddy/HikvisionExploiter,checker.py,f2aa435de2bedafef89a64db36e911254a9d9e3f,CVE-2021-36260
+824675966,HexBuddy/HikvisionExploiter,checker.py,f2aa435de2bedafef89a64db36e911254a9d9e3f,CVE-2022-28171
