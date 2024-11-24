@@ -26,7 +26,6 @@ MS12-020,0.14285714,https://github.com/Meat0Project/Pentesting-Exploitation,Meat
 MS12-020,0.14285714,https://github.com/screetsec/Dracnmap,screetsec/Dracnmap,69849809
 MS12-020,0.12500000,https://github.com/Aalok-Kesarkar/pentestingToolsGuide,Aalok-Kesarkar/pentestingToolsGuide,497387066
 MS12-020,0.12500000,https://github.com/cyberjatin/mynotes,cyberjatin/mynotes,175623182
-MS12-020,0.11111111,https://github.com/adriank31/Networking_Exploit_Script,adriank31/Networking_Exploit_Script,874568535
 MS12-020,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
 MS12-020,0.10000000,https://github.com/aryanguenthner/365,aryanguenthner/365,264704306
 MS12-020,0.10000000,https://github.com/mrcakil/ToolsBox-Exploiter,mrcakil/ToolsBox-Exploiter,124238551
@@ -65,6 +64,7 @@ MS12-020,0.01204819,https://github.com/Lucifer1993/PoCHub,Lucifer1993/PoCHub,259
 MS12-020,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
 MS12-020,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 MS12-020,0.01086957,https://github.com/danlapko/darkweb_classification,danlapko/darkweb_classification,488567745
+MS12-020,0.01075269,https://github.com/adriank31/Networking_Exploit_Script,adriank31/Networking_Exploit_Script,874568535
 MS12-020,0.01020408,https://github.com/Dex556/FindSploit,Dex556/FindSploit,384150130
 MS12-020,0.01020408,https://github.com/1N3/Findsploit,1N3/Findsploit,32337400
 MS12-020,0.00925926,https://github.com/wrayjustin/teamsploit,wrayjustin/teamsploit,322998941
@@ -160,8 +160,8 @@ MS12-020,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasp
 MS12-020,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS12-020,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS12-020,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
-MS12-020,0.00032723,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-MS12-020,0.00032658,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS12-020,0.00032701,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+MS12-020,0.00032637,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS12-020,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS12-020,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS12-020,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -287,14 +287,14 @@ MS12-020,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS12-020,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS12-020,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS12-020,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
-MS12-020,0.00015090,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS12-020,0.00013108,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS12-020,0.00015081,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS12-020,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
+MS12-020,0.00013098,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS12-020,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS12-020,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS12-020,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
-MS12-020,0.00007396,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS12-020,0.00005996,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS12-020,0.00007394,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS12-020,0.00005994,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS12-020,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS12-020,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS12-020,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

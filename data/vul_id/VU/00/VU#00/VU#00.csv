@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#00,1.00000000,https://github.com/nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-,nnc-11/Dual-Threat-Analysis-Email-Exploits-And-Rce-Attacks-,861672309
 VU#00,1.00000000,https://github.com/PrabhjotSingh03/Legality-ID_theft_USinfoSearch,PrabhjotSingh03/Legality-ID_theft_USinfoSearch,825925743
+VU#00,1.00000000,https://github.com/FabulosoDev/webOS-PPPwn,FabulosoDev/webOS-PPPwn,804429117
 VU#00,1.00000000,https://github.com/TuanSad/WebExploit,TuanSad/WebExploit,797116319
 VU#00,1.00000000,https://github.com/harkiratmann23/OS-Exploitation,harkiratmann23/OS-Exploitation,766265927
 VU#00,1.00000000,https://github.com/ataridiscord/Roblox,ataridiscord/Roblox,600521331
@@ -182,6 +183,7 @@ VU#00,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-
 VU#00,0.01538462,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
 VU#00,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#00,0.01538462,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
+VU#00,0.01515152,https://github.com/gigimoose23/scratchExploit,gigimoose23/scratchExploit,893229748
 VU#00,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
 VU#00,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#00,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
