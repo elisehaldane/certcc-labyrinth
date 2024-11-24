@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-FPH9-F5R6-VHQF,0.03333333,https://github.com/jonggleac/jogggleac-OPCUA-exploit-framework,jonggleac/jogggleac-OPCUA-exploit-framework,893399810

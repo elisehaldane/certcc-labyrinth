@@ -1,4 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#82848,0.00032701,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-VU#82848,0.00032637,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82848,0.00032626,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82848,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
