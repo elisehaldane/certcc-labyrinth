@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+893773869,threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit,README.md,1698ca92b47b7cf9a427f0a8fc170682369147dc,CVE-1999-0524
+893773869,threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit,CVE-1999-0524.py,c2909d08527769b14731375df3e00031e6d934a0,CVE-1999-0524
+893773869,threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit,_GITHUB_REPO_METADATA_,,CVE-1999-0524
