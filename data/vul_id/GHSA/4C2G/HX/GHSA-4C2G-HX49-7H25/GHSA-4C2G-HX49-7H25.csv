@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-4C2G-HX49-7H25,0.50000000,https://github.com/200101WhoAmI/CVE-2024-23339,200101WhoAmI/CVE-2024-23339,845356081
-GHSA-4C2G-HX49-7H25,0.00169492,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-4C2G-HX49-7H25,0.00032626,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-4C2G-HX49-7H25,0.00168634,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-4C2G-HX49-7H25,0.00032605,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-4C2G-HX49-7H25,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
