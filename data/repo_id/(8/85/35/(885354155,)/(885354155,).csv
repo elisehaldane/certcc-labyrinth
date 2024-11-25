@@ -30,6 +30,6 @@ repo_id,repo_full_name,file,file_sha1,match
 885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,jdk-8u65-linux-x64.tar.gz,7cfb221ae3d3939db24c4e88992ddd1a48388379,VU#11
 885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,jdk-8u65-linux-x64.tar.gz,7cfb221ae3d3939db24c4e88992ddd1a48388379,VU#07
 885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,jdk-8u65-linux-x64.tar.gz,7cfb221ae3d3939db24c4e88992ddd1a48388379,VU#47
-885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,README.md,ab29fbe1fe126cac56aa7cef4f1bce012fb1ec44,CVE-2019-12422
+885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,README.md,a097ad43735d3ccf4dbedf33f5893f7d9c888c7b,CVE-2019-12422
 885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,RuoYi-4.2/ruoyi-admin/src/main/resources/static/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
 885354155,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,_GITHUB_REPO_METADATA_,,CVE-2019-12422
