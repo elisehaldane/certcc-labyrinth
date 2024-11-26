@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+894351065,gergelykalman/CVE-2023-32428-a-macOS-LPE-via-MallocStackLogging,README.md,a0a000bdd87e7eb18b61c8ae480574b206ec1170,CVE-2023-32428
+894351065,gergelykalman/CVE-2023-32428-a-macOS-LPE-via-MallocStackLogging,_GITHUB_REPO_METADATA_,,CVE-2023-32428
