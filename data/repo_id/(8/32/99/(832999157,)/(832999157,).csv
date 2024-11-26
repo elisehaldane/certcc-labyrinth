@@ -1,3 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
 832999157,test-one9/ps4-exploit.github.io,cve-2008-3531.c,431e0896c736313aa0bb521856c5972ba2970a8c,CVE-2008-3531
-832999157,test-one9/ps4-exploit.github.io,index.html,cdf902ad28fae2a7f184f1d4db77d2f7538ec903,CVE-2008-3531
