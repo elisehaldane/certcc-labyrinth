@@ -56,6 +56,8 @@ VU#20,0.11111111,https://github.com/TheBigStonk/CodeQL-PoC-XSS-App,TheBigStonk/C
 VU#20,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#20,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#20,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
+VU#20,0.09090909,https://github.com/VRiku/Nitro-Exploit,VRiku/Nitro-Exploit,894562743
+VU#20,0.09090909,https://github.com/VRiku/Nitro-Chess-Exploit,VRiku/Nitro-Chess-Exploit,894559118
 VU#20,0.09090909,https://github.com/clockticksfast/Roblox-Cleaner,clockticksfast/Roblox-Cleaner,846737853
 VU#20,0.09090909,https://github.com/DaintyJet/VChat_CFG,DaintyJet/VChat_CFG,810955713
 VU#20,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
@@ -404,7 +406,7 @@ VU#20,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayj
 VU#20,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
 VU#20,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#20,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#20,0.00257069,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
+VU#20,0.00256410,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#20,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#20,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#20,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
