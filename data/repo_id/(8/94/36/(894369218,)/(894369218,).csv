@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+894369218,BlackPuma7/RCETest,exploit.mjs,1347b58c7e810614d5f58282dce4c88a53ec156f,CVE-2024-10230
+894369218,BlackPuma7/RCETest,js/utils.js,bc143841c3d2c9d9f2c422a742b85eed977311f9,CVE-2024-0517
