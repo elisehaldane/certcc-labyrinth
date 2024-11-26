@@ -2,7 +2,7 @@ repo_id,repo_full_name,file,file_sha1,match
 888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,CVE/Odometer Manipulation(Increase) for KIA SELTOS Cluster CVE-2024-51074.md,412c9d05287be41f60f47ac930b528f33810efbd,CVE-2024-51074
 888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,CVE/Control CAN communication for KIA SELTOS Cluster CVE-2024-51073.md,5e9f32d4ed84cc865943c67b7aef7b89749ba847,CVE-2024-51073
 888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,CVE/Denial of Service via ECU Reset Service For KIA SELTOS CVE-2024-51072.md,d53eef07e77966ecfeae0cc0f19f41be91846372,CVE-2024-51072
-888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,d6a344507a53f98906ecd74577a2acb8a8f11c8f,CVE-2024-50172
-888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,d6a344507a53f98906ecd74577a2acb8a8f11c8f,CVE-2024-51072
-888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,d6a344507a53f98906ecd74577a2acb8a8f11c8f,CVE-2024-51073
-888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,d6a344507a53f98906ecd74577a2acb8a8f11c8f,CVE-2024-51074
+888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,e8eebe3f3724ee871fb6e49825af98f390b8ab3c,CVE-2024-50172
+888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,e8eebe3f3724ee871fb6e49825af98f390b8ab3c,CVE-2024-51072
+888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,e8eebe3f3724ee871fb6e49825af98f390b8ab3c,CVE-2024-51073
+888936587,nitinronge91/KIA-SELTOS-Cluster-Vulnerabilities,README.md,e8eebe3f3724ee871fb6e49825af98f390b8ab3c,CVE-2024-51074

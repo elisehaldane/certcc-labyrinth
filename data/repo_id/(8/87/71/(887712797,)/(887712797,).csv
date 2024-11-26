@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+887712797,XiaomingX/awesome-codeql-note,example/Hystrix/ssrf.md,6934fc846ee37df42c1b66c3475de0c55ef87cbc,CVE-2020-5412
