@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-89PH-WR9X-HCFC,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-GHSA-89PH-WR9X-HCFC,0.00004776,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-89PH-WR9X-HCFC,0.00004752,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

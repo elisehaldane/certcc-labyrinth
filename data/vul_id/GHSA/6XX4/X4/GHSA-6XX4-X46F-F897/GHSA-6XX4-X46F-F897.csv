@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-6XX4-X46F-F897,0.00004776,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-6XX4-X46F-F897,0.00004752,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-6XX4-X46F-F897,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
