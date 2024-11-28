@@ -169,6 +169,7 @@ VU#96,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/Mor
 VU#96,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#96,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#96,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
+VU#96,0.04761905,https://github.com/GenerativeAI-Lab/PharmaLLM,GenerativeAI-Lab/PharmaLLM,895511011
 VU#96,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,882188373
 VU#96,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#96,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
@@ -380,7 +381,6 @@ VU#96,0.01219512,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,84
 VU#96,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#96,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
 VU#96,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
-VU#96,0.01162791,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#96,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#96,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#96,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
@@ -409,6 +409,7 @@ VU#96,0.01075269,https://github.com/lil-osamaa/Hardening-Metasploitable,lil-osam
 VU#96,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#96,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#96,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
+VU#96,0.01063830,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#96,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#96,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheBox-exploits,577139505
 VU#96,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
@@ -598,7 +599,7 @@ VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/C
 VU#96,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#96,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#96,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#96,0.00004752,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#96,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#96,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#96,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#96,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301

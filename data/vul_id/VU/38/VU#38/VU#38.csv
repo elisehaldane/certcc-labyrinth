@@ -434,7 +434,6 @@ VU#38,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,Giggio
 VU#38,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#38,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#38,0.00164474,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
-VU#38,0.00164204,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#38,0.00164204,https://github.com/LLMCI/LLM_Command_Injection,LLMCI/LLM_Command_Injection,809102376
 VU#38,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#38,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
@@ -449,6 +448,7 @@ VU#38,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#38,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#38,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#38,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
+VU#38,0.00091575,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#38,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#38,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#38,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -502,7 +502,7 @@ VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/Shell
 VU#38,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#38,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#38,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#38,0.00004752,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#38,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#38,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#38,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#38,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
