@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-11003/readme.md,30f72ff92a8e3ce20ce4a67dc264a186eba4544d,CVE-2024-10224
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-11003/readme.md,30f72ff92a8e3ce20ce4a67dc264a186eba4544d,CVE-2024-11003
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-11003/cve-2024-11003.sh,81be67bd8211a7289b60d0454a55be4f8cc81fea,CVE-2024-11003
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-48990/readme.md,a3c474c78afcd5065f9f8bf0d4ebefee9d89bb01,CVE-2024-48990
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-48991/readme.md,a403ba01fd7d8ecfe18b51f55137dc2b1cbde34f,CVE-2024-48991
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-48990/cve-2024-48990.sh,f42c2c8b5f8d3cea7168fb9c073156d55b70e256,CVE-2024-48990
+895501032,DefenceTechSecurity/exploits-poc,cve-2024-48991/cve-2024-48991.c,f45f0910d390e3e3b8b11f6e877edee0ca6fd1b4,CVE-2024-48991
