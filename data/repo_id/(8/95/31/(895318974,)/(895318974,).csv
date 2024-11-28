@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+895318974,fl4m3-s/IvantiCSA_Unauth_RCE,README.md,079560a402f1363fb73aa1a69c372ed0f4d8ba6a,CVE-2024-8190
+895318974,fl4m3-s/IvantiCSA_Unauth_RCE,README.md,079560a402f1363fb73aa1a69c372ed0f4d8ba6a,CVE-2024-8963
+895318974,fl4m3-s/IvantiCSA_Unauth_RCE,README.md,079560a402f1363fb73aa1a69c372ed0f4d8ba6a,CVE-2024-9379
