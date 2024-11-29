@@ -216,6 +216,7 @@ VU#71,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#71,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#71,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#71,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
+VU#71,0.01960784,https://github.com/sm3a96/ReEntrancyAttack,sm3a96/ReEntrancyAttack,895750249
 VU#71,0.01923077,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#71,0.01886792,https://github.com/Sylvain062/CDAoct23-Exploitation-Cinematographique,Sylvain062/CDAoct23-Exploitation-Cinematographique,794466916
 VU#71,0.01886792,https://github.com/Pheelog/CybersecurityRiskAnalysis,Pheelog/CybersecurityRiskAnalysis,651983241
@@ -260,7 +261,7 @@ VU#71,0.01428571,https://github.com/edavgaun/RCEL_506,edavgaun/RCEL_506,42468774
 VU#71,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#71,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#71,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
-VU#71,0.01369863,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
+VU#71,0.01351351,https://github.com/OracleNep/Nday-Exploit-Plan,OracleNep/Nday-Exploit-Plan,755821480
 VU#71,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#71,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
 VU#71,0.01298701,https://github.com/exie1/Complex-systems-EE,exie1/Complex-systems-EE,466733455

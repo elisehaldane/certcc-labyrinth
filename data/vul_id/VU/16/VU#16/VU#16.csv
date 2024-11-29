@@ -15,6 +15,7 @@ VU#16,1.00000000,https://github.com/guilletmax/firmware-exploit,guilletmax/firmw
 VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max-mint-exploit,450599632
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
+VU#16,1.00000000,https://github.com/ChampionLeake/BreakingNews,ChampionLeake/BreakingNews,188514116
 VU#16,0.50000000,https://github.com/RC-Pupper-Electric-Boogaloo/RCEB,RC-Pupper-Electric-Boogaloo/RCEB,882635201
 VU#16,0.50000000,https://github.com/Offensive-Panda/PEB_WALK_AND_API_OBFUSCATION_INJECTION,Offensive-Panda/PEB_WALK_AND_API_OBFUSCATION_INJECTION,834314070
 VU#16,0.50000000,https://github.com/Offensive-Panda/WPM-MAJIC-ENTRY-POINT-INJECTION,Offensive-Panda/WPM-MAJIC-ENTRY-POINT-INJECTION,830403481
@@ -223,6 +224,7 @@ VU#16,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/
 VU#16,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#16,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-research,sebastiansukiennik01/Data-analystys-salary-research,449809347
 VU#16,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
+VU#16,0.01960784,https://github.com/sm3a96/ReEntrancyAttack,sm3a96/ReEntrancyAttack,895750249
 VU#16,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#16,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#16,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
@@ -475,7 +477,7 @@ VU#16,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#16,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#16,0.00148588,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#16,0.00145560,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#16,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#16,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#16,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
