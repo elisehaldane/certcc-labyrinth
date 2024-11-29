@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+895895052,TheN00bBuilder/cve-2024-11477-writeup,CVE-2024-11477-Writeup.md,192951f0e54f181a3c4e380aec49a36c8b4d77b0,CVE-2024-11477
+895895052,TheN00bBuilder/cve-2024-11477-writeup,assets/oh_fsck.PNG,2e3103b552aeb483824bc5ee57b881d672da4873,VU#02
+895895052,TheN00bBuilder/cve-2024-11477-writeup,README.md,b875cfc16ddc5c39d1dcbb68859a57270e10ee0d,CVE-2024-11477
+895895052,TheN00bBuilder/cve-2024-11477-writeup,_GITHUB_REPO_METADATA_,,CVE-2024-11477
