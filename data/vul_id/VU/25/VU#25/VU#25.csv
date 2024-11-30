@@ -365,7 +365,6 @@ VU#25,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheB
 VU#25,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#25,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#25,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
-VU#25,0.01000000,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#25,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#25,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#25,0.00990099,https://github.com/Tukashix/FiveM-External-Cheat-KeyAuth-System,Tukashix/FiveM-External-Cheat-KeyAuth-System,874426310
@@ -387,6 +386,7 @@ VU#25,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#25,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#25,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#25,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
+VU#25,0.00917431,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#25,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#25,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#25,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
@@ -582,7 +582,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00032436,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00032415,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

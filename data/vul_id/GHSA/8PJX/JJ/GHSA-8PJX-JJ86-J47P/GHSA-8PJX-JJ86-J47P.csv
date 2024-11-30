@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-8PJX-JJ86-J47P,0.50000000,https://github.com/wagneralves/CVE-2021-43798,wagneralves/CVE-2021-43798,734375970
 GHSA-8PJX-JJ86-J47P,0.08333333,https://github.com/accuknox/samples,accuknox/samples,436227625
 GHSA-8PJX-JJ86-J47P,0.04761905,https://github.com/gd-discov3r/priv8-Nuclei,gd-discov3r/priv8-Nuclei,866580904
-GHSA-8PJX-JJ86-J47P,0.00091491,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-8PJX-JJ86-J47P,0.00090992,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 GHSA-8PJX-JJ86-J47P,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-8PJX-JJ86-J47P,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-8PJX-JJ86-J47P,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
