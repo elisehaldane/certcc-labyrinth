@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+896349551,dagowda/Zabbix-cve-2022-23131-SSO-bypass,cve-2022-23131.py,119008a1aef6c73b5874de8fce4b4c57086f3649,CVE-2022-23131
+896349551,dagowda/Zabbix-cve-2022-23131-SSO-bypass,README.md,ec80abbf0a0dcf6649576f38ed3ba46f26cf3df5,CVE-2022-23131
+896349551,dagowda/Zabbix-cve-2022-23131-SSO-bypass,_GITHUB_REPO_METADATA_,,CVE-2022-23131
