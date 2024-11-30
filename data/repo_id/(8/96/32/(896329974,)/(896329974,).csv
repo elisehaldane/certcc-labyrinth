@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+896329974,nanwinata/CVE-2024-52301,README.md,e5bd7adc83ddaca0af5f55e6668ff8f1aebd517d,GHSA-GV7V-RGG6-548H
+896329974,nanwinata/CVE-2024-52301,_GITHUB_REPO_METADATA_,,CVE-2024-52301
