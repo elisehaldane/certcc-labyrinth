@@ -11,5 +11,5 @@ repo_id,repo_full_name,file,file_sha1,match
 761012779,TegveerG/DeFi-Scams-RAG,data/RAG_scams.csv,593bd7e32918250b30398b780320e8f257f00971,VU#28
 761012779,TegveerG/DeFi-Scams-RAG,data/RAG_scams.csv,593bd7e32918250b30398b780320e8f257f00971,VU#612
 761012779,TegveerG/DeFi-Scams-RAG,data/RAG_scams.csv,593bd7e32918250b30398b780320e8f257f00971,VU#662
-761012779,TegveerG/DeFi-Scams-RAG,data/slowmist.csv,dcff9593bc137a0d9dc3c67265f481f3186ea4cc,CVE-2022-3656
-761012779,TegveerG/DeFi-Scams-RAG,data/slowmist.csv,dcff9593bc137a0d9dc3c67265f481f3186ea4cc,CVE-2022-38217
+761012779,TegveerG/DeFi-Scams-RAG,data/slowmist.csv,de6eb72ff387adf950fc387fefc2a62c0f4c36b2,CVE-2022-3656
+761012779,TegveerG/DeFi-Scams-RAG,data/slowmist.csv,de6eb72ff387adf950fc387fefc2a62c0f4c36b2,CVE-2022-38217
