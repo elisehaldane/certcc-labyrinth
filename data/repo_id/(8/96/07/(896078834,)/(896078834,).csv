@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+896078834,RSSU-Shellcode/Aurorium,font/NotoSansSC-Bold.ttf,63ebe4cb97239f17d00f473289f1e9c9e034b203,VU#64
+896078834,RSSU-Shellcode/Aurorium,font/NotoSansSC-Bold.ttf,63ebe4cb97239f17d00f473289f1e9c9e034b203,VU#80
+896078834,RSSU-Shellcode/Aurorium,font/NotoSansSC-Regular.ttf,ef9134ae0e54ec6af31eed0f94b2a0dfe3d90adc,VU#80
