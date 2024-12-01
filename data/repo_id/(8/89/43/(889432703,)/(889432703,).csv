@@ -1,253 +1,253 @@
 repo_id,repo_full_name,file,file_sha1,match
 889432703,20142995/wxvl,doc/Redis CVE-2024-31449：如何重现和缓解漏洞.md,0269ce7dbd5b29f390bc146b1e84ea1877e07d19,CVE-2024-31449
 889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-10793
+889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-9935
+889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-43919
+889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-11381
+889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-11305
 889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-11199
 889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-10914
 889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-52433
-889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-11305
-889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-11381
-889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-9935
-889432703,20142995/wxvl,doc/2024年wordpress、d-link等相关的多个cve漏洞poc.md,032b2e9431ea2fc551ffd3786cb11d38a46a360a,CVE-2024-43919
 889432703,20142995/wxvl,doc/已知漏洞！宝兰德最新漏洞绕过补丁黑名单，速修.md,035646147701198bf02ebea3cbd43bbbfa6708c0,VU#528
 889432703,20142995/wxvl,doc/利用gitRepo卷在Node上RCE(CVE-2024-10220).md,038ba883dd2d6f6421ed52f60551ae7e7164794f,CVE-2024-10220
 889432703,20142995/wxvl,doc/AI自动挖洞不是梦，谷歌AI工具OSS-FASZ发现26个开源漏洞.md,045fd2b20867fd96bb43de5b9f3ad55e2d56fc7c,CVE-2024-9143
-889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-7262
 889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-43491
 889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-6387
-889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-38077
 889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-43639
-889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11113
+889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-7262
+889432703,20142995/wxvl,doc/关键的 Windows漏洞使数百万台服务器面临攻击.md,050ddc10bbb79c84f6b97109800318f6c34a8948,CVE-2024-38077
 889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11112
-889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11114
-889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11115
-889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-50386
-889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11117
 889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11116
 889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11111
+889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11117
+889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11113
 889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11110
+889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11114
+889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-50386
+889432703,20142995/wxvl,doc/远程代码执行风险威胁用户安全，Zoom紧急修复多个安全漏洞；颠覆传统安全架构，Zscaler创新发布新型零信任分段方案 | 牛览.md,055104542ce0a8c6db2af6326051e7bc4e80e790,CVE-2024-11115
+889432703,20142995/wxvl,doc/RomCom 利用零日漏洞进行复杂的网络攻击 Firefox 和 Windows.md,08d52aa0b408571461221fef79666a4f371a2ea4,CVE-2024-9680
 889432703,20142995/wxvl,doc/RomCom 利用零日漏洞进行复杂的网络攻击 Firefox 和 Windows.md,08d52aa0b408571461221fef79666a4f371a2ea4,CVE-2023-36884
 889432703,20142995/wxvl,doc/RomCom 利用零日漏洞进行复杂的网络攻击 Firefox 和 Windows.md,08d52aa0b408571461221fef79666a4f371a2ea4,CVE-2024-49039
-889432703,20142995/wxvl,doc/RomCom 利用零日漏洞进行复杂的网络攻击 Firefox 和 Windows.md,08d52aa0b408571461221fef79666a4f371a2ea4,CVE-2024-9680
-889432703,20142995/wxvl,doc/超过2000台Palo Alto Networks防火墙遭到黑客攻击，攻击者利用了最近才修补的零日漏洞.md,091b20de02c5dbe3e6ae54adba9507985699ec65,CVE-2024-0012
 889432703,20142995/wxvl,doc/超过2000台Palo Alto Networks防火墙遭到黑客攻击，攻击者利用了最近才修补的零日漏洞.md,091b20de02c5dbe3e6ae54adba9507985699ec65,CVE-2024-9474
+889432703,20142995/wxvl,doc/超过2000台Palo Alto Networks防火墙遭到黑客攻击，攻击者利用了最近才修补的零日漏洞.md,091b20de02c5dbe3e6ae54adba9507985699ec65,CVE-2024-0012
 889432703,20142995/wxvl,doc/【漏洞通告】ProjectSend身份验证绕过漏洞（CVE-2024-11680）.md,096bc5d21f436cdf9ece12a1fbb478539ca864cb,CVE-2024-11680
-889432703,20142995/wxvl,doc/俄国黑客组织 RomCom 利用 Firefox 和 Tor 浏览器零日漏洞，攻击欧洲和北美用户.md,0b09a6be69bb4f8eebce16ccae0817d011eddda0,CVE-2024-9680
 889432703,20142995/wxvl,doc/俄国黑客组织 RomCom 利用 Firefox 和 Tor 浏览器零日漏洞，攻击欧洲和北美用户.md,0b09a6be69bb4f8eebce16ccae0817d011eddda0,CVE-2024-49039
+889432703,20142995/wxvl,doc/俄国黑客组织 RomCom 利用 Firefox 和 Tor 浏览器零日漏洞，攻击欧洲和北美用户.md,0b09a6be69bb4f8eebce16ccae0817d011eddda0,CVE-2024-9680
 889432703,20142995/wxvl,doc/【在野利用】ProjectSend 身份认证绕过漏洞(CVE-2024-11680)安全风险通告.md,0c3196a406937f76f1240ee1cdee3a23c046c2fc,CVE-2024-11680
-889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2023-20198
-889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2021-44228
 889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2017-6742
 889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2023-3519
+889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2023-20198
+889432703,20142995/wxvl,doc/【安全圈】打补丁要快！0Day漏洞正在被黑客广泛利用.md,0ce94ad6eee7a67addd74dcca5a677bc63739a50,CVE-2021-44228
 889432703,20142995/wxvl,doc/平板锅(Palo Alto)防火墙0day 漏洞分析及Exp.md,0d930d6123b59920d6d4e14e712eee519f95b10a,CVE-2024-0012
 889432703,20142995/wxvl,doc/平板锅(Palo Alto)防火墙0day 漏洞分析及Exp.md,0d930d6123b59920d6d4e14e712eee519f95b10a,CVE-2024-9474
-889432703,20142995/wxvl,doc/CVE-2024-20767 和 CVE-2024-21216 的补救措施：保护自己免受最近两个可在野外利用的严重漏洞的侵害.md,0faa38f64065fc3dbba31be5488ddfab54e1541e,CVE-2024-21216
 889432703,20142995/wxvl,doc/CVE-2024-20767 和 CVE-2024-21216 的补救措施：保护自己免受最近两个可在野外利用的严重漏洞的侵害.md,0faa38f64065fc3dbba31be5488ddfab54e1541e,CVE-2024-20767
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32434
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-28205
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-28206
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-37450
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32439
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32373
+889432703,20142995/wxvl,doc/CVE-2024-20767 和 CVE-2024-21216 的补救措施：保护自己免受最近两个可在野外利用的严重漏洞的侵害.md,0faa38f64065fc3dbba31be5488ddfab54e1541e,CVE-2024-21216
+889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,0fce7cb44578b7637dbae5d73780e118d1d8fd24,CVE-2024-50370
+889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,0fce7cb44578b7637dbae5d73780e118d1d8fd24,CVE-2024-50374
+889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,0fce7cb44578b7637dbae5d73780e118d1d8fd24,CVE-2024-50359
+889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,0fce7cb44578b7637dbae5d73780e118d1d8fd24,CVE-2024-50375
+889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,0fce7cb44578b7637dbae5d73780e118d1d8fd24,CVE-2024-50376
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2024-44309
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32409
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32435
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2024-44308
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-37450
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-28206
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32373
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32434
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32439
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-32409
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-28205
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-38606
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-23529
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-41991
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2024-44308
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-41061
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-41991
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-41992
+889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-5217
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-41993
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-42824
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-42916
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-42917
 889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-2023
-889432703,20142995/wxvl,doc/苹果修复了在英特尔 Mac 攻击中使用的两个零日漏洞.md,1031a17b0bbf45471a813045de4b04d788f5b21e,CVE-2023-5217
 889432703,20142995/wxvl,doc/俄罗斯 APT28 利用 Microsoft Outlook 漏洞攻击捷克、德国实体.md,12eb249ca35c6069e0a7e463655fe46fcb8ce093,CVE-2022-38028
-889432703,20142995/wxvl,doc/俄罗斯 APT28 利用 Microsoft Outlook 漏洞攻击捷克、德国实体.md,12eb249ca35c6069e0a7e463655fe46fcb8ce093,CVE-2023-23397
 889432703,20142995/wxvl,doc/俄罗斯 APT28 利用 Microsoft Outlook 漏洞攻击捷克、德国实体.md,12eb249ca35c6069e0a7e463655fe46fcb8ce093,CVE-2023-7028
-889432703,20142995/wxvl,doc/CVE-2024-11477｜7-Zip代码执行漏洞（POC）.md,134e60865de6d906ee4021e6aa36dff1c0bd80f5,CVE-2024-11477
+889432703,20142995/wxvl,doc/俄罗斯 APT28 利用 Microsoft Outlook 漏洞攻击捷克、德国实体.md,12eb249ca35c6069e0a7e463655fe46fcb8ce093,CVE-2023-23397
 889432703,20142995/wxvl,doc/CVE-2024-11477｜7-Zip代码执行漏洞（POC）.md,134e60865de6d906ee4021e6aa36dff1c0bd80f5,CVE-2023-38831
+889432703,20142995/wxvl,doc/CVE-2024-11477｜7-Zip代码执行漏洞（POC）.md,134e60865de6d906ee4021e6aa36dff1c0bd80f5,CVE-2024-11477
 889432703,20142995/wxvl,doc/Palo Alto Networks确认0Day漏洞正在被黑客利用.md,1414c6cd095835993935273332d5955f54e0a577,CVE-2024-3400
-889432703,20142995/wxvl,doc/CNNVD | 关于Apache OFBiz安全漏洞的通报.md,1429c08304cc0121935a3a6abfab9de4c01a2492,CVE-2024-47208
 889432703,20142995/wxvl,doc/CNNVD | 关于Apache OFBiz安全漏洞的通报.md,1429c08304cc0121935a3a6abfab9de4c01a2492,CNNVD-202411-2279
-889432703,20142995/wxvl,doc/【已复现】Palo Alto Networks PAN-OS身份认证绕过漏洞(CVE-2024-0012)安全风险通告第二次更新.md,14456e3410f4c132f348d70bb32f6925297873e2,CVE-2024-0012
+889432703,20142995/wxvl,doc/CNNVD | 关于Apache OFBiz安全漏洞的通报.md,1429c08304cc0121935a3a6abfab9de4c01a2492,CVE-2024-47208
 889432703,20142995/wxvl,doc/【已复现】Palo Alto Networks PAN-OS身份认证绕过漏洞(CVE-2024-0012)安全风险通告第二次更新.md,14456e3410f4c132f348d70bb32f6925297873e2,CVE-2024-9474
+889432703,20142995/wxvl,doc/【已复现】Palo Alto Networks PAN-OS身份认证绕过漏洞(CVE-2024-0012)安全风险通告第二次更新.md,14456e3410f4c132f348d70bb32f6925297873e2,CVE-2024-0012
 889432703,20142995/wxvl,doc/【漏洞通告】Zabbix 服务器SQL注入漏洞(CVE-2024-42327).md,15844341900b92b7f319e2dc2ffa2ca721d7f063,CVE-2024-42327
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-3421
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9486
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-902
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-38819
 889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-2613
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-902
 889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-612
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-31449
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-45216
 889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1596
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-31449
 889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1533
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1130
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1425
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-21216
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9680
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-47575
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9164
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-51567
-889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-48112
 889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-3502
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-38819
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-45216
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-3421
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-21216
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-51567
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-47575
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9486
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9680
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-9164
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1425
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CVE-2024-48112
+889432703,20142995/wxvl,doc/24年10月必修安全漏洞清单｜腾讯安全威胁情报中心.md,15cee9f1c02e13e6bc2d90abc39756deadedeb4e,CNNVD-202410-1130
 889432703,20142995/wxvl,doc/PostgreSQL 高危漏洞可导致环境变量被利用.md,15e988914514a55729ab4f861e8b5b922417b4ff,CVE-2024-10979
+889432703,20142995/wxvl,doc/Palo Alto Networks零日防火墙漏洞是由开发人员的基本错误导致的.md,16242d08a7aaa9564ff42610c94f278bb40128db,CVE-2024-0012
 889432703,20142995/wxvl,doc/Palo Alto Networks零日防火墙漏洞是由开发人员的基本错误导致的.md,16242d08a7aaa9564ff42610c94f278bb40128db,CVE-2024-3400
 889432703,20142995/wxvl,doc/Palo Alto Networks零日防火墙漏洞是由开发人员的基本错误导致的.md,16242d08a7aaa9564ff42610c94f278bb40128db,CVE-2024-9474
-889432703,20142995/wxvl,doc/Palo Alto Networks零日防火墙漏洞是由开发人员的基本错误导致的.md,16242d08a7aaa9564ff42610c94f278bb40128db,CVE-2024-0012
 889432703,20142995/wxvl,doc/GitLab LFS Token 权限提升漏洞(CVE-2024-8114)安全风险通告.md,162b053e78f2c7201fe288812309e6cc0173f6ee,CVE-2024-8114
 889432703,20142995/wxvl,doc/漏洞预警 | XStream栈溢出漏洞.md,164ae6a809d6daa50cf0ee88d72b99368a8fb64e,CVE-2024-47072
 889432703,20142995/wxvl,doc/Windows Kerberos严重漏洞，数百万台服务器遭攻击.md,170e0891a97ceffd4b9b999aafa8c2bc535c06ac,CVE-2024-43639
 889432703,20142995/wxvl,doc/【神兵利器】Spring-Boot漏洞利用工具.md,179c28755bcfb4bc14d4d09cf3130c18d31243b4,CVE-2021-21234
-889432703,20142995/wxvl,doc/雷神众测漏洞周报2024.11.11-2024.11.17.md,17af21ff3444abefe6b4f27af31a0519b90b62ce,CVE-2024-38229
 889432703,20142995/wxvl,doc/雷神众测漏洞周报2024.11.11-2024.11.17.md,17af21ff3444abefe6b4f27af31a0519b90b62ce,CVE-2024-47208
 889432703,20142995/wxvl,doc/雷神众测漏洞周报2024.11.11-2024.11.17.md,17af21ff3444abefe6b4f27af31a0519b90b62ce,CVE-2024-38029
 889432703,20142995/wxvl,doc/雷神众测漏洞周报2024.11.11-2024.11.17.md,17af21ff3444abefe6b4f27af31a0519b90b62ce,CVE-2024-9693
+889432703,20142995/wxvl,doc/雷神众测漏洞周报2024.11.11-2024.11.17.md,17af21ff3444abefe6b4f27af31a0519b90b62ce,CVE-2024-38229
 889432703,20142995/wxvl,doc/高危！Laravel参数注入漏洞安全风险通告.md,18df5f60ae98cda7859ad686cb056e3c8972dee8,CVE-2024-52301
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-44308
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41993
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-38606
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-44309
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41992
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32439
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42916
 889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41061
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42917
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-37450
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-5217
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41064
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42824
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32373
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32435
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28206
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-23529
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-43491
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28205
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-44308
 889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41991
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-7262
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41064
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32439
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42917
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41992
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-41993
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-5217
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42824
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-42916
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-37450
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32435
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-44309
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-38606
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28206
 889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32409
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28204
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-6387
-889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32434
 889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-38077
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32373
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-32434
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-6387
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28205
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-43491
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2024-7262
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-28204
+889432703,20142995/wxvl,doc/苹果官方警告：零日漏洞攻击瞄准Mac电脑用户.md,190f82a44f139fce7748b37149321c9f56adedf9,CVE-2023-23529
 889432703,20142995/wxvl,doc/【安全圈】安全公司曝光黑客利用 Office 已知漏洞散播 Remcos RAT 木马程序.md,193426a643dfd79e303951c849f2d7c35b4a46c1,CVE-2017-0199
 889432703,20142995/wxvl,doc/「漏洞复现」Altenergy电力系统控制软件 status_zigbee SQL注入漏洞复现(CVE-2024-11305).md,1ac579bf310b40c35f65fad83520e36c44d1a349,CVE-2024-11305
 889432703,20142995/wxvl,doc/文件解析常见漏洞总结.md,1b14e93b263dd71675a573a635b1009f370033c2,CVE-2013-4547
 889432703,20142995/wxvl,doc/黑客利用 ProjectSend 严重漏洞攻击服务器.md,1c4cacb11a0de336e9f312f5cee7398d8ca24724,CVE-2024-11680
 889432703,20142995/wxvl,doc/CVE-2024-45784：Apache Airflow 漏洞暴露日志中的敏感数据.md,1d6fc02869804b4ecb56490e0889b6dc207a1be3,CVE-2024-45784
 889432703,20142995/wxvl,doc/RomCom 黑客利用 Firefox 和 Windows 零日漏洞.md,1d822209d7306f2a03c69e9625df4ec8f55056a3,CVE-2023-36884
-889432703,20142995/wxvl,doc/RomCom 黑客利用 Firefox 和 Windows 零日漏洞.md,1d822209d7306f2a03c69e9625df4ec8f55056a3,CVE-2024-9680
 889432703,20142995/wxvl,doc/RomCom 黑客利用 Firefox 和 Windows 零日漏洞.md,1d822209d7306f2a03c69e9625df4ec8f55056a3,CVE-2024-49039
+889432703,20142995/wxvl,doc/RomCom 黑客利用 Firefox 和 Windows 零日漏洞.md,1d822209d7306f2a03c69e9625df4ec8f55056a3,CVE-2024-9680
 889432703,20142995/wxvl,doc/网安瞭望台第5期 ：7zip出现严重漏洞、识别网络钓鱼诈骗的方法分享.md,1e16e0f62ddcba30a744ad04bdb426d3979f05e4,CVE-2023-28461
-889432703,20142995/wxvl,doc/无需用户交互即可利用 Firefox CVE-2024-9680 和 Windows CVE-2024-49039中的零日漏洞.md,1e490d76fe9aa6687d587fdd858db901a569b9e5,CVE-2024-9680
 889432703,20142995/wxvl,doc/无需用户交互即可利用 Firefox CVE-2024-9680 和 Windows CVE-2024-49039中的零日漏洞.md,1e490d76fe9aa6687d587fdd858db901a569b9e5,CVE-2024-49039
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52317
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52318
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52316
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-11477
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52067
-889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-31141
+889432703,20142995/wxvl,doc/无需用户交互即可利用 Firefox CVE-2024-9680 和 Windows CVE-2024-49039中的零日漏洞.md,1e490d76fe9aa6687d587fdd858db901a569b9e5,CVE-2024-9680
 889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-38828
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-31141
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52316
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52067
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-11477
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52318
+889432703,20142995/wxvl,doc/安全卫士 | 魔方安全漏洞周报.md,2171f5af0e2b87beb7de442bb155dcb2adb6e734,CVE-2024-52317
 889432703,20142995/wxvl,doc/ATK&CK红日靶场二，Weblogic漏洞利用，域渗透攻略.md,224f9a658a949b331a65cbe9a8e1d853e4f554a2,MS14-058
+889432703,20142995/wxvl,doc/ATK&CK红日靶场二，Weblogic漏洞利用，域渗透攻略.md,224f9a658a949b331a65cbe9a8e1d853e4f554a2,CVE-2019-2725
 889432703,20142995/wxvl,doc/ATK&CK红日靶场二，Weblogic漏洞利用，域渗透攻略.md,224f9a658a949b331a65cbe9a8e1d853e4f554a2,CVE-2017-3506
 889432703,20142995/wxvl,doc/ATK&CK红日靶场二，Weblogic漏洞利用，域渗透攻略.md,224f9a658a949b331a65cbe9a8e1d853e4f554a2,CVE-2016-0638
-889432703,20142995/wxvl,doc/ATK&CK红日靶场二，Weblogic漏洞利用，域渗透攻略.md,224f9a658a949b331a65cbe9a8e1d853e4f554a2,CVE-2019-2725
-889432703,20142995/wxvl,doc/致命漏洞与暴露API：财富1000强企业面临的30000个暴露API和10万漏洞挑战.md,22982755a52316f13b1619d97698fdb6119db2ac,CVE-2024-5535
 889432703,20142995/wxvl,doc/致命漏洞与暴露API：财富1000强企业面临的30000个暴露API和10万漏洞挑战.md,22982755a52316f13b1619d97698fdb6119db2ac,CVE-2021-3711
+889432703,20142995/wxvl,doc/致命漏洞与暴露API：财富1000强企业面临的30000个暴露API和10万漏洞挑战.md,22982755a52316f13b1619d97698fdb6119db2ac,CVE-2024-5535
 889432703,20142995/wxvl,doc/【漏洞通告】Zyxel ZLD防火墙路径遍历漏洞（CVE-2024-11667）.md,22e43de17841335cc68e57c67decd57e311eb377,CVE-2024-11667
 889432703,20142995/wxvl,doc/[漏洞复现] CVE-2024-33786 中城科信票务管理平台 任意文件上传.md,23947efd2e9e4dccdd00170404fc7a062e05a82c,CVE-2024-33786
-889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS身份验证绕过漏洞（CVE-2024-0012）.md,26caa65439c19b80117842be3f2245e489387dfd,CVE-2024-0012
 889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS身份验证绕过漏洞（CVE-2024-0012）.md,26caa65439c19b80117842be3f2245e489387dfd,CVE-2024-9474
+889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS身份验证绕过漏洞（CVE-2024-0012）.md,26caa65439c19b80117842be3f2245e489387dfd,CVE-2024-0012
 889432703,20142995/wxvl,doc/CVE-2024-52940 AnyDesk信息泄露漏洞复现.md,2918f5d3c71c2c0bbff154465fd8b6d06449c1f2,CVE-2024-52940
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-24871
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36003
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36424
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36723
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36802
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-29360
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-29336
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28252
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-29360
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28218
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36874
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-21746
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-21752
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28229
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-21768
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-21817
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-23388
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36874
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28218
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36723
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-24871
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36802
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28252
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-28229
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36003
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-36424
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2023-21674
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-21338
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-35250
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-6768
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30090
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-38054
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30088
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-38080
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30051
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-26218
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30088
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-38100
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-20656
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-21447
-889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-26229
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-38080
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-21338
 889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-21345
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-38054
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-21447
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-6768
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-26229
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-35250
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-20656
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30051
+889432703,20142995/wxvl,doc/从CVE 到 PoC：Windows提权漏洞全景地图.md,2ba482cc954dca4861c62e6578f4d1a68593e456,CVE-2024-30090
 889432703,20142995/wxvl,doc/【漏洞通告】Apple多个在野高危漏洞安全风险通告.md,2d1d430e5e39eae121ac08b84523bda8dadc545c,CVE-2024-44308
 889432703,20142995/wxvl,doc/【漏洞通告】Apple多个在野高危漏洞安全风险通告.md,2d1d430e5e39eae121ac08b84523bda8dadc545c,CVE-2024-44309
 889432703,20142995/wxvl,doc/【即将开课】系统0day安全-二进制漏洞攻防（第4期）.md,2d1ecef48e405355d1ce6b5aaef565522b1623fd,CVE-2022-2588
-889432703,20142995/wxvl,doc/【即将开课】系统0day安全-二进制漏洞攻防（第4期）.md,2d1ecef48e405355d1ce6b5aaef565522b1623fd,CVE-2024-1086
 889432703,20142995/wxvl,doc/【即将开课】系统0day安全-二进制漏洞攻防（第4期）.md,2d1ecef48e405355d1ce6b5aaef565522b1623fd,CVE-2022-0847
-889432703,20142995/wxvl,doc/俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户.md,2efe640cf4c05f056bbcf655383bb6b8c8cf6bb6,CVE-2024-9680
+889432703,20142995/wxvl,doc/【即将开课】系统0day安全-二进制漏洞攻防（第4期）.md,2d1ecef48e405355d1ce6b5aaef565522b1623fd,CVE-2024-1086
 889432703,20142995/wxvl,doc/俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户.md,2efe640cf4c05f056bbcf655383bb6b8c8cf6bb6,CVE-2023-28461
 889432703,20142995/wxvl,doc/俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户.md,2efe640cf4c05f056bbcf655383bb6b8c8cf6bb6,CVE-2024-49039
+889432703,20142995/wxvl,doc/俄罗斯黑客组织Romcom利用0day漏洞攻击 Firefox、Tor 用户.md,2efe640cf4c05f056bbcf655383bb6b8c8cf6bb6,CVE-2024-9680
 889432703,20142995/wxvl,doc/CVE-2024-42327｜Zabbix SQL注入漏洞.md,2f3c2b7a6825f99bfdf1db24161e354b71c8d427,CVE-2024-42327
 889432703,20142995/wxvl,doc/CVE-2024-42327｜Zabbix SQL注入漏洞.md,2f3c2b7a6825f99bfdf1db24161e354b71c8d427,CVE-2024-21216
-889432703,20142995/wxvl,doc/CVE-2024-42327｜Zabbix SQL注入漏洞.md,2f3c2b7a6825f99bfdf1db24161e354b71c8d427,CVE-2024-37383
 889432703,20142995/wxvl,doc/CVE-2024-42327｜Zabbix SQL注入漏洞.md,2f3c2b7a6825f99bfdf1db24161e354b71c8d427,CVE-2024-38816
+889432703,20142995/wxvl,doc/CVE-2024-42327｜Zabbix SQL注入漏洞.md,2f3c2b7a6825f99bfdf1db24161e354b71c8d427,CVE-2024-37383
 889432703,20142995/wxvl,doc/漏洞预警 | GitLab未授权访问漏洞.md,2fbc2161399eb764d45d2ea68ec6914c97141e85,VU#88
 889432703,20142995/wxvl,doc/漏洞预警 | GitLab未授权访问漏洞.md,2fbc2161399eb764d45d2ea68ec6914c97141e85,CVE-2024-9693
 889432703,20142995/wxvl,doc/【漏洞预警】Spring Security大小写敏感校验鉴权绕过风险CVE-2024-38827.md,311a0e99c85cee599934a9cc680a6fc6bb65ed87,CVE-2024-38827
 889432703,20142995/wxvl,doc/WordPress安全警报：400万网站面临严重认证绕过漏洞.md,32c6a7e852ec7230f3e1d19059a052ccba34b96b,CVE-2024-10924
 889432703,20142995/wxvl,doc/WordPress安全警报：400万网站面临严重认证绕过漏洞.md,32c6a7e852ec7230f3e1d19059a052ccba34b96b,CVE-2024-10470
 889432703,20142995/wxvl,doc/漏洞预警 | RabbitMQ权限验证绕过漏洞.md,331587b8e4882cedd85013ee2449acbdb0b63a2d,CVE-2024-51988
-889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS多个高危漏洞安全风险通告.md,33460d68b836cd3fd884af5b297204e06d4874c7,CVE-2024-9474
 889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS多个高危漏洞安全风险通告.md,33460d68b836cd3fd884af5b297204e06d4874c7,CVE-2024-0012
+889432703,20142995/wxvl,doc/【漏洞通告】Palo Alto Networks PAN-OS多个高危漏洞安全风险通告.md,33460d68b836cd3fd884af5b297204e06d4874c7,CVE-2024-9474
 889432703,20142995/wxvl,doc/漏洞预警 | D-Link NAS设备远程代码执行漏洞.md,33744ffc094a21718b1de5c0f34908339eb6fc82,CVE-2024-10915
-889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,33cabab6895c401b791efc055cfe476ab6febd6b,CVE-2024-50375
-889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,33cabab6895c401b791efc055cfe476ab6febd6b,CVE-2024-50370
-889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,33cabab6895c401b791efc055cfe476ab6febd6b,CVE-2024-50376
-889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,33cabab6895c401b791efc055cfe476ab6febd6b,CVE-2024-50374
-889432703,20142995/wxvl,doc/知名工业WiFi接入点被曝存在20多个漏洞.md,33cabab6895c401b791efc055cfe476ab6febd6b,CVE-2024-50359
 889432703,20142995/wxvl,doc/Palo Alto Networks确认近期披露的零日漏洞正在被积极利用.md,33cebffe94a3db9322ecc0e6d2101997d63c580b,CVE-2024-9463
 889432703,20142995/wxvl,doc/Palo Alto Networks确认近期披露的零日漏洞正在被积极利用.md,33cebffe94a3db9322ecc0e6d2101997d63c580b,CVE-2024-9465
 889432703,20142995/wxvl,doc/僵尸网络利用 GeoVision 0day 安装 Mirai 恶意软件.md,346f04adb1ad6e58a2cbdfc4cb6c2ce9848cdc03,CVE-2024-11120
 889432703,20142995/wxvl,doc/PostgreSQL数据库存在高危漏洞CVE-2024-10979（8.8）.md,35d71192ba081b22fe9c1baa8e13bc247e41f957,CVE-2024-10979
-889432703,20142995/wxvl,doc/补丁不给力，VMware vCenter 严重RCE漏洞遭利用.md,3649632735e575f23a9402dd25ccc8c6b902ec5c,CVE-2024-38812
 889432703,20142995/wxvl,doc/补丁不给力，VMware vCenter 严重RCE漏洞遭利用.md,3649632735e575f23a9402dd25ccc8c6b902ec5c,CVE-2024-38813
+889432703,20142995/wxvl,doc/补丁不给力，VMware vCenter 严重RCE漏洞遭利用.md,3649632735e575f23a9402dd25ccc8c6b902ec5c,CVE-2024-38812
 889432703,20142995/wxvl,doc/漏洞预警 | Apache ZooKeeper身份验证绕过漏洞.md,36b0b261401e4fe9f84a5bd4c4694c2dc5e5f928,CVE-2024-51504
 889432703,20142995/wxvl,doc/【Exp】- CVE-2024-10924 WordPress插件Really Simple Security认证绕过漏洞.md,36e63a3b17129ec93acaf99835c5fbe360b46821,CVE-2024-10924
 889432703,20142995/wxvl,doc/【漏洞通告】Zabbix SQL注入漏洞（CVE-2024-42327）.md,3743cf2831efd5085912002ff86dff69776a2ae8,CVE-2024-42327
 889432703,20142995/wxvl,doc/谷歌 AI Fuzz 工具 OSS-Fuzz 发现 26 个零日漏洞.md,3991edccbbf09e1992eb8a5d967dcbc9ce84ecd3,CVE-2024-9143
 889432703,20142995/wxvl,doc/【漏洞预警】Apache HertzBeat < 1.6.1 消息通知模版注入漏洞CVE-2024-41151.md,413c2c082b1f12f91032688b4f8018c50dc5c3fc,CVE-2024-41151
 889432703,20142995/wxvl,doc/一文读懂SQL注入漏洞.md,4176610e61cabb6be45e8235064e16e140b6c4aa,VU#730
+889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44524
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44478
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44477
-889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44476
-889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44524
-889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44472
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44818
+889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44476
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44851
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44852
+889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44472
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44859
 889432703,20142995/wxvl,doc/上周关注度较高的产品安全漏洞(20241111-20241117).md,422ed478a75468dd3cb4b067d96ccec98f21f0a7,CNVD-2024-44861
-889432703,20142995/wxvl,doc/信息安全漏洞周报（2024年第47期）.md,435eba18e94e60e261e755fb4d4bed3006faa5a3,CNNVD-202411-2207
 889432703,20142995/wxvl,doc/信息安全漏洞周报（2024年第47期）.md,435eba18e94e60e261e755fb4d4bed3006faa5a3,CVE-2024-49012
+889432703,20142995/wxvl,doc/信息安全漏洞周报（2024年第47期）.md,435eba18e94e60e261e755fb4d4bed3006faa5a3,CNNVD-202411-2207
 889432703,20142995/wxvl,doc/信息安全漏洞周报（2024年第47期）.md,435eba18e94e60e261e755fb4d4bed3006faa5a3,CNNVD-202411-1574
 889432703,20142995/wxvl,doc/信息安全漏洞周报（2024年第47期）.md,435eba18e94e60e261e755fb4d4bed3006faa5a3,CNNVD-202411-1481
 889432703,20142995/wxvl,doc/IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞.md,43acf9a2096702ce00eadc35474b9966495af968,CVE-2024-45801
-889432703,20142995/wxvl,doc/IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞.md,43acf9a2096702ce00eadc35474b9966495af968,CVE-2024-49353
 889432703,20142995/wxvl,doc/IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞.md,43acf9a2096702ce00eadc35474b9966495af968,CVE-2024-52899
 889432703,20142995/wxvl,doc/IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞.md,43acf9a2096702ce00eadc35474b9966495af968,CVE-2024-6119
+889432703,20142995/wxvl,doc/IBM 修补数据虚拟化管理器、安全 SOAR 中的 RCE 漏洞.md,43acf9a2096702ce00eadc35474b9966495af968,CVE-2024-49353
 889432703,20142995/wxvl,doc/CVE-2024-8811：WinZip 缺陷允许恶意代码执行.md,44a77c75da019cc962477237babc736eb8ab4c57,CVE-2024-8811
 889432703,20142995/wxvl,doc/较为丝滑的一次证书站漏洞打包.md,458b6cbb76f1749e572a0f16f1e90ff8a222efbd,VU#16
 889432703,20142995/wxvl,doc/7-Zip 文件压缩工具中的漏洞.md,47b0c6398eab0ed8d09e9bec5917871cd6137505,CVE-2024-11477
@@ -255,9 +255,9 @@ repo_id,repo_full_name,file,file_sha1,match
 889432703,20142995/wxvl,doc/【漏洞通告】Apache OFBiz多个远程代码执行漏洞安全风险通告.md,492b2caf8712dbb4f82444490a898abc4fc3c951,CVE-2024-48962
 889432703,20142995/wxvl,doc/【漏洞通告】Apache OFBiz多个远程代码执行漏洞安全风险通告.md,492b2caf8712dbb4f82444490a898abc4fc3c951,CVE-2024-47208
 889432703,20142995/wxvl,doc/著名压缩工具7-Zip 存在远程代码执行漏洞——CVE-2024-11477.md,495b10ef967f2447d021230b02457fdab12c9061,CVE-2024-11477
-889432703,20142995/wxvl,doc/【漏洞扫描】Spring框架的漏洞扫描​.md,49d60584ad27897abbc894035e52fdabe3dfce00,CVE-2022-22947
 889432703,20142995/wxvl,doc/【漏洞扫描】Spring框架的漏洞扫描​.md,49d60584ad27897abbc894035e52fdabe3dfce00,CVE-2024-22257
 889432703,20142995/wxvl,doc/【漏洞扫描】Spring框架的漏洞扫描​.md,49d60584ad27897abbc894035e52fdabe3dfce00,CVE-2024-22243
+889432703,20142995/wxvl,doc/【漏洞扫描】Spring框架的漏洞扫描​.md,49d60584ad27897abbc894035e52fdabe3dfce00,CVE-2022-22947
 889432703,20142995/wxvl,doc/CVE-2024-11612 7z 24.07 中的无限循环拒绝服务漏洞.md,4a205a98567e516b8b08397c4d1041fe8781a178,CVE-2024-11612
 889432703,20142995/wxvl,doc/CVE-2024-11612 7z 24.07 中的无限循环拒绝服务漏洞.md,4a205a98567e516b8b08397c4d1041fe8781a178,ZDI-24-1606
 889432703,20142995/wxvl,doc/【漏洞通告】Google Chrome Serial释放重引用漏洞(CVE-2024-10827).md,4a2cd88a8e41d87afec8d120b7ef9b1077247c6e,CVE-2024-10827
