@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+896713036,XiaomingX/cve-2024-10220-githooks,README.md,984c663ce09c1caaf8c867417845e12cfb7a71ac,CVE-2024-10220
+896713036,XiaomingX/cve-2024-10220-githooks,hooks/post-checkout,f79c04c955e883720d31a4438198eced01281ca3,CVE-2024-10220
+896713036,XiaomingX/cve-2024-10220-githooks,_GITHUB_REPO_METADATA_,,CVE-2024-10220
