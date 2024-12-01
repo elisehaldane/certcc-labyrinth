@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+896459919,ntfargo/uaf-2023-28205,index.html,1e6a5ac46dfa5fe46b62cf8b6ee4f6aeec4fc1da,CVE-2023-28205
+896459919,ntfargo/uaf-2023-28205,README.md,30809f9fb0e93214c5d945f4cff3e29005ef028e,CVE-2023-28205
+896459919,ntfargo/uaf-2023-28205,_GITHUB_REPO_METADATA_,,CVE-2023-28205
