@@ -9,6 +9,7 @@ VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,5226
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
 VU#32,0.50000000,https://github.com/sailay1996/Exploit-Dev-UserMode,sailay1996/Exploit-Dev-UserMode,862222370
+VU#32,0.50000000,https://github.com/Halfapear/RCEntryMajorAssignment,Halfapear/RCEntryMajorAssignment,860821226
 VU#32,0.50000000,https://github.com/Offensive-Panda/PEB_WALK_AND_API_OBFUSCATION_INJECTION,Offensive-Panda/PEB_WALK_AND_API_OBFUSCATION_INJECTION,834314070
 VU#32,0.50000000,https://github.com/Offensive-Panda/WPM-MAJIC-ENTRY-POINT-INJECTION,Offensive-Panda/WPM-MAJIC-ENTRY-POINT-INJECTION,830403481
 VU#32,0.50000000,https://github.com/Zephiles/sola-exploit,Zephiles/sola-exploit,828636277
@@ -629,7 +630,7 @@ VU#32,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33
 VU#32,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#32,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
 VU#32,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
-VU#32,0.00140252,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#32,0.00139860,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#32,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#32,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
@@ -644,7 +645,7 @@ VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00032394,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00032342,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

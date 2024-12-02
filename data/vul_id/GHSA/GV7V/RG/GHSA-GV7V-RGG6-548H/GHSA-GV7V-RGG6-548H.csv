@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-GV7V-RGG6-548H,0.50000000,https://github.com/nanwinata/CVE-2024-52301,nanwinata/CVE-2024-52301,896329974
-GHSA-GV7V-RGG6-548H,0.00140252,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+GHSA-GV7V-RGG6-548H,0.00139860,https://github.com/20142995/wxvl,20142995/wxvl,889432703
