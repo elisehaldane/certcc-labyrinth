@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+860821226,Halfapear/RCEntryMajorAssignment,2CAN/10位置模式测试阶段一/Core/Inc/mytype.h,65bf2f2e98d5757d76848f27bcbb4da390714739,VU#16
+860821226,Halfapear/RCEntryMajorAssignment,2CAN/6移植核心2后 GPT大改f7CAN配置之前/Core/Inc/mytype.h,65bf2f2e98d5757d76848f27bcbb4da390714739,VU#32
