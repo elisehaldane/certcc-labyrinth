@@ -3,9 +3,7 @@ repo_id,repo_full_name,file,file_sha1,match
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/bzImage,1524e734c343690808ff75b86db88f1c2aed3948,VU#88
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/Makefile,52b37e845c0dc77f90e6f03d9177ac822b129b6f,CVE-2022-1015
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/qemu.sh,6e4dfc9ebc4b2dc245680d20673e761276318525,CVE-2022-1015
-896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/exp.o,7c604c420108900f69833362e63ebbe1ad402ace,CVE-2022-1015
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/helpers.c,82b0bafd265f30053a99532d06d00fb0f2417a5b,CVE-2022-1015
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/rootfs.cpio,8fcda3a3944605034a9ca8ed59d66d61ad158de3,CVE-2022-1015
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/exp.c,ab05e6dfb2fe9f0be8894609ea0cb5612936ac75,CVE-2022-1015
-896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/helpers.o,cb6dd6b01053791685eb9593c235bd647204a19a,CVE-2022-1015
 896153780,Polaris-Snowfall/kernel_exploit,CVE-2022-1015/helpers.h,e1de2ea084bfd7020285cab9e0a90ce7b839ac3b,CVE-2022-1015
