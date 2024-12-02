@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+843262740,DF1sh/TryHackMe-Rooms,Search Skills/README.md,0a8ff0959ee2933ad4457df8c4be57745c6ef601,CVE-2024-3094
 843262740,DF1sh/TryHackMe-Rooms,Whiterose/exploit.sh,0ee24b103412ce498cca1bf896c7a647a5faeb8d,CVE-2023-22809
 843262740,DF1sh/TryHackMe-Rooms,Vulnerability Capstone/exploit.py,0f62c073af2b9cc53997b6833569e17c0fefe97d,CVE-2018-16763
 843262740,DF1sh/TryHackMe-Rooms,Linux Privilege Escalation/README.md,474aee403e3cebb62499d407a3cd536a3a68fc16,CVE-2015-1328
