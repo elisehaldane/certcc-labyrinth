@@ -68,6 +68,7 @@ VU#19,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rc
 VU#19,0.07692308,https://github.com/SinaOzdemir/communication_quality,SinaOzdemir/communication_quality,351217609
 VU#19,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#19,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
+VU#19,0.06666667,https://github.com/iammr0ot/PowerSploit,iammr0ot/PowerSploit,897346799
 VU#19,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
 VU#19,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#19,0.06666667,https://github.com/rodrigosilvaluz/POWER_EXPLOIT,rodrigosilvaluz/POWER_EXPLOIT,599395289
@@ -467,7 +468,7 @@ VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#19,0.00032342,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00032331,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
