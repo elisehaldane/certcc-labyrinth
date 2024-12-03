@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-4GMJ-3P3H-GM8H,0.50000000,https://github.com/200101WhoAmI/CVE-2024-27088,200101WhoAmI/CVE-2024-27088,845361466
-GHSA-4GMJ-3P3H-GM8H,0.00090416,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-4GMJ-3P3H-GM8H,0.00032331,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-4GMJ-3P3H-GM8H,0.00090090,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-4GMJ-3P3H-GM8H,0.00032310,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-4GMJ-3P3H-GM8H,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
