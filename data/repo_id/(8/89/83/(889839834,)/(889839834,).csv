@@ -3,3 +3,6 @@ repo_id,repo_full_name,file,file_sha1,match
 889839834,HubStudioInjection/Exploits,Kiwi ESP.lua,bba0f24f6af31fe69a8f22e12f569bb7e0fd4440,VU#66
 889839834,HubStudioInjection/Exploits,Kiwi ESP.lua,bba0f24f6af31fe69a8f22e12f569bb7e0fd4440,VU#69
 889839834,HubStudioInjection/Exploits,Kiwi ESP.lua,bba0f24f6af31fe69a8f22e12f569bb7e0fd4440,VU#939
+889839834,HubStudioInjection/Exploits,Simple ESP.lua,e235e532702f722a42240f3313bf4f9740edde57,VU#55
+889839834,HubStudioInjection/Exploits,Simple ESP.lua,e235e532702f722a42240f3313bf4f9740edde57,VU#555
+889839834,HubStudioInjection/Exploits,Simple ESP.lua,e235e532702f722a42240f3313bf4f9740edde57,VU#56
