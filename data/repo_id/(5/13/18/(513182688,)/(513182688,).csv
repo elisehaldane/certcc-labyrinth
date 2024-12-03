@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+513182688,cisagov/ansible-role-metasploit,.pre-commit-config.yaml,cd0ea423f7ad7751d4d37286dc3223fa49fc1923,GHSA-99W6-3XPH-CX78
