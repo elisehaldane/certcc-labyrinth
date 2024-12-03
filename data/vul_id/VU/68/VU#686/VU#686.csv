@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#686,0.20000000,https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357,iamz24/CVE-2021-3493_CVE-2022-3357,824252334
 VU#686,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
+VU#686,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#686,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#686,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#686,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768

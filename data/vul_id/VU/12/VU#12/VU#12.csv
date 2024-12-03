@@ -101,6 +101,7 @@ VU#12,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-scie
 VU#12,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.github.io,850609416
 VU#12,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#12,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
+VU#12,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#12,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#12,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#12,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
@@ -417,6 +418,7 @@ VU#12,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-express
 VU#12,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#12,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#12,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
+VU#12,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#12,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#12,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#12,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
@@ -504,7 +506,7 @@ VU#12,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#12,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#12,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#12,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
-VU#12,0.00130548,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#12,0.00129366,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#12,0.00118343,https://github.com/santosomar/exploited_analysis,santosomar/exploited_analysis,536852424
 VU#12,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
@@ -554,7 +556,7 @@ VU#12,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#12,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#12,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#12,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#12,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

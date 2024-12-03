@@ -58,7 +58,6 @@ VU#69,0.33333333,https://github.com/vicojump/Exploit5,vicojump/Exploit5,46220628
 VU#69,0.33333333,https://github.com/vicojump/Exploit,vicojump/Exploit,462016126
 VU#69,0.33333333,https://github.com/momenthubv3/Skid,momenthubv3/Skid,455209277
 VU#69,0.33333333,https://github.com/JakeHost/JakeSploit-Exec,JakeHost/JakeSploit-Exec,433368423
-VU#69,0.25000000,https://github.com/HubStudioInjection/Exploits,HubStudioInjection/Exploits,889839834
 VU#69,0.25000000,https://github.com/S1TOSKI/FiveM-External-Cheat,S1TOSKI/FiveM-External-Cheat,874442866
 VU#69,0.25000000,https://github.com/Eixem/FiveM-External-Cheat,Eixem/FiveM-External-Cheat,873188405
 VU#69,0.25000000,https://github.com/DanielsSwoski/FiveM-External-Cheat,DanielsSwoski/FiveM-External-Cheat,843930180
@@ -94,6 +93,7 @@ VU#69,0.16666667,https://github.com/bladeskilled/Jine-Exploit,bladeskilled/Jine-
 VU#69,0.16666667,https://github.com/Charlie0257/T2TL,Charlie0257/T2TL,515790479
 VU#69,0.16666667,https://github.com/timb-machine/log4j,timb-machine/log4j,437311521
 VU#69,0.16666667,https://github.com/DrSlowpokePhd/drslowpokephd.github.io,DrSlowpokePhd/drslowpokephd.github.io,125553326
+VU#69,0.14285714,https://github.com/HubStudioInjection/Exploits,HubStudioInjection/Exploits,889839834
 VU#69,0.14285714,https://github.com/AhmadTNofal/cp-Linux-Command-with-Exploitation,AhmadTNofal/cp-Linux-Command-with-Exploitation,871750516
 VU#69,0.14285714,https://github.com/W0r1d-Pr1nt/RCEmap,W0r1d-Pr1nt/RCEmap,767623521
 VU#69,0.14285714,https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-,756534030
@@ -186,6 +186,7 @@ VU#69,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-scie
 VU#69,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#69,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#69,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
+VU#69,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#69,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#69,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#69,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
@@ -433,6 +434,7 @@ VU#69,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#69,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#69,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#69,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#69,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#69,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#69,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#69,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
@@ -567,7 +569,7 @@ VU#69,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#69,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#69,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#69,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#69,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#69,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#69,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 VU#69,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#69,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

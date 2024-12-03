@@ -74,6 +74,7 @@ VU#03,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-po
 VU#03,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
 VU#03,0.14285714,https://github.com/C1N0/DevineDecoy,C1N0/DevineDecoy,784653564
 VU#03,0.14285714,https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication,paras98/CVE-2021-38297-Go-wasm-Replication,781757126
+VU#03,0.14285714,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#03,0.14285714,https://github.com/gkrishnan724/CVE-2021-38297,gkrishnan724/CVE-2021-38297,719281537
 VU#03,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#03,0.14285714,https://github.com/quxiaoyang0zero/RCER,quxiaoyang0zero/RCER,482165348
@@ -85,7 +86,6 @@ VU#03,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879
 VU#03,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#03,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#03,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
-VU#03,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#03,0.11111111,https://github.com/copcop981/management_and_exploitation_of_houses,copcop981/management_and_exploitation_of_houses,581968762
 VU#03,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/AugmentedReality,580088120
 VU#03,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
@@ -437,6 +437,7 @@ VU#03,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#03,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#03,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#03,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#03,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#03,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#03,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#03,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -566,7 +567,7 @@ VU#03,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#03,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#03,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#03,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#03,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

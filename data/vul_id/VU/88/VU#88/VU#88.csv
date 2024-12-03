@@ -99,6 +99,7 @@ VU#88,0.16666667,https://github.com/Evan-Zhangyf/CVE-2023-45158,Evan-Zhangyf/CVE
 VU#88,0.16666667,https://github.com/JasonK145/GameProject_01,JasonK145/GameProject_01,672271649
 VU#88,0.16666667,https://github.com/datackmy/FallingSkies-CVE-2023-35885,datackmy/FallingSkies-CVE-2023-35885,651002237
 VU#88,0.14285714,https://github.com/mawg0ud/InvisMalware,mawg0ud/InvisMalware,810126133
+VU#88,0.14285714,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#88,0.14285714,https://github.com/AlexandrMilko/PenBot,AlexandrMilko/PenBot,581851984
 VU#88,0.14285714,https://github.com/sustech-opal/aeec-de,sustech-opal/aeec-de,551387217
 VU#88,0.12500000,https://github.com/Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,Gan02s/SILENT-DOC-PDF-XLS-EXPLOIT,518550810
@@ -107,7 +108,6 @@ VU#88,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-bas
 VU#88,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#88,0.12500000,https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,345634228
 VU#88,0.12500000,https://github.com/MainDabRblx/MainDabUISource,MainDabRblx/MainDabUISource,282796773
-VU#88,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#88,0.11111111,https://github.com/Stasaltakk/bad-idea-exploiting-man,Stasaltakk/bad-idea-exploiting-man,611195935
 VU#88,0.11111111,https://github.com/Wotle/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,Wotle/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,513134903
 VU#88,0.11111111,https://github.com/VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,504286440
@@ -173,6 +173,7 @@ VU#88,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled
 VU#88,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
 VU#88,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#88,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
+VU#88,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#88,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#88,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#88,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
@@ -474,6 +475,7 @@ VU#88,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#88,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#88,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#88,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#88,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#88,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#88,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#88,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -566,7 +568,7 @@ VU#88,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31
 VU#88,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#88,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#88,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746
-VU#88,0.00130548,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#88,0.00129366,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#88,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
 VU#88,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#88,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -600,7 +602,7 @@ VU#88,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#88,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#88,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#88,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#88,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

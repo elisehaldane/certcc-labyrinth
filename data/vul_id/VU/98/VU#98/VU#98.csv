@@ -112,6 +112,7 @@ VU#98,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/Expl
 VU#98,0.03846154,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#98,0.03846154,https://github.com/faraz-m-awan/od_matrix_multiprocessing,faraz-m-awan/od_matrix_multiprocessing,751389264
 VU#98,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
+VU#98,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#98,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#98,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#98,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
@@ -384,6 +385,7 @@ VU#98,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#98,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#98,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#98,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#98,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#98,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#98,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#98,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -525,7 +527,7 @@ VU#98,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#98,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#98,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#98,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#98,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#98,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#98,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#98,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#98,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

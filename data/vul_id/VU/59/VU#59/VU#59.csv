@@ -31,6 +31,7 @@ VU#59,0.16666667,https://github.com/LinWin-Cloud/linwin-sploit,LinWin-Cloud/linw
 VU#59,0.16666667,https://github.com/mfdev-solution/Exploit-CVE-2017-5638,mfdev-solution/Exploit-CVE-2017-5638,580942836
 VU#59,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#59,0.16666667,https://github.com/agnath18K/eXploit,agnath18K/eXploit,345155702
+VU#59,0.14285714,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#59,0.14285714,https://github.com/Projectrcs/Tinder-Exploit,Projectrcs/Tinder-Exploit,539966863
 VU#59,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Exploit,539945497
 VU#59,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-Excel-Dropper,539944914
@@ -39,7 +40,6 @@ VU#59,0.14285714,https://github.com/hktalent/exploit-poc,hktalent/exploit-poc,16
 VU#59,0.12500000,https://github.com/sadiqsonalkar/Internship,sadiqsonalkar/Internship,717998055
 VU#59,0.12500000,https://github.com/helennqin/EquitLabor,helennqin/EquitLabor,603230038
 VU#59,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
-VU#59,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#59,0.11111111,https://github.com/RomaIsnazarov/Bandit-mission-and-exploration-exploitation,RomaIsnazarov/Bandit-mission-and-exploration-exploitation,588647528
 VU#59,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
 VU#59,0.11111111,https://github.com/edoardottt/tryhackme-ctf,edoardottt/tryhackme-ctf,315062629
@@ -321,6 +321,7 @@ VU#59,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#59,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#59,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#59,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#59,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#59,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#59,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
 VU#59,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -453,7 +454,7 @@ VU#59,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#59,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#59,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#59,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#59,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#59,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#59,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#59,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#59,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

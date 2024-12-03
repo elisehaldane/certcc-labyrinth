@@ -63,6 +63,7 @@ VU#58,0.16666667,https://github.com/DhurimHalili/Scripts,DhurimHalili/Scripts,55
 VU#58,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842826
 VU#58,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490
 VU#58,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
+VU#58,0.14285714,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#58,0.12500000,https://github.com/jhruppert/wrf-ideal-crf,jhruppert/wrf-ideal-crf,880564298
 VU#58,0.12500000,https://github.com/helennqin/EquitLabor,helennqin/EquitLabor,603230038
 VU#58,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
@@ -70,7 +71,6 @@ VU#58,0.12500000,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,523104
 VU#58,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimples1337/NewSilenceFix-opensources,520340048
 VU#58,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#58,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
-VU#58,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#58,0.11111111,https://github.com/Stasaltakk/bad-idea-exploiting-man,Stasaltakk/bad-idea-exploiting-man,611195935
 VU#58,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#58,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
@@ -355,6 +355,7 @@ VU#58,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#58,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#58,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#58,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#58,0.00549451,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#58,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#58,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#58,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
@@ -475,7 +476,7 @@ VU#58,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#58,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#58,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#58,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#58,0.00018570,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#58,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#58,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#58,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#58,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
