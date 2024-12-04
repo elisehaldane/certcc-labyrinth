@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+898539017,wubinworks/magento2-encryption-key-manager-cli,README.md,61ddb2df4e31786acd58748cb53bbf5ecfc445f3,CVE-2024-34102
+898539017,wubinworks/magento2-encryption-key-manager-cli,_GITHUB_REPO_METADATA_,,CVE-2024-34102
