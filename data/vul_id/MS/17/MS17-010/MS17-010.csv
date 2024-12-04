@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS17-010,1.00000000,https://github.com/iftekmahmud/wannacry-kill-switch-analysis,iftekmahmud/wannacry-kill-switch-analysis,897943940
 MS17-010,1.00000000,https://github.com/Mohsin4055/assignmentinfosec,Mohsin4055/assignmentinfosec,896524942
 MS17-010,1.00000000,https://github.com/LaraibYazdani/Exploit-windows-smb-ms17_010_eternalblue,LaraibYazdani/Exploit-windows-smb-ms17_010_eternalblue,896242019
 MS17-010,1.00000000,https://github.com/prokyle123/RapidSploit,prokyle123/RapidSploit,878696984
@@ -403,6 +404,7 @@ MS17-010,0.04545455,https://github.com/Fplyth0ner-Combie/Bug-Project-Framework,F
 MS17-010,0.04347826,https://github.com/ray-tracer96024/metasploitable3-win2k8,ray-tracer96024/metasploitable3-win2k8,449806826
 MS17-010,0.04347826,https://github.com/DengyigeFeng/windows_exploit,DengyigeFeng/windows_exploit,147472650
 MS17-010,0.04347826,https://github.com/SirEOF/exploit-4,SirEOF/exploit-4,115913975
+MS17-010,0.04166667,https://github.com/slytechroot/exploit_development,slytechroot/exploit_development,897979667
 MS17-010,0.04166667,https://github.com/kdandy/pentest_tools,kdandy/pentest_tools,765601528
 MS17-010,0.04166667,https://github.com/pushkkk/pushkkk.github.io,pushkkk/pushkkk.github.io,717366505
 MS17-010,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
@@ -600,6 +602,7 @@ MS17-010,0.00163666,https://github.com/v-kkz/CVE-exploits,v-kkz/CVE-exploits,550
 MS17-010,0.00163666,https://github.com/winterwolf32/CVE_Exploits-,winterwolf32/CVE_Exploits-,504265084
 MS17-010,0.00147493,https://github.com/nicholas-long/github-exploit-code-repository-index,nicholas-long/github-exploit-code-repository-index,457144632
 MS17-010,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/Penetration_Testing_POC,754156584
+MS17-010,0.00128535,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS17-010,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS17-010,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
@@ -607,7 +610,7 @@ MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30the
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
 MS17-010,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-MS17-010,0.00090090,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+MS17-010,0.00090009,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 MS17-010,0.00078740,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -733,7 +736,7 @@ MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/wind
 MS17-010,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00015002,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00013029,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00013024,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS09-004,1.00000000,https://github.com/EhastyPL/SQL-MAP,EhastyPL/SQL-MAP,898102593
 MS09-004,1.00000000,https://github.com/HackEasy/MentalSploitableSQL,HackEasy/MentalSploitableSQL,112953805
 MS09-004,0.50000000,https://github.com/KillerClownAD/SQLClean,KillerClownAD/SQLClean,824958660
 MS09-004,0.25000000,https://github.com/SECFORCE/CVE-2008-5416,SECFORCE/CVE-2008-5416,90185993
