@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+898276056,jahithoque/CVE-2024-10914-Exploit,cve-2024-10914-exploit.sh,2f0bbdf7f6e9a1359bd0ba00f0ba8a2a247f42e9,CVE-2024-10914
+898276056,jahithoque/CVE-2024-10914-Exploit,README.md,543ceeb034b93e6db1155b34a6fee628caa9ab3e,CVE-2024-10914
+898276056,jahithoque/CVE-2024-10914-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-10914
