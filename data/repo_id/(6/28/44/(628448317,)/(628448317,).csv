@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-628448317,EntySec/HatSploit-Docs,docs/getting-started/hatsploit-modules.md,7c901328e6b3fa1e846f6298344694ae918b9afe,CVE-2014-4019
-628448317,EntySec/HatSploit-Docs,docs/getting-started/hatsploit-payloads.md,a6f69fb4a7c9d58df46cd4abe5e5daf3ee6b1efa,CVE-2023-23578
+628448317,EntySec/HatSploit-Docs,docs/getting-started/hatsploit-payloads.md,228ab2709ea299359736fd2cddf93206160bc37f,CVE-2019-16278
+628448317,EntySec/HatSploit-Docs,docs/getting-started/using-hatsploit.md,874364f04ff8936e1bb953f3c1a1870cec40b106,CVE-2013-7389
+628448317,EntySec/HatSploit-Docs,docs/getting-started/hatsploit-modules.md,ebd2059766976ba0491ccef5cb1abc55f292fed3,CVE-2014-4019
