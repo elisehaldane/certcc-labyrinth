@@ -14,6 +14,7 @@ VU#83,0.50000000,https://github.com/huan-cdm/fastjson_rce,huan-cdm/fastjson_rce,
 VU#83,0.50000000,https://github.com/sugade/RblxModLoader-4.12v-9,sugade/RblxModLoader-4.12v-9,760331665
 VU#83,0.50000000,https://github.com/bhushansalunke/VAPT_Metasploitable2,bhushansalunke/VAPT_Metasploitable2,736184076
 VU#83,0.50000000,https://github.com/wangjing4research/LDL-LDM,wangjing4research/LDL-LDM,397780886
+VU#83,0.33333333,https://github.com/Pablodiz/CVE-2023-50387,Pablodiz/CVE-2023-50387,898427651
 VU#83,0.33333333,https://github.com/Aditya011041/Exploited-case-study,Aditya011041/Exploited-case-study,775009393
 VU#83,0.33333333,https://github.com/Thousig/Poker-project,Thousig/Poker-project,744544754
 VU#83,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
@@ -536,7 +537,7 @@ VU#83,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#83,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#83,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#83,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#83,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#83,0.00018546,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#83,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

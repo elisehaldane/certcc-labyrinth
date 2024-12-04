@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#64,1.00000000,https://github.com/RSSU-Shellcode/Aurorium,RSSU-Shellcode/Aurorium,896078834
 VU#64,1.00000000,https://github.com/daedalus/bootkitty,daedalus/bootkitty,895652891
 VU#64,1.00000000,https://github.com/realoriginal/openforbusiness,realoriginal/openforbusiness,881345864
 VU#64,1.00000000,https://github.com/arminask/Mu-qcom-hollywood,arminask/Mu-qcom-hollywood,879038855
@@ -16,7 +17,6 @@ VU#64,1.00000000,https://github.com/Wack0/SecureBootPolicyTools,Wack0/SecureBoot
 VU#64,1.00000000,https://github.com/claudineisan/rcentury,claudineisan/rcentury,434179165
 VU#64,1.00000000,https://github.com/shantanu2307/Project-Agaricus,shantanu2307/Project-Agaricus,334324929
 VU#64,1.00000000,https://github.com/Cr4sh/ThinkPwn,Cr4sh/ThinkPwn,62154566
-VU#64,0.50000000,https://github.com/RSSU-Shellcode/Aurorium,RSSU-Shellcode/Aurorium,896078834
 VU#64,0.50000000,https://github.com/moeezjavedmj/Metasploit-Report,moeezjavedmj/Metasploit-Report,858704297
 VU#64,0.50000000,https://github.com/h4mr3r/ADSLoader,h4mr3r/ADSLoader,723832677
 VU#64,0.50000000,https://github.com/ohnonoyesyes/CVE-2023-25194,ohnonoyesyes/CVE-2023-25194,599535214
@@ -537,7 +537,7 @@ VU#64,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#64,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#64,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#64,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-VU#64,0.00018560,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#64,0.00018546,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#64,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#64,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#64,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
