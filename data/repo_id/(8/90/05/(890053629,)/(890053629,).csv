@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 890053629,noob-hacker572/CVE-Exploits,CVE-2004-2687(Distccd),308b677ef5fa38cfe7cb0f38caa89f2feb11bee7,CVE-2004-2687
 890053629,noob-hacker572/CVE-Exploits,CVE-2007-2447( Samba 3.0.20 ).py,365037e7171297a25da7bfe10ee7ddf01820800a,CVE-2007-2447
+890053629,noob-hacker572/CVE-Exploits,Linux-Privilege-Escalation/pkexec and pwnkit/Exploitation Steps.md,6d74d21ae584ae6daa1832b71bfffa1f6bf8360b,CVE-2021-4034
