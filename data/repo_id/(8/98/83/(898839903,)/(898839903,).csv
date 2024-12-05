@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+898839903,watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713,README.md,a78ccc252225d1fc47f8f4392a230271ca1f243b,CVE-2024-0000
+898839903,watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713,README.md,a78ccc252225d1fc47f8f4392a230271ca1f243b,CVE-2024-41713
+898839903,watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713,watchtowr-vs-mitel-micollab-cve-2024-41713_2024-12-05.py,ac77de766b56f5fd2298ecbcb59ceb21b048a198,CVE-2024-0000
+898839903,watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713,watchtowr-vs-mitel-micollab-cve-2024-41713_2024-12-05.py,ac77de766b56f5fd2298ecbcb59ceb21b048a198,CVE-2024-41713
+898839903,watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713,_GITHUB_REPO_METADATA_,,CVE-2024-41713
