@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+898430685,henriquesebastiao/mkx,pyproject.toml,5c841faec1f80c3283d26a035942bb7158fd121a,CVE-2018-14847
+898430685,henriquesebastiao/mkx,mkx/exploit.py,6b0114a129fb7cf4042ba3faf8b4194a211bcd85,CVE-2018-14847
