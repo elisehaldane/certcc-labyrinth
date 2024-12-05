@@ -74,6 +74,7 @@ VU#26,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#26,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#26,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#26,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
+VU#26,0.06250000,https://github.com/mahmood-mahmood/Exploitary_Data_Analysis,mahmood-mahmood/Exploitary_Data_Analysis,898296667
 VU#26,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
 VU#26,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#26,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
@@ -191,6 +192,7 @@ VU#26,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recogni
 VU#26,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#26,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#26,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
+VU#26,0.01538462,https://github.com/RuihanGao/TactileDreamFusion,RuihanGao/TactileDreamFusion,880500847
 VU#26,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#26,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#26,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
@@ -431,10 +433,10 @@ VU#26,0.00221239,https://github.com/k8gege/PowerLadon,k8gege/PowerLadon,22274027
 VU#26,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 VU#26,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits,SeanOhAileasa/ptp-network-attacks-and-exploits,515641178
 VU#26,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
-VU#26,0.00204082,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#26,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#26,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#26,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#26,0.00175131,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#26,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#26,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#26,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
@@ -482,7 +484,7 @@ VU#26,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metas
 VU#26,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#26,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#26,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#26,0.00018546,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#26,0.00018543,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#26,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#26,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#26,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
