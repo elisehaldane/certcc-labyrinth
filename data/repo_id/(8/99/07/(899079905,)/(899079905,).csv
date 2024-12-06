@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2022-2588
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2022-3328
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2023-0466
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2023-2640
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2023-32629
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2023-4911
+899079905,MissNapalm/SQLinjection,ssh_simulator.py,42e204747efe7d4667ab7b8a46e1eb2cc3311359,CVE-2023-7028
