@@ -1,7 +1,7 @@
 
 # Summary for results/2024/12/05
     
-224 records found after deduplication
+225 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -24,7 +24,7 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2024-12-05 18:11:22+00:00 | 12573 | 32 | HTML | 4 | [] |
 | V1SHW4/Fire-Hunter | POWERFUL PYTHON SCRIPT FOR SCAMMING AMD EXPLOITING VULNERABLE FIREBASE DATABASES | https://github.com/V1SHW4/Fire-Hunter | ['exploit'] | 1 | 2024-12-05 20:14:05+00:00 | 30 | 2 | Python | 0 | [] |
 | trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc', 'exploit', 'vulnerability poc'] | 3 | 2024-12-05 22:27:10+00:00 | 433317 | 6612 | HTML | 842 | [] |
-| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-12-05 01:10:28+00:00 | 1183 | 674 | Shell | 118 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'exploit', 'rce', 'rce poc', 'vulnerability poc'] | 5 | 2024-12-05 01:10:28+00:00 | 1183 | 675 | Shell | 118 | [] |
 | firefart/stunner | Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers. | https://github.com/firefart/stunner | ['exploit'] | 1 | 2024-12-05 12:01:24+00:00 | 236 | 767 | Go | 43 | [] |
 | darksideoftheshmoo/rcell2.examples | Example notebooks and sample data for rcell2 | https://github.com/darksideoftheshmoo/rcell2.examples | ['rce'] | 1 | 2024-12-05 16:32:03+00:00 | 64450 | 0 | R | 0 | [] |
 | GaryOderNichts/udpih | Exploit for the Wii U's USB Host Stack | https://github.com/GaryOderNichts/udpih | ['exploit'] | 1 | 2024-12-05 22:16:23+00:00 | 87 | 292 | C | 18 | [] |
@@ -190,7 +190,7 @@
 | D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB | None | https://github.com/D1se0/CVE-2024-21413-Vulnerabilidad-Outlook-LAB | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-12-05 09:50:57+00:00 | 37 | 1 | Python | 0 | ['CVE-2024-21413'] |
 | Pablodiz/CVE-2023-50387 | None | https://github.com/Pablodiz/CVE-2023-50387 | ['cve-2 OR cve_2'] | 1 | 2024-12-05 10:54:29+00:00 | 95 | 0 | Python | 0 | ['CVE-2023-50387'] |
 | xraydz/CSRF-lab | A CSRF lab with referrer protection bypass demonstrates exploiting a vulnerability where the server relies on the "Referer" header for CSRF defense. Attackers manipulate headers to execute unauthorized actions. | https://github.com/xraydz/CSRF-lab | ['exploit'] | 1 | 2024-12-05 10:48:19+00:00 | 9693 | 2 | EJS | 0 | [] |
-| MikeyPPPPPPPP/CVE-2023-4220 | Remote command execution exploit made for redteamers. | https://github.com/MikeyPPPPPPPP/CVE-2023-4220 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-12-05 08:48:24+00:00 | 10 | 0 | Python | 0 | ['CVE-2023-4220'] |
+| MikeyPPPPPPPP/CVE-2023-4220 | Remote command execution exploit made for redteamers. | https://github.com/MikeyPPPPPPPP/CVE-2023-4220 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2024-12-05 00:00:17+00:00 | 8 | 0 | Python | 0 | ['CVE-2023-4220'] |
 | MrMacAttaxy/blanket-pillow | Blanket Pillow is a website that explains how do bypass lots of websites with our own tutorials, we can make sure that you know how to do the exploits! | https://github.com/MrMacAttaxy/blanket-pillow | ['exploit'] | 1 | 2024-12-05 01:54:07+00:00 | 364 | 0 | | 0 | [] |
 | m1ndflay3r/ps4-pl | Simple payload sender for PS4s running on firmware 9.0.0 which have been exploited by p00bs4 | https://github.com/m1ndflay3r/ps4-pl | ['exploit'] | 1 | 2024-12-05 01:14:44+00:00 | 725 | 0 | Shell | 0 | [] |
 | fuhei/CVE-2024-31317 | CVE-2024-31317 | https://github.com/fuhei/CVE-2024-31317 | ['cve-2 OR cve_2'] | 1 | 2024-12-05 01:52:45+00:00 | 1716 | 8 | Java | 0 | ['CVE-2024-31317'] |
@@ -198,6 +198,7 @@
 | ishakdev325/SMB_exploit_v3.1.1 | VonorSec: Reverse Shell & Exploitation Script 🔥💻 | https://github.com/ishakdev325/SMB_exploit_v3.1.1 | ['exploit'] | 1 | 2024-12-05 03:35:17+00:00 | 4 | 0 | Python | 0 | [] |
 | RIZWANMOHAMMAD/rce | None | https://github.com/RIZWANMOHAMMAD/rce | ['rce'] | 1 | 2024-12-05 06:04:34+00:00 | 0 | 0 | Python | 0 | [] |
 | watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713 | None | https://github.com/watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713 | ['cve-2 OR cve_2'] | 1 | 2024-12-05 07:55:04+00:00 | 6 | 1 | Python | 1 | ['CVE-2024-41713'] |
+| Kuefo/zero | python zd - educational use only! | https://github.com/Kuefo/zero | ['zeroday'] | 1 | 2024-12-05 21:19:26+00:00 | 4 | 1 | Python | 0 | [] |
 | chaithra12003/exploitary_data_analysis | None | https://github.com/chaithra12003/exploitary_data_analysis | ['exploit'] | 1 | 2024-12-05 07:07:53+00:00 | 124 | 0 | Jupyter Notebook | 0 | [] |
 | Cxprino/Module-9-Lab- | All exploit scripts | https://github.com/Cxprino/Module-9-Lab- | ['exploit'] | 1 | 2024-12-05 07:13:00+00:00 | 1 | 0 | | 0 | [] |
 | egilas/Watchguard-RCE-POC-CVE-2022-26318 | PoC for Watchguard CVE-2022-26318 updated to Python3.12 | https://github.com/egilas/Watchguard-RCE-POC-CVE-2022-26318 | ['cve poc', 'cve-2 OR cve_2', 'rce', 'rce poc'] | 4 | 2024-12-05 10:00:31+00:00 | 4 | 0 | Python | 0 | ['CVE-2022-26318'] |
@@ -212,7 +213,7 @@
 | h3lye/CVE-2024-42448-RCE | Veeam Service Provider Console (VSPC) remote code execution. | https://github.com/h3lye/CVE-2024-42448-RCE | ['cve-2 OR cve_2', 'rce', 'remote code execution'] | 3 | 2024-12-05 13:24:46+00:00 | 3 | 0 | | 0 | ['CVE-2024-42448'] |
 | bladewing/infosec-uebungen-metasploit | None | https://github.com/bladewing/infosec-uebungen-metasploit | ['metasploit module OR payload'] | 1 | 2024-12-05 14:14:49+00:00 | 4 | 0 | Shell | 0 | [] |
 | K-Kilpatrick/Pentesting-1 | Module 16: Introduction to Pen Testing and OSINT, Initial Access and Internal Recon, Exploring Exploitation, Post Exploitation and Reporting | https://github.com/K-Kilpatrick/Pentesting-1 | ['exploit'] | 1 | 2024-12-05 14:19:22+00:00 | 5 | 0 | | 0 | [] |
-| K-Kilpatrick/Pen-testing-2-Windows | Module 17: Introduction to Windows Penetration Testing, Windows Exploitation, Privilege Escalation, and Credential Access, Windows Persistence, Lateral Movement, Credential Access, and Review | https://github.com/K-Kilpatrick/Pen-testing-2-Windows | ['exploit', 'exploitation persistence'] | 2 | 2024-12-05 14:35:34+00:00 | 3564 | 0 | | 0 | [] |
+| K-Kilpatrick/Pen-testing-2-Windows | Module 17: Introduction to Windows Penetration Testing, Windows Exploitation, Privilege Escalation, and Credential Access, Windows Persistence, Lateral Movement, Credential Access, and Review | https://github.com/K-Kilpatrick/Pen-testing-2-Windows | ['exploit', 'exploitation persistence'] | 2 | 2024-12-05 14:35:34+00:00 | 3564 | 0 | nan | 0 | [] |
 | K-Kilpatrick/Project-2 | Module 18: Students will attempt to exploit vulnerabilities on the organization's web application. Students will exploit the organization's Linux servers, and they'll exploit the organization's Windows servers. The project is structured as a Capture the Fl | https://github.com/K-Kilpatrick/Project-2 | ['exploit'] | 1 | 2024-12-05 14:40:28+00:00 | 6 | 0 | | 0 | [] |
 | just-infj/Unknown | Don't download and run because .it is a payload generated by metasploit framework | https://github.com/just-infj/Unknown | ['metasploit module OR payload'] | 1 | 2024-12-05 14:44:10+00:00 | 46 | 0 | | 0 | [] |
 | Zorn941/has | exploitation de l'open data has | https://github.com/Zorn941/has | ['exploit'] | 1 | 2024-12-05 14:54:10+00:00 | 0 | 0 | | 0 | [] |
