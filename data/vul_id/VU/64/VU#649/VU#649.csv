@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#649,1.00000000,https://github.com/jperry82/CS-370-Current-Emerging-Trends,jperry82/CS-370-Current-Emerging-Trends,875252580
-VU#649,0.02857143,https://github.com/GaoHengSiang/Color-Image-Enhancement---Reimplementation,GaoHengSiang/Color-Image-Enhancement---Reimplementation,892149123
 VU#649,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#649,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#649,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
