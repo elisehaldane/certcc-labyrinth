@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+879820928,GHatzivasilis/CyberHeraklius,CyberHeraklius/Backend/exploit_search_module.py,b920e4a3714e0e6beb6511652c0a52729f08da82,CVE-2008-4250
+879820928,GHatzivasilis/CyberHeraklius,CyberHeraklius/Backend/exploit_search_module.py,b920e4a3714e0e6beb6511652c0a52729f08da82,CVE-2019-0708
+879820928,GHatzivasilis/CyberHeraklius,CyberHeraklius/Backend/exploit_search_module.py,b920e4a3714e0e6beb6511652c0a52729f08da82,CVE-2024-23747
