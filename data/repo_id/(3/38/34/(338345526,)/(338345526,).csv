@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-338345526,xalgord/My-Methodologies,recon-strategies-by-other-hackers/extensive-recon-guide-for-bug-hunting.md,80ea3f0cc4d5c6fcafd9f85623e7fb3dd4619499,CVE-2020-5902
-338345526,xalgord/My-Methodologies,recon-strategies-by-other-hackers/extensive-recon-guide-for-bug-hunting.md,80ea3f0cc4d5c6fcafd9f85623e7fb3dd4619499,CVE-2022-24255
+338345526,xalgord/My-Methodologies,README.md,329da1de39e8eacd96657cded75408c757b315bc,CVE-2023-24488
+338345526,xalgord/My-Methodologies,recon-strategies-by-other-hackers/extensive-recon-guide-for-bug-hunting.md,48c39ae2dc1ecc784e226f15aed8f892c2b41ae4,CVE-2020-5902
+338345526,xalgord/My-Methodologies,recon-strategies-by-other-hackers/extensive-recon-guide-for-bug-hunting.md,48c39ae2dc1ecc784e226f15aed8f892c2b41ae4,CVE-2022-24255
 338345526,xalgord/My-Methodologies,xss-nuclei-template-cve-2023-24488.yaml.md,959f2e62b461196582ef30de200a85442adf30a3,CVE-2023-24488
 338345526,xalgord/My-Methodologies,SUMMARY.md,b00374a9133e5aea7c71abc1e7edf808acc94df7,CVE-2023-24488
-338345526,xalgord/My-Methodologies,README.md,f1b408ec5cd1cc5cc5f2539790f04aefd3738a30,CVE-2023-24488
