@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+899739115,whirlpoolllll/ten,docs/site/css/fonts/fontawesome-webfont.ttf,13b1eab65a983c7a73bc7997c479d66943f7c6cb,VU#96
+899739115,whirlpoolllll/ten,docs/site/css/fonts/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+899739115,whirlpoolllll/ten,README.md,90d8ced92a81c9071730ba6328faf3fd5fe0d18e,CVE-2018-7600
+899739115,whirlpoolllll/ten,docs/site/css/fonts/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
