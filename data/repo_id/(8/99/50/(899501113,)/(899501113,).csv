@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+899501113,saarsec/saarctf-2024,8-bit-oracle/service/_8BitOracle/SQLDriver/sqlite-jdbc-3.44.1.0.jar,012e6182deef32d366ade664aa33bec9f4dd3ffe,VU#16
+899501113,saarsec/saarctf-2024,8-bit-oracle/service/_8BitOracle/SQLDriver/sqlite-jdbc-3.44.1.0.jar,012e6182deef32d366ade664aa33bec9f4dd3ffe,VU#67
+899501113,saarsec/saarctf-2024,deutsches-flugzeug/exploits/exploit_wrong_lib_version.py,481deca9dccef061d8b884e12c6b184d91bee237,CVE-2022-39227
+899501113,saarsec/saarctf-2024,deutsches-flugzeug/overview.md,b804205f63af9c4b222465e8792cd29a4706e13c,CVE-2022-39227
+899501113,saarsec/saarctf-2024,reversaar/exploits/snippet.wav,e899bb1854e08daf0fe1c0aa7008152ab4579b1c,VU#520
