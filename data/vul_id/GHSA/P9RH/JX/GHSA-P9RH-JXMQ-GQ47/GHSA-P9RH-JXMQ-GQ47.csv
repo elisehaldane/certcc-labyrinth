@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-P9RH-JXMQ-GQ47,0.12500000,https://github.com/l0n3m4n/CVE-2024-47176,l0n3m4n/CVE-2024-47176,867190495
 GHSA-P9RH-JXMQ-GQ47,0.00078493,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-P9RH-JXMQ-GQ47,0.00018522,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-P9RH-JXMQ-GQ47,0.00018519,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-P9RH-JXMQ-GQ47,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-P9RH-JXMQ-GQ47,0.00000833,https://github.com/trickest/cve,trickest/cve,454015416
