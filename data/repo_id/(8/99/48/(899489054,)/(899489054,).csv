@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+899489054,0xNehru/mitel-micollab-exploit,README.md,33fb5c6c5544bdc9a6e31c4dc67cba3edf2a9fa5,CVE-2024-41713
+899489054,0xNehru/mitel-micollab-exploit,exploit.py,b3b6d82f485d3a687cf1b56505a27c7146602181,CVE-2024-41713
