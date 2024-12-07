@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 882582274,amirzargham/CVE-2024-37383-exploit,Roundcube_mail_server_exploit_for_CVE-2024-37383.js,464abb5d6521d282c48bde21b54423a9e3ffcd27,CVE-2024-37383
-882582274,amirzargham/CVE-2024-37383-exploit,README.md,a22c438aa9a3b1cd381aa4ad00314921095a60e9,CVE-2024-37383
+882582274,amirzargham/CVE-2024-37383-exploit,README.md,dbeeb5b4d8eed38f541b5c006e4e330d03cdb8db,CVE-2024-37383
 882582274,amirzargham/CVE-2024-37383-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-37383
