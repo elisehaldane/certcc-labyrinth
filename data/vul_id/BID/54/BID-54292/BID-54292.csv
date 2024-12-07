@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-BID-54292,0.03846154,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
+BID-54292,0.03571429,https://github.com/Chocapikk/msf-exploit-collection,Chocapikk/msf-exploit-collection,860154691
 BID-54292,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 BID-54292,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 BID-54292,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -115,7 +115,7 @@ BID-54292,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulq
 BID-54292,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 BID-54292,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 BID-54292,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
-BID-54292,0.00018529,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+BID-54292,0.00018522,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 BID-54292,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 BID-54292,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 BID-54292,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
