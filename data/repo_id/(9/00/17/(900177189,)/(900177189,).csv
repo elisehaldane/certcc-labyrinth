@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+900177189,XiaomingX/CNVD-2020-10487-Tomcat-Ajp-lfi,README.md,36f2bc7f5bdd9308262ed330e23eecb384b47acf,CNVD-2020-10487
+900177189,XiaomingX/CNVD-2020-10487-Tomcat-Ajp-lfi,poc.py,c0c7102d2647a2bce5076a42f2ff8862eb5dc867,CNVD-2020-10487
+900177189,XiaomingX/CNVD-2020-10487-Tomcat-Ajp-lfi,_GITHUB_REPO_METADATA_,,CNVD-2020-10487
