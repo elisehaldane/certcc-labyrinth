@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
+VU#25,0.50000000,https://github.com/Meodeptraicutevippro/exploit,Meodeptraicutevippro/exploit,900242607
 VU#25,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
 VU#25,0.50000000,https://github.com/kevinci-03/Keylogger,kevinci-03/Keylogger,651704571
 VU#25,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
@@ -585,7 +586,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00032165,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00032154,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
