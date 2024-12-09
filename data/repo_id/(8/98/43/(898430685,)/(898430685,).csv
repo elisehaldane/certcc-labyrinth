@@ -1,6 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
+898430685,henriquesebastiao/mkx,mkx/core/helps.py,1d647ee0c52f4ec214bc3bfdaaf118d3c2c75bdf,CVE-2018-14847
+898430685,henriquesebastiao/mkx,mkx/core/helps.py,1d647ee0c52f4ec214bc3bfdaaf118d3c2c75bdf,CVE-2023-30800
+898430685,henriquesebastiao/mkx,mkx/attacks/exploit.py,462636a15ae6059000a9852a50052147f50cdf55,CVE-2018-14847
 898430685,henriquesebastiao/mkx,mkx/attacks/kill_web_server.py,634035d1eeddf6c04787dad1bad00e7cfc0e6a73,CVE-2023-30800
 898430685,henriquesebastiao/mkx,README.md,72841c02d82d655100f992148c6246d2d0690d81,CVE-2018-14847
 898430685,henriquesebastiao/mkx,README.md,72841c02d82d655100f992148c6246d2d0690d81,CVE-2023-30800
-898430685,henriquesebastiao/mkx,mkx/core/helps.py,bcc46e319cd6554a9005ea10d0976246d34d603b,CVE-2023-30800
-898430685,henriquesebastiao/mkx,mkx/attacks/exploit.py,fa43fa9c4808283287c3e2b2ccdfc18bf1d28470,CVE-2018-14847
