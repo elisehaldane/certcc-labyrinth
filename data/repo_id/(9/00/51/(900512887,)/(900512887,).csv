@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+900512887,Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-,568-mod.py,332276fa0c9dee9d6a51ac298ce6e2c4ecae3898,CVE-2004-1561
+900512887,Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-,README.md,d4bea6d715cd7aec02e3e04bf8856e674b81b611,CVE-2004-1561
+900512887,Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-,_GITHUB_REPO_METADATA_,,CVE-2004-1561
