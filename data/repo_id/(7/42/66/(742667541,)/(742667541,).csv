@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+742667541,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,Exploits writeups/ms08-067-exploit.pcapng,345730239a02ef305a698cd927731c5ac3a8b94b,MS08-067
 742667541,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,Exploits writeups/CVE 2008-4250.md,5e4655f0d54fb95da5c2110b473420105468ee6c,CVE-2008-4250
 742667541,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,Exploits writeups/CVE 2008-4250.md,5e4655f0d54fb95da5c2110b473420105468ee6c,MS08-067
 742667541,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,Exploits & Understandings/exploit-a.md,7b5c6e105ea80cfaa4eac012a43c8a4a77d2b95a,CVE-2008-4250
