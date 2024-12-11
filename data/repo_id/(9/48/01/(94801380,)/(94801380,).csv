@@ -255,11 +255,10 @@ repo_id,repo_full_name,file,file_sha1,match
 94801380,The-Art-of-Hacking/h4cker,web_application_testing/additional_exploits/druid_exploit.py,7663e25454027a756f2c9810a2bdf96e9f35704d,CVE-2023-25194
 94801380,The-Art-of-Hacking/h4cker,linux-hardening/Ultimate_Linux_Hardening_DAY1 .pdf,80f710c56c6f2af4c8e8f5617e905741bba2f9e9,VU#33
 94801380,The-Art-of-Hacking/h4cker,linux-hardening/Ultimate_Linux_Hardening_DAY1 .pdf,80f710c56c6f2af4c8e8f5617e905741bba2f9e9,VU#13
-94801380,The-Art-of-Hacking/h4cker,cheat_sheets/PENT-PSTR-SANS18-BP-V1_web.pdf,9258c330bfa6bed2a2fd7b2dd67824fbc1d32d5c,VU#44
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/PENT-PSTR-SANS18-BP-V1_web.pdf,9258c330bfa6bed2a2fd7b2dd67824fbc1d32d5c,VU#962
-94801380,The-Art-of-Hacking/h4cker,recon/intro_to_nuclei.md,a0d1dd9e0905ca4b31b1ea867f2833f2cd452991,CVE-2021-44228
-94801380,The-Art-of-Hacking/h4cker,exploit_development/README.md,a6684a782ffe89d3dcce4e57bf2b906bfd04b3a0,CVE-2017-0199
+94801380,The-Art-of-Hacking/h4cker,cheat_sheets/PENT-PSTR-SANS18-BP-V1_web.pdf,9258c330bfa6bed2a2fd7b2dd67824fbc1d32d5c,VU#44
 94801380,The-Art-of-Hacking/h4cker,exploit_development/README.md,a6684a782ffe89d3dcce4e57bf2b906bfd04b3a0,CVE-2017-8759
+94801380,The-Art-of-Hacking/h4cker,exploit_development/README.md,a6684a782ffe89d3dcce4e57bf2b906bfd04b3a0,CVE-2017-0199
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/Attack-Surfaces-Tools-and-Techniques.pdf,adf73ec929167f8582938c0e5de15153a7fcbb23,VU#863
 94801380,The-Art-of-Hacking/h4cker,more_tools.md,b05b52cca4f7993bd74151514ba67398e4aea811,VU#29
 94801380,The-Art-of-Hacking/h4cker,more_tools.md,b05b52cca4f7993bd74151514ba67398e4aea811,CVE-2019-0708
@@ -272,6 +271,7 @@ repo_id,repo_full_name,file,file_sha1,match
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#555
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#44
 94801380,The-Art-of-Hacking/h4cker,docker-and-k8s-security/kubernetes/Kubernetes Goat.pdf,c50f65c60a6e602992a85daf9c41ff3eaf209129,VU#76
+94801380,The-Art-of-Hacking/h4cker,recon/intro_to_nuclei.md,c63f761a19e4f8e49f8da7e88e63a3b4c546ac2b,CVE-2021-44228
 94801380,The-Art-of-Hacking/h4cker,cheat_sheets/malware-analysis-cheat-sheet.pdf,c921915eda3dec0aa727bf699dde282020ffacc7,VU#22
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#97
 94801380,The-Art-of-Hacking/h4cker,dfir/threat-hunting-analysis-main/Detecting Nmap Behavior with Bro HTTP Logs.ipynb,cd8e23d49c0b0343b402d1af00eef05a98976534,VU#967
