@@ -16,7 +16,6 @@ VU#01,0.50000000,https://github.com/onuratakan/Haimgard,onuratakan/Haimgard,4186
 VU#01,0.50000000,https://github.com/cmurai/exp2estimation,cmurai/exp2estimation,380392795
 VU#01,0.50000000,https://github.com/jaxBCD/Zeebsploit,jaxBCD/Zeebsploit,168705397
 VU#01,0.33333333,https://github.com/CharonDefalt/Shellcode-Image,CharonDefalt/Shellcode-Image,764445485
-VU#01,0.33333333,https://github.com/cultureelerfgoed/rce-thesauri-backup,cultureelerfgoed/rce-thesauri-backup,706151427
 VU#01,0.33333333,https://github.com/EgeBalci/CVE-2022-29154,EgeBalci/CVE-2022-29154,536604298
 VU#01,0.33333333,https://github.com/1406429350/CUnet-main,1406429350/CUnet-main,513395754
 VU#01,0.33333333,https://github.com/t-rekttt/yoosee-exploit,t-rekttt/yoosee-exploit,502569887
@@ -24,9 +23,11 @@ VU#01,0.25000000,https://github.com/exploitationandci/exploitationandci.github.i
 VU#01,0.25000000,https://github.com/aravind0x7/MQTT-Vulnerable-Lab,aravind0x7/MQTT-Vulnerable-Lab,801416933
 VU#01,0.25000000,https://github.com/vishesh381/Tweet-Classification,vishesh381/Tweet-Classification,800183015
 VU#01,0.25000000,https://github.com/HavocIncorporated/Havoc-Executor,HavocIncorporated/Havoc-Executor,759532235
+VU#01,0.25000000,https://github.com/cultureelerfgoed/rce-thesauri-backup,cultureelerfgoed/rce-thesauri-backup,706151427
 VU#01,0.25000000,https://github.com/Laurikes/synapse,Laurikes/synapse,694125869
 VU#01,0.25000000,https://github.com/FIRSTdotorg/epss,FIRSTdotorg/epss,487842087
 VU#01,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
+VU#01,0.20000000,https://github.com/TechSavvy54y/Rocky-Rabbit-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,TechSavvy54y/Rocky-Rabbit-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat,901336101
 VU#01,0.20000000,https://github.com/GreenWaven3/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack,GreenWaven3/Seekers-of-Tokane-Cheat-Crypto-Bot-Auto-Farm-Clicker-Game-Api-Hack,871985954
 VU#01,0.20000000,https://github.com/GreenWaven3/Super-Champs-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,GreenWaven3/Super-Champs-Game-Crypto-Bot-Auto-Farm-Clicker-Cheat-Api-Hack,871985950
 VU#01,0.20000000,https://github.com/InnovateY1/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat,InnovateY1/Catizen-Mini-Game-Bot-Auto-Farm-Clicker-Crypto-Blockchain-Hack-Cheat,871966201
@@ -573,8 +574,8 @@ VU#01,0.00019142,https://github.com/vavee233/metasploit-framework,vavee233/metas
 VU#01,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#01,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#01,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#01,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#01,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
+VU#01,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#01,0.00018515,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#01,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#01,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

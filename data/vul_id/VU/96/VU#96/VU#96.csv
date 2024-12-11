@@ -196,6 +196,7 @@ VU#96,0.03846154,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote
 VU#96,0.03846154,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#96,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#96,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
+VU#96,0.03703704,https://github.com/TranKuBao/CVE-20233460,TranKuBao/CVE-20233460,901723317
 VU#96,0.03703704,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#96,0.03703704,https://github.com/debrunbaix/Enkidu,debrunbaix/Enkidu,766176348
 VU#96,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
@@ -595,8 +596,8 @@ VU#96,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetrat
 VU#96,0.00018972,https://github.com/flechaok/Metasploit-framework,flechaok/Metasploit-framework,779828868
 VU#96,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarnain28/metasploit-framework,824824910
 VU#96,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
-VU#96,0.00018629,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#96,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
+VU#96,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#96,0.00018515,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
