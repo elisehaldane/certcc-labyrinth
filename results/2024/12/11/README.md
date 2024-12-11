@@ -1,0 +1,33 @@
+
+# Summary for results/2024/12/11
+    
+26 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2024-12-11 04:34:40+00:00 | 4052784 | 537 | REXX | 47 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc', 'vulnerability poc'] | 2 | 2024-12-11 00:32:27+00:00 | 605207 | 6575 | | 1202 | [] |
+| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2024-12-11 04:33:16+00:00 | 546045 | 931 | Python | 200 | [] |
+| stryngs/edgedressing | edgedressing leverages a Windows "feature" in order to force a target's Edge browser to open. This browser is then directed to a URL of choice. | https://github.com/stryngs/edgedressing | ['rce'] | 1 | 2024-12-11 02:56:36+00:00 | 11001 | 50 | Python | 5 | [] |
+| StevenRCE0/StevenRCE0 | Hello meow! | https://github.com/StevenRCE0/StevenRCE0 | ['rce'] | 1 | 2024-12-11 00:15:05+00:00 | 11665 | 0 | | 1 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'rce', 'rce poc', 'vulnerability poc'] | 4 | 2024-12-11 01:10:20+00:00 | 1240 | 677 | Shell | 118 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2024-12-11 04:51:14+00:00 | 245602 | 280 | Go | 59 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc'] | 1 | 2024-12-11 04:16:59+00:00 | 272643 | 158 | Go | 21 | [] |
+| justakazh/CVE_Database | The Common Vulnerabilities Exposures (CVE) Database | https://github.com/justakazh/CVE_Database | ['0day', 'zeroday'] | 2 | 2024-12-11 04:40:30+00:00 | 560710 | 20 | | 11 | [] |
+| cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2024-12-11 05:08:58+00:00 | 519107 | 0 | Python | 0 | [] |
+| ZeroDayDaemon/ZeroDayDaemon | None | https://github.com/ZeroDayDaemon/ZeroDayDaemon | ['zeroday'] | 1 | 2024-12-11 03:59:44+00:00 | 13 | 0 | nan | 0 | [] |
+| 20142995/CNVD_crawler | nan | https://github.com/20142995/CNVD_crawler | ['cnvd-c OR cnvd-2 OR cnnvd-2'] | 1 | 2024-12-11 03:27:56+00:00 | 1769 | 0 | Python | 2 | [] |
+| Galeax/CVE2CAPEC | Generate a MITRE ATT&CK Navigator based on a list of CVEs. Database with CVE, CWE, CAPEC, and MITRE ATT&CK Techniques data is updated daily. | https://github.com/Galeax/CVE2CAPEC | ['cve-2 OR cve_2'] | 1 | 2024-12-11 02:04:13+00:00 | 63999 | 56 | Python | 10 | [] |
+| XiaomingX/data-cve-poc | 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 | https://github.com/XiaomingX/data-cve-poc | ['cve poc', 'vulnerability poc'] | 2 | 2024-12-11 01:56:20+00:00 | 170413 | 16 | Python | 3 | [] |
+| Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue. | https://github.com/Mykhis/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware | ['cve-2 OR cve_2'] | 1 | 2024-12-11 05:50:41+00:00 | 707 | 1 | C++ | 0 | [] |
+| 20142995/wxvl | 复现_漏洞_CVE_CNVD_POC_EXP_0day_1day_nday等相关微信文章收集 | https://github.com/20142995/wxvl | ['0day', 'cve poc'] | 2 | 2024-12-11 04:14:31+00:00 | 8523 | 19 | Python | 3 | [] |
+| temporaryJustice/run-shellcode-in-memory | Can run a payload shellcode in-memory by injecting a process. (does not bypass AV). | https://github.com/temporaryJustice/run-shellcode-in-memory | ['shellcode'] | 1 | 2024-12-11 01:39:30+00:00 | 5643 | 14 | C++ | 3 | [] |
+| Tud-Ra/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/Tud-Ra/WinRAR-Exploit-Builder | ['0day'] | 1 | 2024-12-11 04:55:51+00:00 | 169 | 0 | C# | 1 | [] |
+| wjunior15/pcaps-tcc | Conjunto de dados contendo pcaps de rede capturados em ambiente docker com tráfego seguro e simulação de ataques utilizando o framework Metasploit | https://github.com/wjunior15/pcaps-tcc | ['metasploit module OR payload'] | 1 | 2024-12-11 02:52:58+00:00 | 1169 | 0 | | 0 | [] |
+| tehstoni/LexiCrypt | Shellcode encryptor using a substitution cipher with a randomly generated key. | https://github.com/tehstoni/LexiCrypt | ['shellcode'] | 1 | 2024-12-11 03:19:30+00:00 | 39 | 33 | Rust | 5 | [] |
+| itform-fr/Zabbix---CVE-2024-42327 | None | https://github.com/itform-fr/Zabbix---CVE-2024-42327 | ['cve-2 OR cve_2'] | 1 | 2024-12-11 00:46:22+00:00 | 2 | 0 | Python | 0 | ['CVE-2024-42327'] |
+| chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu | Windows下SSL证书制作工具-CVE-2004-2761漏洞修复 | https://github.com/chaos198800/Windows-xia-SSL-zheng-shu-zhi-zuo-gong-ju--CVE-2004-2761-lou-dong-xiu-fu | ['cve-2 OR cve_2'] | 1 | 2024-12-11 00:49:11+00:00 | 1 | 0 | | 0 | ['CVE-2004-2761'] |
+| xmidt-org/clifx | Provides simple dependency injection for parsed command lines | https://github.com/xmidt-org/clifx | ['command injection'] | 1 | 2024-12-11 02:48:40+00:00 | 18 | 0 | Go | 0 | [] |
+| coskper-papa/PAN-OS_CVE-2024-9474 | Palo Alto Networks PAN-OS(CVE-2024-9474) POC | https://github.com/coskper-papa/PAN-OS_CVE-2024-9474 | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2024-12-11 03:36:19+00:00 | 8 | 1 | Python | 0 | ['CVE-2024-9474'] |
+| Answerr/shellcode_loader_bypass | None | https://github.com/Answerr/shellcode_loader_bypass | ['shellcode'] | 1 | 2024-12-11 04:33:53+00:00 | 38873 | 2 | C++ | 0 | [] |
+| nutcr4ck3r/CVE-2024-26229 | None | https://github.com/nutcr4ck3r/CVE-2024-26229 | ['cve-2 OR cve_2'] | 1 | 2024-12-11 05:45:38+00:00 | 0 | 0 | | 0 | ['CVE-2024-26229'] |
