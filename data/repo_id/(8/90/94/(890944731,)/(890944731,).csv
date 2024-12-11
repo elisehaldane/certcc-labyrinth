@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 890944731,SarahZimmermann-Schmutzler/exploit_keepass,my_poc.py,1e9ef16389b7b503b9ef6cabfa78b03f1269a5c8,CVE-2023-32784
 890944731,SarahZimmermann-Schmutzler/exploit_keepass,README.md,7661994d8bf2fc88f34990f5b84c37778c2328fe,CVE-2023-32784
+890944731,SarahZimmermann-Schmutzler/exploit_keepass,exploit_keepass.py,8aef963f14e4ebccab2dd17ad76f9fdb3f16bdf9,CVE-2023-32784
 890944731,SarahZimmermann-Schmutzler/exploit_keepass,_GITHUB_REPO_METADATA_,,CVE-2023-32784
