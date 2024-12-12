@@ -270,6 +270,7 @@ VU#29,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,3991
 VU#29,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#29,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#29,0.04761905,https://github.com/opsxcq/exploit-CVE-2017-7494,opsxcq/exploit-CVE-2017-7494,92457464
+VU#29,0.04545455,https://github.com/HugoCls/honey-si-vulnerable-app-POC,HugoCls/honey-si-vulnerable-app-POC,902379653
 VU#29,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#29,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#29,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
@@ -768,9 +769,9 @@ VU#29,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#29,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-VU#29,0.00089286,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00088028,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
+VU#29,0.00081766,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00076220,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -783,7 +784,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00032072,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00032062,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
