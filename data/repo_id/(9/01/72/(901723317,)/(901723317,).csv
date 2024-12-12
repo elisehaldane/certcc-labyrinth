@@ -119,8 +119,8 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/core/class-user.php,2654bba2c8aad5ff9d0328da49b7a871990812d3,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/jquery-ui.css,26d1608af14b5dd6b187e37cffeab57051db548f,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/km.js,282bb56ddafc416b655c04f9ae0f1168220cd6fc,CVE-2023-3460
-901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,VU#37
+901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.woff,28b782240b3e76db824e12c02754a9731a167527,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/hsb.js,2a263d9c688cd7aa09cafd6c31769ea0ed28529b,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/ko_KR.js,2a28a0c87b5e99b14de3f239a5ab981ad3f98414,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/img/extensions/groups.svg,2a515e036915a2e291a2b55acf5416c3f1c81008,CVE-2023-3460
@@ -148,6 +148,7 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/class-admin-users.php,38b8442cab05f73f3cdc162ded9212eb8ede31ed,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/fr_FR.js,3907c10e6a177a07b8c2d23e34a3940f4488b37a,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/templates/directory/pagination.php,396b33f32d28943cdb771eb024fc824b720d5e30,CVE-2023-3460
+901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/User_info.xlsx,39e2d88bbfbc21c034ee4b45d2de2aaa4163c7ec,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.1.3-beta3/hooks.php,3a003444629a5f6915d62fbf5e016d07333db81a,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-fonticons-ii.css,3d0066ea5d188e306510cabb812645aa773fc8dd,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/id_ID.js,3d01244d73c14e7709a8d07213f3aa346dccb358,CVE-2023-3460
@@ -157,8 +158,8 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/email/checkmail_email.php,3e5ac51bc98ff87043b2b23411653bb4e66b93d9,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.5.0/init.php,3ea5f1497d38b33b05f409b9e0dc1f99c8bfec3c,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/docker-compose-setup.yml,3ede068bb9714ffeee6338a3025cc8fa29b03d45,CVE-2023-3460
-901723317,TranKuBao/CVE-20233460,note_cve.txt,3f4793aa3e4815423a2809ac3c2fb348216ba89f,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,note_cve.txt,3f4793aa3e4815423a2809ac3c2fb348216ba89f,CVE-2024-1071
+901723317,TranKuBao/CVE-20233460,note_cve.txt,3f4793aa3e4815423a2809ac3c2fb348216ba89f,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/is.js,3f4f203545d0db2db770ccbaf5591aa2ef6000ef,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/modal/um_upload_single.php,3f88aaffb5eee5e2a73f784c2563f71f316c85a0,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/profile/comments-single.php,3fab1b63b1c07079f66e0d0cc3efd2c1180c6f69,CVE-2023-3460
@@ -225,9 +226,9 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-styles.css,5e119e7f212d48d196bb1a0e7209dc9e910e3500,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/et_EE.js,5e8d3bd5db1bcde1a50ff25395f3a32b42fbdb75,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/profile.php,5e91213166422b4fe9bf2a440f7fb3516c98db18,CVE-2023-3460
+901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/Dockerfile,5e99339b5dc7c63cab9f6347e3b7ca78e2ac505a,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/uk_UA.js,5ed3cf62bc1f02f63d19138ea86158a39b6a7627,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/core/class-uploader.php,5ef2493be42b5f61d3807b10da89c402d005066b,CVE-2023-3460
-901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/Dockerfile,5f0a8a9abd2c7b409a224bf4c548a8a7aabe6e6e,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-misc.css,5f3cec4d43f244d530149697c11cb8760572d29f,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.1.0-beta1/init.php,5f93e84da1438538027a5c411a19004424460836,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/ms.js,5f9c625b8c1541a722736c70a943207d5ea1b26d,CVE-2023-3460
@@ -456,8 +457,8 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-crop.css,d7376d5ca682e057f934a1a4571625bfdab8657f,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-modal.css,d80cedf97abb7bfe060c5194bb4ddf7bf7d24478,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.0.54/functions.php,d85c931a7987a2d1f692ed92fc9591b937c69486,CVE-2023-3460
-901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,CVE-2023-3460
+901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/font/fontawesome-webfont.eot,d980c2ce873dc43af460d4d572d441304499f400,VU#96
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/core/class-member-directory.php,d9942411b8e67ac93844dfd21baea790b1224ca5,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/fi.js,d9ca619500907f7fdd94e2a3eb665406719280d7,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/templates/directory/sorting.php,d9e300bcab227e50a8e9c852216fd50ac978674b,CVE-2023-3460
@@ -499,9 +500,9 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/templates/dashboard/purge.php,ee9a6e874868688061be9296fce79e7736933f2c,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/ja_JP.js,eec57c948056cfc842198b79f14f53242513a2ef,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/nb.js,eec948ca7b449e9c8a273a9df6e4fff087e04ebb,CVE-2023-3460
-901723317,TranKuBao/CVE-20233460,add Exploit/elementor.3.6.1.zip,f0b6e7e5a46e24292242f36920b2d39417879d5b,VU#74
 901723317,TranKuBao/CVE-20233460,add Exploit/elementor.3.6.1.zip,f0b6e7e5a46e24292242f36920b2d39417879d5b,VU#60
 901723317,TranKuBao/CVE-20233460,add Exploit/elementor.3.6.1.zip,f0b6e7e5a46e24292242f36920b2d39417879d5b,VU#37
+901723317,TranKuBao/CVE-20233460,add Exploit/elementor.3.6.1.zip,f0b6e7e5a46e24292242f36920b2d39417879d5b,VU#74
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/um-modal.js,f0dc8c3e7abf1a2e8dc97ad4a944ca49d94e774c,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/login.php,f1a43ed52164a643d0cd06596897b66d4b2c55ad,CVE-2023-3460
 901723317,TranKuBao/CVE-20233460,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.0.24/hooks.php,f1d963e97b4cfec5eadbd4362a79ad11dfadd991,CVE-2023-3460

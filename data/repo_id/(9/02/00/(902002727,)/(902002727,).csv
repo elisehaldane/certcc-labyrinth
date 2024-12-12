@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+902002727,yannkumar/nmap-exploit-script,exploit.py,42d3c06df7dd81dc8ab554fa4b7117bf43445cdd,MS17-010
