@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+890979235,shellgobrrrr/exploits,ghost-cms/< 5.59.1/cve-2023-40028_file_read.sh,2ed901895b310c2d9fddca1b68a4b32292434f4e,CVE-2023-40028
