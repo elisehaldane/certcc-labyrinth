@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS17-010,1.00000000,https://github.com/yannkumar/nmap-exploit-script,yannkumar/nmap-exploit-script,902002727
 MS17-010,1.00000000,https://github.com/iftekmahmud/wannacry-kill-switch-analysis,iftekmahmud/wannacry-kill-switch-analysis,897943940
 MS17-010,1.00000000,https://github.com/Mohsin4055/assignmentinfosec,Mohsin4055/assignmentinfosec,896524942
 MS17-010,1.00000000,https://github.com/LaraibYazdani/Exploit-windows-smb-ms17_010_eternalblue,LaraibYazdani/Exploit-windows-smb-ms17_010_eternalblue,896242019
@@ -608,9 +609,9 @@ MS17-010,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4
 MS17-010,0.00097371,https://github.com/fengjixuchui/Windows10ExploitsArchiv30thers,fengjixuchui/Windows10ExploitsArchiv30thers,257192688
 MS17-010,0.00095602,https://github.com/xbl3/awesome-cve-poc_qazbnm456,xbl3/awesome-cve-poc_qazbnm456,266717542
 MS17-010,0.00094251,https://github.com/qazbnm456/awesome-cve-poc,qazbnm456/awesome-cve-poc,80700387
-MS17-010,0.00093458,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS17-010,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-MS17-010,0.00088339,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+MS17-010,0.00089286,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS17-010,0.00088028,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 MS17-010,0.00078370,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 MS17-010,0.00073206,https://github.com/mp-sec/OS-Exploitation-Paper,mp-sec/OS-Exploitation-Paper,488386274
 MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -734,9 +735,9 @@ MS17-010,0.00018515,https://github.com/rapid7/metasploit-framework,rapid7/metasp
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS17-010,0.00014943,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00014941,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS17-010,0.00012962,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00012952,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
@@ -796,7 +797,7 @@ MS17-010,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_
 MS17-010,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS17-010,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS17-010,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS17-010,0.00000831,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00000828,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
