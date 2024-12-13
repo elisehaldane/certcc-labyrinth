@@ -19,6 +19,7 @@ repo_id,repo_full_name,file,file_sha1,match
 843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2019-18634
 843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2016-1240
 843262740,DF1sh/TryHackMe-Rooms,Introductory Researching/README.md,d428cffb3a721aaadea9ce8a5cb326293c7ec841,CVE-2007-0017
+843262740,DF1sh/TryHackMe-Rooms,Moniker Link (CVE-2024-21413)/README.md,d9719d8a498820ca33f5046f5742deef87f62a9d,CVE-2024-21413
 843262740,DF1sh/TryHackMe-Rooms,Nmap Post Port Scans/README.md,dd2f64d1d4d232c3421101549219ae442a62ad43,MS15-034
 843262740,DF1sh/TryHackMe-Rooms,TryHack3M: Bricks Heist/README.md,f27990dacb9c675ee038aff8d8401918ef6f8dac,CVE-2024-25600
 843262740,DF1sh/TryHackMe-Rooms,Whiterose/README.md,f9ea58a3723fc5ee7332858e5e58ce0cdd687bfb,CVE-2023-22809
