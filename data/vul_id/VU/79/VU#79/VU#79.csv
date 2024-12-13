@@ -48,7 +48,6 @@ VU#79,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,
 VU#79,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#79,0.16666667,https://github.com/mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,708648893
 VU#79,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
-VU#79,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
 VU#79,0.16666667,https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity,complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity,655981562
 VU#79,0.16666667,https://github.com/esuc4se/screwdriverRCE,esuc4se/screwdriverRCE,618388543
 VU#79,0.16666667,https://github.com/Abdulazizalsewedy/CVE-2021-29447,Abdulazizalsewedy/CVE-2021-29447,567344895
@@ -62,9 +61,11 @@ VU#79,0.12500000,https://github.com/x7dbg/Notes,x7dbg/Notes,721210794
 VU#79,0.12500000,https://github.com/d4rk-kn1gh7/b3typer,d4rk-kn1gh7/b3typer,592440733
 VU#79,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459852128
 VU#79,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459708235
+VU#79,0.11111111,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
 VU#79,0.11111111,https://github.com/Deep-Co-Training/GraphCoReg,Deep-Co-Training/GraphCoReg,506860163
 VU#79,0.11111111,https://github.com/jithinjj1910/NLP-Syntactic-Processing,jithinjj1910/NLP-Syntactic-Processing,440488541
 VU#79,0.11111111,https://github.com/edoardottt/tryhackme-ctf,edoardottt/tryhackme-ctf,315062629
+VU#79,0.11111111,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#79,0.11111111,https://github.com/JsHuang/exploit_db,JsHuang/exploit_db,146378813
 VU#79,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
 VU#79,0.10000000,https://github.com/iamumarjaved/Information-Security,iamumarjaved/Information-Security,739135576
@@ -480,7 +481,7 @@ VU#79,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#79,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#79,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#79,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#79,0.00018515,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#79,0.00018512,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#79,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

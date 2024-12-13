@@ -49,7 +49,6 @@ VU#03,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/Wi
 VU#03,0.16666667,https://github.com/yubrajpandeya/sagarmatha,yubrajpandeya/sagarmatha,819539189
 VU#03,0.16666667,https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228,YangHyperData/LOGJ4_PocShell_CVE-2021-44228,780990164
 VU#03,0.16666667,https://github.com/SerLink04/diavloclient,SerLink04/diavloclient,704272254
-VU#03,0.16666667,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
 VU#03,0.16666667,https://github.com/UtkarshV09/Log4j-Exploit,UtkarshV09/Log4j-Exploit,570304337
 VU#03,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-poc,539366249
 VU#03,0.16666667,https://github.com/vidrez/log4j-rce-poc,vidrez/log4j-rce-poc,503471159
@@ -86,6 +85,7 @@ VU#03,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879
 VU#03,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#03,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
 VU#03,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
+VU#03,0.11111111,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
 VU#03,0.11111111,https://github.com/copcop981/management_and_exploitation_of_houses,copcop981/management_and_exploitation_of_houses,581968762
 VU#03,0.11111111,https://github.com/Mikalb98/AugmentedReality,Mikalb98/AugmentedReality,580088120
 VU#03,0.11111111,https://github.com/Neluve/SimplExploitS_English,Neluve/SimplExploitS_English,535005507
@@ -568,7 +568,7 @@ VU#03,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#03,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#03,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#03,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#03,0.00018515,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#03,0.00018512,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#03,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#03,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#03,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
