@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#43,1.00000000,https://github.com/TranKuBao/winrar_CVE2023-38831,TranKuBao/winrar_CVE2023-38831,902760101
 VU#43,1.00000000,https://github.com/XenoRbx/Xeno-Executor-Exploit,XenoRbx/Xeno-Executor-Exploit,874025577
 VU#43,1.00000000,https://github.com/REYHAN6610/Ai-Black-Hat,REYHAN6610/Ai-Black-Hat,857970821
 VU#43,1.00000000,https://github.com/jrsHenrique/Querying-security-flaws-with-codeql,jrsHenrique/Querying-security-flaws-with-codeql,847407436
