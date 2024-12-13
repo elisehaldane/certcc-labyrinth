@@ -1,13 +1,14 @@
 
 # Summary for results/2024/12/12
     
-249 records found after deduplication
+251 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
 | rapid7/metasploit-framework | Metasploit Framework | https://github.com/rapid7/metasploit-framework | ['metasploit module OR payload'] | 1 | 2024-12-12 01:41:55+00:00 | 1068856 | 34385 | Ruby | 14040 | [] |
 | beefproject/beef | The Browser Exploitation Framework Project | https://github.com/beefproject/beef | ['exploit'] | 1 | 2024-12-12 13:58:57+00:00 | 23151 | 9908 | JavaScript | 2190 | [] |
 | rapid7/metasploit-omnibus | Packaging metasploit-framework with omnibus | https://github.com/rapid7/metasploit-omnibus | ['metasploit module OR payload'] | 1 | 2024-12-12 09:34:23+00:00 | 1561 | 253 | Ruby | 208 | [] |
+| OWASP-Benchmark/BenchmarkJava | OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java | https://github.com/OWASP-Benchmark/BenchmarkJava | ['exploit'] | 1 | 2024-12-12 14:49:23+00:00 | 75561 | 672 | Java | 1085 | [] |
 | zeroscience/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | ['exploit'] | 1 | 2024-12-12 13:17:43+00:00 | 5221 | 6 | Python | 7 | [] |
 | david942j/one_gadget | The best tool for finding one gadget RCE in libc.so.6 | https://github.com/david942j/one_gadget | ['exploit', 'rce'] | 2 | 2024-12-12 21:34:08+00:00 | 14237 | 2089 | Ruby | 139 | [] |
 | 0daylabs/0daylabs.github.io | None | https://github.com/0daylabs/0daylabs.github.io | ['0day'] | 1 | 2024-12-12 05:43:18+00:00 | 5411 | 4 | HTML | 2 | [] |
@@ -245,6 +246,7 @@
 | codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-vq | None | https://github.com/codingcore14/EXCEL-SILENT-XLS-EXPLOIT-CLEAN-vq | ['exploit'] | 1 | 2024-12-12 13:20:46+00:00 | 2 | 1 | | 0 | [] |
 | codingcore14/JPG-Silent-Exploit-NEW-vq | None | https://github.com/codingcore14/JPG-Silent-Exploit-NEW-vq | ['exploit'] | 1 | 2024-12-12 13:21:12+00:00 | 2 | 1 | | 0 | [] |
 | ellasippola/global-anthropogenic-roosts | R code and data affiliated with the publication 'A global investigation reveals limited evidence of impacts of bat exploitation of anthropogenic structures' | https://github.com/ellasippola/global-anthropogenic-roosts | ['exploit'] | 1 | 2024-12-12 14:38:38+00:00 | 2 | 0 | | 0 | [] |
+| RandomRobbieBF/CVE-2024-10124 | Vayu Blocks – Gutenberg Blocks for WordPress & WooCommerce <= 1.1.1 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation | https://github.com/RandomRobbieBF/CVE-2024-10124 | ['cve-2 OR cve_2'] | 1 | 2024-12-12 15:14:19+00:00 | 2 | 0 | | 0 | ['CVE-2024-10124'] |
 | sarat1kyan/QuantumStrike | Automated Penetration Testing and AI-Enhanced Exploitation Framework | https://github.com/sarat1kyan/QuantumStrike | ['exploit'] | 1 | 2024-12-12 16:05:05+00:00 | 10 | 0 | | 1 | [] |
 | MrpasswordTz/sqlkiller | SQLKiller is a powerful and easy-to-use Python tool designed to automate SQL injection attacks. Compatible with both Linux and Termux, this tool is perfect for penetration testers and security enthusiasts looking to identify and exploit SQL injection vulne | https://github.com/MrpasswordTz/sqlkiller | ['exploit'] | 1 | 2024-12-12 19:44:35+00:00 | 112 | 3 | Python | 2 | [] |
 | SaintSpyridon/BadUSB-and-exploits | None | https://github.com/SaintSpyridon/BadUSB-and-exploits | ['exploit'] | 1 | 2024-12-12 17:25:54+00:00 | 0 | 0 | | 0 | [] |
