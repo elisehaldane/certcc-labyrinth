@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+902580330,charon78/fixingexploit,CVE-2014-4688-fixSSL,7826895b3437902abdd1b3c2028e733bc060a922,CVE-2014-4688
