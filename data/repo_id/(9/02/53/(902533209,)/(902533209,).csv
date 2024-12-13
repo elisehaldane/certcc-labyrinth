@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+902533209,0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028,CVE-2023-40028,86fbcab4e912bb80fcc06f613d8ac57d957334e8,CVE-2023-40028
+902533209,0xDTC/Ghost-5.58-Arbitrary-File-Read-CVE-2023-40028,_GITHUB_REPO_METADATA_,,CVE-2023-40028
