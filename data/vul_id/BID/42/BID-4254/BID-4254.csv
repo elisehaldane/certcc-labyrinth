@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-4254,0.50000000,https://github.com/alt3kx/CVE-2002-0448,alt3kx/CVE-2002-0448,127834180
-BID-4254,0.00032000,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+BID-4254,0.00031990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 BID-4254,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-4254,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-4254,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
