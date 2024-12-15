@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-334582086,vital-information-resource-under-siege/PWN-Challenges,volgaCTF/warm_of_pwn/libc6_2.37-0ubuntu2.1_amd64.so,1aa44657a07e881723c148020eacb0a824c52891,VU#56
+334582086,vital-information-resource-under-siege/PWN-Challenges,volgaCTF/warm_of_pwn/libc.so.6,1aa44657a07e881723c148020eacb0a824c52891,VU#56
 334582086,vital-information-resource-under-siege/PWN-Challenges,nahamcon/1337_malware/1337-malware.pcapng,22f23ecf3c8fd0ca977d2fe11dcc8badbb112b9c,VU#40
 334582086,vital-information-resource-under-siege/PWN-Challenges,TamilCTF  2021/University PWN/writeup.pdf,40686faa638eed963438753824453e7f3a07ade2,VU#599
 334582086,vital-information-resource-under-siege/PWN-Challenges,nahamcon/1337_malware/ecorp,b07407d3016a912a7e215d4dd313284e350ebe22,VU#40

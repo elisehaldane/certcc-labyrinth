@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+837200476,riccio8/ExploitEye,src/resources/Malware_Reverse_Engineering_Handbook.pdf,366b83f153575d1b6c90a406018426c936b3ce31,VU#544
+837200476,riccio8/ExploitEye,src/resources/Malware_Reverse_Engineering_Handbook.pdf,366b83f153575d1b6c90a406018426c936b3ce31,VU#59
+837200476,riccio8/ExploitEye,src/resources/windowssecurityinternals.pdf,5cadc44879d6325ba0f04661fc12e9bc92e4624b,VU#75
+837200476,riccio8/ExploitEye,src/resources/evasivemalware.pdf,69884396740d99306def99aa31dbc7af43336f6d,VU#104
+837200476,riccio8/ExploitEye,src/resources/Introduction to Microcontrollers and Embedded Systems.pdf,a325220811d52b782f3db0752e683e6b7c69f34b,VU#67
+837200476,riccio8/ExploitEye,src/resources/46131-windows-privilege-escalations.pdf,b44d205f7643f912245f3744c338deb54bcc5eb8,MS14-058
+837200476,riccio8/ExploitEye,src/resources/46131-windows-privilege-escalations.pdf,b44d205f7643f912245f3744c338deb54bcc5eb8,VU#64
+837200476,riccio8/ExploitEye,src/resources/evadingedr.pdf,c352ba12fbf812b72a3a3728585555d826060793,VU#01
+837200476,riccio8/ExploitEye,src/resources/Computer Systems_ A Programmer' - David R. O'Hallaron Randal E. B.pdf,d54de23ece74ac7ede89778dab738e984b41c751,VU#92
+837200476,riccio8/ExploitEye,src/resources/net_cipher.pdf.pdf,ee6d64aadb9eb4057ed2206a4002114aa15aca0c,VU#13

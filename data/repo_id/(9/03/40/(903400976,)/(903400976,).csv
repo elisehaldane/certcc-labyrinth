@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+903400976,wezoomagency/GrafXploit,README.md,8a2f93f99464b6eaf878c4e9fc0bae5e3f94e939,CVE-2021-43798
+903400976,wezoomagency/GrafXploit,grafxploit.py,f9d4bd41b663e3c9af5a7438bbf971848f749f75,CVE-2021-43798
+903400976,wezoomagency/GrafXploit,_GITHUB_REPO_METADATA_,,CVE-2021-43798
