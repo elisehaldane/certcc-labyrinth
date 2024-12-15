@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3FC8-2R3F-8WRG,0.50000000,https://github.com/l8BL/CVE-2024-47066,l8BL/CVE-2024-47066,862261516
-GHSA-3FC8-2R3F-8WRG,0.00000826,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-3FC8-2R3F-8WRG,0.00000825,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-3FC8-2R3F-8WRG,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
