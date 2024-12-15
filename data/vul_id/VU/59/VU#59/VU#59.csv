@@ -44,6 +44,7 @@ VU#59,0.11111111,https://github.com/RomaIsnazarov/Bandit-mission-and-exploration
 VU#59,0.11111111,https://github.com/Lesking72/ps4,Lesking72/ps4,350485378
 VU#59,0.11111111,https://github.com/edoardottt/tryhackme-ctf,edoardottt/tryhackme-ctf,315062629
 VU#59,0.11111111,https://github.com/hodor-sec/Binary-Exploitation,hodor-sec/Binary-Exploitation,151313853
+VU#59,0.10000000,https://github.com/riccio8/ExploitEye,riccio8/ExploitEye,837200476
 VU#59,0.10000000,https://github.com/harutomo-jp/Binary-Exploitation,harutomo-jp/Binary-Exploitation,789525643
 VU#59,0.10000000,https://github.com/pr1or1tyQ/nightmare,pr1or1tyQ/nightmare,691645490
 VU#59,0.10000000,https://github.com/bolt3x/tesi,bolt3x/tesi,533280790
@@ -253,8 +254,8 @@ VU#59,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-
 VU#59,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#59,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#59,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#59,0.00900901,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#59,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
+VU#59,0.00892857,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#59,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#59,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#59,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -417,7 +418,7 @@ VU#59,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#59,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#59,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#59,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00031990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#59,0.00031959,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#59,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-9787,0.50000000,https://github.com/alt3kx/CVE-2004-2549,alt3kx/CVE-2004-2549,127833416
 BID-9787,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
-BID-9787,0.00031990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+BID-9787,0.00031959,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 BID-9787,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-9787,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-9787,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

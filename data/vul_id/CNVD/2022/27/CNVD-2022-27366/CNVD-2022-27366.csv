@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2022-27366,0.50000000,https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621,MY0723/CNVD-2022-27366__CVE-2023-37621,659977907
 CNVD-2022-27366,0.00037707,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,750837859
-CNVD-2022-27366,0.00031990,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+CNVD-2022-27366,0.00031959,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 CNVD-2022-27366,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 CNVD-2022-27366,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 CNVD-2022-27366,0.00014932,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668

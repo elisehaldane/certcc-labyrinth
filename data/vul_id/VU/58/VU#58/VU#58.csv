@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#58,1.00000000,https://github.com/Policedude/Exploit-Locator,Policedude/Exploit-Locator,890976769
 VU#58,1.00000000,https://github.com/yeshamehta3/Windows-7-Hack,yeshamehta3/Windows-7-Hack,563957505
 VU#58,1.00000000,https://github.com/jeel38/Windows-7-Hack,jeel38/Windows-7-Hack,563952700
 VU#58,1.00000000,https://github.com/Dimples1337/OpenPacketFix,Dimples1337/OpenPacketFix,537684868
@@ -280,7 +281,7 @@ VU#58,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#58,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#58,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#58,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
-VU#58,0.00900901,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
+VU#58,0.00892857,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#58,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#58,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#58,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
