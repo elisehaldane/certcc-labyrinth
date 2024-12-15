@@ -3,6 +3,7 @@ repo_id,repo_full_name,file,file_sha1,match
 623477795,terawhiz/kpwn,challenges/window-of-opportunity/vmlinux,0a807c117940ba9b7a405e6e177f949463764642,VU#32
 623477795,terawhiz/kpwn,challenges/sofirium/bzImage,262f796388eadbce6f3418fad7323113bcc5c394,VU#15
 623477795,terawhiz/kpwn,challenges/sofirium/bzImage,262f796388eadbce6f3418fad7323113bcc5c394,VU#40
+623477795,terawhiz/kpwn,challenges/krcu/pwn_krcu.zip,34a525a99d93bf851caa0fa1e3b8ad9e35d690dd,VU#23
 623477795,terawhiz/kpwn,challenges/keasy/keasy.zip,46fbe2a43c667c9807d9f7539471b7f88f0b73cb,VU#51
 623477795,terawhiz/kpwn,challenges/keasy/keasy.zip,46fbe2a43c667c9807d9f7539471b7f88f0b73cb,VU#55
 623477795,terawhiz/kpwn,challenges/keasy/README.md,89dbb9fe0738eb3349f27f63a2533096f2bdda45,CVE-2022-29582
