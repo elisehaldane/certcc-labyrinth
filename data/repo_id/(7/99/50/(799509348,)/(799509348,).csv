@@ -1,4 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-799509348,Pwnzer0tt1/exploitfarm,docs/documentation.pdf,00e3c6b64b9b5c3a7bf5c95313326de9c94ff9a0,VU#79
-799509348,Pwnzer0tt1/exploitfarm,docs/RoadToExploitFarm1.0.0.pdf,f69839018529d0c9aba7f41a32ea8d94721bcb37,VU#09
-799509348,Pwnzer0tt1/exploitfarm,docs/RoadToExploitFarm1.0.0.pdf,f69839018529d0c9aba7f41a32ea8d94721bcb37,VU#94
+799509348,Pwnzer0tt1/exploitfarm,docs/RoadToExploitFarm1.0.0.pdf,9169dc117fee9486138d6e06fd1ec797c3828223,VU#09
