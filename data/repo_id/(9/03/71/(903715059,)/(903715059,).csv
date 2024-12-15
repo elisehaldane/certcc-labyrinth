@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+903715059,filipzag/CVE-2024-10220,hooks/post-checkout,e14057fece23eb45cde65a304c9ade99235fba65,CVE-2024-10220
+903715059,filipzag/CVE-2024-10220,_GITHUB_REPO_METADATA_,,CVE-2024-10220
