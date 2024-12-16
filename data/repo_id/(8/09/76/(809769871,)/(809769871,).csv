@@ -1,5 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-809769871,muchdogesec/cve2stix,README.md,2b2a08cee64561389ef171bcbd78d286e2c8b50c,CVE-2019-18939
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2006-4469
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2016-1409
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2016-6380
@@ -9,3 +8,5 @@ repo_id,repo_full_name,file,file_sha1,match
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2021-3942
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2022-27948
 809769871,muchdogesec/cve2stix,docs/cpe-pattern-logic.md,90124fd5f09035175a6318e0c5423c7b3a1ab6ca,CVE-2022-29098
+809769871,muchdogesec/cve2stix,README.md,d0a637b2e3be951f20894891c7a7be1c18d79b5e,CVE-1999-0095
+809769871,muchdogesec/cve2stix,docs/stix-mapping.md,f8209e6cf163a16fc57c2a98e039dc1e844600ef,CVE-2019-18939
