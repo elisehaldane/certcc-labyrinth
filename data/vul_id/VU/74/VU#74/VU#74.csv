@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#74,1.00000000,https://github.com/Roberto-YM/DogCat---WriteUp,Roberto-YM/DogCat---WriteUp,898266871
+VU#74,1.00000000,https://github.com/abdel-nad/shellcode_2024,abdel-nad/shellcode_2024,884495974
 VU#74,1.00000000,https://github.com/YZS17/CVE,YZS17/CVE,866653207
 VU#74,1.00000000,https://github.com/cryxtals/harvestXPtweaks,cryxtals/harvestXPtweaks,848264785
 VU#74,1.00000000,https://github.com/TimboFimbo/HackyHacky_JoyJoy,TimboFimbo/HackyHacky_JoyJoy,835763483
@@ -159,7 +160,6 @@ VU#74,0.04000000,https://github.com/prodseanb/Xsearch,prodseanb/Xsearch,44367381
 VU#74,0.04000000,https://github.com/alanlengkoan/SPK-Pestisida-Membahas-Hama,alanlengkoan/SPK-Pestisida-Membahas-Hama,432389593
 VU#74,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
 VU#74,0.03846154,https://github.com/safeer-accuknox/BLOG-POC,safeer-accuknox/BLOG-POC,886447560
-VU#74,0.03703704,https://github.com/TranKuBao/CVE-20233460,TranKuBao/CVE-20233460,901723317
 VU#74,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#74,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#74,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
@@ -517,7 +517,7 @@ VU#74,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#74,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#74,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#74,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#74,0.00078125,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#74,0.00075472,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#74,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#74,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#74,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511

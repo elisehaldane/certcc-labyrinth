@@ -46,6 +46,7 @@ VU#06,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,s
 VU#06,0.08333333,https://github.com/pg001001/exploit,pg001001/exploit,812914507
 VU#06,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
 VU#06,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
+VU#06,0.07692308,https://github.com/anandhu-02/exploitory-data,anandhu-02/exploitory-data,904058999
 VU#06,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#06,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#06,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -390,7 +391,7 @@ VU#06,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#06,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#06,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#06,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#06,0.00031939,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#06,0.00031908,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#06,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#06,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#06,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
