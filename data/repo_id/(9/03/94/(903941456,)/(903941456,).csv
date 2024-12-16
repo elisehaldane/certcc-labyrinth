@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+903941456,JunTakemura/exploit-CVE-2024-11972,hunk_companion_exploit.py,7d012b9349e65d0546c7349479434a7ae6a921aa,CVE-2024-11972
+903941456,JunTakemura/exploit-CVE-2024-11972,README.md,7f5ba2534c8c050c33d3ee23adaa3f86f8ccc1d7,CVE-2024-11972
+903941456,JunTakemura/exploit-CVE-2024-11972,_GITHUB_REPO_METADATA_,,CVE-2024-11972
