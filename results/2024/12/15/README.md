@@ -1,7 +1,7 @@
 
 # Summary for results/2024/12/15
     
-250 records found after deduplication
+251 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -16,7 +16,7 @@
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2024-12-15 17:04:42+00:00 | 2335065 | 121 | Python | 35 | [] |
 | vital-information-resource-under-siege/PWN-Challenges | Writeups of some of the Binary Exploitation challenges that I have solved during CTF. | https://github.com/vital-information-resource-under-siege/PWN-Challenges | ['exploit'] | 1 | 2024-12-15 13:42:25+00:00 | 174430 | 20 | Python | 3 | [] |
 | tencentcloud-sdk-php/rce | None | https://github.com/tencentcloud-sdk-php/rce | ['rce'] | 1 | 2024-12-15 21:08:22+00:00 | 285 | 0 | PHP | 0 | [] |
-| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-12-15 04:34:13+00:00 | 548728 | 930 | Python | 201 | [] |
+| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2024-12-15 17:34:41+00:00 | 554901 | 930 | Python | 201 | [] |
 | kostas-pa/LFITester | LFITester is a Python3 program that automates the detection and exploitation of Local File Inclusion (LFI) vulnerabilities on a server. | https://github.com/kostas-pa/LFITester | ['exploit'] | 1 | 2024-12-15 10:22:03+00:00 | 419 | 105 | Python | 24 | [] |
 | xxycfhb/xxycfhb.github.io | PKU-Exploit | https://github.com/xxycfhb/xxycfhb.github.io | ['exploit'] | 1 | 2024-12-15 03:45:58+00:00 | 275540 | 3 | JavaScript | 1 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2024-12-15 01:57:17+00:00 | 3214 | 332 | HTML | 20 | [] |
@@ -36,6 +36,7 @@
 | MickaelFontes/noplp-stats | Python project to exploit and present data about NOPLP from dedicated Fandom Wiki. | https://github.com/MickaelFontes/noplp-stats | ['exploit'] | 1 | 2024-12-15 17:26:46+00:00 | 10418 | 0 | Python | 0 | [] |
 | RozhakXD/Premium | None | https://github.com/RozhakXD/Premium | ['exploit'] | 1 | 2024-12-15 10:30:00+00:00 | 150663 | 75 | C | 20 | [] |
 | jrson83/savescum | A command-line tool & webinterface, to efficiently save scum on an exploitable PS4/PS5. | https://github.com/jrson83/savescum | ['exploit'] | 1 | 2024-12-15 19:21:00+00:00 | 2387 | 2 | TypeScript | 0 | [] |
+| vulncheck-oss/go-exploit | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | ['exploit'] | 1 | 2024-12-15 00:35:04+00:00 | 646 | 313 | Go | 32 | [] |
 | S-PScripts/chromebook-utilities | This repo has a collection of cheats, exploits, gxmes, hubs, movies, prxes and more! | https://github.com/S-PScripts/chromebook-utilities | ['exploit'] | 1 | 2024-12-15 19:55:32+00:00 | 2159 | 109 | HTML | 52 | [] |
 | maiktreya/petit-rentier-HFCS | Exploiting surveys from INE and BDE ( EFF and ECV basically) using R package surveyr and data.table features | https://github.com/maiktreya/petit-rentier-HFCS | ['exploit'] | 1 | 2024-12-15 09:53:20+00:00 | 24387 | 0 | R | 0 | [] |
 | 0x-Singularity/cExploitDev | A repo of offensive tools written in C | https://github.com/0x-Singularity/cExploitDev | ['exploit'] | 1 | 2024-12-15 15:48:12+00:00 | 55 | 0 | C | 0 | [] |
