@@ -111,7 +111,6 @@ MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/EvanMcBroom/pocs,EvanMcBroom/pocs,74394204
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
-MS08-067,0.25000000,https://github.com/MGamalCYSEC/ExploitFix-Windows,MGamalCYSEC/ExploitFix-Windows,889176771
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -122,6 +121,7 @@ MS08-067,0.25000000,https://github.com/GuardianRG/awesome-windows-exploitation,G
 MS08-067,0.25000000,https://github.com/sensepost/autoDANE,sensepost/autoDANE,43594993
 MS08-067,0.25000000,https://github.com/ozuma/Metasploit_MS08-067,ozuma/Metasploit_MS08-067,38795662
 MS08-067,0.25000000,https://github.com/tntC4stl3/POC,tntC4stl3/POC,17425373
+MS08-067,0.20000000,https://github.com/MGamalCYSEC/ExploitFix-Windows,MGamalCYSEC/ExploitFix-Windows,889176771
 MS08-067,0.20000000,https://github.com/slytechroot/metasploit,slytechroot/metasploit,821235213
 MS08-067,0.20000000,https://github.com/SujeetBci786/OSCP-JOURNEY,SujeetBci786/OSCP-JOURNEY,758784493
 MS08-067,0.20000000,https://github.com/NickSanzotta/scanman,NickSanzotta/scanman,368895563
@@ -448,7 +448,7 @@ MS08-067,0.00111111,https://github.com/SourceCodeBackup/exploits-backup,SourceCo
 MS08-067,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 MS08-067,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 MS08-067,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-MS08-067,0.00073801,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00073692,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploit-tool,40942476
 MS08-067,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS08-067,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
