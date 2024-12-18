@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+904960617,mbadanoiu/CVE-2023-50780,Apache Artemis - CVE-2023-50780 - WAR + Restart Vector.pdf,270a18383f7e026da6f3d3b89cdbc3ccb8be460d,CVE-2023-50780
+904960617,mbadanoiu/CVE-2023-50780,Apache Artemis - CVE-2023-50780 - JAR + jvmtiAgentLoad.pdf,49275db847f4ae3040168ca993ff54e111d6553c,CVE-2023-50780
+904960617,mbadanoiu/CVE-2023-50780,README.md,49aedcbb9450aa49fa5befc9e31ca750870e444c,CVE-2023-50780
+904960617,mbadanoiu/CVE-2023-50780,Apache Artemis - CVE-2023-50780 - Initial Report.pdf,8e679addbcfbce1c331a0064b752aa1e67c22875,CVE-2023-50780
+904960617,mbadanoiu/CVE-2023-50780,_GITHUB_REPO_METADATA_,,CVE-2023-50780
