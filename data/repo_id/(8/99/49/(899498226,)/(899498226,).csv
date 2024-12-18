@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 899498226,aaryan-11-x/My-Metasploit-Modules,CVE-2021-24762: WordPress Plugin Perfect Survey 1.5.1 - SQLi (Unauthenticated)/wp_perfect_survey_sqli.rb,82c4a7e3e62bbe7509be3f51d612a16a2068ea65,CVE-2021-24762
+899498226,aaryan-11-x/My-Metasploit-Modules,CVE-2022-40471 Clinic's Patient Management System 1.0 - Unauthenticated RCE/README.md,a9a133d07fe5d437bc5215c33370ddef2b189640,CVE-2022-40471
+899498226,aaryan-11-x/My-Metasploit-Modules,CVE-2022-40471 Clinic's Patient Management System 1.0 - Unauthenticated RCE/clinic_pms_fileupload_rce.rb,c0a35d1c84b006ae5f8cc5457230ecc0ef362187,CVE-2022-40471
 899498226,aaryan-11-x/My-Metasploit-Modules,CVE-2021-24762: WordPress Plugin Perfect Survey 1.5.1 - SQLi (Unauthenticated)/README.md,c83938a6a7a449560f618fc23175db0231e34d73,CVE-2021-24762
