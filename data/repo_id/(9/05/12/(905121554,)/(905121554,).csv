@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+905121554,BitcoinChatGPT/Joux-Lercier-Vulnerability-Algorithm,README.md,35a1ab945661454079e5c214a87053a747138f06,CVE-2017-9785
+905121554,BitcoinChatGPT/Joux-Lercier-Vulnerability-Algorithm,BitcoinChatGPT_№6_Joux_Lercier_Vulnerability_Algorithm.ipynb,a23753a920351d16b29f7ea0bc23e04fc8bd8b80,CVE-2017-9785
