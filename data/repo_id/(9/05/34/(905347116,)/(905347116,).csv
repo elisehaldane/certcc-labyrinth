@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-905347116,jzurner1/cve_iocs,main.py,75c4305464ad55ab63c05f591d17def65691a639,CVE-2021-41277
-905347116,jzurner1/cve_iocs,db_interaction.py,aa3ddf3de49d84aa3292ead695a72d1dbc661052,CVE-2024-55956
+905347116,jzurner1/cve_iocs,main.py,04927ab2c7c2d6c47c3378d6bd3296388f78e51a,CVE-2021-41277
+905347116,jzurner1/cve_iocs,db_interaction.py,847cb4d87676a7179dc48a027593ea014a7f3fb8,CVE-2024-55956
 905347116,jzurner1/cve_iocs,50k IOCs sample.csv,c923a6b4d6e72bd7edd94e872c94c7b88a6c7f43,CNVD-2018-17059
 905347116,jzurner1/cve_iocs,50k IOCs sample.csv,c923a6b4d6e72bd7edd94e872c94c7b88a6c7f43,CVE-2021-37808
 905347116,jzurner1/cve_iocs,50k IOCs sample.csv,c923a6b4d6e72bd7edd94e872c94c7b88a6c7f43,CVE-2021-37866
