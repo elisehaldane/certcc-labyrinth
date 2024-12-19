@@ -108,7 +108,6 @@ VU#19,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elon
 VU#19,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
 VU#19,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#19,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
-VU#19,0.04000000,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#19,0.04000000,https://github.com/XingLuoXL/Delta-Executor-PC-Roblox,XingLuoXL/Delta-Executor-PC-Roblox,831474844
 VU#19,0.04000000,https://github.com/PranshuRanjanTiwari/delta-executor-roblox,PranshuRanjanTiwari/delta-executor-roblox,831109520
 VU#19,0.04000000,https://github.com/wigiroa/wave-executor-roblox,wigiroa/wave-executor-roblox,831104168
@@ -156,6 +155,7 @@ VU#19,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.i
 VU#19,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#19,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#19,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
+VU#19,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#19,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#19,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
 VU#19,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
@@ -426,7 +426,7 @@ VU#19,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#19,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#19,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#19,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#19,0.00276243,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#19,0.00275482,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#19,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#19,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -476,7 +476,7 @@ VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#19,0.00031817,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00031797,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -514,7 +514,7 @@ VU#19,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#19,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#19,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#19,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#19,0.00018508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#19,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#19,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

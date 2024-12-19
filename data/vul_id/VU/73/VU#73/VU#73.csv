@@ -123,7 +123,6 @@ VU#73,0.04347826,https://github.com/KingExploit06/Roblox-Exploits,KingExploit06/
 VU#73,0.04347826,https://github.com/AryanVBW/LinuxDroid,AryanVBW/LinuxDroid,596378884
 VU#73,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elonmusic23/whatsapp-fake-reply-exploit,805107190
 VU#73,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
-VU#73,0.04000000,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#73,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#73,0.03846154,https://github.com/ronn20/Projects,ronn20/Projects,885923887
 VU#73,0.03846154,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
@@ -161,6 +160,7 @@ VU#73,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.i
 VU#73,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#73,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#73,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
+VU#73,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#73,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
 VU#73,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#73,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
@@ -386,7 +386,7 @@ VU#73,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#73,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#73,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#73,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#73,0.00276243,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#73,0.00275482,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#73,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#73,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#73,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
@@ -453,7 +453,7 @@ VU#73,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#73,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#73,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#73,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#73,0.00018508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#73,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#73,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#73,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#73,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

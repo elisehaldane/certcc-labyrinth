@@ -95,7 +95,6 @@ VU#86,0.04347826,https://github.com/filippoprafloriani/Distributed-Algorithms-Di
 VU#86,0.04347826,https://github.com/hktalent/CVE-2022-21350,hktalent/CVE-2022-21350,542425330
 VU#86,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#86,0.04166667,https://github.com/k0i/MyExploitDB,k0i/MyExploitDB,569143119
-VU#86,0.04000000,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#86,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#86,0.04000000,https://github.com/kmpotter2/ExploitingArbitrage,kmpotter2/ExploitingArbitrage,510925771
 VU#86,0.04000000,https://github.com/MaherAzzouzi/LinuxKernelExploitation,MaherAzzouzi/LinuxKernelExploitation,311644138
@@ -136,6 +135,7 @@ VU#86,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploit
 VU#86,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#86,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#86,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
+VU#86,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#86,0.02380952,https://github.com/physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,879102558
 VU#86,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#86,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
@@ -433,7 +433,7 @@ VU#86,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#86,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#86,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#86,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#86,0.00018508,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#86,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#86,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#86,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#86,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
