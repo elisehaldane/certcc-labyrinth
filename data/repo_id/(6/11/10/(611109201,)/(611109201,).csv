@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2014-8274
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2021-28216
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2022-21894
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2022-3430
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2022-3431
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2022-3432
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,CVE-2022-4020
-611109201,river-li/awesome-uefi-security,README.md,e8120bc97b871c8ade28101f05ef9af9d5d752b7,VU#976132
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2014-8274
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2021-28216
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2022-21894
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2022-3430
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2022-3431
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2022-3432
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,CVE-2022-4020
+611109201,river-li/awesome-uefi-security,README.md,7e1b938cdfbbab3931456f042eb2aeff6d066f92,VU#976132
