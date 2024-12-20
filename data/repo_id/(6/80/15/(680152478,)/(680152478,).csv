@@ -5,6 +5,10 @@ repo_id,repo_full_name,file,file_sha1,match
 680152478,Mehdi0x90/Web_Hacking,JWT.md,14ffb10305a647b9c20175778781776be35d35dc,CVE-2018-0114
 680152478,Mehdi0x90/Web_Hacking,JWT.md,14ffb10305a647b9c20175778781776be35d35dc,CVE-2019-7644
 680152478,Mehdi0x90/Web_Hacking,JWT.md,14ffb10305a647b9c20175778781776be35d35dc,CVE-2020-28042
+680152478,Mehdi0x90/Web_Hacking,smart hunting.md,90b19153cf11b74c4e3ce3a51d2a12d8bc3e5429,CVE-2013-0156
+680152478,Mehdi0x90/Web_Hacking,smart hunting.md,90b19153cf11b74c4e3ce3a51d2a12d8bc3e5429,CVE-2016-10033
+680152478,Mehdi0x90/Web_Hacking,smart hunting.md,90b19153cf11b74c4e3ce3a51d2a12d8bc3e5429,CVE-2019-11043
+680152478,Mehdi0x90/Web_Hacking,smart hunting.md,90b19153cf11b74c4e3ce3a51d2a12d8bc3e5429,CVE-2019-19781
 680152478,Mehdi0x90/Web_Hacking,Cloud - Docker & Kubernetes.md,b685c4f76186d6d27f074d4e3b74abd2fcc32e36,CVE-2016-9962
 680152478,Mehdi0x90/Web_Hacking,Cloud - Docker & Kubernetes.md,b685c4f76186d6d27f074d4e3b74abd2fcc32e36,CVE-2018-1002105
 680152478,Mehdi0x90/Web_Hacking,Cloud - Docker & Kubernetes.md,b685c4f76186d6d27f074d4e3b74abd2fcc32e36,CVE-2019-5736
