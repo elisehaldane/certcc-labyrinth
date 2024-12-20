@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VGV8-5CPJ-QJ2F,0.50000000,https://github.com/9carlo6/CVE-2024-23346,9carlo6/CVE-2024-23346,883761601
 GHSA-VGV8-5CPJ-QJ2F,0.33333333,https://github.com/Diegomjx/Hack-the-box-Writeups,Diegomjx/Hack-the-box-Writeups,891623429
 GHSA-VGV8-5CPJ-QJ2F,0.00085034,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-VGV8-5CPJ-QJ2F,0.00031716,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-VGV8-5CPJ-QJ2F,0.00031696,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-VGV8-5CPJ-QJ2F,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 GHSA-VGV8-5CPJ-QJ2F,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 GHSA-VGV8-5CPJ-QJ2F,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
