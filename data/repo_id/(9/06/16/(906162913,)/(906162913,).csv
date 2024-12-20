@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+906162913,NingXin2002/Bazaar_poc,README.md,165ae7b07bdc813d02df9a69e7a2f50f03ac9a21,CVE-2024-40348
+906162913,NingXin2002/Bazaar_poc,Bazaar_poc.py,d6c239762d415e6c0a50fbe49b4b9c1b5f5bebf5,CVE-2024-40348
+906162913,NingXin2002/Bazaar_poc,_GITHUB_REPO_METADATA_,,CVE-2024-40348
