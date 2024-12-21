@@ -2,8 +2,8 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-GW42-F939-FHVM,0.02272727,https://github.com/h00die-gr3y/Metasploit,h00die-gr3y/Metasploit,525843929
 GHSA-GW42-F939-FHVM,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
 GHSA-GW42-F939-FHVM,0.00178253,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
-GHSA-GW42-F939-FHVM,0.00085034,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-GW42-F939-FHVM,0.00078003,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-GW42-F939-FHVM,0.00084818,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-GW42-F939-FHVM,0.00077821,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-GW42-F939-FHVM,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-GW42-F939-FHVM,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-GW42-F939-FHVM,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
@@ -24,7 +24,7 @@ GHSA-GW42-F939-FHVM,0.00018591,https://github.com/phucoding286/metasploit-framew
 GHSA-GW42-F939-FHVM,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-GW42-F939-FHVM,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-GW42-F939-FHVM,0.00014868,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-GHSA-GW42-F939-FHVM,0.00012895,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-GW42-F939-FHVM,0.00012892,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-GW42-F939-FHVM,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 GHSA-GW42-F939-FHVM,0.00007375,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
 GHSA-GW42-F939-FHVM,0.00005955,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
