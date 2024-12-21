@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-7C9R-6R2Q-93QG,0.00031696,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-7C9R-6R2Q-93QG,0.00031676,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-7C9R-6R2Q-93QG,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-7C9R-6R2Q-93QG,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-7C9R-6R2Q-93QG,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
