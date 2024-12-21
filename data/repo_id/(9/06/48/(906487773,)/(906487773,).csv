@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+906487773,NingXin2002/Docassemble_poc,README.md,e32be1b7ad5ebfa141346dbbcba6617ea44bafc0,CVE-2024-27292
+906487773,NingXin2002/Docassemble_poc,Docassemble_poc.py,f750f278ef39929df7b9009388ef7fb9d380c80c,CVE-2024-27292
+906487773,NingXin2002/Docassemble_poc,_GITHUB_REPO_METADATA_,,CVE-2024-27292
