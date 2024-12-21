@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 812507931,papichulo16/ctf-stuff,SunshineCTF/jungle/libc.so.6,198ed33c3bd95591a874a6a0ae6817cb145dfb87,VU#27
+812507931,papichulo16/ctf-stuff,learning_kernel_stuff/kernel-rop/vmlinuz,6b0d90579fa0362feba0c1e414828c6de51f3e32,VU#87
+812507931,papichulo16/ctf-stuff,learning_kernel_stuff/kernel-rop/initramfs.cpio.gz,b9aab9ab5153f28db07fbdc4192569ecde269f21,VU#482
