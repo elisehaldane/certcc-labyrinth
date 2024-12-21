@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+906469704,monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read,README.md,9db428ae6e485ad7dd3df3b76c4cbcc1c75fb864,CVE-2023-4002
+906469704,monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read,README.md,9db428ae6e485ad7dd3df3b76c4cbcc1c75fb864,CVE-2023-40028
+906469704,monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read,exploit.py,b2ae97d947356ba82668529c3e1108c4f5ece196,CVE-2023-40028
+906469704,monke443/CVE-2023-40028-Ghost-Arbitrary-File-Read,_GITHUB_REPO_METADATA_,,CVE-2023-40028
