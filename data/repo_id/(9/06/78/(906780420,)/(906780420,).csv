@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+906780420,sethwhy/BlueDoor,exploit-modules/BUG.txt,362161e669fd8960572c8b3f2c703ecea196c741,MS17-010
+906780420,sethwhy/BlueDoor,README.md,43897f708be19720afb658161f8affa4ac4449b5,CVE-2017-0144
+906780420,sethwhy/BlueDoor,README.md,43897f708be19720afb658161f8affa4ac4449b5,MS17-010
+906780420,sethwhy/BlueDoor,exploit-modules/README.md,e3696ab9838f3efcf84eac9877d132f2b8d4a72a,MS17-010
+906780420,sethwhy/BlueDoor,writeup.md,ff3af06f66a02c7a03debf59153a2477b5d24eb4,CVE-2017-0144
+906780420,sethwhy/BlueDoor,writeup.md,ff3af06f66a02c7a03debf59153a2477b5d24eb4,MS17-010
+906780420,sethwhy/BlueDoor,_GITHUB_REPO_METADATA_,,CVE-2017-0144
