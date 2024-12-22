@@ -1,5 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 893761573,wubinworks/magento2-template-filter-patch,Plugin/Framework/Filter/Template.php,7faa2bd0ef8ab79028c1caae2197fd24d9bc1ecf,CVE-2022-24086
-893761573,wubinworks/magento2-template-filter-patch,README.md,bcee65c82dc0dae420f315515f5d72070434f81f,CVE-2022-24086
-893761573,wubinworks/magento2-template-filter-patch,README.md,bcee65c82dc0dae420f315515f5d72070434f81f,CVE-2024-34102
+893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2022-24086
+893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2022-24087
+893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2024-34102
 893761573,wubinworks/magento2-template-filter-patch,_GITHUB_REPO_METADATA_,,CVE-2022-24086
+893761573,wubinworks/magento2-template-filter-patch,_GITHUB_REPO_METADATA_,,CVE-2022-24087
