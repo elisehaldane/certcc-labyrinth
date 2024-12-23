@@ -159,8 +159,6 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/email/checkmail_email.php,3e5ac51bc98ff87043b2b23411653bb4e66b93d9,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.5.0/init.php,3ea5f1497d38b33b05f409b9e0dc1f99c8bfec3c,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/docker-compose-setup.yml,3ede068bb9714ffeee6338a3025cc8fa29b03d45,CVE-2023-3460
-901723317,TranKuBao/CVE-2023-3460_FIX,note_cve.txt,3f4793aa3e4815423a2809ac3c2fb348216ba89f,CVE-2023-3460
-901723317,TranKuBao/CVE-2023-3460_FIX,note_cve.txt,3f4793aa3e4815423a2809ac3c2fb348216ba89f,CVE-2024-1071
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/select2/i18n/is.js,3f4f203545d0db2db770ccbaf5591aa2ef6000ef,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/modal/um_upload_single.php,3f88aaffb5eee5e2a73f784c2563f71f316c85a0,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/profile/comments-single.php,3fab1b63b1c07079f66e0d0cc3efd2c1180c6f69,CVE-2023-3460
@@ -223,6 +221,8 @@ repo_id,repo_full_name,file,file_sha1,match
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/core/class-member-directory-meta.php,5ca941d632d033e888b78e59a33aa6e267a1ca5b,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.6.0/init.php,5cbcc759698b274c630fe9dad3ddfa6ee14fb477,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/templates/email/approved_email.php,5d2d903cd06b1df4eb36f3e33f7cb1b283ed7129,CVE-2023-3460
+901723317,TranKuBao/CVE-2023-3460_FIX,note_cve.txt,5d765567733bf395234750dd989380be554ab766,CVE-2024-1071
+901723317,TranKuBao/CVE-2023-3460_FIX,note_cve.txt,5d765567733bf395234750dd989380be554ab766,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/includes/admin/core/packages/2.0-beta1/user_roles.php,5dd6bcf672049c04177fbbeac3cba7b7c1feca09,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/css/um-styles.css,5e119e7f212d48d196bb1a0e7209dc9e910e3500,CVE-2023-3460
 901723317,TranKuBao/CVE-2023-3460_FIX,exploit-CVE-2023-3460-main/exploit-CVE-2023-3460-main/ultimate-member.2.6.5/ultimate-member/assets/js/pickadate/translations/et_EE.js,5e8d3bd5db1bcde1a50ff25395f3a32b42fbdb75,CVE-2023-3460
