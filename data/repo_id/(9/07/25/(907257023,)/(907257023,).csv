@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+907257023,SleepingBag945/CVE-2024-50379,README.md,14f71bdf5b03a401b3a6628383ed3c10af957365,CVE-2024-50379
+907257023,SleepingBag945/CVE-2024-50379,fasthttp/fasthttputil/inmemory_listener_timing_test.go,33bb1a1000b3196bf7c3e4e64c6ec8bea0eb2ec2,VU#29
+907257023,SleepingBag945/CVE-2024-50379,go.mod,a508f96c6b6616b7d36646e23965a0c6f0c511fb,CVE-2024-50379
+907257023,SleepingBag945/CVE-2024-50379,fasthttp/examples/fileserver/ssl-cert-snakeoil.pem,cffd23ff054876b719edc4bcdd3e5f33f220a0f8,VU#29
+907257023,SleepingBag945/CVE-2024-50379,_GITHUB_REPO_METADATA_,,CVE-2024-50379
+907257023,SleepingBag945/CVE-2024-50379,_GITHUB_REPO_METADATA_,,CVE-2024-56337
