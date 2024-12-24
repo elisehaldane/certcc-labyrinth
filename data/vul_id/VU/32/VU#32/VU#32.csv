@@ -128,7 +128,6 @@ VU#32,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_
 VU#32,0.10000000,https://github.com/DuncanParSky/Unblocking.Icu,DuncanParSky/Unblocking.Icu,888183960
 VU#32,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#32,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
-VU#32,0.10000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#32,0.10000000,https://github.com/bgibers/dice-game-exploit,bgibers/dice-game-exploit,475676483
 VU#32,0.10000000,https://github.com/ricardojba/Invoke-noPac,ricardojba/Invoke-noPac,437991499
 VU#32,0.09090909,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,887222754
@@ -138,6 +137,7 @@ VU#32,0.09090909,https://github.com/SkidLua1/Exploit,SkidLua1/Exploit,792586733
 VU#32,0.09090909,https://github.com/DashaMilitskaya/cve_2023_21822,DashaMilitskaya/cve_2023_21822,745578718
 VU#32,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
 VU#32,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
+VU#32,0.08333333,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#32,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#32,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#32,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
@@ -340,10 +340,10 @@ VU#32,0.02040816,https://github.com/nu11secur1ty/Windows10Exploits,nu11secur1ty/
 VU#32,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#32,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#32,0.01923077,https://github.com/saadamin2k13/reversible-parsing-and-generation,saadamin2k13/reversible-parsing-and-generation,901405211
-VU#32,0.01923077,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
 VU#32,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#32,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
+VU#32,0.01886792,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
 VU#32,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#32,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
@@ -647,14 +647,14 @@ VU#32,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#32,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#32,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#32,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#32,0.00067751,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#32,0.00067613,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#32,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#32,0.00031666,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00031596,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#32,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

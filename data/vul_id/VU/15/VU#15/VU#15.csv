@@ -49,13 +49,13 @@ VU#15,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanan
 VU#15,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#15,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#15,0.11111111,https://github.com/jweny/pocassist,jweny/pocassist,366671705
-VU#15,0.10000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#15,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#15,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#15,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
 VU#15,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#15,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#15,0.08333333,https://github.com/KanzakiisYU/exploit,KanzakiisYU/exploit,820214507
+VU#15,0.08333333,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#15,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#15,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#15,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
@@ -118,6 +118,7 @@ VU#15,0.02857143,https://github.com/sonicps/simpel,sonicps/simpel,439170300
 VU#15,0.02857143,https://github.com/sonicps/switch-mod,sonicps/switch-mod,439167874
 VU#15,0.02857143,https://github.com/darkxex/ps4,darkxex/ps4,438368269
 VU#15,0.02857143,https://github.com/kmeps4/leeful900,kmeps4/leeful900,438099843
+VU#15,0.02777778,https://github.com/MystDemeanor/ParkinsonDiseaseClassification,MystDemeanor/ParkinsonDiseaseClassification,907583306
 VU#15,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#15,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn-es,HTLandy/Projet-Exploitation-Massive-des-Donn-es,600225110
 VU#15,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755

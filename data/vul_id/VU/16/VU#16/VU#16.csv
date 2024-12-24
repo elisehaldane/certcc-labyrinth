@@ -90,7 +90,6 @@ VU#16,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/
 VU#16,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#16,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#16,0.10000000,https://github.com/iamumarjaved/Information-Security,iamumarjaved/Information-Security,739135576
-VU#16,0.10000000,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#16,0.09090909,https://github.com/freedarwuin/SocialSploit,freedarwuin/SocialSploit,839009068
 VU#16,0.09090909,https://github.com/Un-known001/RoshanSploit,Un-known001/RoshanSploit,775385829
 VU#16,0.09090909,https://github.com/DashaMilitskaya/cve_2023_21822,DashaMilitskaya/cve_2023_21822,745578718
@@ -101,6 +100,7 @@ VU#16,0.09090909,https://github.com/irwx777/SocialSploit,irwx777/SocialSploit,52
 VU#16,0.09090909,https://github.com/AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,AhmedMMahrous/Breast-Cancer-IDC-Deep-Learning,486375411
 VU#16,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinVulovic/exploits_and_viruses,434940765
 VU#16,0.08333333,https://github.com/dcheng69/CVE-2022-0185-Case-Study,dcheng69/CVE-2022-0185-Case-Study,786640173
+VU#16,0.08333333,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#16,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#16,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
 VU#16,0.08333333,https://github.com/sickn3ss/exploits,sickn3ss/exploits,178699315
@@ -168,6 +168,7 @@ VU#16,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-o
 VU#16,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
 VU#16,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
 VU#16,0.02857143,https://github.com/MeowKu/InternalUI,MeowKu/InternalUI,758586642
+VU#16,0.02777778,https://github.com/MystDemeanor/ParkinsonDiseaseClassification,MystDemeanor/ParkinsonDiseaseClassification,907583306
 VU#16,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,756026198
 VU#16,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#16,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,584109024
@@ -230,9 +231,9 @@ VU#16,0.02000000,https://github.com/sebastiansukiennik01/Data-analystys-salary-r
 VU#16,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#16,0.01960784,https://github.com/sm3a96/ReEntrancyAttack,sm3a96/ReEntrancyAttack,895750249
 VU#16,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
-VU#16,0.01923077,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
 VU#16,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwindersinghdev/Thunder-loan-Audits,738330811
 VU#16,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
+VU#16,0.01886792,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
 VU#16,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#16,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#16,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
@@ -495,7 +496,7 @@ VU#16,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#16,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#16,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#16,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#16,0.00067751,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#16,0.00067613,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#16,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#16,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#16,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
