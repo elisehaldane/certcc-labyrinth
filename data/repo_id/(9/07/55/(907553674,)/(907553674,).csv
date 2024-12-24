@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,CVE-2018-7600
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,CVE-2019-0708
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,CVE-2019-1458
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,CVE-2020-1054
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS10-092
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS12-020
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS14-058
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS15-051
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS16-014
+907553674,dev-angelist/eCPPTv3-Notes,ecppt-cheat-sheet.md,173f7ce0b1ad98c8cdfac9f3f0e19b7a3c7b93d3,MS17-010
+907553674,dev-angelist/eCPPTv3-Notes,readme/readme/network-security/2.3/vulnerability-scanning.md,6b22d9a622d93f02c7ed014d0ec4f0643ea89e8d,MS12-020
+907553674,dev-angelist/eCPPTv3-Notes,readme/readme/network-security/2.3/vulnerability-scanning.md,6b22d9a622d93f02c7ed014d0ec4f0643ea89e8d,MS17-010
+907553674,dev-angelist/eCPPTv3-Notes,readme/ecpptv3/powershell-for-pt/network-security/2.3/vulnerability-scanning.md,e0f9af15bfd25fd6e3315d2a46123d4d9924ae36,MS12-020
+907553674,dev-angelist/eCPPTv3-Notes,readme/ecpptv3/powershell-for-pt/network-security/2.3/vulnerability-scanning.md,e0f9af15bfd25fd6e3315d2a46123d4d9924ae36,MS17-010
