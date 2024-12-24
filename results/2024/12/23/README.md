@@ -1,7 +1,7 @@
 
 # Summary for results/2024/12/23
     
-246 records found after deduplication
+247 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------------------------|
@@ -43,6 +43,7 @@
 | FFJ1/Roblox-Exploits | None | https://github.com/FFJ1/Roblox-Exploits | ['exploit'] | 1 | 2024-12-23 07:31:24+00:00 | 29554 | 2 | Lua | 6 | [] |
 | adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc', 'exploit'] | 2 | 2024-12-23 05:13:21+00:00 | 273393 | 160 | Go | 22 | [] |
 | terawhiz/kpwn | Linux kernel and browser exploit scripts for ctf challenges | https://github.com/terawhiz/kpwn | ['exploit'] | 1 | 2024-12-23 12:38:40+00:00 | 107293 | 5 | C | 0 | [] |
+| dipa96/daysbeyond-archive | Analysis of vulnerabilities from security audit _ CVEs | https://github.com/dipa96/daysbeyond-archive | ['0day'] | 1 | 2024-12-23 22:59:53+00:00 | 27946 | 1 | Java | 0 | [] |
 | jrson83/savescum | A command-line tool & webinterface, to efficiently save scum on an exploitable PS4/PS5. | https://github.com/jrson83/savescum | ['exploit'] | 1 | 2024-12-23 04:05:24+00:00 | 1943 | 2 | TypeScript | 0 | [] |
 | vulncheck-oss/go-exploit | A Go-based Exploit Framework | https://github.com/vulncheck-oss/go-exploit | ['exploit'] | 1 | 2024-12-23 13:44:01+00:00 | 667 | 314 | Go | 32 | [] |
 | BenjiTrapp/cisa-known-vuln-scraper | Scraper for daily renewal of the Known Exploited Vulnerabilities Catalog by CISA | https://github.com/BenjiTrapp/cisa-known-vuln-scraper | ['exploit'] | 1 | 2024-12-23 00:30:46+00:00 | 2488630 | 5 | Jupyter Notebook | 1 | [] |
