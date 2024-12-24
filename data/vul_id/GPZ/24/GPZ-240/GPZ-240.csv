@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-240,0.20000000,https://github.com/klsecservices/CVEs,klsecservices/CVEs,806452449
-GPZ-240,0.03703704,https://github.com/klsecservices/avl,klsecservices/avl,782487970
+GPZ-240,0.03448276,https://github.com/klsecservices/avl,klsecservices/avl,782487970
 GPZ-240,0.00578035,https://github.com/googleprojectzero/0days-in-the-wild,googleprojectzero/0days-in-the-wild,341595907
