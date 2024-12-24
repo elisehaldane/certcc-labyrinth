@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 906753110,Norckiks/Norckiks-Exploit,Norckiks Exploit 1.0.zip,481d0dfd2eb9b9df814e60f5b94e1d327047ff3a,VU#02
 906753110,Norckiks/Norckiks-Exploit,Norckiks Exploit 1.0.zip,481d0dfd2eb9b9df814e60f5b94e1d327047ff3a,VU#21
+906753110,Norckiks/Norckiks-Exploit,Norckiks Exploit 1.1.zip,e5f035257a8df0c357424e9b629280908ad6078e,VU#02
+906753110,Norckiks/Norckiks-Exploit,Norckiks Exploit 1.1.zip,e5f035257a8df0c357424e9b629280908ad6078e,VU#21
