@@ -182,6 +182,7 @@ VU#56,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/
 VU#56,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#56,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#56,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#56,0.02564103,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#56,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
 VU#56,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#56,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
@@ -438,6 +439,7 @@ VU#56,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Datase
 VU#56,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#56,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#56,0.00621118,https://github.com/phi998/DataIntegrator,phi998/DataIntegrator,719613538
+VU#56,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exploitdb-bin-sploits,908075596
 VU#56,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,789084757
 VU#56,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 VU#56,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
@@ -575,6 +577,7 @@ VU#56,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#56,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#56,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#56,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#56,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#56,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#56,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#56,0.00000570,https://github.com/Yuning-J/VulnerabilityClassifier,Yuning-J/VulnerabilityClassifier,429349871

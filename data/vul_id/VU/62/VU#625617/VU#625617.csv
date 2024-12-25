@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#625617,0.02439024,https://github.com/cansolele/exploit-seek,cansolele/exploit-seek,827357700
 VU#625617,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 VU#625617,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 VU#625617,0.00001463,https://github.com/ChaoticWagon/Llama3.2_CVE,ChaoticWagon/Llama3.2_CVE,869139798

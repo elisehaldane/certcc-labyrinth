@@ -7,6 +7,7 @@ VU#785838,0.02272727,https://github.com/redteampa1/exploits,redteampa1/exploits,
 VU#785838,0.01666667,https://github.com/blackunixteam/exploits-exploitdb-bin-sploits-,blackunixteam/exploits-exploitdb-bin-sploits-,223551179
 VU#785838,0.01470588,https://github.com/asr511/exploitdb-bin-sploits-offsec,asr511/exploitdb-bin-sploits-offsec,399769897
 VU#785838,0.01449275,https://github.com/paramint/offensive-security-exploitdb-bin-sploits,paramint/offensive-security-exploitdb-bin-sploits,402516412
+VU#785838,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exploitdb-bin-sploits,908075596
 VU#785838,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,789084757
 VU#785838,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 VU#785838,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
@@ -50,13 +51,14 @@ VU#785838,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmit
 VU#785838,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#785838,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#785838,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#785838,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#785838,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#785838,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 VU#785838,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#785838,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#785838,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#785838,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#785838,0.00000821,https://github.com/trickest/cve,trickest/cve,454015416
+VU#785838,0.00000820,https://github.com/trickest/cve,trickest/cve,454015416
 VU#785838,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#785838,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#785838,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

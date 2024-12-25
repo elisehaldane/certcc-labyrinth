@@ -130,6 +130,7 @@ VU#19,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,48
 VU#19,0.03448276,https://github.com/istaion/ExploitationDonneesPandas,istaion/ExploitationDonneesPandas,907358811
 VU#19,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#19,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
+VU#19,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/PersonaPrediction,907675138
 VU#19,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
 VU#19,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#19,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
@@ -149,6 +150,7 @@ VU#19,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#19,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#19,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#19,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#19,0.02564103,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#19,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#19,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#19,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
@@ -430,7 +432,7 @@ VU#19,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#19,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#19,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#19,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#19,0.00274725,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#19,0.00273973,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#19,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#19,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -480,7 +482,7 @@ VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#19,0.00031596,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00031556,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -540,5 +542,6 @@ VU#19,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#19,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#19,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#19,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#19,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#19,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#19,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

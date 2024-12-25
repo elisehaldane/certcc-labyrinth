@@ -1,4 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#81,1.00000000,https://github.com/foxikeu/h4ck-f0rtnite,foxikeu/h4ck-f0rtnite,908002990
+VU#81,1.00000000,https://github.com/7777rewards/hack-apex-1egend,7777rewards/hack-apex-1egend,908002951
 VU#81,1.00000000,https://github.com/jor-arrgar/Control_de_cultivos,jor-arrgar/Control_de_cultivos,692497622
 VU#81,1.00000000,https://github.com/Dan0kf/EXPLOIT-DOC-PDF-XML-XLS,Dan0kf/EXPLOIT-DOC-PDF-XML-XLS,562993006
 VU#81,1.00000000,https://github.com/Dan0kf/SILENT-PDF-DOC-EXPLOIT,Dan0kf/SILENT-PDF-DOC-EXPLOIT,562987840
@@ -326,6 +328,7 @@ VU#81,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Datase
 VU#81,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
 VU#81,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
 VU#81,0.00621118,https://github.com/phi998/DataIntegrator,phi998/DataIntegrator,719613538
+VU#81,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exploitdb-bin-sploits,908075596
 VU#81,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,789084757
 VU#81,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 VU#81,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
@@ -383,7 +386,7 @@ VU#81,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#81,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#81,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#81,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#81,0.00274725,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#81,0.00273973,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#81,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#81,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#81,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383

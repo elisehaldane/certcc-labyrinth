@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#254,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#254,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
+VU#254,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exploitdb-bin-sploits,908075596
 VU#254,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,789084757
 VU#254,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 VU#254,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382

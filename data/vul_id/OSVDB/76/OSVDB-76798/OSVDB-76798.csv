@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-76798,0.33333333,https://github.com/SECFORCE/CVE-2011-4107,SECFORCE/CVE-2011-4107,88757320
 OSVDB-76798,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
-OSVDB-76798,0.00031596,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+OSVDB-76798,0.00031556,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 OSVDB-76798,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 OSVDB-76798,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 OSVDB-76798,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -51,4 +51,5 @@ OSVDB-76798,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSm
 OSVDB-76798,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 OSVDB-76798,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 OSVDB-76798,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+OSVDB-76798,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 OSVDB-76798,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
