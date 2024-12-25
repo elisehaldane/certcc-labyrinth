@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 893777313,gobysec/Goby-AI,GobyAI实战检验：智能生成目录遍历类型漏洞EXP.md,29a181feb3f29151512ec89905e40728087921fa,CVE-2024-32399
+893777313,gobysec/Goby-AI,GobyAI智能生成EXP：CVE-2024-9047 WordPress File Upload 插件 wfu_file_downloader.php 任意文件读取漏洞.md,82be99e13a8c80ecf9185de62ed2bec99599750a,CVE-2024-9047
