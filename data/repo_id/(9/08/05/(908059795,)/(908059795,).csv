@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+908059795,lizhianyuguangming/CVE-2024-50379-exp,README.md,0f79ade64c0bd98e831b4956e0fd7819dcc4a392,CVE-2024-50379
+908059795,lizhianyuguangming/CVE-2024-50379-exp,CVE-2024-50379.py,e23478f18f733711ec09caab37d46ad9582cd645,CVE-2024-50379
+908059795,lizhianyuguangming/CVE-2024-50379-exp,_GITHUB_REPO_METADATA_,,CVE-2024-50379
