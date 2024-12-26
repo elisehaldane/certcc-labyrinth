@@ -150,7 +150,6 @@ VU#19,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#19,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#19,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#19,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
-VU#19,0.02564103,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#19,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#19,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#19,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
@@ -209,7 +208,9 @@ VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,4709
 VU#19,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#19,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#19,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#19,0.01639344,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#19,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
+VU#19,0.01639344,https://github.com/Sopralapanca/CHL-clinical-data-encoder,Sopralapanca/CHL-clinical-data-encoder,611684669
 VU#19,0.01612903,https://github.com/MahiElamine02/Work_mahi_elamine,MahiElamine02/Work_mahi_elamine,860340104
 VU#19,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/COVID-19-Paper-Analysis,846274713
 VU#19,0.01612903,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
@@ -433,7 +434,7 @@ VU#19,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#19,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#19,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#19,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#19,0.00273973,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#19,0.00273224,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#19,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#19,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#19,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
@@ -483,7 +484,7 @@ VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#19,0.00031536,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00031526,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

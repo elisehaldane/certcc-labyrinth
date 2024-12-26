@@ -173,7 +173,6 @@ VU#17,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#17,0.02777778,https://github.com/hafid34bba/Data-exploitation-and-smart-grids-analysis,hafid34bba/Data-exploitation-and-smart-grids-analysis,590768382
 VU#17,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#17,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
-VU#17,0.02564103,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#17,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#17,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
 VU#17,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -215,6 +214,7 @@ VU#17,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#17,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
 VU#17,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#17,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
+VU#17,0.01639344,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#17,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#17,0.01639344,https://github.com/Drygster/Exploitation,Drygster/Exploitation,461223241
 VU#17,0.01612903,https://github.com/iliailia10/Exploit_The_World,iliailia10/Exploit_The_World,571099013
@@ -458,7 +458,7 @@ VU#17,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#17,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#17,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#17,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#17,0.00064226,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#17,0.00064144,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#17,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#17,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#17,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245

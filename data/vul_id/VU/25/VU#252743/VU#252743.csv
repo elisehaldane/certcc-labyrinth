@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#252743,0.02439024,https://github.com/cansolele/exploit-seek,cansolele/exploit-seek,827357700
 VU#252743,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
-VU#252743,0.00077821,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+VU#252743,0.00077700,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 VU#252743,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#252743,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#252743,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178

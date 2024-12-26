@@ -144,7 +144,6 @@ VU#98,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github
 VU#98,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
 VU#98,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#98,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
-VU#98,0.02564103,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#98,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
 VU#98,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#98,0.02222222,https://github.com/maveriktop007/-WindowsExploits,maveriktop007/-WindowsExploits,524907173
@@ -238,6 +237,7 @@ VU#98,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#98,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#98,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#98,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
+VU#98,0.01639344,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#98,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/COVID-19-Paper-Analysis,846274713
 VU#98,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#98,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,VedanshMaheshwari/Vulnerability-Management,836813890
@@ -494,7 +494,7 @@ VU#98,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#98,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#98,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#98,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#98,0.00031536,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#98,0.00031526,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#98,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#98,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#98,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

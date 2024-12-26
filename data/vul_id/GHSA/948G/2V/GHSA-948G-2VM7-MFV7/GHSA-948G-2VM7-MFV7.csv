@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-948G-2VM7-MFV7,0.00000820,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-948G-2VM7-MFV7,0.00000813,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-948G-2VM7-MFV7,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
