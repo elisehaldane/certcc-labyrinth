@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+908543261,yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-,rocketchat.py,c53ad9cbfc317a9fe69e2e51b4b0356e161d0c91,CVE-2021-22911
+908543261,yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-,README.md,cadd1268c300204da9dad810104f87547503cded,CVE-2021-22911
+908543261,yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-,_GITHUB_REPO_METADATA_,,CVE-2021-22911
