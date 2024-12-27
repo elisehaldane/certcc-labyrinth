@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+908903026,Ly4j/Exchange-ProxyShell-exp,README.md,b616a69275b350b0f8066b2bc6d233f6f52b6b8f,CVE-2021-31207
+908903026,Ly4j/Exchange-ProxyShell-exp,README.md,b616a69275b350b0f8066b2bc6d233f6f52b6b8f,CVE-2021-34473
+908903026,Ly4j/Exchange-ProxyShell-exp,README.md,b616a69275b350b0f8066b2bc6d233f6f52b6b8f,CVE-2021-34523
