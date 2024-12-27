@@ -11,6 +11,7 @@ VU#57,0.50000000,https://github.com/buiduchoang24/CVE-2023-33733,buiduchoang24/C
 VU#57,0.50000000,https://github.com/Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,Francis-rajareeham/Telegram-Notification-Bot-for-Exploit-DB,731097967
 VU#57,0.50000000,https://github.com/Diego-AltF4/writeups,Diego-AltF4/writeups,696191640
 VU#57,0.33333333,https://github.com/Harshit-Mashru/CVE-2023-6553,Harshit-Mashru/CVE-2023-6553,884598540
+VU#57,0.33333333,https://github.com/vqmpjayZ/More-Scripts,vqmpjayZ/More-Scripts,817305881
 VU#57,0.33333333,https://github.com/Aditya011041/Exploited-case-study,Aditya011041/Exploited-case-study,775009393
 VU#57,0.33333333,https://github.com/actuator/Shmoocon-2024,actuator/Shmoocon-2024,727289698
 VU#57,0.33333333,https://github.com/xaloftal/RCE,xaloftal/RCE,718579713
@@ -58,7 +59,6 @@ VU#57,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoa
 VU#57,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
 VU#57,0.11111111,https://github.com/cris-m/Buffer-Overflow-Exploit-Development,cris-m/Buffer-Overflow-Exploit-Development,435744618
 VU#57,0.11111111,https://github.com/bitdefender/hvmi,bitdefender/hvmi,283759384
-VU#57,0.11111111,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#57,0.09090909,https://github.com/Sqttyxsq/exploit-dev-start-kit,Sqttyxsq/exploit-dev-start-kit,803444471
 VU#57,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#57,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
@@ -75,6 +75,7 @@ VU#57,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV
 VU#57,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#57,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#57,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
+VU#57,0.07692308,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#57,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#57,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#57,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
@@ -416,9 +417,9 @@ VU#57,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploi
 VU#57,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#57,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#57,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#57,0.00177305,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#57,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#57,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
-VU#57,0.00173010,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#57,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#57,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#57,0.00164474,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610

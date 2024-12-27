@@ -77,7 +77,6 @@ VU#61,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/brows
 VU#61,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#61,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
 VU#61,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
-VU#61,0.11111111,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#61,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#61,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#61,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
@@ -89,6 +88,7 @@ VU#61,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Expl
 VU#61,0.08333333,https://github.com/attakercyebr/M4nifest0-Payload-Builder,attakercyebr/M4nifest0-Payload-Builder,425262874
 VU#61,0.08333333,https://github.com/FlyfishSec/rsGen,FlyfishSec/rsGen,187333124
 VU#61,0.07692308,https://github.com/prajeshkumarg/asm-sample-exploits,prajeshkumarg/asm-sample-exploits,421116083
+VU#61,0.07692308,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#61,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#61,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
 VU#61,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
@@ -446,9 +446,9 @@ VU#61,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploi
 VU#61,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#61,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#61,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#61,0.00177305,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#61,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#61,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
-VU#61,0.00173010,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#61,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#61,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#61,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
@@ -510,6 +510,6 @@ VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#61,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#61,0.00000813,https://github.com/trickest/cve,trickest/cve,454015416
+VU#61,0.00000812,https://github.com/trickest/cve,trickest/cve,454015416
 VU#61,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#61,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
