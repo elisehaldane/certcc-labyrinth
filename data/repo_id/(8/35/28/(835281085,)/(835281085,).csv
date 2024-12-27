@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+835281085,mirkozaff/aa-sgan,src/checkpoint/baseline/hotel_baseline_with_model.pt,389684e7b07c5f943acc7862070b5b3e524c4994,VU#66
+835281085,mirkozaff/aa-sgan,src/checkpoint/jta/eth_jta_with_model.pt,3c5ac6df639c9d89cadd393057248903eac0cfde,VU#92
+835281085,mirkozaff/aa-sgan,src/checkpoint/traj-gen/zara2_traj-gen_with_model.pt,42ccae7fec87eb86ab3f2addabad47d6b5537e98,VU#39
+835281085,mirkozaff/aa-sgan,src/checkpoint/jta/zara2_jta_with_model.pt,4bae270f6bfe7bc07e583d6a687d3d1d560f50dd,VU#33
+835281085,mirkozaff/aa-sgan,src/checkpoint/jta/univ_jta_with_model.pt,6889187059bdee11609047ba66fd72858d8d1d43,VU#28
+835281085,mirkozaff/aa-sgan,src/checkpoint/hybrid/univ_hybrid_with_model.pt,a3759bcbf27738c400d6d3d583f00c15bede9db0,VU#45
+835281085,mirkozaff/aa-sgan,src/checkpoint/hybrid/univ_hybrid_with_model.pt,a3759bcbf27738c400d6d3d583f00c15bede9db0,VU#64
+835281085,mirkozaff/aa-sgan,src/checkpoint/hybrid/univ_hybrid_with_model.pt,a3759bcbf27738c400d6d3d583f00c15bede9db0,VU#95
+835281085,mirkozaff/aa-sgan,src/checkpoint/jta/hotel_jta_with_model.pt,d9488ec4ea8549d1aff6b2e4e13295f114095d7e,VU#66
+835281085,mirkozaff/aa-sgan,src/checkpoint/jta/hotel_jta_with_model.pt,d9488ec4ea8549d1aff6b2e4e13295f114095d7e,VU#88
+835281085,mirkozaff/aa-sgan,src/checkpoint/hybrid/hotel_hybrid_with_model.pt,e4ababfcf3e0b4543b4073a4a541794d778c6f4f,VU#29
+835281085,mirkozaff/aa-sgan,src/checkpoint/hybrid/hotel_hybrid_with_model.pt,e4ababfcf3e0b4543b4073a4a541794d778c6f4f,VU#52
+835281085,mirkozaff/aa-sgan,src/checkpoint/traj-gen/hotel_traj-gen_with_model.pt,fdf2318872f006aa4d8b3094a37792f91ec725fb,VU#29
+835281085,mirkozaff/aa-sgan,src/checkpoint/traj-gen/hotel_traj-gen_with_model.pt,fdf2318872f006aa4d8b3094a37792f91ec725fb,VU#84
