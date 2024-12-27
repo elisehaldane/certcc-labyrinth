@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#55,1.00000000,https://github.com/0x01code/exploit,0x01code/exploit,892567911
 VU#55,1.00000000,https://github.com/freeman649/Uac-Bypass,freeman649/Uac-Bypass,856299676
+VU#55,1.00000000,https://github.com/vqmpjayZ/More-Scripts,vqmpjayZ/More-Scripts,817305881
 VU#55,1.00000000,https://github.com/pumpbin/pumpbin,pumpbin/pumpbin,813476638
 VU#55,1.00000000,https://github.com/mun1bxD/Web-Exploitation,mun1bxD/Web-Exploitation,791117166
 VU#55,1.00000000,https://github.com/TheRealXORA/Roblox,TheRealXORA/Roblox,678017097
@@ -19,7 +20,6 @@ VU#55,0.50000000,https://github.com/Hacker-Hermanos/NetRunners,Hacker-Hermanos/N
 VU#55,0.50000000,https://github.com/GRPTheDude/Haze,GRPTheDude/Haze,668586223
 VU#55,0.50000000,https://github.com/GregBoyTyyuiss/Roblox-Exploits,GregBoyTyyuiss/Roblox-Exploits,610261084
 VU#55,0.50000000,https://github.com/EarthToAccess/EBGui,EarthToAccess/EBGui,527345498
-VU#55,0.33333333,https://github.com/vqmpjayZ/More-Scripts,vqmpjayZ/More-Scripts,817305881
 VU#55,0.33333333,https://github.com/uthrasri/CVE-2014-3570,uthrasri/CVE-2014-3570,715657581
 VU#55,0.33333333,https://github.com/Serz999/CVE-2015-3145,Serz999/CVE-2015-3145,572456828
 VU#55,0.33333333,https://github.com/p1n93r/redshift-jdbc-RCE,p1n93r/redshift-jdbc-RCE,557164014
