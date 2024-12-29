@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,909614989
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,737967566
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,737949757
 BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/metasploit,584072998
@@ -19,6 +20,7 @@ BID-25917,0.07692308,https://github.com/risesecurity/metasploit,risesecurity/met
 BID-25917,0.06666667,https://github.com/risesecurity/exploits,risesecurity/exploits,908912130
 BID-25917,0.06666667,https://github.com/risesecurity/exploits,risesecurity/exploits,737967153
 BID-25917,0.06666667,https://github.com/risesecurity/exploits,risesecurity/exploits,737949323
+BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,909614971
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,737967507
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,737949704
 BID-25917,0.03846154,https://github.com/rcvalle/metasploit,rcvalle/metasploit,584072969

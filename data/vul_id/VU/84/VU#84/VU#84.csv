@@ -17,6 +17,7 @@ VU#84,0.25000000,https://github.com/MKONE19/Carte_Exploitation-KONE,MKONE19/Cart
 VU#84,0.25000000,https://github.com/oz9un/log-slapper,oz9un/log-slapper,781706929
 VU#84,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
 VU#84,0.25000000,https://github.com/aeyesec/CVE-2021-31805,aeyesec/CVE-2021-31805,482013810
+VU#84,0.20000000,https://github.com/khalilmellouk/Computer-Security-Audit,khalilmellouk/Computer-Security-Audit,909686494
 VU#84,0.20000000,https://github.com/CyberSully/Buffer-Overflow-Exploit,CyberSully/Buffer-Overflow-Exploit,885214610
 VU#84,0.20000000,https://github.com/Um4r719/UD-BUG,Um4r719/UD-BUG,833695148
 VU#84,0.20000000,https://github.com/EMSeek/log4poc,EMSeek/log4poc,438532480
@@ -465,7 +466,7 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00031516,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00031506,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#84,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
