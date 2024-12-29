@@ -41,12 +41,12 @@ VU#20,0.16666667,https://github.com/ashemery/exploitation-course,ashemery/exploi
 VU#20,0.14285714,https://github.com/jlcolon-22/4rce-new,jlcolon-22/4rce-new,822167634
 VU#20,0.14285714,https://github.com/mawg0ud/InvisMalware,mawg0ud/InvisMalware,810126133
 VU#20,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
-VU#20,0.14285714,https://github.com/xchg2pwn/BinaryExploitation,xchg2pwn/BinaryExploitation,558110828
 VU#20,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
 VU#20,0.14285714,https://github.com/kenmccann/log4j-aqua-poc,kenmccann/log4j-aqua-poc,439386525
 VU#20,0.14285714,https://github.com/electron/node-rcedit,electron/node-rcedit,14167785
 VU#20,0.12500000,https://github.com/ArySon90/S8-BW2,ArySon90/S8-BW2,892620856
 VU#20,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
+VU#20,0.12500000,https://github.com/xchg2pwn/BinaryExploitation,xchg2pwn/BinaryExploitation,558110828
 VU#20,0.12500000,https://github.com/Creamy-Chicken-Soup/My-Writeup,Creamy-Chicken-Soup/My-Writeup,482266873
 VU#20,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#20,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
@@ -120,6 +120,7 @@ VU#20,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/
 VU#20,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
 VU#20,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
 VU#20,0.04347826,https://github.com/DilnozaBobokalonova1/rust-blackhat,DilnozaBobokalonova1/rust-blackhat,679056951
+VU#20,0.04166667,https://github.com/mounirzx/KRNL-Executor,mounirzx/KRNL-Executor,846075490
 VU#20,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinux,745019351
 VU#20,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#20,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
