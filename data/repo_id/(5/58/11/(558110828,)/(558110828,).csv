@@ -7,4 +7,5 @@ repo_id,repo_full_name,file,file_sha1,match
 558110828,xchg2pwn/BinaryExploitation,HackTheBox/KernelAdventures_Part1/challenge.zip,8558ad5ae99756facd3c4ec7799390b032042f69,VU#30
 558110828,xchg2pwn/BinaryExploitation,HackTheBox/KernelAdventures_Part1/challenge.zip,8558ad5ae99756facd3c4ec7799390b032042f69,VU#90
 558110828,xchg2pwn/BinaryExploitation,HackTheBox/Retired/activate_license.zip,9aab3e2245b06504f4fca1306e7af8186f594976,VU#43
+558110828,xchg2pwn/BinaryExploitation,Q4CTF/DDD/ddd.zip,a2e41782ba1d76f4cd443a502cef2c74cb267ab5,VU#21
 558110828,xchg2pwn/BinaryExploitation,BuetCTF/protected/protected.zip,f9fc17397391fe14cb338b3c62b62e2ec9dbbd82,VU#27
