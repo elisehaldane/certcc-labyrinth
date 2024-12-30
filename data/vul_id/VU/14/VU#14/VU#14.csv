@@ -55,6 +55,7 @@ VU#14,0.12500000,https://github.com/ElectroBoy404NotFound/TinyiOS,ElectroBoy404N
 VU#14,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSEC-Bluetooth-exploit,622227907
 VU#14,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#14,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
+VU#14,0.11111111,https://github.com/pablosanchezp/kNNDissimilarities,pablosanchezp/kNNDissimilarities,909655251
 VU#14,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
 VU#14,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
 VU#14,0.11111111,https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-,VisDev23/Vulnerable-Docker--CVE-2023-30212-,656103481
@@ -87,13 +88,13 @@ VU#14,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,Ameya
 VU#14,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
 VU#14,0.05882353,https://github.com/JHVIW/jhviw.github.io,JHVIW/jhviw.github.io,808546624
 VU#14,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
+VU#14,0.05263158,https://github.com/matheo-lm/beep,matheo-lm/beep,897637397
 VU#14,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#14,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,586487577
 VU#14,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#14,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#14,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#14,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
-VU#14,0.05000000,https://github.com/matheo-lm/beep,matheo-lm/beep,897637397
 VU#14,0.05000000,https://github.com/priscilla100/ensemble_IDS,priscilla100/ensemble_IDS,528598467
 VU#14,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
 VU#14,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
@@ -480,7 +481,7 @@ VU#14,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#14,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#14,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#14,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#14,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#14,0.00018495,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#14,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#14,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#14,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
