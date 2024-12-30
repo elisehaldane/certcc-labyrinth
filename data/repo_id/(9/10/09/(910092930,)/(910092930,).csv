@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+910092930,AtithKhawas/autoblue,autoblue.sh,a2119fd099b48e6f8cc50e238e5a98dc36176855,MS17-010
+910092930,AtithKhawas/autoblue,README.md,c4f1db4e3db898eceabaad329f54af7eca82bac9,CVE-2017-0143
+910092930,AtithKhawas/autoblue,README.md,c4f1db4e3db898eceabaad329f54af7eca82bac9,CVE-2017-0144
+910092930,AtithKhawas/autoblue,README.md,c4f1db4e3db898eceabaad329f54af7eca82bac9,MS17-010
+910092930,AtithKhawas/autoblue,_GITHUB_REPO_METADATA_,,CVE-2017-0144
+910092930,AtithKhawas/autoblue,_GITHUB_REPO_METADATA_,,MS17-010
