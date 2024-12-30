@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
 909799213,PotiteBulle/CVE20170144_EternalCustom,README.md,56ace0890f06d79a6fda302594d079ae6189a5bb,CVE-2017-0144
+909799213,PotiteBulle/CVE20170144_EternalCustom,smb_vuln_detector.rb,eaa9186be1790ca8dd9cb39b6cc20ac57d60f5c0,CVE-2017-0144
+909799213,PotiteBulle/CVE20170144_EternalCustom,smb_vuln_detector.rb,eaa9186be1790ca8dd9cb39b6cc20ac57d60f5c0,MS17-010
