@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-RJ88-6MR5-RCW8,0.12500000,https://github.com/l0n3m4n/CVE-2024-47176,l0n3m4n/CVE-2024-47176,867190495
 GHSA-RJ88-6MR5-RCW8,0.00178253,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GHSA-RJ88-6MR5-RCW8,0.00077700,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-RJ88-6MR5-RCW8,0.00062972,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+GHSA-RJ88-6MR5-RCW8,0.00062696,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 GHSA-RJ88-6MR5-RCW8,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-RJ88-6MR5-RCW8,0.00018501,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-RJ88-6MR5-RCW8,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
