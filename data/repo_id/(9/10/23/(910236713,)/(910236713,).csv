@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+910236713,Castro-Ian/CVE-2024-4573-Mitigation-Script,README.md,07f99700e5bb2f1ce18e32b4d6019dab499a2fd9,CVE-2024-43451
+910236713,Castro-Ian/CVE-2024-4573-Mitigation-Script,README.md,07f99700e5bb2f1ce18e32b4d6019dab499a2fd9,CVE-2024-4573
+910236713,Castro-Ian/CVE-2024-4573-Mitigation-Script,CVE-2024-43573 Mitigation Script.ps,12e6f3be589d0e1dcd33060f4c0ca4a86338a407,CVE-2024-43573
+910236713,Castro-Ian/CVE-2024-4573-Mitigation-Script,_GITHUB_REPO_METADATA_,,CVE-2024-4573
