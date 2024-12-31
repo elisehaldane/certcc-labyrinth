@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-28FM-QH2H-3MCH,0.50000000,https://github.com/DesmondSanctity/CVE-2022-44311,DesmondSanctity/CVE-2022-44311,603938610
-GHSA-28FM-QH2H-3MCH,0.00031486,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-28FM-QH2H-3MCH,0.00031476,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-28FM-QH2H-3MCH,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
