@@ -1,7 +1,7 @@
 
 # Summary for results/2025/01/01
     
-138 records found after deduplication
+139 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|-------------------|
@@ -32,6 +32,7 @@
 | vulsio/vuls-data-raw-exploit-trickest | None | https://github.com/vulsio/vuls-data-raw-exploit-trickest | ['exploit'] | 1 | 2025-01-01 00:17:34+00:00 | 88705 | 0 | | 0 | [] |
 | eslerm/nvd-mirror | A mirror of CVE json provided by NVD's API 2.0. | https://github.com/eslerm/nvd-mirror | ['cve-2 OR cve_2'] | 1 | 2025-01-01 04:46:00+00:00 | 761017 | 3 | | 1 | [] |
 | 0xMarcio/cve | Latest CVEs with their Proof of Concept exploits. | https://github.com/0xMarcio/cve | ['exploit'] | 1 | 2025-01-01 00:48:05+00:00 | 167578 | 12 | Python | 3 | [] |
+| tajiknomi/Cyberoam_Dictionary_Attack | POC script utilizes a combination of dictionary and spraying attack on Cyberoam firewall's login page | https://github.com/tajiknomi/Cyberoam_Dictionary_Attack | ['attack poc'] | 1 | 2025-01-01 15:55:30+00:00 | 17 | 2 | Python | 0 | [] |
 | ariadesupriyatna/Security.Researcher | 0day >< Original | https://github.com/ariadesupriyatna/Security.Researcher | ['0day'] | 1 | 2025-01-01 03:04:52+00:00 | 32370 | 0 | | 6 | [] |
 | Pulse-External-Team/Pulse-Exploits | None | https://github.com/Pulse-External-Team/Pulse-Exploits | ['exploit'] | 1 | 2025-01-01 02:57:24+00:00 | 390 | 0 | Lua | 0 | [] |
 | ArtFusion32/Chainmonsters-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api | Bot that automates farming and clicker activities in Chainmonsters game. Features include crypto token integration and API support. Equipped with cheats and hacks to maximize profits and enhance gameplay efficiency. | https://github.com/ArtFusion32/Chainmonsters-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api | ['exploit'] | 1 | 2025-01-01 05:08:51+00:00 | 2270 | 0 | C# | 0 | [] |
@@ -105,7 +106,7 @@
 | Mykhis/Slient-URL-Exploit | URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication. | https://github.com/Mykhis/Slient-URL-Exploit | ['exploit'] | 1 | 2025-01-01 05:12:59+00:00 | 1478 | 0 | C# | 0 | [] |
 | Mykhis/PDF-FUD-Exploit | A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates | https://github.com/Mykhis/PDF-FUD-Exploit | ['exploit'] | 1 | 2025-01-01 05:15:40+00:00 | 1220 | 0 | C++ | 1 | [] |
 | Mykhis/HTA-Exploit | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mykhis/HTA-Exploit | ['exploit', 'remote code execution'] | 2 | 2025-01-01 05:13:20+00:00 | 983 | 0 | C# | 0 | [] |
-| Passort/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/Passort/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2025-01-01 05:56:58+00:00 | 613 | 2 | C# | 0 | [] |
+| Passort/UAC-Bypass-FUD | UAC bypass, Elevate, Persistence methods | https://github.com/Passort/UAC-Bypass-FUD | ['exploit', 'uac bypass'] | 2 | 2025-01-01 05:14:34+00:00 | 612 | 2 | C# | 0 | [] |
 | 20142995/wxvl | 复现_漏洞_CVE_CNVD_POC_EXP_0day_1day_nday等相关微信文章收集 | https://github.com/20142995/wxvl | ['0day', 'cve poc'] | 2 | 2025-01-01 04:13:26+00:00 | 14844 | 48 | Python | 12 | [] |
 | Mido21102/Xeno-executor | Xeno-Executor is a powerful open-source automation tool designed to simplify and streamline the execution of tasks and processes. | https://github.com/Mido21102/Xeno-executor | ['exploit'] | 1 | 2025-01-01 05:21:07+00:00 | 121 | 16 | Java | 14 | [] |
 | Tud-Ra/WinRAR-Exploit-Builder | The WinRAR Exploit Builder is a C# project designed to create an exploit targeting a vulnerability in WinRAR. | https://github.com/Tud-Ra/WinRAR-Exploit-Builder | ['0day', 'exploit'] | 2 | 2025-01-01 04:57:01+00:00 | 438 | 0 | C# | 1 | [] |
