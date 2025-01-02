@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-12345
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-23456
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-34567
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-45678
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-56789
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-67890
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-78901
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-89012
+816337793,profm0r1arty/cybermoriarty,cybermoriarty-1.py,f8bfef2d8fb4aa6f941e671db4d26a486855a3f2,CVE-2021-90123
