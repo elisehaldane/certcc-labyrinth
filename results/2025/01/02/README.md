@@ -1,0 +1,30 @@
+
+# Summary for results/2025/01/02
+    
+23 records found after deduplication
+
+| full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------|
+| electron/rcedit | Command line tool to edit resources of exe | https://github.com/electron/rcedit | ['rce'] | 1 | 2025-01-02 00:47:36+00:00 | 166 | 1754 | C++ | 190 | [] |
+| drb-ra/C2IntelFeeds | Automatically created C2 Feeds | https://github.com/drb-ra/C2IntelFeeds | ['metasploit module OR payload'] | 1 | 2025-01-02 04:33:09+00:00 | 4477892 | 548 | REXX | 47 | [] |
+| nomi-sec/PoC-in-GitHub | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | https://github.com/nomi-sec/PoC-in-GitHub | ['cve poc'] | 1 | 2025-01-02 00:32:02+00:00 | 620949 | 6616 | | 1205 | [] |
+| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc'] | 1 | 2025-01-02 00:03:39+00:00 | 570887 | 936 | Python | 202 | [] |
+| trickest/cve | Gather and update all available and newest CVEs with their PoC. | https://github.com/trickest/cve | ['cve poc'] | 1 | 2025-01-02 04:03:44+00:00 | 462294 | 6663 | HTML | 853 | [] |
+| GhostTroops/TOP | TOP All bugbounty pentesting CVE-2023- POC Exp RCE example payload Things | https://github.com/GhostTroops/TOP | ['cve poc', 'rce', 'rce poc'] | 3 | 2025-01-02 01:03:32+00:00 | 1240 | 683 | Shell | 119 | [] |
+| sari3l/Poc-Monitor | 🔍 Github CVE POC 信息监控推送 🚀 | https://github.com/sari3l/Poc-Monitor | ['cve poc'] | 1 | 2025-01-02 05:10:59+00:00 | 248672 | 281 | Go | 59 | [] |
+| adminlove520/Poc-Monitor_v1.0.1 | 威胁情报-漏洞存储库 | https://github.com/adminlove520/Poc-Monitor_v1.0.1 | ['cve poc'] | 1 | 2025-01-02 05:13:13+00:00 | 275175 | 160 | Go | 22 | [] |
+| nishiyama-jpg/Privilege-Escalation | Performing privilege escalation attack using Metasploit | https://github.com/nishiyama-jpg/Privilege-Escalation | ['metasploit module OR payload'] | 1 | 2025-01-02 03:56:26+00:00 | 14 | 0 | | 0 | [] |
+| cultureelerfgoed/rce-thesauri-backup | Automatic thesauri backups from RCE PoolParty | https://github.com/cultureelerfgoed/rce-thesauri-backup | ['rce'] | 1 | 2025-01-02 05:08:18+00:00 | 568403 | 0 | Python | 0 | [] |
+| weiheng5672/MetasploitModule | 練習MetasploitModule | https://github.com/weiheng5672/MetasploitModule | ['metasploit module OR payload'] | 1 | 2025-01-02 01:37:57+00:00 | 851 | 0 | Ruby | 0 | [] |
+| XiaomingX/data-cve-poc | 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub. | https://github.com/XiaomingX/data-cve-poc | ['cve poc'] | 1 | 2025-01-02 01:42:47+00:00 | 181632 | 98 | Python | 20 | [] |
+| Mykhis/HTA-Exploit | Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution | https://github.com/Mykhis/HTA-Exploit | ['remote code execution'] | 1 | 2025-01-02 05:54:54+00:00 | 1012 | 0 | C# | 0 | [] |
+| 20142995/wxvl | 复现_漏洞_CVE_CNVD_POC_EXP_0day_1day_nday等相关微信文章收集 | https://github.com/20142995/wxvl | ['cve poc'] | 1 | 2025-01-02 04:13:10+00:00 | 15951 | 48 | Python | 12 | [] |
+| Zuk4r1/VulnKit | VulnKit es una herramienta de auditoría de seguridad que busca vulnerabilidades críticas como inyección SQL, RCE, SSRF, deserialización insegura y XSS. Escanea encabezados de seguridad y ejecuta exploits personalizados para evaluar sistemas de forma ética, | https://github.com/Zuk4r1/VulnKit | ['rce'] | 1 | 2025-01-02 03:16:47+00:00 | 105 | 0 | Python | 2 | [] |
+| mawg0ud/ShellMorph-Pro | A toolkit for secure encryption, shellcode execution & advanced system interaction | https://github.com/mawg0ud/ShellMorph-Pro | ['shellcode'] | 1 | 2025-01-02 04:42:20+00:00 | 53 | 2 | Rust | 0 | [] |
+| DeMoYao100/shiroShellcode | None | https://github.com/DeMoYao100/shiroShellcode | ['shellcode'] | 1 | 2025-01-02 05:14:20+00:00 | 21 | 1 | Python | 0 | [] |
+| ajaykumarsangem/Remote-Code-Executor-for-Multiple-Programming-Languages | Developed a web-based executor supporting multiple programming languages with user authentication (login/sign-up).– RCE Compiler that allows users to write, compile, and execute code in multiple programming languages directly from the browser. | https://github.com/ajaykumarsangem/Remote-Code-Executor-for-Multiple-Programming-Languages | ['rce'] | 1 | 2025-01-02 04:37:11+00:00 | 1 | 0 | Python | 0 | [] |
+| xiv3r/Termux-Metasploit-Frameworks | Run Metasploit Frameworks (msf) in termux | https://github.com/xiv3r/Termux-Metasploit-Frameworks | ['metasploit module OR payload'] | 1 | 2025-01-02 00:36:11+00:00 | 44 | 0 | Shell | 0 | [] |
+| karim481/Metasploitable2-Linux-Lab | None | https://github.com/karim481/Metasploitable2-Linux-Lab | ['metasploit module OR payload'] | 1 | 2025-01-02 04:05:29+00:00 | 21 | 0 | Python | 0 | [] |
+| Marouane133/jenkins-lfi | Jenkins CVE-2024-23897 POC : Arbitrary File Read Vulnerability Leading to RCE | https://github.com/Marouane133/jenkins-lfi | ['cve poc', 'rce', 'rce poc'] | 3 | 2025-01-02 03:41:50+00:00 | 2 | 0 | Python | 0 | ['CVE-2024-23897'] |
+| Safecloudth/CVE-2024-53522 | PoC for CVE-2024-53522 affecting HOSxP XE 4 | https://github.com/Safecloudth/CVE-2024-53522 | ['cve poc'] | 1 | 2025-01-02 04:16:41+00:00 | 315 | 0 | PowerShell | 0 | ['CVE-2024-53522'] |
+| BOl1o/CVE-2024-49112-RCE-PoC | CVE-2024-49112 Windows LDAP RCE PoC and Metasploit Module | https://github.com/BOl1o/CVE-2024-49112-RCE-PoC | ['cve poc', 'metasploit module OR payload', 'rce', 'rce poc'] | 4 | 2025-01-02 04:30:50+00:00 | 0 | 0 | | 0 | ['CVE-2024-49112'] |
