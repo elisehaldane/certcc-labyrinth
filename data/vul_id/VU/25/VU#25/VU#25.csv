@@ -197,6 +197,7 @@ VU#25,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#25,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#25,0.03448276,https://github.com/istaion/ExploitationDonneesPandas,istaion/ExploitationDonneesPandas,907358811
 VU#25,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
+VU#25,0.03448276,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#25,0.03448276,https://github.com/Aurora2911/MachineLearningProject,Aurora2911/MachineLearningProject,864847663
 VU#25,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#25,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
@@ -403,13 +404,13 @@ VU#25,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#25,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#25,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#25,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#25,0.00917431,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#25,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#25,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#25,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#25,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#25,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#25,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#25,0.00862069,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#25,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#25,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#25,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -604,7 +605,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00031466,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00031437,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

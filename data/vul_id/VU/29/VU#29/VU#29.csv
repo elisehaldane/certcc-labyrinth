@@ -105,6 +105,7 @@ VU#29,0.33333333,https://github.com/AndreMaquesMachado/POC,AndreMaquesMachado/PO
 VU#29,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
 VU#29,0.33333333,https://github.com/XJMI/Skidded-Scripts,XJMI/Skidded-Scripts,294222684
 VU#29,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#29,0.25000000,https://github.com/hextreeio/android-webview-research,hextreeio/android-webview-research,910765565
 VU#29,0.25000000,https://github.com/prince-mann/Remote-Code-Executor,prince-mann/Remote-Code-Executor,832835225
 VU#29,0.25000000,https://github.com/playvoras/python-exploits,playvoras/python-exploits,830739066
 VU#29,0.25000000,https://github.com/namragul495/Adversarial-Attacks-on-Video-Recognition-Models,namragul495/Adversarial-Attacks-on-Video-Recognition-Models,757095788
@@ -319,6 +320,7 @@ VU#29,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/L
 VU#29,0.03571429,https://github.com/pxcs/CVE-29343-Sysmon-list,pxcs/CVE-29343-Sysmon-list,785288758
 VU#29,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#29,0.03448276,https://github.com/istaion/ExploitationDonneesPandas,istaion/ExploitationDonneesPandas,907358811
+VU#29,0.03448276,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#29,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#29,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#29,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
@@ -589,7 +591,6 @@ VU#29,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/M
 VU#29,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#29,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
 VU#29,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
-VU#29,0.00917431,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#29,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#29,0.00909091,https://github.com/youki992/VscanPlus,youki992/VscanPlus,763934320
 VU#29,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -601,6 +602,7 @@ VU#29,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
 VU#29,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#29,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#29,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#29,0.00862069,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#29,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -788,7 +790,7 @@ VU#29,0.00075586,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#29,0.00060350,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00059701,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -796,7 +798,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00031466,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00031437,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
