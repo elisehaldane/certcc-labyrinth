@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+911010933,Marouane133/jenkins-lfi,README.md,8e7230898ae38284a25ddc3ddf71263062c0e889,CVE-2024-23897
+911010933,Marouane133/jenkins-lfi,poc.py,b3e92edfb1cf96e1a9310fae5e0b537d742dad0b,CVE-2024-23897
+911010933,Marouane133/jenkins-lfi,_GITHUB_REPO_METADATA_,,CVE-2024-23897
