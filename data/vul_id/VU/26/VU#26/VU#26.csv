@@ -38,6 +38,7 @@ VU#26,0.14285714,https://github.com/chryskar/karakasis2020exploiting,chryskar/ka
 VU#26,0.12500000,https://github.com/danielxreis/picoctf_2022,danielxreis/picoctf_2022,514703966
 VU#26,0.12500000,https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020,345634228
 VU#26,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
+VU#26,0.11111111,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#26,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#26,0.11111111,https://github.com/g-patin/RCE_projects,g-patin/RCE_projects,730282886
 VU#26,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
@@ -74,7 +75,6 @@ VU#26,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#26,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#26,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#26,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
-VU#26,0.06250000,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#26,0.06250000,https://github.com/mahmood-mahmood/Exploitary_Data_Analysis,mahmood-mahmood/Exploitary_Data_Analysis,898296667
 VU#26,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
 VU#26,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
@@ -372,7 +372,6 @@ VU#26,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,Io
 VU#26,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#26,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#26,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#26,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#26,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#26,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#26,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -400,6 +399,7 @@ VU#26,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#26,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#26,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#26,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#26,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#26,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#26,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#26,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703

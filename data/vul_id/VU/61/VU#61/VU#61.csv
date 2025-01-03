@@ -77,6 +77,7 @@ VU#61,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/brows
 VU#61,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#61,0.11111111,https://github.com/wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,wecacuee/presentation-201804-Exploiting-structure-for-navigation-in-unseen-environments,659821515
 VU#61,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
+VU#61,0.10000000,https://github.com/piergo98/OCSLC,piergo98/OCSLC,814669924
 VU#61,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#61,0.10000000,https://github.com/zv800/Vector-v3,zv800/Vector-v3,532764472
 VU#61,0.10000000,https://github.com/LittleNewton/ucas_exploit_practice,LittleNewton/ucas_exploit_practice,206853622
@@ -93,7 +94,6 @@ VU#61,0.07692308,https://github.com/grantdadams/Rceattle-models,grantdadams/Rcea
 VU#61,0.07142857,https://github.com/P-DennyGamingYT/Synapse-Beta,P-DennyGamingYT/Synapse-Beta,514613566
 VU#61,0.07142857,https://github.com/melian009/Deepbios,melian009/Deepbios,304544143
 VU#61,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
-VU#61,0.06250000,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#61,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#61,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#61,0.05882353,https://github.com/atharimran728/DVWA-Pentest-report,atharimran728/DVWA-Pentest-report,836300268
@@ -118,12 +118,12 @@ VU#61,0.03846154,https://github.com/0xNslabs/Rakuten5GTurboAPI,0xNslabs/Rakuten5
 VU#61,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#61,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#61,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
-VU#61,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#61,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#61,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#61,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#61,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#61,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
+VU#61,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#61,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#61,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#61,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
@@ -393,7 +393,6 @@ VU#61,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/
 VU#61,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#61,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#61,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#61,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#61,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#61,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#61,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -420,6 +419,7 @@ VU#61,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#61,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#61,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#61,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#61,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#61,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#61,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#61,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703

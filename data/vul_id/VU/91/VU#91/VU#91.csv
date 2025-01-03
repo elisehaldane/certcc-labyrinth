@@ -26,7 +26,6 @@ VU#91,0.20000000,https://github.com/0AnonymousSite0/Social-media-data-to-Interre
 VU#91,0.16666667,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
 VU#91,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#91,0.14285714,https://github.com/Nathan-B-97/Pentest-_TryHackMe,Nathan-B-97/Pentest-_TryHackMe,889344276
-VU#91,0.14285714,https://github.com/piergo98/OCSLC,piergo98/OCSLC,814669924
 VU#91,0.14285714,https://github.com/elefantesagradodeluzinfinita/cve-2023-38831,elefantesagradodeluzinfinita/cve-2023-38831,693647970
 VU#91,0.12500000,https://github.com/jhruppert/wrf-ideal-crf,jhruppert/wrf-ideal-crf,880564298
 VU#91,0.12500000,https://github.com/Trinity-SYT-SECURITY/coablt_strike_4.5,Trinity-SYT-SECURITY/coablt_strike_4.5,572526199
@@ -37,6 +36,7 @@ VU#91,0.11111111,https://github.com/VortexRadiation/S-500-G2-Rat-Hvnc-Hiden-Bros
 VU#91,0.11111111,https://github.com/34dsfsdf4/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,34dsfsdf4/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,501815163
 VU#91,0.11111111,https://github.com/MerlynXS/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,MerlynXS/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,497972385
 VU#91,0.11111111,https://github.com/LastWRcs/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,LastWRcs/S-500-G2-Rat-Hvnc-Hidden-Broswers-Hidden-Apps-OperaGX-Rat-Remote-Malware,496268105
+VU#91,0.10000000,https://github.com/piergo98/OCSLC,piergo98/OCSLC,814669924
 VU#91,0.10000000,https://github.com/Trap4L/SQL-Dumper,Trap4L/SQL-Dumper,649196467
 VU#91,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#91,0.09090909,https://github.com/DaintyJet/VChat_CFG,DaintyJet/VChat_CFG,810955713
@@ -98,7 +98,6 @@ VU#91,0.03846154,https://github.com/MAWK0235/MinecraftLog4jAutoPwn,MAWK0235/Mine
 VU#91,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
 VU#91,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#91,0.03703704,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
-VU#91,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#91,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#91,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#91,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
@@ -107,6 +106,7 @@ VU#91,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Ar
 VU#91,0.03448276,https://github.com/Miftahul7838/Projects_and_Scripts,Miftahul7838/Projects_and_Scripts,444884919
 VU#91,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#91,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/PersonaPrediction,907675138
+VU#91,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#91,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#91,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#91,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
@@ -349,7 +349,6 @@ VU#91,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,Io
 VU#91,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#91,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#91,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#91,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#91,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#91,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#91,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -376,6 +375,7 @@ VU#91,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#91,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#91,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#91,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#91,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#91,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#91,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#91,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703

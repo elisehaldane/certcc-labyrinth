@@ -78,6 +78,7 @@ VU#63,0.12500000,https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527
 VU#63,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,716653569
 VU#63,0.12500000,https://github.com/cyb3rpeace/CVE-2021-34527,cyb3rpeace/CVE-2021-34527,507019653
 VU#63,0.12500000,https://github.com/sh7alward/CVE-20121-34527-nightmare,sh7alward/CVE-20121-34527-nightmare,438151074
+VU#63,0.11111111,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#63,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#63,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
 VU#63,0.10000000,https://github.com/0xSs0rZ/Windows_Exploit,0xSs0rZ/Windows_Exploit,810761849
@@ -106,7 +107,6 @@ VU#63,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#63,0.06666667,https://github.com/bioc/rcellminerData,bioc/rcellminerData,665860054
 VU#63,0.06666667,https://github.com/rikenbit/Vicus,rikenbit/Vicus,617712827
 VU#63,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
-VU#63,0.06250000,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#63,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#63,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#63,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
@@ -441,7 +441,6 @@ VU#63,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971,n
 VU#63,0.00581395,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286,616793748
 VU#63,0.00581395,https://github.com/nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,nidhi7598/openssl-OpenSSL_1_1_1g_AOSP_10_r33_CVE-2022-1292,518034578
 VU#63,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#63,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#63,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#63,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#63,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -469,6 +468,7 @@ VU#63,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#63,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#63,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#63,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#63,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#63,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#63,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#63,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703

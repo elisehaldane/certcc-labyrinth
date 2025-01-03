@@ -34,6 +34,7 @@ VU#27,0.12500000,https://github.com/0xbitx/DEDSEC-Bluetooth-exploit,0xbitx/DEDSE
 VU#27,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
 VU#27,0.12500000,https://github.com/xchg2pwn/BinaryExploitation,xchg2pwn/BinaryExploitation,558110828
 VU#27,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
+VU#27,0.11111111,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#27,0.11111111,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#27,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#27,0.11111111,https://github.com/Moulik07/Penetration-Testing---Exploring-and-Exploiting-Vulnerabilities,Moulik07/Penetration-Testing---Exploring-and-Exploiting-Vulnerabilities,672273746
@@ -63,7 +64,6 @@ VU#27,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxics
 VU#27,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#27,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#27,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
-VU#27,0.06250000,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
 VU#27,0.06250000,https://github.com/nooway077/HoloLens2CVExperiments,nooway077/HoloLens2CVExperiments,701688095
 VU#27,0.06250000,https://github.com/Zhaocy-Research/TransformerST,Zhaocy-Research/TransformerST,510563607
 VU#27,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
@@ -100,7 +100,6 @@ VU#27,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#27,0.03703704,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#27,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#27,0.03703704,https://github.com/wtfplayer/redemption,wtfplayer/redemption,659040406
-VU#27,0.03703704,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#27,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#27,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
 VU#27,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
@@ -109,6 +108,7 @@ VU#27,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre
 VU#27,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#27,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#27,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
+VU#27,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#27,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#27,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#27,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
@@ -389,7 +389,6 @@ VU#27,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,Io
 VU#27,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#27,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#27,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#27,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#27,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#27,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#27,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -416,6 +415,7 @@ VU#27,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#27,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#27,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#27,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#27,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#27,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#27,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#27,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703

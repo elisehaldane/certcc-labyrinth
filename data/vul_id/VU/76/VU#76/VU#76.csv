@@ -56,6 +56,7 @@ VU#76,0.25000000,https://github.com/andersongomes001/nginxWebUI-poc,andersongome
 VU#76,0.25000000,https://github.com/cultureelerfgoed/Axiell-thesauri,cultureelerfgoed/Axiell-thesauri,698222907
 VU#76,0.25000000,https://github.com/jas9reet/brainpan,jas9reet/brainpan,575278754
 VU#76,0.25000000,https://github.com/yufanphombolimbu/exploitdevelopment,yufanphombolimbu/exploitdevelopment,512971684
+VU#76,0.20000000,https://github.com/aelsheikh04/Ethical-Web-Exploitations,aelsheikh04/Ethical-Web-Exploitations,911612178
 VU#76,0.20000000,https://github.com/Sky-Code-1/command-injection-offense,Sky-Code-1/command-injection-offense,777226767
 VU#76,0.20000000,https://github.com/Neronjust2017/the_secret_of_Capitalist_exploitation,Neronjust2017/the_secret_of_Capitalist_exploitation,660979530
 VU#76,0.20000000,https://github.com/CyberQueens/CyberQueens,CyberQueens/CyberQueens,213031590
@@ -63,7 +64,6 @@ VU#76,0.16666667,https://github.com/MiraXSploitTeam/Roblox-Exploit--MiraXSploit,
 VU#76,0.16666667,https://github.com/jsirichai/CVE-2019-2215,jsirichai/CVE-2019-2215,714661067
 VU#76,0.16666667,https://github.com/HexorHex/HexorSploit-Site,HexorHex/HexorSploit-Site,529328771
 VU#76,0.16666667,https://github.com/mirailovers/exploits,mirailovers/exploits,473499714
-VU#76,0.14285714,https://github.com/piergo98/OCSLC,piergo98/OCSLC,814669924
 VU#76,0.14285714,https://github.com/InfernusScripts/Vulkan,InfernusScripts/Vulkan,740219537
 VU#76,0.14285714,https://github.com/Roblox4dev/SynapseX-,Roblox4dev/SynapseX-,725053450
 VU#76,0.12500000,https://github.com/jackfromeast/browser-dojo,jackfromeast/browser-dojo,741204715
@@ -72,6 +72,7 @@ VU#76,0.11111111,https://github.com/pablosanchezp/kNNDissimilarities,pablosanche
 VU#76,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#76,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#76,0.11111111,https://github.com/MaherAzzouzi/BrowserExploitation,MaherAzzouzi/BrowserExploitation,359639628
+VU#76,0.10000000,https://github.com/piergo98/OCSLC,piergo98/OCSLC,814669924
 VU#76,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
 VU#76,0.09090909,https://github.com/NJU-PCALab/STTrack,NJU-PCALab/STTrack,903665799
 VU#76,0.09090909,https://github.com/Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,Dineshuvs/Log4Shell-Vulnerability-Exploitation-and-Mitigation,883182356
@@ -396,7 +397,6 @@ VU#76,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin
 VU#76,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
 VU#76,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
 VU#76,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
-VU#76,0.00571429,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#76,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#76,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#76,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -422,6 +422,7 @@ VU#76,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-
 VU#76,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
 VU#76,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#76,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
+VU#76,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#76,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#76,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#76,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
