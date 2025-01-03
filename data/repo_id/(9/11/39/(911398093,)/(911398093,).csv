@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+911398093,SkyBulk/exploitseries,7_seh_overwrite.md,01343ef89f0502aba6f2a443526157cc1e3e3b38,VU#33
+911398093,SkyBulk/exploitseries,7_seh_overwrite.md,01343ef89f0502aba6f2a443526157cc1e3e3b38,VU#39
+911398093,SkyBulk/exploitseries,6_intro_to_exploit.md,2ffcb5af58b0c75e2fb49481211961a70ae7a7e9,VU#33
+911398093,SkyBulk/exploitseries,3_intro_to_secure_code.md,81e21cee3231bdea8cd91d941611489f72df98ac,CVE-2018-14295
+911398093,SkyBulk/exploitseries,3_intro_to_secure_code.md,81e21cee3231bdea8cd91d941611489f72df98ac,ZDI-18-755

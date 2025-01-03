@@ -1,4 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
 911010933,Marouane133/jenkins-lfi,README.md,22280cf5a995c96c7b99e83ee6cf42ee652003ef,CVE-2024-23897
-911010933,Marouane133/jenkins-lfi,poc.py,b3e92edfb1cf96e1a9310fae5e0b537d742dad0b,CVE-2024-23897
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#24
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#32
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#42
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#55
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#92
+911010933,Marouane133/jenkins-lfi,jenkins_demo.mp4.tar.gz,9364621f9e2a642f856ae8d551687ab9a3da2b3f,VU#97
+911010933,Marouane133/jenkins-lfi,poc.py,ac1908eb2a813c1993a69357ded2ba5cb945031e,CVE-2024-23897
 911010933,Marouane133/jenkins-lfi,_GITHUB_REPO_METADATA_,,CVE-2024-23897
