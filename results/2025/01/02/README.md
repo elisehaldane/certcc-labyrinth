@@ -1,7 +1,7 @@
 
 # Summary for results/2025/01/02
     
-243 records found after deduplication
+244 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|------------------------------------|
@@ -218,6 +218,7 @@
 | FranklineMisango/Frankline_LP_Crypto_Investments | An Algorithmic Research Project to Learn and Code on Potential Strategies and Exploitable Ghost Patterns in Crypto using Binance as REST | https://github.com/FranklineMisango/Frankline_LP_Crypto_Investments | ['exploit'] | 1 | 2025-01-02 16:44:15+00:00 | 1356 | 1 | Python | 0 | [] |
 | FarizDevloper/shellbackdor-vuln | About This tool is a Python-based scanner designed to detect PHP shell upload vulnerabilities on websites. It automates the process of identifying vulnerable upload paths, attempts shell uploads, and logs successful exploits. Perfect for ethical hackers | https://github.com/FarizDevloper/shellbackdor-vuln | ['exploit'] | 1 | 2025-01-02 09:57:11+00:00 | 76 | 0 | Python | 0 | [] |
 | Bug-Hunter-X/SQL-Injection-Vulnerability-in-User-Authentication-Query-exj0b | SQL injection vulnerability in a user authentication query. The vulnerability allows attackers to execute arbitrary SQL commands by manipulating the username input. | https://github.com/Bug-Hunter-X/SQL-Injection-Vulnerability-in-User-Authentication-Query-exj0b | ['command injection'] | 1 | 2025-01-02 09:16:05+00:00 | 1 | 0 | | 0 | [] |
+| RandomRobbieBF/CVE-2024-54330 | Hurrakify <= 2.4 - Unauthenticated Server-Side Request Forgery | https://github.com/RandomRobbieBF/CVE-2024-54330 | ['cve-2 OR cve_2'] | 1 | 2025-01-02 10:32:23+00:00 | 2 | 0 | | 0 | ['CVE-2024-54330'] |
 | FarizDevloper/CVE-2017-2024 | CVE-2017-9805 is a critical vulnerability in Apache Struts 2's Rest Plugin, allowing attackers to execute remote code via a specially crafted XML payload. If exploited, this vulnerability can lead to unauthorized system access and compromise vulnerable app | https://github.com/FarizDevloper/CVE-2017-2024 | ['cve-2 OR cve_2', 'exploit'] | 2 | 2025-01-02 11:13:27+00:00 | 25 | 0 | Python | 0 | ['CVE-2017-2024', 'CVE-2017-9805'] |
 | Thawdar12/VouncherCracking | This project involves discovering and exploiting an open UDP port used by a server to generate gift voucher codes using MD5 hashing | https://github.com/Thawdar12/VouncherCracking | ['exploit'] | 1 | 2025-01-02 11:21:45+00:00 | 7564 | 0 | Python | 0 | [] |
 | Justin-yzp/Vulnerability-exploitation-written-report- | None | https://github.com/Justin-yzp/Vulnerability-exploitation-written-report- | ['exploit'] | 1 | 2025-01-02 11:20:32+00:00 | 782 | 0 | | 0 | [] |
