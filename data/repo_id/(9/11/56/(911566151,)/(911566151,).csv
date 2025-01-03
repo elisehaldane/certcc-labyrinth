@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+911566151,JanICT/poc-ldap-cve-2021-44228,README.md,1cec53654e0ea122f676e25cd21a404a1418785d,CVE-2021-44228
+911566151,JanICT/poc-ldap-cve-2021-44228,_GITHUB_REPO_METADATA_,,CVE-2021-44228
