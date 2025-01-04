@@ -48,6 +48,7 @@ VU#19,0.11111111,https://github.com/Wack0/CVE-2022-21894,Wack0/CVE-2022-21894,52
 VU#19,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#19,0.11111111,https://github.com/h4wkst3r/InvisibilityCloak,h4wkst3r/InvisibilityCloak,368894831
 VU#19,0.11111111,https://github.com/hodor-sec/Binary-Exploitation,hodor-sec/Binary-Exploitation,151313853
+VU#19,0.10000000,https://github.com/MichAdebayo/exploitation_des_donnees_avec_pandas,MichAdebayo/exploitation_des_donnees_avec_pandas,909528348
 VU#19,0.10000000,https://github.com/SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,775406097
 VU#19,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#19,0.10000000,https://github.com/giuliosiracusano/deeplearning_crack_classification,giuliosiracusano/deeplearning_crack_classification,431936668
@@ -411,7 +412,6 @@ VU#19,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#19,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#19,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#19,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#19,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#19,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#19,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#19,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
@@ -428,6 +428,7 @@ VU#19,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,52848859
 VU#19,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#19,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#19,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#19,0.00322581,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#19,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#19,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#19,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -486,7 +487,7 @@ VU#19,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#19,0.00031397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00031368,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

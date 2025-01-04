@@ -29,6 +29,7 @@ VU#55,0.33333333,https://github.com/yufanphombolimbu/Metasploit,yufanphombolimbu
 VU#55,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#55,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
 VU#55,0.33333333,https://github.com/thiagofigcosta/V-REx,thiagofigcosta/V-REx,306664684
+VU#55,0.25000000,https://github.com/synchronise-coder/SyncHub,synchronise-coder/SyncHub,912123120
 VU#55,0.25000000,https://github.com/ArdeleanRichard/som-exploit,ArdeleanRichard/som-exploit,757380836
 VU#55,0.25000000,https://github.com/EntySec/SeaShell,EntySec/SeaShell,732556353
 VU#55,0.25000000,https://github.com/jupyter-naas/FEC-engine,jupyter-naas/FEC-engine,621218657
@@ -526,7 +527,6 @@ VU#55,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#55,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#55,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#55,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#55,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#55,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#55,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#55,0.00434783,https://github.com/DCFBGFSDTHFSD/Exploit,DCFBGFSDTHFSD/Exploit,692458402
@@ -547,6 +547,7 @@ VU#55,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resour
 VU#55,0.00353357,https://github.com/password520/windows-kernel-exploits,password520/windows-kernel-exploits,477353972
 VU#55,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/windows-kernel-exploits,653806587
 VU#55,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#55,0.00322581,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#55,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#55,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#55,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856

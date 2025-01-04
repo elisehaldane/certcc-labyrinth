@@ -175,7 +175,6 @@ VU#33,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hu
 VU#33,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
 VU#33,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#33,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
-VU#33,0.03448276,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#33,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#33,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#33,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
@@ -460,7 +459,6 @@ VU#33,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#33,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#33,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#33,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#33,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#33,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#33,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#33,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
@@ -479,6 +477,7 @@ VU#33,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking
 VU#33,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#33,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#33,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#33,0.00322581,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#33,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#33,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#33,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856

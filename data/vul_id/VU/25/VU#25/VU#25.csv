@@ -197,7 +197,6 @@ VU#25,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,5327
 VU#25,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#25,0.03448276,https://github.com/istaion/ExploitationDonneesPandas,istaion/ExploitationDonneesPandas,907358811
 VU#25,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
-VU#25,0.03448276,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#25,0.03448276,https://github.com/Aurora2911/MachineLearningProject,Aurora2911/MachineLearningProject,864847663
 VU#25,0.03448276,https://github.com/saminwankwo/zeroDayApp,saminwankwo/zeroDayApp,766615435
 VU#25,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
@@ -213,6 +212,7 @@ VU#25,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9
 VU#25,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#25,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#25,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
+VU#25,0.02857143,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#25,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
 VU#25,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#25,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
@@ -514,7 +514,6 @@ VU#25,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSin
 VU#25,0.00446429,https://github.com/wisoffe/exploits-predict,wisoffe/exploits-predict,531942990
 VU#25,0.00444444,https://github.com/Chan-0312/RRNet,Chan-0312/RRNet,474973550
 VU#25,0.00442478,https://github.com/riccardonicolaidis/FPGAtmos_pARTYcle_detector,riccardonicolaidis/FPGAtmos_pARTYcle_detector,468043081
-VU#25,0.00438596,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#25,0.00436681,https://github.com/b8ff/Exploits,b8ff/Exploits,518102296
 VU#25,0.00434783,https://github.com/CristianApost0L/SQLi-ML-defense,CristianApost0L/SQLi-ML-defense,823610773
 VU#25,0.00432900,https://github.com/AyushGupta51379/COMP_5331_Project_Fake_News_Detection,AyushGupta51379/COMP_5331_Project_Fake_News_Detection,299022703
@@ -537,6 +536,7 @@ VU#25,0.00340136,https://github.com/alian87/windows-kernel-exploits,alian87/wind
 VU#25,0.00337838,https://github.com/YasserGersy/cazador_unr,YasserGersy/cazador_unr,193280788
 VU#25,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#25,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
+VU#25,0.00322581,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#25,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#25,0.00307692,https://github.com/Jasut1n/py-exploits,Jasut1n/py-exploits,479277813
 VU#25,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
@@ -606,7 +606,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00031397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00031368,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00029044,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
