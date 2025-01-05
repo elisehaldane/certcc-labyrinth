@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+774872326,Dilrevx/exploit,ByteCTF2024/app-debug.apk,045f3613bff5d8466ed1c6d2633cad359f564a0c,VU#54
 774872326,Dilrevx/exploit,240805/c2960-lanbasek9-mz.122-55.SE9.bin,0e3473ca752d88c3890357b08d152dc68978dde4,VU#55
 774872326,Dilrevx/exploit,240805/c2960-lanbasek9-mz.122-55.SE9.bin,0e3473ca752d88c3890357b08d152dc68978dde4,VU#59
 774872326,Dilrevx/exploit,240805/c2960-lanbasek9-mz.122-55.SE9.bin,0e3473ca752d88c3890357b08d152dc68978dde4,VU#88
