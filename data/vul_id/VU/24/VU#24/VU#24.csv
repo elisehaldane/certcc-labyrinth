@@ -9,6 +9,7 @@ VU#24,1.00000000,https://github.com/winters0x64/WebSec,winters0x64/WebSec,596062
 VU#24,1.00000000,https://github.com/tin-z/windbg-exploit-helper-scripts,tin-z/windbg-exploit-helper-scripts,490464190
 VU#24,1.00000000,https://github.com/Anonrocks/Exploitssss,Anonrocks/Exploitssss,194315411
 VU#24,1.00000000,https://github.com/IAIK/meltdown,IAIK/meltdown,116119704
+VU#24,0.50000000,https://github.com/tyto-sec/syncbreeze10.0.28-buffer-overflow-exploit,tyto-sec/syncbreeze10.0.28-buffer-overflow-exploit,912140930
 VU#24,0.50000000,https://github.com/heart-care/pmat,heart-care/pmat,902776159
 VU#24,0.50000000,https://github.com/sailay1996/Exploit-Dev-UserMode,sailay1996/Exploit-Dev-UserMode,862222370
 VU#24,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
@@ -371,7 +372,7 @@ VU#24,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPre
 VU#24,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#24,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#24,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#24,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#24,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#24,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#24,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#24,0.00869565,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -420,7 +421,7 @@ VU#24,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detec
 VU#24,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#24,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#24,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#24,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#24,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#24,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#24,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#24,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587

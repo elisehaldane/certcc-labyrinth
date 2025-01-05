@@ -1,2 +1,2 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-HFQC-63C7-RJ9F,0.00384615,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740
+GHSA-HFQC-63C7-RJ9F,0.00357143,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740

@@ -67,6 +67,7 @@ VU#79,0.11111111,https://github.com/edoardottt/tryhackme-ctf,edoardottt/tryhackm
 VU#79,0.11111111,https://github.com/JsHuang/exploit_db,JsHuang/exploit_db,146378813
 VU#79,0.10000000,https://github.com/MichAdebayo/exploitation_des_donnees_avec_pandas,MichAdebayo/exploitation_des_donnees_avec_pandas,909528348
 VU#79,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
+VU#79,0.10000000,https://github.com/don970/SuperSploit-chrome-OS,don970/SuperSploit-chrome-OS,785277264
 VU#79,0.10000000,https://github.com/iamumarjaved/Information-Security,iamumarjaved/Information-Security,739135576
 VU#79,0.10000000,https://github.com/ashishbhat1/Wikipedia-Requests-for-Adminship,ashishbhat1/Wikipedia-Requests-for-Adminship,498403262
 VU#79,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankle/VLC_CVE-2021-25804_Analysis,495571729
@@ -290,7 +291,7 @@ VU#79,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,
 VU#79,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
 VU#79,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#79,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
-VU#79,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
+VU#79,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
 VU#79,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#79,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#79,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -299,7 +300,7 @@ VU#79,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-
 VU#79,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#79,0.00892857,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.github.io,374913790
 VU#79,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
-VU#79,0.00884956,https://github.com/BSEL-UC3M/pMoSS,BSEL-UC3M/pMoSS,228442839
+VU#79,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#79,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#79,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#79,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
@@ -346,7 +347,7 @@ VU#79,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,nee
 VU#79,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#79,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#79,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#79,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
+VU#79,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#79,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#79,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#79,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
