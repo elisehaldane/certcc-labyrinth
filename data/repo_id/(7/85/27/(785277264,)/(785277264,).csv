@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Dirty Pipe.c,23b2b2db962ae07d505d637d41b2cd4d8f9d4fa3,CVE-2022-0847
+785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-10-v21H1 HTTP-Protocol Stack Remote Code Execution.py,416a08e0e929d7eda2488b293bdfcb0a1419e98f,CVE-2021-31166
+785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-10-v21H1 HTTP-Protocol Stack Remote Code Execution.py,416a08e0e929d7eda2488b293bdfcb0a1419e98f,CVE-2022-21907
+785277264,don970/SuperSploit-chrome-OS,.data/.adb/es-file-explorer-4-4-2-2-1.apk,7979f3499fa28093529a76b81342c8c084bd04b6,VU#65
+785277264,don970/SuperSploit-chrome-OS,.data/.adb/es-file-explorer-4-4-2-2-1.apk,7979f3499fa28093529a76b81342c8c084bd04b6,VU#79
+785277264,don970/SuperSploit-chrome-OS,exploits/routers/GL.iNet AR300M v4.3.7 Arbitrary File Read CVE-2023-46455 Exploit.py,8b892dfd53992567764ee3f82b460078927f93bd,CVE-2023-46455
+785277264,don970/SuperSploit-chrome-OS,exploits/routers/GL.iNet AR300M v3.216 Remote Code Execution CVE-2023-46456 Exploit.py,ac83b30a0b18866b9017ddcf2e2f7b2c712c6c4c,CVE-2023-46456
+785277264,don970/SuperSploit-chrome-OS,.data/.adb/adb-wifi-3-3-160.apk,bf2d2ea95ac7acf2b3f16c4c2a9b81f96de09410,VU#44
+785277264,don970/SuperSploit-chrome-OS,.data/.adb/adb-wifi-3-3-160.apk,bf2d2ea95ac7acf2b3f16c4c2a9b81f96de09410,VU#65
+785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Dirty Pipe.py,d3d7dd52d88fefb74640070cc0f784d78e95213e,CVE-2022-0847
+785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Linux kernel 3.4.5 local priv esc.py,ef20923fb42365a3d6ff28a5c1a1408c5e3bb16f,CVE-2013-6282
+785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-11-22h2  Kernel Privilege Elevation.c,fe81d29cd5bb51834dee26d855614261b7b65831,CVE-2023-28293
+785277264,don970/SuperSploit-chrome-OS,exploits/Linux/LinuxKernel-3.4.5-Local-priv-esc.c,ff844b107bca22d3efa044f286805900f0a84e8d,CVE-2013-6282
