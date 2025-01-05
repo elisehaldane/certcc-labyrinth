@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+912441813,mattiadarg/CengBox-PT,Presentazione_d'Argenio_CENGBOX.pdf,8db117f67e12572f6a7a8ced26b5b1daee41f37b,VU#55
+912441813,mattiadarg/CengBox-PT,Presentazione_d'Argenio_CENGBOX.pdf,8db117f67e12572f6a7a8ced26b5b1daee41f37b,VU#566
+912441813,mattiadarg/CengBox-PT,Presentazione_d'Argenio_CENGBOX.pdf,8db117f67e12572f6a7a8ced26b5b1daee41f37b,VU#74
+912441813,mattiadarg/CengBox-PT,Presentazione_d'Argenio_CENGBOX.pdf,8db117f67e12572f6a7a8ced26b5b1daee41f37b,VU#744644
+912441813,mattiadarg/CengBox-PT,Presentazione_d'Argenio_CENGBOX.pdf,8db117f67e12572f6a7a8ced26b5b1daee41f37b,VU#777
+912441813,mattiadarg/CengBox-PT,report/nessus_vuln_scan_web.pdf,95c4a19050becafa88f2698b8f209effee4611bc,CVE-2020-11022
+912441813,mattiadarg/CengBox-PT,report/vuln_scan_web_vcbt5y.pdf,95c4a19050becafa88f2698b8f209effee4611bc,CVE-2020-11023
+912441813,mattiadarg/CengBox-PT,Metodologia_d'Argenio_CENGBOX.pdf,d768d42282193ef1794899bf75967fb3de622d45,VU#30
+912441813,mattiadarg/CengBox-PT,report/vuln_scan_4eu1tz.pdf,f329bd8664f2254e0cc3405676a1469870c53ddb,CVE-1999-0524
+912441813,mattiadarg/CengBox-PT,report/vuln_scan_4eu1tz.pdf,f329bd8664f2254e0cc3405676a1469870c53ddb,CVE-2020-11022
+912441813,mattiadarg/CengBox-PT,report/vuln_scan_4eu1tz.pdf,f329bd8664f2254e0cc3405676a1469870c53ddb,CVE-2020-11023
+912441813,mattiadarg/CengBox-PT,report/vuln_scan_4eu1tz.pdf,f329bd8664f2254e0cc3405676a1469870c53ddb,CVE-2023-48795
