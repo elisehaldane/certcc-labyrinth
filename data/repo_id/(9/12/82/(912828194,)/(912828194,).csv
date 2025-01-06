@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+912828194,aelsheikh04/Ethical-Exploitations,Cross-Site Request Forgery/CSRF Development.pdf,3d4081cd1e90baca8d3e0458bd5b11c343605931,VU#76
+912828194,aelsheikh04/Ethical-Exploitations,SQL Injection/SQLI Description.pdf,3f1cfa05b50142745d71f6153de509cc1593c195,VU#95
+912828194,aelsheikh04/Ethical-Exploitations,Input Validation/IVA Development.pdf,5f33f0e5b6c10369d0a8530fe54a3872a6b1906c,VU#21
+912828194,aelsheikh04/Ethical-Exploitations,Cross-Site Scripting/XSS Development.pdf,8e3986ebc78815a1203b1dbd49dbad2ee4445cbf,VU#88
+912828194,aelsheikh04/Ethical-Exploitations,Input Validation/IVA Description.pdf,e71011bb89177dc61b86f0d14f7cf96a8bad3f4c,VU#54
