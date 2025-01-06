@@ -7,7 +7,7 @@ repo_id,repo_full_name,file,file_sha1,match
 2833881,beefproject/beef,modules/exploits/local_host/safari_launch_app/config.yaml,1b36accabb133bf37e2f12e75501a5d9f593db29,CVE-2011-3230
 2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,2d6182cd4ff344a801291b1ee9c817ad22e94bce,CVE-2014-6271
 2833881,beefproject/beef,modules/exploits/shell_shocked/config.yaml,2d6182cd4ff344a801291b1ee9c817ad22e94bce,CVE-2014-0627
-2833881,beefproject/beef,modules/social_engineering/firefox_extension_reverse_shell/command.js,33f87788ec51a4b632fb61b8662115d6224bae2d,VU#59
+2833881,beefproject/beef,modules/social_engineering/firefox_extension_bindshell/command.js,33f87788ec51a4b632fb61b8662115d6224bae2d,VU#59
 2833881,beefproject/beef,extensions/admin_ui/media/images/icons/country-squared/brl.svg,3b1798d18846209e54c353f87accb04011d55da4,VU#926
 2833881,beefproject/beef,modules/social_engineering/fake_notification_ff/command.js,44b228e68546f42618199b9d292041f6074de74c,VU#45
 2833881,beefproject/beef,modules/exploits/php-5.3.9-dos/command.js,57aaa9df9f7901b6a947395a28d4b6d8cecc896e,CVE-2012-0830
