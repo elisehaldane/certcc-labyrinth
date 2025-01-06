@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+843691646,sh3bu/CVE-disclosures,CVE-2024-7869/README.md,c206ada21f3e42d05cb14ad371b7dcb44c19623f,CVE-2024-7869
 843691646,sh3bu/CVE-disclosures,CVE-2024-41662/README.md,e7497082e99dbfa3693ce7c3de8af6904ad830d6,CVE-2024-41662
