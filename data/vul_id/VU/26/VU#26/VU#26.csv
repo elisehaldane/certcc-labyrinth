@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#26,1.00000000,https://github.com/theNareshofficial/ZeroDayLibrary,theNareshofficial/ZeroDayLibrary,911868955
 VU#26,1.00000000,https://github.com/Basilabt/BAT_WirlessAttackerTool,Basilabt/BAT_WirlessAttackerTool,813863631
 VU#26,1.00000000,https://github.com/helic235/Blox-Fruits-Exploit-Grinding-Hacks,helic235/Blox-Fruits-Exploit-Grinding-Hacks,725830318
 VU#26,1.00000000,https://github.com/LySharkTeam/ShellCodeInject,LySharkTeam/ShellCodeInject,578071223
@@ -75,6 +76,7 @@ VU#26,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#26,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#26,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#26,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
+VU#26,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
 VU#26,0.06250000,https://github.com/mahmood-mahmood/Exploitary_Data_Analysis,mahmood-mahmood/Exploitary_Data_Analysis,898296667
 VU#26,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
 VU#26,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,652035411
