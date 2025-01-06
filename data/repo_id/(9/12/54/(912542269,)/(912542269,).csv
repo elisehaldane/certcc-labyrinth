@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+912542269,ElChe1/EternalBlue-Exploit,README.md,8bb5f8e82488794db4542377ef0f80eba9568a99,CVE-2017-1043
+912542269,ElChe1/EternalBlue-Exploit,README.md,8bb5f8e82488794db4542377ef0f80eba9568a99,MS17-010
+912542269,ElChe1/EternalBlue-Exploit,_GITHUB_REPO_METADATA_,,MS17-010
