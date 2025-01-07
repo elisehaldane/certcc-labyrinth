@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+912934520,absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit,README.md,a6ab26a54c0c4dda4369275562a0f23e84afcaed,CVE-2024-56512
+912934520,absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit,Apache_NiFi_Exploit.py,e838e13c38401ac7223221030687a2f586b7e9d8,CVE-2024-56512
+912934520,absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-56512
