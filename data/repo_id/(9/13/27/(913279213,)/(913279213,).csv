@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+913279213,0xPThree/struts_cve-2024-53677,struts-app/pom.xml,22083f874f0bda55d59de77db1b1877e4b6aed34,CVE-2023-50164
+913279213,0xPThree/struts_cve-2024-53677,struts-app/pom.xml,22083f874f0bda55d59de77db1b1877e4b6aed34,CVE-2024-53677
+913279213,0xPThree/struts_cve-2024-53677,README.md,3b65e170bc204c0f61868493c9395f0a55dde778,CVE-2023-50164
+913279213,0xPThree/struts_cve-2024-53677,README.md,3b65e170bc204c0f61868493c9395f0a55dde778,CVE-2024-53677
+913279213,0xPThree/struts_cve-2024-53677,check.py,df37f816a4092494c4379d9d5d3c7f21a26e74da,CVE-2024-53677
+913279213,0xPThree/struts_cve-2024-53677,struts-app/src/main/webapp/WEB-INF/upload.jsp,fd766a7126ee6a87e8c2f0aed5a85891e74a56ea,CVE-2023-50164
+913279213,0xPThree/struts_cve-2024-53677,struts-app/src/main/webapp/WEB-INF/upload.jsp,fd766a7126ee6a87e8c2f0aed5a85891e74a56ea,CVE-2024-53677
+913279213,0xPThree/struts_cve-2024-53677,_GITHUB_REPO_METADATA_,,CVE-2024-53677
