@@ -37,6 +37,7 @@ VU#30,0.11111111,https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine,SNE-M23-
 VU#30,0.11111111,https://github.com/mondrasovic/vectorization_presentation,mondrasovic/vectorization_presentation,735270060
 VU#30,0.10000000,https://github.com/mattiadarg/CengBox-PT,mattiadarg/CengBox-PT,912441813
 VU#30,0.10000000,https://github.com/MichAdebayo/exploitation_des_donnees_avec_pandas,MichAdebayo/exploitation_des_donnees_avec_pandas,909528348
+VU#30,0.09090909,https://github.com/Ayush765/SubHunterX,Ayush765/SubHunterX,910052787
 VU#30,0.09090909,https://github.com/aryaman31/BashI_RL,aryaman31/BashI_RL,801617857
 VU#30,0.09090909,https://github.com/Laurin226/checkm8_toolbox,Laurin226/checkm8_toolbox,602263237
 VU#30,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
@@ -331,6 +332,7 @@ VU#30,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,44732213
 VU#30,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#30,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#30,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
+VU#30,0.00917431,https://github.com/Dragnir2912/Projet-Academique-ISE-2024-2025,Dragnir2912/Projet-Academique-ISE-2024-2025,913248989
 VU#30,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#30,0.00892857,https://github.com/melnicek/peh,melnicek/peh,293596215
 VU#30,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
@@ -488,7 +490,7 @@ VU#30,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#30,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#30,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#30,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#30,0.00057143,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#30,0.00056593,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#30,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#30,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#30,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -529,7 +531,7 @@ VU#30,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#30,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#30,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#30,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#30,0.00018488,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#30,0.00018484,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#30,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#30,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#30,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
