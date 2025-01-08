@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+913886715,anmolksachan/CVE-POC-Lookup-Browser-Extension,Chrome/popup.html,65424057b892883a05574b217ee43bf20fc16ac4,CVE-2024-4577
