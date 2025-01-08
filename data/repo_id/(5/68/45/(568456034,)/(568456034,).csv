@@ -33,10 +33,11 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/windows/active-directory/netlogon-elavasion-of-privilege.md,b11f0db878e813d5e05001d8739047924a3d028e,CVE-2020-1472
 568456034,hideckies/exploit-notes,src/exploit/windows/forensics/windows-memory-dump-analysis.md,b43246870acccbe027003fd9b73d063061e391a9,CVE-2023-32784
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/manageEngine-adselfservice-plus.md,b483c00b9f2cd1f8ec29db241e9bc576f772886f,CVE-2022-47966
+568456034,hideckies/exploit-notes,src/exploit/network/protocol/vnc-pentesting.md,b7dd62e3a850f5edbf486557ceaf53c50c5a6fe7,CVE-2006-2369
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/sudo/sudoedit-privilege-escalation.md,bc994c2c7b9a1a0177230504fd7e94417dec3488,CVE-2023-22809
 568456034,hideckies/exploit-notes,src/exploit/container/docker/moby-docker-engine-privesc.md,c0340d9af9e057a3c9aac0c0d95028918ab29bbb,CVE-2021-41091
-568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/python-privilege-escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/python-privilege-escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,CVE-2022-21699
+568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/python-privilege-escalation.md,c0bf3bd236ebc2eede2817fc36569f96ad0ad4b2,GHSA-PQ7M-3GW7-GQ5X
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/ajp-pentesting.md,c5d5f03598f3926ca01bbbcf615fe4f6f932e96b,CVE-2020-1938
 568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,ceee7213e3519f8a0e0131094f7ef981f69b94ab,CVE-2016-5431
 568456034,hideckies/exploit-notes,src/exploit/web/jwt-pentesting.md,ceee7213e3519f8a0e0131094f7ef981f69b94ab,CVE-2016-10555
@@ -45,7 +46,6 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/polkit-privilege-escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-4034
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/polkit-privilege-escalation.md,d5b13799888c1ad4f61ed0d54477c2071fb36605,CVE-2021-3560
 568456034,hideckies/exploit-notes,src/exploit/linux/privilege-escalation/snapd-privilege-escalation.md,d64ada2033752ff59f300ea82e7588eb282af841,CVE-2019-7304
-568456034,hideckies/exploit-notes,src/exploit/network/protocol/vnc-pentesting.md,e6451f068aae6215ba93f77ce770e20d8c106bbf,CVE-2006-2369
 568456034,hideckies/exploit-notes,src/exploit/web/cms/wordpress-pentesting.md,ea28427cc2d363bd331658b76e624d38587381c5,CVE-2021-29447
 568456034,hideckies/exploit-notes,src/exploit/windows/service/windows-print-spooler-service.md,f72149ac4a4ad97d6887283c2e2d79c1ed13bd56,CVE-2021-1675
 568456034,hideckies/exploit-notes,src/exploit/windows/service/windows-print-spooler-service.md,f72149ac4a4ad97d6887283c2e2d79c1ed13bd56,CVE-2021-34527
