@@ -28,6 +28,7 @@ VU#20,0.25000000,https://github.com/birdlex/cve-2024-24919-checker,birdlex/cve-2
 VU#20,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
 VU#20,0.25000000,https://github.com/ihavegoodnameiscool/joebidensploitx,ihavegoodnameiscool/joebidensploitx,658361149
 VU#20,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
+VU#20,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCTF/zerodaysctf.github.io,913534505
 VU#20,0.20000000,https://github.com/harshtech123/cve-2020-24881,harshtech123/cve-2020-24881,887139437
 VU#20,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
 VU#20,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
@@ -505,7 +506,7 @@ VU#20,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#20,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#20,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#20,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#20,0.00018484,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#20,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

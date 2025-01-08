@@ -21,6 +21,7 @@ VU#06,0.25000000,https://github.com/MKONE19/Carte_Exploitation-KONE,MKONE19/Cart
 VU#06,0.25000000,https://github.com/huyql109/Kernel-exploitation,huyql109/Kernel-exploitation,527288721
 VU#06,0.25000000,https://github.com/caiquebaracho/CVE-2021-44228,caiquebaracho/CVE-2021-44228,494091356
 VU#06,0.25000000,https://github.com/Charline7/final-project-le-lasserre,Charline7/final-project-le-lasserre,475413214
+VU#06,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCTF/zerodaysctf.github.io,913534505
 VU#06,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
 VU#06,0.20000000,https://github.com/HazmatAiden/RelevantExploitsGUI,HazmatAiden/RelevantExploitsGUI,582362432
 VU#06,0.20000000,https://github.com/duongletrieu/Apple-HTML-Exploiter,duongletrieu/Apple-HTML-Exploiter,419225438
@@ -406,7 +407,7 @@ VU#06,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#06,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#06,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#06,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#06,0.00031260,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#06,0.00031240,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#06,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#06,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#06,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -444,11 +445,11 @@ VU#06,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#06,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#06,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#06,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#06,0.00018484,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#06,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#06,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#06,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#06,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#06,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#06,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#06,0.00000363,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#06,0.00000362,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117

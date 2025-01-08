@@ -10,7 +10,6 @@ GHSA-V7FF-8WCX-GMC5,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/r
 GHSA-V7FF-8WCX-GMC5,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-V7FF-8WCX-GMC5,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-V7FF-8WCX-GMC5,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
-GHSA-V7FF-8WCX-GMC5,0.00022090,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 GHSA-V7FF-8WCX-GMC5,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
 GHSA-V7FF-8WCX-GMC5,0.00020280,https://github.com/zhangdapeng520/zdpruby_metasploit,zhangdapeng520/zdpruby_metasploit,469605197
 GHSA-V7FF-8WCX-GMC5,0.00020198,https://github.com/sumon296/metasploit-framework-gui,sumon296/metasploit-framework-gui,514359515
@@ -44,11 +43,12 @@ GHSA-V7FF-8WCX-GMC5,0.00018836,https://github.com/dzulqarnain28/metasploit-frame
 GHSA-V7FF-8WCX-GMC5,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 GHSA-V7FF-8WCX-GMC5,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 GHSA-V7FF-8WCX-GMC5,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-V7FF-8WCX-GMC5,0.00018484,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-V7FF-8WCX-GMC5,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-V7FF-8WCX-GMC5,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
-GHSA-V7FF-8WCX-GMC5,0.00012739,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+GHSA-V7FF-8WCX-GMC5,0.00014710,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+GHSA-V7FF-8WCX-GMC5,0.00012724,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 GHSA-V7FF-8WCX-GMC5,0.00007375,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-GHSA-V7FF-8WCX-GMC5,0.00005935,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+GHSA-V7FF-8WCX-GMC5,0.00005934,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 GHSA-V7FF-8WCX-GMC5,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-V7FF-8WCX-GMC5,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-V7FF-8WCX-GMC5,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
