@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+913704023,mithunmadhukuttan/Dirty-Pipe-Exploit,Exploit.sh,60b8a1697aa941d34bd8a51bd3e22e0092e9cdab,CVE-2022-0847
+913704023,mithunmadhukuttan/Dirty-Pipe-Exploit,README.md,e5b4f874faedc5dcc46c3226a6fba499a64e3302,CVE-2022-0847
+913704023,mithunmadhukuttan/Dirty-Pipe-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847
