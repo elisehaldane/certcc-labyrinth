@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#1988,0.01886792,https://github.com/Sylvain062/CDAoct23-Exploitation-Cinematographique,Sylvain062/CDAoct23-Exploitation-Cinematographique,794466916
+VU#1988,0.01449275,https://github.com/Ayush765/SubHunterX,Ayush765/SubHunterX,910052787
 VU#1988,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#1988,0.00400000,https://github.com/appsecengineer/gh-actions-command-injection,appsecengineer/gh-actions-command-injection,512090270
 VU#1988,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095

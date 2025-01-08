@@ -60,6 +60,7 @@ MS08-067,1.00000000,https://github.com/tiwaryshailesh/MetasploitOnSteroids,tiwar
 MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,20582409
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
+MS08-067,0.50000000,https://github.com/biskit069/raider,biskit069/raider,913801836
 MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
 MS08-067,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981
 MS08-067,0.50000000,https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,742667541
@@ -454,7 +455,7 @@ MS08-067,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploi
 MS08-067,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS08-067,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS08-067,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent/secsensor,230999626
-MS08-067,0.00056529,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00056465,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 MS08-067,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS08-067,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -584,7 +585,7 @@ MS08-067,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqa
 MS08-067,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 MS08-067,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
-MS08-067,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS08-067,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-067,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030

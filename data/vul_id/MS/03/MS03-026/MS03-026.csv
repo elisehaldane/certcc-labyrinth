@@ -6,6 +6,7 @@ MS03-026,1.00000000,https://github.com/CENSUS/windows_10_rs2_rs3_exploitation_pr
 MS03-026,1.00000000,https://github.com/moccajoghurt/MemWars,moccajoghurt/MemWars,122758650
 MS03-026,1.00000000,https://github.com/sussurro/msfmods,sussurro/msfmods,11983222
 MS03-026,1.00000000,https://github.com/sussurro/Metasploit-Tools,sussurro/Metasploit-Tools,2817190
+MS03-026,0.50000000,https://github.com/biskit069/raider,biskit069/raider,913801836
 MS03-026,0.50000000,https://github.com/Airbus5717/Windows-exploitation-resources,Airbus5717/Windows-exploitation-resources,756182061
 MS03-026,0.50000000,https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion,synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion,257888464
 MS03-026,0.50000000,https://github.com/midnightslacker/exploit_training,midnightslacker/exploit_training,74299451
@@ -378,7 +379,7 @@ MS03-026,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqa
 MS03-026,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 MS03-026,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS03-026,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
-MS03-026,0.00018543,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+MS03-026,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS03-026,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS03-026,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS03-026,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
