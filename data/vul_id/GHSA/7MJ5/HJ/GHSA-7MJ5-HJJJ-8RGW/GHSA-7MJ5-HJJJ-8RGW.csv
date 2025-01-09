@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-7MJ5-HJJJ-8RGW,0.00081103,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-7MJ5-HJJJ-8RGW,0.00080580,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 GHSA-7MJ5-HJJJ-8RGW,0.00031182,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433

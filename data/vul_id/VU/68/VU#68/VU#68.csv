@@ -381,11 +381,11 @@ VU#68,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a214800128
 VU#68,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#68,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#68,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
+VU#68,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#68,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#68,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#68,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
 VU#68,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277
-VU#68,0.00322581,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#68,0.00315457,https://github.com/AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,AaronLit2021/Sybil-Analysis-on-TON-Airdrop-t-TON-the-Trustworthy-and-Open-Network,884650541
 VU#68,0.00293255,https://github.com/nnmp020395/OPAR_tools,nnmp020395/OPAR_tools,333708856
 VU#68,0.00290698,https://github.com/Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,Xcod3bughunt3r/Windows-ActiveDirectoryExploitation,591572508
@@ -499,6 +499,6 @@ VU#68,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#68,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#68,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#68,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#68,0.00000807,https://github.com/trickest/cve,trickest/cve,454015416
+VU#68,0.00000805,https://github.com/trickest/cve,trickest/cve,454015416
 VU#68,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#68,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

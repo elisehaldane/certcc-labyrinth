@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7XFX-47QG-GRP6,0.12500000,https://github.com/l0n3m4n/CVE-2024-47176,l0n3m4n/CVE-2024-47176,867190495
 GHSA-7XFX-47QG-GRP6,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-7XFX-47QG-GRP6,0.00018474,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-GHSA-7XFX-47QG-GRP6,0.00000807,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-7XFX-47QG-GRP6,0.00000805,https://github.com/trickest/cve,trickest/cve,454015416
