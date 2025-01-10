@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/decompress.sh,06169545584a2014be1ccfd9760a163b8c7ca158,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/start.sh,091524ec80fa7fef3afa8242c116cb272774e845,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/extract-image.sh,36be639d786e0b31e10e1435ea3aa746c0cc3aab,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/exp/debugging.txt,6fe75c13d30a3313b34bf77df2f3238f298cc5a9,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/exp/Makefile,7b967c27f2d36d1ffeb27afd9cb984ea7a913650,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/rootfs.cpio,9616750ea61683a02901a317dc0edad6dcd67f6b,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/exp/exploit.c,bd531e2be0a77544cef4ac87936063dd235bfeaa,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/compress.sh,ccff644c08640ffa94ac5dcf0332c0afc87881ba,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/config,fb7269e78d5900e083ae6c071b5aefd10820d5d9,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/bzImage,fbb088dbaec6c43aebfbdfba04200634ebeea9f0,CVE-2023-4004
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/bzImage,fbb088dbaec6c43aebfbdfba04200634ebeea9f0,VU#34
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/bzImage,fbb088dbaec6c43aebfbdfba04200634ebeea9f0,VU#74
+914880259,Bam0x7/linux-kernel-cve-exploit,CVE-2023-4004/run.sh,fc86e699e82a77d87108b0867362a67ce5e0d449,CVE-2023-4004
