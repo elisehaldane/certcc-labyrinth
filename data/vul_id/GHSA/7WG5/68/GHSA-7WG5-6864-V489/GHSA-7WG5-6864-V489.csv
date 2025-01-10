@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-7WG5-6864-V489,0.00018471,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-7WG5-6864-V489,0.00018467,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-7WG5-6864-V489,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
