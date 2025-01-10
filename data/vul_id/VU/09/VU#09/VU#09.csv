@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#09,1.00000000,https://github.com/cyberdandata/update-for-Exploites,cyberdandata/update-for-Exploites,896752277
-VU#09,1.00000000,https://github.com/nobrier/fits_extractor,nobrier/fits_extractor,874880543
 VU#09,1.00000000,https://github.com/ericyoc/monte_carlo_sim_cyber_kill_chain_poc,ericyoc/monte_carlo_sim_cyber_kill_chain_poc,843585147
 VU#09,1.00000000,https://github.com/Milkupprem/starB,Milkupprem/starB,812730309
 VU#09,1.00000000,https://github.com/Pwnzer0tt1/exploitfarm,Pwnzer0tt1/exploitfarm,799509348
@@ -580,7 +579,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00031172,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00031056,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
