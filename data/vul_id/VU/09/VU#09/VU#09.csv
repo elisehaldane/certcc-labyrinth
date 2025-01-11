@@ -387,6 +387,7 @@ VU#09,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-explo
 VU#09,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#09,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#09,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#09,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
 VU#09,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#09,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#09,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
@@ -579,7 +580,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00031017,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00031008,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
