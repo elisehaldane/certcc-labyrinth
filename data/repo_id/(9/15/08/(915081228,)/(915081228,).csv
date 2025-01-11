@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+915081228,ExploitedBlackDuck/exploit_finder,README.md,c96b6e3274e3fdbb2f4729f90d42365d4d9bc54b,CVE-2018-15473
