@@ -227,7 +227,7 @@ MS09-050,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous
 MS09-050,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS09-050,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
 MS09-050,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
-MS09-050,0.00031056,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS09-050,0.00031017,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS09-050,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS09-050,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
 MS09-050,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
@@ -355,13 +355,13 @@ MS09-050,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/
 MS09-050,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS09-050,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS09-050,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
-MS09-050,0.00014661,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
-MS09-050,0.00012682,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS09-050,0.00014656,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS09-050,0.00012669,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS09-050,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS09-050,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS09-050,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 MS09-050,0.00007375,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS09-050,0.00005926,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS09-050,0.00005925,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS09-050,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 MS09-050,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
 MS09-050,0.00005610,https://github.com/AJMartel/offsec_exploits,AJMartel/offsec_exploits,75109498
@@ -415,7 +415,7 @@ MS09-050,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS09-050,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 MS09-050,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS09-050,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS09-050,0.00000804,https://github.com/trickest/cve,trickest/cve,454015416
+MS09-050,0.00000803,https://github.com/trickest/cve,trickest/cve,454015416
 MS09-050,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS09-050,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS09-050,0.00000385,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
