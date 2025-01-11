@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+914978081,SeanRickerd/CVE-2024-53677,struts-app/src/main/webapp/WEB-INF/web.xml,0a0779e80974dbe42ed8aef870ee9a3236b8e2dc,CVE-2024-53677
+914978081,SeanRickerd/CVE-2024-53677,struts-app/src/main/webapp/WEB-INF/upload.jsp,26971c1fffb9bcd9509817e6dfd37575fd730eb5,CVE-2024-53677
+914978081,SeanRickerd/CVE-2024-53677,struts-app/pom.xml,b379cf7e2db0f856b7b3285a5412e45b1fae7ed3,CVE-2024-53677
+914978081,SeanRickerd/CVE-2024-53677,struts-app/src/main/webapp/index.html,c4862630ec456bfcfab44bbe01c03c0698471f28,CVE-2024-53677
+914978081,SeanRickerd/CVE-2024-53677,README.md,f60aa8f86e2dd88644ff8f42296a184a0bd2c4ef,CVE-2024-53677
+914978081,SeanRickerd/CVE-2024-53677,_GITHUB_REPO_METADATA_,,CVE-2024-53677
