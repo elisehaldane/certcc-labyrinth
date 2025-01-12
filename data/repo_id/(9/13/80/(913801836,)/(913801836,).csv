@@ -1,4 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-913801836,biskit069/nethunt,nethunt.py,c8dfb854580c3c9afe48b258e0c3cbc6dbd81a2e,MS03-026
-913801836,biskit069/nethunt,nethunt.py,c8dfb854580c3c9afe48b258e0c3cbc6dbd81a2e,MS08-067
-913801836,biskit069/nethunt,nethunt.py,c8dfb854580c3c9afe48b258e0c3cbc6dbd81a2e,MS17-010
+913801836,biskit069/nethunt,sploitsnip3r,5db1b03d1525e61cd673c2985815599994c4f8da,CVE-2014-0160
