@@ -128,6 +128,7 @@ VU#93,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwer
 VU#93,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#93,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#93,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#93,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,915699683
 VU#93,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#93,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
 VU#93,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
@@ -449,7 +450,7 @@ VU#93,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#93,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#93,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#93,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
-VU#93,0.00055157,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#93,0.00055066,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#93,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#93,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#93,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
