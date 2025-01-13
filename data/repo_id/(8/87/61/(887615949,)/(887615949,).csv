@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+887615949,ByterCode/PowerShellExploit,Checker.exe,1bfb0912c3c2c4143bcc242b9edd673e043e5ce9,VU#47
 887615949,ByterCode/PowerShellExploit,payload.exe,3b0329952dc7eecdf4952ec067ff7ee53958719f,VU#52
