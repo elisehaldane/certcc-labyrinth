@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+915097556,MLT-0x539/Exploits,OpenEMR/OpenEMR Arbitrary File Actions PoC,c0bb13ae78eeff4386df61389a979fb4a6278f26,CVE-2018-15140
+915097556,MLT-0x539/Exploits,OpenEMR/OpenEMR Arbitrary File Actions PoC,c0bb13ae78eeff4386df61389a979fb4a6278f26,CVE-2018-15141
+915097556,MLT-0x539/Exploits,OpenEMR/OpenEMR Arbitrary File Actions PoC,c0bb13ae78eeff4386df61389a979fb4a6278f26,CVE-2018-15142
