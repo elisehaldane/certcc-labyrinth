@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+903747383,mbadanoiu/log4jolokia,README.md,825529d86b07a801ecbdd68c8e65ecdf4d777470,CVE-2022-41678
+903747383,mbadanoiu/log4jolokia,README.md,825529d86b07a801ecbdd68c8e65ecdf4d777470,CVE-2023-50780
