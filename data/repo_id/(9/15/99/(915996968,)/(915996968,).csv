@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+915996968,MR-Gh0st0/Exploit-Gh0st,src/exploits/ssh_exploit.py,57f23ed6bc1aeb4f95e45e6d2be9902f7e0bc9df,CVE-2018-10933
+915996968,MR-Gh0st0/Exploit-Gh0st,src/exploits/ssh_exploit.py,57f23ed6bc1aeb4f95e45e6d2be9902f7e0bc9df,CVE-2023-1234
+915996968,MR-Gh0st0/Exploit-Gh0st,src/exploits/ssh_exploit.py,57f23ed6bc1aeb4f95e45e6d2be9902f7e0bc9df,CVE-2023-5678
+915996968,MR-Gh0st0/Exploit-Gh0st,src/exploits/telnet_exploit.py,9c4bffc30e30af75a985122a36819dc383c1b29d,CVE-2023-1234
+915996968,MR-Gh0st0/Exploit-Gh0st,src/exploits/telnet_exploit.py,9c4bffc30e30af75a985122a36819dc383c1b29d,CVE-2023-5678
+915996968,MR-Gh0st0/Exploit-Gh0st,src/modules/network_recon.py,9cb84ad1c895b24b228f0d6dfdbf383d880e5236,MS17-010
