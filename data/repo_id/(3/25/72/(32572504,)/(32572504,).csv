@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+32572504,commixproject/commix,doc/CHANGELOG.md,5b4f4c41df4043c961971579afb8705507a60428,CVE-2014-6271
+32572504,commixproject/commix,doc/CHANGELOG.md,5b4f4c41df4043c961971579afb8705507a60428,CVE-2014-6278
 32572504,commixproject/commix,src/core/modules/shellshock/shellshock.py,7b815618f28d084ba8b6706ebb41548bf8d7cdd1,CVE-2014-6271
 32572504,commixproject/commix,src/core/modules/shellshock/shellshock.py,7b815618f28d084ba8b6706ebb41548bf8d7cdd1,CVE-2014-6278
-32572504,commixproject/commix,doc/CHANGELOG.md,9a8e74c4e4036c88f3d2aeecec5185fcbe701dbd,CVE-2014-6271
-32572504,commixproject/commix,doc/CHANGELOG.md,9a8e74c4e4036c88f3d2aeecec5185fcbe701dbd,CVE-2014-6278
