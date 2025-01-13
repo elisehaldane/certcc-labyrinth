@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#71,1.00000000,https://github.com/gho1s/Black-Hat-Python,gho1s/Black-Hat-Python,915746557
 VU#71,1.00000000,https://github.com/sevenndev/raid-exploit,sevenndev/raid-exploit,531310581
 VU#71,1.00000000,https://github.com/anukulpandey/sqlinjector,anukulpandey/sqlinjector,440110907
 VU#71,1.00000000,https://github.com/txominbornaetxea/r.survey.py,txominbornaetxea/r.survey.py,283162644
@@ -106,6 +107,7 @@ VU#71,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#71,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#71,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#71,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
+VU#71,0.03448276,https://github.com/SMTNDev/HackTheTermux,SMTNDev/HackTheTermux,915622957
 VU#71,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#71,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecurity/openssl3-nov2022,560007278
 VU#71,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/PersonaPrediction,907675138

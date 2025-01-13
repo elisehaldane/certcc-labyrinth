@@ -137,6 +137,7 @@ VU#48,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algor
 VU#48,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#48,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#48,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#48,0.03225806,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#48,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#48,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#48,0.02941176,https://github.com/vexzyyx/Power-Ware,vexzyyx/Power-Ware,538210371
@@ -527,7 +528,7 @@ VU#48,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 VU#48,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#48,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#48,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#48,0.00000803,https://github.com/trickest/cve,trickest/cve,454015416
+VU#48,0.00000802,https://github.com/trickest/cve,trickest/cve,454015416
 VU#48,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 VU#48,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#48,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
