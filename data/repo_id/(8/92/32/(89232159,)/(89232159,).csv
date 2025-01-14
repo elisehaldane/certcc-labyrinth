@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-89232159,a13xp0p0v/kernel-hack-drill,drill_exploit_nullderef.c,175626e057129bcda8c638df7ced5f5b5c6f7fe9,GPZ-1792
+89232159,a13xp0p0v/kernel-hack-drill,drill_exploit_nullderef.c,810ea72a25c8fdcdc7332a657172ec94423514a6,GPZ-1792
 89232159,a13xp0p0v/kernel-hack-drill,issues.md,bd7aa900888aa5d83315e12708139483ae729308,GPZ-1792
-89232159,a13xp0p0v/kernel-hack-drill,README.md,e5db0a1e7e2be6cae53408aba60e441490ccba37,GPZ-1792
+89232159,a13xp0p0v/kernel-hack-drill,README.md,c5c00734eea6456d089ec2c17a12c2ce8a6691fc,GPZ-1792
