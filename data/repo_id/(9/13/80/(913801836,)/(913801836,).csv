@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-913801836,biskit069/sploitsnip3r,sploitsnip3r,fded5e9ba17628cfa7ad9336cddcb72f402e8ac3,CVE-2014-0160
+913801836,biskit069/sploitsnip3r,kraken.py,da2820bd7be625cfebbeea9328add2dc2a3a628a,CVE-2014-0160
