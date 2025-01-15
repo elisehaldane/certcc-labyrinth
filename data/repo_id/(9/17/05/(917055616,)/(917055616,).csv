@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+917055616,Godde3s/Exploit,CVE-2024-22120.py,2e1159958aea4652fdc2496d15fe321b9b283769,CVE-2024-22120
+917055616,Godde3s/Exploit,README.md,88890a0c67b46465aad7a1467f1bc0705fbd0315,CVE-2024-22120
