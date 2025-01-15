@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2019-0796
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2020-0796
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2020-1206
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2022-21882
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2022-21907
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2023-36884
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,CVE-2024-43491
+913649760,Ninjarku/ExploitFinder,backend/debugging/test.html,3525c52c2256e1df8baf91e71215c555532e0fe2,VU#13
+913649760,Ninjarku/ExploitFinder,test.html,92952e4e9cd7d7a18704390e9b598b24270583ac,CVE-2024-5742
+913649760,Ninjarku/ExploitFinder,test.html,92952e4e9cd7d7a18704390e9b598b24270583ac,GHSA-FFHX-2RRF-9C23
+913649760,Ninjarku/ExploitFinder,test.html,92952e4e9cd7d7a18704390e9b598b24270583ac,VU#01
+913649760,Ninjarku/ExploitFinder,test.html,92952e4e9cd7d7a18704390e9b598b24270583ac,VU#04
