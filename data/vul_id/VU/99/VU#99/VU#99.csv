@@ -115,7 +115,6 @@ VU#99,0.04000000,https://github.com/alternation1337/exploit,alternation1337/expl
 VU#99,0.04000000,https://github.com/teocns/pentester,teocns/pentester,519887540
 VU#99,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#99,0.04000000,https://github.com/metricq/metricq-webview,metricq/metricq-webview,284034948
-VU#99,0.03846154,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#99,0.03846154,https://github.com/li-minhao/CVE-2023-37478-Demo,li-minhao/CVE-2023-37478-Demo,714018337
 VU#99,0.03703704,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#99,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.github.io,850609416
@@ -136,6 +135,7 @@ VU#99,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#99,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#99,0.03125000,https://github.com/ManavStud/CVE-Engine-V2,ManavStud/CVE-Engine-V2,889560431
 VU#99,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
+VU#99,0.02941176,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#99,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
 VU#99,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#99,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
@@ -417,7 +417,7 @@ VU#99,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Le
 VU#99,0.00268097,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#99,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#99,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
-VU#99,0.00250627,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
+VU#99,0.00249377,https://github.com/rcevulndev/rcevulndev.github.io,rcevulndev/rcevulndev.github.io,373625918
 VU#99,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#99,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#99,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905

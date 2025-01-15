@@ -249,7 +249,6 @@ VU#85,0.01639344,https://github.com/Sopralapanca/CHL-clinical-data-encoder,Sopra
 VU#85,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#85,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#85,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
-VU#85,0.01538462,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#85,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
 VU#85,0.01515152,https://github.com/gigimoose23/scratchExploit,gigimoose23/scratchExploit,893229748
@@ -274,6 +273,7 @@ VU#85,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hac
 VU#85,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
 VU#85,0.01282051,https://github.com/hupe1980/aisploit,hupe1980/aisploit,762676512
 VU#85,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
+VU#85,0.01265823,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
 VU#85,0.01265823,https://github.com/sergiogcharles/fadee,sergiogcharles/fadee,420282824
 VU#85,0.01265823,https://github.com/jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,jabascal/ResPr-UNet-3D-Denoising-Efficient-Pipeline-TF-keras,340184630
@@ -365,7 +365,7 @@ VU#85,0.00769231,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#85,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#85,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#85,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#85,0.00735294,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#85,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#85,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#85,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#85,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -549,6 +549,7 @@ VU#85,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-databas
 VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
+VU#85,0.00000801,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#85,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

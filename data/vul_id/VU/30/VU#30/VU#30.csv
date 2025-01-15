@@ -102,7 +102,6 @@ VU#30,0.04000000,https://github.com/lukreitor/Roblox-Delta-Executor,lukreitor/Ro
 VU#30,0.04000000,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#30,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#30,0.04000000,https://github.com/saeedizade/Roblox-Wave-Executor,saeedizade/Roblox-Wave-Executor,368851259
-VU#30,0.03846154,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#30,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#30,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
 VU#30,0.03703704,https://github.com/debrunbaix/Enkidu,debrunbaix/Enkidu,766176348
@@ -127,6 +126,7 @@ VU#30,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserS
 VU#30,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
 VU#30,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#30,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
+VU#30,0.02941176,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#30,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#30,0.02857143,https://github.com/MeowKu/InternalUI,MeowKu/InternalUI,758586642
 VU#30,0.02857143,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
@@ -357,7 +357,7 @@ VU#30,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bug
 VU#30,0.00769231,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#30,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#30,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
-VU#30,0.00735294,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#30,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#30,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#30,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#30,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -494,8 +494,8 @@ VU#30,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#30,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#30,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#30,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#30,0.00052938,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#30,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
+VU#30,0.00052659,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#30,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#30,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#30,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
