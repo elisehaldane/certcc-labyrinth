@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+917060078,Tony131109/Sudo-Exploitation-Challenge,CTF/makefile,180ab13e174bcdd0a150c1a931091dfc44832b75,CVE-2019-18634
+917060078,Tony131109/Sudo-Exploitation-Challenge,README.md,561b150b19de78bb7bca87dbcfb8115b04389a02,CVE-2019-18634
+917060078,Tony131109/Sudo-Exploitation-Challenge,CTF/solve.sh,5eb4bf4f770eaa441ba6adcc014f05fdbed07b70,CVE-2019-18634
+917060078,Tony131109/Sudo-Exploitation-Challenge,writeup-template.md,dda0a8b4edeab3c8ef5c7ba962c0dd08c339435f,CVE-2019-18634
