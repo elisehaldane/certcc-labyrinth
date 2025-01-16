@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+917432825,ArtemCyberLab/Project-Exploiting-WAR-Backdoor,7.jpeg,360be9e8f04eac8ad585f14db528faf7ed5b9a81,VU#67
+917432825,ArtemCyberLab/Project-Exploiting-WAR-Backdoor,README.md,af935b77fbd49687f0b7214b8688fb036f2ca14c,CVE-2017-12617

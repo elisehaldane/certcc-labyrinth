@@ -1,5 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+862811355,Anzinius/CVE-PoC-Collection,cve-2024-4577/snort_rules/README.md,2f1d0e16d296754614d7abb9ab9376332f7487b7,CVE-2024-4577
 862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/exploit_code.sh,3ee8f79186c53570d8800f25f08abccb8714166c,CVE-2017-5487
 862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/snort_rules/cve-2017-5487.rules,48a5b55169404059e878f63bc555b905fbb351c7,CVE-2017-5487
+862811355,Anzinius/CVE-PoC-Collection,cve-2024-4577/README.md,6279f0917af8b82fa4f15f30dd37e5c58d41c435,CVE-2012-1823
+862811355,Anzinius/CVE-PoC-Collection,cve-2024-4577/README.md,6279f0917af8b82fa4f15f30dd37e5c58d41c435,CVE-2024-4577
+862811355,Anzinius/CVE-PoC-Collection,cve-2024-4577/snort_rules/cve-2024-4577.rules,cb785c3effe7f0ece74d7ad8a3c2acdceb694b80,CVE-2024-4577
 862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/exploit_code.py,efaa979e03967a9ef631ff33642f3f6dd578a718,CVE-2017-5487
 862811355,Anzinius/CVE-PoC-Collection,cve-2017-5487/README.md,fcba3c00b555f09dd58a95b1d71f7a2ae42bd4d0,CVE-2017-5487
