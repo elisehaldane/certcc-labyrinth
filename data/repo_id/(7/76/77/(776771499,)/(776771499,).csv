@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+776771499,fuxxcss/piss-pwn,OOB/CVE-2021-4034/evil-so.c,26881dc43e9151480800965dbe2a9d54194b17f3,CVE-2021-4034
+776771499,fuxxcss/piss-pwn,OOB/CVE-2021-4034/makefile,d3bbd968c478e082ad4392da69de2e03f668f688,CVE-2021-4034
+776771499,fuxxcss/piss-pwn,OOB/CVE-2021-4034/exp.c,f9e504273a525aabd13ddb31047fc581c2edd73c,CVE-2021-4034
