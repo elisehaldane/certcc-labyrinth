@@ -4,4 +4,5 @@ repo_id,repo_full_name,file,file_sha1,match
 529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32629
 529096060,luksecurity/securitystuff,Linux/Kernel/exploits_quickwin.md,37f022a04c9dae01c18a395489b7b5fbf977f93b,CVE-2023-32649
 529096060,luksecurity/securitystuff,exploits/thick client/notepad++/CVE-2022-32168/src/alertbox.cpp,89c56f891a04518b5feea298fb68af67290b564b,CVE-2022-32168
+529096060,luksecurity/securitystuff,CompiledBinaries/Windows/EoP_clfs.exe,b9058d994ca3b899aaf4f25a26fbc00210ed5b0c,CVE-2024-49138
 529096060,luksecurity/securitystuff,exploits/thick client/notepad++/CVE-2022-32168/README.md,ef330c8ff2e07839bc8a9c0c9b406dace73679c7,CVE-2022-32168
