@@ -341,7 +341,6 @@ VU#85,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,44732213
 VU#85,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#85,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#85,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
-VU#85,0.00917431,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00917431,https://github.com/Dragnir2912/Projet-Academique-ISE-2024-2025,Dragnir2912/Projet-Academique-ISE-2024-2025,913248989
 VU#85,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
 VU#85,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -349,6 +348,7 @@ VU#85,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP
 VU#85,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#85,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#85,0.00862069,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
+VU#85,0.00847458,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#85,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#85,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -549,7 +549,7 @@ VU#85,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-databas
 VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#85,0.00000800,https://github.com/trickest/cve,trickest/cve,454015416
+VU#85,0.00000799,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#85,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
