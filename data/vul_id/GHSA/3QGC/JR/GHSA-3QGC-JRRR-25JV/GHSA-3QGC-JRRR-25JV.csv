@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3QGC-JRRR-25JV,0.00423729,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-3QGC-JRRR-25JV,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
-GHSA-3QGC-JRRR-25JV,0.00000801,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-3QGC-JRRR-25JV,0.00000800,https://github.com/trickest/cve,trickest/cve,454015416

@@ -141,7 +141,6 @@ VU#35,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,56889648
 VU#35,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/PersonaPrediction,907675138
 VU#35,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#35,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
-VU#35,0.03225806,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#35,0.03225806,https://github.com/BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,885354155
 VU#35,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#35,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
@@ -171,6 +170,7 @@ VU#35,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Packag
 VU#35,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#35,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#35,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
+VU#35,0.02380952,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#35,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#35,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#35,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
@@ -529,7 +529,7 @@ VU#35,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#35,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#35,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#35,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#35,0.00018467,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#35,0.00018460,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#35,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#35,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#35,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
