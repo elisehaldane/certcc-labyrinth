@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-VHRW-72F6-GWP5,0.00077399,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-VHRW-72F6-GWP5,0.00077220,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-VHRW-72F6-GWP5,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 GHSA-VHRW-72F6-GWP5,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-VHRW-72F6-GWP5,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
