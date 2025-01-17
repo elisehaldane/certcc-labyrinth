@@ -337,6 +337,7 @@ VU#32,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitati
 VU#32,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#32,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#32,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#32,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
 VU#32,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#32,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
 VU#32,0.02040816,https://github.com/tanmay12-sud0/shellcode_tanmay,tanmay12-sud0/shellcode_tanmay,558892388
@@ -350,6 +351,7 @@ VU#32,0.01923077,https://github.com/gurwindersinghdev/Thunder-loan-Audits,gurwin
 VU#32,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#32,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#32,0.01886792,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
+VU#32,0.01851852,https://github.com/0tax00/vuln-poc-template,0tax00/vuln-poc-template,877950646
 VU#32,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#32,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 VU#32,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
@@ -668,10 +670,10 @@ VU#32,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#32,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#32,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#32,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#32,0.00048216,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+VU#32,0.00044267,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00030874,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
@@ -710,7 +712,7 @@ VU#32,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#32,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#32,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#32,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#32,0.00018460,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#32,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#32,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#32,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#32,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

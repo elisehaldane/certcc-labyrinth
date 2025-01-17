@@ -2,6 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W63J-6G73-WMG5,0.12500000,https://github.com/l0n3m4n/CVE-2024-47176,l0n3m4n/CVE-2024-47176,867190495
 GHSA-W63J-6G73-WMG5,0.00077399,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-W63J-6G73-WMG5,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-GHSA-W63J-6G73-WMG5,0.00018460,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-W63J-6G73-WMG5,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-W63J-6G73-WMG5,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
-GHSA-W63J-6G73-WMG5,0.00000799,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-W63J-6G73-WMG5,0.00000798,https://github.com/trickest/cve,trickest/cve,454015416

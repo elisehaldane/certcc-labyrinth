@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-PRV4-RX44-F7JR,0.00000799,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-PRV4-RX44-F7JR,0.00000798,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-PRV4-RX44-F7JR,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

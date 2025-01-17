@@ -151,12 +151,14 @@ VU#11,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,71793523
 VU#11,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#11,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#11,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#11,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
 VU#11,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
 VU#11,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
 VU#11,0.01960784,https://github.com/coherence-energies/PubliExploit,coherence-energies/PubliExploit,827358654
 VU#11,0.01923077,https://github.com/saadamin2k13/reversible-parsing-and-generation,saadamin2k13/reversible-parsing-and-generation,901405211
 VU#11,0.01923077,https://github.com/woounnan/exploits,woounnan/exploits,127436200
 VU#11,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
+VU#11,0.01851852,https://github.com/0tax00/vuln-poc-template,0tax00/vuln-poc-template,877950646
 VU#11,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
 VU#11,0.01851852,https://github.com/RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,RcsMuck/Fortnite-Hack-Esp-Exploits-With-Menu,470351843
 VU#11,0.01851852,https://github.com/RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,RXTRcs/Fortnite-Hack-Esp-Exploits-With-Menu,469063705
@@ -441,8 +443,8 @@ VU#11,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers
 VU#11,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#11,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#11,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#11,0.00048216,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#11,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#11,0.00044267,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#11,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#11,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#11,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

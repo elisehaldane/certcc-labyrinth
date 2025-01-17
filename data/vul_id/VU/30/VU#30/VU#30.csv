@@ -64,6 +64,7 @@ VU#30,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765
 VU#30,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pymetasploit3,172608178
 VU#30,0.05555556,https://github.com/The-Wagonization/The-Wagon-Site,The-Wagonization/The-Wagon-Site,864312435
 VU#30,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
+VU#30,0.05263158,https://github.com/z2zQAQ/go-z2zloader,z2zQAQ/go-z2zloader,908825596
 VU#30,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#30,0.05263158,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#30,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
@@ -497,8 +498,8 @@ VU#30,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,84522684
 VU#30,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#30,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#30,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
-VU#30,0.00048216,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#30,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
+VU#30,0.00044267,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#30,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#30,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#30,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -536,7 +537,7 @@ VU#30,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#30,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#30,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#30,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#30,0.00018460,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#30,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#30,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#30,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#30,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
