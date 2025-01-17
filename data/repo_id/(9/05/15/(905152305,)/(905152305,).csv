@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+905152305,akshthejo/CVE-2023-4966-exploit,cve_2021_34473_daily_tasks/17_01_2025.txt,00108d6434653134e9fd6df905439f99e35af3c1,CVE-2021-34473
+905152305,akshthejo/CVE-2023-4966-exploit,cve_2021_34473_daily_tasks/16_01_2025.txt,d8cbeee8b155d079767f5392ae525a3dcc0d4ea8,CVE-2021-34473
 905152305,akshthejo/CVE-2023-4966-exploit,_GITHUB_REPO_METADATA_,,CVE-2023-4966
