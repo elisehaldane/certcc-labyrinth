@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+918084911,KKC73/weblogic-cve-2020-14882,Source Code Level Patching - Reverse Engineering.md,4b3881b32a705670dd58d9f6e49de6667ec2682f,CVE-2020-14882
+918084911,KKC73/weblogic-cve-2020-14882,Virtual Patching - ModSecurity.md,6cf0ac74c997b61b311dd23dcc4f3e63597fbead,CVE-2020-14882
+918084911,KKC73/weblogic-cve-2020-14882,Root Cause Analysis - Draft.md,810b45571e7caaa4c8fd3a1b6489281eed79a348,CVE-2020-14882
+918084911,KKC73/weblogic-cve-2020-14882,Exploit Dev.md,a23df3c85ba4a46e2ffcd23ec7f71efd0bf0e5f8,CVE-2020-14882
+918084911,KKC73/weblogic-cve-2020-14882,_GITHUB_REPO_METADATA_,,CVE-2020-14882

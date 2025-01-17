@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+918110661,brighteyekid/Device-ghost,src/payload/payload_generator.py,d05d8d53f515b3ccacd9b3656f5cfe628ea4ef1f,CVE-2018-14847
