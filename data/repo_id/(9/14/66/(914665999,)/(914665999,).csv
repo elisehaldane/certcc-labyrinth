@@ -1,4 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-914665999,ColeHouston/Sunder,README.md,0bfefb06b62221db249ce803d35514d6de313124,CVE-2021-21551
-914665999,ColeHouston/Sunder,README.md,0bfefb06b62221db249ce803d35514d6de313124,CVE-2024-21338
+914665999,ColeHouston/Sunder,README.md,25cff4e5f690d7e12a92c6fe2a81e7c4af70d091,CVE-2021-21551
 914665999,ColeHouston/Sunder,Sunder-appid_exploit/README.md,7908ad3cf562bf385ae2bb1df2dfd848055a8e78,CVE-2024-21338
