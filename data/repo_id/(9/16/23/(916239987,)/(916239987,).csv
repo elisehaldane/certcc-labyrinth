@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+916239987,lodex23/Exploit_factory,vs_buildtools.exe,14171c63570ce9155b732880d0a23c5a7f6fd12b,VU#02
+916239987,lodex23/Exploit_factory,vs_buildtools.exe,14171c63570ce9155b732880d0a23c5a7f6fd12b,VU#12
+916239987,lodex23/Exploit_factory,mingw-w64-install.exe,83b377109811672b00dc5806d1606d321e6f169c,VU#37
+916239987,lodex23/Exploit_factory,mingw-w64-install.exe,83b377109811672b00dc5806d1606d321e6f169c,VU#59
+916239987,lodex23/Exploit_factory,vs_community.exe,c1acaed0f754e4f92084c7717c6fcf57021b9071,VU#02
+916239987,lodex23/Exploit_factory,vs_community.exe,c1acaed0f754e4f92084c7717c6fcf57021b9071,VU#12
