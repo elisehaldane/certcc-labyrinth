@@ -159,7 +159,6 @@ VU#99,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayEx
 VU#99,0.02439024,https://github.com/KCidevsec/Security-Learning-Hub,KCidevsec/Security-Learning-Hub,589316651
 VU#99,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
 VU#99,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
-VU#99,0.02173913,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#99,0.02173913,https://github.com/fatchagako/Analyse-spatiale-des-restaurants,fatchagako/Analyse-spatiale-des-restaurants,873734176
 VU#99,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#99,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
@@ -199,6 +198,7 @@ VU#99,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/CO
 VU#99,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#99,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#99,0.01612903,https://github.com/chacka0101/exploits,chacka0101/exploits,254940085
+VU#99,0.01587302,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#99,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#99,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#99,0.01538462,https://github.com/RuihanGao/TactileDreamFusion,RuihanGao/TactileDreamFusion,880500847
@@ -467,6 +467,7 @@ VU#99,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#99,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#99,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#99,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
+VU#99,0.00044092,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#99,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 VU#99,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127

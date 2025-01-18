@@ -379,7 +379,6 @@ VU#29,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-tempera
 VU#29,0.02272727,https://github.com/yhy0/Jie,yhy0/Jie,594922017
 VU#29,0.02272727,https://github.com/Whoopsunix/PPPVULNS,Whoopsunix/PPPVULNS,552429290
 VU#29,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
-VU#29,0.02173913,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#29,0.02173913,https://github.com/fatchagako/Analyse-spatiale-des-restaurants,fatchagako/Analyse-spatiale-des-restaurants,873734176
 VU#29,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#29,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
@@ -498,6 +497,7 @@ VU#29,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recogni
 VU#29,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
 VU#29,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#29,0.01612903,https://github.com/chacka0101/exploits,chacka0101/exploits,254940085
+VU#29,0.01587302,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#29,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#29,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#29,0.01538462,https://github.com/RuihanGao/TactileDreamFusion,RuihanGao/TactileDreamFusion,880500847
@@ -798,7 +798,7 @@ VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#29,0.00077942,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00077580,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00074906,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -810,7 +810,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00044267,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00044092,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00030874,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581

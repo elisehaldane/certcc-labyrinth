@@ -162,7 +162,6 @@ VU#13,0.02272727,https://github.com/deeksha029/Detection-of-Exploit-Websites-usi
 VU#13,0.02272727,https://github.com/Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,825606080
 VU#13,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
 VU#13,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
-VU#13,0.02173913,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#13,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
 VU#13,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
 VU#13,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
@@ -198,6 +197,7 @@ VU#13,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_C
 VU#13,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,vnzstc/performance-based-energy-estimation,601111681
 VU#13,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#13,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
+VU#13,0.01587302,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#13,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#13,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#13,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
@@ -448,7 +448,7 @@ VU#13,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#13,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#13,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#13,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#13,0.00044267,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#13,0.00044092,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#13,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#13,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#13,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
@@ -498,7 +498,7 @@ VU#13,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector
 VU#13,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 VU#13,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#13,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-VU#13,0.00000798,https://github.com/trickest/cve,trickest/cve,454015416
+VU#13,0.00000797,https://github.com/trickest/cve,trickest/cve,454015416
 VU#13,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 VU#13,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 VU#13,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
