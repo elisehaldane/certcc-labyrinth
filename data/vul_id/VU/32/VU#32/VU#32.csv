@@ -359,6 +359,7 @@ VU#32,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,Ch
 VU#32,0.01851852,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#32,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#32,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
+VU#32,0.01754386,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#32,0.01754386,https://github.com/aquahubtest5/ExploitKit,aquahubtest5/ExploitKit,911466439
 VU#32,0.01754386,https://github.com/aquahubtest4/ExploitKit,aquahubtest4/ExploitKit,910045535
 VU#32,0.01754386,https://github.com/SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,821756227
@@ -383,7 +384,6 @@ VU#32,0.01639344,https://github.com/vnzstc/performance-based-energy-estimation,v
 VU#32,0.01612903,https://github.com/MahiElamine02/Work_mahi_elamine,MahiElamine02/Work_mahi_elamine,860340104
 VU#32,0.01612903,https://github.com/VincentMillotMaysounabe/Hand-gesture-recognition,VincentMillotMaysounabe/Hand-gesture-recognition,544565231
 VU#32,0.01612903,https://github.com/maxamin/Exploitkits,maxamin/Exploitkits,471851194
-VU#32,0.01587302,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#32,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#32,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#32,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
