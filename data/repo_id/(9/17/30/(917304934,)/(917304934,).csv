@@ -260,9 +260,10 @@ repo_id,repo_full_name,file,file_sha1,match
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/www/changelog.xml,bd139ba50f248b2e3da1f8f83c8bb09343b30501,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/www/fortinet.xml,bd3e9d2258d2c36a771edffc1c7a3372f2235ab0,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/certs/user-key-aes256-cbc-md5-des-sha256.p12,bd5e1c336279fdbd1b5d2f4938d162a4986709ea,CVE-2025-0282
+917304934,watchtowrlabs/CVE-2025-0282,README.md,bd6f26a0ee52af6614c141ee960a95bbe2db429b,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/certs/user-key-pkcs8-pbes2-sha1.pem,c02588ead6d119510e79169f26aa2dc4a964d689,CVE-2025-0282
-917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/certs/server-key.pem,c06ade55df7fe0af2de4aa42006a1e051b664a88,VU#41
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/certs/server-key.pem,c06ade55df7fe0af2de4aa42006a1e051b664a88,CVE-2025-0282
+917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/certs/server-key.pem,c06ade55df7fe0af2de4aa42006a1e051b664a88,VU#41
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/serverhash.c,c06cab01d008edd88633819d58e42a61cfab4058,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/softhsm/340020a8-6289-ead5-d93a-3d77c9fb819a/fce03cbe-6429-758b-2587-55195739933a.object,c215e89b23009e5038c603c18f730e510ba345ed,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/m4/lib-prefix.m4,c251d028789d6f7088dceb84195f9579e57611f7,CVE-2025-0282
@@ -277,7 +278,6 @@ repo_id,repo_full_name,file,file_sha1,match
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/www/Makefile.am,c9f08e4bbed001f4ed14aeaccbfb3f1cb033e2f7,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/softhsm/340020a8-6289-ead5-d93a-3d77c9fb819a/6040e1c7-9d3f-886f-bcad-7f2c753eaa1f.object,ca00d44ddb030d018e9ce8d5c5f3c92baae996e6,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/www/licence.xml,ca4f3956feba7bf35cee18cef7f157f4a732e869,CVE-2025-0282
-917304934,watchtowrlabs/CVE-2025-0282,README.md,cb04ded434f7d794f7118652078e3828ee2e0547,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/obsolete-server-crypto,cc240033a0f23a40da2eee3a5daca0ef2ff3d265,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/www/juniper.xml,cc4cef6ad84501fe787c6062aaf587165e317b7d,CVE-2025-0282
 917304934,watchtowrlabs/CVE-2025-0282,openconnect-CVE-2025-0282/tests/softhsm/20526acd-3d1b-8363-eb79-163b3233387a/1f566862-7d38-6857-7794-3526358c875e.object,cc8089914f5e180d45653aabd312ffdde5007caf,CVE-2025-0282
