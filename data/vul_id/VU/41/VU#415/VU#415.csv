@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#415,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
 VU#415,0.01923077,https://github.com/Catsuq/Exploit-s-scripts,Catsuq/Exploit-s-scripts,583075682
 VU#415,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
+VU#415,0.00826446,https://github.com/john-friedman/Conflict-Minerals,john-friedman/Conflict-Minerals,919332021
 VU#415,0.00787402,https://github.com/vmtenorio/io-gnn,vmtenorio/io-gnn,872686079
 VU#415,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#415,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -13,7 +14,6 @@ VU#415,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbo
 VU#415,0.00246914,https://github.com/deepanshjha/Exploratory-Data-Analysis,deepanshjha/Exploratory-Data-Analysis,667607383
 VU#415,0.00243309,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#415,0.00223714,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
-VU#415,0.00177305,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#415,0.00159236,https://github.com/Ethanp210/exploits,Ethanp210/exploits,733220378
 VU#415,0.00159236,https://github.com/TikTokRishiRecon/exploitss,TikTokRishiRecon/exploitss,615545020
 VU#415,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,617758582

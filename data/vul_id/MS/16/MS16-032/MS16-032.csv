@@ -18,6 +18,7 @@ MS16-032,0.20000000,https://github.com/ChaitanyaHaritash/My-Exploits,ChaitanyaHa
 MS16-032,0.16666667,https://github.com/vorpalmusic/windows-kernel-exploits,vorpalmusic/windows-kernel-exploits,271851123
 MS16-032,0.16666667,https://github.com/w4fz5uck5/3XPL01t5,w4fz5uck5/3XPL01t5,126516611
 MS16-032,0.16666667,https://github.com/egre55/windows-kernel-exploits,egre55/windows-kernel-exploits,100425594
+MS16-032,0.14285714,https://github.com/MGamalCYSEC/ExploitFix-Windows,MGamalCYSEC/ExploitFix-Windows,889176771
 MS16-032,0.14285714,https://github.com/Kiosec/Windows-Exploitation,Kiosec/Windows-Exploitation,469163024
 MS16-032,0.12500000,https://github.com/OlivierLaflamme/Exploit-Dev-CVE-Code,OlivierLaflamme/Exploit-Dev-CVE-Code,252346125
 MS16-032,0.12500000,https://github.com/Cn33liz/p0wnedShell,Cn33liz/p0wnedShell,48578729
@@ -321,14 +322,14 @@ MS16-032,0.00018622,https://github.com/zcmurphy87/Exploit_Window_Markdown,zcmurp
 MS16-032,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS16-032,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS16-032,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS16-032,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS16-032,0.00018450,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS16-032,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS16-032,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-032,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS16-032,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
-MS16-032,0.00014548,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS16-032,0.00014535,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS16-032,0.00012593,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00012590,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS16-032,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS16-032,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

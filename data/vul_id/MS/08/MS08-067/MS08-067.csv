@@ -122,7 +122,6 @@ MS08-067,0.25000000,https://github.com/GuardianRG/awesome-windows-exploitation,G
 MS08-067,0.25000000,https://github.com/sensepost/autoDANE,sensepost/autoDANE,43594993
 MS08-067,0.25000000,https://github.com/ozuma/Metasploit_MS08-067,ozuma/Metasploit_MS08-067,38795662
 MS08-067,0.25000000,https://github.com/tntC4stl3/POC,tntC4stl3/POC,17425373
-MS08-067,0.20000000,https://github.com/MGamalCYSEC/ExploitFix-Windows,MGamalCYSEC/ExploitFix-Windows,889176771
 MS08-067,0.20000000,https://github.com/slytechroot/metasploit,slytechroot/metasploit,821235213
 MS08-067,0.20000000,https://github.com/SujeetBci786/OSCP-JOURNEY,SujeetBci786/OSCP-JOURNEY,758784493
 MS08-067,0.20000000,https://github.com/NickSanzotta/scanman,NickSanzotta/scanman,368895563
@@ -137,6 +136,7 @@ MS08-067,0.16666667,https://github.com/nullarmor/hackthebox-exploits,nullarmor/h
 MS08-067,0.16666667,https://github.com/unknwhp/EazySploit,unknwhp/EazySploit,120690452
 MS08-067,0.16666667,https://github.com/patrick-usf/intro-shellcode,patrick-usf/intro-shellcode,82469672
 MS08-067,0.16666667,https://github.com/ankh2054/python-exploits,ankh2054/python-exploits,66629029
+MS08-067,0.14285714,https://github.com/MGamalCYSEC/ExploitFix-Windows,MGamalCYSEC/ExploitFix-Windows,889176771
 MS08-067,0.14285714,https://github.com/Juan921030/Exploitation.md,Juan921030/Exploitation.md,800795035
 MS08-067,0.14285714,https://github.com/imhunterand/Exploits,imhunterand/Exploits,731368973
 MS08-067,0.14285714,https://github.com/yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,yashtyagi-cjg/TryingOutVulnerabilityDetectionAndExploitation,485790247
@@ -457,7 +457,7 @@ MS08-067,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent
 MS08-067,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 MS08-067,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS08-067,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-MS08-067,0.00043706,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00043649,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -585,7 +585,7 @@ MS08-067,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasp
 MS08-067,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus-exploit,535780576
 MS08-067,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-MS08-067,0.00018457,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00018450,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-067,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
