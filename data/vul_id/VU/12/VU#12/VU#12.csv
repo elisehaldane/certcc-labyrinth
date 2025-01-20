@@ -105,6 +105,7 @@ VU#12,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challen
 VU#12,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#12,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#12,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
+VU#12,0.03448276,https://github.com/viniciuslazzari/CVE-2024-9796,viniciuslazzari/CVE-2024-9796,919116885
 VU#12,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
 VU#12,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#12,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
@@ -534,7 +535,7 @@ VU#12,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#12,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#12,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#12,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#12,0.00043917,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#12,0.00043706,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#12,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#12,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
