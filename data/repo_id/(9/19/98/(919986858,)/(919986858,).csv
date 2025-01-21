@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+919986858,Mephierr/DirtyPipe_exploit,README.md,8cabaf343aa43806a3ba90e5cde705fffc4cd702,CVE-2022-0847
+919986858,Mephierr/DirtyPipe_exploit,_GITHUB_REPO_METADATA_,,CVE-2022-0847
