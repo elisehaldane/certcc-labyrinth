@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+920042654,element-security/check-point-gateways-rce,README.md,305a9184acda540f91828e65853b439e23380620,CVE-2021-40438
+920042654,element-security/check-point-gateways-rce,_GITHUB_REPO_METADATA_,,CVE-2021-40438
