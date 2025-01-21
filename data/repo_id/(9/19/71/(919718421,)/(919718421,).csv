@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+919718421,godylockz/CVE-2023-40028,README.md,74d636468477d4a9fdd5bc1c63ed37841d32f28f,CVE-2023-40028
+919718421,godylockz/CVE-2023-40028,ghost_fileread.py,dec87c823aa3424fb1b4b0043e7fe7e9befcef22,CVE-2023-40028
+919718421,godylockz/CVE-2023-40028,_GITHUB_REPO_METADATA_,,CVE-2023-40028
