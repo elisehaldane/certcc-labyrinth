@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+919853961,sebr-dev/Havoc-C2-SSRF-to-RCE,CVE-2024-41570.py,0be30d3ccb8777b807b461a91ddcbff504beb86f,CVE-2024-41570
+919853961,sebr-dev/Havoc-C2-SSRF-to-RCE,README.md,6041d8bf4918fee580cdc7905b986d2ebd5f0312,CVE-2024-41570
+919853961,sebr-dev/Havoc-C2-SSRF-to-RCE,_GITHUB_REPO_METADATA_,,CVE-2024-41570
