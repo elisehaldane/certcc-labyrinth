@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-838423437,ProjectZeroDays/zero-click-exploits,README.md,dbb360ef75a8c06662d8bc03b90c6f30242e83d0,CVE-2024-0001
-838423437,ProjectZeroDays/zero-click-exploits,README.md,dbb360ef75a8c06662d8bc03b90c6f30242e83d0,CVE-2024-0002
-838423437,ProjectZeroDays/zero-click-exploits,README.md,dbb360ef75a8c06662d8bc03b90c6f30242e83d0,CVE-2024-0003
-838423437,ProjectZeroDays/zero-click-exploits,README.md,dbb360ef75a8c06662d8bc03b90c6f30242e83d0,CVE-2024-0004
-838423437,ProjectZeroDays/zero-click-exploits,README.md,dbb360ef75a8c06662d8bc03b90c6f30242e83d0,CVE-2024-0005
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,src/vulnerability_scanner.py,1b01520cdafd953e9a00c9801d9b1938171b3451,CVE-2021-1234
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,src/vulnerability_scanner.py,1b01520cdafd953e9a00c9801d9b1938171b3451,CVE-2021-5678
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,README.md,393cd262d948cfe65eda4c0ba976113da9eb0906,CVE-2024-0001
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,README.md,393cd262d948cfe65eda4c0ba976113da9eb0906,CVE-2024-0002
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,README.md,393cd262d948cfe65eda4c0ba976113da9eb0906,CVE-2024-0003
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,README.md,393cd262d948cfe65eda4c0ba976113da9eb0906,CVE-2024-0004
+838423437,ProjectZeroDays/Zero-Click-Exploit-Deployment-Framework,README.md,393cd262d948cfe65eda4c0ba976113da9eb0906,CVE-2024-0005
