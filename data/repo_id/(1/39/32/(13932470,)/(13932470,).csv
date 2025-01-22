@@ -15,9 +15,9 @@ repo_id,repo_full_name,file,file_sha1,match
 13932470,leebaird/discover,nse.sh,a4c4416ed14c6cea3f922f35998761ec7ac5a461,MS17-010
 13932470,leebaird/discover,nse.sh,a4c4416ed14c6cea3f922f35998761ec7ac5a461,CVE-2017-7494
 13932470,leebaird/discover,nse.sh,a4c4416ed14c6cea3f922f35998761ec7ac5a461,MS10-061
-13932470,leebaird/discover,notes/linux.txt,b85ecd873d484003026cd41838cbde0ced1844b9,CVE-2022-0847
 13932470,leebaird/discover,report.sh,b866d5d88d9e2f081054f1c7b17d7e3099258e8b,MS08-067
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS10-073
 13932470,leebaird/discover,notes/metasploit.txt,bc672a0d7e831ba679d5ae4378efcdc238cf8fcd,MS17-010
+13932470,leebaird/discover,notes/linux.txt,c4452e48c644795b1aded33b6aaa383ec2af849f,CVE-2022-0847
 13932470,leebaird/discover,resource/3389-rdp.rc,e5ba4958c6673668d30bfd7e31a8914fa37f6cb8,MS12-020
 13932470,leebaird/discover,resource/3389-rdp.rc,e5ba4958c6673668d30bfd7e31a8914fa37f6cb8,CVE-2019-0708
