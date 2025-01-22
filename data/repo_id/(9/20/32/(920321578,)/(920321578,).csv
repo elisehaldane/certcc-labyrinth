@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+920321578,ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability,1.jpeg,57dfff0d8bea28653c4d26b92d36c7265b2ccac9,VU#55
+920321578,ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability,README.md,c5ed8b380a331908d509af4e67fe6a35c285b2ca,CVE-2024-27198
+920321578,ArtemCyberLab/Project-Exploiting-CVE-2024-27198-RCE-Vulnerability,_GITHUB_REPO_METADATA_,,CVE-2024-27198
