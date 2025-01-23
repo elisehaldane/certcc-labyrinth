@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-886988270,RajeevThapa/AVDEF,scans/zap/testphp.vulnweb.com__zap_report.html,0add08e715c19c33675477566cf31f3327e62b42,VU#91
-886988270,RajeevThapa/AVDEF,scans/zap/testphp.vulnweb.com__zap_report.html,0add08e715c19c33675477566cf31f3327e62b42,VU#45
+886988270,RajeevThapa/AVDEF,scans/zap/testphp.vulnweb.com__zap_report.html,0697e9800e5e1e617b209842d01830c94f8eb76a,VU#91
+886988270,RajeevThapa/AVDEF,scans/zap/testphp.vulnweb.com__zap_report.html,0697e9800e5e1e617b209842d01830c94f8eb76a,VU#45
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/chardet-3.0.4.dist-info/RECORD,15e578e682bae7088e85ac1b473654c085e2b1c2,VU#96
 886988270,RajeevThapa/AVDEF,scans/zap/testhtml5.vulnweb.com_zap_report.html,2609a6baa3fd7d4e81a0db12d6487a7248cd943b,VU#91
 886988270,RajeevThapa/AVDEF,scans/zap/testhtml5.vulnweb.com_zap_report.html,2609a6baa3fd7d4e81a0db12d6487a7248cd943b,VU#45
@@ -29,7 +29,7 @@ repo_id,repo_full_name,file,file_sha1,match
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#65
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/pip/_vendor/certifi/cacert.pem,9e177f31a3622ad71c3d403422c9a980e563fe32,VU#17
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/urllib3/util/url.py,d82f396e979d9e058eff7afc922050cf4f153a51,CVE-2019-9740
-886988270,RajeevThapa/AVDEF,scans/reports/summary_report.md,e47dc527dae28c33ff7cc2fcbe749f77135d7fcd,VU#91
-886988270,RajeevThapa/AVDEF,scans/reports/summary_report.md,e47dc527dae28c33ff7cc2fcbe749f77135d7fcd,VU#45
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/pip-24.0.dist-info/RECORD,e6e0d683e0960e71f9ffc3e0b42584a6d8c059fc,VU#87
 886988270,RajeevThapa/AVDEF,venv/lib/python3.12/site-packages/pip-24.0.dist-info/RECORD,e6e0d683e0960e71f9ffc3e0b42584a6d8c059fc,VU#9048
+886988270,RajeevThapa/AVDEF,scans/reports/summary_report.md,ef36e54adfd13c29924e61f4ab99fa7738b6976d,VU#91
+886988270,RajeevThapa/AVDEF,scans/reports/summary_report.md,ef36e54adfd13c29924e61f4ab99fa7738b6976d,VU#45
