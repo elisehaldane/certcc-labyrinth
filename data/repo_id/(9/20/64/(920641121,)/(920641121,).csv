@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+920641121,sysirq/fortios-auth-bypass-exploit-CVE-2024-55591,readme.md,41352d2cabf6c88bcbb2e38e127b1056bcdaf567,CVE-2024-55591
+920641121,sysirq/fortios-auth-bypass-exploit-CVE-2024-55591,_GITHUB_REPO_METADATA_,,CVE-2024-55591
