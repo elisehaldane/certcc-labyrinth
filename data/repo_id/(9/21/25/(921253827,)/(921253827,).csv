@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+921253827,MrR0b0t19/Easy-JTP,wp_shell.php,6f6d8ed78406d5ea9e1b3ad2ea328d56ca3cbb4b,VU#58
+921253827,MrR0b0t19/Easy-JTP,wp_shell.php,6f6d8ed78406d5ea9e1b3ad2ea328d56ca3cbb4b,VU#87
+921253827,MrR0b0t19/Easy-JTP,README.md,a204fdbd563821d95a612a654bec3301b5bdbe3b,CVE-2018-7600
