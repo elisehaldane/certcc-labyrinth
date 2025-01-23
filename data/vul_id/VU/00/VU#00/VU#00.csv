@@ -26,6 +26,7 @@ VU#00,0.25000000,https://github.com/Ler2sq/CVE-2019-17621,Ler2sq/CVE-2019-17621,
 VU#00,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#00,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#00,0.25000000,https://github.com/hallgrimur1471/cryptography_exploits,hallgrimur1471/cryptography_exploits,198505890
+VU#00,0.20000000,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#00,0.20000000,https://github.com/GaoHengSiang/Color-Image-Enhancement---Reimplementation,GaoHengSiang/Color-Image-Enhancement---Reimplementation,892149123
 VU#00,0.20000000,https://github.com/HubStudioInjection/Exploits,HubStudioInjection/Exploits,889839834
 VU#00,0.20000000,https://github.com/SamMariassouce/aideAlExploitation,SamMariassouce/aideAlExploitation,659534794
@@ -152,6 +153,7 @@ VU#00,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/P
 VU#00,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#00,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#00,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
+VU#00,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#00,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#00,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#00,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
@@ -432,8 +434,9 @@ VU#00,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#00,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#00,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#00,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#00,0.00042017,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#00,0.00040850,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#00,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#00,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#00,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#00,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#00,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

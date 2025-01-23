@@ -225,6 +225,7 @@ VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386_extrap
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447432007
 VU#10,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 VU#10,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
+VU#10,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#10,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#10,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#10,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
@@ -500,10 +501,11 @@ VU#10,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#10,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#10,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#10,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#10,0.00030874,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#10,0.00030864,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#10,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#10,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#10,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
+VU#10,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#10,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#10,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#10,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

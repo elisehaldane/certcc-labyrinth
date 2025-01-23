@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#489,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
+VU#489,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#489,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#489,0.01612903,https://github.com/MahiElamine02/Work_mahi_elamine,MahiElamine02/Work_mahi_elamine,860340104
 VU#489,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
@@ -23,3 +24,4 @@ VU#489,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763
 VU#489,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#489,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#489,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#489,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

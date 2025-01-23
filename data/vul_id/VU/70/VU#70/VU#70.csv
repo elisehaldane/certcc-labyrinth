@@ -118,7 +118,6 @@ VU#70,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#70,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#70,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#70,0.03125000,https://github.com/34zY/APT-Backpack,34zY/APT-Backpack,577662602
-VU#70,0.02941176,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#70,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#70,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#70,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
@@ -134,6 +133,7 @@ VU#70,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,
 VU#70,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#70,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#70,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,893536910
+VU#70,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#70,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#70,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#70,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
@@ -453,6 +453,7 @@ VU#70,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#70,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#70,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#70,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#70,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#70,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#70,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#70,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

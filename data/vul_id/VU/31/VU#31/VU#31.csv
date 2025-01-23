@@ -88,6 +88,7 @@ VU#31,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploits
 VU#31,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
 VU#31,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#31,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
+VU#31,0.05882353,https://github.com/deepdown2death/DIABLE-Log4Shell,deepdown2death/DIABLE-Log4Shell,920722687
 VU#31,0.05882353,https://github.com/ericyoc/quantum-circuit-anomaly-detection-poc,ericyoc/quantum-circuit-anomaly-detection-poc,783459338
 VU#31,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
 VU#31,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
@@ -144,7 +145,6 @@ VU#31,0.03448276,https://github.com/SCXsunchenxi/RCE,SCXsunchenxi/RCE,426481326
 VU#31,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#31,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#31,0.03125000,https://github.com/2MDJR/Liversedge,2MDJR/Liversedge,517069265
-VU#31,0.02941176,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#31,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#31,0.02857143,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#31,0.02857143,https://github.com/MeowKu/InternalUI,MeowKu/InternalUI,758586642
@@ -177,6 +177,7 @@ VU#31,0.02272727,https://github.com/yhy0/Jie,yhy0/Jie,594922017
 VU#31,0.02173913,https://github.com/fatchagako/Analyse-spatiale-des-restaurants,fatchagako/Analyse-spatiale-des-restaurants,873734176
 VU#31,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
 VU#31,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,893536910
+VU#31,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#31,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#31,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#31,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
@@ -396,8 +397,8 @@ VU#31,0.00769231,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#31,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#31,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#31,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
-VU#31,0.00735294,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#31,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
+VU#31,0.00724638,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#31,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#31,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#31,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -536,6 +537,7 @@ VU#31,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#31,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#31,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 VU#31,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#31,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#31,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#31,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#31,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247

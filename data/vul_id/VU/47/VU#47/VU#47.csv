@@ -525,6 +525,7 @@ VU#47,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#47,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#47,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#47,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
+VU#47,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#47,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#47,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#47,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -582,4 +583,4 @@ VU#47,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#47,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#47,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#47,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
-VU#47,0.00000360,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#47,0.00000359,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117

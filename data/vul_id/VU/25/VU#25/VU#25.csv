@@ -267,6 +267,7 @@ VU#25,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/P
 VU#25,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#25,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
 VU#25,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,893536910
+VU#25,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#25,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#25,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,717935231
 VU#25,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
@@ -441,10 +442,11 @@ VU#25,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#25,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#25,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
 VU#25,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#25,0.00735294,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
+VU#25,0.00729927,https://github.com/manojxshrestha/SecVault,manojxshrestha/SecVault,918171741
 VU#25,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#25,0.00729927,https://github.com/Lobbyra/darkly,Lobbyra/darkly,662526384
 VU#25,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
+VU#25,0.00724638,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#25,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#25,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#25,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
@@ -616,9 +618,10 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00030874,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00030864,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
+VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#25,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#25,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#25,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -663,6 +666,6 @@ VU#25,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#25,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#25,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#25,0.00000360,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#25,0.00000359,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
 VU#25,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#25,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

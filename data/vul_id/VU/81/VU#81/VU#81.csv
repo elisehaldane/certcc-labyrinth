@@ -5,6 +5,7 @@ VU#81,1.00000000,https://github.com/jor-arrgar/Control_de_cultivos,jor-arrgar/Co
 VU#81,1.00000000,https://github.com/Dan0kf/EXPLOIT-DOC-PDF-XML-XLS,Dan0kf/EXPLOIT-DOC-PDF-XML-XLS,562993006
 VU#81,1.00000000,https://github.com/Dan0kf/SILENT-PDF-DOC-EXPLOIT,Dan0kf/SILENT-PDF-DOC-EXPLOIT,562987840
 VU#81,1.00000000,https://github.com/lys7aves/Metasploitable3,lys7aves/Metasploitable3,448769898
+VU#81,0.50000000,https://github.com/muhammadrayyann/Web-Application-Vulnerability-Exploitation,muhammadrayyann/Web-Application-Vulnerability-Exploitation,919569739
 VU#81,0.50000000,https://github.com/Jaecho6053/BandiView_PoC,Jaecho6053/BandiView_PoC,866366207
 VU#81,0.50000000,https://github.com/Jaecho6053/BandiView_POC,Jaecho6053/BandiView_POC,866346249
 VU#81,0.50000000,https://github.com/RLSNLP/Sum4Simp,RLSNLP/Sum4Simp,592602433
@@ -88,7 +89,6 @@ VU#81,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
 VU#81,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#81,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#81,0.03125000,https://github.com/Keshari07/10-Jan-2025-PNQ-WindCorp,Keshari07/10-Jan-2025-PNQ-WindCorp,914517913
-VU#81,0.02941176,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#81,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
 VU#81,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#81,0.02857143,https://github.com/david-knigge/separable-group-convolutional-networks,david-knigge/separable-group-convolutional-networks,477705941
@@ -445,6 +445,7 @@ VU#81,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#81,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#81,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#81,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
+VU#81,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#81,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#81,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#81,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

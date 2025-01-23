@@ -100,6 +100,7 @@ VU#68,0.06250000,https://github.com/AlSploit/AlSploit,AlSploit/AlSploit,65203541
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992214
 VU#68,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#68,0.06250000,https://github.com/TrunqKj3n/Open-Soucre-Exploit,TrunqKj3n/Open-Soucre-Exploit,504046670
+VU#68,0.05882353,https://github.com/deepdown2death/DIABLE-Log4Shell,deepdown2death/DIABLE-Log4Shell,920722687
 VU#68,0.05882353,https://github.com/AllenJustine/Automating-Log4j-Exploit-using-Python,AllenJustine/Automating-Log4j-Exploit-using-Python,848872567
 VU#68,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
 VU#68,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
@@ -446,6 +447,7 @@ VU#68,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#68,0.00038168,https://github.com/sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,866214266
 VU#68,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#68,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
+VU#68,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#68,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
 VU#68,0.00020492,https://github.com/Deep-Bagchi/Metasploit_Framework,Deep-Bagchi/Metasploit_Framework,851128540
 VU#68,0.00020350,https://github.com/adfoster-r7/metasploit-framework-test-actions,adfoster-r7/metasploit-framework-test-actions,465004247
@@ -505,6 +507,6 @@ VU#68,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#68,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#68,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#68,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#68,0.00000795,https://github.com/trickest/cve,trickest/cve,454015416
+VU#68,0.00000794,https://github.com/trickest/cve,trickest/cve,454015416
 VU#68,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#68,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

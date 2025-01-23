@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS03-036,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
+MS03-036,0.00729927,https://github.com/manojxshrestha/SecVault,manojxshrestha/SecVault,918171741
 MS03-036,0.00729927,https://github.com/Lobbyra/darkly,Lobbyra/darkly,662526384
 MS03-036,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
 MS03-036,0.00719424,https://github.com/luisfelipe146/ptools,luisfelipe146/ptools,473291650
@@ -144,6 +145,7 @@ MS03-036,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS03-036,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 MS03-036,0.00001429,https://github.com/fooster1337/searchxploit,fooster1337/searchxploit,726528344
 MS03-036,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
+MS03-036,0.00001428,https://github.com/andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,793058764
 MS03-036,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899
 MS03-036,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS03-036,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
@@ -156,6 +158,7 @@ MS03-036,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-data
 MS03-036,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 MS03-036,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 MS03-036,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
+MS03-036,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS03-036,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS03-036,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 MS03-036,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

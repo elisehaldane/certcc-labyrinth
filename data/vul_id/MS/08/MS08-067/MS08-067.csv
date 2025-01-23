@@ -457,7 +457,7 @@ MS08-067,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent
 MS08-067,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 MS08-067,0.00052165,https://github.com/w3h/isf,w3h/isf,96204829
 MS08-067,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
-MS08-067,0.00042017,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00040850,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -627,6 +627,7 @@ MS08-067,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588
 MS08-067,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
 MS08-067,0.00001429,https://github.com/fooster1337/searchxploit,fooster1337/searchxploit,726528344
 MS08-067,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
+MS08-067,0.00001428,https://github.com/andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,793058764
 MS08-067,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899
 MS08-067,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS08-067,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
@@ -642,9 +643,10 @@ MS08-067,0.00001324,https://github.com/CVEDB/cve-poc,CVEDB/cve-poc,617748045
 MS08-067,0.00001319,https://github.com/w3security/PoCVE,w3security/PoCVE,606657364
 MS08-067,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222
 MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
+MS08-067,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS08-067,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-067,0.00000795,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000794,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
