@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-V845-JXX5-VC9F,0.00033535,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 GHSA-V845-JXX5-VC9F,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

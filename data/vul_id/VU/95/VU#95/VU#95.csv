@@ -3,7 +3,7 @@ VU#95,1.00000000,https://github.com/tongxin-li/Safe-Exploitative-Play-with-Untru
 VU#95,1.00000000,https://github.com/IVRL/signal-leak-bias,IVRL/signal-leak-bias,765126094
 VU#95,1.00000000,https://github.com/Jahamezl/0day-Stealer,Jahamezl/0day-Stealer,661815653
 VU#95,1.00000000,https://github.com/susMdT/Indirect-Syscall-Shellcode-Loader,susMdT/Indirect-Syscall-Shellcode-Loader,560650303
-VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-webshell-application,p0dalirius/Tomcat-webshell-application,492338473
+VU#95,1.00000000,https://github.com/p0dalirius/Tomcat-application-webshell,p0dalirius/Tomcat-application-webshell,492338473
 VU#95,1.00000000,https://github.com/akr3ch/kubeletctl-cli-rce,akr3ch/kubeletctl-cli-rce,472089121
 VU#95,1.00000000,https://github.com/hamzausmani302/CTF2,hamzausmani302/CTF2,466481406
 VU#95,1.00000000,https://github.com/Sneden/XSS-Attacks,Sneden/XSS-Attacks,453781526
@@ -50,7 +50,7 @@ VU#95,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217
 VU#95,0.11111111,https://github.com/rohilchaudhry/CVE-Session2-Group5,rohilchaudhry/CVE-Session2-Group5,888145251
 VU#95,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#95,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
-VU#95,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
+VU#95,0.11111111,https://github.com/0xvpr/Pidjeon,0xvpr/Pidjeon,413384079
 VU#95,0.11111111,https://github.com/rishabh-panda/Quantum-Nationn,rishabh-panda/Quantum-Nationn,411030134
 VU#95,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#95,0.10000000,https://github.com/AntHJ/henlo_jb,AntHJ/henlo_jb,721161490
@@ -160,7 +160,6 @@ VU#95,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,
 VU#95,0.02222222,https://github.com/shuffle2/rockbox_psgroove,shuffle2/rockbox_psgroove,957523
 VU#95,0.02173913,https://github.com/fatchagako/Analyse-spatiale-des-restaurants,fatchagako/Analyse-spatiale-des-restaurants,873734176
 VU#95,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,564985003
-VU#95,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#95,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#95,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#95,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
@@ -213,7 +212,7 @@ VU#95,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Se
 VU#95,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
 VU#95,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#95,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
-VU#95,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
+VU#95,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#95,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#95,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#95,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
@@ -260,7 +259,7 @@ VU#95,0.00980392,https://github.com/824LegacY/RCeONeV8OY,824LegacY/RCeONeV8OY,90
 VU#95,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#95,0.00980392,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 VU#95,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
-VU#95,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
+VU#95,0.00934579,https://github.com/Danfoa/RobotEquivariantNN,Danfoa/RobotEquivariantNN,447322134
 VU#95,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#95,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#95,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
@@ -422,7 +421,7 @@ VU#95,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#95,0.00040850,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#95,0.00033535,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#95,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

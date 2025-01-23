@@ -28,7 +28,7 @@ VU#45,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123
 VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
-VU#45,0.50000000,https://github.com/cyberanand1337x/metasploit-termux-2023,cyberanand1337x/metasploit-termux-2023,543638364
+VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
 VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
@@ -166,7 +166,7 @@ VU#45,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894
 VU#45,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#45,0.04347826,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
 VU#45,0.04166667,https://github.com/naisuu/Rxitect,naisuu/Rxitect,455893447
-VU#45,0.04166667,https://github.com/k4u5h41/MS17-010_CVE-2017-0143,k4u5h41/MS17-010_CVE-2017-0143,384203070
+VU#45,0.04166667,https://github.com/n3rdh4x0r/MS17-010_CVE-2017-0143,n3rdh4x0r/MS17-010_CVE-2017-0143,384203070
 VU#45,0.04166667,https://github.com/dobin/yookiterm-slides,dobin/yookiterm-slides,82847859
 VU#45,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#45,0.03846154,https://github.com/safeer-accuknox/BLOG-POC,safeer-accuknox/BLOG-POC,886447560
@@ -208,6 +208,7 @@ VU#45,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/me
 VU#45,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#45,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#45,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
+VU#45,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#45,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
 VU#45,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
@@ -227,7 +228,6 @@ VU#45,0.02173913,https://github.com/lvalnegri/RcensusUK,lvalnegri/RcensusUK,5649
 VU#45,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 VU#45,0.02173913,https://github.com/sinjeanmin/cvedetails_2020_final,sinjeanmin/cvedetails_2020_final,424184998
 VU#45,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,893536910
-VU#45,0.02127660,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#45,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#45,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
@@ -297,7 +297,7 @@ VU#45,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodg
 VU#45,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#45,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#45,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
-VU#45,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
+VU#45,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
 VU#45,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#45,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#45,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
@@ -565,7 +565,7 @@ VU#45,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#45,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#45,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#45,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#45,0.00018450,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#45,0.00018447,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#45,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#45,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

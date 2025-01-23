@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-H75V-3VVJ-5MFJ,0.00033535,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 GHSA-H75V-3VVJ-5MFJ,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
