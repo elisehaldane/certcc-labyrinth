@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+204450188,firstC99/fastjson-1.2.47-RCE,marshalsec-0.0.3-SNAPSHOT-all.jar,8af9d12ef76752c798f1ebb7b32810364260a2e8,VU#03
+204450188,firstC99/fastjson-1.2.47-RCE,marshalsec-0.0.3-SNAPSHOT-all.jar,8af9d12ef76752c798f1ebb7b32810364260a2e8,VU#23
+204450188,firstC99/fastjson-1.2.47-RCE,marshalsec-0.0.3-SNAPSHOT-all.jar,8af9d12ef76752c798f1ebb7b32810364260a2e8,VU#68
+204450188,firstC99/fastjson-1.2.47-RCE,marshalsec-0.0.3-SNAPSHOT-all.jar,8af9d12ef76752c798f1ebb7b32810364260a2e8,VU#80
+204450188,firstC99/fastjson-1.2.47-RCE,marshalsec-0.0.3-SNAPSHOT-all.jar,8af9d12ef76752c798f1ebb7b32810364260a2e8,VU#83
