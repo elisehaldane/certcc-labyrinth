@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-HFG7-J82C-FR3W,0.50000000,https://github.com/JAckLosingHeart/CVE-2023-46442_POC,JAckLosingHeart/CVE-2023-46442_POC,805310377
