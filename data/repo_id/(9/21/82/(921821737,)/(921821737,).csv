@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+921821737,zora-beep/CVE-2023-4220,exploit.py,ac3af0d2d7f3d36e45ad7c568bdf35aef4e9110a,CVE-2023-4220
+921821737,zora-beep/CVE-2023-4220,README.md,dbc27a490777e7b283037cb9fcfaded112707864,CVE-2023-4220
+921821737,zora-beep/CVE-2023-4220,_GITHUB_REPO_METADATA_,,CVE-2023-4220
