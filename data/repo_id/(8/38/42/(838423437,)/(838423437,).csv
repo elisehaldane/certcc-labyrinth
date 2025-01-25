@@ -5,8 +5,8 @@ repo_id,repo_full_name,file,file_sha1,match
 838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,src/vulnerability_scanner.py,173fdfe16e2e166103e6d59adf2a15f1bbaebfb1,CVE-2022-0002
 838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,src/vulnerability_scanner.py,173fdfe16e2e166103e6d59adf2a15f1bbaebfb1,CVE-2022-0003
 838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,src/vulnerability_scanner.py,173fdfe16e2e166103e6d59adf2a15f1bbaebfb1,CVE-2022-0004
-838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,f212edf569879ab88f91db28aef4ff573f259166,CVE-2024-0001
-838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,f212edf569879ab88f91db28aef4ff573f259166,CVE-2024-0002
-838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,f212edf569879ab88f91db28aef4ff573f259166,CVE-2024-0003
-838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,f212edf569879ab88f91db28aef4ff573f259166,CVE-2024-0004
-838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,f212edf569879ab88f91db28aef4ff573f259166,CVE-2024-0005
+838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,9a0497a5e5efeba54528dcc2939260cf924b4073,CVE-2024-0001
+838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,9a0497a5e5efeba54528dcc2939260cf924b4073,CVE-2024-0002
+838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,9a0497a5e5efeba54528dcc2939260cf924b4073,CVE-2024-0003
+838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,9a0497a5e5efeba54528dcc2939260cf924b4073,CVE-2024-0004
+838423437,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,README.md,9a0497a5e5efeba54528dcc2939260cf924b4073,CVE-2024-0005
