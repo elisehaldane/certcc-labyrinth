@@ -224,6 +224,7 @@ VU#61,0.01785714,https://github.com/nimad70/VulRAG,nimad70/VulRAG,849601220
 VU#61,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#61,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#61,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#61,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#61,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#61,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
@@ -529,5 +530,5 @@ VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#61,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#61,0.00000793,https://github.com/trickest/cve,trickest/cve,454015416
-VU#61,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#61,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#61,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

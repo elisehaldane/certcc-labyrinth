@@ -150,7 +150,6 @@ VU#99,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-
 VU#99,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#99,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#99,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
-VU#99,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#99,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#99,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#99,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
@@ -194,6 +193,7 @@ VU#99,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,23404451
 VU#99,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#99,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#99,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#99,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#99,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#99,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
 VU#99,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
@@ -471,7 +471,7 @@ VU#99,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#99,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#99,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#99,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#99,0.00033478,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#99,0.00033456,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#99,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 VU#99,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127

@@ -67,6 +67,7 @@ VU#23,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#23,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#23,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#23,0.20000000,https://github.com/firstC99/fastjson-1.2.47-RCE,firstC99/fastjson-1.2.47-RCE,204450188
+VU#23,0.16666667,https://github.com/deepdown2death/Log4Shell-DIABLE,deepdown2death/Log4Shell-DIABLE,921876631
 VU#23,0.16666667,https://github.com/Christophe-Jouan/LinkyMonitor,Christophe-Jouan/LinkyMonitor,856410920
 VU#23,0.16666667,https://github.com/prashantmoroliya/VAPT_on_Metasploitable2,prashantmoroliya/VAPT_on_Metasploitable2,842411976
 VU#23,0.16666667,https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228,YangHyperData/LOGJ4_PocShell_CVE-2021-44228,780990164
@@ -227,7 +228,6 @@ VU#23,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,40
 VU#23,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#23,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#23,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
-VU#23,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#23,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
 VU#23,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#23,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
@@ -277,6 +277,7 @@ VU#23,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/Cry
 VU#23,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#23,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#23,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#23,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#23,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
 VU#23,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
 VU#23,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196

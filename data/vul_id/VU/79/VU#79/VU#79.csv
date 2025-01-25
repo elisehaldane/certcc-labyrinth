@@ -146,7 +146,6 @@ VU#79,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i
 VU#79,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#79,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#79,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
-VU#79,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#79,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#79,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#79,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -191,6 +190,7 @@ VU#79,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#79,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#79,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#79,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#79,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#79,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#79,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#79,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -511,4 +511,4 @@ VU#79,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#79,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#79,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#79,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#79,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#79,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

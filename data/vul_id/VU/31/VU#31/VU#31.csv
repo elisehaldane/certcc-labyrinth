@@ -161,7 +161,6 @@ VU#31,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,40
 VU#31,0.02631579,https://github.com/IsThisMe01/ProjectL,IsThisMe01/ProjectL,715896069
 VU#31,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#31,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
-VU#31,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#31,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#31,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
 VU#31,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -270,6 +269,7 @@ VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignm
 VU#31,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#31,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#31,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
+VU#31,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#31,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#31,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#31,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
@@ -537,7 +537,7 @@ VU#31,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#31,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#31,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#31,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
-VU#31,0.00033478,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#31,0.00033456,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#31,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#31,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#31,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
@@ -578,6 +578,5 @@ VU#31,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#31,0.00018447,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#31,0.00013546,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#31,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
-VU#31,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#31,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#31,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614

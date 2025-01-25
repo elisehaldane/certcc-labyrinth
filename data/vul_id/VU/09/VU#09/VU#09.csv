@@ -265,7 +265,6 @@ VU#09,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/
 VU#09,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#09,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#09,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
-VU#09,0.02564103,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#09,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#09,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#09,0.02564103,https://github.com/ps4gentoo/ps4gentoo.github.io,ps4gentoo/ps4gentoo.github.io,272039603
@@ -309,6 +308,7 @@ VU#09,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#09,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#09,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#09,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
+VU#09,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#09,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#09,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
 VU#09,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
@@ -641,6 +641,7 @@ VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#09,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#09,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#09,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#09,0.00003954,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#09,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#09,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#09,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

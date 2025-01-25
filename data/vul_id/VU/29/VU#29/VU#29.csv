@@ -802,7 +802,7 @@ VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,84522684
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00074794,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
-VU#29,0.00074516,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00074405,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -813,7 +813,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00033478,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00033456,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00030864,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -865,11 +865,11 @@ VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/Shell
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 VU#29,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#29,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#29,0.00004747,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
+VU#29,0.00003954,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#29,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
@@ -882,4 +882,4 @@ VU#29,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#29,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#29,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#29,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
-VU#29,0.00000332,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
+VU#29,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
