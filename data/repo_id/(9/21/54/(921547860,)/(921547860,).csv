@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+921547860,haroonawanofficial/codeinjection-scan-ml-ai,codeinjection-scan-ml-ai.py,61f62f1d2d2fdf8f7d75c78f63e12c77a9337e66,CVE-2019-54321
+921547860,haroonawanofficial/codeinjection-scan-ml-ai,codeinjection-scan-ml-ai.py,61f62f1d2d2fdf8f7d75c78f63e12c77a9337e66,CVE-2020-12345
