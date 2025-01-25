@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+922180463,robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591,poc.py,98e970343b11048ac347f929a3c760c3cadb4f6e,CVE-2024-55591
+922180463,robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591,check.py,9c411fe32a32757cc2732e7957cca1cc0e22caed,CVE-2024-55591
+922180463,robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591,README.md,b303a402bb2644421bb88178d7c4aaf7a4b69f5a,CVE-2024-55591
+922180463,robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591,_GITHUB_REPO_METADATA_,,CVE-2024-55591
