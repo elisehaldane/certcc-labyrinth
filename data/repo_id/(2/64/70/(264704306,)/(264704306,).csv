@@ -16,6 +16,7 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,pingsweep.sh,7119341867c92c3988f5c22fc302f8cf465d01ac,MS12-020
 264704306,aryanguenthner/365,pingsweep.sh,7119341867c92c3988f5c22fc302f8cf465d01ac,MS08-067
 264704306,aryanguenthner/365,pingsweep.sh,7119341867c92c3988f5c22fc302f8cf465d01ac,MS17-010
+264704306,aryanguenthner/365,kali-setup.sh,711f2a13a7c96af5cacfb79b96f500f22bdf7cbf,CVE-2019-11510
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS12-020
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS17-010
 264704306,aryanguenthner/365,ivre-nmap-example-config.txt,720c470ac0182ab9bbeb9ae25896fd52d7d7ef13,MS08-067
@@ -24,4 +25,3 @@ repo_id,repo_full_name,file,file_sha1,match
 264704306,aryanguenthner/365,ivre-scan-config.txt,79399289fba51751f037f23705fd157d30939ae1,MS12-020
 264704306,aryanguenthner/365,cve-2020-0796.nse,b07e623b1a071d580b1391085c9bb89559665928,CVE-2020-0796
 264704306,aryanguenthner/365,cve-2020-0796.nse,b07e623b1a071d580b1391085c9bb89559665928,VU#872016
-264704306,aryanguenthner/365,kali-setup.sh,d9fe1fdddaf77eb5a4cceb40d6a25759b65be700,CVE-2019-11510
