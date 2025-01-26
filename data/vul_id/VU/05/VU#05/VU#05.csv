@@ -47,6 +47,7 @@ VU#05,0.25000000,https://github.com/coinspect/solana-assign-test,coinspect/solan
 VU#05,0.25000000,https://github.com/P2Enjoy/kohya_ss-docker,P2Enjoy/kohya_ss-docker,594457546
 VU#05,0.25000000,https://github.com/JitinKGoyal/RCEW-classes,JitinKGoyal/RCEW-classes,573280263
 VU#05,0.25000000,https://github.com/yeetsquad747/exploitcb,yeetsquad747/exploitcb,559708835
+VU#05,0.20000000,https://github.com/Azrael-01/Bug-Bounty-Reports,Azrael-01/Bug-Bounty-Reports,922270503
 VU#05,0.20000000,https://github.com/Laelmano24/The-mimic-script,Laelmano24/The-mimic-script,820557764
 VU#05,0.20000000,https://github.com/Niteshkumar13/Remote-code-execution,Niteshkumar13/Remote-code-execution,795170271
 VU#05,0.20000000,https://github.com/AnitaEluwa/Security-Scanner-Toolkit,AnitaEluwa/Security-Scanner-Toolkit,782573449
@@ -122,6 +123,7 @@ VU#05,0.06666667,https://github.com/baonviclates/metasploitgui,baonviclates/meta
 VU#05,0.06666667,https://github.com/AmeyaJagtap/Rowdy_Activation_Functions,AmeyaJagtap/Rowdy_Activation_Functions,376574720
 VU#05,0.06250000,https://github.com/Mohamed-Haneef/Exploit-box,Mohamed-Haneef/Exploit-box,802023457
 VU#05,0.06250000,https://github.com/CLARKBENHAM/sep_finetune_llm,CLARKBENHAM/sep_finetune_llm,720223198
+VU#05,0.06250000,https://github.com/codeme-hue/xeno-executor,codeme-hue/xeno-executor,429777231
 VU#05,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#05,0.05263158,https://github.com/z2zQAQ/go-z2zloader,z2zQAQ/go-z2zloader,908825596
 VU#05,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
@@ -288,6 +290,7 @@ VU#05,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-explo
 VU#05,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#05,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#05,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#05,0.01086957,https://github.com/GitTM527/sc-exploits-minimized,GitTM527/sc-exploits-minimized,922279361
 VU#05,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
 VU#05,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lorenzofranze/ANN-time-series-forecasting,859416095
 VU#05,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
@@ -471,7 +474,7 @@ VU#05,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#05,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#05,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#05,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#05,0.00074405,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#05,0.00074349,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#05,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#05,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#05,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
