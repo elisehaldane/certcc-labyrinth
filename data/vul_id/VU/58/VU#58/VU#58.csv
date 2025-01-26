@@ -153,7 +153,6 @@ VU#58,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,
 VU#58,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#58,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#58,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#58,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#58,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#58,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#58,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
@@ -177,6 +176,7 @@ VU#58,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Da
 VU#58,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#58,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#58,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
+VU#58,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#58,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#58,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#58,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
@@ -448,7 +448,7 @@ VU#58,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#58,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#58,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#58,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#58,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#58,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#58,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#58,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#58,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
@@ -476,7 +476,7 @@ VU#58,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#58,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#58,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#58,0.00033367,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#58,0.00033344,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#58,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#58,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688

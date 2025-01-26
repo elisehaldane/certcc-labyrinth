@@ -3,6 +3,7 @@ VU#48,1.00000000,https://github.com/yyxRoy/tcp-exploit-reports,yyxRoy/tcp-exploi
 VU#48,1.00000000,https://github.com/LukasNad/vulnerable-software-in-your-pocket,LukasNad/vulnerable-software-in-your-pocket,571947496
 VU#48,1.00000000,https://github.com/yxwang1794/RCE-GAN,yxwang1794/RCE-GAN,445027138
 VU#48,1.00000000,https://github.com/imabadhacker/LOLexploit,imabadhacker/LOLexploit,417917400
+VU#48,0.50000000,https://github.com/CavaWasTaken/ICT4Health,CavaWasTaken/ICT4Health,922622654
 VU#48,0.50000000,https://github.com/toanln-cov/CVE-2023-36845,toanln-cov/CVE-2023-36845,697223244
 VU#48,0.50000000,https://github.com/MphatsoChintedza/Attacking-A-Vulnerability-Machine,MphatsoChintedza/Attacking-A-Vulnerability-Machine,474804470
 VU#48,0.50000000,https://github.com/Mphatso27/Attacking-A-Vulnerability-Machine,Mphatso27/Attacking-A-Vulnerability-Machine,474802723
@@ -160,6 +161,7 @@ VU#48,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/me
 VU#48,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#48,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#48,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#48,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#48,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#48,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#48,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
@@ -463,7 +465,7 @@ VU#48,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#48,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#48,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#48,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#48,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#48,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#48,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#48,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#48,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

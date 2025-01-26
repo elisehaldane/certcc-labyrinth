@@ -129,7 +129,6 @@ VU#40,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My
 VU#40,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#40,0.03333333,https://github.com/rapid7/metakitty,rapid7/metakitty,27997172
 VU#40,0.03225806,https://github.com/koleksibot/CVE-2022,koleksibot/CVE-2022,475290370
-VU#40,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#40,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#40,0.02941176,https://github.com/imhunterand/PenetrationTesterRE,imhunterand/PenetrationTesterRE,516928978
 VU#40,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
@@ -141,6 +140,7 @@ VU#40,0.02777778,https://github.com/Mikasuru/InternalUI,Mikasuru/InternalUI,7560
 VU#40,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#40,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#40,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
+VU#40,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#40,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#40,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#40,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
@@ -488,7 +488,7 @@ VU#40,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#40,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#40,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#40,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#40,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#40,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#40,0.00177620,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 VU#40,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#40,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095

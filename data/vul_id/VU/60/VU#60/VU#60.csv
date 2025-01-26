@@ -118,7 +118,6 @@ VU#60,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT
 VU#60,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#60,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
 VU#60,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#60,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#60,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#60,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
 VU#60,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
@@ -126,6 +125,7 @@ VU#60,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-
 VU#60,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#60,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#60,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#60,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#60,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
 VU#60,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#60,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
@@ -368,7 +368,7 @@ VU#60,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#60,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#60,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#60,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#60,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#60,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#60,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#60,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#60,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

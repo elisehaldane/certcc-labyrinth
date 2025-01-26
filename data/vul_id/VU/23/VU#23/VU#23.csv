@@ -6,6 +6,7 @@ VU#23,1.00000000,https://github.com/DanisyEisyraf/Vulnerability-Attacks,DanisyEi
 VU#23,1.00000000,https://github.com/jity16/BEE,jity16/BEE,650042183
 VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
+VU#23,0.50000000,https://github.com/CavaWasTaken/ICT4Health,CavaWasTaken/ICT4Health,922622654
 VU#23,0.50000000,https://github.com/a-roshbaik/PhoneSploit,a-roshbaik/PhoneSploit,831081439
 VU#23,0.50000000,https://github.com/yoongi43/music_audio_enhancement_conformer,yoongi43/music_audio_enhancement_conformer,822066747
 VU#23,0.50000000,https://github.com/Jeediof/PhoneSploit,Jeediof/PhoneSploit,750314361
@@ -54,7 +55,6 @@ VU#23,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCT
 VU#23,0.20000000,https://github.com/eric-olsson-chalmers/ethical-hacking-exploit,eric-olsson-chalmers/ethical-hacking-exploit,878546846
 VU#23,0.20000000,https://github.com/canyie/MagiskEoP,canyie/MagiskEoP,846894468
 VU#23,0.20000000,https://github.com/yTxZx/FastJson1.2.24_RCE_exploit,yTxZx/FastJson1.2.24_RCE_exploit,694578895
-VU#23,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#23,0.20000000,https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271,SaumyajeetDas/POC-of-CVE-2022-36271,525521767
 VU#23,0.20000000,https://github.com/ruchirasvmm/log4j-exploit-demo,ruchirasvmm/log4j-exploit-demo,489876123
 VU#23,0.20000000,https://github.com/scottymcandrew/exploit-labs,scottymcandrew/exploit-labs,478164772
@@ -71,6 +71,7 @@ VU#23,0.16666667,https://github.com/deepdown2death/Log4Shell-DIABLE,deepdown2dea
 VU#23,0.16666667,https://github.com/Christophe-Jouan/LinkyMonitor,Christophe-Jouan/LinkyMonitor,856410920
 VU#23,0.16666667,https://github.com/prashantmoroliya/VAPT_on_Metasploitable2,prashantmoroliya/VAPT_on_Metasploitable2,842411976
 VU#23,0.16666667,https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228,YangHyperData/LOGJ4_PocShell_CVE-2021-44228,780990164
+VU#23,0.16666667,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#23,0.16666667,https://github.com/UtkarshV09/Log4j-Exploit,UtkarshV09/Log4j-Exploit,570304337
 VU#23,0.16666667,https://github.com/ocastel/log4j-shell-poc,ocastel/log4j-shell-poc,539366249
 VU#23,0.16666667,https://github.com/Charlie0257/T2TL,Charlie0257/T2TL,515790479
@@ -515,7 +516,7 @@ VU#23,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#23,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#23,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#23,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#23,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#23,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#23,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#23,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#23,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

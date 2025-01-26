@@ -41,7 +41,6 @@ VU#21,0.20000000,https://github.com/aelsheikh04/Ethical-Exploitations,aelsheikh0
 VU#21,0.20000000,https://github.com/aelsheikh04/Ethical-Web-Exploitations,aelsheikh04/Ethical-Web-Exploitations,911612178
 VU#21,0.20000000,https://github.com/MInggongK/SpringbootGuiExploit,MInggongK/SpringbootGuiExploit,797005918
 VU#21,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
-VU#21,0.20000000,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#21,0.20000000,https://github.com/BrennenT7/AWS-Honey-Pot-Project,BrennenT7/AWS-Honey-Pot-Project,612031705
 VU#21,0.20000000,https://github.com/zangcc/CVE-2022-22965-rexbb,zangcc/CVE-2022-22965-rexbb,582867088
 VU#21,0.20000000,https://github.com/castroaj/Command_Injection_WAF,castroaj/Command_Injection_WAF,561098305
@@ -57,6 +56,7 @@ VU#21,0.16666667,https://github.com/0linlin0/XPost,0linlin0/XPost,806958423
 VU#21,0.16666667,https://github.com/OverTerm1752/Fortnite-external-with-exploits-skars-paste-,OverTerm1752/Fortnite-external-with-exploits-skars-paste-,735122298
 VU#21,0.16666667,https://github.com/asahilina/agx-exploit,asahilina/agx-exploit,692673503
 VU#21,0.16666667,https://github.com/shuo-young/BlockWatchdog,shuo-young/BlockWatchdog,673715687
+VU#21,0.16666667,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#21,0.16666667,https://github.com/LuaR0bloz/Colosploit,LuaR0bloz/Colosploit,542528727
 VU#21,0.16666667,https://github.com/ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,ShaikUsaf/external_v8_AOSP10_r33_CVE-2020-0240,486929889
 VU#21,0.16666667,https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393,486872701
@@ -69,7 +69,6 @@ VU#21,0.16666667,https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo,Baboo
 VU#21,0.16666667,https://github.com/Dviros/log4shell-possible-malware,Dviros/log4shell-possible-malware,437827313
 VU#21,0.16666667,https://github.com/samjcs/log4shell-possible-malware,samjcs/log4shell-possible-malware,437729597
 VU#21,0.14285714,https://github.com/larcherMTT/MBScar,larcherMTT/MBScar,783716876
-VU#21,0.14285714,https://github.com/KingExploit06/Exploits,KingExploit06/Exploits,773511625
 VU#21,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428995
 VU#21,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#21,0.14285714,https://github.com/oselin/drone-pose-estimation,oselin/drone-pose-estimation,510282934
@@ -195,7 +194,6 @@ VU#21,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserS
 VU#21,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#21,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#21,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
-VU#21,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#21,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#21,0.03030303,https://github.com/KATERGaming/Roblox,KATERGaming/Roblox,549737271
 VU#21,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
@@ -216,6 +214,7 @@ VU#21,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeu
 VU#21,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#21,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#21,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#21,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#21,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
 VU#21,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
 VU#21,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
@@ -587,7 +586,7 @@ VU#21,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#21,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#21,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#21,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#21,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#21,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#21,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#21,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#21,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

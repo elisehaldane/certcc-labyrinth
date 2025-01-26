@@ -33,6 +33,7 @@ VU#73,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,
 VU#73,0.25000000,https://github.com/oscargilg1/CVEs,oscargilg1/CVEs,412688812
 VU#73,0.25000000,https://github.com/mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,mathieulh/PS-Vita-Early-Kernel-Exploit-Toolbox,166481344
 VU#73,0.25000000,https://github.com/neurosutras/optimize_cells,neurosutras/optimize_cells,115853066
+VU#73,0.20000000,https://github.com/Azrael-01/CVE-Exploitations,Azrael-01/CVE-Exploitations,922526953
 VU#73,0.20000000,https://github.com/shermannatrix/ttg-kendoreact,shermannatrix/ttg-kendoreact,774756645
 VU#73,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490
 VU#73,0.16666667,https://github.com/sillihkram/Bruteforcing-SSH,sillihkram/Bruteforcing-SSH,401438417
@@ -149,7 +150,6 @@ VU#73,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#73,0.03225806,https://github.com/VulnTotal-Team/IoT-vulhub,VulnTotal-Team/IoT-vulhub,290662420
 VU#73,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
 VU#73,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
-VU#73,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#73,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#73,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#73,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
@@ -161,6 +161,7 @@ VU#73,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rcen
 VU#73,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#73,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#73,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
+VU#73,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#73,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
 VU#73,0.02500000,https://github.com/softwareploitoken/softwareploitoken.github.io,softwareploitoken/softwareploitoken.github.io,840255277
 VU#73,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
@@ -425,7 +426,7 @@ VU#73,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#73,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#73,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#73,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#73,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#73,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#73,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#73,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#73,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

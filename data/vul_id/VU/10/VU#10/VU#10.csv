@@ -41,6 +41,7 @@ VU#10,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-o
 VU#10,0.16666667,https://github.com/MojithaR/CVE-Vulnerability-Research,MojithaR/CVE-Vulnerability-Research,890798104
 VU#10,0.16666667,https://github.com/MasonGroup/SVCINJ,MasonGroup/SVCINJ,881334287
 VU#10,0.16666667,https://github.com/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,Yogehi/cve-2024-4406-xiaomi13pro-exploit-files,872352341
+VU#10,0.16666667,https://github.com/MickaelFontes/noplp-stats,MickaelFontes/noplp-stats,616586689
 VU#10,0.16666667,https://github.com/DeepBlueCLtd/Fi3ldMan,DeepBlueCLtd/Fi3ldMan,543567218
 VU#10,0.16666667,https://github.com/ARM64developer/xeno-executor,ARM64developer/xeno-executor,426677479
 VU#10,0.14285714,https://github.com/Ukn0wnUs3rn4m3/xMainDab,Ukn0wnUs3rn4m3/xMainDab,715162440
@@ -185,6 +186,7 @@ VU#10,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7
 VU#10,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#10,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#10,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#10,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#10,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
 VU#10,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
 VU#10,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
@@ -478,7 +480,7 @@ VU#10,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploi
 VU#10,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#10,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#10,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#10,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#10,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#10,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#10,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#10,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900

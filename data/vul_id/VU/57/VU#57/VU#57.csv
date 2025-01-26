@@ -143,7 +143,6 @@ VU#57,0.03125000,https://github.com/Keshari07/10-Jan-2025-PNQ-WindCorp,Keshari07
 VU#57,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#57,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#57,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
-VU#57,0.03030303,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#57,0.02941176,https://github.com/cckuailong/JNDI-Injection-Exploit-Plus,cckuailong/JNDI-Injection-Exploit-Plus,515025394
 VU#57,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
 VU#57,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
@@ -155,6 +154,7 @@ VU#57,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/me
 VU#57,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#57,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
 VU#57,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
+VU#57,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#57,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#57,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#57,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
@@ -432,7 +432,7 @@ VU#57,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#57,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#57,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#57,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#57,0.00179211,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
+VU#57,0.00177620,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#57,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#57,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#57,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
@@ -506,7 +506,7 @@ VU#57,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#57,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#57,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#57,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#57,0.00003950,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#57,0.00003948,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#57,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#57,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#57,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
