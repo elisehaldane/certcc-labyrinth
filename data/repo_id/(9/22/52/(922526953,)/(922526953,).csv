@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+922526953,Azrael-01/CVE-Exploitations,CVE-2020-6418 report.pdf,0a609da5cc7f9041ad0f2fce893799fcee53153a,CVE-2020-6418
+922526953,Azrael-01/CVE-Exploitations,CVE-2017-0143 report.pdf,12b9a0c8b44f823018d5a195c8160b28728b3013,CVE-2017-0143
+922526953,Azrael-01/CVE-Exploitations,CVE-2010-2568 report.pdf,e098b561df2ba1abc514993ad101ec6b8be86b38,CVE-2010-2568
+922526953,Azrael-01/CVE-Exploitations,CVE-2010-2568 report.pdf,e098b561df2ba1abc514993ad101ec6b8be86b38,MS10-046
+922526953,Azrael-01/CVE-Exploitations,CVE-2010-2568 report.pdf,e098b561df2ba1abc514993ad101ec6b8be86b38,VU#73
