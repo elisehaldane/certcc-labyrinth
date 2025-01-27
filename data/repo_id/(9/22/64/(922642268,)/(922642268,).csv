@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+922642268,davidr-io/Grafana-8.3-Directory-Traversal,readFiles.py,6fd4ba3b9dad13c6980e138a53624ead69164f11,CVE-2021-43798
+922642268,davidr-io/Grafana-8.3-Directory-Traversal,README.md,7768cbd7b29ffe3b2ec9c5fe4dc81f583fb71151,CVE-2021-43798
+922642268,davidr-io/Grafana-8.3-Directory-Traversal,_GITHUB_REPO_METADATA_,,CVE-2021-43798
