@@ -97,6 +97,7 @@ VU#10,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploi
 VU#10,0.07692308,https://github.com/cgplab/PAMES,cgplab/PAMES,97833386
 VU#10,0.07142857,https://github.com/Aalaa-A/multiarmed_bandit,Aalaa-A/multiarmed_bandit,916061508
 VU#10,0.07142857,https://github.com/many-fac3d-g0d/apache-tomcat-log4j,many-fac3d-g0d/apache-tomcat-log4j,441536293
+VU#10,0.07142857,https://github.com/codeme-hue/xeno-executor,codeme-hue/xeno-executor,429777231
 VU#10,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes,ring0-c0d3-br34k3r/Exploit-Development-Notes,853012766
 VU#10,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-3094,780415912
 VU#10,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
@@ -107,7 +108,6 @@ VU#10,0.06666667,https://github.com/KatTraxler/JNDI-Exploit-Server,KatTraxler/JN
 VU#10,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#10,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#10,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
-VU#10,0.06250000,https://github.com/codeme-hue/xeno-executor,codeme-hue/xeno-executor,429777231
 VU#10,0.05882353,https://github.com/atharimran728/DVWA-Pentest-report,atharimran728/DVWA-Pentest-report,836300268
 VU#10,0.05882353,https://github.com/WasiG-619/Vulnerable-AD-Assessment-Exploitation,WasiG-619/Vulnerable-AD-Assessment-Exploitation,786261173
 VU#10,0.05882353,https://github.com/txuswashere/pentesting,txuswashere/pentesting,568053217
