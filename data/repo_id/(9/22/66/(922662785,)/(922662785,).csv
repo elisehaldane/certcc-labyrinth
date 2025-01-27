@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+922662785,Sibul-Dan-Glokta/test-task-CVE-2024-25600,exploit/exploit.py,1808434cd9fad19abb9a2198722693b296b90a6d,CVE-2024-25600
+922662785,Sibul-Dan-Glokta/test-task-CVE-2024-25600,wp_container/wp-content/themes/twentytwentyfour/assets/images/windows.webp,18a3284f7b5ec684211dc355fe2ae56b30639a9e,VU#686
+922662785,Sibul-Dan-Glokta/test-task-CVE-2024-25600,README.md,4fab4723e32f0c95ca6a2ea26d247dec0a82cea4,CVE-2024-25600
+922662785,Sibul-Dan-Glokta/test-task-CVE-2024-25600,wp_container/wp-content/uploads/2025/01/bricks196n.zip,f09a2922b89d5ee2ecadff6ee1235281d0b6c238,VU#01
+922662785,Sibul-Dan-Glokta/test-task-CVE-2024-25600,_GITHUB_REPO_METADATA_,,CVE-2024-25600
