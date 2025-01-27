@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+922771086,kyotozx/CVE-2024-2961-Remote-File-Read,lfi.py,3b6cf87fb318a1e16653e7ef82e4ecd4085986b9,CVE-2024-2961
+922771086,kyotozx/CVE-2024-2961-Remote-File-Read,README.md,48e916f96de33f8b4b44579ddbfbfaa0dff1a825,CVE-2024-2961
+922771086,kyotozx/CVE-2024-2961-Remote-File-Read,_GITHUB_REPO_METADATA_,,CVE-2024-2961
