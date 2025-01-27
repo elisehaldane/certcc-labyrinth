@@ -149,7 +149,6 @@ MS08-067,0.14285714,https://github.com/Nazicc/metasploit-cn-wiki,Nazicc/metasplo
 MS08-067,0.14285714,https://github.com/Earth-Online/metasploit-cn-wiki,Earth-Online/metasploit-cn-wiki,115410135
 MS08-067,0.14285714,https://github.com/thapr0digy/exploits,thapr0digy/exploits,114681204
 MS08-067,0.14285714,https://github.com/screetsec/Dracnmap,screetsec/Dracnmap,69849809
-MS08-067,0.12500000,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS08-067,0.12500000,https://github.com/Aalok-Kesarkar/pentestingToolsGuide,Aalok-Kesarkar/pentestingToolsGuide,497387066
 MS08-067,0.12500000,https://github.com/nullprism/htb-boxes,nullprism/htb-boxes,392510036
 MS08-067,0.12500000,https://github.com/Elite-Computer-Club/winxploit,Elite-Computer-Club/winxploit,362995521
@@ -158,6 +157,7 @@ MS08-067,0.12500000,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitiv
 MS08-067,0.12500000,https://github.com/dar3k93/Service-Enumeration,dar3k93/Service-Enumeration,179030030
 MS08-067,0.12500000,https://github.com/cyberjatin/mynotes,cyberjatin/mynotes,175623182
 MS08-067,0.12500000,https://github.com/pythonone/exploit-fix,pythonone/exploit-fix,133662541
+MS08-067,0.11111111,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS08-067,0.11111111,https://github.com/venomhacking/zeroday.io,venomhacking/zeroday.io,583380319
 MS08-067,0.11111111,https://github.com/SayedAbdo-99/Automation-Pentration-Testing,SayedAbdo-99/Automation-Pentration-Testing,495962786
 MS08-067,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
@@ -462,7 +462,7 @@ MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasp
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS08-067,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
-MS08-067,0.00033256,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00032765,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS08-067,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS08-067,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
