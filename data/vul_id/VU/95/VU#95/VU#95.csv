@@ -22,6 +22,7 @@ VU#95,0.33333333,https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Exa
 VU#95,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#95,0.33333333,https://github.com/Werea25/Best-Exploit,Werea25/Best-Exploit,565215249
 VU#95,0.33333333,https://github.com/ED-Devel0per/ED-Sploit-Download,ED-Devel0per/ED-Sploit-Download,559252937
+VU#95,0.25000000,https://github.com/AiraBanu/UrbanEye,AiraBanu/UrbanEye,923706747
 VU#95,0.25000000,https://github.com/cultureelerfgoed/rce-thesauri-backup,cultureelerfgoed/rce-thesauri-backup,706151427
 VU#95,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
 VU#95,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
@@ -423,7 +424,7 @@ VU#95,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#95,0.00032755,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#95,0.00032690,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#95,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
