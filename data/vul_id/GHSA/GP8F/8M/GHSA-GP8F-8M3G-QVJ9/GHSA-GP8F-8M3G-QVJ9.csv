@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-GP8F-8M3G-QVJ9,0.50000000,https://github.com/Lercas/CVE-2024-46982,Lercas/CVE-2024-46982,920943124
