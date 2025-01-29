@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#61,1.00000000,https://github.com/Markisglow/Slient-URL-Exploit,Markisglow/Slient-URL-Exploit,923763627
 VU#61,1.00000000,https://github.com/Mykhis/Slient-URL-Exploit,Mykhis/Slient-URL-Exploit,889383771
 VU#61,1.00000000,https://github.com/MystersCat/Slient-URL-Exploit,MystersCat/Slient-URL-Exploit,864674907
 VU#61,1.00000000,https://github.com/Shareoks/Slient-URL-Exploit,Shareoks/Slient-URL-Exploit,850607351
@@ -531,6 +532,6 @@ VU#61,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhacke
 VU#61,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#61,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
 VU#61,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#61,0.00000791,https://github.com/trickest/cve,trickest/cve,454015416
+VU#61,0.00000790,https://github.com/trickest/cve,trickest/cve,454015416
 VU#61,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#61,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
