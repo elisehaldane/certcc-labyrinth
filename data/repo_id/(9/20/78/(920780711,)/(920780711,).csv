@@ -2,3 +2,9 @@ repo_id,repo_full_name,file,file_sha1,match
 920780711,SHervas03/PEC-Python,Data/Dataset.xls,5c79ac92908af24d87b3dfab98869e958b18b04e,CVE-2021-25274
 920780711,SHervas03/PEC-Python,Data/Dataset.xls,5c79ac92908af24d87b3dfab98869e958b18b04e,CVE-2021-3114
 920780711,SHervas03/PEC-Python,Data/Dataset.xls,5c79ac92908af24d87b3dfab98869e958b18b04e,CVE-2021-34448
+920780711,SHervas03/PEC-Python,BD_MySQL/pec_staging.sql,8de04ce75bc8aa8f8aaaa7881624a06b566e9edf,CVE-2021-25274
+920780711,SHervas03/PEC-Python,BD_MySQL/pec_staging.sql,8de04ce75bc8aa8f8aaaa7881624a06b566e9edf,CVE-2021-3114
+920780711,SHervas03/PEC-Python,BD_MySQL/pec_staging.sql,8de04ce75bc8aa8f8aaaa7881624a06b566e9edf,CVE-2021-34448
+920780711,SHervas03/PEC-Python,Data/New_Dataset.xls,928eec3c72df475e522f44ebda4343aa7821a02f,CVE-2021-25274
+920780711,SHervas03/PEC-Python,Data/New_Dataset.xls,928eec3c72df475e522f44ebda4343aa7821a02f,CVE-2021-3114
+920780711,SHervas03/PEC-Python,Data/New_Dataset.xls,928eec3c72df475e522f44ebda4343aa7821a02f,CVE-2021-34448
