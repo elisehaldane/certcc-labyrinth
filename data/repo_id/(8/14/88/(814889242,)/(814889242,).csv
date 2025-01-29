@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+814889242,pulpocaminante/gui-pwn,EventHook/phnt/ntexapi.h,7b5f1cb8b29f31afe4bdef553d069ae70e8a72e3,CVE-2017-5715
+814889242,pulpocaminante/gui-pwn,EventHook/phnt/ntexapi.h,7b5f1cb8b29f31afe4bdef553d069ae70e8a72e3,CVE-2018-3639
