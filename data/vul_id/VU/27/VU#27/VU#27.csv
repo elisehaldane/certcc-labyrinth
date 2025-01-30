@@ -13,7 +13,6 @@ VU#27,0.33333333,https://github.com/papichulo16/ctf-stuff,papichulo16/ctf-stuff,
 VU#27,0.33333333,https://github.com/toanthang1842002/CVE-2017-6074,toanthang1842002/CVE-2017-6074,666740330
 VU#27,0.33333333,https://github.com/luminostride/osok,luminostride/osok,661426411
 VU#27,0.33333333,https://github.com/michealkeines/Exploit-Development,michealkeines/Exploit-Development,390336810
-VU#27,0.33333333,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
 VU#27,0.33333333,https://github.com/mvondracek/VR-MitR-C2-Bigscreen,mvondracek/VR-MitR-C2-Bigscreen,145730787
 VU#27,0.25000000,https://github.com/evidg/Web-Programming-and-Systems,evidg/Web-Programming-and-Systems,692706284
 VU#27,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
@@ -21,6 +20,7 @@ VU#27,0.25000000,https://github.com/MarkTheRobloxGuy/ExSer,MarkTheRobloxGuy/ExSe
 VU#27,0.25000000,https://github.com/jupyter-naas/FEC-engine,jupyter-naas/FEC-engine,621218657
 VU#27,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#27,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
+VU#27,0.25000000,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
 VU#27,0.20000000,https://github.com/Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,802643935
 VU#27,0.20000000,https://github.com/IgnacioLaurenty/Basic-RL-from-scratch,IgnacioLaurenty/Basic-RL-from-scratch,750250126
 VU#27,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
@@ -371,7 +371,6 @@ VU#27,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#27,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#27,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#27,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
-VU#27,0.00704225,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#27,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/Subsurface-Resource-Analog,728353574
 VU#27,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#27,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
@@ -380,6 +379,7 @@ VU#27,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/
 VU#27,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,818114881
 VU#27,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#27,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
+VU#27,0.00675676,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#27,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#27,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#27,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946

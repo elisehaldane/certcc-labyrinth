@@ -24,6 +24,7 @@ VU#19,0.33333333,https://github.com/BENOSHITO/exploithosting.github.io,BENOSHITO
 VU#19,0.33333333,https://github.com/LucaGiudice/Simpati,LucaGiudice/Simpati,400513584
 VU#19,0.25000000,https://github.com/exploitationandci/exploitationandci.github.io,exploitationandci/exploitationandci.github.io,889633779
 VU#19,0.25000000,https://github.com/HavocIncorporated/Havoc-Executor,HavocIncorporated/Havoc-Executor,759532235
+VU#19,0.25000000,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
 VU#19,0.20000000,https://github.com/Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,802643935
 VU#19,0.20000000,https://github.com/kotliluk/rce-optimizer-gui,kotliluk/rce-optimizer-gui,762847513
 VU#19,0.20000000,https://github.com/argon125/Bandit-Algorithms,argon125/Bandit-Algorithms,527414066
@@ -372,7 +373,6 @@ VU#19,0.00714286,https://github.com/zhangziyang301/-metasploitable3,zhangziyang3
 VU#19,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,489897694
 VU#19,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#19,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
-VU#19,0.00704225,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#19,0.00704225,https://github.com/Mide478/Subsurface-Resource-Analog,Mide478/Subsurface-Resource-Analog,728353574
 VU#19,0.00704225,https://github.com/wekeo/multicloud,wekeo/multicloud,685047479
 VU#19,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
@@ -383,6 +383,7 @@ VU#19,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Usin
 VU#19,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#19,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#19,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
+VU#19,0.00675676,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#19,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#19,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#19,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
