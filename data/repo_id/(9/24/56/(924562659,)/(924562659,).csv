@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+924562659,d4ruvil/clickjacking-tester,popup.js,6f0e1a1b2b6edddcde2eeae81dda87acf7c40854,CVE-2022-3260
