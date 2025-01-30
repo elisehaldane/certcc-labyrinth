@@ -13,8 +13,8 @@ repo_id,repo_full_name,file,file_sha1,match
 872682516,the29a/VulnForge,tomcat/CVE-2024-50379/conf/context.xml,4816257b5fa0802fcd749569065d3cf746305491,CVE-2024-50379
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/Dockerfile_agent,4831e2b85e58b4e9dbde9ccff910635b066485c7,CVE-2024-43044
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/jenkins/jenkins.yaml,4f9f152d93e77469fc7f52ffb163a4e1a5778a66,CVE-2024-43044
-872682516,the29a/VulnForge,tomcat/CVE-2024-50379/README.md,54dd2ec92008326d2774c2cd522bdda9337be8a0,CVE-2024-50379
 872682516,the29a/VulnForge,tomcat/CVE-2024-50379/README.md,54dd2ec92008326d2774c2cd522bdda9337be8a0,CVE-2024-56337
+872682516,the29a/VulnForge,tomcat/CVE-2024-50379/README.md,54dd2ec92008326d2774c2cd522bdda9337be8a0,CVE-2024-50379
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/groovy/add-credentials.groovy,5aab7d5d927e9242a2e75dd20c8f4cbb30f648e6,CVE-2024-43044
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/jar/jenkins-cli.jar,6ba439937fa1b5fa21a574c9a488d6bd1c4af51b,CVE-2024-43044
 872682516,the29a/VulnForge,ssh/CVE-2024-6387/README.md,87ba337caabcb54212a65bd27d5b7baafc90d2e6,CVE-2024-6387
@@ -25,6 +25,8 @@ repo_id,repo_full_name,file,file_sha1,match
 872682516,the29a/VulnForge,webservers/apache/CVE-2021-41773/CVE-2021-41773.sh,b3e014e007d39c670d6bddddd4bd25f226352369,CVE-2021-41773
 872682516,the29a/VulnForge,webservers/apache/CVE-2021-42013/CVE-2021-42013.sh,b6921c491ccbf806af86ef95138ac55a1895e4f6,CVE-2021-42013
 872682516,the29a/VulnForge,webservers/apache/CVE-2021-42013/CVE-2021-42013.sh,b6921c491ccbf806af86ef95138ac55a1895e4f6,CVE-2021-41773
+872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/README.md,bf1335e35c0db673d6370d60baef1fa5c942133b,CVE-2024-4304
+872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/README.md,bf1335e35c0db673d6370d60baef1fa5c942133b,CVE-2024-43044
 872682516,the29a/VulnForge,tomcat/CVE-2024-50379/docker-compose.yml,c02253d07987697a758dbebc64506040dc514f68,CVE-2024-50379
 872682516,the29a/VulnForge,webservers/apache/CVE-2021-42013/docker-compose.yml,cf7eac7ff7c5cc920cced16fa63405f58f46b927,CVE-2021-42013
 872682516,the29a/VulnForge,webservers/apache/CVE-2021-42013/docker-compose.yml,cf7eac7ff7c5cc920cced16fa63405f58f46b927,CVE-2021-41773
@@ -32,8 +34,6 @@ repo_id,repo_full_name,file,file_sha1,match
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/groovy/config.groovy,d2df2c3e1c1555fbe164aa8fbf89df278be56b32,CVE-2024-43044
 872682516,the29a/VulnForge,cms/wordpress/CVE-2024-5932/README.md,d6e1c180560ffecfe1d904146613386b226f69b8,CVE-2024-5932
 872682516,the29a/VulnForge,zabbix/CVE-2024-42327/docker-compose.yml,db6c2cf31c19e8f7010750fd2102b8ff325cacc0,CVE-2024-42327
-872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/README.md,dc0fc3de358055c1400a8ebc575a87463a037023,CVE-2024-43044
-872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/README.md,dc0fc3de358055c1400a8ebc575a87463a037023,CVE-2024-4304
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/docker-compose.yml,e38ebe345f9945cd92c9a1ca30dfd1ce61b634cd,CVE-2024-43044
 872682516,the29a/VulnForge,cicd/jenkins/CVE-2024-43044/plugins.txt,e5b8bc651980b0df29cb265350868c0c07e54970,CVE-2024-43044
 872682516,the29a/VulnForge,ssh/CVE-2024-6387/docker-compose.yml,eb6c94fe632b3d8324d004a71e7535e86cffb1a8,CVE-2024-6387
