@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+523702714,p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE,README.md,68c4832715c1049f2a0ee453a9d590d32a7a079e,CVE-2022-36446
+523702714,p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE,CVE-2022-36446.py,82ef8d2b7a26b2bc6b942d1d8f2c719bd4b4b275,CVE-2022-36446
+523702714,p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE,_GITHUB_REPO_METADATA_,,CVE-2022-36446
