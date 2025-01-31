@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-54274449,gate-computer/gate,go.sum,43dadf9f3314116424358c1402fdde2127c38197,VU#144
+54274449,gate-computer/gate,cmd/gate-daemon/go.sum,296c87250b3edc66ffad54a3fb6f922a4194211d,VU#144
+54274449,gate-computer/gate,cmd/gate-server/go.sum,2c12741f54c7ee97fc7e6d27a66e1f275efae9d4,VU#144
+54274449,gate-computer/gate,go.sum,c83280bf23d98a6dd0ea83ad7a2b9c825ce24cad,VU#144
