@@ -24,6 +24,7 @@ VU#03,0.50000000,https://github.com/jaxBCD/Zeebsploit,jaxBCD/Zeebsploit,16870539
 VU#03,0.33333333,https://github.com/Youssefdds/CVE-2024-23724,Youssefdds/CVE-2024-23724,919073460
 VU#03,0.33333333,https://github.com/SentimentSec/Simple_Shiro_Exploit,SentimentSec/Simple_Shiro_Exploit,618680605
 VU#03,0.33333333,https://github.com/corkami/collisions,corkami/collisions,167916892
+VU#03,0.25000000,https://github.com/himanshughub/Valkyrie_v2.0,himanshughub/Valkyrie_v2.0,923910740
 VU#03,0.25000000,https://github.com/TakedoNick/Detecting_Retinal_Vasculature,TakedoNick/Detecting_Retinal_Vasculature,908841326
 VU#03,0.25000000,https://github.com/HavocIncorporated/Havoc-Executor,HavocIncorporated/Havoc-Executor,759532235
 VU#03,0.25000000,https://github.com/ArdeleanRichard/som-exploit,ArdeleanRichard/som-exploit,757380836
@@ -50,7 +51,6 @@ VU#03,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#03,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#03,0.20000000,https://github.com/whichbuffer/WindowsExploitDev,whichbuffer/WindowsExploitDev,326376982
 VU#03,0.20000000,https://github.com/firstC99/fastjson-1.2.47-RCE,firstC99/fastjson-1.2.47-RCE,204450188
-VU#03,0.16666667,https://github.com/himanshughub/Valkyrie_v2.0,himanshughub/Valkyrie_v2.0,923910740
 VU#03,0.16666667,https://github.com/deepdown2death/Log4Shell-DIABLE,deepdown2death/Log4Shell-DIABLE,921876631
 VU#03,0.16666667,https://github.com/yubrajpandeya/sagarmatha,yubrajpandeya/sagarmatha,819539189
 VU#03,0.16666667,https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228,YangHyperData/LOGJ4_PocShell_CVE-2021-44228,780990164
