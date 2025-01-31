@@ -4,5 +4,5 @@ repo_id,repo_full_name,file,file_sha1,match
 921876631,deepdown2death/Log4Shell-DIABLE,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#68
 921876631,deepdown2death/Log4Shell-DIABLE,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#80
 921876631,deepdown2death/Log4Shell-DIABLE,marshalsec-0.0.3-SNAPSHOT-all.jar,33a86831e93634a24019145a5f1dc8ecaa3e0abe,VU#83
-921876631,deepdown2death/Log4Shell-DIABLE,README.md,60c55a6ccbbc84e7e12586ca9f7ba5471e477497,CVE-2021-44228
+921876631,deepdown2death/Log4Shell-DIABLE,README.md,53469052ed266f92d0a50f3f7bdb534d9455a9f7,CVE-2021-44228
 921876631,deepdown2death/Log4Shell-DIABLE,exploit.py,95308a05526f8e4f43f7b367bb72ff467a697316,CVE-2021-44228
