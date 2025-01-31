@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+925009646,mehedibiswas/Metasploit,metasploit_exploit.txt,c417d0cb66cc6ed117edaf8970062686370b470e,MS09-050
+925009646,mehedibiswas/Metasploit,metasploit_exploit.txt,c417d0cb66cc6ed117edaf8970062686370b470e,MS17-010
