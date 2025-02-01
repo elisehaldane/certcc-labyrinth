@@ -31,7 +31,6 @@ BID-0,0.16666667,https://github.com/gameinclassroom/ninja-cat-exploit,gameinclas
 BID-0,0.16666667,https://github.com/ucbg/ninja-cat-exploit,ucbg/ninja-cat-exploit,881788261
 BID-0,0.16666667,https://github.com/ARM64developer/xeno-executor,ARM64developer/xeno-executor,426677479
 BID-0,0.14285714,https://github.com/hyn0027/DualGen,hyn0027/DualGen,630908704
-BID-0,0.14285714,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 BID-0,0.12500000,https://github.com/ElectroBoy404NotFound/TinyiOS,ElectroBoy404NotFound/TinyiOS,724353108
 BID-0,0.12500000,https://github.com/nidhihcl/external_expat_2.1.0_CVE-2022-43680,nidhihcl/external_expat_2.1.0_CVE-2022-43680,579853949
 BID-0,0.12500000,https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680,Trinadh465/external_expat-2.1.0_CVE-2022-43680,578580664
@@ -177,6 +176,7 @@ BID-0,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 BID-0,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 BID-0,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 BID-0,0.02000000,https://github.com/CGCL-codes/HME,CGCL-codes/HME,103367987
+BID-0,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 BID-0,0.01851852,https://github.com/retr0-13/Linux_kernel_exploitation,retr0-13/Linux_kernel_exploitation,467960173
 BID-0,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,ChrisTheCoolHut/Linux_kernel_exploitation,413248866
 BID-0,0.01818182,https://github.com/CnHack3r/Awesome-hacking-tools,CnHack3r/Awesome-hacking-tools,446790527
@@ -220,6 +220,7 @@ BID-0,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 BID-0,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 BID-0,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 BID-0,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+BID-0,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 BID-0,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 BID-0,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 BID-0,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179

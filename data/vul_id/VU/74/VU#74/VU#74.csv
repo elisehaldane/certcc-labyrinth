@@ -545,7 +545,7 @@ VU#74,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#74,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#74,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#74,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#74,0.00032531,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#74,0.00032520,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#74,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#74,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#74,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -586,5 +586,6 @@ VU#74,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Ex
 VU#74,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#74,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#74,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+VU#74,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#74,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#74,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580

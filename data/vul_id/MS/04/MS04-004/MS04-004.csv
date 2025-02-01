@@ -2,10 +2,10 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS04-004,0.50000000,https://github.com/ossf-cve-benchmark/CVE-2018-20164,ossf-cve-benchmark/CVE-2018-20164,317468225
 MS04-004,0.50000000,https://github.com/ossf-cve-benchmark/CVE-2017-16030,ossf-cve-benchmark/CVE-2017-16030,317255580
 MS04-004,0.20000000,https://github.com/jas502n/CVE-2019-12384,jas502n/CVE-2019-12384,198579428
-MS04-004,0.14285714,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 MS04-004,0.05263158,https://github.com/sctb512/exploitDB_spider_new,sctb512/exploitDB_spider_new,223102072
 MS04-004,0.04545455,https://github.com/PleXone2019/Nosql-Exploitation-Framework,PleXone2019/Nosql-Exploitation-Framework,229854044
 MS04-004,0.04347826,https://github.com/torque59/Nosql-Exploitation-Framework,torque59/Nosql-Exploitation-Framework,15457437
+MS04-004,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 MS04-004,0.00746269,https://github.com/anthrax3/WebSploit,anthrax3/WebSploit,120862158
 MS04-004,0.00729927,https://github.com/manojxshrestha/SecVault,manojxshrestha/SecVault,918171741
 MS04-004,0.00729927,https://github.com/Lobbyra/darkly,Lobbyra/darkly,662526384
@@ -169,6 +169,7 @@ MS04-004,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith
 MS04-004,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS04-004,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 MS04-004,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+MS04-004,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 MS04-004,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 MS04-004,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 MS04-004,0.00001186,https://github.com/scipag/vulscan,scipag/vulscan,84558222

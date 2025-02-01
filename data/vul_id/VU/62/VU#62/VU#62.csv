@@ -37,6 +37,7 @@ VU#62,0.33333333,https://github.com/Tburm/liquidations-interface,Tburm/liquidati
 VU#62,0.33333333,https://github.com/VerityIncorporated/Sploitgate,VerityIncorporated/Sploitgate,400653864
 VU#62,0.33333333,https://github.com/Charmve/PyStegosploit,Charmve/PyStegosploit,368056409
 VU#62,0.33333333,https://github.com/IMAGINARY/sumory,IMAGINARY/sumory,254935952
+VU#62,0.25000000,https://github.com/Malik-Hamza-Aamir/RCEE-App,Malik-Hamza-Aamir/RCEE-App,915717224
 VU#62,0.25000000,https://github.com/akankshaaaa-rai/RemoteCodeExecution,akankshaaaa-rai/RemoteCodeExecution,908427650
 VU#62,0.25000000,https://github.com/legoskid/chromebook-hacks.github.io,legoskid/chromebook-hacks.github.io,890701991
 VU#62,0.25000000,https://github.com/chromebook-hacks/chromebook-hacks.github.io,chromebook-hacks/chromebook-hacks.github.io,890114791
@@ -71,7 +72,6 @@ VU#62,0.25000000,https://github.com/Paul2708/cercet,Paul2708/cercet,312346441
 VU#62,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
 VU#62,0.25000000,https://github.com/AlmightyLobsters/LobsterPages,AlmightyLobsters/LobsterPages,75432070
 VU#62,0.20000000,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
-VU#62,0.20000000,https://github.com/Malik-Hamza-Aamir/RCEE-App,Malik-Hamza-Aamir/RCEE-App,915717224
 VU#62,0.20000000,https://github.com/chromebook-hacking/chromebook-hacking.github.io,chromebook-hacking/chromebook-hacking.github.io,893209114
 VU#62,0.20000000,https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357,iamz24/CVE-2021-3493_CVE-2022-3357,824252334
 VU#62,0.20000000,https://github.com/qweblessed/sushi-swap-attack-poc,qweblessed/sushi-swap-attack-poc,798610146
@@ -276,6 +276,7 @@ VU#62,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivasku
 VU#62,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#62,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
 VU#62,0.02000000,https://github.com/matthewmerris/TensorizedRatNets,matthewmerris/TensorizedRatNets,438044799
+VU#62,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 VU#62,0.01886792,https://github.com/x3838203739203739203834203832/minesofdalarnia,x3838203739203739203834203832/minesofdalarnia,489534657
 VU#62,0.01851852,https://github.com/0tax00/vuln-poc-template,0tax00/vuln-poc-template,877950646
 VU#62,0.01851852,https://github.com/patrickmineault/embracing-exploiting,patrickmineault/embracing-exploiting,869895298
