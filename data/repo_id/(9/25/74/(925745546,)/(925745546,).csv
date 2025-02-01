@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+925745546,0hmsec/Searchor-2.4.0-Arbitrary-CMD-Injection-Python,README.md,21bb4a89ab1e7f02d74f21d06fb5bc669862fbf3,CVE-2023-43364
+925745546,0hmsec/Searchor-2.4.0-Arbitrary-CMD-Injection-Python,cve-2023-43364-exploit.py,d61205abde9fac8d57af1b51431f8d3629e6fce4,CVE-2023-43364
