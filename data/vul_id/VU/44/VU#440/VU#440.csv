@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#440,0.03125000,https://github.com/MahdiBayanloo/LLM-as-a-Judge,MahdiBayanloo/LLM-as-a-Judge,921091947
+VU#440,0.02040816,https://github.com/surendrans/defi-monitor,surendrans/defi-monitor,926168570
 VU#440,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 VU#440,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#440,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
