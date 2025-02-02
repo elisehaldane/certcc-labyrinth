@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+613522478,Syd-SydneyJr/Exploits,README.md,00bfbd44deb6af19c9750eb6db104518ae8fb63b,CVE-2021-45010
+613522478,Syd-SydneyJr/Exploits,CVE-2021-45010.py,fd1b26e2f899e9f0b51e34cb7bd857cbf1561135,CVE-2021-45010
