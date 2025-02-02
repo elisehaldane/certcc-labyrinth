@@ -1,4 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#40
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#44
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#697
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#75
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#00
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#62
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#67
