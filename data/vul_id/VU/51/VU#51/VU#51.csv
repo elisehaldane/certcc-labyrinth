@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#51,1.00000000,https://github.com/droymer/exploiting-guide,droymer/exploiting-guide,918718797
 VU#51,1.00000000,https://github.com/KhetaguriDimitri/Exploit,KhetaguriDimitri/Exploit,595219604
 VU#51,0.50000000,https://github.com/azertyuiopexe/njrat,azertyuiopexe/njrat,732631644
 VU#51,0.50000000,https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,Muhammad-Ali007/OutlookNTLM_CVE-2023-23397,666573953
