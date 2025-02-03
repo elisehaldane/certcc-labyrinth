@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+925999330,ajes/OSED,Sync_Breeze_Enterprise_10.4.18-CVE-2018-6537_SEH.py,a2bbb02f90d20b3ce9c684c8595756364c8221e8,CVE-2018-6537
 925999330,ajes/OSED,Sync_Breeze_Enterprise_10.0.28-CVE-2017-14980.py,b013e3faa2793da7ce37ece9e8153eff4dec73c4,CVE-2017-14980
