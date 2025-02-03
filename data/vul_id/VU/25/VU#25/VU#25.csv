@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/alexskid/NanoSploit,alexskid/NanoSploit,912495409
-VU#25,1.00000000,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
 VU#25,0.50000000,https://github.com/Meodeptraicutevippro/exploit,Meodeptraicutevippro/exploit,900242607
 VU#25,0.50000000,https://github.com/xxxxhfnr/External-exploits-V4,xxxxhfnr/External-exploits-V4,774596113
@@ -13,6 +12,7 @@ VU#25,0.33333333,https://github.com/him114514/shellcode-python-him,him114514/she
 VU#25,0.33333333,https://github.com/Maxim12234/yii_rce,Maxim12234/yii_rce,602669801
 VU#25,0.33333333,https://github.com/WesleyWong420/Build-Your-Own-LOLBins,WesleyWong420/Build-Your-Own-LOLBins,575381299
 VU#25,0.33333333,https://github.com/asivery/netmd-exploits,asivery/netmd-exploits,506032174
+VU#25,0.33333333,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-rce,503166077
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
@@ -664,7 +664,7 @@ VU#25,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#25,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#25,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#25,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#25,0.00018447,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

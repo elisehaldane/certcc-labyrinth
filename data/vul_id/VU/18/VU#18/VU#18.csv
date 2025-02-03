@@ -32,6 +32,7 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
+VU#18,0.50000000,https://github.com/indhuanandhan70/builderio-shopify-rce-headless,indhuanandhan70/builderio-shopify-rce-headless,926377396
 VU#18,0.50000000,https://github.com/usuariojavier/Exploited,usuariojavier/Exploited,875944484
 VU#18,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
 VU#18,0.50000000,https://github.com/xosnrdev/rce-images,xosnrdev/rce-images,831845228
@@ -676,7 +677,7 @@ VU#18,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#18,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#18,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#18,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#18,0.00018447,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
