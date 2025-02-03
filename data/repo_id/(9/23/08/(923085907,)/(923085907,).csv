@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+923085907,codean-io/pocs,CVE-2024-12425 (LibreOffice)/poc.fodt,5068a9964a6cc92ed44b441513f537c8f3dac17e,CVE-2024-12425
+923085907,codean-io/pocs,CVE-2024-12426 (LibreOffice)/ini.html,6ab3dcedf6c0caa208c08306488e5fe9972b7ae7,CVE-2024-12426
+923085907,codean-io/pocs,CVE-2024-12426 (LibreOffice)/env.html,724c80bdedfe8d85d32bff99a4e26a42a883f665,CVE-2024-12426
+923085907,codean-io/pocs,CVE-2024-12426 (LibreOffice)/README.md,756b35975eaf0e7a2d6d52c6f45761eeae587520,CVE-2024-12426
+923085907,codean-io/pocs,CVE-2024-4367 (PDF.js)/README.md,7d603f3759c33a887dc68aee6805d920ec564c24,CVE-2024-4367
+923085907,codean-io/pocs,CVE-2024-12425 (LibreOffice)/README.md,87c18acbedbb059e7e7d7637b80018e12420a0b1,CVE-2024-12425
+923085907,codean-io/pocs,CVE-2024-12426 (LibreOffice)/regular.html,94b9ad8aac876b117107afd79570ceb7f55df3d7,CVE-2024-12426
+923085907,codean-io/pocs,CVE-2024-4367 (PDF.js)/poc_generalized.pdf,cc6e4d6500d41485cc3ced890722d56dff2f4264,CVE-2024-4367
+923085907,codean-io/pocs,CVE-2024-4367 (PDF.js)/poc_plaintext.pdf,e4d76bd79588bc2ce6397df4d39006554f1d686d,CVE-2024-4367
+923085907,codean-io/pocs,CVE-2024-12426 (LibreOffice)/test.ini,f06e8966eeb263bbf7ebdcbe29427568045494d6,CVE-2024-12426
