@@ -8,6 +8,7 @@ MS13-071,0.02272727,https://github.com/NixLyn/McBRETA,NixLyn/McBRETA,611924590
 MS13-071,0.02222222,https://github.com/beefproject/beef,beefproject/beef,2833881
 MS13-071,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430049
 MS13-071,0.01351351,https://github.com/ym2011/POC-EXP,ym2011/POC-EXP,130572615
+MS13-071,0.01086957,https://github.com/0ahmedx0/deep_exploit,0ahmedx0/deep_exploit,926844728
 MS13-071,0.01086957,https://github.com/JoelJJohnson/deep_exploit-PPO-,JoelJJohnson/deep_exploit-PPO-,868397301
 MS13-071,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS13-071,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
@@ -58,6 +59,7 @@ MS13-071,0.00564972,https://github.com/Pasanlaksitha/Hackthebox-Machines,Pasanla
 MS13-071,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-API,60031201
 MS13-071,0.00531915,https://github.com/sshayb/exploit_scripts,sshayb/exploit_scripts,227637487
 MS13-071,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
+MS13-071,0.00523560,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS13-071,0.00523560,https://github.com/jared1981/SomeToolsAndExploits,jared1981/SomeToolsAndExploits,545877175
 MS13-071,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS13-071,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
@@ -265,7 +267,6 @@ MS13-071,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS13-071,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS13-071,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS13-071,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-MS13-071,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS13-071,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS13-071,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 MS13-071,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973

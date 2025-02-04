@@ -56,6 +56,7 @@ VU#41,0.07692308,https://github.com/Jassu7082/FAW,Jassu7082/FAW,858622127
 VU#41,0.07692308,https://github.com/yashkorat/AV_Bypass_PowerSploit,yashkorat/AV_Bypass_PowerSploit,561734281
 VU#41,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#41,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
+VU#41,0.07142857,https://github.com/codeme-hue/xeno-executor,codeme-hue/xeno-executor,429777231
 VU#41,0.07142857,https://github.com/exploit-haxor/webshellll,exploit-haxor/webshellll,336156473
 VU#41,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
 VU#41,0.06666667,https://github.com/iammr0ot/PowerSploit,iammr0ot/PowerSploit,897346799
@@ -66,7 +67,6 @@ VU#41,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploi
 VU#41,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#41,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#41,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
-VU#41,0.06666667,https://github.com/codeme-hue/xeno-executor,codeme-hue/xeno-executor,429777231
 VU#41,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
 VU#41,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#41,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
@@ -353,8 +353,8 @@ VU#41,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detec
 VU#41,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#41,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#41,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
-VU#41,0.00662252,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#41,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
+VU#41,0.00657895,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#41,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#41,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#41,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399

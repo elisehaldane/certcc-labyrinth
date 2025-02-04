@@ -15,6 +15,7 @@ MS14-064,0.02777778,https://github.com/LyleMi/dom-vuln-db,LyleMi/dom-vuln-db,150
 MS14-064,0.02272727,https://github.com/c0ll3cti0n/exploitpack,c0ll3cti0n/exploitpack,51076752
 MS14-064,0.02173913,https://github.com/r00t-3xp10it/venom,r00t-3xp10it/venom,73909976
 MS14-064,0.01315789,https://github.com/hackone103/Penetration-Testing,hackone103/Penetration-Testing,596134861
+MS14-064,0.01086957,https://github.com/0ahmedx0/deep_exploit,0ahmedx0/deep_exploit,926844728
 MS14-064,0.01086957,https://github.com/JoelJJohnson/deep_exploit-PPO-,JoelJJohnson/deep_exploit-PPO-,868397301
 MS14-064,0.01086957,https://github.com/JoelJJohnson/deep_exploit,JoelJJohnson/deep_exploit,867609659
 MS14-064,0.01086957,https://github.com/TheDreamPort/deep_exploit,TheDreamPort/deep_exploit,542035897
@@ -64,6 +65,7 @@ MS14-064,0.00564972,https://github.com/Pasanlaksitha/Hackthebox-Machines,Pasanla
 MS14-064,0.00534759,https://github.com/asrocha/exploitdb-API,asrocha/exploitdb-API,60031201
 MS14-064,0.00531915,https://github.com/sshayb/exploit_scripts,sshayb/exploit_scripts,227637487
 MS14-064,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228/exploit-tools,116704087
+MS14-064,0.00523560,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS14-064,0.00523560,https://github.com/jared1981/SomeToolsAndExploits,jared1981/SomeToolsAndExploits,545877175
 MS14-064,0.00523560,https://github.com/sdsdilqem/exploitdbapi,sdsdilqem/exploitdbapi,422214299
 MS14-064,0.00523560,https://github.com/anontuttuvenus/SomeToolsAndExploits,anontuttuvenus/SomeToolsAndExploits,326033664
@@ -272,7 +274,6 @@ MS14-064,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504
 MS14-064,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 MS14-064,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 MS14-064,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-MS14-064,0.00004415,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS14-064,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
 MS14-064,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
 MS14-064,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
