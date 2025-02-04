@@ -132,6 +132,7 @@ VU#78,0.03846154,https://github.com/MAWK0235/MinecraftLog4jAutoPwn,MAWK0235/Mine
 VU#78,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#78,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#78,0.03703704,https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV,ycdxsb/Log4Shell-CVE-2021-44228-ENV,437797086
+VU#78,0.03571429,https://github.com/michavardy/ZeroDay,michavardy/ZeroDay,927226445
 VU#78,0.03571429,https://github.com/Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,823228807
 VU#78,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#78,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
@@ -533,7 +534,7 @@ VU#78,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#78,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#78,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#78,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#78,0.00032268,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#78,0.00032258,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#78,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#78,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#78,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -575,4 +576,4 @@ VU#78,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/met
 VU#78,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#78,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#78,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#78,0.00003930,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#78,0.00003928,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
