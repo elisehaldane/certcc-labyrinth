@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+927144920,suce0155/CVE-2024-2961_buddyforms_2.7.7,README.md,145354f1c727fb7d31e42d1ef2c7496ba0c70e20,CVE-2024-2961
+927144920,suce0155/CVE-2024-2961_buddyforms_2.7.7,buddyforms_2.7.7_cnext_exploit.py,341d8924eddd861a62c85c97ad2a8d396e4333ca,CVE-2024-2961
+927144920,suce0155/CVE-2024-2961_buddyforms_2.7.7,_GITHUB_REPO_METADATA_,,CVE-2024-2961
