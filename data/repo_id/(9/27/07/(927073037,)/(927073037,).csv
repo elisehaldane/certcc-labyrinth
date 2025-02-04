@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+927073037,vulhub/rocketmq-attack,README.md,1e06915f8553fc4248a43457e214f9dab7658eac,CVE-2023-33246
+927073037,vulhub/rocketmq-attack,README.md,1e06915f8553fc4248a43457e214f9dab7658eac,CVE-2023-37582
+927073037,vulhub/rocketmq-attack,src/main/kotlin/Main.kt,9f396a315bcd13c70ec0454d9baf6292a63ded34,CVE-2023-33246
+927073037,vulhub/rocketmq-attack,src/main/kotlin/Main.kt,9f396a315bcd13c70ec0454d9baf6292a63ded34,CVE-2023-37582
