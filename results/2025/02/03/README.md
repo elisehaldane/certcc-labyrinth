@@ -1,7 +1,7 @@
 
 # Summary for results/2025/02/03
     
-265 records found after deduplication
+266 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------------|---------------|--------------------|
@@ -12,6 +12,7 @@
 | i-am-tom/i-am-tom.github.io | My personal website for blogging my coding exploits. | https://github.com/i-am-tom/i-am-tom.github.io | ['exploit'] | 1 | 2025-02-03 22:38:39+00:00 | 28608 | 6 | JavaScript | 4 | [] |
 | zeroscience/advisory | Vulnerabilities, security advisories, exploit codes and proof-of-concept codes. | https://github.com/zeroscience/advisory | ['exploit'] | 1 | 2025-02-03 16:37:11+00:00 | 5215 | 8 | Python | 7 | [] |
 | hasherezade/hollows_hunter | Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches). | https://github.com/hasherezade/hollows_hunter | ['shellcode'] | 1 | 2025-02-03 13:02:42+00:00 | 15256 | 2100 | C | 265 | [] |
+| xcube-dev/xcube | xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr. | https://github.com/xcube-dev/xcube | ['exploit'] | 1 | 2025-02-03 11:11:09+00:00 | 426936 | 205 | Python | 18 | [] |
 | vulsio/go-exploitdb | Tool for searching Exploits from Exploit Databases, etc. | https://github.com/vulsio/go-exploitdb | ['exploit'] | 1 | 2025-02-03 06:39:25+00:00 | 832 | 268 | Go | 54 | [] |
 | k8gege/k8gege.github.io | K8博客 k8gege.org | https://github.com/k8gege/k8gege.github.io | ['exploit'] | 1 | 2025-02-03 14:58:45+00:00 | 540307 | 42 | HTML | 12 | [] |
 | lordmikkiemouse/Roblox-Synapse | Roblox Synapse Executor is a top-tier script execution tool for Roblox, valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization. | https://github.com/lordmikkiemouse/Roblox-Synapse | ['exploit'] | 1 | 2025-02-03 16:28:59+00:00 | 0 | 0 | | 0 | [] |
@@ -182,7 +183,7 @@
 | TUB123w/apex-legends-cheat-download | Apex Legends AI Hack Cheat Triggerbot Noclip silent aimbot esp wallhack wh exploit godmode fly FlickBot Legit SemiRage softaim 2024 inventory skin changer swapper hwid spoofer changer free macros norecoil speedhack undetected injector radar FPS Booster Unl | https://github.com/TUB123w/apex-legends-cheat-download | ['exploit'] | 1 | 2025-02-03 04:43:32+00:00 | 1 | 0 | | 0 | [] |
 | codean-io/pocs | Proof-of-Concept files for vulnerabilities found by Codean Labs | https://github.com/codean-io/pocs | ['vulnerability poc'] | 1 | 2025-02-03 12:26:14+00:00 | 44 | 0 | HTML | 0 | [] |
 | shiky8/zero_days | all my zero days exploits | https://github.com/shiky8/zero_days | ['exploit'] | 1 | 2025-02-03 10:55:32+00:00 | 89 | 0 | Python | 0 | [] |
-| CastroJared/7-Zip-CVE-2025-0411-POC | This repository contains POC scenarios as part of CVE-2025-0411 MotW bypass. | https://github.com/CastroJared/7-Zip-CVE-2025-0411-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2025-02-03 05:53:30+00:00 | 2 | 1 | | 0 | ['CVE-2025-0411'] |
+| CastroJared/7-Zip-CVE-2025-0411-POC | This repository contains POC scenarios as part of CVE-2025-0411 MotW bypass. | https://github.com/CastroJared/7-Zip-CVE-2025-0411-POC | ['cve poc', 'cve-2 OR cve_2'] | 2 | 2025-02-03 04:43:22+00:00 | 2 | 1 | | 0 | ['CVE-2025-0411'] |
 | 0xmbe/Shellcode-generator | Shellcode opcode generator, cypher and executor | https://github.com/0xmbe/Shellcode-generator | ['shellcode'] | 1 | 2025-02-03 10:50:53+00:00 | 90 | 1 | C++ | 0 | [] |
 | Maxmiow/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | A project that offers cheats developed with C++ for DayZ. It aims to improve the game experience with features such as Aimbot, ESP, Spoof. | https://github.com/Maxmiow/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc | ['exploit'] | 1 | 2025-02-03 04:57:59+00:00 | 291 | 0 | C++ | 0 | [] |
 | Rayan1159/dragonaegis | A python minecraft server middleman to prevent exploits and ddos attacks | https://github.com/Rayan1159/dragonaegis | ['exploit'] | 1 | 2025-02-03 12:14:17+00:00 | 27 | 0 | Python | 0 | [] |
@@ -262,7 +263,7 @@
 | hrbrmstr/cisa-known-exploited-vulns | Daily archiver & triage issue creator for new releases of CISA's Known Exploited Vulnerabilities list | https://github.com/hrbrmstr/cisa-known-exploited-vulns | ['exploit'] | 1 | 2025-02-03 18:11:04+00:00 | 11578 | 32 | HTML | 4 | [] |
 | Cobalt-Strike/community_kit | Cobalt Strike is a post-exploitation framework designed to be extended and customized by the user community. Several excellent tools and scripts have been written and published, but they can be challenging to locate. Community Kit is a central repository o | https://github.com/Cobalt-Strike/community_kit | ['exploit'] | 1 | 2025-02-03 01:41:15+00:00 | 3294 | 334 | HTML | 20 | [] |
 | thelikes/arsenal | miscellaneous sploit scripts/hacks | https://github.com/thelikes/arsenal | ['sploit'] | 1 | 2025-02-03 14:30:43+00:00 | 107 | 14 | Python | 5 | [] |
-| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2025-02-03 04:38:49+00:00 | 583548 | 958 | Python | 204 | [] |
+| ycdxsb/PocOrExp_in_Github | Automatically Collect POC or EXP from GitHub by CVE ID. | https://github.com/ycdxsb/PocOrExp_in_Github | ['cve poc', 'exploit'] | 2 | 2025-02-03 04:38:49+00:00 | 584890 | 958 | Python | 204 | [] |
 | EasingSoft/cnic | exploiting pakistani cnic number to get location and gender behind it | https://github.com/EasingSoft/cnic | ['exploit'] | 1 | 2025-02-03 14:32:23+00:00 | 136 | 10 | HTML | 2 | [] |
 | lambert-chan/rcefc-english-ministry | None | https://github.com/lambert-chan/rcefc-english-ministry | ['rce'] | 1 | 2025-02-03 06:38:19+00:00 | 6684 | 1 | JavaScript | 0 | [] |
 | Patrowl/PatrowlHearsData | Open-Source Vulnerability Intelligence Center - Unified source of vulnerability, exploit and threat Intelligence feeds | https://github.com/Patrowl/PatrowlHearsData | ['exploit'] | 1 | 2025-02-03 17:02:56+00:00 | 2488921 | 125 | Python | 36 | [] |
