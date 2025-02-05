@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-891966487,vulnerability-lookup/ExploitDBSighting,README.md,52c110433e9abd01cca281a9b781529a932d6606,CVE-2017-14084
-891966487,vulnerability-lookup/ExploitDBSighting,README.md,52c110433e9abd01cca281a9b781529a932d6606,CVE-2017-14085
-891966487,vulnerability-lookup/ExploitDBSighting,README.md,52c110433e9abd01cca281a9b781529a932d6606,CVE-2017-14086
+891966487,vulnerability-lookup/ExploitDBSighting,README.md,384f7a7f28575c33e906bfb72a7f75bdea6fbee0,CVE-2017-14084
+891966487,vulnerability-lookup/ExploitDBSighting,README.md,384f7a7f28575c33e906bfb72a7f75bdea6fbee0,CVE-2017-14085
+891966487,vulnerability-lookup/ExploitDBSighting,README.md,384f7a7f28575c33e906bfb72a7f75bdea6fbee0,CVE-2017-14086
