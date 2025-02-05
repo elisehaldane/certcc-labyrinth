@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#17
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#20
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#32
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#33
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#396
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#49
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#53
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#65
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#82
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#84
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem,2c68212e96605210eddf740291862bdf59398aef,VU#85
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip-24.3.1.dist-info/RECORD,9ed61a13404533e9399ef84351b41cfef2eadd85,VU#1485
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip-24.3.1.dist-info/RECORD,9ed61a13404533e9399ef84351b41cfef2eadd85,VU#28118
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Lib/site-packages/pip-24.3.1.dist-info/RECORD,9ed61a13404533e9399ef84351b41cfef2eadd85,VU#5471
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Scripts/Activate.ps1,c0342f9b70f28f3790732af54cfaa3784c7c9fbf,VU#08
+927713308,balpars/Pycharm-CVE-POC-TEST,venv/Scripts/Activate.ps1,c0342f9b70f28f3790732af54cfaa3784c7c9fbf,VU#75
