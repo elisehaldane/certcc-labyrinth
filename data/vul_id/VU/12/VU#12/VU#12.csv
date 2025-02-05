@@ -195,7 +195,6 @@ VU#12,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framewor
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
-VU#12,0.02040816,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#12,0.02040816,https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-20921,608970037
 VU#12,0.02040816,https://github.com/nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,nidhihcl/frameworks_base_AOSP_10_r33_CVE-2021-39696,585432482
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20470,584611982
@@ -545,7 +544,7 @@ VU#12,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#12,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#12,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#12,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#12,0.00032175,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#12,0.00031980,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#12,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#12,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
