@@ -1,4 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-839724541,wubinworks/magento2-cosmic-sting-patch,README.md,4559d475c6d3536e99cdc4d5d82567a873fd7f74,CVE-2024-34102
-839724541,wubinworks/magento2-cosmic-sting-patch,Framework/Simplexml/Element.php,7e5d458356e6a0ade73183f1c6dc33ab895ed642,CVE-2024-34102
+839724541,wubinworks/magento2-cosmic-sting-patch,README.md,60a2d561f6b4ba8a0f25bb7cc73b81bcb97413cf,CVE-2022-24086
+839724541,wubinworks/magento2-cosmic-sting-patch,README.md,60a2d561f6b4ba8a0f25bb7cc73b81bcb97413cf,CVE-2022-24087
+839724541,wubinworks/magento2-cosmic-sting-patch,README.md,60a2d561f6b4ba8a0f25bb7cc73b81bcb97413cf,CVE-2024-2961
+839724541,wubinworks/magento2-cosmic-sting-patch,README.md,60a2d561f6b4ba8a0f25bb7cc73b81bcb97413cf,CVE-2024-34102
+839724541,wubinworks/magento2-cosmic-sting-patch,Plugin/Framework/Webapi/ServiceInputProcessor.php,b2c1ccbc2ec161f91b888370a81270bf2caf3a6e,CVE-2024-34102
+839724541,wubinworks/magento2-cosmic-sting-patch,etc/di.xml,d5d45acc1938b40a1b88d3d54bc8bab7e85683c6,CVE-2024-34102
 839724541,wubinworks/magento2-cosmic-sting-patch,_GITHUB_REPO_METADATA_,,CVE-2024-34102
