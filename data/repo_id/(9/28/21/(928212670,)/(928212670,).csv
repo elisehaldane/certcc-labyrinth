@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+928212670,0hmsec/NVMS-1000-Directory-Traversal-Bash,cve-2019-20085-poc.sh,bbc529152924fbb679031e3fa450c6177d209cdf,CVE-2019-20085
+928212670,0hmsec/NVMS-1000-Directory-Traversal-Bash,README.md,bff807ca7f2c26a0d9a5fc48c868c89fefdb2262,CVE-2019-20085
+928212670,0hmsec/NVMS-1000-Directory-Traversal-Bash,_GITHUB_REPO_METADATA_,,CVE-2019-20085
