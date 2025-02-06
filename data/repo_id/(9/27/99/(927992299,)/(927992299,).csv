@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+927992299,lilnonick/Secure-Boot-and-TPM-Bypass,LSsys.dll,27d19cb9f84ade9d53d11afdad19c8da97659bcd,VU#61
+927992299,lilnonick/Secure-Boot-and-TPM-Bypass,TPM_process.dll,72e21f3ddcd43dc89f2772fcece6d8a4909d6432,VU#43
+927992299,lilnonick/Secure-Boot-and-TPM-Bypass,Secure Boot and TPM Bypasser.exe,80794c100477e93a2f20a154eb06bbffceff2f6f,VU#70
