@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-893761573,wubinworks/magento2-template-filter-patch,Plugin/Framework/Filter/Template.php,7faa2bd0ef8ab79028c1caae2197fd24d9bc1ecf,CVE-2022-24086
-893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2022-24086
-893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2022-24087
-893761573,wubinworks/magento2-template-filter-patch,README.md,e3795394a23089bde8a5f6161620e548ad80fee1,CVE-2024-34102
+893761573,wubinworks/magento2-template-filter-patch,Plugin/Framework/Filter/Template.php,43fa314046b03eb6f34b6573f0c5b90ddb11a986,CVE-2022-24086
+893761573,wubinworks/magento2-template-filter-patch,README.md,893f27628914db234fcbaf29130ffd29408319d0,CVE-2022-24086
+893761573,wubinworks/magento2-template-filter-patch,README.md,893f27628914db234fcbaf29130ffd29408319d0,CVE-2022-24087
+893761573,wubinworks/magento2-template-filter-patch,README.md,893f27628914db234fcbaf29130ffd29408319d0,CVE-2024-34102
 893761573,wubinworks/magento2-template-filter-patch,_GITHUB_REPO_METADATA_,,CVE-2022-24086
 893761573,wubinworks/magento2-template-filter-patch,_GITHUB_REPO_METADATA_,,CVE-2022-24087
