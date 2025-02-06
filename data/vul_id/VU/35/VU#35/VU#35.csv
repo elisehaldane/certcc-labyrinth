@@ -114,6 +114,7 @@ VU#35,0.04545455,https://github.com/mandiant/heyserial,mandiant/heyserial,435894
 VU#35,0.04545455,https://github.com/iSafeBlue/TrackRay,iSafeBlue/TrackRay,155206197
 VU#35,0.04347826,https://github.com/jedilinux/Shellcode,jedilinux/Shellcode,832234093
 VU#35,0.04347826,https://github.com/ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,ITU-AI-ML-in-5G-Challenge/Fault-impact-analysis-2023-Challenge,689057941
+VU#35,0.04166667,https://github.com/elyas21/exploration_exploitation_algorithms,elyas21/exploration_exploitation_algorithms,928180621
 VU#35,0.04166667,https://github.com/Delioos/dopamine-exploiter,Delioos/dopamine-exploiter,816137507
 VU#35,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elonmusic23/whatsapp-fake-reply-exploit,805107190
 VU#35,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
@@ -283,7 +284,6 @@ VU#35,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoog
 VU#35,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#35,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#35,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#35,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#35,0.01086957,https://github.com/GitTM527/sc-exploits-minimized,GitTM527/sc-exploits-minimized,922279361
 VU#35,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
 VU#35,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lorenzofranze/ANN-time-series-forecasting,859416095
@@ -349,6 +349,7 @@ VU#35,0.00787402,https://github.com/vmtenorio/io-gnn,vmtenorio/io-gnn,872686079
 VU#35,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#35,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#35,0.00775194,https://github.com/amatthews20/RCE_project,amatthews20/RCE_project,924801615
+VU#35,0.00775194,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#35,0.00769231,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#35,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
 VU#35,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
@@ -381,7 +382,7 @@ VU#35,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#35,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#35,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#35,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#35,0.00657895,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#35,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#35,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#35,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
 VU#35,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084

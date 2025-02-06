@@ -10,6 +10,7 @@ VU#03,1.00000000,https://github.com/netflixfurimmer/Venom-Hvnc-Control-2022,netf
 VU#03,1.00000000,https://github.com/shripaddhopate/Thompson-sampling,shripaddhopate/Thompson-sampling,467959363
 VU#03,1.00000000,https://github.com/codered-by-ec-council/Hands-on-Zero-Day-Exploit,codered-by-ec-council/Hands-on-Zero-Day-Exploit,455471073
 VU#03,1.00000000,https://github.com/MrW0l05zyn/buffer-overflow,MrW0l05zyn/buffer-overflow,392863378
+VU#03,0.50000000,https://github.com/YoussefNouri/Syst-me-d-exploitation,YoussefNouri/Syst-me-d-exploitation,928157384
 VU#03,0.50000000,https://github.com/MGullo023/Meterpreter-Reverse-TCP-Lab,MGullo023/Meterpreter-Reverse-TCP-Lab,921399571
 VU#03,0.50000000,https://github.com/Hemanth123321/rcee-ai-ds,Hemanth123321/rcee-ai-ds,769702198
 VU#03,0.50000000,https://github.com/DaintyJet/VChat_KSTET_Multi,DaintyJet/VChat_KSTET_Multi,725253235
@@ -90,6 +91,7 @@ VU#03,0.12500000,https://github.com/AnissaBS/CVenLigne2,AnissaBS/CVenLigne2,7166
 VU#03,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
 VU#03,0.12500000,https://github.com/dev-eloper-365/0days,dev-eloper-365/0days,567609459
 VU#03,0.12500000,https://github.com/adonias-1337/NoExploit,adonias-1337/NoExploit,466716553
+VU#03,0.11111111,https://github.com/dnny-13/kuroneko,dnny-13/kuroneko,926697603
 VU#03,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#03,0.11111111,https://github.com/pritchardlabatpsu/goloco,pritchardlabatpsu/goloco,667525623
 VU#03,0.11111111,https://github.com/copcop981/management_and_exploitation_of_houses,copcop981/management_and_exploitation_of_houses,581968762
@@ -355,7 +357,6 @@ VU#03,0.01111111,https://github.com/alinciprian/sc-minimized-exploits-working,al
 VU#03,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoogy/sc-exploits-minimized,736906126
 VU#03,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#03,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
-VU#03,0.01098901,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#03,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
 VU#03,0.01086957,https://github.com/GitTM527/sc-exploits-minimized,GitTM527/sc-exploits-minimized,922279361
 VU#03,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
@@ -411,6 +412,7 @@ VU#03,0.00787402,https://github.com/vmtenorio/io-gnn,vmtenorio/io-gnn,872686079
 VU#03,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/graph_fink,647247216
 VU#03,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#03,0.00775194,https://github.com/amatthews20/RCE_project,amatthews20/RCE_project,924801615
+VU#03,0.00775194,https://github.com/richteague/gofish,richteague/gofish,199306909
 VU#03,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#03,0.00763359,https://github.com/GNanni2001/IPCV-Projects,GNanni2001/IPCV-Projects,920691152
 VU#03,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
@@ -446,7 +448,7 @@ VU#03,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#03,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#03,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#03,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#03,0.00657895,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#03,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#03,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#03,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#03,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399

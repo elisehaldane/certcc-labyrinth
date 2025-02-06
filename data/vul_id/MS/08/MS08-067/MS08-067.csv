@@ -60,6 +60,7 @@ MS08-067,1.00000000,https://github.com/tiwaryshailesh/MetasploitOnSteroids,tiwar
 MS08-067,1.00000000,https://github.com/Meatballs1/armitage,Meatballs1/armitage,20582409
 MS08-067,1.00000000,https://github.com/msfconsole/conficker,msfconsole/conficker,16184597
 MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/Metasploit-Stuff,7375687
+MS08-067,0.50000000,https://github.com/aysenurmerve/windows-xp-and-metasploitable2-Vulnerability-Scanning-with-msfconsole,aysenurmerve/windows-xp-and-metasploitable2-Vulnerability-Scanning-with-msfconsole,928420991
 MS08-067,0.50000000,https://github.com/JairCodes/VM-SandBox-Project,JairCodes/VM-SandBox-Project,927405457
 MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
 MS08-067,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981
@@ -322,7 +323,7 @@ MS08-067,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/
 MS08-067,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS08-067,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
 MS08-067,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
-MS08-067,0.00657895,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+MS08-067,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS08-067,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS08-067,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
 MS08-067,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
@@ -464,7 +465,7 @@ MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasp
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS08-067,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
-MS08-067,0.00031969,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00031908,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS08-067,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS08-067,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
