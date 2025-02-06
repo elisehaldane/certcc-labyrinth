@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+928103050,gremlin-0x/thm_hackpark,exp.py,307d5ee4b48d52468a6a0dc15c306d86a2618408,CVE-2019-10719
+928103050,gremlin-0x/thm_hackpark,exp.py,307d5ee4b48d52468a6a0dc15c306d86a2618408,CVE-2019-10720
+928103050,gremlin-0x/thm_hackpark,CVE-2019-10717.txt,82ea686fc5c6eaefad86a958700326051da58e1a,CVE-2019-10717
