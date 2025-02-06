@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-924657465,nakataXmodem/cve-rce-poc,readme.md,6c4e811656d1b1f34027d8cc47dd126cd97491b0,CVE-2024-21534
-924657465,nakataXmodem/cve-rce-poc,readme.md,6c4e811656d1b1f34027d8cc47dd126cd97491b0,CVE-2024-23692
-924657465,nakataXmodem/cve-rce-poc,readme.md,6c4e811656d1b1f34027d8cc47dd126cd97491b0,CVE-2024-4577
-924657465,nakataXmodem/cve-rce-poc,readme.md,6c4e811656d1b1f34027d8cc47dd126cd97491b0,CVE-2024-50603
+924657465,nakataXmodem/cve-rce-poc,readme.md,f326981ea424ae2709238223a96c1dc89282c422,CVE-2024-21534
+924657465,nakataXmodem/cve-rce-poc,readme.md,f326981ea424ae2709238223a96c1dc89282c422,CVE-2024-23692
+924657465,nakataXmodem/cve-rce-poc,readme.md,f326981ea424ae2709238223a96c1dc89282c422,CVE-2024-4577
+924657465,nakataXmodem/cve-rce-poc,readme.md,f326981ea424ae2709238223a96c1dc89282c422,CVE-2024-50603
+924657465,nakataXmodem/cve-rce-poc,readme.md,f326981ea424ae2709238223a96c1dc89282c422,CVE-2024-6782
