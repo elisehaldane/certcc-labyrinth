@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#572,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#572,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
+VU#572,0.01492537,https://github.com/Akiii56/Credit-Card-Fraud-Detection,Akiii56/Credit-Card-Fraud-Detection,928800983
 VU#572,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#572,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/wordpress-malware,203105870
 VU#572,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
