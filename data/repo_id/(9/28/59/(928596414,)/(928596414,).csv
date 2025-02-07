@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+928596414,leosep/exploit-tool,interface/menu.py,abc76f3d3e793f3ffc2125fa2655626b59650fdd,CVE-2019-0708
+928596414,leosep/exploit-tool,interface/menu.py,abc76f3d3e793f3ffc2125fa2655626b59650fdd,MS17-010
+928596414,leosep/exploit-tool,core/msf_generator.py,abec9c80a0ff29e78eb794b6eb50934516c18661,CVE-2019-0708
+928596414,leosep/exploit-tool,core/msf_generator.py,abec9c80a0ff29e78eb794b6eb50934516c18661,MS03-026
+928596414,leosep/exploit-tool,core/msf_generator.py,abec9c80a0ff29e78eb794b6eb50934516c18661,MS08-067
+928596414,leosep/exploit-tool,core/msf_generator.py,abec9c80a0ff29e78eb794b6eb50934516c18661,MS17-010
