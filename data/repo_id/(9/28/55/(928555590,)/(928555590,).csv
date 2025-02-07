@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+928555590,dcollaoa/cve-2024-0012-gui-poc,README.md,22b4bc26fdc2fca3a2128fad1c91f8ee9280d319,CVE-2024-0012
+928555590,dcollaoa/cve-2024-0012-gui-poc,README.md,22b4bc26fdc2fca3a2128fad1c91f8ee9280d319,CVE-2024-9474
+928555590,dcollaoa/cve-2024-0012-gui-poc,cve-2024-0012-gui.py,3094af430e3e9e690dd1430d71c0adfac51afe67,CVE-2024-0012
+928555590,dcollaoa/cve-2024-0012-gui-poc,cve-2024-0012-gui.py,3094af430e3e9e690dd1430d71c0adfac51afe67,CVE-2024-9474
+928555590,dcollaoa/cve-2024-0012-gui-poc,_GITHUB_REPO_METADATA_,,CVE-2024-0012
+928555590,dcollaoa/cve-2024-0012-gui-poc,_GITHUB_REPO_METADATA_,,CVE-2024-9474
