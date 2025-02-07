@@ -18,6 +18,7 @@ VU#16,1.00000000,https://github.com/KadenZipfel/max-mint-exploit,KadenZipfel/max
 VU#16,1.00000000,https://github.com/blocksecteam/defi_poc,blocksecteam/defi_poc,397891852
 VU#16,1.00000000,https://github.com/ir0nstone/blog-binaries,ir0nstone/blog-binaries,339679548
 VU#16,1.00000000,https://github.com/ChampionLeake/BreakingNews,ChampionLeake/BreakingNews,188514116
+VU#16,0.50000000,https://github.com/Victor-Okpukpan/buggy-dex-exploit-lesson,Victor-Okpukpan/buggy-dex-exploit-lesson,928559222
 VU#16,0.50000000,https://github.com/Dare-devil-23/ethernaut-ctf,Dare-devil-23/ethernaut-ctf,924577139
 VU#16,0.50000000,https://github.com/RedBear-dos/WebVulnerbilityExploits-,RedBear-dos/WebVulnerbilityExploits-,915728767
 VU#16,0.50000000,https://github.com/RC-Pupper-Electric-Boogaloo/RCEB-publish,RC-Pupper-Electric-Boogaloo/RCEB-publish,906599472
@@ -326,7 +327,6 @@ VU#16,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,80256830
 VU#16,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#16,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#16,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#16,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#16,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#16,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#16,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -414,7 +414,7 @@ VU#16,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#16,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#16,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#16,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#16,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#16,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#16,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#16,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#16,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
@@ -443,6 +443,7 @@ VU#16,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#16,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#16,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#16,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#16,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#16,0.00515464,https://github.com/e2002e/eSploit,e2002e/eSploit,449886634
 VU#16,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#16,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
@@ -534,7 +535,7 @@ VU#16,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#16,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#16,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#16,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#16,0.00031908,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#16,0.00031888,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#16,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#16,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#16,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688

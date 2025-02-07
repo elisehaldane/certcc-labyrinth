@@ -16,6 +16,7 @@ MS03-026,0.33333333,https://github.com/Ksars22/ShellcodeGenerator,Ksars22/Shellc
 MS03-026,0.33333333,https://github.com/pwndorei/CVE-2018-0959,pwndorei/CVE-2018-0959,668585327
 MS03-026,0.33333333,https://github.com/keowu/warsaw,keowu/warsaw,443891495
 MS03-026,0.33333333,https://github.com/sussurro/nsploit,sussurro/nsploit,11983112
+MS03-026,0.25000000,https://github.com/leosep/exploit-tool,leosep/exploit-tool,928596414
 MS03-026,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS03-026,0.25000000,https://github.com/gavz/awesome-windows-exploitation,gavz/awesome-windows-exploitation,52242913
 MS03-026,0.25000000,https://github.com/GuardianRG/awesome-windows-exploitation,GuardianRG/awesome-windows-exploitation,51450581
@@ -124,9 +125,9 @@ MS03-026,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-
 MS03-026,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS03-026,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
 MS03-026,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
-MS03-026,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS03-026,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS03-026,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
+MS03-026,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS03-026,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
 MS03-026,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
 MS03-026,0.00606061,https://github.com/oudb/exploit-db-papers,oudb/exploit-db-papers,67758688

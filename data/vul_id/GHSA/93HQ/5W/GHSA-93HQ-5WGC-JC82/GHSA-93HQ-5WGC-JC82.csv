@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/Victor-Okpukpan/buggy-dex-exploit-lesson,Victor-Okpukpan/buggy-dex-exploit-lesson,928559222
 GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/Dare-devil-23/ethernaut-ctf,Dare-devil-23/ethernaut-ctf,924577139
 GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/turtleshell-xyz/nomad-bridge-poc,turtleshell-xyz/nomad-bridge-poc,792831674
 GHSA-93HQ-5WGC-JC82,0.50000000,https://github.com/zero-day-nft/zeroday,zero-day-nft/zeroday,787402790

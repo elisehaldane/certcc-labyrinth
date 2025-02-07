@@ -58,6 +58,7 @@ VU#68,0.16666667,https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228,zhangxvx/L
 VU#68,0.16666667,https://github.com/TheArqsz/CVE-2021-44228-PoC,TheArqsz/CVE-2021-44228-PoC,437142703
 VU#68,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-poc,437139341
 VU#68,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
+VU#68,0.14285714,https://github.com/0xHamy/zerodayf,0xHamy/zerodayf,928678237
 VU#68,0.14285714,https://github.com/AhmadTNofal/cp-Linux-Command-with-Exploitation,AhmadTNofal/cp-Linux-Command-with-Exploitation,871750516
 VU#68,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#68,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
@@ -342,7 +343,7 @@ VU#68,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#68,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#68,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#68,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#68,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#68,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#68,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#68,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#68,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -372,6 +373,7 @@ VU#68,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,46
 VU#68,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#68,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#68,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#68,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#68,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#68,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#68,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
@@ -519,6 +521,6 @@ VU#68,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#68,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#68,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#68,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
-VU#68,0.00000788,https://github.com/trickest/cve,trickest/cve,454015416
+VU#68,0.00000787,https://github.com/trickest/cve,trickest/cve,454015416
 VU#68,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#68,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

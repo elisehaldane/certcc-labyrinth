@@ -70,6 +70,7 @@ VU#85,0.14285714,https://github.com/Projectrcs/Macro-Exploit,Projectrcs/Macro-Ex
 VU#85,0.14285714,https://github.com/Projectrcs/XLL-Excel-Dropper,Projectrcs/XLL-Excel-Dropper,539944914
 VU#85,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
 VU#85,0.14285714,https://github.com/Qynklee/POC_CVE-2020-2555,Qynklee/POC_CVE-2020-2555,428192560
+VU#85,0.12500000,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante/OCR_Table_Scan,928529478
 VU#85,0.12500000,https://github.com/josexgonzalez/exploit,josexgonzalez/exploit,703612549
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencStarterDev/Storm-Exploits-Web,550810079
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarterDev/Storm-Exploit,550808641
@@ -407,7 +408,7 @@ VU#85,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#85,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#85,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#85,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#85,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#85,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#85,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#85,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#85,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
@@ -434,6 +435,7 @@ VU#85,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#85,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#85,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#85,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#85,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#85,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#85,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#85,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
@@ -493,8 +495,8 @@ VU#85,0.00216450,https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploi
 VU#85,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31/xRay_Scanner_Cracked_1.9.3,545104478
 VU#85,0.00190114,https://github.com/pikpikcu/XRCross,pikpikcu/XRCross,271491397
 VU#85,0.00189394,https://github.com/pr1nav/Pentest-Cheats,pr1nav/Pentest-Cheats,903679207
-VU#85,0.00189036,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
+VU#85,0.00185529,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#85,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
 VU#85,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
@@ -568,7 +570,7 @@ VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#85,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
-VU#85,0.00000788,https://github.com/trickest/cve,trickest/cve,454015416
+VU#85,0.00000787,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 VU#85,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

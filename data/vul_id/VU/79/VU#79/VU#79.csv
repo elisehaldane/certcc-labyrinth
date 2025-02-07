@@ -35,7 +35,6 @@ VU#79,0.25000000,https://github.com/beacnascimento/stiefelpol,beacnascimento/sti
 VU#79,0.25000000,https://github.com/mellow-hype/cve-2024-20017,mellow-hype/cve-2024-20017,849722373
 VU#79,0.25000000,https://github.com/wangjing4research/LDL-FLC,wangjing4research/LDL-FLC,806442747
 VU#79,0.25000000,https://github.com/cultureelerfgoed/Axiell-thesauri,cultureelerfgoed/Axiell-thesauri,698222907
-VU#79,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#79,0.25000000,https://github.com/rV4nxZ/RVXZ-Lua-Executor,rV4nxZ/RVXZ-Lua-Executor,603281476
 VU#79,0.25000000,https://github.com/xsscx/windows,xsscx/windows,573569557
 VU#79,0.25000000,https://github.com/HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,HassanAlHalwani/EMBEDDED-SYSTEM-DESIGN-SMART-WATER-SYSTEM-,533253583
@@ -44,6 +43,7 @@ VU#79,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,42
 VU#79,0.20000000,https://github.com/enlist12/CVE-2020-27786,enlist12/CVE-2020-27786,891870719
 VU#79,0.20000000,https://github.com/IgnacioLaurenty/Basic-RL-from-scratch,IgnacioLaurenty/Basic-RL-from-scratch,750250126
 VU#79,0.20000000,https://github.com/ogirou/Q_Exploitation,ogirou/Q_Exploitation,678465297
+VU#79,0.20000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#79,0.20000000,https://github.com/hearsecurity/Exploits,hearsecurity/Exploits,520099548
 VU#79,0.20000000,https://github.com/ra0x1duk3/firefox-cena,ra0x1duk3/firefox-cena,351896347
 VU#79,0.16666667,https://github.com/mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,708648893
@@ -277,7 +277,6 @@ VU#79,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersingh
 VU#79,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#79,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
 VU#79,0.01075269,https://github.com/lil-osamaa/Hardening-Metasploitable,lil-osamaa/Hardening-Metasploitable,891613847
-VU#79,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#79,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#79,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#79,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
@@ -370,7 +369,7 @@ VU#79,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#79,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#79,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#79,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#79,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#79,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#79,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#79,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#79,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
@@ -392,6 +391,7 @@ VU#79,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boost
 VU#79,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#79,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#79,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#79,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#79,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#79,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#79,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445

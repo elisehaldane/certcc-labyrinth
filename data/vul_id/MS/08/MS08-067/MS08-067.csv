@@ -114,6 +114,7 @@ MS08-067,0.33333333,https://github.com/MarkBuffalo/exploits,MarkBuffalo/exploits
 MS08-067,0.33333333,https://github.com/Ramikan/Autometa,Ramikan/Autometa,78841877
 MS08-067,0.33333333,https://github.com/EvanMcBroom/pocs,EvanMcBroom/pocs,74394204
 MS08-067,0.33333333,https://github.com/veerupandey/Penetration-Testing-Toolkit,veerupandey/Penetration-Testing-Toolkit,18219927
+MS08-067,0.25000000,https://github.com/leosep/exploit-tool,leosep/exploit-tool,928596414
 MS08-067,0.25000000,https://github.com/darkerror404/Exploit,darkerror404/Exploit,163675649
 MS08-067,0.25000000,https://github.com/thomcz/smb-kastel-praktikum,thomcz/smb-kastel-praktikum,114903623
 MS08-067,0.25000000,https://github.com/n3tsky/Exploits,n3tsky/Exploits,111472762
@@ -323,9 +324,9 @@ MS08-067,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/
 MS08-067,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS08-067,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
 MS08-067,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
-MS08-067,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS08-067,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS08-067,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
+MS08-067,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS08-067,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 MS08-067,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
 MS08-067,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exploitdb-bin-sploits,908075596
@@ -465,7 +466,7 @@ MS08-067,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasp
 MS08-067,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS08-067,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
 MS08-067,0.00033784,https://github.com/OpenWireSec/metasploit,OpenWireSec/metasploit,10293760
-MS08-067,0.00031908,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+MS08-067,0.00031888,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS08-067,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS08-067,0.00030921,https://github.com/TarantulaTechnology/metasploit,TarantulaTechnology/metasploit,12835971
 MS08-067,0.00030855,https://github.com/x00itachi/msf-ref-collector,x00itachi/msf-ref-collector,39400135
@@ -652,7 +653,7 @@ MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS08-067,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS08-067,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-067,0.00000788,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000787,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677

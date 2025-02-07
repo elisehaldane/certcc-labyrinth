@@ -49,6 +49,7 @@ VU#99,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aid
 VU#99,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#99,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
 VU#99,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
+VU#99,0.12500000,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante/OCR_Table_Scan,928529478
 VU#99,0.12500000,https://github.com/kuldeepkrjha/AIRSPECTER,kuldeepkrjha/AIRSPECTER,660199905
 VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
@@ -132,8 +133,8 @@ VU#99,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algor
 VU#99,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#99,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#99,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
-VU#99,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#99,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
+VU#99,0.03225806,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#99,0.03125000,https://github.com/MahdiBayanloo/LLM-as-a-Judge,MahdiBayanloo/LLM-as-a-Judge,921091947
 VU#99,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#99,0.03125000,https://github.com/ManavStud/CVE-Engine-V2,ManavStud/CVE-Engine-V2,889560431
@@ -274,7 +275,6 @@ VU#99,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lo
 VU#99,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#99,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#99,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
-VU#99,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#99,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#99,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#99,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -362,7 +362,7 @@ VU#99,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#99,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#99,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#99,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#99,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#99,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#99,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#99,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#99,0.00625000,https://github.com/jessicascarborough/cissig,jessicascarborough/cissig,423867616
@@ -387,6 +387,7 @@ VU#99,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#99,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#99,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#99,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#99,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#99,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#99,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#99,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
@@ -480,7 +481,7 @@ VU#99,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#99,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#99,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#99,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#99,0.00031908,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#99,0.00031888,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#99,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 VU#99,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127

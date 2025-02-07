@@ -29,7 +29,6 @@ VU#56,0.33333333,https://github.com/ykaitao/the-elements-of-reinforcement-learni
 VU#56,0.25000000,https://github.com/slayy2357/coc-tutorial-exploit,slayy2357/coc-tutorial-exploit,848392067
 VU#56,0.25000000,https://github.com/aparish0328/VulnBoxNotes,aparish0328/VulnBoxNotes,833967080
 VU#56,0.25000000,https://github.com/vishesh381/Tweet-Classification,vishesh381/Tweet-Classification,800183015
-VU#56,0.25000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#56,0.25000000,https://github.com/shmigq/PIVASw,shmigq/PIVASw,588504866
 VU#56,0.25000000,https://github.com/shmigq/PIVAS,shmigq/PIVAS,588504656
 VU#56,0.25000000,https://github.com/MPFHG34/Exploiter-for-Roblox,MPFHG34/Exploiter-for-Roblox,588322354
@@ -40,6 +39,7 @@ VU#56,0.25000000,https://github.com/Nintendo-Homebrew/Tiramisu,Nintendo-Homebrew
 VU#56,0.25000000,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
 VU#56,0.20000000,https://github.com/blueiicey/RobloxExploitsArchive,blueiicey/RobloxExploitsArchive,813809457
 VU#56,0.20000000,https://github.com/intexpression/nekito,intexpression/nekito,660558312
+VU#56,0.20000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#56,0.20000000,https://github.com/zangcc/CVE-2022-22965-rexbb,zangcc/CVE-2022-22965-rexbb,582867088
 VU#56,0.20000000,https://github.com/N1rv0us/kernel_exploitation,N1rv0us/kernel_exploitation,556869304
 VU#56,0.20000000,https://github.com/Anjali-kumari-0/cyber-Security,Anjali-kumari-0/cyber-Security,441175617
@@ -370,7 +370,6 @@ VU#56,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,80256830
 VU#56,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#56,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#56,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#56,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#56,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#56,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#56,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -453,7 +452,7 @@ VU#56,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#56,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#56,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#56,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#56,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#56,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#56,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#56,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#56,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
@@ -483,6 +482,7 @@ VU#56,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,46
 VU#56,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#56,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#56,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#56,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#56,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#56,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#56,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595

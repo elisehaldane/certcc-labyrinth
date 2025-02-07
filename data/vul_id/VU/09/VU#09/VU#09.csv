@@ -241,8 +241,8 @@ VU#09,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/Pe
 VU#09,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#09,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#09,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
-VU#09,0.03333333,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#09,0.03225806,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
+VU#09,0.03225806,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#09,0.03125000,https://github.com/Keshari07/10-Jan-2025-PNQ-WindCorp,Keshari07/10-Jan-2025-PNQ-WindCorp,914517913
 VU#09,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#09,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
@@ -402,7 +402,6 @@ VU#09,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandel
 VU#09,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
 VU#09,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#09,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
-VU#09,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#09,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
 VU#09,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#09,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
@@ -481,7 +480,7 @@ VU#09,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,39
 VU#09,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#09,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#09,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#09,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#09,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#09,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#09,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#09,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
@@ -510,6 +509,7 @@ VU#09,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#09,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#09,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#09,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#09,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#09,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#09,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#09,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
@@ -598,7 +598,7 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00030276,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00030257,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516

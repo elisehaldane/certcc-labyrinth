@@ -35,6 +35,7 @@ VU#11,0.16666667,https://github.com/fengguangbin/spring-rce-war,fengguangbin/spr
 VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,475787299
 VU#11,0.14285714,https://github.com/C1N0/DevineDecoy,C1N0/DevineDecoy,784653564
 VU#11,0.14285714,https://github.com/huc0day/phpsploit-framework,huc0day/phpsploit-framework,723939879
+VU#11,0.12500000,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante/OCR_Table_Scan,928529478
 VU#11,0.12500000,https://github.com/happymimimix/Git-Auto-Updater,happymimimix/Git-Auto-Updater,913108534
 VU#11,0.12500000,https://github.com/joshuar49/EvilSmurf2,joshuar49/EvilSmurf2,554498563
 VU#11,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
@@ -262,7 +263,6 @@ VU#11,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,80256830
 VU#11,0.01086957,https://github.com/gurwindersinghdev/Sc-exploits,gurwindersinghdev/Sc-exploits,755464498
 VU#11,0.01086957,https://github.com/BenasVolkovas/cyfrin-sc-exploits-minimized,BenasVolkovas/cyfrin-sc-exploits-minimized,743166373
 VU#11,0.01086957,https://github.com/InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,InteractiveFaultLocalization/InteractiveFaultLocalization.github.io,352023938
-VU#11,0.01075269,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#11,0.01075269,https://github.com/f78bono/deep-cine-cardiac-mri,f78bono/deep-cine-cardiac-mri,563606672
 VU#11,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#11,0.01063830,https://github.com/bilzinet/AnisoCNN-HighRes-SpeedEstimation,bilzinet/AnisoCNN-HighRes-SpeedEstimation,420600874
@@ -333,7 +333,7 @@ VU#11,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#11,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#11,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
 VU#11,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
-VU#11,0.00653595,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#11,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#11,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#11,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#11,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
@@ -364,6 +364,7 @@ VU#11,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,21
 VU#11,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
 VU#11,0.00520833,https://github.com/ShibaNekoL/RCEC_summer_2022,ShibaNekoL/RCEC_summer_2022,517660043
 VU#11,0.00518135,https://github.com/codershiyar/Cybersecurity-WinPrivilegeEscalation,codershiyar/Cybersecurity-WinPrivilegeEscalation,868075533
+VU#11,0.00515464,https://github.com/christopheryin/iterative_synthetic_enhancer_design,christopheryin/iterative_synthetic_enhancer_design,811074129
 VU#11,0.00512821,https://github.com/glennpck/MachineLearning-Experimentals,glennpck/MachineLearning-Experimentals,711737826
 VU#11,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,Marien-RENAUD/Speckle_reduction_in_SAR_time_series_using_an_updating_strategy,618797429
 VU#11,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
@@ -451,7 +452,7 @@ VU#11,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,50527857
 VU#11,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#11,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#11,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#11,0.00031908,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#11,0.00031888,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#11,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#11,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#11,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
