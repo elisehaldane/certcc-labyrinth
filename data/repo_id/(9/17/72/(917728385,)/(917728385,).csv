@@ -1,36 +1,36 @@
 repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/runme.7z,01f86ab1f101450d48bb9d4660a41c595f689b22,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mobogenie_Setup_2.2.3_21.7z,020a0aa2b41afe21e695f0add4bf2a35ecd7daf1,VU#35
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mobogenie_Setup_2.2.3_21.7z,020a0aa2b41afe21e695f0add4bf2a35ecd7daf1,VU#21
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mobogenie_Setup_2.2.3_21.7z,020a0aa2b41afe21e695f0add4bf2a35ecd7daf1,VU#66
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mobogenie_Setup_2.2.3_21.7z,020a0aa2b41afe21e695f0add4bf2a35ecd7daf1,VU#21
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#52
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#50
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Rick/Rick.7z.001,02959d47faac369c3a9e8624d6f14877772344e6,VU#52
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/MS-RickRoll.7z,029c44b7cb00c13961fcd5d3b4a65d7434ad02ab,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/Lose-Lose.7z,029d0c3d14219c2f0f05083c2aaace5c9152f39c,VU#11
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/LoselconIw.7z,03c5dc4d40cc5594222743ec506b29da8fcbb3e4,VU#54
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS10-046
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS08-067
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,CVE-2010-2772
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS10-061
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/README.md,03ec2081efbd241b509fac2e82571f4dc24a6177,MS10-046
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#74
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#83
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,MS05-004
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.004,04101ad5095ab52628f0549ce425427a3bfeca52,VU#85
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.001,0473599221259d815d0f8d14880ea48815910055,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.001,0473599221259d815d0f8d14880ea48815910055,VU#27
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.001,0473599221259d815d0f8d14880ea48815910055,VU#31
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.001,04f97f78ec48f4e50fa936239374a0cb6385d8a2,VU#61
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.001,04f97f78ec48f4e50fa936239374a0cb6385d8a2,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.001,04f97f78ec48f4e50fa936239374a0cb6385d8a2,VU#01
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.001,04f97f78ec48f4e50fa936239374a0cb6385d8a2,VU#61
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/apache.7z,0580ff804a50cda357b075767202389570f042ce,VU#80
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/a799052d8068f5f2ecfefee27c690abb3f3de90bbd98e5b0a4459f0827b3fec2.7z,05990d36d7a07cf153afd193c066035f151d46be,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/sofinomus.7z,05b9992668102e19b234d1ce7e1a07f5072e7063,VU#20
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/OnePieceOfTape.7z,05d24b245da3976ba303f6c31a7bc27189e6acb5,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#84
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#64
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/MrsMajor.7z,071e6309af8c0d7ac7af06e95cdd2895375efea4,VU#31
@@ -38,19 +38,20 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Windows 11 horror.7z,07b1757fd8babf904a02f027da17958de097a8a2,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.001,08599ec17d560014a00f8d489d5a91e3dc255008,VU#441
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Resources/noise.wav,08a57cb307ace32871d26140d7729c865d08b708,VU#38
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.003,0a10984f33be5fe094520ab1800335ed9822fc15,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.003,0a10984f33be5fe094520ab1800335ed9822fc15,VU#27
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.003,0a10984f33be5fe094520ab1800335ed9822fc15,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Purifier.7z,0a384e9c3617f2fadf34d473a9f55ebd661f3c15,VU#19
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.001,0ac55d14ed5fbeeb7a673fa46ddcd1f29199b474,VU#94
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/corpsero.exe/corpsero.7z.003,0a62394608877241e5af2abc8d3949bc32a42f57,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.001,0ac55d14ed5fbeeb7a673fa46ddcd1f29199b474,VU#37
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#94
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#44
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.001,0ac55d14ed5fbeeb7a673fa46ddcd1f29199b474,VU#94
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#47
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#44
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#94
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nyan(LEAKED).7z,0b50a3afd46b58582dbf5d1547ae65578a450983,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OutByte PC Repair/outbyte-pc-repair.7z.001,0b6f8a78afcd0cd35e199b8bf9a58ad656055726,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/UnamBinder.7z,0b9049c93a9f70baf0f919ed0489a8a29e00b827,VU#45
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/mo332.7z,0d2c31fd3f85fe68c8a4bbfa130ea983fc27ed06,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/mo332.7z,0d2c31fd3f85fe68c8a4bbfa130ea983fc27ed06,VU#45
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/mo332.7z,0d2c31fd3f85fe68c8a4bbfa130ea983fc27ed06,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Encryptor/Encryptor/Form1.resx,0d731897562a0bc5f8fbc4837e724f50111027dd,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Encryptor/Encryptor/Form1.resx,0d731897562a0bc5f8fbc4837e724f50111027dd,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy.7z,0d988c00e60830a9956fc9f4ac33b57107510248,VU#29
@@ -61,68 +62,68 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/Backdoor.LongHorn.7z,0df0b966ae5601bd13699e3c2df6471c521e8cd4,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Skinny Player.7z,0e3ab850a1c21765d8e774573b5008b49920a805,VU#40
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Psycho.Peaceful.7z,0e9b8e6c7f6d0a5b0ae8dd019752f2ad5027c033,VU#12
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/hdsetup_2983111137.7z,0ee03389e26769e2b2b988e8f89907da3638072a,VU#46
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/hdsetup_2983111137.7z,0ee03389e26769e2b2b988e8f89907da3638072a,VU#90
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/hdsetup_2983111137.7z,0ee03389e26769e2b2b988e8f89907da3638072a,VU#46
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/WindowRectylescOS11/WindowRectylescOS11/Form1.resx,0f74fe72ffdd0137374f0753f912affd2f7f4053,VU#32
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/WindowRectylescOS11/WindowRectylescOS11/Form1.resx,0f74fe72ffdd0137374f0753f912affd2f7f4053,VU#039
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/WindowRectylescOS11/WindowRectylescOS11/Form1.resx,0f74fe72ffdd0137374f0753f912affd2f7f4053,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/WindowRectylescOS11/WindowRectylescOS11/Form1.resx,0f74fe72ffdd0137374f0753f912affd2f7f4053,VU#039
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x86-v1.15.4.exe,10e227b75dbde53471d706857b58df4a2db5a8db,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x86-v1.15.4.exe,10e227b75dbde53471d706857b58df4a2db5a8db,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x86-v1.15.4.exe,10e227b75dbde53471d706857b58df4a2db5a8db,VU#41
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x86-v1.15.4.exe,10e227b75dbde53471d706857b58df4a2db5a8db,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/InfectedClassicShell.7z,11a589d0c5d89dab41077213b6a56d29b775576b,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Honey.7z,12a3afeced2fa7e88bb01f1abaa819fd1f618ef5,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#97
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#26
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#45
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#21
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#49
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/2abff990d33d99a0732ddbb3a39831c2c292f36955381d45cd8d40a816d9b47a.7z,139291b8c2c7ed8e4b305861a1136a9ef45c8897,VU#35
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#41
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#21
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#45
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.002,13526bf4e6b78bcc1569d654a4c47a6662c3a5d9,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/2abff990d33d99a0732ddbb3a39831c2c292f36955381d45cd8d40a816d9b47a.7z,139291b8c2c7ed8e4b305861a1136a9ef45c8897,VU#15
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/2abff990d33d99a0732ddbb3a39831c2c292f36955381d45cd8d40a816d9b47a.7z,139291b8c2c7ed8e4b305861a1136a9ef45c8897,VU#36
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/2abff990d33d99a0732ddbb3a39831c2c292f36955381d45cd8d40a816d9b47a.7z,139291b8c2c7ed8e4b305861a1136a9ef45c8897,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Auto PC Cleaner 2019.7z,147d89450a6e2a157ef5689510efd52338c31d17,VU#84
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Auto PC Cleaner 2019.7z,147d89450a6e2a157ef5689510efd52338c31d17,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/ikun.7z.002,1512490e702dfcdb7e3fed8626639cde0150d311,VU#50
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#63
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#23
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#99
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#01
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#20
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#63
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#23
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.002,152f3f128e53749dc8cfffe0463ab24454aa65c6,VU#25
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x64-v1.15.4.exe,170cafccf38088673c5117fcca4e24f12ebaa486,VU#07
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Sandboxie-Plus-x64-v1.15.4.exe,170cafccf38088673c5117fcca4e24f12ebaa486,VU#19
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/PanOS 10/Install.PanOS.10.Sun.Valley.7z.001,17a92c9b715030dbbce241984524eae3a41728f9,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/PanOS 10/Install.PanOS.10.Sun.Valley.7z.001,17a92c9b715030dbbce241984524eae3a41728f9,VU#31
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#93
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#38
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#71
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/PanOS 10/Install.PanOS.10.Sun.Valley.7z.001,17a92c9b715030dbbce241984524eae3a41728f9,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#15
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#74
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#71
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#00
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form4.resx,18a1c5ae2610d74d9fb54869eb6ef1a1f7ce8d33,VU#32
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form4.resx,18a1c5ae2610d74d9fb54869eb6ef1a1f7ce8d33,VU#039
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG Antivirus/MLG antivirus.7z.002,1876899f1cfb9277d8c88e3b1b9f6da942007cab,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form4.resx,18a1c5ae2610d74d9fb54869eb6ef1a1f7ce8d33,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form4.resx,18a1c5ae2610d74d9fb54869eb6ef1a1f7ce8d33,VU#039
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form4.resx,18a1c5ae2610d74d9fb54869eb6ef1a1f7ce8d33,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/YoutubeDownloader Installation.7z,18fc82ab1112892e0e9a8f69d97aa9a3068e17fe,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/SpyLocked In.7z,190514d7de89f1606efdcf38034adb5859bffb6f,VU#56
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.001,19bddef958de8adb9972204f6da9718966fb69dc,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.001,19bddef958de8adb9972204f6da9718966fb69dc,VU#06
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.001,19bddef958de8adb9972204f6da9718966fb69dc,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.001,19bddef958de8adb9972204f6da9718966fb69dc,VU#70
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Open Your Eyes.7z,19f96897a07d82f6479a41fdf3a6af724d3bddbc,VU#46
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/NavaShield.7z,1a1927a1e597d996127fc4d74a517cf2647c9305,VU#17
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/NavaShield.7z,1a1927a1e597d996127fc4d74a517cf2647c9305,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/REGSERVO.7z,1b1686b96914bef0d2bede5fe6861231077fff1f,VU#07
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.002,1d0d7e7f79e0f3cd8fb047387a6786c6135333d6,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.002,1d0d7e7f79e0f3cd8fb047387a6786c6135333d6,VU#05
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.002,1d0d7e7f79e0f3cd8fb047387a6786c6135333d6,VU#49
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.002,1d0d7e7f79e0f3cd8fb047387a6786c6135333d6,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.005,1da94a86407444a91f902fa68502821d644ce87f,VU#17
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.005,1da94a86407444a91f902fa68502821d644ce87f,VU#43
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.005,1da94a86407444a91f902fa68502821d644ce87f,VU#68
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.005,1da94a86407444a91f902fa68502821d644ce87f,VU#43
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/SE2011.7z,1e2fa752aaa474c4259c77baeb321e4bf9e7429c,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/AVs/bitdefender_avfree.exe,1ec1424c012b03d6cb1ff55f96ce8cf5558f4a32,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.004,1ee201eed50c9241080f01f38e79a71cd9eebd0c,VU#87
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/PornoCrawler.7z,1f19e011f4e3366502f840d997d77536cf5a9437,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PornoCrawler.7z,1f19e011f4e3366502f840d997d77536cf5a9437,VU#06
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/PornoCrawler.7z,1f19e011f4e3366502f840d997d77536cf5a9437,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PornoCrawler.7z,1f19e011f4e3366502f840d997d77536cf5a9437,VU#56
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PornoCrawler.7z,1f19e011f4e3366502f840d997d77536cf5a9437,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Resonate.7z,1f27e0e49b679ef01d5a2c4fb4036a11d07b5bb7,VU#27
@@ -130,21 +131,21 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.003,1f304d682118ba661dacacb0bf53a633a3b8853d,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.004,1f3fbd900840501c00f2bd5bfe7e2cfa4d35a472,VU#86
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.004,1f3fbd900840501c00f2bd5bfe7e2cfa4d35a472,VU#431
-917728385,FelloBoiYuuka/ToxicDatabase,Enderware/davepl/Dave Pl Malware.7z,1faeb523d9006d2d9832bbab18e3031163be9d58,VU#98
 917728385,FelloBoiYuuka/ToxicDatabase,Enderware/davepl/Dave Pl Malware.7z,1faeb523d9006d2d9832bbab18e3031163be9d58,VU#26
+917728385,FelloBoiYuuka/ToxicDatabase,Enderware/davepl/Dave Pl Malware.7z,1faeb523d9006d2d9832bbab18e3031163be9d58,VU#98
+917728385,FelloBoiYuuka/ToxicDatabase,RAT/2378e76aba1ad6e0c937fb39989217bf0de616fdad4726c0f4233bf5414cde86.7z,1ffed5eb66be7e4580959ddef829e8007fde4e92,VU#60
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/2378e76aba1ad6e0c937fb39989217bf0de616fdad4726c0f4233bf5414cde86.7z,1ffed5eb66be7e4580959ddef829e8007fde4e92,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/2378e76aba1ad6e0c937fb39989217bf0de616fdad4726c0f4233bf5414cde86.7z,1ffed5eb66be7e4580959ddef829e8007fde4e92,VU#10
-917728385,FelloBoiYuuka/ToxicDatabase,RAT/2378e76aba1ad6e0c937fb39989217bf0de616fdad4726c0f4233bf5414cde86.7z,1ffed5eb66be7e4580959ddef829e8007fde4e92,VU#60
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/IObyte System Care.7z,209cbe1236ec3055663384cfd0e8aa06ffaee7ea,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/8795836a86dc61f9fe1d4b3f798ebf3a4c1900ddac2f207f4d1f46e87b85850f.7z,20a19449e34c7a37f58459a8cf96e14ba0370224,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.003,20a3b43e05b12a58cebaa6ba586c0fdff7dfb3a9,VU#95
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#80
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#81
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#80
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.002,21c1259c7f13210f4c2a714973890d83fc84b917,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Vindows 2.0.7z,220d26d46ca324456624cd02fc63c8e33ea7f299,VU#10
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/SparkTrust.7z,243d0beef3c9b340816b47c11a029191a0275750,VU#52
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/SparkTrust.7z,243d0beef3c9b340816b47c11a029191a0275750,VU#061
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/SparkTrust.7z,243d0beef3c9b340816b47c11a029191a0275750,VU#52
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/SparkTrust.7z,243d0beef3c9b340816b47c11a029191a0275750,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.003,2454d91ff8b97c1ad53336277de95b1c5fe48d68,VU#29
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/Malware Bell.7z,24a41dd397c9088b9f8da261dc948a2addc06309,VU#03
@@ -154,9 +155,9 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Cubaris/Cubaris.7z.002,2616968c083d28774683d45ffc9ddb45f8ee1a49,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Desktop Bugs.7z,26309743d6a28c5741cae93d994d674989f97a49,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Worm/EternalRocks.7z,264e0e0ece4cfefbc2afe5c8d1957451b4ea67bf,VU#785
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_DriverManager.7z,27c7f23efad20f713ce479216d8209db4ba7b05d,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_DriverManager.7z,27c7f23efad20f713ce479216d8209db4ba7b05d,VU#20
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_DriverManager.7z,27c7f23efad20f713ce479216d8209db4ba7b05d,VU#82
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_DriverManager.7z,27c7f23efad20f713ce479216d8209db4ba7b05d,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Snake/Snake.7z.002,27d2ad2638c36446c8f9872fce10ba49daa63207,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Fixer.7z,2860b280e37eb61e736b23061e33368c6e5c83af,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Microsoft.7z,28974ceae97d43d78b7d35a424e3d776ee35b417,VU#24
@@ -164,54 +165,54 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/WinMalware's Tools.7z,2942caa99fa112fc10050972a8cc50d3a3cfed38,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/WinPC Repair 2018.7z,2a05eb12ca238efb6baab573cc6725fdc1a5b718,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.001,2b5f6f12323d25532d36c38599c35100939a918b,VU#74
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.001,2b5f6f12323d25532d36c38599c35100939a918b,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.001,2b5f6f12323d25532d36c38599c35100939a918b,VU#41
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ToadetteKill/ToadetteKill.z01,2b6c960db6b8ac71359bc94001d85311940055fe,VU#51
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.001,2b5f6f12323d25532d36c38599c35100939a918b,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ToadetteKill/ToadetteKill.z01,2b6c960db6b8ac71359bc94001d85311940055fe,VU#45
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ToadetteKill/ToadetteKill.z01,2b6c960db6b8ac71359bc94001d85311940055fe,VU#51
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ToadetteKill/ToadetteKill.z01,2b6c960db6b8ac71359bc94001d85311940055fe,BID-9
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Rick.7z,2b6df1b73ef8f3912ee2057ee5efb08237ead096,VU#54
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Rick.7z,2b6df1b73ef8f3912ee2057ee5efb08237ead096,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Rick.7z,2b6df1b73ef8f3912ee2057ee5efb08237ead096,VU#23
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/VineMEMSUS 1.0.7z,2b94f01ed831f8e05b0c909d0a0ff974d299f555,VU#12
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Rick.7z,2b6df1b73ef8f3912ee2057ee5efb08237ead096,VU#57
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Rick.7z,2b6df1b73ef8f3912ee2057ee5efb08237ead096,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/VineMEMSUS 1.0.7z,2b94f01ed831f8e05b0c909d0a0ff974d299f555,VU#07
-917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.001,2bc0b025f76c36b75c4d590f05fbb3e6ec750713,VU#62
-917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.001,2bc0b025f76c36b75c4d590f05fbb3e6ec750713,VU#08
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/VineMEMSUS 1.0.7z,2b94f01ed831f8e05b0c909d0a0ff974d299f555,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.001,2bc0b025f76c36b75c4d590f05fbb3e6ec750713,VU#89
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ItachiNoSleep.7z,2c816d6874da49cc324cb4fdb9fd82b8d23f2f7e,VU#45
+917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.001,2bc0b025f76c36b75c4d590f05fbb3e6ec750713,VU#08
+917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.001,2bc0b025f76c36b75c4d590f05fbb3e6ec750713,VU#62
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ItachiNoSleep.7z,2c816d6874da49cc324cb4fdb9fd82b8d23f2f7e,VU#60
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ItachiNoSleep.7z,2c816d6874da49cc324cb4fdb9fd82b8d23f2f7e,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ItachiNoSleep.7z,2c816d6874da49cc324cb4fdb9fd82b8d23f2f7e,VU#05
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Trojan.MafiaSpace.7z,2d6f9cb70c5494c9cbcf15d4a35a190b188f30a7,VU#14
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/pc-task-logger-free-keylogger-2-2-0.7z,2e563c7fd5a7afb64bb6eb9a1f2421f793cd3da7,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.002,2ec885714d6462f08036a150ec5120b23930f002,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Gta6.7z,2edb3017f578b5795dd7593f0f0b88318c752a18,VU#80
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Gta6.7z,2edb3017f578b5795dd7593f0f0b88318c752a18,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Gta6.7z,2edb3017f578b5795dd7593f0f0b88318c752a18,VU#57
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Gta6.7z,2edb3017f578b5795dd7593f0f0b88318c752a18,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/winnit6.6.6 V10.7z,2efa78fdfeb4853240e48e47435959bc58a7ffb9,VU#90
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.005,2f3bc1fe86c30561aad43e5808f0ebae436670f9,VU#11
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.005,2f3bc1fe86c30561aad43e5808f0ebae436670f9,VU#18
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.005,2f3bc1fe86c30561aad43e5808f0ebae436670f9,VU#11
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Ransom.MacOS.EvilQuest.7z,2f5189654e68a62c88013cd2ba26d7ea5cf1c853,VU#92
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#33
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#16
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#76
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#43
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#79
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#16
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#76
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#47
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#65
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#69
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#12
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/KitteyHacker.7z,2f525ea272869b88b9986004f604e9c894112871,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#33
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#12
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#69
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.001,2ff78f5f5377e914333e96da0e9120b05bda1388,VU#65
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/f624ac67ace602bd64c79d820506ddac165a59af2ae46448b2c18ac43aa67a27.7z,3071d3086bf22171e3a856f7b14a723fd80ae236,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#13
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#34
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#95
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#13
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#33
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PCShredder.7z,31564f07c33f5fa7a5b5f9b0ddbac1a717f8f5de,VU#34
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/MySecretFolder.7z,31e12d5841d27fb5e4c1db234372e867c9437194,VU#16
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.Covid.7z,32642bd22a5f76370d85769874ab365022636f1c,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/trojan-bonanza.7z,3289540287ed0adb6f8b5a46b02616c63cf9af11,VU#41
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit Driver Updater.7z,32cab0f8da90f29e4e799b52ed1b6e2e3935fbe9,VU#83
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit Driver Updater.7z,32cab0f8da90f29e4e799b52ed1b6e2e3935fbe9,VU#67
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit Driver Updater.7z,32cab0f8da90f29e4e799b52ed1b6e2e3935fbe9,VU#83
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.006,336018afb3a255b64a8f040ee10bc3b2af45eefa,VU#71
 917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/Gadomancy/gadomancy.7z.002,344dd3028eebfac2a200bfbfefc111fb5e2921cc,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Uranium.7z,34cf2c4199e226887b72c7ca41e4153a7f7cb931,VU#22
@@ -219,58 +220,58 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/ef0b7ea12a9eb50ad4cd1a650fce0c90554b8c24cb69030c9f247de004678179.7z,35141ae1facb21b577d237464f610946898a948f,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Immortal.7z,358d268417f45a34d37cd2c86a53e168dfe85a6a,VU#28
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/PCOptimizerPro.7z,35c5f29c621eea8ffb73e1d6258a40b552b94376,VU#844
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#22
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#42
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#99
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#87
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#99
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#42
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.007,35f33648c9b092bf7b9fb6794f5592ba61fe808b,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,Exploit/22ee7b8104599b47313195598ffc34aafd6a6552dcce0e7b3232ced3a90ac9a4.7z,3603ea2f28bf6356be0896300a8e14660d7baf7c,VU#37
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#48
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#79
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#48
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.004,3762f85d2832af74f5ffedeabeba7678292b7f89,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.001,3979c545a4768b9de9d03c6ef736a69d85b4fbf3,VU#51
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/Clutt4.5 Builder.7z,399fefc5c4e1a452f442f3894330e13a7d7df964,VU#00
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Mechanic 2015.7z,3a3872095bd0841fb4b48065f9f6ceae7c18f0b2,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Mechanic 2015.7z,3a3872095bd0841fb4b48065f9f6ceae7c18f0b2,VU#33
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/gif.7z,3afb319189ce38251e844a958b59f425e09fb115,VU#37
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Mechanic 2015.7z,3a3872095bd0841fb4b48065f9f6ceae7c18f0b2,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/gif.7z,3afb319189ce38251e844a958b59f425e09fb115,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/gif.7z,3afb319189ce38251e844a958b59f425e09fb115,VU#72
-917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/End of Israel.7z,3b2920ed3a86ce6de4919171d10c32b30dfa57f6,VU#38
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/gif.7z,3afb319189ce38251e844a958b59f425e09fb115,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/End of Israel.7z,3b2920ed3a86ce6de4919171d10c32b30dfa57f6,VU#17
+917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/End of Israel.7z,3b2920ed3a86ce6de4919171d10c32b30dfa57f6,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trick or Treat Screen Locker.7z,3be952bf8afb1315a8779a0a300675bae1c91f24,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.003,3c06b978228a1764cd9c9aea3aee8062adb7ee34,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.003,3c06b978228a1764cd9c9aea3aee8062adb7ee34,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.003,3c06b978228a1764cd9c9aea3aee8062adb7ee34,VU#36
-917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/spysnipesetupinstaller.7z,3cf666df26d2004f517b1bac3392a6fbb5a2fb23,VU#86
-917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/spysnipesetupinstaller.7z,3cf666df26d2004f517b1bac3392a6fbb5a2fb23,VU#07
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/spysnipesetupinstaller.7z,3cf666df26d2004f517b1bac3392a6fbb5a2fb23,VU#73
+917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/spysnipesetupinstaller.7z,3cf666df26d2004f517b1bac3392a6fbb5a2fb23,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/spysnipesetupinstaller.7z,3cf666df26d2004f517b1bac3392a6fbb5a2fb23,VU#86
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#29
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#98
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#81
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#39
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#98
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/SysHalter.7z,3d3dbea11c4983d9e09a0a5b0049df49a9f7a0d9,VU#523
 917728385,FelloBoiYuuka/ToxicDatabase,Exploit/0b1b37d85a27819a8b4b9d7691e55dfc93311f7d5159433d1ac09854fcb13510.7z,3f0cec6bdab86be1bcf9107e97f1519d94e43c27,VU#32
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.003,4017aef6f47bd1d14a165f9139aa8c0227651ce5,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.003,4017aef6f47bd1d14a165f9139aa8c0227651ce5,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.003,4017aef6f47bd1d14a165f9139aa8c0227651ce5,VU#55
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.003,4017aef6f47bd1d14a165f9139aa8c0227651ce5,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Bytefence.7z,40d3992234ec2e765848900ebfe848ba42a4ea42,VU#95
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Ferrum.7z,41fd2735b10e56b4a2faef88ad09660b068917b1,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Globe.exe,422f7495d41b9cf1df0a36caea57ee54e1180414,VU#44
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/WinMagician.7z,433c3caf29a73da477708634092d5cf987f5880b,VU#83
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#86
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#42
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#71
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#96
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#99
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#79
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#68
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#53
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#64
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#99
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#26
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#19
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#86
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#88
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#71
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#26
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NoSleep/NoSleep/NoSleep_windows.resx,44b2d7e367526d2005a96b5530cf0cbb68ac0efb,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/torch-browser_60.0.7z,44fce1bf47c202c4e25cc086858708336c9cd88e,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/VC_redist.x86.exe,467bb2c862def52f2858e5158c96f7ac6d6dcab2,VU#98
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/SaturnR.7z,46a20e21a6807d826239d692b6581cc9caa04c14,VU#42
@@ -278,32 +279,33 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.003,4753e67e020ceffc80a3b47803b58df54be9996f,VU#10
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.003,4753e67e020ceffc80a3b47803b58df54be9996f,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/jpg.7z,47d47f9514a5e78cf911f89cd2864ea4bf64a456,VU#51
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.001,482fe374c3a40139e4c8bc4373866923e68152c5,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.001,482fe374c3a40139e4c8bc4373866923e68152c5,VU#00
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.001,482fe374c3a40139e4c8bc4373866923e68152c5,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.001,482fe374c3a40139e4c8bc4373866923e68152c5,VU#46
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.001,482fe374c3a40139e4c8bc4373866923e68152c5,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/d1e82d4a37959a9e6b661e31b8c8c6d2813c93ac92508a2771b2491b04ea2485.7z,4ada8dadd6ab4b5d748b0a96997b6fbfb2f0c354,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Vbucks_Gen.7z,4b2c9b180bb8689e800017ffa7d250ac7b577ea9,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Vbucks_Gen.7z,4b2c9b180bb8689e800017ffa7d250ac7b577ea9,VU#29
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Torrents/viruses-2010-05-18.tar.bz2-34ebe49a48aa532deb9c0dd08a08a017aa04d810.torrent,4dcb5be9d8115e762bef512fa17cc780d22c83c4,VU#90
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.002,4eee11fcf89a352e7a33f0f5c5f3f26547845e1c,VU#47
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.002,4eee11fcf89a352e7a33f0f5c5f3f26547845e1c,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.002,4eee11fcf89a352e7a33f0f5c5f3f26547845e1c,VU#20
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.002,4eee11fcf89a352e7a33f0f5c5f3f26547845e1c,VU#47
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/WindowsXPHorror/WindowsXPHorrorEdition.7z.002,4eee11fcf89a352e7a33f0f5c5f3f26547845e1c,VU#71
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/newyear_trojan_2022.7z,4fc39c7e2602ea625bf4337bbc0940523d90cbf5,VU#02
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Tune Up.7z,500148c8131845ce17abe02ce810051aee495493,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Tune Up.7z,500148c8131845ce17abe02ce810051aee495493,VU#33
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC Tune Up.7z,500148c8131845ce17abe02ce810051aee495493,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/McAfee Web Advisor/WebAdvisorInstaller.7z.001,506b21d270ea65283dd5edc2b57c336179e0bdb0,VU#62
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/personalize.7z,50a37b06902c57ea88945180fb2a178143f6b96b,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/UltraOptimizerSetup.7z,51205eaa80bc8a2caa573ca58608974295cc3850,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,Exploit/9114dc1c44f6a1b7d63ca95e04541d833c49a3e65a717471042bd0ec19a3eb99.7z,51a0050dc66056981f3cb291a03f9b1929552953,VU#09
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power Clean Pro 2019.7z,52cce5844db2e93368adc8beefdab1d52be516b6,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/FreeVPN.7z,535f784508eb2ce601dcab49905751ae601d2a74,VU#40
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.002,54e37a3faa15cd36312aa54a3a7b2c51a145db32,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.002,54e37a3faa15cd36312aa54a3a7b2c51a145db32,VU#73
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.002,54e37a3faa15cd36312aa54a3a7b2c51a145db32,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.002,54e37a3faa15cd36312aa54a3a7b2c51a145db32,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/jpeg/jpeg.7z.001,56a23ac559aad8007986b837018271d2229cae7b,VU#89
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/jpeg/jpeg.7z.001,56a23ac559aad8007986b837018271d2229cae7b,VU#88
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/45.exe,570533ae7713e0d86a7ac5d8a3ca219e9cb3e316,VU#43
 917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/2b4975c433f2576f6469c022b4cead23b4816e5bc7767db2ed726ba5ccf408a1.7z,57559295b5d1473573e8f7b117bca186b1139856,VU#09
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Psycho.Destructive.7z,58b2312fbb3f502d96a49a928dd2773dd899e7fa,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Psycho.Destructive.7z,58b2312fbb3f502d96a49a928dd2773dd899e7fa,VU#15
@@ -315,10 +317,10 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.002,5c5d7eeb33b4c836cc7315b586cb478895076d90,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/LMAO/LMAO.7z.002,5c5d7eeb33b4c836cc7315b586cb478895076d90,VU#209
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Charity Engine.7z,5d513e9a37457982d9ae7ad6a8fabbbad8fb7b6a,VU#51
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/MessengerTime/MessengerTime.7z.001,5dd59fe77528545ccde691ba2874a0efdd2d50c9,VU#83
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/MessengerTime/MessengerTime.7z.001,5dd59fe77528545ccde691ba2874a0efdd2d50c9,VU#71
-917728385,FelloBoiYuuka/ToxicDatabase,Tools/MBR - Image Builder.7z,5e45a9e064684387afee91786effd2d17ffecb8e,VU#74
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/MessengerTime/MessengerTime.7z.001,5dd59fe77528545ccde691ba2874a0efdd2d50c9,VU#83
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/MBR - Image Builder.7z,5e45a9e064684387afee91786effd2d17ffecb8e,VU#04
+917728385,FelloBoiYuuka/ToxicDatabase,Tools/MBR - Image Builder.7z,5e45a9e064684387afee91786effd2d17ffecb8e,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ScreamBunny.7z,5e909905fd23092e753b1af847d96ad10db67e30,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ScreamBunny.7z,5e909905fd23092e753b1af847d96ad10db67e30,VU#29
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ScreamBunny.7z,5e909905fd23092e753b1af847d96ad10db67e30,VU#73
@@ -328,12 +330,12 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Android/com_junglecraft_survivalcraft_blocksgame_v1.0.7z,602af559ac05abf5a1add7d99cfb378b8b36617e,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OutByte PC Repair/outbyte-pc-repair.7z.002,60f6f6f94058ed6e76ac00f512f660ba57f84e86,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OutByte PC Repair/outbyte-pc-repair.7z.002,60f6f6f94058ed6e76ac00f512f660ba57f84e86,VU#23
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/mpq.7z,611f674f0c4d25d83ab3a97c48b0dd9a5a9c8f1b,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/mpq.7z,611f674f0c4d25d83ab3a97c48b0dd9a5a9c8f1b,VU#43
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/mpq.7z,611f674f0c4d25d83ab3a97c48b0dd9a5a9c8f1b,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/stuxnet-main/Win32.Stuxnet/Exploit.Win32.CVE-2010-2568.gen/stuxnet(ops123!).bin,614713d6c847c7642f6e5b4ada49d4709d90143b,CVE-2010-2568
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Runner source code/Runner/Runner.cpp,62bfa59f73eea3c14e3e50a245f3f590a56fa185,VU#45
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.001,632090fedfceaf59e94904d524d82b478ec97f09,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.001,632090fedfceaf59e94904d524d82b478ec97f09,VU#16
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.001,632090fedfceaf59e94904d524d82b478ec97f09,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mac_Cleaner.7z,639b03b658bc44f46a0ae46af086ed6c0c403c39,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Hijackers/Vonteera Toolbar.7z,64aac652a2a8402214d4ce7ef07acb7c29fe4dd0,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Websites/Fake Microsoft Support.7z,65b4e4e0bdf5d5bffd1edf36515611c14ea39ae6,VU#44
@@ -342,9 +344,9 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power Speedup 2018.7z,68085e7cba906aa5bd41d2d01f6a16397986c262,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/tif_GDIOnly.7z,6abd2de09d262bbac0f29937d59a11ab6bc0130a,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy2.0.7z,6b389159213de9073e247570504cd7fafe5564d7,VU#55
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy2.0.7z,6b389159213de9073e247570504cd7fafe5564d7,VU#62
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy2.0.7z,6b389159213de9073e247570504cd7fafe5564d7,VU#78
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy2.0.7z,6b389159213de9073e247570504cd7fafe5564d7,VU#21
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Busy2.0.7z,6b389159213de9073e247570504cd7fafe5564d7,VU#62
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Nice Computer You Got There.7z,6b94945cded68dd28343c03a5e4210aa8b712389,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/wintonic.7z,6beef588aa88c21ca19111170c4e6e614cb934bb,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.001,6bef8df2ac6cc927d8884b0a7c71dbdf76a88f66,VU#95
@@ -354,26 +356,26 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/LogonFuck.7z,6cef17da8faffe135a448bebf200524b732a7921,VU#80
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#01
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#81
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#91
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#39
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Vinesauce's Worst Nightmare/BonziBuddy/BonziBuddy432.7z.001,6d049c75735061d54ba2567c33dd00b4f0b6b0d9,VU#81
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/RegFuck.7z,6d0ae537fe83f5202b42de042a357b27dfedc122,VU#13
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BetterMEMZ.7z,6e448905e6cc0bdc7f641c3ef438328a7ae85bc7,VU#94
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/ikun.7z.001,6e8e2f673d946c6757acf9485b6b12ce380593b3,VU#73
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/ikun.7z.001,6e8e2f673d946c6757acf9485b6b12ce380593b3,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/ikun.7z.001,6e8e2f673d946c6757acf9485b6b12ce380593b3,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/mo3.7z,6ea2ee3e9c55111936f6db9e502f3a145ae62973,VU#68
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/SplashScreen1.resx,6ee877ec3821af2b4b43b58c79bba7fccef47f66,VU#696
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/SplashScreen1.resx,6ee877ec3821af2b4b43b58c79bba7fccef47f66,VU#14
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/SplashScreen1.resx,6ee877ec3821af2b4b43b58c79bba7fccef47f66,VU#696
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/bootlocker.7z,6ef01ae45ca527091ae90062c0871756e9a89c63,VU#83
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/49108802e4f7e58552107e9e38089566b819a582f42293a903674aceb053d6c1.7z,710b25361a5bff646dffe65a514accf09e39e95a,VU#701
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/TeslaBrowser.7z,716cf36909d82e36d3e4819881db0ad5a00c2476,VU#55
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Caseoh.Virus.7z,71aa09a9695c9a99d9866f1fc10e97dcbdab0ec7,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Caseoh.Virus.7z,71aa09a9695c9a99d9866f1fc10e97dcbdab0ec7,VU#84
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Caseoh.Virus.7z,71aa09a9695c9a99d9866f1fc10e97dcbdab0ec7,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Caseoh.Virus.7z,71aa09a9695c9a99d9866f1fc10e97dcbdab0ec7,VU#22
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.003,722f2bd750ae67b451efe7fdf1aee24e43b22b2f,VU#75
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Caseoh.Virus.7z,71aa09a9695c9a99d9866f1fc10e97dcbdab0ec7,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.003,722f2bd750ae67b451efe7fdf1aee24e43b22b2f,VU#45
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.003,722f2bd750ae67b451efe7fdf1aee24e43b22b2f,VU#75
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Rocket Browser/Rocket Browser.7z.002,72b4620566035913f342490b54d7ff74b343b424,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Dr. Wolf Internet Security APK.7z,7371f440988fd1a0b020f6aba282471fe5fc6e16,VU#94
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Dr. Wolf Internet Security APK.7z,7371f440988fd1a0b020f6aba282471fe5fc6e16,VU#89
@@ -381,12 +383,12 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/SuperPCCleaner.7z,73a9af5e2900b10c8d35ad9843b0c1f4611dc827,VU#95
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.002,743f3c0b5377e62ca985fd9f78ea272c050c8b3d,VU#27
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.002,743f3c0b5377e62ca985fd9f78ea272c050c8b3d,VU#92
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#02
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#69
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#89
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#93
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#02
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#77
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/TweakBit PCRepairKit + Crack.7z,7483063c1e86083f2f308dfcf8112fb22178200d,VU#89
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/Blocked-v1.0.7z,74923938a9f77125ceb4fb39dc95009691a5d744,VU#97
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Downloadly.7z,74a05291351a55dfbdc19174d84d44724c3b2236,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.RedEye.7z,74e5974bdc5aa088be11f5fd27650c8e981f9ba1,VU#53
@@ -404,58 +406,60 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/AVs/HydraDragonAntivirus.exe,78152d3fd259430ae59c6a1fed1b36619435f92b,VU#133
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/AVs/HydraDragonAntivirus.exe,78152d3fd259430ae59c6a1fed1b36619435f92b,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/winnit6.6.6_V6.7z,78ab03a2a5b6172101b5bedc1fd8c28ea2174a30,VU#80
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.003,7a33d2e6469204ff33ddc1b435ff01cb4dce5eb6,VU#63
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.003,7a33d2e6469204ff33ddc1b435ff01cb4dce5eb6,VU#90
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/corpsero.exe/corpsero.7z.002,7a0887a8bf5f80ac4e906ee9b10df1cb492aae0d,VU#96
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/corpsero.exe/corpsero.7z.002,7a0887a8bf5f80ac4e906ee9b10df1cb492aae0d,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.003,7a33d2e6469204ff33ddc1b435ff01cb4dce5eb6,VU#60
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Discord Mod.7z,7a858304cb2f612b21353f5d39240fb00d6a4fbd,VU#04
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Discord Mod.7z,7a858304cb2f612b21353f5d39240fb00d6a4fbd,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.003,7a33d2e6469204ff33ddc1b435ff01cb4dce5eb6,VU#90
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.003,7a33d2e6469204ff33ddc1b435ff01cb4dce5eb6,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Discord Mod.7z,7a858304cb2f612b21353f5d39240fb00d6a4fbd,VU#77
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#12
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Discord Mod.7z,7a858304cb2f612b21353f5d39240fb00d6a4fbd,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Discord Mod.7z,7a858304cb2f612b21353f5d39240fb00d6a4fbd,VU#04
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#37
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#28
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/outbyte-driver-updater.7z,7b096a0aa09783cf73d3eb37181704f07746fb01,VU#12
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.002,7c092ae274116a72e8a6fab9aaa55ce3af01d8a6,VU#70
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.002,7c092ae274116a72e8a6fab9aaa55ce3af01d8a6,VU#10
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.002,7c092ae274116a72e8a6fab9aaa55ce3af01d8a6,VU#91
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.002,7c092ae274116a72e8a6fab9aaa55ce3af01d8a6,VU#18
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v3/Standoff 2 Setup.7z.002,7c092ae274116a72e8a6fab9aaa55ce3af01d8a6,VU#70
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#91
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#61
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#46
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#91
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.002,7c29e26384a83075f57258e8b0446f90772f03d6,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ë.7z,7c41478ad16723ab47d289cea403660af110b8e7,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/RegUse.7z,7c8468a199ac21e6e9d5e04b0637598027f4a01d,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/RegUse.7z,7c8468a199ac21e6e9d5e04b0637598027f4a01d,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,MacOS/iBoostUp.7z,7cb2b38267d1c98fce2b1d3c975727bab8b18346,VU#00
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.003,7d4b218dcd4bf4eb31b2cf8fa9756786993608fc,VU#18
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.003,7d4b218dcd4bf4eb31b2cf8fa9756786993608fc,VU#01
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.003,7d4b218dcd4bf4eb31b2cf8fa9756786993608fc,VU#18
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/virii-master/virii-master.7z,7e8c9128bd4e3b6a687b04c6be95dc54bfbd25b6,VU#47
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#85
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#31
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/HorrorBob/Trojan.HorrorBob.7z.001,7f4af41b97f6cb378e44516ae0fbd2665602faa8,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Runner source code/Runner.sdf,81041481dea575d9e54f82055e7bb456e6428b81,VU#45
-917728385,FelloBoiYuuka/ToxicDatabase,Tools/UnamDownloader.7z,81c5510d4739e820254d4f0d4c4445c184bd9f09,VU#97
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/UnamDownloader.7z,81c5510d4739e820254d4f0d4c4445c184bd9f09,VU#98
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/UnamDownloader.7z,81c5510d4739e820254d4f0d4c4445c184bd9f09,VU#23
+917728385,FelloBoiYuuka/ToxicDatabase,Tools/UnamDownloader.7z,81c5510d4739e820254d4f0d4c4445c184bd9f09,VU#97
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Narcosis_Remade/Narcosis_Remade.7z.001,81d7c7ca5e76ad9d316719c32dccfb032b8750f6,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Narcosis_Remade/Narcosis_Remade.7z.001,81d7c7ca5e76ad9d316719c32dccfb032b8750f6,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.003,82d602d0d76b824a9119f3dff47f9eea285bc175,VU#58
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.003,82d602d0d76b824a9119f3dff47f9eea285bc175,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.003,82d602d0d76b824a9119f3dff47f9eea285bc175,VU#42
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.003,82d602d0d76b824a9119f3dff47f9eea285bc175,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Akick_PC_Optimizer.7z,82e831f2c7e74582408aeffcc42591dc8d0305a0,VU#88
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/WindowsPolicePro.7z,84ef65db7059eb0df37b458f6d876832bfec3dd9,VU#39
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#90
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#84
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/Form1.resx,850bbfae2511cdf8aad36a051a4e0ec0fdc3f241,VU#90
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Mustang Browser/Mustang Browser.7z.001,85b460a4eb93452d02250c9b4c0354430431a9da,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Holzery.7z,85c6c5eff77ef2f341d8114d927b2d1ef0cead17,VU#65
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Webdiscover/WebDiscover-4.52.2.7z.001,865b6cf6e4ef6f4c0a2310219b54687302208f74,VU#91
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Webdiscover/WebDiscover-4.52.2.7z.001,865b6cf6e4ef6f4c0a2310219b54687302208f74,VU#41
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Webdiscover/WebDiscover-4.52.2.7z.001,865b6cf6e4ef6f4c0a2310219b54687302208f74,VU#91
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Hno3.7z,8682b6ef642a851393da051ce008b013d80946dd,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/mash_full_setup.exe,86a667801cc4c08c52ecb916ed6c1cfe227e1e5c,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/mash_full_setup.exe,86a667801cc4c08c52ecb916ed6c1cfe227e1e5c,VU#42
@@ -464,71 +468,71 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Mailbox AUTTP Locker.7z,8751a626fb2dc008bc7df8272044b25fc6106b1e,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.001,8bc492ab83791ce74a44ab271d2d72ce81380e8f,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.001,8bc492ab83791ce74a44ab271d2d72ce81380e8f,VU#18
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form3.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form3.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form2.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#039
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form2.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#32
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form2.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#865
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form3.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form3.resx,8c2d3c79d3381676ec1bda52cf046df1d0336ea0,VU#865
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/JavaWare.7z,8c59253db85a5a3a6d15ddc746707facc7d16a8b,VU#43
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MLG.7z,8ca58e696d3c8051ea1e2dff51eba27b5c38d55b,VU#23
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/AdStRkJ.7z,8d112bb35d54b3c9676008281ef8223f535d60c7,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/AdStRkJ.7z,8d112bb35d54b3c9676008281ef8223f535d60c7,VU#35
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/CK1.7z,8d2ab5915b7c2bb07a9fbe11a0cb141ae72785ec,VU#59
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/AdStRkJ.7z,8d112bb35d54b3c9676008281ef8223f535d60c7,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/CK1.7z,8d2ab5915b7c2bb07a9fbe11a0cb141ae72785ec,VU#20
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/CK1.7z,8d2ab5915b7c2bb07a9fbe11a0cb141ae72785ec,VU#59
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/CK1.7z,8d2ab5915b7c2bb07a9fbe11a0cb141ae72785ec,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/SystemDriller.7z,8d4417665685fdc369b3e5d735ee1e3e4f0d7fad,VU#93
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/bmp.7z,8df0cfbfbae8176fa38a92459338ae69a3b7c917,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/bmp.7z,8df0cfbfbae8176fa38a92459338ae69a3b7c917,VU#29
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/bmp.7z,8df0cfbfbae8176fa38a92459338ae69a3b7c917,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/bmp.7z,8df0cfbfbae8176fa38a92459338ae69a3b7c917,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Hijackers/EliteUnzip.7z,8e68f59fc368a429adef522011d4bd0ed504def6,VU#76
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/YeahBit PC Speedup.7z,8e854388d4a344e9ee4e3036ea4a9e0bcb6a1c6d,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Putin.7z,916608a688072535f7b2e56da49cc367a4e1f882,VU#78
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.002,9188f6a453e672eced00a0fceb0715696e4e4036,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.002,9188f6a453e672eced00a0fceb0715696e4e4036,VU#43
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.002,9188f6a453e672eced00a0fceb0715696e4e4036,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.002,9188f6a453e672eced00a0fceb0715696e4e4036,VU#38
-917728385,FelloBoiYuuka/ToxicDatabase,Virus/HawkTuah!.7z,91a0be4f49d7f77b9d36908c87f97b4ba904bcab,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Virus/HawkTuah!.7z,91a0be4f49d7f77b9d36908c87f97b4ba904bcab,VU#37
-917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.RickRoll.7z,9266ef5d4488fa90866a9221f8081a9974ec144f,VU#37
+917728385,FelloBoiYuuka/ToxicDatabase,Virus/HawkTuah!.7z,91a0be4f49d7f77b9d36908c87f97b4ba904bcab,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.RickRoll.7z,9266ef5d4488fa90866a9221f8081a9974ec144f,VU#97
+917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.RickRoll.7z,9266ef5d4488fa90866a9221f8081a9974ec144f,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.002,92e036166fc515d21215814b236e4a498173d17f,VU#17
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Popcorn v4.7z,93bd8fb6658ae88dbb028bf282a2891f873aa371,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MrBeastJoke.7z,93e7303e2dbeeb5a13acab644b4a2261db958e90,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/MrBeastJoke.7z,93e7303e2dbeeb5a13acab644b4a2261db958e90,VU#15
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.001,94efcca09ec0238ff5b125f4d53e35b1fd3db11f,VU#942
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.001,94efcca09ec0238ff5b125f4d53e35b1fd3db11f,VU#05
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.001,94efcca09ec0238ff5b125f4d53e35b1fd3db11f,VU#942
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.Ebola.7z,9649331599c894efc60b2e99e37798aca984c15d,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RJL.7z,975b884e4d64e85f0108cc32c6b18c1d3ab9c711,VU#20
 917728385,FelloBoiYuuka/ToxicDatabase,Enderware/Endermanch@Ana.7z,9843e7b6125b15ad2abca620324ad8d842898d7f,VU#21
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.004,984471614af663773fd462221dd11d9e392950a1,VU#07
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.001,98588d69c8ac636192f63da3b67de8603cf4fb40,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.001,98588d69c8ac636192f63da3b67de8603cf4fb40,VU#62
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form1.resx,98845a70b3460a272bccb4b250c8774caf6b2418,VU#039
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form1.resx,98845a70b3460a272bccb4b250c8774caf6b2418,VU#865
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form1.resx,98845a70b3460a272bccb4b250c8774caf6b2418,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form1.resx,98845a70b3460a272bccb4b250c8774caf6b2418,VU#32
-917728385,FelloBoiYuuka/ToxicDatabase,Websites/Maple Website archived.7z,98ad2dcb8b53e0b89b9df6c90f18c567239c814d,VU#565
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/RectylescOS11/RectylescOS11/Form1.resx,98845a70b3460a272bccb4b250c8774caf6b2418,VU#039
 917728385,FelloBoiYuuka/ToxicDatabase,Websites/Maple Website archived.7z,98ad2dcb8b53e0b89b9df6c90f18c567239c814d,VU#89
+917728385,FelloBoiYuuka/ToxicDatabase,Websites/Maple Website archived.7z,98ad2dcb8b53e0b89b9df6c90f18c567239c814d,VU#565
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.001,98ccd7f396d1bf58bfac8c35a98a851aadfe9bd7,VU#54
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#69
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#00
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#5592
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#519
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#222
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#5592
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#69
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#45
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/WormLocker2.0/WormLocker2.0/Form1.resx,996cf27319d4c5b84a200898854e7c806e5f8f24,VU#00
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#77
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#92
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#89
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/Install Windows20.7z,99e38f76961593e8e697b898948bbc2c17da7782,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/FakeWinRAR.7z,9a8729632252ae79ec3eba474db1ceacc65969e7,VU#87
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.002,9aa43683bacb7bd73d706932754faa7d84162fb8,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.002,9aa43683bacb7bd73d706932754faa7d84162fb8,VU#31
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BonziKill/BonziKill.7z.002,9aa43683bacb7bd73d706932754faa7d84162fb8,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Runner source code/Release/Runner.pdb,9b8f543245e306bd5077a6f7dabfb5e7873de152,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,FEllo-Ware/クラック.7z,9cc19f1658493ed35af36a2214fc52a3a0dd518e,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#85
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#04
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#74
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#97
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#04
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#57
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/Doxbin Desktop Client/DoxbinUnofficialClientSetup.7z.002,9d4c4bee650429cc5a11af9a56e24153f768eeca,VU#85
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/TeslaCrypt.7z,9e235d944acf8e42a22b1ded9936ffb1734da386,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/AVG Browser.7z,9e2886b4283e2ed944695760b9c65e969a0e7e1c,VU#14
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Cracks.7z,a0f4414a296a20a094acc93eb646588a4bbe7d17,VU#16
@@ -540,115 +544,121 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/McAfee Web Advisor/WebAdvisorInstaller.7z.002,a316fab24025037d163fbcc1bb07052c2863c969,VU#30
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/nightmare.7z,a336ae74d7158a6eef42231f8c86970d4eda558a,VU#24
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/chatzum.7z,a383c5f86739eb504ab659780919bf6dc31b552c,VU#62
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/obj/Debug/bmp.Properties.Resources.resources,a386b312d37d56cf9fdc7d34e6ecb45f09cd03ce,VU#38
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/obj/Release/bmp.Properties.Resources.resources,a386b312d37d56cf9fdc7d34e6ecb45f09cd03ce,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/AgentTesla.7z,a4dff75d69ec3e8b16b86a94bae30c895efbaa90,VU#65
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#40
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#57
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#380
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#02
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#40
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/TheEchoOfFear (Special Edition).7z,a6f69e345227330ff8912be6be312c4f213630ce,VU#380
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.001,a71bf348fe5de9dab1ee083dedb9a27d080c951a,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.001,a71bf348fe5de9dab1ee083dedb9a27d080c951a,VU#93
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Pet.7z,a7fa001d38b6140d73f8dd671da52006d2f128bd,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Pet.7z,a7fa001d38b6140d73f8dd671da52006d2f128bd,VU#36
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#80
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#22
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#36
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#56
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#802
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Murderer.7z,a84ed4be59bb8c3e310b98a8dec33a190bb3c5da,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Advanced System Repair.7z,a9da6a7ecebf09183491c7dc7e6b70312d5f3685,VU#89
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Advanced System Repair.7z,a9da6a7ecebf09183491c7dc7e6b70312d5f3685,VU#21
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.002,aa935ed576d8b8dfeb7e6016aa60717bca8cbf16,VU#85
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.002,aa935ed576d8b8dfeb7e6016aa60717bca8cbf16,VU#141
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.002,aa935ed576d8b8dfeb7e6016aa60717bca8cbf16,VU#95
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.002,aa935ed576d8b8dfeb7e6016aa60717bca8cbf16,VU#141
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/WinSpeedup2018.7z,aacff5aae5c158f1fe76c4a2945c8629036eee71,VU#18
-917728385,FelloBoiYuuka/ToxicDatabase,RAT/5fb29fb0136978b9ccf60750af09cec74a257a0ca9c47159ca74dbba21fbcc59.7z,aaea19cf4cc7dd9590c4c75a68c53d56bf1ad47a,VU#08
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/5fb29fb0136978b9ccf60750af09cec74a257a0ca9c47159ca74dbba21fbcc59.7z,aaea19cf4cc7dd9590c4c75a68c53d56bf1ad47a,VU#57
+917728385,FelloBoiYuuka/ToxicDatabase,RAT/5fb29fb0136978b9ccf60750af09cec74a257a0ca9c47159ca74dbba21fbcc59.7z,aaea19cf4cc7dd9590c4c75a68c53d56bf1ad47a,VU#08
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/NotepaadSpam.7z,ab3f86eb4f3d4b3954d565a0d97c8f345f596ff7,VU#16
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/NotepaadSpam.7z,ab3f86eb4f3d4b3954d565a0d97c8f345f596ff7,VU#47
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Windows Update.7z,abe405bc1286c0dab561df6ed894e20bbb7ae502,VU#40
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Chrone Browser Setup.7z,ac828f81ae4d8eb42d6557e061f1dde5e1b718d8,VU#11
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.001,ad393ed3e5489f3fedd9e9bcb73043d137cd286b,VU#29
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.001,ad393ed3e5489f3fedd9e9bcb73043d137cd286b,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.001,ad393ed3e5489f3fedd9e9bcb73043d137cd286b,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.001,ad393ed3e5489f3fedd9e9bcb73043d137cd286b,VU#71
-917728385,FelloBoiYuuka/ToxicDatabase,RAT/30c150419000d27dafcd5d00702411b2b23b0f5d7e4d0cc729a7d63b2e460a01.7z,adaa704da77ca4474877c850aff880ec160172f9,VU#848
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.001,ad393ed3e5489f3fedd9e9bcb73043d137cd286b,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/30c150419000d27dafcd5d00702411b2b23b0f5d7e4d0cc729a7d63b2e460a01.7z,adaa704da77ca4474877c850aff880ec160172f9,VU#87
+917728385,FelloBoiYuuka/ToxicDatabase,RAT/30c150419000d27dafcd5d00702411b2b23b0f5d7e4d0cc729a7d63b2e460a01.7z,adaa704da77ca4474877c850aff880ec160172f9,VU#848
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/open_me/open_me.7z.001,ae55ce7a3f7f0cf17fdc6ef798ce1ccfaba9c2f3,VU#31
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#77
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#98
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#48
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#20
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.004,ae866b96535e4b1bbd21fd438b1d4781c271886b,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#98
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#77
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/AnCo250S/AnCo250S.7z.003,ae66c56cc05801de0065af43da5a4e1451a17336,VU#48
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.004,ae866b96535e4b1bbd21fd438b1d4781c271886b,VU#14
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.004,ae866b96535e4b1bbd21fd438b1d4781c271886b,VU#33
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.004,ae866b96535e4b1bbd21fd438b1d4781c271886b,VU#24
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.004,ae866b96535e4b1bbd21fd438b1d4781c271886b,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.002,aeac9fe9887a581c566f0135efa9649be016b069,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v1/Standoff 2 Setup For PC.7z.002,aeac9fe9887a581c566f0135efa9649be016b069,VU#89
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/g00nerm4lw4re.7z,b0d7d433dc41106208e92a5a193a34b7f382389d,VU#92
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/g00nerm4lw4re.7z,b0d7d433dc41106208e92a5a193a34b7f382389d,VU#32
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/g00nerm4lw4re.7z,b0d7d433dc41106208e92a5a193a34b7f382389d,VU#92
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/453468b86856665f2cc0e0e71668c0b6aac8b14326c623995ba5963f22257619.7z,b0ee83698306ea9cfd47e8b454ac28816adbe848,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,Android/22988cbb286f387036ced6fca6bb72b9f5e326706ad99065bc04bb8cb5dc4a12.7z,b10950dd476fbca2149f92abcc05384678369515,VU#16
 917728385,FelloBoiYuuka/ToxicDatabase,Android/22988cbb286f387036ced6fca6bb72b9f5e326706ad99065bc04bb8cb5dc4a12.7z,b10950dd476fbca2149f92abcc05384678369515,VU#28
+917728385,FelloBoiYuuka/ToxicDatabase,Android/22988cbb286f387036ced6fca6bb72b9f5e326706ad99065bc04bb8cb5dc4a12.7z,b10950dd476fbca2149f92abcc05384678369515,VU#16
 917728385,FelloBoiYuuka/ToxicDatabase,Android/22988cbb286f387036ced6fca6bb72b9f5e326706ad99065bc04bb8cb5dc4a12.7z,b10950dd476fbca2149f92abcc05384678369515,VU#76
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_PC_Cleaner_D.7z,b11a35dfb85365712a0e966fb350a6e2c30bfef6,VU#10
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_PC_Cleaner_D.7z,b11a35dfb85365712a0e966fb350a6e2c30bfef6,VU#01
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/OneSafe_PC_Cleaner_D.7z,b11a35dfb85365712a0e966fb350a6e2c30bfef6,VU#10
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/wifi-hacker-pro_setup.7z,b18216316b9f744786495c1314c80117ca85e491,VU#85
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Narcosis_Remade/Narcosis_Remade.7z.002,b2e7c318a7970d82de674727087bf06c69080c71,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Narcosis_Remade/Narcosis_Remade.7z.002,b2e7c318a7970d82de674727087bf06c69080c71,VU#34
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Narcosis_Remade/Narcosis_Remade.7z.002,b2e7c318a7970d82de674727087bf06c69080c71,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Kovshik/Kovshik free antiVirus 2.0 Setup.7z.004,b3051f42ffaa8dafa630a626ebe72023a4043140,VU#15
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/BestXSoftware Free Keylogger v8.0.1 Cracked Offline Setup.7z,b321375e26ea2a23064a82dd948c36ce76e293e7,VU#70
 917728385,FelloBoiYuuka/ToxicDatabase,Exploit/03e903602037420acf4d1bc5084923c59385c5594f3a2de6fcf320bd4746d6c7.7z,b371db507c489000c528ca9cfce8ec56c448b732,VU#50
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#40
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#15
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#55
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Womr Locker2.0(Open Source)/wormlogon/wormlogon/Form1.resx,b55ed25c6690a1e3d69f5c9e245d5a7216ed4f27,VU#15
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/TheMalwareDev/photentic.7z,b5c9904ce36236733a47f97f506e826f6e15e596,VU#28
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nebula.7z,b5f325c59d2c2629ace3765570b09e60298c3bf8,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nebula.7z,b5f325c59d2c2629ace3765570b09e60298c3bf8,VU#43
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nebula.7z,b5f325c59d2c2629ace3765570b09e60298c3bf8,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Nebula.7z,b5f325c59d2c2629ace3765570b09e60298c3bf8,VU#00
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#58
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#42
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#42
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#04
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#58
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Killer Clown/Killer Clown.7z.001,b610efff68430841f6e4265c713026a6e5786433,VU#28
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.001,b64d0dabe0e2adc13821f732641eabeac27d1170,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.001,b64d0dabe0e2adc13821f732641eabeac27d1170,VU#11
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.001,b64d0dabe0e2adc13821f732641eabeac27d1170,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.001,b64d0dabe0e2adc13821f732641eabeac27d1170,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/BLauncher/BLauncher.7z.001,b64d0dabe0e2adc13821f732641eabeac27d1170,VU#44
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/source/mover.exe,b6a87a32d80f6edf889e99fb47518e69435321ed,VU#49
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Zero-Fucks.7z,b6be6ca204b8d38aa4a0673450ee34e0def5f6ed,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Zero-Fucks.7z,b6be6ca204b8d38aa4a0673450ee34e0def5f6ed,VU#39
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/maxthon-setup.7z,b7ecf29edb4ac2b4ac391fb4a508009c97142d50,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/maxthon-setup.7z,b7ecf29edb4ac2b4ac391fb4a508009c97142d50,VU#00
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/maxthon-setup.7z,b7ecf29edb4ac2b4ac391fb4a508009c97142d50,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Trojan.Ransom.MBRLock.7z,b80ad4becdb49329146f3a3c79cf1cc4408ef29f,VU#15
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#96
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#84
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#90
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/NotScaryFile.7z,b9a5deb2b922d582c62dc323c4de2ff6e057d56e,VU#24
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#96
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Ketako-main/src/Ketako/LoginForm1.resx,b940de44a12367228402cf8399eea8c7afb9a136,VU#84
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/NotScaryFile.7z,b9a5deb2b922d582c62dc323c4de2ff6e057d56e,VU#91
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/VC_redist.x64.exe,ba92a00f0f55dcae85c1bbd098efe606bd080b3c,VU#77
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/NotScaryFile.7z,b9a5deb2b922d582c62dc323c4de2ff6e057d56e,VU#24
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/VC_redist.x64.exe,ba92a00f0f55dcae85c1bbd098efe606bd080b3c,VU#98
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/VC_redist.x64.exe,ba92a00f0f55dcae85c1bbd098efe606bd080b3c,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.002,bb89e6f551576d95592856446d25ebbe70315baf,VU#23
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.003,bb8cf115fa2afa28ca3bd158599a93749e25a03a,VU#71
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.003,bb8cf115fa2afa28ca3bd158599a93749e25a03a,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.003,bb8cf115fa2afa28ca3bd158599a93749e25a03a,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.003,bb8cf115fa2afa28ca3bd158599a93749e25a03a,VU#71
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/Monowide.7z,bbaaac182e166ea3bef5bc4ea8f35c4a2c45776a,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/Monowide.7z,bbaaac182e166ea3bef5bc4ea8f35c4a2c45776a,VU#15
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FedouM/Monowide.7z,bbaaac182e166ea3bef5bc4ea8f35c4a2c45776a,VU#50
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/LockedIn.7z,bbf2c5a963854e74322874625b0416e051d7ba48,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/AVs/eset_smart_security_premium_live_installer.exe,bc792221e22bc14b2af79eda41139a164aeb2917,VU#12
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#60
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#75
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#66
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#54
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/RICK-ROLL/RICK-ROLL.7z.002,bc945c7a98581139c32e4c68e47cd80c850ce310,VU#75
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#63
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#54
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#73
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.002,bcc61a04bb135dc951ba867741c1701333a74a86,VU#18
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.001,bd56c94cff8f2f5d2ec65daa89c67e5ede3d6521,VU#38
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.001,bd56c94cff8f2f5d2ec65daa89c67e5ede3d6521,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.001,bd56c94cff8f2f5d2ec65daa89c67e5ede3d6521,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.001,bd56c94cff8f2f5d2ec65daa89c67e5ede3d6521,VU#96
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Doc.7z,bd831a9276e508d545de383568601f6a385f8bc1,VU#25
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Doc.7z,bd831a9276e508d545de383568601f6a385f8bc1,VU#81
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.001,bd56c94cff8f2f5d2ec65daa89c67e5ede3d6521,VU#32
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Doc.7z,bd831a9276e508d545de383568601f6a385f8bc1,VU#56
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Doc.7z,bd831a9276e508d545de383568601f6a385f8bc1,VU#81
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Driver Doc.7z,bd831a9276e508d545de383568601f6a385f8bc1,VU#25
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/No-Escape-SOURCE--main/No Escape/Release/vc_redist.x86.exe,bfb74e498c44d3a103ca3aa2831763fb417134d1,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/BuilderDiamondFox.d.7z,c084564acae6fa4026269f8ed72e1f324d4729f8,VU#17
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/BuilderDiamondFox.d.7z,c084564acae6fa4026269f8ed72e1f324d4729f8,VU#873
@@ -658,203 +668,204 @@ repo_id,repo_full_name,file,file_sha1,match
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Runner source code/Runner/Release/Runner.obj,c555a44a76cbd6061e93ac4f39d7853486508209,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Auto Speed-Up 2018.7z,c5f16a9919ffae328a3b03910e4a8d0061726ad3,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/WannaCrypt0r.7z,c7540b914a669a42645e5b95893989dea4709b90,VU#79
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#479
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#01
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#86
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#14
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#660
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#86
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#01
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Filefy/Filefy.7z.005,c7c3d6de6461f56aa96520d369324fbc61d5eef5,VU#479
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Catto.7z,c7d9510659d45df0242116e225557123ad459e2a,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.003,c7f13808bf9a11a2e1b55e2bdb219c88a6f5fe43,VU#87
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.003,c89ef41bd6819e00106742d02ad487a0008ecd75,VU#18
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.003,c89ef41bd6819e00106742d02ad487a0008ecd75,VU#95
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.003,c89ef41bd6819e00106742d02ad487a0008ecd75,VU#04
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#93
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.003,c89ef41bd6819e00106742d02ad487a0008ecd75,VU#18
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#94
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#93
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#89
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Free YT Downloader/Free YouTube Downloader.7z.001,c9aa4958b6f953e9ccec325385e14385936371f1,VU#39
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power PC Care 2018.7z,c9d5f48e8932de28335f08582ab94b807678634c,VU#48
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/VineMEMZ/VineMEMZ.7z.001,c9e04c77e1621833a532e6a0163ba89c8274f023,VU#11
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/@_.7z,cad673f859982becae1c56925c5704d1dc1bcebf,VU#34
 917728385,FelloBoiYuuka/ToxicDatabase,Websites/Smug's old website.7z,cb77287512a08806f03db7aa024a6913fa886151,VU#53
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/103b8404dc64c9a44511675981a09fd01395ee837452d114f1350c295357c046.7z,cbb63d82f501ec9a8a8a0886dd975a92e5bfe8cb,VU#51
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Phobos2.0.7z,cbbaa241b4b999f9917627f28cc32d7b044e29e0,VU#47
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/pid8.7z,cbe03d64e34f5e56c9a18ea949d3e7cb0fd921ab,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/pid8.7z,cbe03d64e34f5e56c9a18ea949d3e7cb0fd921ab,VU#82
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/pid8.7z,cbe03d64e34f5e56c9a18ea949d3e7cb0fd921ab,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.002,cc35339d2976737f85782d3c4b7927fe4aa5fb7c,VU#20
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.002,cc35339d2976737f85782d3c4b7927fe4aa5fb7c,VU#78
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.002,cc35339d2976737f85782d3c4b7927fe4aa5fb7c,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.002,cc35339d2976737f85782d3c4b7927fe4aa5fb7c,VU#18
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/FakeMalware/FakeMalware.7z.002,cc35339d2976737f85782d3c4b7927fe4aa5fb7c,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/10Optimizer.7z,cd73c5e3ed17c8a5517208eca19c3c5f21e262d1,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/ImgBurn FusionCore.7z,cd9f1aa9ffbd9600b090bf0e78d9714348ea4393,VU#208
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/6fe6808b9cfe654f526108ec61cb5211bb6601d28e192cadf06102073b54f69c.7z,cfbbfdc3964b34c7bc9f9e4984bf0d4fa79a5cd3,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#76
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#351
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#13
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#95
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#71
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#34
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#49
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#30
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#66
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#71
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#63
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#13
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#351
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#02
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#30
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#49
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoronaEXE/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#19
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#95
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#66
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#76
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#39
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/Corona.exe-main/CoroRecord/Form1.resx,cff2cc0d2a2e4767fb9d607bbff99a845124e10f,VU#19
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.006,d13199f0caf613bac079aa7214a684da0fdb6aa6,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Konata Dancer.7z,d13ed9292740cc73a5faea584dd7e4850efe1c82,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Konata Dancer.7z,d13ed9292740cc73a5faea584dd7e4850efe1c82,VU#84
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Konata Dancer.7z,d13ed9292740cc73a5faea584dd7e4850efe1c82,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Konata Dancer.7z,d13ed9292740cc73a5faea584dd7e4850efe1c82,VU#53
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.003,d168afad970901380e693eef919229faf9dca33a,VU#19
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.003,d168afad970901380e693eef919229faf9dca33a,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.003,d168afad970901380e693eef919229faf9dca33a,VU#80
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.003,d168afad970901380e693eef919229faf9dca33a,VU#79
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/NO2/NO27z.7z.003,d168afad970901380e693eef919229faf9dca33a,VU#19
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Vichingo455MEMZ.7z,d19a7fc185dd53127677f4b5d545b604050f577f,VU#92
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/SOCIAL CREDIT TEST.7z,d1b847724fcafa249df413ed4af0114c9b8d8ca7,VU#37
+917728385,FelloBoiYuuka/ToxicDatabase,RAT/Azorult.7z,d258ca2f90d29e035c01774dd95c926e55562005,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/Azorult.7z,d258ca2f90d29e035c01774dd95c926e55562005,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/Azorult.7z,d258ca2f90d29e035c01774dd95c926e55562005,VU#58
-917728385,FelloBoiYuuka/ToxicDatabase,RAT/Azorult.7z,d258ca2f90d29e035c01774dd95c926e55562005,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Mega.MEMZ/Mega.MEMZ.7z.002,d348fa7b275e5d6e883f6a29363c0d56bb7a3ec0,VU#66
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Windows Sandboxie Updater.7z,d3f9a45e805c5a1bcce592a8789d217135f77764,VU#07
+917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#63
+917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#47
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#49
-917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#47
-917728385,FelloBoiYuuka/ToxicDatabase,Tools/Carberp Builder.7z,d4d4ea7b786ae9557277c9dabdfa24279ec1ab2f,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Open Candy Examples.7z,d58979fc267e1d33bc9af7dd4d6d15292cd8f71b,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Ronik Virus Premium.7z,d5a93d1e9162f730a349e14612ab92c20d1df008,VU#91
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Ronik Virus Premium.7z,d5a93d1e9162f730a349e14612ab92c20d1df008,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Ronik Virus Premium.7z,d5a93d1e9162f730a349e14612ab92c20d1df008,VU#54
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Ronik Virus Premium.7z,d5a93d1e9162f730a349e14612ab92c20d1df008,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/AVs/MBSetup.exe,d624a57038639d6578871cee2ff2a383d7282486,VU#555
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/ERROR 408/ERROR 408.7z.004,d65f06f41d3a4d21b6911875f97b858a12e20c71,VU#40
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/test.7z,d68428359c9d72dbc7e64ea47988e9cc5d5e65f0,VU#79
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Scorpion Virus V1.0.7z,d8ae66f5228acc61e4178e8f403c624eb656f4aa,VU#05
-917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Scorpion Virus V1.0.7z,d8ae66f5228acc61e4178e8f403c624eb656f4aa,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Scorpion Virus V1.0.7z,d8ae66f5228acc61e4178e8f403c624eb656f4aa,VU#34
+917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Scorpion Virus V1.0.7z,d8ae66f5228acc61e4178e8f403c624eb656f4aa,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Bonziware.7z,d925874ce0f0bf2acc8f7ea1fca0cb1559d4fd57,VU#34
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power System Care.7z,d93eb3615da2e689734dcf279befa3d14c7363a4,VU#31
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/Luminosity Builder.7z,d984eb574e83d8b207c53d9bf7fcf218ca0e808d,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.007,d99d57b9413121231317ff659ab19b902ecba061,VU#65
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.007,d99d57b9413121231317ff659ab19b902ecba061,VU#75
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/OMG/OMG.7z.007,d99d57b9413121231317ff659ab19b902ecba061,VU#99
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#58
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#760
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#47
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#36
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#66
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#64
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#58
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#760
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#09
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#40
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#47
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/bmp.exe-sourcecode-main/bmp/bmp/Form1.resx,d9a7c002daf756de5b487e3803bace6a0d9395c1,VU#64
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/Maze.7z,d9abbd1045f72bca8e356d576f90ae3598666fd1,VU#49
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Hijackers/Good Search IE.7z,d9e7ccd4607a9f51bd1887a1b11b547d4d823cda,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Hijackers/Good Search IE.7z,d9e7ccd4607a9f51bd1887a1b11b547d4d823cda,VU#82
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Hijackers/Good Search IE.7z,d9e7ccd4607a9f51bd1887a1b11b547d4d823cda,VU#72
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/MediaGet_id3321492ids1s.7z,da339963d9c4985530a23c9de6b699f624360f72,VU#91
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/DrSpeedyPC.7z,da672546bbb93f120470046b42d12e81057bc5c0,VU#45
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Info_Update.7z,daf45676a1e1baec7e8fa24deca96849f64ec17e,VU#51
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.001,db013eb6be959189229088e7c708c19b15e0fd40,VU#60
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.001,db013eb6be959189229088e7c708c19b15e0fd40,VU#41
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.001,db013eb6be959189229088e7c708c19b15e0fd40,VU#76
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#56
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.001,db013eb6be959189229088e7c708c19b15e0fd40,VU#60
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#24
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#02
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#529
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#24
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#87
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#92
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#637
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#447
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#39
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ROTANOTEDKSID/ROTANOTEDKSID.7z.001,db8daac2d8a999e405e91ed36fe93716a6bb3738,VU#56
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#22
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#60
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#59
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#75
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#38
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#43
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#64
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#77
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#13
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#26
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#78
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#69
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#790
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#3057
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#81
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#46
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#2258
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#447
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#26
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#92
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#3057
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#78
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#52
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#39
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#75
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#59
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#790
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#46
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#38
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#79
-917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power Cleaner 2018.7z,dbdab675b815138179b8562d84e577d3ff187f70,VU#04
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#64
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#81
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#637
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#85
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#13
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#69
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#60
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#43
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/version1/version1/Form1.resx,dbc6bf8dc1f8c2f95102c97583e678d5ddf887f2,VU#87
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power Cleaner 2018.7z,dbdab675b815138179b8562d84e577d3ff187f70,VU#16
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#68
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#26
+917728385,FelloBoiYuuka/ToxicDatabase,Adware/Power Cleaner 2018.7z,dbdab675b815138179b8562d84e577d3ff187f70,VU#04
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#62
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#58
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/PolishSoup.7z,dce278182bed2d585d7284f57f7b29b80d40ff7d,VU#68
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Ask Toolbar.7z,dcea54a6f921c9879a44348cc7bc912291b91c2b,VU#77
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/xxx.7z,de617e8764ebf550dc27c208564d2f2cf721d676,VU#30
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#73
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#17
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#23
+917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/corpsero.exe/corpsero.7z.001,de802bdc977db2f85e1480038e6dd0a27741bcd7,VU#12
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#94
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#571
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#63
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#13
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#73
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#23
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/ProtoKill/ProtoKill.7z.003,dec2275ac35015183d52e8d1c852bbf118abb79f,VU#17
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#26
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#34
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#13
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#571
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Standoff 2/v2/Standoff 2 Setup for PC (v2).7z.001,e035daa1a64ec96b39bf4d00f2392e7e1c8aa6cb,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/44c9f61a76cbc2469e02a2a9ec4cdc1fbca50a4cfa9dcf6b636ec23d91e8a8c9.7z,e2ce4d8291b621cd12a80443928b54faaed6415b,VU#35
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/Solaris_2.7z,e329bfc8a656917b586443068838500f982849f9,VU#54
 917728385,FelloBoiYuuka/ToxicDatabase,BadJoke/PC Destroyer.7z,e38ff0e496af8af8f48189c41c97c1cf75e94891,VU#74
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/AOL_Netscape.7z,e593e239d601c14b4a6d857db6be687ee8dca46b,VU#777
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/H2so4/H2so4.7z.002,e5dc97fb1d32bcaa2db474bdf7d7c825a6ebf2cd,VU#46
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/VineMEMZ/VineMEMZ.7z.002,e66b10a0b4e3ba314e2f488657e07c2b4566dd7e,VU#21
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/VineMEMZ/VineMEMZ.7z.002,e66b10a0b4e3ba314e2f488657e07c2b4566dd7e,VU#53
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/VineMEMZ/VineMEMZ.7z.002,e66b10a0b4e3ba314e2f488657e07c2b4566dd7e,VU#21
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/LAndy@Clean.7z,e71f6d9828a1dc8ba46e6927131545250e13f6b8,VU#73
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/LAndy@Clean.7z,e71f6d9828a1dc8ba46e6927131545250e13f6b8,VU#08
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/24x7help.7z,e8e1174205389f55d8cc6559f7be4c4f56993355,VU#75
-917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.001,e942f8cf3bf2747b368e4906fb681c94a94ce78c,VU#99
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.001,e942f8cf3bf2747b368e4906fb681c94a94ce78c,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.001,e942f8cf3bf2747b368e4906fb681c94a94ce78c,VU#65
+917728385,FelloBoiYuuka/ToxicDatabase,Skidded/Solaris2.0/Solaris 2.0.7z.001,e942f8cf3bf2747b368e4906fb681c94a94ce78c,VU#99
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/gif_GDIOnly.7z,ea209f454a6ff54ea5ca548233ac25de91768d76,VU#96
 917728385,FelloBoiYuuka/ToxicDatabase,RogueAV/Antivirus 360.7z,ea21e5a520e43ffbd8789bd71fc9870e99093eed,VU#00
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/NotepaadSpam-main/NotepaadSpam/Form1.resx,ebce38c4d38bada03ea0fd0b1dbe359aa7fd65fc,VU#09
-917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.001,ebde0759c74cbf49401aea5e29ec7f4dee9549e6,VU#05
 917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.001,ebde0759c74cbf49401aea5e29ec7f4dee9549e6,VU#69
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,VU#568148
-917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,MS03-026
+917728385,FelloBoiYuuka/ToxicDatabase,Misc/NET 3.5 Offline Installer/Net Framework 3.5 Offline Installer Win_10 V1.1.7z.001,ebde0759c74cbf49401aea5e29ec7f4dee9549e6,VU#05
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,CVE-2003-0352
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,MS03-026
 917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,BID-8205
+917728385,FelloBoiYuuka/ToxicDatabase,Source codes/blaster.c.txt,ecd647ed3f0d71d92e767af35e4f3347c26b1f41,VU#568148
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/MoonR.7z,ee78825afe95360fa8ec789c61ae1fa0fb12ef33,VU#03
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/MoonR.7z,ee78825afe95360fa8ec789c61ae1fa0fb12ef33,VU#82
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Snake/Snake.7z.001,ee7d4bdabb2199b37364a2853b9ad0b592584cbf,VU#24
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/One Updater.7z,f101c2fc52aaeb4c198b65f39b210131c1278b99,VU#76
-917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#02
-917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#32
-917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#36
+917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#02
+917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#50
+917728385,FelloBoiYuuka/ToxicDatabase,Rootkit/bf909c34e676e9da0004e6fe8ed640380cc9b658d4d4e5e30f29fa16fadf8102.7z,f15cc39e27ed916d21150f48eb5c909085ff85bc,VU#32
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/Cubaris/Cubaris.7z.001,f22baad6c10d5632b9ceef5deac55b690a0c906d,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Cubaris/Cubaris.7z.001,f22baad6c10d5632b9ceef5deac55b690a0c906d,VU#67
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/Cubaris/Cubaris.7z.001,f22baad6c10d5632b9ceef5deac55b690a0c906d,VU#72
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/Cubaris/Cubaris.7z.001,f22baad6c10d5632b9ceef5deac55b690a0c906d,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Skidded/VineMEMSUS.7z,f307428e5f257ed778af92c65f6f36aedd6995c3,VU#84
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#86
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#80
-917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#32
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#86
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#01
 917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#69
+917728385,FelloBoiYuuka/ToxicDatabase,Trojan/Crazy Error 10.7z,f4706c74e9ad7a7fd304af64d1ebbfcd0cb469b9,VU#55
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/PC TuneUp Maestro.7z,f492940b5afc104d3e92852148807f07c2d32710,VU#48
 917728385,FelloBoiYuuka/ToxicDatabase,Ransomware/WannaKey.7z,f578aad43e646e186c8f7ebad915169f49b52ace,VU#57
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/Maltoolkit4.2.7z,f6d53bccb6fd1cc12767dc760a8b8d832ab58340,VU#63
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/MFTW7.7z,f7349113fb52a13a665fb8779ac41b6ebb917e0e,VU#22
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/gjnvlcxv.7z,f92bd491d20cf4a5eac6c923f37d87b838bcbf73,VU#88
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#81
-917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#450
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#51
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#450
+917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#81
 917728385,FelloBoiYuuka/ToxicDatabase,H Gang/2022/Gocullinator/Gocullinator.7z.005,fa17ea54a41e2e27d618d584cd03568fc98452ab,VU#90
-917728385,FelloBoiYuuka/ToxicDatabase,Tools/VMAntiKill.7z,fa5e90959572b9ec6cd886bcad032d62447d3a78,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,Tools/VMAntiKill.7z,fa5e90959572b9ec6cd886bcad032d62447d3a78,VU#47
+917728385,FelloBoiYuuka/ToxicDatabase,Tools/VMAntiKill.7z,fa5e90959572b9ec6cd886bcad032d62447d3a78,VU#37
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/brainrot.7z,fabe6230a3b9396119a8d56cc82ec0ab50db0348,VU#67
-917728385,FelloBoiYuuka/ToxicDatabase,GDI/brainrot.7z,fabe6230a3b9396119a8d56cc82ec0ab50db0348,VU#362
 917728385,FelloBoiYuuka/ToxicDatabase,GDI/brainrot.7z,fabe6230a3b9396119a8d56cc82ec0ab50db0348,VU#148
+917728385,FelloBoiYuuka/ToxicDatabase,GDI/brainrot.7z,fabe6230a3b9396119a8d56cc82ec0ab50db0348,VU#362
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/ByteFence Secure Browsing.7z,fb1fb12f779a259578b3bc8a4312310ba1ca6d49,VU#34
 917728385,FelloBoiYuuka/ToxicDatabase,Adware/Super Speedup 2018.7z,fd1346cd8dc56daa12b627d9316865d307874df8,VU#20
 917728385,FelloBoiYuuka/ToxicDatabase,RAT/985ffee662969825146d1b465d068ea4f5f01990d13827511415fd497cf9db86.7z,ff0d067b424eccedd2212ea237068c1792f96a8c,VU#43
