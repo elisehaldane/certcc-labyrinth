@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+929066063,moften/cve_2019_20372,cve_2019_20372.py,9b44db76b025ecb70af3004a2ccb94d0f27a9e6b,CVE-2019-20372
+929066063,moften/cve_2019_20372,_GITHUB_REPO_METADATA_,,CVE-2019-20372
