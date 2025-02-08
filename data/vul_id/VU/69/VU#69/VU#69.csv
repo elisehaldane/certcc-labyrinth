@@ -172,6 +172,7 @@ VU#69,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwer
 VU#69,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#69,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
 VU#69,0.04761905,https://github.com/cipher1234/Exploits,cipher1234/Exploits,223697169
+VU#69,0.04347826,https://github.com/emmwilson/exploits_watershed_shiny,emmwilson/exploits_watershed_shiny,929055442
 VU#69,0.04347826,https://github.com/MdRimon18/rcelleNgApp,MdRimon18/rcelleNgApp,749138197
 VU#69,0.04347826,https://github.com/xchg2pwn/ExploitDevelopment,xchg2pwn/ExploitDevelopment,498429759
 VU#69,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
@@ -369,7 +370,6 @@ VU#69,0.01063830,https://github.com/EllianCampos/RCE,EllianCampos/RCE,704702536
 VU#69,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#69,0.01052632,https://github.com/nicolopenzo/exploiting_graph_topology_for_node_classification,nicolopenzo/exploiting_graph_topology_for_node_classification,458585213
 VU#69,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
-VU#69,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#69,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#69,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#69,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
@@ -419,6 +419,7 @@ VU#69,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#69,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#69,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#69,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
+VU#69,0.00719424,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#69,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#69,0.00714286,https://github.com/haysamqq/Metasploitable3,haysamqq/Metasploitable3,838702418
 VU#69,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113

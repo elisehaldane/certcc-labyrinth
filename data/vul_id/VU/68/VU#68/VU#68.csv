@@ -17,6 +17,7 @@ VU#68,0.33333333,https://github.com/nathanverdier/SecuMeltdown,nathanverdier/Sec
 VU#68,0.33333333,https://github.com/tonykcmarsh/KC-Exploits-New,tonykcmarsh/KC-Exploits-New,561147179
 VU#68,0.33333333,https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking,Jee-King/ICCV2021_Event_Frame_Tracking,391794327
 VU#68,0.33333333,https://github.com/WLYLab/ATSE,WLYLab/ATSE,378865608
+VU#68,0.25000000,https://github.com/KraytonExecutor/Krayton-Executor,KraytonExecutor/Krayton-Executor,929170468
 VU#68,0.25000000,https://github.com/meoawjidevfz/Flexer,meoawjidevfz/Flexer,864076815
 VU#68,0.25000000,https://github.com/evidg/Web-Programming-and-Systems,evidg/Web-Programming-and-Systems,692706284
 VU#68,0.20000000,https://github.com/no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,no1se2/no1seAndroRAT---Android-Remote-Administration-Tool-RAT,695364479
@@ -125,6 +126,7 @@ VU#68,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prot
 VU#68,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
 VU#68,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#68,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
+VU#68,0.04347826,https://github.com/emmwilson/exploits_watershed_shiny,emmwilson/exploits_watershed_shiny,929055442
 VU#68,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#68,0.04166667,https://github.com/szyfra22/BabySploit,szyfra22/BabySploit,418838699
 VU#68,0.04166667,https://github.com/Jinmo/ctfs,Jinmo/ctfs,68125231
@@ -278,7 +280,6 @@ VU#68,0.01052632,https://github.com/stefanpejcic/wordpress-malware,stefanpejcic/
 VU#68,0.01041667,https://github.com/k8gege/k8gege.github.io,k8gege/k8gege.github.io,184059352
 VU#68,0.01030928,https://github.com/jlkkljh/exploit,jlkkljh/exploit,902891843
 VU#68,0.01030928,https://github.com/merlinepedra25/ANDROID-EXPLOITS,merlinepedra25/ANDROID-EXPLOITS,504548303
-VU#68,0.01020408,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#68,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#68,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#68,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
@@ -323,6 +324,7 @@ VU#68,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
 VU#68,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#68,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#68,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
+VU#68,0.00719424,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
 VU#68,0.00719424,https://github.com/sumon296/Metasploit-3,sumon296/Metasploit-3,514365432
 VU#68,0.00714286,https://github.com/haysamqq/Metasploitable3,haysamqq/Metasploitable3,838702418
 VU#68,0.00714286,https://github.com/Jackbling/metasploitable3,Jackbling/metasploitable3,816266113
