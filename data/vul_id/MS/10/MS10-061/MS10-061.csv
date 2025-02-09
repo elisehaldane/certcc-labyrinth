@@ -27,10 +27,10 @@ MS10-061,0.12500000,https://github.com/N1ckDunn/Exploitivator,N1ckDunn/Exploitiv
 MS10-061,0.12500000,https://github.com/dar3k93/Service-Enumeration,dar3k93/Service-Enumeration,179030030
 MS10-061,0.12500000,https://github.com/cyberjatin/mynotes,cyberjatin/mynotes,175623182
 MS10-061,0.12500000,https://github.com/henryzhi/ana_vul,henryzhi/ana_vul,28576498
-MS10-061,0.11111111,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS10-061,0.11111111,https://github.com/SayedAbdo-99/Automation-Pentration-Testing,SayedAbdo-99/Automation-Pentration-Testing,495962786
 MS10-061,0.11111111,https://github.com/gsmith257-cyber/EV1L-J3ST3R,gsmith257-cyber/EV1L-J3ST3R,482387896
 MS10-061,0.10000000,https://github.com/messaouddhia/penetration-testing-home-lab,messaouddhia/penetration-testing-home-lab,853580659
+MS10-061,0.10000000,https://github.com/tomwechsler/Ethical_Hacking_and_Penetration_Testing,tomwechsler/Ethical_Hacking_and_Penetration_Testing,828148745
 MS10-061,0.10000000,https://github.com/L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,L270/-storage-emulated-0-Download-metasploit-framework-6.0.28-20210124112447_1rapid7-1.el6.x86_64.rpm,338316702
 MS10-061,0.10000000,https://github.com/ajes-xfr-team/bin-exploits,ajes-xfr-team/bin-exploits,307359751
 MS10-061,0.10000000,https://github.com/mrcakil/ToolsBox-Exploiter,mrcakil/ToolsBox-Exploiter,124238551
@@ -127,7 +127,7 @@ MS10-061,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa228
 MS10-061,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 MS10-061,0.00653595,https://github.com/SpartansHackTeam/Findsploit,SpartansHackTeam/Findsploit,254320029
 MS10-061,0.00653595,https://github.com/RegaBilisim/Findsploit,RegaBilisim/Findsploit,254292484
-MS10-061,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+MS10-061,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 MS10-061,0.00641026,https://github.com/limitedeternity/HackTheBox,limitedeternity/HackTheBox,304432619
 MS10-061,0.00636943,https://github.com/prakashar11/extended-sec-posture-management,prakashar11/extended-sec-posture-management,568636927
 MS10-061,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
@@ -415,7 +415,7 @@ MS10-061,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS10-061,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS10-061,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS10-061,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS10-061,0.00000787,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-061,0.00000785,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-061,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-061,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS10-061,0.00000377,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

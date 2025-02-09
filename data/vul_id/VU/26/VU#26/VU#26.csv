@@ -80,6 +80,8 @@ VU#26,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#26,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#26,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
 VU#26,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
+VU#26,0.06666667,https://github.com/Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,929613226
+VU#26,0.06666667,https://github.com/eclipsedev1337/RootSec,eclipsedev1337/RootSec,929186732
 VU#26,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
 VU#26,0.06250000,https://github.com/mahmood-mahmood/Exploitary_Data_Analysis,mahmood-mahmood/Exploitary_Data_Analysis,898296667
 VU#26,0.06250000,https://github.com/ericyoc/prob_vuln_assess_space_iot_sys_poc,ericyoc/prob_vuln_assess_space_iot_sys_poc,847002448
@@ -384,7 +386,7 @@ VU#26,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#26,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#26,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#26,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#26,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#26,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#26,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#26,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#26,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
@@ -502,7 +504,7 @@ VU#26,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#26,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#26,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#26,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#26,0.00031686,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#26,0.00031646,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#26,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#26,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#26,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

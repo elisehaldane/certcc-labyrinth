@@ -127,6 +127,7 @@ MS10-002,0.00068729,https://github.com/linpengstc/exploit-tool,linpengstc/exploi
 MS10-002,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS10-002,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS10-002,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
+MS10-002,0.00054585,https://github.com/ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,838423437
 MS10-002,0.00034483,https://github.com/xntrik/metasploit-framework,xntrik/metasploit-framework,9259665
 MS10-002,0.00033841,https://github.com/stucco/exogenous-data-ms,stucco/exogenous-data-ms,17487190
 MS10-002,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
@@ -316,7 +317,7 @@ MS10-002,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS10-002,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS10-002,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS10-002,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS10-002,0.00000787,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-002,0.00000785,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-002,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-002,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS10-002,0.00000377,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

@@ -66,6 +66,7 @@ VU#42,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,4472
 VU#42,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
 VU#42,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#42,0.07142857,https://github.com/zv800/Vector-main-Repository,zv800/Vector-main-Repository,483768490
+VU#42,0.06666667,https://github.com/eclipsedev1337/RootSec,eclipsedev1337/RootSec,929186732
 VU#42,0.06666667,https://github.com/hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,770745685
 VU#42,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
 VU#42,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
@@ -329,7 +330,7 @@ VU#42,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,
 VU#42,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#42,0.00653595,https://github.com/Satheesh575555/Openssl_1_1_0_CVE-2021-23841,Satheesh575555/Openssl_1_1_0_CVE-2021-23841,521602618
 VU#42,0.00653595,https://github.com/Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,Trinadh465/external_boringssl_openssl_1.1.0g_CVE-2021-23841,486927382
-VU#42,0.00649351,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
+VU#42,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#42,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#42,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#42,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
