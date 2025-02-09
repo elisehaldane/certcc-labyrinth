@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+929706770,Kuna1ma/rcenon,phpmailer/PHPMailer.php,46223a0afa48a086db61641e6568dc610c45bd83,CVE-2016-10033
+929706770,Kuna1ma/rcenon,phpmailer/PHPMailer.php,46223a0afa48a086db61641e6568dc610c45bd83,CVE-2016-10045
+929706770,Kuna1ma/rcenon,phpmailer/PHPMailer.php,46223a0afa48a086db61641e6568dc610c45bd83,CVE-2021-3603
