@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+924588063,miangaly-rafiri/EDBB,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#33
+924588063,miangaly-rafiri/EDBB,node_modules/aws-ssl-profiles/lib/profiles/ca/proxies.js,0eb1cd464698939f8bc39cbd923ffef9a733e688,VU#84
+924588063,miangaly-rafiri/EDBB,node_modules/express/History.md,3c031c7067148a072dab43d5a6755df1a1301d99,CVE-2024-47764
+924588063,miangaly-rafiri/EDBB,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#243
+924588063,miangaly-rafiri/EDBB,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#48
+924588063,miangaly-rafiri/EDBB,node_modules/aws-ssl-profiles/lib/profiles/ca/defaults.js,e5ebcee761c807a9b1fef7201942a8883ea10505,VU#93
