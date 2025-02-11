@@ -19,7 +19,6 @@ VU#87,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459
 VU#87,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#87,0.33333333,https://github.com/MrR0b0t19/Easy-JTP,MrR0b0t19/Easy-JTP,921253827
 VU#87,0.33333333,https://github.com/Recon6/ReconSploit,Recon6/ReconSploit,834347543
-VU#87,0.33333333,https://github.com/papichulo16/ctf-stuff,papichulo16/ctf-stuff,812507931
 VU#87,0.33333333,https://github.com/Wizzuki/exploit.hack.me,Wizzuki/exploit.hack.me,771091038
 VU#87,0.33333333,https://github.com/iluaboltov/EnE,iluaboltov/EnE,726270547
 VU#87,0.33333333,https://github.com/WesleyWong420/Build-Your-Own-LOLBins,WesleyWong420/Build-Your-Own-LOLBins,575381299
@@ -27,6 +26,7 @@ VU#87,0.33333333,https://github.com/RonKilps/generateJenkinsExploit,RonKilps/gen
 VU#87,0.33333333,https://github.com/tmenochet/PowerDump,tmenochet/PowerDump,416900394
 VU#87,0.33333333,https://github.com/bitsadmin/wesng,bitsadmin/wesng,173464070
 VU#87,0.25000000,https://github.com/Itamar-Yochpaz/broadcast-receiver-exploitation-PoC,Itamar-Yochpaz/broadcast-receiver-exploitation-PoC,828995044
+VU#87,0.25000000,https://github.com/papichulo16/ctf-stuff,papichulo16/ctf-stuff,812507931
 VU#87,0.25000000,https://github.com/0xnull007/linux_kernel_exploitation,0xnull007/linux_kernel_exploitation,736738398
 VU#87,0.25000000,https://github.com/ryanshatch/CanvasHairCo-SecurityAssessment,ryanshatch/CanvasHairCo-SecurityAssessment,677474725
 VU#87,0.25000000,https://github.com/Kob123678/Edit-KoSploit-VIP,Kob123678/Edit-KoSploit-VIP,489266496
@@ -315,6 +315,7 @@ VU#87,0.00990099,https://github.com/chrees0/FiveM-External-Cheat-KeyAuth-System,
 VU#87,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,chres0/FiveM-External-Cheat-KeyAuth-System,779815298
 VU#87,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#87,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
+VU#87,0.00961538,https://github.com/jerryjerry9/RCE_monsoon,jerryjerry9/RCE_monsoon,930723649
 VU#87,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#87,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#87,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
@@ -551,7 +552,7 @@ VU#87,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#87,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#87,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#87,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#87,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00018440,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#87,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#87,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

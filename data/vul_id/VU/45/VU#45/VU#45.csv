@@ -76,6 +76,7 @@ VU#45,0.25000000,https://github.com/Ha0Liu/CVE-2022-22947,Ha0Liu/CVE-2022-22947,
 VU#45,0.25000000,https://github.com/tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway,466011549
 VU#45,0.25000000,https://github.com/0xalwayslucky/log4j-polkit-poc,0xalwayslucky/log4j-polkit-poc,452823928
 VU#45,0.25000000,https://github.com/ptef/CVE-2020-9273,ptef/CVE-2020-9273,310408864
+VU#45,0.20000000,https://github.com/solivaquaant/NT521-Secure-Programming-and-Software-Vulnerability-Exploitation-UIT,solivaquaant/NT521-Secure-Programming-and-Software-Vulnerability-Exploitation-UIT,930385112
 VU#45,0.20000000,https://github.com/UnsyncedMaster/FlameX-Atonix-1.0.X,UnsyncedMaster/FlameX-Atonix-1.0.X,916361233
 VU#45,0.20000000,https://github.com/plafonats27/metasploit-payloads,plafonats27/metasploit-payloads,844627294
 VU#45,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
@@ -138,6 +139,7 @@ VU#45,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minha
 VU#45,0.06250000,https://github.com/imaduddinharis/rce-audit,imaduddinharis/rce-audit,442370777
 VU#45,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
 VU#45,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
+VU#45,0.05882353,https://github.com/WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,930196286
 VU#45,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#45,0.05555556,https://github.com/RajeevThapa/AVDEF,RajeevThapa/AVDEF,886988270
 VU#45,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
@@ -210,6 +212,7 @@ VU#45,0.02777778,https://github.com/ltfafei/my_POC,ltfafei/my_POC,363188851
 VU#45,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#45,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
 VU#45,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
+VU#45,0.02631579,https://github.com/Jianshu-Hu/pvr-generalization,Jianshu-Hu/pvr-generalization,845838472
 VU#45,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#45,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#45,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
@@ -347,6 +350,7 @@ VU#45,0.00980392,https://github.com/824LegacY/RCeONeV8OY,824LegacY/RCeONeV8OY,90
 VU#45,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#45,0.00980392,https://github.com/bigblackhat/oFx,bigblackhat/oFx,373058588
 VU#45,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
+VU#45,0.00961538,https://github.com/jerryjerry9/RCE_monsoon,jerryjerry9/RCE_monsoon,930723649
 VU#45,0.00961538,https://github.com/farseem/ML-alzheimer-screening,farseem/ML-alzheimer-screening,925210877
 VU#45,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#45,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
@@ -578,7 +582,7 @@ VU#45,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#45,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#45,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#45,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#45,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#45,0.00018440,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#45,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#45,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#45,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

@@ -95,7 +95,6 @@ VU#21,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowba
 VU#21,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#21,0.08333333,https://github.com/Ramyasura/MediEthiCare,Ramyasura/MediEthiCare,782132288
 VU#21,0.08333333,https://github.com/Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,Liulab064/Dynamic-Relationship-Building-Exploitation-Versus-Exploration-on-A-Social-Network,696068877
-VU#21,0.08333333,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#21,0.08333333,https://github.com/Pastea/CVE-2017-1000486,Pastea/CVE-2017-1000486,393127180
 VU#21,0.08333333,https://github.com/pimps/CVE-2017-1000486,pimps/CVE-2017-1000486,147145369
 VU#21,0.08333333,https://github.com/zerosum0x0/defcon-25-workshop,zerosum0x0/defcon-25-workshop,97747585
@@ -106,6 +105,7 @@ VU#21,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploi
 VU#21,0.07142857,https://github.com/mirosh-kavinda/caheHunt_RNN,mirosh-kavinda/caheHunt_RNN,923134326
 VU#21,0.07142857,https://github.com/yeshuv216/RcentricUpdated,yeshuv216/RcentricUpdated,819232754
 VU#21,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
+VU#21,0.07142857,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#21,0.07142857,https://github.com/forrest-orr/WizardOpium,forrest-orr/WizardOpium,487891998
 VU#21,0.07142857,https://github.com/exploit-haxor/webshellll,exploit-haxor/webshellll,336156473
 VU#21,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
@@ -216,6 +216,7 @@ VU#21,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#21,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#21,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#21,0.02702703,https://github.com/Th3Tr1ckst3r/Everest,Th3Tr1ckst3r/Everest,403173403
+VU#21,0.02631579,https://github.com/Jianshu-Hu/pvr-generalization,Jianshu-Hu/pvr-generalization,845838472
 VU#21,0.02631579,https://github.com/AADILcrackstheweb/zeus,AADILcrackstheweb/zeus,752623178
 VU#21,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#21,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
@@ -667,7 +668,7 @@ VU#21,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#21,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#21,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#21,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#21,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00018440,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#21,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#21,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

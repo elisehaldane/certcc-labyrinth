@@ -67,7 +67,6 @@ VU#17,0.09090909,https://github.com/VukasinVulovic/exploits_and_viruses,VukasinV
 VU#17,0.08333333,https://github.com/Cristal32/AI-for-software-reuse,Cristal32/AI-for-software-reuse,879371895
 VU#17,0.08333333,https://github.com/dcheng69/CVE-2022-0185-Case-Study,dcheng69/CVE-2022-0185-Case-Study,786640173
 VU#17,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
-VU#17,0.08333333,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#17,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#17,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#17,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
@@ -85,6 +84,7 @@ VU#17,0.07142857,https://github.com/phannhat17/metasploit-web-interface,phannhat
 VU#17,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
 VU#17,0.07142857,https://github.com/IdanBanani/Chromium-Browser-exploitation,IdanBanani/Chromium-Browser-exploitation,696504643
 VU#17,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
+VU#17,0.07142857,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#17,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#17,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#17,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -174,6 +174,7 @@ VU#17,0.03125000,https://github.com/MahdiBayanloo/LLM-as-a-Judge,MahdiBayanloo/L
 VU#17,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
 VU#17,0.03125000,https://github.com/greek0x0/bufferoverflows,greek0x0/bufferoverflows,494241234
 VU#17,0.02941176,https://github.com/nobodyisnobody/write-ups,nobodyisnobody/write-ups,377403248
+VU#17,0.02857143,https://github.com/toffeenutt/CVE-2022-47522-exploit,toffeenutt/CVE-2022-47522-exploit,930163980
 VU#17,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#17,0.02857143,https://github.com/skulkarni-mv/hostapd_mirror,skulkarni-mv/hostapd_mirror,595001088
 VU#17,0.02857143,https://github.com/khalednassar/CVE-2020-27301-hostapd,khalednassar/CVE-2020-27301-hostapd,483337432
@@ -307,6 +308,7 @@ VU#17,0.00990099,https://github.com/chres0/FiveM-External-Cheat-KeyAuth-System,c
 VU#17,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#17,0.00980392,https://github.com/824LegacY/RCeONeV8OY,824LegacY/RCeONeV8OY,907235800
 VU#17,0.00970874,https://github.com/luckBegin/exploit-dicts,luckBegin/exploit-dicts,742879680
+VU#17,0.00961538,https://github.com/jerryjerry9/RCE_monsoon,jerryjerry9/RCE_monsoon,930723649
 VU#17,0.00961538,https://github.com/farseem/ML-alzheimer-screening,farseem/ML-alzheimer-screening,925210877
 VU#17,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#17,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
@@ -491,7 +493,7 @@ VU#17,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#17,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#17,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#17,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#17,0.00031626,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#17,0.00030931,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#17,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#17,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#17,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -530,6 +532,6 @@ VU#17,0.00018836,https://github.com/dzulqarnain28/metasploit-framework,dzulqarna
 VU#17,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploit,839537924
 VU#17,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#17,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#17,0.00018443,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00018440,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#17,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#17,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
