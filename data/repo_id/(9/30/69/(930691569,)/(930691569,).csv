@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+930691569,AlissonFaoli/Apache-OFBiz-Exploit,CVE-2024-38856.py,077b664c3eaa66c7ddafd3dc07d3f58c38f18f6e,CVE-2024-38856
+930691569,AlissonFaoli/Apache-OFBiz-Exploit,README.md,adf062844d85955a50d2307a769d862f22eda2f0,CVE-2024-38856
+930691569,AlissonFaoli/Apache-OFBiz-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-38856
