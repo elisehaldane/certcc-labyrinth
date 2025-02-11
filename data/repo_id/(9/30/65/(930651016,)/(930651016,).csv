@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#10
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#16
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#56
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#66
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#69
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#74
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#75
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#88
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#929
+930651016,GDuip/Chrome-exploits,Mask3r/index.html,0b32a2732a192480fb1f464834e6c469e728a78b,VU#93
+930651016,GDuip/Chrome-exploits,extprint3r/index.html,d392020df8521f0723f6328e6916b7e32e648e10,VU#78
