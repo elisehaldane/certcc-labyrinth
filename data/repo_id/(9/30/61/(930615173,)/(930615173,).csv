@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+930615173,doyensec/exploitable-IoT-solution,exploit.py,5939e3dd71f3a5cd7f7db6f800da3edbaa976a37,CVE-2021-44971
+930615173,doyensec/exploitable-IoT-solution,README.md,e6636e538a854fc56380b7df3e0bfc071c3aa811,CVE-2020-13393
+930615173,doyensec/exploitable-IoT-solution,README.md,e6636e538a854fc56380b7df3e0bfc071c3aa811,CVE-2021-44971
