@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-4H7X-6VXH-7HJF,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-GHSA-4H7X-6VXH-7HJF,0.00003816,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-4H7X-6VXH-7HJF,0.00003815,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-4H7X-6VXH-7HJF,0.00000785,https://github.com/trickest/cve,trickest/cve,454015416
