@@ -12,4 +12,6 @@ repo_id,repo_full_name,file,file_sha1,match
 623477795,terawhiz/kpwn,challenges/kuwu/pwn_kuwu.zip,9d1ed777969a62a8d95b2aa373e23d6e9961c0d0,VU#21
 623477795,terawhiz/kpwn,challenges/wall-rose/wall-rose.tgz,a10160050459354487c14f76f6bbd783d8d02c91,VU#17
 623477795,terawhiz/kpwn,challenges/wall-rose/wall-rose.tgz,a10160050459354487c14f76f6bbd783d8d02c91,VU#73
+623477795,terawhiz/kpwn,challenges/messenger/dist.tar.gz,c55d23f2e983d6f995a05013cc090fc0892998b9,VU#34
+623477795,terawhiz/kpwn,challenges/messenger/dist.tar.gz,c55d23f2e983d6f995a05013cc090fc0892998b9,VU#43
 623477795,terawhiz/kpwn,challenges/window-of-opportunity/bzImage,f73d829d4d1c52e6b6a21279eaa781108eb35c9d,VU#17
