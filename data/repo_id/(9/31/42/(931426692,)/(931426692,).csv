@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+931426692,ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux,README.md,a4d30e142e75b20c158d2cc63fca8ee588d7fed4,CVE-2021-43798
+931426692,ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux,CVE-2021-43798_exploit.py,c19d4f0fb1260e43806ab48a5944c9cdf2746c7c,CVE-2021-43798
+931426692,ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux,_GITHUB_REPO_METADATA_,,CVE-2021-43798
