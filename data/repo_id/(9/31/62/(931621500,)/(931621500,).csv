@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+931621500,mesudmammad1/CVE-2023-26326_Buddyform_exploit,README.md,34580ffc63bf2881e61e7a00c0c927dfb196b367,CVE-2023-26326
+931621500,mesudmammad1/CVE-2023-26326_Buddyform_exploit,README.md,34580ffc63bf2881e61e7a00c0c927dfb196b367,CVE-2024-2961
+931621500,mesudmammad1/CVE-2023-26326_Buddyform_exploit,exploit.py,8fb1e3dc850dbde917c7d72b1134cdfe0c6ce6c5,CVE-2024-2961
+931621500,mesudmammad1/CVE-2023-26326_Buddyform_exploit,_GITHUB_REPO_METADATA_,,CVE-2023-26326
