@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-927957731,LightxR/pwnAD,pwnAD/lib/parser.py,d89a7a316cb269dde26df779fa17a4887c99d539,CVE-2020-17049
+927957731,LightxR/pwnAD,pwnAD/lib/parser.py,d466ae7b93156b993b7efc647af0da50902b15ee,CVE-2020-17049
