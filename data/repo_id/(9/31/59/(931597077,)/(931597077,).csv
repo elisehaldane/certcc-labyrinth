@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+931597077,vkairy/cve-2024-21409-repro,Program.cs,05f05efa26210aa0a875b885ae921ed6ce104e10,CVE-2024-21409
+931597077,vkairy/cve-2024-21409-repro,cve-2024-21409-repro.csproj,41c06a9b2704ebf047f71fd0833dfe73a9cf16be,CVE-2024-21409
+931597077,vkairy/cve-2024-21409-repro,cve-2024-21409-repro.sln,5792be73691959ca8f7f3ce4d73cee4bab6ee44f,CVE-2024-21409
+931597077,vkairy/cve-2024-21409-repro,Properties/AssemblyInfo.cs,9b5beae35aa6f7294673ae96c5f4e555cca081cf,CVE-2024-21409
+931597077,vkairy/cve-2024-21409-repro,_GITHUB_REPO_METADATA_,,CVE-2024-21409
