@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+618828369,TURROKS/CVE_Prioritizer,cve_prioritizer/cve_prioritizer.py,8c55be1e3c7d28bc36e147824b17fb0a0ebfff55,CVE-0000-0000
 618828369,TURROKS/CVE_Prioritizer,README.md,eb85c102f5f32034bfa978e631b3488ce047a077,CVE-2017-16885
 618828369,TURROKS/CVE_Prioritizer,README.md,eb85c102f5f32034bfa978e631b3488ce047a077,CVE-2020-29127
-618828369,TURROKS/CVE_Prioritizer,cve_prioritizer/cve_prioritizer.py,f84e3d45fdc052e6d97ada8f78f15b5f5512cb3d,CVE-0000-0000
