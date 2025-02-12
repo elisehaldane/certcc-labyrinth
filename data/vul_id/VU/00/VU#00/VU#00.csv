@@ -84,6 +84,7 @@ VU#00,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,5989
 VU#00,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#00,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#00,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
+VU#00,0.06250000,https://github.com/omar2535/CVE-2022-39275,omar2535/CVE-2022-39275,889242972
 VU#00,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#00,0.06250000,https://github.com/Shubham07102003/WarpPlusGenerator,Shubham07102003/WarpPlusGenerator,572145781
 VU#00,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
@@ -323,7 +324,7 @@ VU#00,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,68
 VU#00,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#00,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#00,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#00,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#00,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#00,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#00,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#00,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
@@ -443,7 +444,7 @@ VU#00,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#00,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#00,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#00,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#00,0.00030722,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#00,0.00030414,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#00,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#00,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#00,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

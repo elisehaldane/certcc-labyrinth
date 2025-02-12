@@ -58,7 +58,6 @@ VU#65,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_
 VU#65,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
 VU#65,0.11111111,https://github.com/kozmic/laravel-poc-CVE-2018-15133,kozmic/laravel-poc-CVE-2018-15133,144760095
 VU#65,0.10000000,https://github.com/MichAdebayo/exploitation_des_donnees_avec_pandas,MichAdebayo/exploitation_des_donnees_avec_pandas,909528348
-VU#65,0.10000000,https://github.com/don970/SuperSploit-chrome-OS,don970/SuperSploit-chrome-OS,785277264
 VU#65,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#65,0.10000000,https://github.com/sweisss/CS370-Intro_to_Security,sweisss/CS370-Intro_to_Security,698039361
 VU#65,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
@@ -74,6 +73,7 @@ VU#65,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio
 VU#65,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#65,0.09090909,https://github.com/itrummer/dbbert,itrummer/dbbert,312349203
 VU#65,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
+VU#65,0.08333333,https://github.com/don970/SuperSploit-chrome-OS,don970/SuperSploit-chrome-OS,785277264
 VU#65,0.08333333,https://github.com/Ramyasura/MediEthiCare,Ramyasura/MediEthiCare,782132288
 VU#65,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#65,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
@@ -462,7 +462,7 @@ VU#65,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detec
 VU#65,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#65,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#65,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#65,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#65,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#65,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#65,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#65,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385

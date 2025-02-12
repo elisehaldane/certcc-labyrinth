@@ -29,7 +29,7 @@ VU#45,0.50000000,https://github.com/yuanshj1123/metasploit_in_termux,yuanshj1123
 VU#45,0.50000000,https://github.com/Live-Hack-CVE/CVE-2020-16116,Live-Hack-CVE/CVE-2020-16116,582168813
 VU#45,0.50000000,https://github.com/chaitin/mimicry,chaitin/mimicry,575223820
 VU#45,0.50000000,https://github.com/Adroitdevil/metasploitframework6,Adroitdevil/metasploitframework6,562393973
-VU#45,0.50000000,https://github.com/cyberanand1337x/Metasploit-android,cyberanand1337x/Metasploit-android,543638364
+VU#45,0.50000000,https://github.com/cyberanand1337x/metasploit-termux-2023,cyberanand1337x/metasploit-termux-2023,543638364
 VU#45,0.50000000,https://github.com/kizza2/NightExploit-Release.,kizza2/NightExploit-Release.,535802017
 VU#45,0.50000000,https://github.com/Rachit-Pal/Metasploit-in-termux,Rachit-Pal/Metasploit-in-termux,531069546
 VU#45,0.50000000,https://github.com/THUBear-wjy/LogGrep,THUBear-wjy/LogGrep,526110536
@@ -306,7 +306,7 @@ VU#45,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodg
 VU#45,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#45,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#45,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
-VU#45,0.01351351,https://github.com/mikaelkall/exploits,mikaelkall/exploits,70401130
+VU#45,0.01351351,https://github.com/mikaelkall/Exploits,mikaelkall/Exploits,70401130
 VU#45,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#45,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
 VU#45,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
@@ -416,7 +416,7 @@ VU#45,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#45,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#45,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#45,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#45,0.00666667,https://github.com/USGS-Astrogeology/knoten,USGS-Astrogeology/knoten,159667690
+VU#45,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#45,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#45,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#45,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
