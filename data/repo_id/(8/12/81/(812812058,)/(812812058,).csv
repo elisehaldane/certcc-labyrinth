@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+812812058,Raaatus/Pack-Shellcode-PE,pe/puttyThreadMessageBox.exe,346c2defabe953553a8d61c977663fc214a6748e,CVE-2023-48795
+812812058,Raaatus/Pack-Shellcode-PE,pe/puttyMessageBox.exe,937c43a49042b6eecb40b5c57cdbb91b5c1563d8,CVE-2023-48795
+812812058,Raaatus/Pack-Shellcode-PE,pe/putty_official.exe,c303968d61bfeb154a110549217d40bbdaa7439c,CVE-2023-48795
