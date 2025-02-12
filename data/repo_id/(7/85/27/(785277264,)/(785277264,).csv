@@ -1,13 +1,12 @@
 repo_id,repo_full_name,file,file_sha1,match
 785277264,don970/SuperSploit-chrome-OS,exploits/windows/Microsoft Windows 8 8.1 2012 R2 (x64) - 'EternalBlue' SMB Remote Code Execution.py,19be410c8dbe2326ab5bd5c318087634c1c59212,MS17-010
-785277264,don970/SuperSploit-chrome-OS,.data/.passwords,1a6a379a48fe9075c69f455e24920ace8636c439,VU#04786
 785277264,don970/SuperSploit-chrome-OS,exploits/Linux/LinuxKernel-3.4.5-Local-priv-esc.c,39b0805013e1b03812d4220801b0de7a371ac900,CVE-2013-6282
 785277264,don970/SuperSploit-chrome-OS,exploits/windows/Microsoft Windows 7 2008 R2 - 'EternalBlue' SMB Remote Code Execution.py,3c4a113b710af921081eb9fa35e7d64fc22428bf,MS17-010
-785277264,don970/SuperSploit-chrome-OS,.data/.adb/es-file-explorer-4-4-2-2-1.apk,7979f3499fa28093529a76b81342c8c084bd04b6,VU#79
 785277264,don970/SuperSploit-chrome-OS,.data/.adb/es-file-explorer-4-4-2-2-1.apk,7979f3499fa28093529a76b81342c8c084bd04b6,VU#65
+785277264,don970/SuperSploit-chrome-OS,.data/.adb/es-file-explorer-4-4-2-2-1.apk,7979f3499fa28093529a76b81342c8c084bd04b6,VU#79
 785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Linux kernel 3.4.5 local priv esc.py,7f7a75da2d046ec53031f7707b0a6e8bbf82600f,CVE-2013-6282
-785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-10-v21H1 HTTP-Protocol Stack Remote Code Execution.py,7f9a64a0560d45e7776fa99f9854afd36e1b37f3,CVE-2022-21907
 785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-10-v21H1 HTTP-Protocol Stack Remote Code Execution.py,7f9a64a0560d45e7776fa99f9854afd36e1b37f3,CVE-2021-31166
+785277264,don970/SuperSploit-chrome-OS,exploits/windows/Windows-10-v21H1 HTTP-Protocol Stack Remote Code Execution.py,7f9a64a0560d45e7776fa99f9854afd36e1b37f3,CVE-2022-21907
 785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Dirty Pipe.py,8407abea2bb680c8f81525dc957969bc00657e09,CVE-2022-0847
 785277264,don970/SuperSploit-chrome-OS,exploits/Linux/Dirty Pipe.c,8a07eb228add27af7d4b035b6ec3c9aa16c79bb1,CVE-2022-0847
 785277264,don970/SuperSploit-chrome-OS,exploits/routers/GL.iNet AR300M v4.3.7 Arbitrary File Read CVE-2023-46455 Exploit.py,8b892dfd53992567764ee3f82b460078927f93bd,CVE-2023-46455
