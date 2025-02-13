@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+931971128,huseyinstif/CVE-2025-24016-Nuclei-Template,README.md,42bbc3df7e94a8da4fef55781b86907254b9a52a,CVE-2025-24016
+931971128,huseyinstif/CVE-2025-24016-Nuclei-Template,CVE-2025-24016.yaml,cd662862b240e4d06effe5ea2e1317daaf1dd98d,CVE-2025-24016
+931971128,huseyinstif/CVE-2025-24016-Nuclei-Template,_GITHUB_REPO_METADATA_,,CVE-2025-24016
