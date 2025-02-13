@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-8GVX-4QVJ-6VV5,0.00003800,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-8GVX-4QVJ-6VV5,0.00003777,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-8GVX-4QVJ-6VV5,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
