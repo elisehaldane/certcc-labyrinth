@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+932416789,aditya-0211/penetration-testing,RAS Security Report.pdf,8997fbfc8adcde6b12e4144a643e3955caf20e43,CVE-2017-0143
+932416789,aditya-0211/penetration-testing,RAS Security Report.pdf,8997fbfc8adcde6b12e4144a643e3955caf20e43,MS17-010
+932416789,aditya-0211/penetration-testing,RAS Security Report.pdf,8997fbfc8adcde6b12e4144a643e3955caf20e43,VU#55
+932416789,aditya-0211/penetration-testing,RAS Security Report.pdf,8997fbfc8adcde6b12e4144a643e3955caf20e43,VU#555
+932416789,aditya-0211/penetration-testing,README.md,9b71579945167182ced2c39d4e2ae36daeb79366,CVE-2017-0143
