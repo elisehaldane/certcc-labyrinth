@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+932769134,h8sU/wordpress-cve-2024-10924-exploit,README.md,1b1610d4745756eb6043d921a043d36f938b5a92,CVE-2024-10924
+932769134,h8sU/wordpress-cve-2024-10924-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-10924

@@ -1,11 +1,19 @@
 repo_id,repo_full_name,file,file_sha1,match
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/ROPgadget-master.zip,178c8fb19df9020ea30d565bf8de8d54c4553e43,VU#333
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/checksec.exe,1c56734a6a254e8e8181f3c093f9fbe593c7a5cd,VU#83
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/checksec.exe,1c56734a6a254e8e8181f3c093f9fbe593c7a5cd,VU#63
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#75
 920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#40
 920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#44
 920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#697
-920937384,N0zoM1z0/WindowsExploitLearning,Tools/windbg/X64 Debuggers And Tools-x64_en-us.msi,45b3deb1fce0b2348dddf340963333b0681cae78,VU#75
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#00
-920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#62
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#67
+920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#62
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#93
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master.zip,6182291b50a4ecbc68b749bba505ec3fd2026da0,VU#95
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/SysinternalsSuite.zip,7694cd5a3c992b5a5c479bc67abed81dca7a8a22,VU#55
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/SysinternalsSuite.zip,7694cd5a3c992b5a5c479bc67abed81dca7a8a22,VU#68
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/SysinternalsSuite.zip,7694cd5a3c992b5a5c479bc67abed81dca7a8a22,VU#71
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/SysinternalsSuite.zip,7694cd5a3c992b5a5c479bc67abed81dca7a8a22,VU#20
 920937384,N0zoM1z0/WindowsExploitLearning,WinPwn-master/Seminar/2019_Winter_WinPwn/200219/W5D2.pptx,7f77a3df8de4918cfcb19ad24627b96acc9b625f,VU#00
+920937384,N0zoM1z0/WindowsExploitLearning,Tools/ROPgadget-master/test-suite-binaries/ref_output.bz2,d2a461d6d3483baef7471721ebaaa053ab616fe2,VU#50

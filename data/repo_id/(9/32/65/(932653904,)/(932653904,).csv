@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+932653904,silverxpymaster/CVE-2024-10914-Exploit,README.md,075f527ec2cc3947fd960c7cba740322a905b061,CVE-2024-10914
+932653904,silverxpymaster/CVE-2024-10914-Exploit,CVE-2024-10914.py,094fecf29cecb547b51924714eccb6a7c6afd253,CVE-2024-10914
+932653904,silverxpymaster/CVE-2024-10914-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-10914
