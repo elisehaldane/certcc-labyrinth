@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+912136348,pointedsec/CVE-2024-57725,README.md,03abae8de29a61b8637a81860ebb757446a5fe7b,CVE-2024-57725
+912136348,pointedsec/CVE-2024-57725,change_ont_value.py,d0a4c39a931cd531a3faefc33e060d9053f76bed,CVE-2024-57725
+912136348,pointedsec/CVE-2024-57725,check_ont_value.py,e272a76dfd6d2bcb3963caa0e2c6c4b06536a1eb,CVE-2024-57725
+912136348,pointedsec/CVE-2024-57725,_GITHUB_REPO_METADATA_,,CVE-2024-57725
