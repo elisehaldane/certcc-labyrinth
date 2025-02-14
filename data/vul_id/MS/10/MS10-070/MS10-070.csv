@@ -23,6 +23,7 @@ MS10-070,0.00322581,https://github.com/rony-das/searchsploit_php,rony-das/search
 MS10-070,0.00320513,https://github.com/GamehunterKaan/AutoPWN-Suite,GamehunterKaan/AutoPWN-Suite,491539517
 MS10-070,0.00319489,https://github.com/dillonalynch/exploit-database,dillonalynch/exploit-database,222334422
 MS10-070,0.00318471,https://github.com/NS-unina/exploitdb-images,NS-unina/exploitdb-images,448787246
+MS10-070,0.00281690,https://github.com/ajvarela/amadeus-exploit-peerj25,ajvarela/amadeus-exploit-peerj25,932653736
 MS10-070,0.00272480,https://github.com/reddelexc/hackerone-reports,reddelexc/hackerone-reports,182211614
 MS10-070,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 MS10-070,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
@@ -54,7 +55,7 @@ MS10-070,0.00016163,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS10-070,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS10-070,0.00014362,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS10-070,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
-MS10-070,0.00012822,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
+MS10-070,0.00012771,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
 MS10-070,0.00012425,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS10-070,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS10-070,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842

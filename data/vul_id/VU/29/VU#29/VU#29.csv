@@ -258,6 +258,7 @@ VU#29,0.05882353,https://github.com/DanMcInerney/pymetasploit3,DanMcInerney/pyme
 VU#29,0.05882353,https://github.com/wireghoul/sploit-dev,wireghoul/sploit-dev,5593528
 VU#29,0.05555556,https://github.com/AxelJL/EscapeNoGame,AxelJL/EscapeNoGame,886793111
 VU#29,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
+VU#29,0.05263158,https://github.com/NickMavrias/GestureTIFY,NickMavrias/GestureTIFY,815196260
 VU#29,0.05263158,https://github.com/Ostorlab/agent_metasploit,Ostorlab/agent_metasploit,707627990
 VU#29,0.05263158,https://github.com/MzzdToT/HAC_Bored_Writing,MzzdToT/HAC_Bored_Writing,670428048
 VU#29,0.05263158,https://github.com/hinata1902/RCE,hinata1902/RCE,654455119
@@ -830,7 +831,7 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00031309,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00031230,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#29,0.00030030,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -885,7 +886,7 @@ VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#29,0.00003777,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00003776,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#29,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944

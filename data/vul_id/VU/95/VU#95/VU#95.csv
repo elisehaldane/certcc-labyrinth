@@ -50,7 +50,6 @@ VU#95,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
 VU#95,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
 VU#95,0.12500000,https://github.com/IdanBanani/Binary-exploitation-Pwn,IdanBanani/Binary-exploitation-Pwn,356647367
 VU#95,0.12500000,https://github.com/lunasec-io/lunasec,lunasec-io/lunasec,348217288
-VU#95,0.11111111,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#95,0.11111111,https://github.com/rohilchaudhry/CVE-Session2-Group5,rohilchaudhry/CVE-Session2-Group5,888145251
 VU#95,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#95,0.11111111,https://github.com/JHKLing/Red-VS-Blue-Project,JHKLing/Red-VS-Blue-Project,494340768
@@ -92,6 +91,7 @@ VU#95,0.06250000,https://github.com/1-5Pool/JMessage-Security-Project,1-5Pool/JM
 VU#95,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#95,0.06250000,https://github.com/minhangxiaohui/Weblogic_direct_T3_Rces,minhangxiaohui/Weblogic_direct_T3_Rces,496911610
 VU#95,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
+VU#95,0.05882353,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#95,0.05882353,https://github.com/Astrowmist/POC-CVE-2012-1831,Astrowmist/POC-CVE-2012-1831,894342199
 VU#95,0.05882353,https://github.com/JHVIW/jhviw.github.io,JHVIW/jhviw.github.io,808546624
 VU#95,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410
@@ -434,7 +434,7 @@ VU#95,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#95,0.00031309,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#95,0.00031230,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#95,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
