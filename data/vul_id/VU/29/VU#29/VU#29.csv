@@ -169,6 +169,7 @@ VU#29,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,36391999
 VU#29,0.12500000,https://github.com/bsauce/CTF,bsauce/CTF,197501807
 VU#29,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
 VU#29,0.12500000,https://github.com/mammuth/bitcoin-arbitrage-trading-bot,mammuth/bitcoin-arbitrage-trading-bot,114352403
+VU#29,0.11111111,https://github.com/emmwilson/exploits_watershed,emmwilson/exploits_watershed,928937860
 VU#29,0.11111111,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,775141547
 VU#29,0.11111111,https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-,656182607
 VU#29,0.11111111,https://github.com/AAsh035/CVE-2023-30212,AAsh035/CVE-2023-30212,656147934
@@ -818,7 +819,7 @@ VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,84522684
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#29,0.00073746,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
-VU#29,0.00071327,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00071124,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -829,8 +830,8 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00031319,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00030048,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00031309,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00030030,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
