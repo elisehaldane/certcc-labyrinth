@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+932042021,NarcisaSat/Exploitation-des-vulnerabilites-web,rapport-nessus-juice-shop.pdf,5ce846bab04510ab85f2d1bb98a713328ca477bd,CVE-1999-0524
+932042021,NarcisaSat/Exploitation-des-vulnerabilites-web,rapport-nessus-juice-shop.pdf,5ce846bab04510ab85f2d1bb98a713328ca477bd,CVE-2023-48795
