@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+933245840,shalan000/cors-exploit-poc,node_modules/axios/CHANGELOG.md,06ea39ebb6cfbcf5234434ceff347b79f67cddc5,CVE-2023-45857
+933245840,shalan000/cors-exploit-poc,node_modules/axios/CHANGELOG.md,06ea39ebb6cfbcf5234434ceff347b79f67cddc5,CVE-2024-39338
+933245840,shalan000/cors-exploit-poc,node_modules/express/History.md,3c031c7067148a072dab43d5a6755df1a1301d99,CVE-2024-47764
