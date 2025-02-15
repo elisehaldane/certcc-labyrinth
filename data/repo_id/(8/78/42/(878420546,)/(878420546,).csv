@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+878420546,terrasystemlabs/CVE-IDs,Dotclear CMS/RCE/Vulnerability Report - RCE in DotClear CMS.pdf,12f53451d1080fb7943d73dab155607737b18766,VU#65
+878420546,terrasystemlabs/CVE-IDs,Dotclear CMS/Stored-xss_Dotclear_CMS.pdf,2147285f553ddf792d2b2ab2ee4dacf44c1caa5d,VU#32
