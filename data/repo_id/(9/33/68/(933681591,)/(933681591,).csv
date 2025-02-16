@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+933681591,claesmnyberg/exploits,ms08-067/ReadMe.md,103d7dde58c1d490fd665caef4bc21efd8bf9875,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/stream.h,1d3158f3f96399ce24447dbae0f15478463e57bd,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/Makefile,33b8bf9f54c6fa4b16b0a7befc09125734da59e2,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/ms08-067,44b0df8c9ae5c961ce4464cbd6d59922a44997d3,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/print.h,52e8d9f365c8e79ae12656d084b3e278c1bc1479,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/print.c,5948c6b10b41391c20a9d9e6104461b6a3355a84,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/stage2_memdll.h,5cabb408e4ff71f40e1770350e9e8a905043d167,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/ms08-067.h,6f3aaa24dab5fc84372841a54cdb8a3482a42144,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/random.h,7269fa557131906cb4c983059f7a8f86bef5b6db,MS08-067
+933681591,claesmnyberg/exploits,obsd-ipv6-mbuf-xpl/ReadMe.md,7aa6ff9b6e04a94dd8eda7b58950d96dc2839b1c,CVE-2007-1365
+933681591,claesmnyberg/exploits,ms08-067/stage2_downexec.S,7f6b0fdca4d8459ef7948e0443235583832348fe,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/random.c,8bdc5794f13a595a11062c2da5a2754d360c029e,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/ms08-067.c,ab99e6c82f47bed308f55a8874d57ede852114b3,MS08-067
+933681591,claesmnyberg/exploits,ms08-067/stage1_connect_readstage.S,fe22d3b006321ca454906a8494690df1fc79413d,MS08-067
