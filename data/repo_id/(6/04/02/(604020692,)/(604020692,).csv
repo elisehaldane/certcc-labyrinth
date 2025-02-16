@@ -1,2 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-604020692,pwncollege/software-exploitation-dojo,botnet-bonanza/nmap,d65d416b9b0279a17895d7289fb448d4209f04ad,VU#70
+604020692,pwncollege/software-exploitation-dojo,kernel-exploitation/level1/bzImage,1e1be0447a3e14075f214f25a9830d01bc49ad46,VU#04
+604020692,pwncollege/software-exploitation-dojo,kernel-exploitation/level4/bzImage,9afb38966fafb2198b5c615915ebdf482c270e07,VU#63
+604020692,pwncollege/software-exploitation-dojo,dojo.yml,a2ea3a76fb8a59a3dc36cf50461580c2670746ef,CVE-2021-22555
+604020692,pwncollege/software-exploitation-dojo,kernel-exploitation/files/3/bzImage,b8fa4f85ca6b50d92bcaef3170696556b43e3acc,VU#54
+604020692,pwncollege/software-exploitation-dojo,kernel-exploitation/files/3/bzImage,b8fa4f85ca6b50d92bcaef3170696556b43e3acc,VU#60
+604020692,pwncollege/software-exploitation-dojo,kernel-exploitation/level8/bzImage,b8fa4f85ca6b50d92bcaef3170696556b43e3acc,VU#65
+604020692,pwncollege/software-exploitation-dojo,botnet-bonanza/level-2/_1/flag_host/usr/bin/nmap,d65d416b9b0279a17895d7289fb448d4209f04ad,VU#70

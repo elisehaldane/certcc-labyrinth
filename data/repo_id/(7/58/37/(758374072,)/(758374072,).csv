@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+758374072,godylockz/CVE-2024-23897,README.md,b4aa63d9498974e3904c9588cb3ece06f3e05154,CVE-2024-23897
+758374072,godylockz/CVE-2024-23897,jenkins_fileread.py,ea6faf04a4d21eb6b9c6cbca49757ea4c49cfdfa,CVE-2024-23897
+758374072,godylockz/CVE-2024-23897,_GITHUB_REPO_METADATA_,,CVE-2024-23897
