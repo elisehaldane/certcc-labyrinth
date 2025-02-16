@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+933393843,ntdelta/chakra-exploit-framework,src/sandbox_escape.js,05d8853c1ff0ea4bdcaa3d427fcb9c8896ace30b,CVE-2017-8637
+933393843,ntdelta/chakra-exploit-framework,src/sandbox_escape.js,05d8853c1ff0ea4bdcaa3d427fcb9c8896ace30b,CVE-2019-0555
+933393843,ntdelta/chakra-exploit-framework,src/framework.js,e7bb90775e9b5acce9e4140b19e8338079eda22b,CVE-2019-0555
+933393843,ntdelta/chakra-exploit-framework,src/framework.js,e7bb90775e9b5acce9e4140b19e8338079eda22b,CVE-2019-0567
+933393843,ntdelta/chakra-exploit-framework,_GITHUB_REPO_METADATA_,,CVE-2019-0567
