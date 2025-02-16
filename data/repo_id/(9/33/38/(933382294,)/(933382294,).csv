@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+933382294,0xMetr0/metasploit-ldapnightmare,ldapnightmare.py,0345be8dbc4a1b4e6727efe33fefe6ebe5f40215,CVE-2024-49113
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2016-4557
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2018-8120
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2022-1043
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2022-22942
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2022-26904
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2022-46689
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2023-34634
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,CVE-2023-36874
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,MS04-007
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,MS13-097
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,MS14-009
+933382294,0xMetr0/metasploit-ldapnightmare,LICENSES,504ef198ba2cf7c38416d5a8a3b56bed203cb76c,MS18-8120
+933382294,0xMetr0/metasploit-ldapnightmare,README.md,d68b3b83964066f851af7120fc6fcfbb5c9d8bc8,CVE-2024-49113
+933382294,0xMetr0/metasploit-ldapnightmare,_GITHUB_REPO_METADATA_,,CVE-2024-49113

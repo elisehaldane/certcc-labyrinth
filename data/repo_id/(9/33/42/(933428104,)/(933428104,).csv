@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+933428104,InfoSec-DB/Hikvision-AfterDark,Hikvision-ShodanScanner/README.md,8ff91950f1db2880b78ae85b9437078ec2079a4a,CVE-2021-36260
+933428104,InfoSec-DB/Hikvision-AfterDark,README.md,9195a5441a812a8bc5dcf990686f188a747382d2,CVE-2021-36260
+933428104,InfoSec-DB/Hikvision-AfterDark,zoomCCTVScanner/README.md,d13bd633429e4a5b307b271b91ddd39ce5671a18,CVE-2021-36260
