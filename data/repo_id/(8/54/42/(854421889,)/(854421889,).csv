@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 854421889,TheB4tMite/CTF-Writeups,TFC_CTF_2024/Guard_the_bypass/chall.zip,38713d5c2b90df0fd08ab8e3556e8241c7fbfe99,VU#52
+854421889,TheB4tMite/CTF-Writeups,LACTF_25/library/libc.so.6,9b608e169dd4ea17da040c4d6594716d1caadbdb,VU#27
