@@ -87,11 +87,11 @@ VU#00,0.06250000,https://github.com/omar2535/CVE-2022-39275,omar2535/CVE-2022-39
 VU#00,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#00,0.06250000,https://github.com/Shubham07102003/WarpPlusGenerator,Shubham07102003/WarpPlusGenerator,572145781
 VU#00,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,419953601
-VU#00,0.05882353,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#00,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploits,482204403
 VU#00,0.05555556,https://github.com/lambdaclass/PoC-exploit-SP1,lambdaclass/PoC-exploit-SP1,922999074
 VU#00,0.05555556,https://github.com/The-Wagonization/The-Wagon-Site,The-Wagonization/The-Wagon-Site,864312435
 VU#00,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
+VU#00,0.05263158,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#00,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
 VU#00,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#00,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
@@ -444,7 +444,7 @@ VU#00,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#00,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#00,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#00,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#00,0.00031172,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#00,0.00031153,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#00,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#00,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#00,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
