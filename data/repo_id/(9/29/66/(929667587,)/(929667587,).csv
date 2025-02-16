@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+929667587,nbshenxm/pentest-agent,utils/searchers/exploitdb_searcher.py,277803969afcdf716805a51962b76d095dcde3df,CVE-2021-42013
+929667587,nbshenxm/pentest-agent,agents/execution_agent.py,3a452c9eea3e03e467732488d8f701e857c6a5f5,CVE-2023-46604
+929667587,nbshenxm/pentest-agent,agents/recon_agent.py,57cf99f9da58071e3154cce62124425ab1108997,CVE-2023-46604
+929667587,nbshenxm/pentest-agent,utils/searchers/main_searcher.py,d48c93ac1b0cb76a0f6c64b3a6372078d68efdf8,CVE-2021-42013
+929667587,nbshenxm/pentest-agent,utils/searchers/github_searcher.py,e160d8eabbfa81669e25cceb139510701a55e9dd,CVE-2024-29847
+929667587,nbshenxm/pentest-agent,utils/doc_handler.py,fbd4524713118beeb3f867f2427fa2a616468853,CVE-2019-1609
+929667587,nbshenxm/pentest-agent,agents/planning_agent.py,fbdf5da12b34a80d760e38850232cd5b95f97fd4,CVE-2023-42442
+929667587,nbshenxm/pentest-agent,agents/planning_agent.py,fbdf5da12b34a80d760e38850232cd5b95f97fd4,CVE-2023-46123
+929667587,nbshenxm/pentest-agent,agents/planning_agent.py,fbdf5da12b34a80d760e38850232cd5b95f97fd4,GHSA-2VVR-VMVX-73CH
