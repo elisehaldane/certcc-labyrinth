@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,CVE-2012-1823.py,058aff7733380765e3bdc7a858fd70288073a872,CVE-2012-1823
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,"CVE-2012-1823,CVE-2021-2291.py",10497826c0aea79449a6951bb44db5cb3cea0a4a,CVE-2012-1823
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,"CVE-2012-1823,CVE-2021-2291.py",10497826c0aea79449a6951bb44db5cb3cea0a4a,CVE-2021-2291
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,README.md,c7c25c35c5111e26c863fcdf2839250bfaa961e2,CVE-2012-1823
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,README.md,c7c25c35c5111e26c863fcdf2839250bfaa961e2,CVE-2021-2291
+933902725,JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web,_GITHUB_REPO_METADATA_,,CVE-2012-1823
