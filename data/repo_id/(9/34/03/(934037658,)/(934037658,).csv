@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+934037658,yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-,README.md,26636eee412147c5f69684451c4317e3733e2918,CVE-2021-44228
+934037658,yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-,resources/references.txt,9e2db16cfc26800e359bd410c65eedea08eb19d3,CVE-2021-44228
+934037658,yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-,_GITHUB_REPO_METADATA_,,CVE-2021-44228
