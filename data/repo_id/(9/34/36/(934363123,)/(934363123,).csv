@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+934363123,sameeralam3127/rhel8_cve_2023_48795,rhel8_cve_2023_48795/rhel8_cve_2023_48795.yml,0d3f21ea045fe88cf7f11c0938b849172dafcbc6,CVE-2023-48795
+934363123,sameeralam3127/rhel8_cve_2023_48795,galaxy.yml,3e3569a3cfcbd292d58b2999faafc8336e7560f0,CVE-2023-48795
+934363123,sameeralam3127/rhel8_cve_2023_48795,README.md,de796e5d04ea9d2ff99706ea7401ac08ce4e5551,CVE-2023-48795
+934363123,sameeralam3127/rhel8_cve_2023_48795,_GITHUB_REPO_METADATA_,,CVE-2023-48795
