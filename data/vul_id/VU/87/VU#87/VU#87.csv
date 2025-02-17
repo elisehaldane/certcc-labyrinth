@@ -145,6 +145,7 @@ VU#87,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1passwo
 VU#87,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#87,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#87,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cryptography,604799658
+VU#87,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#87,0.02040816,https://github.com/imad7quasar/Reinforcement-Learning-Bandits-and-Exploration-Exploitation,imad7quasar/Reinforcement-Learning-Bandits-and-Exploration-Exploitation,932056958
 VU#87,0.02040816,https://github.com/surendrans/defi-monitor,surendrans/defi-monitor,926168570
 VU#87,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
@@ -555,7 +556,7 @@ VU#87,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#87,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#87,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#87,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#87,0.00018437,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#87,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#87,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

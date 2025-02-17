@@ -397,6 +397,7 @@ VU#29,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#29,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
 VU#29,0.02083333,https://github.com/MalcomChumchouaPenda/rcemp-dial,MalcomChumchouaPenda/rcemp-dial,878942270
 VU#29,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#29,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#29,0.02040816,https://github.com/surendrans/defi-monitor,surendrans/defi-monitor,926168570
 VU#29,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
 VU#29,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
@@ -796,8 +797,8 @@ VU#29,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#29,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#29,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#29,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
-VU#29,0.00175747,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 VU#29,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
+VU#29,0.00175131,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 VU#29,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
 VU#29,0.00170358,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#29,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
@@ -833,8 +834,8 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00031133,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00029985,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00029949,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
@@ -879,7 +880,7 @@ VU#29,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#29,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#29,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#29,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00018437,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

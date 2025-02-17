@@ -179,6 +179,7 @@ VU#78,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authentica
 VU#78,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#78,0.02127660,https://github.com/theonesp/ehr_ml_intro,theonesp/ehr_ml_intro,587856157
 VU#78,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
+VU#78,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
 VU#78,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
@@ -491,7 +492,7 @@ VU#78,0.00290698,https://github.com/H4CK3RT3CH/Active-Directory-Exploitation-Che
 VU#78,0.00290698,https://github.com/Mo-ku/AD-Exploitation-Cheatsheet,Mo-ku/AD-Exploitation-Cheatsheet,473828248
 VU#78,0.00281690,https://github.com/zerodayjoker/zerodayjoker.github.io,zerodayjoker/zerodayjoker.github.io,482425702
 VU#78,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
-VU#78,0.00265252,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
+VU#78,0.00264550,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#78,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#78,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
 VU#78,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
@@ -539,7 +540,7 @@ VU#78,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#78,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#78,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#78,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#78,0.00031133,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#78,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#78,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#78,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#78,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -579,7 +580,7 @@ VU#78,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#78,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#78,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#78,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#78,0.00018437,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#78,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#78,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#78,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#78,0.00003768,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

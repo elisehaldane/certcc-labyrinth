@@ -5,6 +5,7 @@ VU#12,1.00000000,https://github.com/rcornf/lpi_lags_2023,rcornf/lpi_lags_2023,61
 VU#12,1.00000000,https://github.com/SysHaxUBs/ggscopex,SysHaxUBs/ggscopex,608762581
 VU#12,1.00000000,https://github.com/trikhanhhk/FishingXssDemo,trikhanhhk/FishingXssDemo,520527902
 VU#12,1.00000000,https://github.com/realbed/luckysploit-beta,realbed/luckysploit-beta,465526933
+VU#12,0.50000000,https://github.com/skrkcb2/CVE-2025-0851,skrkcb2/CVE-2025-0851,934105690
 VU#12,0.50000000,https://github.com/ArtemCyberLab/Project-Privilege-Escalation-and-Reverse-Shell-Exploitation,ArtemCyberLab/Project-Privilege-Escalation-and-Reverse-Shell-Exploitation,931831155
 VU#12,0.50000000,https://github.com/dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,dfki-ric-underactuated-lab/case_study_traj_opt_hybrid_robots,671079386
 VU#12,0.50000000,https://github.com/terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,terry9089/ToToWARE-Fortnite-Cheat-Pre-compiled-GUI,524410373
@@ -118,6 +119,7 @@ VU#12,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#12,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#12,0.03225806,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
 VU#12,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
+VU#12,0.03030303,https://github.com/Furk-st/Dhokha-Fi,Furk-st/Dhokha-Fi,934170057
 VU#12,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#12,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
 VU#12,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
@@ -193,6 +195,7 @@ VU#12,0.02127660,https://github.com/jiha3/exploit_txs,jiha3/exploit_txs,71793523
 VU#12,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#12,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
 VU#12,0.02127660,https://github.com/1337r0j4n/php-backdoors,1337r0j4n/php-backdoors,410428285
+VU#12,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#12,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 VU#12,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
@@ -549,7 +552,7 @@ VU#12,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#12,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#12,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#12,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#12,0.00031133,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#12,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#12,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#12,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#12,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -589,7 +592,7 @@ VU#12,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#12,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#12,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#12,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#12,0.00018437,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

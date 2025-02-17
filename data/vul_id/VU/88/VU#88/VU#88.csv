@@ -292,6 +292,7 @@ VU#88,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 VU#88,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 VU#88,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#88,0.02127660,https://github.com/qi4L/JNDIExploit,qi4L/JNDIExploit,510191474
+VU#88,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#88,0.02040816,https://github.com/imad7quasar/Reinforcement-Learning-Bandits-and-Exploration-Exploitation,imad7quasar/Reinforcement-Learning-Bandits-and-Exploration-Exploitation,932056958
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 VU#88,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
@@ -639,7 +640,7 @@ VU#88,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#88,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#88,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#88,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#88,0.00031133,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#88,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#88,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#88,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#88,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -663,7 +664,7 @@ VU#88,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#88,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#88,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#88,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#88,0.00018437,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#88,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#88,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#88,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#88,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

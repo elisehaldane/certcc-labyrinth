@@ -74,6 +74,7 @@ BID-0,0.03846154,https://github.com/dns43/exploits,dns43/exploits,193015842
 BID-0,0.03703704,https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236,Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236,489225532
 BID-0,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 BID-0,0.03125000,https://github.com/jaychowjingjie/CVE-2018-0202,jaychowjingjie/CVE-2018-0202,158891873
+BID-0,0.03030303,https://github.com/Furk-st/Dhokha-Fi,Furk-st/Dhokha-Fi,934170057
 BID-0,0.02777778,https://github.com/fenchelfen/ncs-exploit-environments,fenchelfen/ncs-exploit-environments,256838421
 BID-0,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 BID-0,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
@@ -116,6 +117,7 @@ BID-0,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artski
 BID-0,0.02173913,https://github.com/artsking/linux-4.19.72_CVE-2020-14386,artsking/linux-4.19.72_CVE-2020-14386,447177303
 BID-0,0.02173913,https://github.com/Nivaskumark/CVE-2021-40490_kernel_v4.19.72,Nivaskumark/CVE-2021-40490_kernel_v4.19.72,446692516
 BID-0,0.02173913,https://github.com/ucsb-seclab/boomerang,ucsb-seclab/boomerang,76598629
+BID-0,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 BID-0,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
 BID-0,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,Trinadh465/frameworks_base_AOSP_10_r33_CVE-2022-20338,720410510
 BID-0,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21109,720351156
