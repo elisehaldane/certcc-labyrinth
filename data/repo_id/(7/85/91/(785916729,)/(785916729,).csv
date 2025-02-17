@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+785916729,jackfromeast/TheHulk,html-injection/probe-contenteditable/dataset/bug-bounty-domain.txt,81316cb2f21a9dedc849c9739cb6c31a6c2d719d,VU#01
+785916729,jackfromeast/TheHulk,html-injection/probe-contenteditable/dataset/bug-bounty-domain.csv,fe2f7dac87f588067efc788f3589fa40ca1db260,VU#01
