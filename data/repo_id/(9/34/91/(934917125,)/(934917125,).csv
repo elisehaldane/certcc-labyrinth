@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#17
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#20
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#32
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#33
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#396
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#49
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#53
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#65
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#82
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#84
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip/_vendor/certifi/cacert.pem,9341e715cea2e6207329e7034365749fca1f37dc,VU#85
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip-24.2.dist-info/RECORD,a09b440e46912027bb6d9f04016e1c64036a6fe7,VU#1485
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip-24.2.dist-info/RECORD,a09b440e46912027bb6d9f04016e1c64036a6fe7,VU#28118
+934917125,Sudo-Sakib/Insecure-Deserialization-Lab,Lib/site-packages/pip-24.2.dist-info/RECORD,a09b440e46912027bb6d9f04016e1c64036a6fe7,VU#5471
