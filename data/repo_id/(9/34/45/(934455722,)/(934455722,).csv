@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+934455722,slightbaggage/go-epss,epss_test.go,010f5d28af0883d7459c89068d5f3d82267ddcd1,CVE-9999-9999
+934455722,slightbaggage/go-epss,README.md,91d39cad0154898e5ed50ebd5796036c364463ab,CVE-1999-0002
