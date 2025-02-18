@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-X8VP-GF4Q-MW5J,0.00413223,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
-GHSA-X8VP-GF4Q-MW5J,0.00076805,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
-GHSA-X8VP-GF4Q-MW5J,0.00003768,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-X8VP-GF4Q-MW5J,0.00076746,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
+GHSA-X8VP-GF4Q-MW5J,0.00003754,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

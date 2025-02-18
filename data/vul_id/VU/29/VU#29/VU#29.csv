@@ -376,10 +376,10 @@ VU#29,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#29,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#29,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#29,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
-VU#29,0.02325581,https://github.com/MzHmO/Exploit-Street,MzHmO/Exploit-Street,888632546
 VU#29,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#29,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#29,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
+VU#29,0.02272727,https://github.com/MzHmO/Exploit-Street,MzHmO/Exploit-Street,888632546
 VU#29,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#29,0.02272727,https://github.com/deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,deeksha029/Detection-of-Exploit-Websites-using-ML-and-Data-Analysis,828885447
 VU#29,0.02272727,https://github.com/Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,Ssimmraan/Detection-of-Exploit-Website-using-Machine-Learning-and-Data-Analysis,825606080
@@ -688,7 +688,6 @@ VU#29,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,
 VU#29,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#29,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#29,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#29,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#29,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#29,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#29,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
@@ -696,6 +695,7 @@ VU#29,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngin
 VU#29,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#29,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#29,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#29,0.00632911,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#29,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#29,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#29,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/PayloadSiteForPenTesters,231986361
@@ -823,7 +823,7 @@ VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#29,0.00073746,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00073638,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00069156,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -835,8 +835,8 @@ VU#29,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#29,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#29,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00029949,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00030506,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#29,0.00029886,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
@@ -881,7 +881,7 @@ VU#29,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#29,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#29,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#29,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
-VU#29,0.00018430,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018426,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -891,7 +891,7 @@ VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#29,0.00003768,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00003754,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#29,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casestudies,kellywang568/Cybersecurity_project_casestudies,716328323
 VU#29,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944

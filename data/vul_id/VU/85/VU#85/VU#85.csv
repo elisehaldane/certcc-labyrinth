@@ -113,6 +113,7 @@ VU#85,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,
 VU#85,0.07692308,https://github.com/r00t4dm/Jenkins-CVE-2015-8103,r00t4dm/Jenkins-CVE-2015-8103,550139767
 VU#85,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#85,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
+VU#85,0.07142857,https://github.com/Sudo-Sakib/Insecure-Deserialization-Lab,Sudo-Sakib/Insecure-Deserialization-Lab,934917125
 VU#85,0.07142857,https://github.com/Aalaa-A/multiarmed_bandit,Aalaa-A/multiarmed_bandit,916061508
 VU#85,0.07142857,https://github.com/mojtaba-eshghie/XploGen,mojtaba-eshghie/XploGen,839474444
 VU#85,0.07142857,https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container,MagpieRYL/CVE-2024-3094-backdoor-env-container,781419608
@@ -414,12 +415,12 @@ VU#85,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detec
 VU#85,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#85,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#85,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#85,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#85,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#85,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#85,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#85,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#85,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
+VU#85,0.00632911,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#85,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#85,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#85,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -522,7 +523,7 @@ VU#85,0.00152672,https://github.com/monkey-byte/exploits,monkey-byte/exploits,61
 VU#85,0.00152439,https://github.com/CDACesec/CVE-2023-33802,CDACesec/CVE-2023-33802,642286308
 VU#85,0.00152439,https://github.com/CDACesec/CVE-2022-31902,CDACesec/CVE-2022-31902,512712652
 VU#85,0.00152439,https://github.com/CDACesec/CVE-2022-31901,CDACesec/CVE-2022-31901,512699304
-VU#85,0.00140449,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+VU#85,0.00139276,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00130719,https://github.com/lolrender/exploitsss,lolrender/exploitsss,805159528
 VU#85,0.00130719,https://github.com/Supp61/Exploits-ggg,Supp61/Exploits-ggg,761885595
 VU#85,0.00130719,https://github.com/RedNotSus/exploits,RedNotSus/exploits,582102746

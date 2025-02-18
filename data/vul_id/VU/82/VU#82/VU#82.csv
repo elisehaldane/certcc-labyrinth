@@ -75,6 +75,7 @@ VU#82,0.07692308,https://github.com/Holifkly/Holifkly,Holifkly/Holifkly,73042846
 VU#82,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
 VU#82,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#82,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
+VU#82,0.07142857,https://github.com/Sudo-Sakib/Insecure-Deserialization-Lab,Sudo-Sakib/Insecure-Deserialization-Lab,934917125
 VU#82,0.07142857,https://github.com/mojtaba-eshghie/XploGen,mojtaba-eshghie/XploGen,839474444
 VU#82,0.07142857,https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container,MagpieRYL/CVE-2024-3094-backdoor-env-container,781419608
 VU#82,0.07142857,https://github.com/phannhat17/metasploit-web-interface,phannhat17/metasploit-web-interface,771534245
@@ -466,7 +467,6 @@ VU#82,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detec
 VU#82,0.00671141,https://github.com/yogeshraja08/PhoneSploitPro,yogeshraja08/PhoneSploitPro,758471479
 VU#82,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#82,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
-VU#82,0.00666667,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#82,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#82,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
 VU#82,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
@@ -474,6 +474,7 @@ VU#82,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngin
 VU#82,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
 VU#82,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#82,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
+VU#82,0.00632911,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
 VU#82,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#82,0.00628931,https://github.com/GokulChandar17/SmartBridgeTeam-2.4,GokulChandar17/SmartBridgeTeam-2.4,660521990
 VU#82,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
@@ -595,8 +596,8 @@ VU#82,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#82,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#82,0.00030741,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#82,0.00029949,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82,0.00030506,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#82,0.00029886,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
