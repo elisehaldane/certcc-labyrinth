@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#58,1.00000000,https://github.com/Ponte348/DETI-Store,Ponte348/DETI-Store,935568877
 VU#58,1.00000000,https://github.com/Magdy-00/XSS-and-SQLI-Exploitation-Tool,Magdy-00/XSS-and-SQLI-Exploitation-Tool,898939583
-VU#58,1.00000000,https://github.com/Policedude/Exploit-Locator,Policedude/Exploit-Locator,890976769
 VU#58,1.00000000,https://github.com/yeshamehta3/Windows-7-Hack,yeshamehta3/Windows-7-Hack,563957505
 VU#58,1.00000000,https://github.com/jeel38/Windows-7-Hack,jeel38/Windows-7-Hack,563952700
 VU#58,1.00000000,https://github.com/Dimples1337/OpenPacketFix,Dimples1337/OpenPacketFix,537684868
@@ -490,6 +490,7 @@ VU#58,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#58,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#58,0.00030497,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#58,0.00029621,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#58,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#58,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688

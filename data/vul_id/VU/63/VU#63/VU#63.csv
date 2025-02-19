@@ -33,6 +33,7 @@ VU#63,0.50000000,https://github.com/trevormalesike/wyze-cam-exploit,trevormalesi
 VU#63,0.50000000,https://github.com/ZeraTS/Rogue-UI,ZeraTS/Rogue-UI,500670474
 VU#63,0.50000000,https://github.com/b4sm/multi-shellcode-runner,b4sm/multi-shellcode-runner,497385588
 VU#63,0.50000000,https://github.com/burpheart/ping2rce,burpheart/ping2rce,493664890
+VU#63,0.50000000,https://github.com/jhhua/Cs_X_Msf_inject,jhhua/Cs_X_Msf_inject,473434285
 VU#63,0.50000000,https://github.com/nam3lum/exploits,nam3lum/exploits,417676162
 VU#63,0.50000000,https://github.com/Xenyax/AllExploits,Xenyax/AllExploits,417584183
 VU#63,0.50000000,https://github.com/rcantini/BERT_personality_detection,rcantini/BERT_personality_detection,381437348
@@ -198,6 +199,7 @@ VU#63,0.02173913,https://github.com/bestlucky0825/beef,bestlucky0825/beef,498430
 VU#63,0.02127660,https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE,893536910
 VU#63,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,AKKIREDDYGANESH/Vulnerabulity-Scanning-using-Metasploit,821623431
 VU#63,0.02083333,https://github.com/ECAM-4MIN/GPU-computing,ECAM-4MIN/GPU-computing,441921073
+VU#63,0.02040816,https://github.com/nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090,nidhihcl75/frameworks_base_AOSP10_r33_CVE-2024-43090,935390357
 VU#63,0.02040816,https://github.com/Mahesh-970/CVE-2024-43762,Mahesh-970/CVE-2024-43762,934165243
 VU#63,0.02040816,https://github.com/MemoryMeld/memorymeld.github.io,MemoryMeld/memorymeld.github.io,722770327
 VU#63,0.02040816,https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20911,721630428
