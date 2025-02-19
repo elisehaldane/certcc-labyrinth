@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+935246955,barcrange/CVE-2025-0108-Authentication-Bypass-checker,auth_bypass_cve_2025_0108.py,0fcf0e7764084f9039cbcf7a45458df78d00e0f7,CVE-2025-0108
+935246955,barcrange/CVE-2025-0108-Authentication-Bypass-checker,README.md,fd1e82a3a67d2ed35b63289edc68c93d6722d6dd,CVE-2025-0108
+935246955,barcrange/CVE-2025-0108-Authentication-Bypass-checker,_GITHUB_REPO_METADATA_,,CVE-2025-0108
