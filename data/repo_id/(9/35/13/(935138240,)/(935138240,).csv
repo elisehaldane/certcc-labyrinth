@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+935138240,7wp81x/MSFPatch,apk_mod,04fd37ebca41fb53664237163257faa45d1682c9,CVE-2024-21633
+935138240,7wp81x/MSFPatch,apk_mod,04fd37ebca41fb53664237163257faa45d1682c9,GHSA-2HQV-2XV4-5H5W
+935138240,7wp81x/MSFPatch,apktool.jar,21bb1f855d07cdd124276e2c1daab5a5a56eaf80,VU#06
+935138240,7wp81x/MSFPatch,apktool.jar,21bb1f855d07cdd124276e2c1daab5a5a56eaf80,VU#30
