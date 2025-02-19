@@ -166,7 +166,6 @@ VU#37,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rc
 VU#37,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#37,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
 VU#37,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
-VU#37,0.07692308,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#37,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#37,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
 VU#37,0.07142857,https://github.com/kzyo0t/webfuzz_rce,kzyo0t/webfuzz_rce,692960129
@@ -174,6 +173,7 @@ VU#37,0.07142857,https://github.com/port9org/aws-nitro-ssh-rce,port9org/aws-nitr
 VU#37,0.07142857,https://github.com/EITSxiaozhai/Exploit_blog,EITSxiaozhai/Exploit_blog,539289714
 VU#37,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#37,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
+VU#37,0.07142857,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#37,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
 VU#37,0.06666667,https://github.com/iammr0ot/PowerSploit,iammr0ot/PowerSploit,897346799
 VU#37,0.06666667,https://github.com/hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,hienkiet/CVE-2022-201145-12.2.1.3.0-Weblogic,770745685

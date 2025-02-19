@@ -79,7 +79,6 @@ VU#84,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,
 VU#84,0.07692308,https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,0x4E0x650x6F/Wordpress-cve-CVE-2022-21661,497289034
 VU#84,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/xmir-patcher,421868209
 VU#84,0.07692308,https://github.com/DH-AL/Dh-All,DH-AL/Dh-All,367377085
-VU#84,0.07692308,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#84,0.07142857,https://github.com/Sudo-Sakib/Insecure-Deserialization-Lab,Sudo-Sakib/Insecure-Deserialization-Lab,934917125
 VU#84,0.07142857,https://github.com/pbj2647/CVE-2023-25813,pbj2647/CVE-2023-25813,884065369
 VU#84,0.07142857,https://github.com/mojtaba-eshghie/XploGen,mojtaba-eshghie/XploGen,839474444
@@ -93,6 +92,7 @@ VU#84,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproye
 VU#84,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
 VU#84,0.07142857,https://github.com/CreatorG456/Crypto_Exchange_Arb,CreatorG456/Crypto_Exchange_Arb,494865686
 VU#84,0.07142857,https://github.com/0xb0bb/karkinos,0xb0bb/karkinos,237168976
+VU#84,0.07142857,https://github.com/grantdadams/Rceattle-models,grantdadams/Rceattle-models,167252305
 VU#84,0.06666667,https://github.com/Zsly1010/Amun_shellcodeAnalyzer,Zsly1010/Amun_shellcodeAnalyzer,859840136
 VU#84,0.06666667,https://github.com/Sasank123k/Crypto-Arbitrage-Bot,Sasank123k/Crypto-Arbitrage-Bot,854047411
 VU#84,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes,ring0-c0d3-br34k3r/Exploit-Development-Notes,853012766
@@ -496,7 +496,7 @@ VU#84,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#84,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#84,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#84,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#84,0.00029886,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#84,0.00029878,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#84,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#84,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#84,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
