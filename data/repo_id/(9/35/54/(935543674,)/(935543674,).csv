@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+935543674,davimoreno/ipfire_rce,ipfire_rce.sh,11c77857d2b8bd14fd510491d067a96b5423a137,CVE-2017-9757
+935543674,davimoreno/ipfire_rce,README.md,acd631d9f2b1b04709b3d71cff51a66f4d8624a1,CVE-2017-9757
