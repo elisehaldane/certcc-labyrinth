@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+935953693,regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-,exploit.py,d6a55bae174495250756d753ecc0b85de8a5856b,CVE-2024-2961
+935953693,regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-,README.md,fa4ddadbf42d36ece03260d61a9c3cd3dfe27054,CVE-2024-2961
+935953693,regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-,_GITHUB_REPO_METADATA_,,CVE-2024-2961
