@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+920375674,SticKManII/cve-poc,chat-box/3/poc.md,0ef9031e673634710641f6543a819ecd9eaec6f5,CVE-2025-25878
+920375674,SticKManII/cve-poc,chat-box/4/poc.md,3015c56f8bc1bb12826a823447134a71df0fec2c,CVE-2025-25875
+920375674,SticKManII/cve-poc,chat-box/1/poc.md,96d72d90bbd2e1b41bdc882650397c70cf111104,CVE-2025-25877
+920375674,SticKManII/cve-poc,chat-box/2/poc.md,c8bd637e21af7c0a115d1eb6de6ae0dd704be815,CVE-2025-25876
