@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+935734747,Lychi3/vsftpd-backdoor,README.md,7bddafa0c73bd030615d12cc408d0562a5d8544c,CVE-2011-2523
+935734747,Lychi3/vsftpd-backdoor,_GITHUB_REPO_METADATA_,,CVE-2011-2523
