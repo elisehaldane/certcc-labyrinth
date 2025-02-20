@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+936145190,ZammelSofien/Exploiting-GetSimple-3.3.15,README.md,bc2fee57a39dd950db50d327254e429b5fbf856c,CVE-2019-14287
+936145190,ZammelSofien/Exploiting-GetSimple-3.3.15,README.md,bc2fee57a39dd950db50d327254e429b5fbf856c,CVE-2021-3156
