@@ -16,6 +16,7 @@ VU#25,0.33333333,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#25,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.25000000,https://github.com/playvoras/python-exploits,playvoras/python-exploits,830739066
 VU#25,0.25000000,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
@@ -456,7 +457,6 @@ VU#25,0.00729927,https://github.com/manojxshrestha/SecVault,manojxshrestha/SecVa
 VU#25,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#25,0.00729927,https://github.com/Lobbyra/darkly,Lobbyra/darkly,662526384
 VU#25,0.00729927,https://github.com/C4ssif3r/WebExploit,C4ssif3r/WebExploit,581436591
-VU#25,0.00724638,https://github.com/jm33-m0/emp3r0r,jm33-m0/emp3r0r,236146680
 VU#25,0.00719424,https://github.com/Chinuaoku/Ethical-Hacking-and-Penetration-Testing,Chinuaoku/Ethical-Hacking-and-Penetration-Testing,934465312
 VU#25,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#25,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
@@ -633,7 +633,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00029621,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00029533,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -674,6 +674,7 @@ VU#25,0.00018793,https://github.com/freedarwuin/metasploit,freedarwuin/metasploi
 VU#25,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM/metasploit-framework-replica,933057917
 VU#25,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#25,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
+VU#25,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#25,0.00018426,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

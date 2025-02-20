@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-9R9R-F8XC-M875,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-23950,Live-Hack-CVE/CVE-2022-23950,582114583
 GHSA-9R9R-F8XC-M875,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
+GHSA-9R9R-F8XC-M875,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,936098931
 GHSA-9R9R-F8XC-M875,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,934581112
 GHSA-9R9R-F8XC-M875,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-9R9R-F8XC-M875,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

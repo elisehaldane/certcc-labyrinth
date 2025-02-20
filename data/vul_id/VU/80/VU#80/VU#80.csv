@@ -36,6 +36,7 @@ VU#80,0.20000000,https://github.com/francis-du/HackLog4j,francis-du/HackLog4j,43
 VU#80,0.20000000,https://github.com/aFoxPod/RCELog4j,aFoxPod/RCELog4j,437061764
 VU#80,0.20000000,https://github.com/dbgee/fastjson-rce,dbgee/fastjson-rce,429738760
 VU#80,0.20000000,https://github.com/firstC99/fastjson-1.2.47-RCE,firstC99/fastjson-1.2.47-RCE,204450188
+VU#80,0.16666667,https://github.com/brandonnimer/Project-2-Exploit-Vulnerabilities-in-Target-Web-Application-Linux-Servers-and-Windows-Servers,brandonnimer/Project-2-Exploit-Vulnerabilities-in-Target-Web-Application-Linux-Servers-and-Windows-Servers,936178622
 VU#80,0.16666667,https://github.com/deepdown2death/Log4Shell-DIABLE,deepdown2death/Log4Shell-DIABLE,921876631
 VU#80,0.16666667,https://github.com/MiraXSploitTeam/Roblox-Exploit--MiraXSploit,MiraXSploitTeam/Roblox-Exploit--MiraXSploit,874027650
 VU#80,0.16666667,https://github.com/alisatodorova/Software-Vulnerabilities,alisatodorova/Software-Vulnerabilities,839839911
@@ -167,8 +168,8 @@ VU#80,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learni
 VU#80,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#80,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#80,0.03125000,https://github.com/ManavStud/CVE-Engine-V2,ManavStud/CVE-Engine-V2,889560431
-VU#80,0.03125000,https://github.com/lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,885779813
 VU#80,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
+VU#80,0.03030303,https://github.com/lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,885779813
 VU#80,0.02857143,https://github.com/quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,quasarsrus/Discrete-Symmetry-Detection-and-Exploitation-Reinforcement-Learning-,856628150
 VU#80,0.02857143,https://github.com/ivanova-an/Exploration-Exploitation,ivanova-an/Exploration-Exploitation,740584421
 VU#80,0.02857143,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,736837129
