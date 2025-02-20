@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+936083031,Ankitkushwaha90/Kernel-Vuln-Exploits,kernel-exploit.md,651c84f59a1a334027f4e6e717ff7fcd1f2ac5f9,CVE-2016-5195
+936083031,Ankitkushwaha90/Kernel-Vuln-Exploits,kernel-exploit.md,651c84f59a1a334027f4e6e717ff7fcd1f2ac5f9,CVE-2021-4034
+936083031,Ankitkushwaha90/Kernel-Vuln-Exploits,how_we_can_do_exploit.md,910b1101c0ee2e4e83f11b8111b48d63b0e5d9fc,CVE-2016-5195
+936083031,Ankitkushwaha90/Kernel-Vuln-Exploits,how_we_can_do_exploit.md,910b1101c0ee2e4e83f11b8111b48d63b0e5d9fc,CVE-2021-3493
