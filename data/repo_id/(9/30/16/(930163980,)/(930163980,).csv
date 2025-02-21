@@ -33,8 +33,8 @@ repo_id,repo_full_name,file,file_sha1,match
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/wpa_supplicant/ChangeLog,873f9a778af9bf551eeb6f378c67af3209e05545,CVE-2015-5310
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/wpa_supplicant/ChangeLog,873f9a778af9bf551eeb6f378c67af3209e05545,CVE-2015-5315
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/wpa_supplicant/ChangeLog,873f9a778af9bf551eeb6f378c67af3209e05545,CVE-2015-4144
-930163980,toffeenutt/CVE-2022-47522-PoC,README.md,a44a4bcce7c433f93fdb7025eee1d4c1d9eb4814,CVE-2022-47522
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/tests/hwsim/auth_serv/dh2.conf,ad8b51ec540283c6576b69ab6c304eb30d4156a0,VU#14
+930163980,toffeenutt/CVE-2022-47522-PoC,README.md,b003cd79695ae8e15bfcf27f235e3b5c0b3111dd,CVE-2022-47522
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/hostapd/ChangeLog,b23445647c5dc3def24d397246d7f9c8e8e91071,CVE-2019-9497
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/hostapd/ChangeLog,b23445647c5dc3def24d397246d7f9c8e8e91071,CVE-2019-9495
 930163980,toffeenutt/CVE-2022-47522-PoC,macstealer/hostapd/ChangeLog,b23445647c5dc3def24d397246d7f9c8e8e91071,CVE-2019-9496
