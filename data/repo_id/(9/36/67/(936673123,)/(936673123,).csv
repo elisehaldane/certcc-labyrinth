@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+936673123,abdullah89255/Metasploit-Framework-,README.md,eddb50e8412e33e6c8a171362625a4eb94919131,CVE-2019-0708
+936673123,abdullah89255/Metasploit-Framework-,README.md,eddb50e8412e33e6c8a171362625a4eb94919131,CVE-2021-1675
+936673123,abdullah89255/Metasploit-Framework-,README.md,eddb50e8412e33e6c8a171362625a4eb94919131,MS17-010
