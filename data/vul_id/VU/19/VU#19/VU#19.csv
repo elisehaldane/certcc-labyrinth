@@ -38,6 +38,7 @@ VU#19,0.14285714,https://github.com/h0ru/gpk,h0ru/gpk,569460034
 VU#19,0.14285714,https://github.com/cxosmo/CVE-2021-42697,cxosmo/CVE-2021-42697,484937723
 VU#19,0.14285714,https://github.com/eohealy/MSc-Cybersecurity-Thesis,eohealy/MSc-Cybersecurity-Thesis,426781771
 VU#19,0.14285714,https://github.com/grantdadams/Rceattle_MSE,grantdadams/Rceattle_MSE,422694927
+VU#19,0.12500000,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#19,0.12500000,https://github.com/wd53rc16mn412tys53our32ces/exploits,wd53rc16mn412tys53our32ces/exploits,593691424
 VU#19,0.12500000,https://github.com/Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,Web-3-0-Service/Drainer-Crypto-ETH-NFT-Signature,527356987
 VU#19,0.12500000,https://github.com/nanom/busNumberRecognition,nanom/busNumberRecognition,459852128
@@ -215,6 +216,7 @@ VU#19,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploi
 VU#19,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#19,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
+VU#19,0.01666667,https://github.com/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338,Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338,936625873
 VU#19,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#19,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#19,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
@@ -507,7 +509,7 @@ VU#19,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#19,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#19,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#19,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#19,0.00073475,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#19,0.00073421,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#19,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#19,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#19,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -516,8 +518,8 @@ VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#19,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#19,0.00030193,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#19,0.00029516,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00030084,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#19,0.00029499,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

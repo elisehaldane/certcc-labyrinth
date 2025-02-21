@@ -308,6 +308,7 @@ VU#25,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,
 VU#25,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#25,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#25,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
+VU#25,0.01666667,https://github.com/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338,Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338,936625873
 VU#25,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
 VU#25,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#25,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
@@ -633,7 +634,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00029516,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00029499,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

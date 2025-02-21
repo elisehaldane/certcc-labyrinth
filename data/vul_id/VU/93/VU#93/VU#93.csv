@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#93,1.00000000,https://github.com/Policedude/Exploit-Locator,Policedude/Exploit-Locator,890976769
 VU#93,1.00000000,https://github.com/ychukchik/BufferOverflow_Exploit,ychukchik/BufferOverflow_Exploit,805587590
 VU#93,1.00000000,https://github.com/V-i-x-x/AMSI-BYPASS,V-i-x-x/AMSI-BYPASS,795708223
 VU#93,1.00000000,https://github.com/SevJSix/IceAnarchyCore,SevJSix/IceAnarchyCore,605664556
@@ -479,7 +480,7 @@ VU#93,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#93,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#93,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#93,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#93,0.00030193,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#93,0.00030084,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#93,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#93,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#93,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
