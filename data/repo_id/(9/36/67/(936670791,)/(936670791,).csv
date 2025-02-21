@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+936670791,Khusi-docker/Eternal_Blue_Exploitation,README.md,237d11f145bc907e7c5f36ca71fde4459ee48ea2,CVE-2017-0144
+936670791,Khusi-docker/Eternal_Blue_Exploitation,README.md,237d11f145bc907e7c5f36ca71fde4459ee48ea2,MS17-010
