@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+912895629,prashantdangi/prashantdangi.github.io,_posts/2025-02-18-CVE-2025-22689.md,0f6844af012f94be58a77edd1c4901565d9f4438,CVE-2025-22689
+912895629,prashantdangi/prashantdangi.github.io,_posts/2025-01-02-LLM-OWASP-top-10.md,8652b17e5ad223df144f9817136e333fa8b3c01e,CVE-2019-20634
+912895629,prashantdangi/prashantdangi.github.io,_posts/2025-02-16-fastcms-xss.md,98f54e5cdb3f291010701b614f673048d9fdd592,CVE-2025-1332
