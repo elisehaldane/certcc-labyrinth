@@ -1,5 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
 229195345,dillonwu-97/csec-code,hackthebox/machines/linkvortex/notes.md,2a9d34630194d37781880680488f844eb5675121,CVE-2023-40028
+229195345,dillonwu-97/csec-code,hackthebox/machines/titanic/notes.md,36cfbb4e82510cb019acef0e01b93edeb7e7ceb2,GHSA-8RXC-922V-PHG8
 229195345,dillonwu-97/csec-code,h4ck1ng-google/ep1/ch1/wannacry,3c50dd173628a60f6e21b14564453bcafff00c02,VU#58
 229195345,dillonwu-97/csec-code,hackthebox/challenges/web/baby-breaking-grad/challenge/static/css/main.css,473f3aefbc6c7f919cbab24fcf7bb0b984c6794b,VU#86
 229195345,dillonwu-97/csec-code,hackthebox/challenges/web/baby-breaking-grad/challenge/static/css/main.css,473f3aefbc6c7f919cbab24fcf7bb0b984c6794b,VU#40
