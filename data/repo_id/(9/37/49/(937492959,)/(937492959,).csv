@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+937492959,gl1tch0x1/Ghost-CMS-Exploit,ghost-cms.py,aeab017c7be0c208a1f7750b3c2043a6a0c491c8,CVE-2024-23724
+937492959,gl1tch0x1/Ghost-CMS-Exploit,README.md,e5c9dc43434e5b149bcf796fe71b51161e00917f,CVE-2024-23724
+937492959,gl1tch0x1/Ghost-CMS-Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-23724
