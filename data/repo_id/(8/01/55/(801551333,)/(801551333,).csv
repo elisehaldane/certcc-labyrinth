@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-801551333,daxtar2/Guts,config/scan.go,3913a014a09bf53f5736bb8461d3438f752b01ae,CVE-2023-1234
-801551333,daxtar2/Guts,config/scan.go,3913a014a09bf53f5736bb8461d3438f752b01ae,CVE-2024-5678
+801551333,daxtar2/Guts,config/scan.go,5e469116e0bbdf9c0decfde98607e7b3dd3f8160,CVE-2023-1234
+801551333,daxtar2/Guts,config/scan.go,5e469116e0bbdf9c0decfde98607e7b3dd3f8160,CVE-2024-5678
 801551333,daxtar2/Guts,go.sum,b7ebbc1823950fc5d7d85fbfc3c4e9048c49af24,VU#92
