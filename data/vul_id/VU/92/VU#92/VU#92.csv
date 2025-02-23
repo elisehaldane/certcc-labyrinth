@@ -62,6 +62,7 @@ VU#92,0.11111111,https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine,SNE-M23-
 VU#92,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#92,0.10000000,https://github.com/riccio8/ExploitEye,riccio8/ExploitEye,837200476
 VU#92,0.10000000,https://github.com/ArjunSridharkumar/reproduce_cves_2024,ArjunSridharkumar/reproduce_cves_2024,830335416
+VU#92,0.09090909,https://github.com/hunarbatra/multi-agent-exploits-evals,hunarbatra/multi-agent-exploits-evals,937471625
 VU#92,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/CheckYumcRCE,661985118
 VU#92,0.08333333,https://github.com/mirkozaff/aa-sgan,mirkozaff/aa-sgan,835281085
 VU#92,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
