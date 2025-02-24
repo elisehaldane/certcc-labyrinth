@@ -37,8 +37,8 @@ repo_id,repo_full_name,file,file_sha1,match
 573569557,xsscx/windows,pwsh/dump-icc-color-profiles.ps1,7fbe5b071126c2dbe238e24fe263af1faa5da293,VU#75
 573569557,xsscx/windows,pwsh/vcpkg-export-sdk-static-deps.ps1,866d2090a685c7a2ef2ab664537b6ba37dee4af2,VU#75
 573569557,xsscx/windows,pwsh/asan-change-propeties.ps1,8753c6ba953c3012874062cfe0467dabde865c3a,VU#75
-573569557,xsscx/windows,pwsh/list-drives-guid-summary.ps1,8d81d4f6034a652777f3e4366635d445f244c815,VU#75
 573569557,xsscx/windows,pwsh/list-drives-guid-summary.ps1,8d81d4f6034a652777f3e4366635d445f244c815,VU#79
+573569557,xsscx/windows,pwsh/list-drives-guid-summary.ps1,8d81d4f6034a652777f3e4366635d445f244c815,VU#75
 573569557,xsscx/windows,pwsh/vs_strings_exe_dll_sampling.ps1,8edc5a0d1c71a117926e0a02423eee63d1f5e5c2,VU#75
 573569557,xsscx/windows,crash/photoapp/Readme.md,9072f813e85b7e83dad83f50cf0d1cff187cf134,CVE-2022-26730
 573569557,xsscx/windows,pwsh/verify-signtool-checks-logfile.ps1,93e82d2a0364eeefdf65783972034a2568ece4ea,VU#75
@@ -48,7 +48,6 @@ repo_id,repo_full_name,file,file_sha1,match
 573569557,xsscx/windows,pwsh/git-repos-compare-stats-summary-file-listing.ps1,a62669024b524032697cbbb7aa0e9d2a1f65c576,VU#75
 573569557,xsscx/windows,pwsh/set_developer_powershell_default_terminal.ps1,afcf5d8457c80c6c2b184acd3f05dc7f8cae11cb,VU#75
 573569557,xsscx/windows,pwsh/unifiedauditlog-ytd-harvest-sample-001.ps1,b1097cafe1d982d33f451201c37040f54847dc0c,VU#75
-573569557,xsscx/windows,pwsh/find-exe-files.ps1,b3b1599f8f4efdffd4d734d2ccf5344273c6ab90,VU#75
 573569557,xsscx/windows,pwsh/sample-package-source.ps1,b65b1f99b5b4460d9d9cbe4cc22ad51aff07dafa,VU#75
 573569557,xsscx/windows,pwsh/dump-consolehistory.ps1,b685d63494689cc38bdc64f9f5eb1b8aea91095b,VU#75
 573569557,xsscx/windows,pwsh/enable_long_paths.ps1,d184248271f0b019c0eac1a6d3e040caa620b72a,VU#75
