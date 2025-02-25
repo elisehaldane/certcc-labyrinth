@@ -101,7 +101,6 @@ VU#34,0.07692308,https://github.com/pxcs/CrackMacExpo,pxcs/CrackMacExpo,79688250
 VU#34,0.07692308,https://github.com/Sk3pper/CVE-2024-21626,Sk3pper/CVE-2024-21626,772512207
 VU#34,0.07142857,https://github.com/Aalaa-A/multiarmed_bandit,Aalaa-A/multiarmed_bandit,916061508
 VU#34,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
-VU#34,0.07142857,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#34,0.06666667,https://github.com/Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,929613226
 VU#34,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
 VU#34,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
@@ -109,6 +108,7 @@ VU#34,0.05882353,https://github.com/AllenJustine/Automating-Log4j-Exploit-using-
 VU#34,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
 VU#34,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#34,0.05882353,https://github.com/belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,belindalafaille/Time-Series-Forecasting-With-Python-Using-Facebook-Prophet-SARIMAX-LSTM...,654340148
+VU#34,0.05882353,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#34,0.05555556,https://github.com/AxelJL/EscapeNoGame,AxelJL/EscapeNoGame,886793111
 VU#34,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#34,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
@@ -342,9 +342,9 @@ VU#34,0.00877193,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante
 VU#34,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#34,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#34,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
-VU#34,0.00854701,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#34,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#34,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#34,0.00847458,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#34,0.00840336,https://github.com/FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,FouadAzougagh/Analyse-et-Exploitation-Donnees-Texte-Audio-Video,478129426
 VU#34,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#34,0.00833333,https://github.com/pikpikcu/Pentest-Tools-Framework,pikpikcu/Pentest-Tools-Framework,235234345
@@ -473,9 +473,9 @@ VU#34,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#34,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#34,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#34,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#34,0.00175747,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#34,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
-VU#34,0.00170358,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#34,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#34,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#34,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
@@ -542,7 +542,7 @@ VU#34,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#34,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#34,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#34,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#34,0.00018420,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#34,0.00018403,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#34,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#34,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

@@ -4,7 +4,7 @@ VU#23,1.00000000,https://github.com/T4y1oR/RingQ,T4y1oR/RingQ,799138425
 VU#23,1.00000000,https://github.com/Quartinal/INSECURLY,Quartinal/INSECURLY,733309654
 VU#23,1.00000000,https://github.com/DanisyEisyraf/Vulnerability-Attacks,DanisyEisyraf/Vulnerability-Attacks,652877446
 VU#23,1.00000000,https://github.com/jity16/BEE,jity16/BEE,650042183
-VU#23,1.00000000,https://github.com/JoshGamesMore/Roblox-Exploit-Open-Source,JoshGamesMore/Roblox-Exploit-Open-Source,553967050
+VU#23,1.00000000,https://github.com/JoshUnscripted/Roblox-Exploit-Open-Source,JoshUnscripted/Roblox-Exploit-Open-Source,553967050
 VU#23,1.00000000,https://github.com/jaredplumb/Exploiting-Googles-Edge,jaredplumb/Exploiting-Googles-Edge,190242492
 VU#23,0.50000000,https://github.com/CavaWasTaken/ICT4Health,CavaWasTaken/ICT4Health,922622654
 VU#23,0.50000000,https://github.com/a-roshbaik/PhoneSploit,a-roshbaik/PhoneSploit,831081439
@@ -21,7 +21,7 @@ VU#23,0.50000000,https://github.com/Rich-dotcom/PhoneSploit,Rich-dotcom/PhoneSpl
 VU#23,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,492448072
 VU#23,0.50000000,https://github.com/soryecker/PhoneSploitSor,soryecker/PhoneSploitSor,339217912
 VU#23,0.50000000,https://github.com/mishab-ka/PhoneSploit,mishab-ka/PhoneSploit,287889360
-VU#23,0.50000000,https://github.com/prbhtkumr/PhoneSploit,prbhtkumr/PhoneSploit,259933740
+VU#23,0.50000000,https://github.com/aerosol-can/PhoneSploit,aerosol-can/PhoneSploit,259933740
 VU#23,0.33333333,https://github.com/Tnot123/exploit,Tnot123/exploit,927198168
 VU#23,0.33333333,https://github.com/Gustasvk/exploits,Gustasvk/exploits,759772296
 VU#23,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
@@ -135,7 +135,6 @@ VU#23,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,
 VU#23,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#23,0.07692308,https://github.com/Charlzk05/Roblox-Websites-Script-Packs,Charlzk05/Roblox-Websites-Script-Packs,558309034
 VU#23,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
-VU#23,0.07142857,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#23,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#23,0.07142857,https://github.com/gepthecoder/game-hacking,gepthecoder/game-hacking,512393116
 VU#23,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
@@ -163,6 +162,7 @@ VU#23,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-b
 VU#23,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-2021-44228-demo,807102558
 VU#23,0.05882353,https://github.com/ericyoc/quantum-circuit-anomaly-detection-poc,ericyoc/quantum-circuit-anomaly-detection-poc,783459338
 VU#23,0.05882353,https://github.com/subhashmekapati/Intrusion-Detection-using-ML,subhashmekapati/Intrusion-Detection-using-ML,664464540
+VU#23,0.05882353,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#23,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
 VU#23,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
 VU#23,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
@@ -377,10 +377,10 @@ VU#23,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#23,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#23,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#23,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
-VU#23,0.00854701,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#23,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#23,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#23,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#23,0.00847458,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#23,0.00840336,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#23,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#23,0.00833333,https://github.com/pikpikcu/Pentest-Tools-Framework,pikpikcu/Pentest-Tools-Framework,235234345
@@ -530,9 +530,9 @@ VU#23,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#23,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#23,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#23,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#23,0.00175747,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#23,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#23,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
-VU#23,0.00170358,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#23,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#23,0.00166945,https://github.com/sheldor33/BuildYourPassword,sheldor33/BuildYourPassword,796217341
 VU#23,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
@@ -598,7 +598,7 @@ VU#23,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#23,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#23,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#23,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#23,0.00018420,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00018403,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

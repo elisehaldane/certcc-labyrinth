@@ -86,7 +86,6 @@ VU#17,0.07142857,https://github.com/phannhat17/metasploit-web-interface,phannhat
 VU#17,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
 VU#17,0.07142857,https://github.com/IdanBanani/Chromium-Browser-exploitation,IdanBanani/Chromium-Browser-exploitation,696504643
 VU#17,0.07142857,https://github.com/onedering/Exploiting-software-vulnerabilities,onedering/Exploiting-software-vulnerabilities,692855045
-VU#17,0.07142857,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#17,0.07142857,https://github.com/SusanaSoledo/miproyecto,SusanaSoledo/miproyecto,581694470
 VU#17,0.07142857,https://github.com/r00t4dm/Jenkins-CVE-2016-9299,r00t4dm/Jenkins-CVE-2016-9299,550148393
 VU#17,0.07142857,https://github.com/bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,bceyhann/Python-Web-Scrapping-Script-With-MySql-Database,505820254
@@ -117,6 +116,7 @@ VU#17,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX1
 VU#17,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
 VU#17,0.05882353,https://github.com/muad-u/CyberSentinels,muad-u/CyberSentinels,889993446
 VU#17,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
+VU#17,0.05882353,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#17,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#17,0.05555556,https://github.com/lambdaclass/PoC-exploit-SP1,lambdaclass/PoC-exploit-SP1,922999074
 VU#17,0.05555556,https://github.com/RajeevThapa/AVDEF,RajeevThapa/AVDEF,886988270
@@ -331,11 +331,11 @@ VU#17,0.00877193,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante
 VU#17,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#17,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#17,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
-VU#17,0.00854701,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#17,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#17,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#17,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#17,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#17,0.00847458,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
 VU#17,0.00833333,https://github.com/JakubTabor/Regression,JakubTabor/Regression,664575090
 VU#17,0.00826446,https://github.com/john-friedman/Conflict-Minerals,john-friedman/Conflict-Minerals,919332021
 VU#17,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
@@ -471,9 +471,9 @@ VU#17,0.00210084,https://github.com/TcherB31/xRay_Scanner_Cracked_1.9.3,TcherB31
 VU#17,0.00186567,https://github.com/ahron-chet/PE-To-Shellcode,ahron-chet/PE-To-Shellcode,893959006
 VU#17,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 VU#17,0.00179533,https://github.com/darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,darrenlei888/The-Interacting-Coulomb-Problem-as-a-Bethe-Ansatz-Problem,570198864
+VU#17,0.00175747,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#17,0.00175439,https://github.com/mastroalex/elasto-plastic,mastroalex/elasto-plastic,440547753
 VU#17,0.00174825,https://github.com/t101804/Vault-Sites,t101804/Vault-Sites,763373095
-VU#17,0.00170358,https://github.com/catfoolyou/Block-Bypass,catfoolyou/Block-Bypass,773801138
 VU#17,0.00167224,https://github.com/GiggioIlGriggio/green_areas_detection,GiggioIlGriggio/green_areas_detection,744509900
 VU#17,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 VU#17,0.00164474,https://github.com/zzqq0212/Sunflower,zzqq0212/Sunflower,790017610
@@ -500,7 +500,7 @@ VU#17,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#17,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#17,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#17,0.00029586,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#17,0.00029386,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#17,0.00029360,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#17,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#17,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#17,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -541,6 +541,6 @@ VU#17,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#17,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#17,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#17,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#17,0.00018420,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#17,0.00018403,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#17,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#17,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
