@@ -77,6 +77,7 @@ VU#55,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040
 VU#55,0.11111111,https://github.com/Legrandmasson/Syst-me-d-exploitation,Legrandmasson/Syst-me-d-exploitation,877402126
 VU#55,0.11111111,https://github.com/Shaw1213/Remote-Code-Execution,Shaw1213/Remote-Code-Execution,808865787
 VU#55,0.11111111,https://github.com/Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,Arokamal/CLASSIFICATION-OF-DEPRESSION-ON-SOCIAL-MEDIA-USING-TEXT-MINING,531934835
+VU#55,0.10000000,https://github.com/MimiToKOX/ThunerHack-Exploitcore,MimiToKOX/ThunerHack-Exploitcore,914849463
 VU#55,0.10000000,https://github.com/mattiadarg/CengBox-PT,mattiadarg/CengBox-PT,912441813
 VU#55,0.10000000,https://github.com/DuncanParSky/Unblocking.Icu,DuncanParSky/Unblocking.Icu,888183960
 VU#55,0.10000000,https://github.com/ericyoc/cnn_hnn_comparison_analysis_poc,ericyoc/cnn_hnn_comparison_analysis_poc,782261984
@@ -163,7 +164,6 @@ VU#55,0.03846154,https://github.com/0xNslabs/Rakuten5GTurboAPI,0xNslabs/Rakuten5
 VU#55,0.03846154,https://github.com/safeer-accuknox/BLOG-POC,safeer-accuknox/BLOG-POC,886447560
 VU#55,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#55,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled,cyber-defence-campus/netgear_r6700v3_circled,648047567
-VU#55,0.03703704,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#55,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#55,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#55,0.03703704,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
@@ -466,6 +466,7 @@ VU#55,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESM
 VU#55,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#55,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
 VU#55,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
+VU#55,0.00840336,https://github.com/matthewweaver/garnet,matthewweaver/garnet,891118476
 VU#55,0.00826446,https://github.com/john-friedman/Conflict-Minerals,john-friedman/Conflict-Minerals,919332021
 VU#55,0.00819672,https://github.com/Michel-Nassalang/IA_TP,Michel-Nassalang/IA_TP,547252025
 VU#55,0.00813008,https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks,374769765
@@ -636,14 +637,14 @@ VU#55,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#55,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#55,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#55,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#55,0.00067613,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#55,0.00067385,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#55,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#55,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#55,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#55,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#55,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#55,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#55,0.00029412,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#55,0.00029386,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#55,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#55,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#55,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
