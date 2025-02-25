@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+938818030,szyth/CVE-2024-23346-rust-exploit,src/main.rs,d0a564bf51e1f4baadc60aa1591b734069b90c38,CVE-2024-23346
+938818030,szyth/CVE-2024-23346-rust-exploit,README.md,da9aa3793080ee6beeaae888c635feab606517bc,CVE-2024-23346
+938818030,szyth/CVE-2024-23346-rust-exploit,file/poc.cif,f2361cc8b1e5722dcc6f07fe30d990fda97aa4f1,CVE-2024-23346
+938818030,szyth/CVE-2024-23346-rust-exploit,_GITHUB_REPO_METADATA_,,CVE-2024-23346
