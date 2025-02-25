@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+938869138,SerCaesar/MetasploitFiller,MetasploitFillerUpdater/RpcUtils/MetasploitManager.cs,38d1ec754acf35c50606c66ec43587870ec6674a,MS08-067
