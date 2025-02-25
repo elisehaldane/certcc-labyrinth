@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+931376064,akamai/Mirage,README.md,e521ab1fef331865de0c3710bf6fba27ee130523,CVE-2023-36880
+931376064,akamai/Mirage,README.md,e521ab1fef331865de0c3710bf6fba27ee130523,GHSA-WWR4-V5MR-3X9W
