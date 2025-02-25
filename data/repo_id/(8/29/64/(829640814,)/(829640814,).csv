@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+829640814,rightrice/cybsec,cve/CVE-2014-0160.py,3ee1d06fdd91df7a701a6d2b03abeb1ebb66fccd,CVE-2014-0160
+829640814,rightrice/cybsec,cve/CVE-2025-0108.md,5025d0e9f4d262d68047dac6bdef6ba206bbfc9f,CVE-2025-0108
+829640814,rightrice/cybsec,cve/CVE-2024-57727.py,ac9687fff12b7f88958ae77f5e94a4adadbc4971,CVE-2024-57727
+829640814,rightrice/cybsec,cve/CVE-2024-57727.md,b458a79fba4fbef69e385be5df68d5d322d0233b,CVE-2024-57727
+829640814,rightrice/cybsec,cve/CVE-2014-0160.md,e437c6d329447c386398d1cdbf3f24ae57d39e7c,CVE-2014-0160
+829640814,rightrice/cybsec,cve/CVE-2025-0108.py,e953c1d4fe0a049f76e2baf1d6fc6872b3a16d44,CVE-2025-0108
