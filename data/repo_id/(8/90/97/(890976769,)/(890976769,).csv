@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-890976769,Policedude/Exploit-Locator,Exploit Locator.zip,849fa43cf9e2273fdb42b69bfc979c8b475b87b2,VU#52
+890976769,Policedude/Exploit-Locator,Exploit Locator.zip,6285151dcb31330a5dccbdc7180d3a7b0f660e34,VU#00
+890976769,Policedude/Exploit-Locator,Exploit Locator.zip,6285151dcb31330a5dccbdc7180d3a7b0f660e34,VU#80
+890976769,Policedude/Exploit-Locator,Exploit Locator.zip,6285151dcb31330a5dccbdc7180d3a7b0f660e34,VU#84
