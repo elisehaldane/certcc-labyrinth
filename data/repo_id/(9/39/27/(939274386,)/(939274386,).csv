@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+939274386,Sachinart/essential-addons-for-elementor-xss-poc,README.md,254e3d9a93a284a90a207a124b4fa37543e5048d,CVE-2025-24752
+939274386,Sachinart/essential-addons-for-elementor-xss-poc,_GITHUB_REPO_METADATA_,,CVE-2025-24752
