@@ -3,3 +3,8 @@ repo_id,repo_full_name,file,file_sha1,match
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#27
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#272
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#70
+921655375,Venom-devX/Exploits,BloodyHubSource.lua,2bfc39f4669874f9de63803f8865b9be9d5f4cfe,VU#276
+921655375,Venom-devX/Exploits,BloodyHubSource.lua,2bfc39f4669874f9de63803f8865b9be9d5f4cfe,VU#28
+921655375,Venom-devX/Exploits,BloodyHubSource.lua,2bfc39f4669874f9de63803f8865b9be9d5f4cfe,VU#65
+921655375,Venom-devX/Exploits,BloodyHubSource.lua,2bfc39f4669874f9de63803f8865b9be9d5f4cfe,VU#75
+921655375,Venom-devX/Exploits,BloodyHubSource.lua,2bfc39f4669874f9de63803f8865b9be9d5f4cfe,VU#85
