@@ -13,7 +13,6 @@ BID-1,0.50000000,https://github.com/PizzaWhisperer/HLLVuln,PizzaWhisperer/HLLVul
 BID-1,0.50000000,https://github.com/u2009cf/spark-radar,u2009cf/spark-radar,100241368
 BID-1,0.50000000,https://github.com/chenc10/Spark-PAF-INFOCOM18,chenc10/Spark-PAF-INFOCOM18,94409958
 BID-1,0.50000000,https://github.com/HTCTeam/HTCaaS,HTCTeam/HTCaaS,37580258
-BID-1,0.33333333,https://github.com/Nikhil172913832/Exploit_Rag,Nikhil172913832/Exploit_Rag,937486865
 BID-1,0.33333333,https://github.com/nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088,nidhihcl75/packages_apps_Settings_AOSP10_r33_CVE-2024-43088,934799866
 BID-1,0.33333333,https://github.com/Trinadh465/packages_apps_Settings_CVE-2020-0201,Trinadh465/packages_apps_Settings_CVE-2020-0201,816647824
 BID-1,0.33333333,https://github.com/Trinadh465/linux-4.19.72_CVE-2019-19447,Trinadh465/linux-4.19.72_CVE-2019-19447,724075085
@@ -71,6 +70,7 @@ BID-1,0.12500000,https://github.com/nidhi7598/expat_2.1.0_CVE-2022-40674,nidhi75
 BID-1,0.12500000,https://github.com/Nivaskumark/external_expat_v2.1.0_CVE-2022-25315,Nivaskumark/external_expat_v2.1.0_CVE-2022-25315,491478555
 BID-1,0.11111111,https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757,krnidhi/expat_2.1.1_CVE-2024-28757,795349934
 BID-1,0.11111111,https://github.com/syscalls/linux,syscalls/linux,160109948
+BID-1,0.10000000,https://github.com/Nikhil172913832/Exploit_Rag,Nikhil172913832/Exploit_Rag,937486865
 BID-1,0.10000000,https://github.com/NTDXYG/EL-CodeBert,NTDXYG/EL-CodeBert,458709869
 BID-1,0.09090909,https://github.com/lucasballr/exploitables,lucasballr/exploitables,763631480
 BID-1,0.09090909,https://github.com/pazhanivel07/openjpeg-2.3.0_CVE-2020-27824,pazhanivel07/openjpeg-2.3.0_CVE-2020-27824,483206761
@@ -164,7 +164,7 @@ BID-1,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,3650
 BID-1,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_detection,196969345
 BID-1,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 BID-1,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-BID-1,0.00067385,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+BID-1,0.00067114,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 BID-1,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-1,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-1,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
