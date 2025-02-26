@@ -30,7 +30,7 @@ VU#58,0.50000000,https://github.com/Gurguii/-PoC-VotingSystem1.0-Authenticated-R
 VU#58,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
 VU#58,0.50000000,https://github.com/buraktyce/XAMPP-Webdav-Exploit,buraktyce/XAMPP-Webdav-Exploit,445833722
 VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Exploit,nisforrnicholas/WordPress-Theme-Editor-Exploit,432630381
-VU#58,0.50000000,https://github.com/hansmach1ne/LFImap,hansmach1ne/LFImap,342459650
+VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
 VU#58,0.33333333,https://github.com/MrR0b0t19/Easy-JTP,MrR0b0t19/Easy-JTP,921253827
@@ -42,7 +42,7 @@ VU#58,0.33333333,https://github.com/fxpgunz/gunz-1.0,fxpgunz/gunz-1.0,486681354
 VU#58,0.33333333,https://github.com/Silence-Talk/BinaryExploitation,Silence-Talk/BinaryExploitation,485233669
 VU#58,0.33333333,https://github.com/ValdesChe/laravel-vulnerable-app_poc,ValdesChe/laravel-vulnerable-app_poc,474957366
 VU#58,0.33333333,https://github.com/Ifem2BXvz4N4gh1gGn0bkR3Lp/cihna-dictatorshrip-8,Ifem2BXvz4N4gh1gGn0bkR3Lp/cihna-dictatorshrip-8,456507653
-VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-7,cirosantilli/china-dictatorhsip-7,397523094
+VU#58,0.33333333,https://github.com/cirosantilli/china-dictatorhsip-6,cirosantilli/china-dictatorhsip-6,397523094
 VU#58,0.33333333,https://github.com/cheezcharmer/chinese-dictatorship,cheezcharmer/chinese-dictatorship,393679755
 VU#58,0.33333333,https://github.com/quinb96/PhoneSploitGui,quinb96/PhoneSploitGui,309204881
 VU#58,0.33333333,https://github.com/acecilia/OpenWRTInvasion,acecilia/OpenWRTInvasion,248380503
@@ -490,8 +490,8 @@ VU#58,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#58,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#58,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#58,0.00029499,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#58,0.00029334,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#58,0.00029351,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#58,0.00029300,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#58,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#58,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
