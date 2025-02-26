@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+937106093,mahepwn/Port-Scanner-with-Automation-Exploitation,port_exploitation.sh,8b5685f5640238a44fca421638428d8a39ef2ea0,CVE-2019-0708
+937106093,mahepwn/Port-Scanner-with-Automation-Exploitation,port_exploitation.sh,8b5685f5640238a44fca421638428d8a39ef2ea0,MS17-010
