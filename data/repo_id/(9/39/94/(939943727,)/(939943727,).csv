@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+939943727,zebbern/SecOps-CLI-Guides,Shodan Pentesting Guide.pdf,2395bb81697c42d550559e54aa947ab9cd1d9313,VU#14
+939943727,zebbern/SecOps-CLI-Guides,Shodan Pentesting Guide.pdf,2395bb81697c42d550559e54aa947ab9cd1d9313,VU#27
+939943727,zebbern/SecOps-CLI-Guides,SQLMap_Database_Pentesting.pdf,4d9580fef004458d007fb4ba6de63ac1b4e2591f,VU#48
+939943727,zebbern/SecOps-CLI-Guides,Quick Pentest Guide.pdf,521cf269e637a0f7857a36d4fa80254913ce868a,VU#15
+939943727,zebbern/SecOps-CLI-Guides,LDAP_Injection.pdf,60e80fb12a90832867066755cf3abdb01be89d92,VU#42
+939943727,zebbern/SecOps-CLI-Guides,Buffer Overflow.pdf,7245df9e6d0048805b39caa8dc1236c730dc69b2,VU#60
+939943727,zebbern/SecOps-CLI-Guides,WordPress_Pentesting.pdf,a3a0d0dba7273a437dd19ce12d6175f7a0986644,VU#54
+939943727,zebbern/SecOps-CLI-Guides,Cross_site_Scripting_and_HTML_Injection.pdf,b293c9ee4a2ed892d3572cd47e2585dba32d6d38,VU#13
+939943727,zebbern/SecOps-CLI-Guides,Mobile Security Testing Guide.pdf,bea73768dfa0b92f9b6d59ee8dfab38b14c32175,VU#74
+939943727,zebbern/SecOps-CLI-Guides,Mobile Security Testing Guide.pdf,bea73768dfa0b92f9b6d59ee8dfab38b14c32175,VU#76
+939943727,zebbern/SecOps-CLI-Guides,All-About-Hacking.pdf,c14efd7702d8fb5f82c5276111889277947a403f,VU#65
+939943727,zebbern/SecOps-CLI-Guides,LINUX PRIVILEGE ESCALATION.pdf,c80e2e7a89371e4c3a42185db6537f6a806649c6,VU#59
+939943727,zebbern/SecOps-CLI-Guides,Windows Privilege Escalation.pdf,d4c20aa6e04c53742836cfb90314eafeabd40fb1,CVE-2018-15732
+939943727,zebbern/SecOps-CLI-Guides,Windows Privilege Escalation.pdf,d4c20aa6e04c53742836cfb90314eafeabd40fb1,MS03-026
+939943727,zebbern/SecOps-CLI-Guides,broken authentication.pdf,ee02c5f5d125c5daf1c8719f6490808abf37b560,VU#544
