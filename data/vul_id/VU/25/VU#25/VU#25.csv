@@ -16,6 +16,7 @@ VU#25,0.33333333,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
+VU#25,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.25000000,https://github.com/playvoras/python-exploits,playvoras/python-exploits,830739066
 VU#25,0.25000000,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
@@ -52,7 +53,6 @@ VU#25,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040
 VU#25,0.12500000,https://github.com/helmutrocco13/helmutrocco13.github.io,helmutrocco13/helmutrocco13.github.io,280519933
 VU#25,0.12500000,https://github.com/SoftFeta/tempusespatium,SoftFeta/tempusespatium,117782285
 VU#25,0.12500000,https://github.com/00xkhaled/Bella,00xkhaled/Bella,117435784
-VU#25,0.11111111,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.11111111,https://github.com/csBlueChip/Overflow2,csBlueChip/Overflow2,839135130
 VU#25,0.11111111,https://github.com/csBlueChip/Overflow,csBlueChip/Overflow,807833581
 VU#25,0.11111111,https://github.com/AndreaEnricoFranzoni/Computational_statistics_project,AndreaEnricoFranzoni/Computational_statistics_project,760152068
@@ -579,9 +579,9 @@ VU#25,0.00274725,https://github.com/fei9747/0day-1,fei9747/0day-1,515816665
 VU#25,0.00274725,https://github.com/Micr067/0day,Micr067/0day,504727514
 VU#25,0.00274725,https://github.com/takeboy/https-github.com-Lucifer1993-0day,takeboy/https-github.com-Lucifer1993-0day,476586810
 VU#25,0.00274725,https://github.com/helloexp/0day,helloexp/0day,106411071
-VU#25,0.00263158,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#25,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 VU#25,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
+VU#25,0.00257069,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
 VU#25,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 VU#25,0.00248756,https://github.com/tonyarris/srv,tonyarris/srv,550434370
 VU#25,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
@@ -684,6 +684,6 @@ VU#25,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#25,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#25,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#25,0.00000354,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#25,0.00000353,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
 VU#25,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#25,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
