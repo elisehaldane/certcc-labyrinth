@@ -251,6 +251,7 @@ VU#88,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/ph
 VU#88,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#88,0.02631579,https://github.com/ACK-J/SHAME_Model_PoC,ACK-J/SHAME_Model_PoC,437920634
 VU#88,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#88,0.02564103,https://github.com/Wian47/Web-Application-Vulnerability-Scanner,Wian47/Web-Application-Vulnerability-Scanner,939871911
 VU#88,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#88,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
 VU#88,0.02500000,https://github.com/softwareploitprojectlabs/token,softwareploitprojectlabs/token,848169218
@@ -643,7 +644,7 @@ VU#88,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#88,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#88,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#88,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#88,0.00029334,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#88,0.00029274,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#88,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#88,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#88,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688

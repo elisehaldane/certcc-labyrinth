@@ -121,13 +121,13 @@ VU#09,0.11111111,https://github.com/LastWRcs/S-500-G2-Rat-Hvnc-Hidden-Broswers-H
 VU#09,0.11111111,https://github.com/PfalzPrince/CVE-2021-28750-site,PfalzPrince/CVE-2021-28750-site,444335154
 VU#09,0.11111111,https://github.com/FM35/Website,FM35/Website,406005359
 VU#09,0.11111111,https://github.com/hodor-sec/Binary-Exploitation,hodor-sec/Binary-Exploitation,151313853
-VU#09,0.10000000,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#09,0.10000000,https://github.com/XuGW-Kevin/DrM,XuGW-Kevin/DrM,744360504
 VU#09,0.10000000,https://github.com/DShankle/VLC_CVE-2021-25804_Analysis,DShankle/VLC_CVE-2021-25804_Analysis,495571729
 VU#09,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
 VU#09,0.10000000,https://github.com/Transmetal/Tool-ExploitPack,Transmetal/Tool-ExploitPack,476019793
 VU#09,0.10000000,https://github.com/fingerprintjs/external-protocol-flooding,fingerprintjs/external-protocol-flooding,352513710
 VU#09,0.10000000,https://github.com/brimstone/docker-kali,brimstone/docker-kali,25772794
+VU#09,0.09090909,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#09,0.09090909,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,882308745
 VU#09,0.09090909,https://github.com/freedarwuin/SocialSploit,freedarwuin/SocialSploit,839009068
 VU#09,0.09090909,https://github.com/ToolKitHub/rce-images,ToolKitHub/rce-images,838704616
@@ -272,6 +272,7 @@ VU#09,0.02631579,https://github.com/Jianshu-Hu/pvr-generalization,Jianshu-Hu/pvr
 VU#09,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#09,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
 VU#09,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
+VU#09,0.02564103,https://github.com/Wian47/Web-Application-Vulnerability-Scanner,Wian47/Web-Application-Vulnerability-Scanner,939871911
 VU#09,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#09,0.02564103,https://github.com/Oishika-Kar/Interest-RateFX-Strategy,Oishika-Kar/Interest-RateFX-Strategy,751069185
 VU#09,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,HuongLyHoang/Airbnb-Sydney-Machine-Learning-Task,513751489
@@ -605,7 +606,7 @@ VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#09,0.00029300,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00029283,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#09,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -658,7 +659,7 @@ VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#09,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#09,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#09,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#09,0.00003699,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#09,0.00003688,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#09,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#09,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#09,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

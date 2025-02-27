@@ -32,6 +32,7 @@ VU#15,0.25000000,https://github.com/pxiangxiang/CNVD-2022-10270-LPE-go,pxiangxia
 VU#15,0.20000000,https://github.com/PopsCorsns/FiveM-External-Cheat,PopsCorsns/FiveM-External-Cheat,853341859
 VU#15,0.20000000,https://github.com/Joemoma1337/Metasploitable3,Joemoma1337/Metasploitable3,786234440
 VU#15,0.20000000,https://github.com/InfoSecExplorer/Vulnerability-Checklist,InfoSecExplorer/Vulnerability-Checklist,733799697
+VU#15,0.16666667,https://github.com/LalithaSahithi/HTB,LalithaSahithi/HTB,875299359
 VU#15,0.16666667,https://github.com/must-bioinfo/fastCNVdata,must-bioinfo/fastCNVdata,830075811
 VU#15,0.16666667,https://github.com/rezagoodarzi/QLearning_Cliff_walking,rezagoodarzi/QLearning_Cliff_walking,778704995
 VU#15,0.16666667,https://github.com/esuc4se/screwdriverRCE,esuc4se/screwdriverRCE,618388543
@@ -65,6 +66,7 @@ VU#15,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599
 VU#15,0.07692308,https://github.com/pucarasec/zuthaka,pucarasec/zuthaka,311746408
 VU#15,0.07142857,https://github.com/a0zhar/EternalBlue,a0zhar/EternalBlue,643563957
 VU#15,0.07142857,https://github.com/zhongyuchen/snn-iir,zhongyuchen/snn-iir,328096726
+VU#15,0.06666667,https://github.com/zebbern/SecOps-CLI-Guides,zebbern/SecOps-CLI-Guides,939943727
 VU#15,0.06666667,https://github.com/ChloeM1515/Marketing-Analysis-Project-in-Python,ChloeM1515/Marketing-Analysis-Project-in-Python,672221537
 VU#15,0.06666667,https://github.com/COMP790-InfoVis/module-two-data-three-ways-rceglie,COMP790-InfoVis/module-two-data-three-ways-rceglie,611888378
 VU#15,0.06666667,https://github.com/0xricksanchez/like-dbg,0xricksanchez/like-dbg,504825085
@@ -477,7 +479,7 @@ VU#15,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#15,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#15,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#15,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#15,0.00029300,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#15,0.00029283,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#15,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#15,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#15,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
