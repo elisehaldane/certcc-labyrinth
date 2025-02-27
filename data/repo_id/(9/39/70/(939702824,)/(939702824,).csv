@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+939702824,powerlesssta/cve-2023-50164-poc,go.mod,21d4dc6d5a04d971e0997bd8222297841dd6b2b5,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,internal/pkg/payload/build.go,5a09fb9fa34a9a788cd00525136d131525547a07,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,main.go,68c44b3f9c825a2b43dffb71a5ffba79dbf806cb,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,README.txt,a7733a8dc72039eb74603271eff6db6959b06531,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,internal/pkg/war/war.go,b59a07e0eb698214f4fa9ffb0b95a3cba5033627,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,vars.go,c8950207fde010bece94376239c1f8b88a9ed16a,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,utils.go,d8dda598b794498d877017c8fd4ceac275215baf,CVE-2023-50164
+939702824,powerlesssta/cve-2023-50164-poc,_GITHUB_REPO_METADATA_,,CVE-2023-50164
