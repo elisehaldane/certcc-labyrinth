@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+940276104,unsightlyabol/cisco-ios-xe-implant-scanner,implant-scanner.go,963c8b5bc7314f133dc8f63e135c14726b1bd1b0,CVE-2023-20198
+940276104,unsightlyabol/cisco-ios-xe-implant-scanner,_GITHUB_REPO_METADATA_,,CVE-2023-20198
