@@ -16,6 +16,6 @@ repo_id,repo_full_name,file,file_sha1,match
 416151847,yaklang/yakit,app/renderer/src/main/public/icons/singularity.svg,ad71d50071d9fe08e7c729103d47d9dbc6657196,VU#31
 416151847,yaklang/yakit,app/renderer/src/main/public/icons/singularity.svg,ad71d50071d9fe08e7c729103d47d9dbc6657196,VU#13
 416151847,yaklang/yakit,app/renderer/src/main/public/icons/singularity.svg,ad71d50071d9fe08e7c729103d47d9dbc6657196,VU#66
-416151847,yaklang/yakit,bins/scripts/google-chrome-plugin.zip,b2c67409636b6904050948040f1d9d042d421203,VU#11
 416151847,yaklang/yakit,app/renderer/src/main/src/assets/sequence.mp4,b79dd0789b56301f10216795212e9e8ee6a7c0dd,VU#43
+416151847,yaklang/yakit,bins/scripts/google-chrome-plugin.zip,c02ddf261d106ba4edf0dca24914ed631047726b,VU#11
 416151847,yaklang/yakit,app/renderer/src/main/src/pages/cve/CVEDescription.tsx,c52bb46e9738fe15a6aadac2c7b8049a33ae21ca,CVE-2001-0830
