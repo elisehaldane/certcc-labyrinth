@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#62,1.00000000,https://github.com/saranb565/AD-DACL-WriteOwner-Exploit,saranb565/AD-DACL-WriteOwner-Exploit,940359115
 VU#62,1.00000000,https://github.com/LinhOnii/Onii_Ramdisk,LinhOnii/Onii_Ramdisk,926053516
 VU#62,1.00000000,https://github.com/hunThubSpace/SubScope,hunThubSpace/SubScope,864163580
 VU#62,1.00000000,https://github.com/TaranyukK/heap_overflow,TaranyukK/heap_overflow,852484447
