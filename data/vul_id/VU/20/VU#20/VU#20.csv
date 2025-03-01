@@ -56,6 +56,7 @@ VU#20,0.12500000,https://github.com/ramirosantos/Spring-Boot-Log4j-CVE-2021-4422
 VU#20,0.12500000,https://github.com/twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab,437603411
 VU#20,0.11111111,https://github.com/emmwilson/exploits_watershed,emmwilson/exploits_watershed,928937860
 VU#20,0.11111111,https://github.com/francoeromero/rcestudio,francoeromero/rcestudio,910296004
+VU#20,0.11111111,https://github.com/MttMrc/exploitfairtest,MttMrc/exploitfairtest,899717012
 VU#20,0.11111111,https://github.com/TheBigStonk/CodeQL-PoC-XSS-App,TheBigStonk/CodeQL-PoC-XSS-App,887033393
 VU#20,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#20,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
@@ -500,8 +501,8 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00029257,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
-VU#20,0.00024765,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
+VU#20,0.00029248,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#20,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421
