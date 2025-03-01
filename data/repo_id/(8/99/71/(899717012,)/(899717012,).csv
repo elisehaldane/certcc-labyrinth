@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+899717012,MttMrc/exploitfairtest,PDF/Informatica/dispensaString.pdf,1bd446e071e84a56aa218dc8ede8d00484149ca1,VU#55
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra3.pdf,3e4d9d83f1fc40ec609ab7ff5cf381a3676cbc42,VU#07
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra3.pdf,3e4d9d83f1fc40ec609ab7ff5cf381a3676cbc42,VU#17
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra3.pdf,3e4d9d83f1fc40ec609ab7ff5cf381a3676cbc42,VU#2111
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra3.pdf,3e4d9d83f1fc40ec609ab7ff5cf381a3676cbc42,VU#533
+899717012,MttMrc/exploitfairtest,PDF/Informatica/dispensaFile.pdf,600a3b986b09ba6bffdabb6a0f071044a45816de,VU#20
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra2.pdf,8ce4f96be1f2a579981660f18d6c7455bbf75814,VU#518
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra2.pdf,8ce4f96be1f2a579981660f18d6c7455bbf75814,VU#77
+899717012,MttMrc/exploitfairtest,PDF/SR/HWExtra2.pdf,8ce4f96be1f2a579981660f18d6c7455bbf75814,VU#85
