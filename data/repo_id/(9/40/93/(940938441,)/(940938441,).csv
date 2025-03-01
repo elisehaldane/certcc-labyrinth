@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+940938441,InfoSec-DB/SQL-PwnerX,sql_pwnerx.py,9dd38dbb3acb3436972e16c134785c1cf9376baf,CVE-2021-24507
