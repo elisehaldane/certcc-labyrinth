@@ -139,7 +139,6 @@ VU#83,0.05882353,https://github.com/ripper2hl/Example-jndiExploit-,ripper2hl/Exa
 VU#83,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#83,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#83,0.05555556,https://github.com/CBIIT/rcellminerUtilsCDB,CBIIT/rcellminerUtilsCDB,178019444
-VU#83,0.05263158,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#83,0.05263158,https://github.com/GabrieleSerussi/Group-Convolutional-Neural-Networks,GabrieleSerussi/Group-Convolutional-Neural-Networks,787546208
 VU#83,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#83,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
@@ -152,6 +151,7 @@ VU#83,0.05263158,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,5864
 VU#83,0.05000000,https://github.com/io-poc/vulnado-poc,io-poc/vulnado-poc,474069190
 VU#83,0.05000000,https://github.com/doke93/Modeling-Time-Series-using-ARIMA-model,doke93/Modeling-Time-Series-using-ARIMA-model,436131592
 VU#83,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
+VU#83,0.04545455,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#83,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
 VU#83,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#83,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471268317
@@ -347,6 +347,7 @@ VU#83,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#83,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#83,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#83,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
+VU#83,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#83,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#83,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#83,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -554,7 +555,7 @@ VU#83,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#83,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#83,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#83,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#83,0.00029095,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#83,0.00029078,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#83,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#83,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#83,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

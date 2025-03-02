@@ -94,7 +94,6 @@ VU#00,0.05882353,https://github.com/Toffy-dev/ICT-exploits,Toffy-dev/ICT-exploit
 VU#00,0.05555556,https://github.com/lambdaclass/PoC-exploit-SP1,lambdaclass/PoC-exploit-SP1,922999074
 VU#00,0.05555556,https://github.com/The-Wagonization/The-Wagon-Site,The-Wagonization/The-Wagon-Site,864312435
 VU#00,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
-VU#00,0.05263158,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#00,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
 VU#00,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#00,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
@@ -102,6 +101,7 @@ VU#00,0.05000000,https://github.com/Mohameddek1/Web_exploitation,Mohameddek1/Web
 VU#00,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
 VU#00,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935
 VU#00,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
+VU#00,0.04545455,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#00,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,915699683
 VU#00,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#00,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
@@ -212,7 +212,7 @@ VU#00,0.01538462,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-
 VU#00,0.01515152,https://github.com/gigimoose23/scratchExploit,gigimoose23/scratchExploit,893229748
 VU#00,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
 VU#00,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
-VU#00,0.01449275,https://github.com/Ayush765/SubHunterX,Ayush765/SubHunterX,910052787
+VU#00,0.01449275,https://github.com/0xayushc/SubHunterX,0xayushc/SubHunterX,910052787
 VU#00,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#00,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#00,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -258,6 +258,7 @@ VU#00,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheB
 VU#00,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#00,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#00,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
+VU#00,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#00,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#00,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
 VU#00,0.00990099,https://github.com/LeakKids/FiveM-External-Cheat-KeyAuth-System,LeakKids/FiveM-External-Cheat-KeyAuth-System,916665205
@@ -449,7 +450,7 @@ VU#00,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#00,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#00,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#00,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#00,0.00029095,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#00,0.00029078,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#00,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#00,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#00,0.00021128,https://github.com/adfoster-r7/metasploit-ci-tests,adfoster-r7/metasploit-ci-tests,319744421

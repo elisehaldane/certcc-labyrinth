@@ -126,7 +126,6 @@ VU#93,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,60
 VU#93,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
 VU#93,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#93,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
-VU#93,0.05263158,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#93,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
 VU#93,0.05263158,https://github.com/zhongyuchen/snn-iir-checkpoints,zhongyuchen/snn-iir-checkpoints,540868613
 VU#93,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
@@ -140,6 +139,7 @@ VU#93,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwer
 VU#93,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#93,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#93,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
+VU#93,0.04545455,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#93,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,915699683
 VU#93,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#93,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,818793447
@@ -288,6 +288,7 @@ VU#93,0.01041667,https://github.com/bibo318/HackTheBox-exploits,bibo318/HackTheB
 VU#93,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#93,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#93,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
+VU#93,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#93,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#93,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#93,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -482,7 +483,7 @@ VU#93,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#93,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#93,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#93,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#93,0.00029095,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#93,0.00029078,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#93,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#93,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#93,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

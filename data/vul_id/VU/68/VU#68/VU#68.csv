@@ -113,7 +113,6 @@ VU#68,0.05882353,https://github.com/Hoanle396/CVE-2021-44228-demo,Hoanle396/CVE-
 VU#68,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#68,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#68,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
-VU#68,0.05263158,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#68,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#68,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#68,0.05263158,https://github.com/Trustworthy-Software/Quatrain,Trustworthy-Software/Quatrain,519884433
@@ -125,6 +124,7 @@ VU#68,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe
 VU#68,0.04761905,https://github.com/left-nullspace/cointegration-exploration-python,left-nullspace/cointegration-exploration-python,818392043
 VU#68,0.04761905,https://github.com/dubniczky/Prototype-Pollution,dubniczky/Prototype-Pollution,516329600
 VU#68,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
+VU#68,0.04545455,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#68,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#68,0.04545455,https://github.com/shoxxdj/log4shellExploit,shoxxdj/log4shellExploit,447275441
 VU#68,0.04347826,https://github.com/emmwilson/exploits_watershed_shiny,emmwilson/exploits_watershed_shiny,929055442
@@ -287,6 +287,7 @@ VU#68,0.01030928,https://github.com/jlkkljh/exploit,jlkkljh/exploit,902891843
 VU#68,0.01030928,https://github.com/merlinepedra25/ANDROID-EXPLOITS,merlinepedra25/ANDROID-EXPLOITS,504548303
 VU#68,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#68,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
+VU#68,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#68,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#68,0.00990099,https://github.com/Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,Vinck0/Deteccion-temprana-de-supernovas-en-ALeRCE---EL4106,713123709
 VU#68,0.00980392,https://github.com/824LegacY/RCeONeV8OY,824LegacY/RCeONeV8OY,907235800
@@ -470,7 +471,7 @@ VU#68,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#68,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#68,0.00038168,https://github.com/sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,sarthakthorat53/Predictive-Shield-Harnessing-Machine-Learning-to-Forecast-Vulnerability-Exploitability,866214266
 VU#68,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#68,0.00029095,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#68,0.00029078,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#68,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#68,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#68,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

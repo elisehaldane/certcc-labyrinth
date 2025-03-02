@@ -1,5 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-VU#99,1.00000000,https://github.com/ExploitFin/ExploitFin,ExploitFin/ExploitFin,937083661
 VU#99,1.00000000,https://github.com/hemanth1258/policy-exploit,hemanth1258/policy-exploit,871944597
 VU#99,1.00000000,https://github.com/mkdirlove/CXSecurity,mkdirlove/CXSecurity,863174833
 VU#99,1.00000000,https://github.com/ShanjuShree/Vulnerable-Box,ShanjuShree/Vulnerable-Box,733537737
@@ -51,6 +50,7 @@ VU#99,0.14285714,https://github.com/aiden-wc/uncle-aidens-hub,aiden-wc/uncle-aid
 VU#99,0.14285714,https://github.com/junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,junshen1/Reproduction-Report-of-Exploration-Exploitation-MAL,449818276
 VU#99,0.14285714,https://github.com/sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,sl3onardos/Code-Exploration---Exploitation-in-Multi-Agent-Learning-Catastrophe-Theory-Meets-Game-Theory,434292056
 VU#99,0.14285714,https://github.com/sha0coder/scemu,sha0coder/scemu,417803918
+VU#99,0.12500000,https://github.com/ExploitFin/ExploitFin,ExploitFin/ExploitFin,937083661
 VU#99,0.12500000,https://github.com/kuldeepkrjha/AIRSPECTER,kuldeepkrjha/AIRSPECTER,660199905
 VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468577202
 VU#99,0.12500000,https://github.com/Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,Lemeilleurprince/Lemeilleurprince-Trojan-based-on-metasploit-generated-apk,468201473
@@ -287,6 +287,7 @@ VU#99,0.01041667,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#99,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#99,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#99,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
+VU#99,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#99,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#99,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#99,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -491,7 +492,7 @@ VU#99,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#99,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#99,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#99,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
-VU#99,0.00029095,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#99,0.00029078,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#99,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#99,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#99,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
