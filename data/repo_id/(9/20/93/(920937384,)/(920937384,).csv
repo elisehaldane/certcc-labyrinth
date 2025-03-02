@@ -61,6 +61,7 @@ repo_id,repo_full_name,file,file_sha1,match
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/board.htm,8bccb354468de29c311c91d9be276fab122b4424,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/users.htm,8f08073275fda60464591ee8b5449ad4d8ac2fbe,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/log/20120501.txt,906c642f28c4bf52947fd035fa21521786082c5c,CVE-2004-2466
+920937384,N0zoM1z0/WindowsExploitLearning,CFGBypass/Disarming CFG Using Advanced Code Reuse Attacks.md,9152fcb4b01336433ccc3cacdb2e6343d1313141,CVE-2016-7200
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/unins000.exe,95344c5e0712d9c874d5f81c7a48c6dbb4714502,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/shellcode.bin,9ecd23717c9caa285db07067315f0be4612032f4,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/openssl_lics.txt,a5293f0b6d204402605229b55b96999e8d7d5d52,CVE-2004-2466
@@ -84,10 +85,12 @@ repo_id,repo_full_name,file,file_sha1,match
 920937384,N0zoM1z0/WindowsExploitLearning,Tools/ROPgadget-master/test-suite-binaries/ref_output.bz2,d2a461d6d3483baef7471721ebaaa053ab616fe2,VU#50
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/log/20040604.txt,d388d123fbf6f39b531d1efe505a42f7f131c4f6,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/ry.gdb,d46f60a068dc56c666eb50e0478ca789b55b180f,CVE-2004-2466
-920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/log/20040719.txt,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2004-2466
+920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/log/20060426.txt,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/notify.wav,dbe5f5afd64c0d8606a571e272a35ee587968185,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/users/admin,dc98ae467df1fc479607dbd8725016b02d08eb9b,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/option.ini,df3a9e9c64d64d72e121857bb05de4376e249a08,CVE-2004-2466
+920937384,N0zoM1z0/WindowsExploitLearning,CFGBypass/Bypassing control flow guard in Windows 10 PartⅠ.md,e1fdc7b658e70c6771c4c5cb4762431b72691b9e,MS16-063
+920937384,N0zoM1z0/WindowsExploitLearning,CFGBypass/Bypassing control flow guard in Windows 10 PartⅠ.md,e1fdc7b658e70c6771c4c5cb4762431b72691b9e,VU#273
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/复现.md,e47fc74b7a51827a0e8aad526c4210a737199446,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/ecsService.exe,eab9640377d2ed2830de9ff5f5b3fce00081cd82,CVE-2004-2466
 920937384,N0zoM1z0/WindowsExploitLearning,CVEReproduction/CVE-2004-2466/Easy Chat Server/acceptip.txt,eba2b9762b27b227ee58c91e28d7366a1870a8cd,CVE-2004-2466
