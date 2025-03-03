@@ -1,5 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
 927198168,Tnot123/exploit,Exploiting a Remote Code Execution Vulnerability in Moodle.docx,4610ec9393ad18c732ac65852904e930cbf6736c,VU#23
+927198168,Tnot123/exploit,CVE-2024-53677.docx,5f216502494fad656ab8e5c01c3f5db9b2bd2879,CVE-2024-53677
+927198168,Tnot123/exploit,CVE-2024-53677.docx,5f216502494fad656ab8e5c01c3f5db9b2bd2879,VU#00
 927198168,Tnot123/exploit,report bug cve-2024-43425.docx,84a88480b5b53eaa1860e21c08372553d8058537,CVE-2024-43425
 927198168,Tnot123/exploit,report bug cve-2024-43425.docx,84a88480b5b53eaa1860e21c08372553d8058537,VU#23
 927198168,Tnot123/exploit,CVE-2022-4839.docx,85d937e2585ddfa3b7f74de41c37ef91f3d5b555,CVE-2022-4839
