@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-CQC2-6J63-6QRX,0.00326797,https://github.com/xairy/linux-kernel-exploitation,xairy/linux-kernel-exploitation,73646740

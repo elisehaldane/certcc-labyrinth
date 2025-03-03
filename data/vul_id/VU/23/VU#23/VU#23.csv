@@ -22,7 +22,6 @@ VU#23,0.50000000,https://github.com/trhacknon/PhoneSploit,trhacknon/PhoneSploit,
 VU#23,0.50000000,https://github.com/soryecker/PhoneSploitSor,soryecker/PhoneSploitSor,339217912
 VU#23,0.50000000,https://github.com/mishab-ka/PhoneSploit,mishab-ka/PhoneSploit,287889360
 VU#23,0.50000000,https://github.com/aerosol-can/PhoneSploit,aerosol-can/PhoneSploit,259933740
-VU#23,0.33333333,https://github.com/Tnot123/exploit,Tnot123/exploit,927198168
 VU#23,0.33333333,https://github.com/Gustasvk/exploits,Gustasvk/exploits,759772296
 VU#23,0.33333333,https://github.com/Serendipity-Lucky/JNDI-Injection-Exploit-1.0,Serendipity-Lucky/JNDI-Injection-Exploit-1.0,641923077
 VU#23,0.33333333,https://github.com/Yasmineoueslati/Jalon_1_NLP,Yasmineoueslati/Jalon_1_NLP,554212123
@@ -52,6 +51,7 @@ VU#23,0.25000000,https://github.com/APresellingservices/hervus-exploit,APreselli
 VU#23,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apache-Log4j-POC,441001904
 VU#23,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#23,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
+VU#23,0.20000000,https://github.com/Tnot123/exploit,Tnot123/exploit,927198168
 VU#23,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCTF/zerodaysctf.github.io,913534505
 VU#23,0.20000000,https://github.com/eric-olsson-chalmers/ethical-hacking-exploit,eric-olsson-chalmers/ethical-hacking-exploit,878546846
 VU#23,0.20000000,https://github.com/canyie/MagiskEoP,canyie/MagiskEoP,846894468
@@ -559,7 +559,7 @@ VU#23,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#23,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#23,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#23,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
-VU#23,0.00029044,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#23,0.00028458,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#23,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#23,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#23,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -600,7 +600,7 @@ VU#23,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#23,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#23,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#23,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#23,0.00018403,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#23,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#23,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#23,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#23,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
