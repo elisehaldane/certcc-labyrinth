@@ -40,4 +40,4 @@ repo_id,repo_full_name,file,file_sha1,match
 827357700,cansolele/exploit-seek,docs/examples/exploit_seek_report.html,47ccf95678e139ba1015eb01b05b33f095711c2c,CVE-2016-5195
 827357700,cansolele/exploit-seek,docs/examples/exploit_seek_report.html,47ccf95678e139ba1015eb01b05b33f095711c2c,CVE-2017-0143
 827357700,cansolele/exploit-seek,docs/examples/exploit_seek_report.html,47ccf95678e139ba1015eb01b05b33f095711c2c,VU#970766
-827357700,cansolele/exploit-seek,client/src/components/Task/CveAnalysis.jsx,8434074c884a9d3931ba2797cb2eb79947a372fb,CVE-2021-44228
+827357700,cansolele/exploit-seek,client/src/components/Task/CveAnalysis.jsx,d013e053224dff425acd4bf1b6ee027007e3996b,CVE-2021-44228
