@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+942451343,GriefFox/palindrop_exploit,vmlinux,19ceb78ba5376a6673ef90a8259b74163536fd70,VU#24
+942451343,GriefFox/palindrop_exploit,vmlinux,19ceb78ba5376a6673ef90a8259b74163536fd70,VU#30
+942451343,GriefFox/palindrop_exploit,bzImage,4597f196aef318e229bc70d869b39decfb833a80,VU#12
+942451343,GriefFox/palindrop_exploit,bzImage,4597f196aef318e229bc70d869b39decfb833a80,VU#46
+942451343,GriefFox/palindrop_exploit,bzImage,4597f196aef318e229bc70d869b39decfb833a80,VU#53
+942451343,GriefFox/palindrop_exploit,bzImage,4597f196aef318e229bc70d869b39decfb833a80,VU#70
