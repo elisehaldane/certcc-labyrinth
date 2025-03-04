@@ -1,0 +1,3 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-98VM-2XQM-XRCC,0.50000000,https://github.com/shreyas-malhotra/CVE-2025-21624,shreyas-malhotra/CVE-2025-21624,942663575
+GHSA-98VM-2XQM-XRCC,0.00029163,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
