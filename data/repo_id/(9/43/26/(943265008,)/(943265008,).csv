@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+943265008,SpiralBL0CK/cve2024-49740,cve2024-49740_bypass_patch.js,3806ddc7e729da6ab7e308254fc2327d66e0aa6b,CVE-2024-49740
+943265008,SpiralBL0CK/cve2024-49740,cve2024-49740_dos_system.js,9a98f1bf7618e8615a9143aa22adf20ceafabf33,CVE-2024-49740
