@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+940425020,yhj0901/CVE_CPE_Exploit_DB,parsers/cve.go,22b691479fca0a495ef5f41085fdbd4864df24b1,CVE-1970-0001
+940425020,yhj0901/CVE_CPE_Exploit_DB,cve_cpe_exploit_db,66f733ce574b3c19e8733fff370d6b23e192387d,CVE-1970-0001
+940425020,yhj0901/CVE_CPE_Exploit_DB,db/createTables.go,c95d00018754279e1d72f6cdc1ff3c30d0135a65,CVE-1970-0001
