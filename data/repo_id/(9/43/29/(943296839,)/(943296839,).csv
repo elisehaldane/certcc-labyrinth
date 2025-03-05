@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+943296839,hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-,README.md,977ac1fda7c1679593b1523773ab207dc59e523d,CVE-2019-9053
+943296839,hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-,exploit.py,a444b65f14e58be270eadab6a713c0fe1ce89ad5,CVE-2019-9053
+943296839,hf3cyber/CMS-Made-Simple-2.2.9-Unauthenticated-SQL-Injection-Exploit-CVE-2019-9053-,_GITHUB_REPO_METADATA_,,CVE-2019-9053
