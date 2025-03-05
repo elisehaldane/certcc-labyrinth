@@ -104,11 +104,11 @@ VU#59,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled
 VU#59,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#59,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,561844160
 VU#59,0.03571429,https://github.com/michavardy/ZeroDay,michavardy/ZeroDay,927226445
+VU#59,0.03571429,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#59,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#59,0.03448276,https://github.com/SMTNDev/HackTheTermux,SMTNDev/HackTheTermux,915622957
 VU#59,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
 VU#59,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,Auceane/BUTinfo1_SAE_2.02-Exploitation_algorithmique_d.un_probleme,718749418
-VU#59,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#59,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#59,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#59,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
@@ -148,6 +148,7 @@ VU#59,0.02127660,https://github.com/AKKIREDDYGANESH/Vulnerabulity-Scanning-using
 VU#59,0.02127660,https://github.com/DockerExploitationFramework/DockerExploitationFramework,DockerExploitationFramework/DockerExploitationFramework,709575377
 VU#59,0.02127660,https://github.com/Ravishsidd/Cab-Booking-Project,Ravishsidd/Cab-Booking-Project,532796704
 VU#59,0.02040816,https://github.com/shellnoq/aml-framework,shellnoq/aml-framework,912932428
+VU#59,0.02000000,https://github.com/mozhua/Dream-Defender,mozhua/Dream-Defender,940525570
 VU#59,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#59,0.01960784,https://github.com/redcode-labs/Bashark,redcode-labs/Bashark,143716350
 VU#59,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
@@ -449,7 +450,7 @@ VU#59,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#59,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#59,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#59,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00029146,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#59,0.00029121,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#59,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

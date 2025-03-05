@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-C5J8-JXJ3-HH36,0.00411523,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-C5J8-JXJ3-HH36,0.00256410,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
-GHSA-C5J8-JXJ3-HH36,0.00093633,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+GHSA-C5J8-JXJ3-HH36,0.00092336,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123

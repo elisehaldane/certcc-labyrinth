@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#09,1.00000000,https://github.com/shingareom/SLAE,shingareom/SLAE,938057376
 VU#09,1.00000000,https://github.com/GKamundia/RCEMA,GKamundia/RCEMA,936634940
 VU#09,1.00000000,https://github.com/cyberdandata/update-for-Exploites,cyberdandata/update-for-Exploites,896752277
 VU#09,1.00000000,https://github.com/ericyoc/monte_carlo_sim_cyber_kill_chain_poc,ericyoc/monte_carlo_sim_cyber_kill_chain_poc,843585147
@@ -236,6 +237,7 @@ VU#09,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePa
 VU#09,0.03703704,https://github.com/ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,ziyuanrao11/Exploitation-and-exploration-strategies-in-adaptive-materials-discovery,554195698
 VU#09,0.03571429,https://github.com/michavardy/ZeroDay,michavardy/ZeroDay,927226445
 VU#09,0.03571429,https://github.com/Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,823228807
+VU#09,0.03571429,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#09,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#09,0.03448276,https://github.com/istaion/ExploitationDonneesPandas,istaion/ExploitationDonneesPandas,907358811
 VU#09,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
@@ -243,12 +245,12 @@ VU#09,0.03448276,https://github.com/CiscoCXSecurity/openssl3-nov2022,CiscoCXSecu
 VU#09,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/PersonaPrediction,907675138
 VU#09,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#09,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
-VU#09,0.03333333,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#09,0.03225806,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 VU#09,0.03125000,https://github.com/Keshari07/10-Jan-2025-PNQ-WindCorp,Keshari07/10-Jan-2025-PNQ-WindCorp,914517913
 VU#09,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#09,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#09,0.03125000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
+VU#09,0.02941176,https://github.com/kaushikrohit004/GauOptX-Code,kaushikrohit004/GauOptX-Code,941274246
 VU#09,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
 VU#09,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#09,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
@@ -609,9 +611,9 @@ VU#09,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#09,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#09,0.00030349,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
+VU#09,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#09,0.00029146,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00029121,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#09,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -664,7 +666,7 @@ VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#09,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#09,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#09,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#09,0.00003652,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#09,0.00003647,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#09,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#09,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#09,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
