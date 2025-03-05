@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+943034309,shacojx/CVE-2025-1094-Exploit,Exploit-CVE-2025-1094/pom.xml,038f1d5de37fb2482a66599747aea5d22f19300f,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,Exploit-CVE-2025-1094/src/main/java/WebSocketExploit.java,07bf77116f21722b536742c4ae9bb394a205035a,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,Exploit-CVE-2025-1094/.idea/vcs.xml,3ac5b75647052907f272db01feef345c08af2ccc,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,README.md,51c2b87afef8cc66310cc33c7eaf22833382d4df,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,Exploit-CVE-2025-1094/.idea/misc.xml,8d5caa37c1ddab9ea2d9001efd3ec97ed7667dcd,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,Exploit-CVE-2025-1094/.idea/encodings.xml,a162fe3f223fe6acb49469136bc744d8cd6c1c6e,CVE-2025-1094
+943034309,shacojx/CVE-2025-1094-Exploit,_GITHUB_REPO_METADATA_,,CVE-2025-1094
