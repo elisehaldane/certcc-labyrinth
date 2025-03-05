@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+943276857,heavyyeast/cve-2023-50164-poc,go.mod,32ee5727baa9013ad3631bdb9d2a01997fb4ae4d,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,utils.go,642441b9638fa46b996a1130944748c10fb0fe6f,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,main.go,816d821ceb0824ca34b6ea828f539aaec3b97493,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,vars.go,c8950207fde010bece94376239c1f8b88a9ed16a,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,README.txt,d7e963887eb3ee5cb2119d7259745db77d3a9f70,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,internal/pkg/war/war.go,dc341c7e582cb34a96a0d28eedd1fa479bd27f9a,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,internal/pkg/payload/build.go,edb68d0a95b4cb0cbe1e0cf871859335d3bf616a,CVE-2023-50164
+943276857,heavyyeast/cve-2023-50164-poc,_GITHUB_REPO_METADATA_,,CVE-2023-50164
