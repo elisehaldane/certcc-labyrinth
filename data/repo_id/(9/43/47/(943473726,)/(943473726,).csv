@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2008-0166
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2015-1328
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2016-5195
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2019-14287
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2019-18634
+943473726,JeffAllen714/MatrixScan,MatrixScan.sh,6eed3d3a96d93fcdf73e8101df8ecf082eecebad,CVE-2021-4034
