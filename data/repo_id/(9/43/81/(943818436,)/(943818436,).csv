@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+943818436,999gawkboyy/CVE-2024-23692_Exploit,poc.py,039a2af8afe72b389b31bd5c683a4a27422e70b4,CVE-2024-23692
+943818436,999gawkboyy/CVE-2024-23692_Exploit,Readme.md,5c55cec0fa267422fd9fc5897948cc3f9f1cb49f,CVE-2024-23692
+943818436,999gawkboyy/CVE-2024-23692_Exploit,_GITHUB_REPO_METADATA_,,CVE-2024-23692

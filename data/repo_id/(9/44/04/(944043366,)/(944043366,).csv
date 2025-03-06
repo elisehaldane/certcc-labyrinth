@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+944043366,monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read,README.md,85e45446ab7841b41a76aecd3bbec5ae687411a2,CVE-2021-43789
+944043366,monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read,README.md,85e45446ab7841b41a76aecd3bbec5ae687411a2,CVE-2021-43798
+944043366,monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read,exploit.py,c47409bb48c951bef8db44cf08dbc0bf7a23d8b3,CVE-2021-43798
+944043366,monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read,_GITHUB_REPO_METADATA_,,CVE-2021-43798
