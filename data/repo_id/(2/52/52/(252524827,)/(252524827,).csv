@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame2003-old-asmjs.data,0d77402d664e01732159852defb46c404491f81e,VU#50
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame2003-old-asmjs.data,0d77402d664e01732159852defb46c404491f81e,VU#82
+252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame2003-old-asmjs.data,0d77402d664e01732159852defb46c404491f81e,VU#50
 252524827,TheWizWikii/TheWizWikii.github.io,490/menu/flash490.P3T,1e412a315c7f32612e73698797e88661f606fdb1,VU#60
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame-old-1-wasm.data,3c54397d2a4fc43f55d43bc3d5faf9a5a0bb3ed9,VU#99
 252524827,TheWizWikii/TheWizWikii.github.io,489/auto/HEN.P3T,4df355a95edcd5856e93db540aa907b922ffcdf2,VU#14
@@ -16,6 +16,9 @@ repo_id,repo_full_name,file,file_sha1,match
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/mame-old-5-wasm.data,9cafeda83a74cbbb7656881370cbe2b223668f6d,VU#403
 252524827,TheWizWikii/TheWizWikii.github.io,490/menu/hen-auto-3.2.2/HEN.P3T,a35aac54332d012d211628e3305bef2861c95b32,VU#02
 252524827,TheWizWikii/TheWizWikii.github.io,490/menu/hen-auto-3.2.2/HEN.P3T,a35aac54332d012d211628e3305bef2861c95b32,VU#33
+252524827,TheWizWikii/TheWizWikii.github.io,492/menu/hen-auto-3.3.0/HEN.P3T,aaab8a712b415a7800c7ce0014267bfc00018c2c,VU#21
+252524827,TheWizWikii/TheWizWikii.github.io,492/menu/hen-auto-3.3.0/HEN.P3T,aaab8a712b415a7800c7ce0014267bfc00018c2c,VU#90
+252524827,TheWizWikii/TheWizWikii.github.io,492/menu/hen-auto-3.3.0/HEN.P3T,aaab8a712b415a7800c7ce0014267bfc00018c2c,VU#39
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/old/saturn-old-asmjs.data,b937f79cba954b7396f6daf461139f1ac5c9412b,VU#88
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/cores/gb-asmjs.data,bbb50e50619ec0b67fb4fc2e238ab5ce3c61ef00,VU#80
 252524827,TheWizWikii/TheWizWikii.github.io,EmulatorJS-main/data/cores/n64-wasm.data,e2d15cba7575dfae700193ddc63ef9d9ceaa883c,VU#20
