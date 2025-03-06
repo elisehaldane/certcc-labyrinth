@@ -80,6 +80,7 @@ VU#83,0.16666667,https://github.com/TheArqsz/CVE-2021-44228-PoC,TheArqsz/CVE-202
 VU#83,0.16666667,https://github.com/kozmer/log4j-shell-poc,kozmer/log4j-shell-poc,437139341
 VU#83,0.16666667,https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce,436666301
 VU#83,0.16666667,https://github.com/kaled-alshmrany/FuSeBMC,kaled-alshmrany/FuSeBMC,257922621
+VU#83,0.14285714,https://github.com/Arianna6400/Mal_Dec_RL,Arianna6400/Mal_Dec_RL,943970864
 VU#83,0.14285714,https://github.com/luelueking/nacos_hessian_rce_poc,luelueking/nacos_hessian_rce_poc,651433400
 VU#83,0.14285714,https://github.com/Jacarte/tawasco,Jacarte/tawasco,633324752
 VU#83,0.14285714,https://github.com/justikail/webshell,justikail/webshell,624349349
