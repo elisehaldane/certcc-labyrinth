@@ -16,13 +16,13 @@ VU#25,0.33333333,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
-VU#25,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.25000000,https://github.com/playvoras/python-exploits,playvoras/python-exploits,830739066
 VU#25,0.25000000,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
 VU#25,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
 VU#25,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#25,0.25000000,https://github.com/shipcod3/IRC-Bot-Hunters,shipcod3/IRC-Bot-Hunters,33442483
+VU#25,0.20000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.20000000,https://github.com/nlaha/cpts428-minecraft-log4j,nlaha/cpts428-minecraft-log4j,856679319
 VU#25,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
 VU#25,0.20000000,https://github.com/Yana-Gupta/rce,Yana-Gupta/rce,685523997
@@ -136,6 +136,7 @@ VU#25,0.05263158,https://github.com/teteco/Exploit-Suggester-Linux,teteco/Exploi
 VU#25,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#25,0.05263158,https://github.com/Blue-PvP/RobloxExploits,Blue-PvP/RobloxExploits,461344305
 VU#25,0.05263158,https://github.com/PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,PraAnj/SpatialLOB-Learning-spatial-properties-of-Limit-Order-Book,404076972
+VU#25,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#25,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
 VU#25,0.05000000,https://github.com/JayMwakideu/Mobile_Spy_Ware,JayMwakideu/Mobile_Spy_Ware,825675936
 VU#25,0.05000000,https://github.com/Mohameddek1/Web_exploitation,Mohameddek1/Web_exploitation,806019276
@@ -154,7 +155,6 @@ VU#25,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,5049
 VU#25,0.04761905,https://github.com/explo1t-tech/exploit-tech-2,explo1t-tech/exploit-tech-2,480384709
 VU#25,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#25,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
-VU#25,0.04761905,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#25,0.04545455,https://github.com/HugoCls/honey-si-vulnerable-app-POC,HugoCls/honey-si-vulnerable-app-POC,902379653
 VU#25,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#25,0.04545455,https://github.com/JennValentine/exploitsPMJ-,JennValentine/exploitsPMJ-,773572713
@@ -640,7 +640,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00029028,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00028969,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

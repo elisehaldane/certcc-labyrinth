@@ -115,6 +115,7 @@ VU#20,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2
 VU#20,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
 VU#20,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#20,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
+VU#20,0.05263158,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#20,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
 VU#20,0.05000000,https://github.com/souvik0306/3D-Point-Cloud-Map,souvik0306/3D-Point-Cloud-Map,554909532
 VU#20,0.05000000,https://github.com/PwnLabMe-Project/Security-Resources,PwnLabMe-Project/Security-Resources,521514339
@@ -123,7 +124,6 @@ VU#20,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-3807
 VU#20,0.04761905,https://github.com/Leocodefocus/CVE-2024-20931-Poc,Leocodefocus/CVE-2024-20931-Poc,753453515
 VU#20,0.04761905,https://github.com/lactf/lactf-website,lactf/lactf-website,504959946
 VU#20,0.04761905,https://github.com/EXPLOIT-SYSTEMS/API,EXPLOIT-SYSTEMS/API,399156731
-VU#20,0.04761905,https://github.com/TheWizWikii/TheWizWikii.github.io,TheWizWikii/TheWizWikii.github.io,252524827
 VU#20,0.04761905,https://github.com/CBIIT/rcellminerData,CBIIT/rcellminerData,52491542
 VU#20,0.04545455,https://github.com/N0zoM1z0/WindowsExploitLearning,N0zoM1z0/WindowsExploitLearning,920937384
 VU#20,0.04545455,https://github.com/T3M1N4L/exploit-dump,T3M1N4L/exploit-dump,915699683
@@ -505,7 +505,7 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00029028,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00028969,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

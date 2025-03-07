@@ -107,6 +107,7 @@ VU#32,0.14285714,https://github.com/SoftCreed/Exploits,SoftCreed/Exploits,608428
 VU#32,0.14285714,https://github.com/sysrom/ShellcodeGEN_GUI,sysrom/ShellcodeGEN_GUI,589195153
 VU#32,0.14285714,https://github.com/teppyboy/Generic_Exploit_Loader,teppyboy/Generic_Exploit_Loader,208081471
 VU#32,0.14285714,https://github.com/rosonsec/Exploits,rosonsec/Exploits,153505068
+VU#32,0.12500000,https://github.com/NS-Projects-Unina/Buffer_Overflow_2,NS-Projects-Unina/Buffer_Overflow_2,944473275
 VU#32,0.12500000,https://github.com/OfficialDex/Exploitx-hub-2.9.6,OfficialDex/Exploitx-hub-2.9.6,783148201
 VU#32,0.12500000,https://github.com/ElectroBoy404NotFound/TinyiOS,ElectroBoy404NotFound/TinyiOS,724353108
 VU#32,0.12500000,https://github.com/Azonium-MC/exploit,Azonium-MC/exploit,603879731
@@ -708,7 +709,7 @@ VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#32,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#32,0.00029028,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00028969,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
