@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+944473910,huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7,README.md,1373793b30595531c221335e524c65d19716f937,CVE-2025-25748
+944473910,huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7,_GITHUB_REPO_METADATA_,,CVE-2025-25748
+944473910,huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7,_GITHUB_REPO_METADATA_,,CVE-2525-25748
