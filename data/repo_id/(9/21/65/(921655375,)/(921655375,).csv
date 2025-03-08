@@ -3,4 +3,9 @@ repo_id,repo_full_name,file,file_sha1,match
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#27
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#272
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#70
-921655375,Venom-devX/Exploits,BloodyPortuguese.lua,7e099c7d5286605a6b21921d66746c040a0c41f0,VU#66
+921655375,Venom-devX/Exploits,BloodyEnglish.lua,ad47b762f88399e7ad8b62791fcf0fb51ea7897f,VU#44
+921655375,Venom-devX/Exploits,BloodyEnglish.lua,ad47b762f88399e7ad8b62791fcf0fb51ea7897f,VU#44414
+921655375,Venom-devX/Exploits,BloodyPortuguese.lua,f2fef51bfaf7e49afd9299cb637c85cae131b09e,VU#46
+921655375,Venom-devX/Exploits,BloodyPortuguese.lua,f2fef51bfaf7e49afd9299cb637c85cae131b09e,VU#60
+921655375,Venom-devX/Exploits,BloodyPortuguese.lua,f2fef51bfaf7e49afd9299cb637c85cae131b09e,VU#64
+921655375,Venom-devX/Exploits,BloodyPortuguese.lua,f2fef51bfaf7e49afd9299cb637c85cae131b09e,VU#66
