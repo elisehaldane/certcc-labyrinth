@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 944347831,CyberHatOnline/Exploits,Fluent Bit OpenTelemetry ve Fluent Bit Prometheus Güvenlik Açıkları,0f0bacb6cdffe4528348617ff25d8a201918db5a,CVE-2024-50608
 944347831,CyberHatOnline/Exploits,Fluent Bit OpenTelemetry ve Fluent Bit Prometheus Güvenlik Açıkları,0f0bacb6cdffe4528348617ff25d8a201918db5a,CVE-2024-50609
+944347831,CyberHatOnline/Exploits,CVE-2025-0957: WordPress SMTP for Amazon SES – YaySMTP Eklentisinde Depolanan Cross-Site Scripting (XSS) Zafiyeti,68deee9bfa8d9f9b557c9d907778d7ac1d418eb9,CVE-2025-0957
+944347831,CyberHatOnline/Exploits,CVE-2023-25574: jupyterhub-ltiauthenticator LTI13Authenticator JWT Signature Verification Vulnerability,ef931b186533d287318f2093bdb3517fc8bffe7b,CVE-2023-25574
