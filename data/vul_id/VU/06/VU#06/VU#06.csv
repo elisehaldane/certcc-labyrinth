@@ -70,6 +70,7 @@ VU#06,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX1
 VU#06,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
 VU#06,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
 VU#06,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
+VU#06,0.05263158,https://github.com/arazzaq178/Predicting-Software-Vulnerability-Exploits,arazzaq178/Predicting-Software-Vulnerability-Exploits,944635091
 VU#06,0.05263158,https://github.com/kh4sh3i/Offline-Pentest-Toolkit,kh4sh3i/Offline-Pentest-Toolkit,922670154
 VU#06,0.05263158,https://github.com/z2zQAQ/go-z2zloader,z2zQAQ/go-z2zloader,908825596
 VU#06,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
@@ -438,7 +439,7 @@ VU#06,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#06,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#06,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#06,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#06,0.00028969,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#06,0.00028960,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#06,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#06,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#06,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -486,4 +487,4 @@ VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analys
 VU#06,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#06,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762
 VU#06,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
-VU#06,0.00000352,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#06,0.00000351,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117

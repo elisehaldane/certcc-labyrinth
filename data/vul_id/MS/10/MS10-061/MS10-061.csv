@@ -119,6 +119,7 @@ MS10-061,0.00719424,https://github.com/kordup/Slacker,kordup/Slacker,323761906
 MS10-061,0.00709220,https://github.com/Exploit-install/Findsploit,Exploit-install/Findsploit,95170829
 MS10-061,0.00699301,https://github.com/pombredanne/Windows-Exploit-Suggester,pombredanne/Windows-Exploit-Suggester,64396343
 MS10-061,0.00694444,https://github.com/vamsi-120304/Transfer-Tools,vamsi-120304/Transfer-Tools,605088900
+MS10-061,0.00689655,https://github.com/pedro-coelho-dr/metasploitable,pedro-coelho-dr/metasploitable,944653035
 MS10-061,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 MS10-061,0.00689655,https://github.com/shizzz477/msploitego,shizzz477/msploitego,122889042
 MS10-061,0.00684932,https://github.com/TheRipperJhon/Msploitego,TheRipperJhon/Msploitego,136995325
@@ -420,7 +421,7 @@ MS10-061,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS10-061,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS10-061,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS10-061,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS10-061,0.00000730,https://github.com/trickest/cve,trickest/cve,454015416
+MS10-061,0.00000729,https://github.com/trickest/cve,trickest/cve,454015416
 MS10-061,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS10-061,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 MS10-061,0.00000372,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609

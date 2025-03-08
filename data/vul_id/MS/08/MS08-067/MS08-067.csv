@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS08-067,1.00000000,https://github.com/AshJToomey/Python-Metasploit-Exploitation,AshJToomey/Python-Metasploit-Exploitation,944664243
 MS08-067,1.00000000,https://github.com/Shankar01081991/HTB-OSCP-Prep,Shankar01081991/HTB-OSCP-Prep,943261954
 MS08-067,1.00000000,https://github.com/SerCaesar/MetasploitFiller,SerCaesar/MetasploitFiller,938869138
 MS08-067,1.00000000,https://github.com/Jeevanandan-Balaji/Mastering-Metasploit,Jeevanandan-Balaji/Mastering-Metasploit,919809935
@@ -665,7 +666,7 @@ MS08-067,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS08-067,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS08-067,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-067,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-067,0.00000730,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-067,0.00000729,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-067,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-067,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS08-067,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
