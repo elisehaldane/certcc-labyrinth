@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+936374586,r3ds3ctor/HavocExtender,src/post_exploitation/privilege_escalation.py,f7d5ba67f1eb15cdf029473bd5652caf1aca2fcd,CVE-2021-34527
