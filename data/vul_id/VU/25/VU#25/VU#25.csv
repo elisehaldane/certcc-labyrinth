@@ -23,7 +23,6 @@ VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-
 VU#25,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
 VU#25,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#25,0.25000000,https://github.com/shipcod3/IRC-Bot-Hunters,shipcod3/IRC-Bot-Hunters,33442483
-VU#25,0.20000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.20000000,https://github.com/nlaha/cpts428-minecraft-log4j,nlaha/cpts428-minecraft-log4j,856679319
 VU#25,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
 VU#25,0.20000000,https://github.com/Yana-Gupta/rce,Yana-Gupta/rce,685523997
@@ -61,6 +60,7 @@ VU#25,0.11111111,https://github.com/copcop981/management_and_exploitation_of_hou
 VU#25,0.11111111,https://github.com/sukaneka/PowerSploit,sukaneka/PowerSploit,509586088
 VU#25,0.11111111,https://github.com/shyeun/exploit,shyeun/exploit,456794098
 VU#25,0.11111111,https://github.com/RonKilps/PowerSploit,RonKilps/PowerSploit,432526935
+VU#25,0.10000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.10000000,https://github.com/SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,SathruwanCooray/Phantom_Wallet_Passphrase_Cracking_Application,775406097
 VU#25,0.10000000,https://github.com/TheMalwareGuardian/Abismo,TheMalwareGuardian/Abismo,723780341
 VU#25,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
