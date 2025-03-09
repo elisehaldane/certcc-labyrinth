@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+945507697,ticofookfook/Java-exploits,Readme.md,e416dc92fbf476a4c3caa81f95875842aae8eb5b,CVE-2020-1938
+945507697,ticofookfook/Java-exploits,Readme.md,e416dc92fbf476a4c3caa81f95875842aae8eb5b,CVE-2021-44228
+945507697,ticofookfook/Java-exploits,Readme.md,e416dc92fbf476a4c3caa81f95875842aae8eb5b,CVE-2022-22965
