@@ -1,0 +1,98 @@
+repo_id,repo_full_name,file,file_sha1,match
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,CVE-2023-47117
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,CVE-2023-30843
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,GHSA-35JJ-VQCF-F2JF
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,CVE-2023-31133
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,GHSA-R97Q-GHCH-82J9
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,ORM Leak/README.md,0e77a2c1d4cb9e70a25a9c0e14c5d7e3a1a9b840,GHSA-6HJJ-GQ77-J4QW
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Tomcat CVE-2017-12617.py,0e78b624613fc08c5aa01afc70fc900938c1b13a,CVE-2017-12617
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2018-11776.py,162082b50f34a3da283bec02fb94a8869481c1ca,CVE-2018-11776
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Insecure Deserialization/Node.md,1e4a0a09f199215732a106b6c049107c722d0e4d,CVE-2017-5941
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2019-9726
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2018-1271
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2020-23575
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2023-32315
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2021-45967
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2023-36560
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Directory Traversal/README.md,2d6f0a448280ecffc4d4bc63d4d5bf19d50ec52d,CVE-2023-36899
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Active Directory Attack.md,331c9e46eac62082faf47f91f6193c856b89f7fe,MS14-068
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Regular Expression/README.md,33adac5a8d08ba19d17fac188493963e82693140,CVE-2023-41362
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Insecure Deserialization/DotNET.md,37137fb55022b667b0a601fa258d4d31573a5a8f,CVE-2021-42237
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,File Inclusion/README.md,435aa5c9cec5b8d7dfa7a25decd9f6de955a7eb5,CVE-2010-1470
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Jenkins CVE-2016-0792.py,453f6cefa64c989ae9bbae7e0b7603c9cf7a7c3c,CVE-2016-0792
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,XSS Injection/README.md,47acd29f48962ef8dada9ca6a3aacf93426ac113,CVE-2016-3212
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Insecure Deserialization/Java.md,497cd77549a61cfd7d6ec5899a517b7420fc326e,CVE-2021-35464
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Insecure Deserialization/Java.md,497cd77549a61cfd7d6ec5899a517b7420fc326e,CVE-2019-12384
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Client Side Path Traversal/README.md,49ea1775653945610b2aef588201ed7524df8547,CVE-2023-39968
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Client Side Path Traversal/README.md,49ea1775653945610b2aef588201ed7524df8547,CVE-2023-45316
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Client Side Path Traversal/README.md,49ea1775653945610b2aef588201ed7524df8547,CVE-2023-5123
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Client Side Path Traversal/README.md,49ea1775653945610b2aef588201ed7524df8547,CVE-2023-6458
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Client Side Path Traversal/README.md,49ea1775653945610b2aef588201ed7524df8547,CVE-2024-22421
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Prototype Pollution/README.md,4d8917028924fb361c504a8dd817abbeb126e8fd,CVE-2019-7609
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2019-0708
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2018-7600
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2017-0144
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2017-5638
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2014-6271
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2014-0160
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/README.md,4ff8bbe21da70176617d3c5c0c1af0d0cf70e6bb,CVE-2019-19781
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2018-7340
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2018-2998
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,VU#475445
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2017-11430
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2018-0489
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2017-11428
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2018-2933
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2017-11427
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SAML Injection/README.md,52bfbd83aa7b81bc20b7ee83b5d32ee823c26861,CVE-2017-11429
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Server Side Template Injection/JavaScript.md,55313bdd628bc1c36fc1d9f4de918e743b035856,GHSA-Q42P-PG8M-CQH6
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2013-2251 CVE-2017-5638 CVE-2018-11776_.py,5ed6adf29b7c1ffce61893fcdfd9157880e4cf41,CVE-2017-5638
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2013-2251 CVE-2017-5638 CVE-2018-11776_.py,5ed6adf29b7c1ffce61893fcdfd9157880e4cf41,CVE-2013-2251
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2013-2251 CVE-2017-5638 CVE-2018-11776_.py,5ed6adf29b7c1ffce61893fcdfd9157880e4cf41,CVE-2018-11776
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,SQL Injection/README.md,66ff8ca075af39a0f19cbe822af24b661f1b4d7d,CVE-2018-6376
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/WebLogic CVE-2017-10271.py,7262510f5d40db52ed5096a5bfb355611d4dac10,CVE-2017-10271
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Jenkins CVE-2015-8103.py,74b10cd8c15e2d9ac6756eb091917cc499fba912,CVE-2015-8103
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/WebLogic CVE-2018-2894.py,7620cc2c28adfbac07d803d4f91e4d97c7161f2d,CVE-2018-2894
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Shellshock CVE-2014-6271.py,7bc87a0e10a5ba3db704cd577307f2b26fbe1912,CVE-2014-6271
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,File Inclusion/Wrappers.md,87447757d20d4f12bd5e5959fc6eacb3fa33cde0,CVE-2024-2961
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2015-9235
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2016-5431
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2015-2951
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2019-7644
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2020-28042
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,JSON Web Token/README.md,8ea7d4d2c9d38b16f83ac42b7f5cbfc2925baf2a,CVE-2018-0114
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Upload Insecure Files/README.md,91604a0ec6efeee4c7b54d838d474e7a65554e10,CVE-2022-44268
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,File Inclusion/LFI-to-RCE.md,9a95aabda26c16457087df9dddc61edc03bc7c9c,CVE-2024-2961
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Telerik CVE-2017-9248.py,9a9aa19e93c4dbb45b6d315db7fb897fea8f9240,CVE-2017-9248
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Insecure Deserialization/Python.md,9ab9eb00828d945adcbc418c3817e523a463a0fc,CVE-2019-20477
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Citrix CVE-2019-19781.py,9adec1b5ca9d2eca0c24ddff06a2fd2aee4a6c78,CVE-2019-19781
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Telerik CVE-2019-18935.py,9c9db6c8eeea227678e5db30f3a2351e64750012,CVE-2019-18935
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/WebSphere CVE-2015-7450.py,a42c210eb6a1388a0db5149443278da7d5bcc740,CVE-2015-7450
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Rails CVE-2019-5420.rb,a5f885aa5fdcf9d334b2c2fad52cbdfbd797e871,CVE-2019-5420
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Rails CVE-2019-5420.rb,a5f885aa5fdcf9d334b2c2fad52cbdfbd797e871,CVE-2019-5418
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS17-010
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS16-032
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS15-051
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS11-080
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS10-015
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,MS08-067
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Windows - Privilege Escalation.md,ac18cb7dc52d2d25bd911119cbde96d23046857e,CVE-2019-1388
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Server Side Template Injection/PHP.md,aeff4200e238d447af0d5a19a7c7096bb095d170,GHSA-2M7X-C7PX-HP58
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Log4Shell.md,b1f92d5d5e3247d60572025f73a71748f42f325b,CVE-2021-44228
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Log4Shell.md,b1f92d5d5e3247d60572025f73a71748f42f325b,CVE-2021-45046
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/WebLogic CVE-2016-3510.py,b2dfc56e101e117727d3ad16ffb85d1a9f70652b,CVE-2016-3510
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Race Condition/README.md,b3b9bfb47cf72ee033dad9a05466ff933bf8c0df,CVE-2022-4037
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,XXE Injection/README.md,b64a08994dc2ab2ff9f43b914ec547cd932719f8,CVE-2018-11788
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,XXE Injection/README.md,b64a08994dc2ab2ff9f43b914ec547cd932719f8,CVE-2019-8986
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Drupalgeddon2 CVE-2018-7600.rb,b65cc2f4cf06efdc5256a9d1198a6d12b97dd300,CVE-2018-7600
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Account Takeover/README.md,bd0f14c80e8a0840daeea11dc88d5078c9cb6de6,CVE-2020-7245
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Heartbleed CVE-2014-0160.py,c8dc391413490522a566b96a67c793af99c54f43,CVE-2014-0160
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2022-0847
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2010-3904
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2016-5195
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2010-4258
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2012-0056
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,Methodology and Resources/Linux - Privilege Escalation.md,da9c4af613705f0c380b08cdc1420b58ef674d41,CVE-2019-14287
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/JBoss CVE-2015-7501.py,eeb05ff3a7b6e6ee33186a0e8503b8f03fd509f0,CVE-2015-7501
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2017-9805.py,f0b1f8d4ccd5f506e6ea50a1f334d03152e6f361,VU#29
+945240826,0xUnkn0wn4M1R/ExploitPayloadsDB,CVE Exploits/Apache Struts 2 CVE-2017-9805.py,f0b1f8d4ccd5f506e6ea50a1f334d03152e6f361,CVE-2017-9805
