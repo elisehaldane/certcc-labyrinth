@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 924796136,rtnthakur/CVE,others/sql-injection.pdf,95438aef44f41091d735b439cdfb44d4da4d754a,VU#58
+924796136,rtnthakur/CVE,PHPGurukul/User Registration & Login and User Management System With admin panel/bwdates-report-ds-sql-injection.pdf,c6929a7a5a0b5982a176c27fbf0033c53e04da52,VU#544
 924796136,rtnthakur/CVE,Kashipara/Stored-xss.pdf,e9f0eae747b12fdb56ebf2490abff507c9304634,VU#554
+924796136,rtnthakur/CVE,PHPGurukul/User Registration & Login and User Management System With admin panel/Change-password-sql-injection.pdf,f0d0769f6cf69603e0909f0d9c1ee8c24e8e900f,VU#11
