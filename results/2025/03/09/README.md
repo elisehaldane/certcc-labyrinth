@@ -1,7 +1,7 @@
 
 # Summary for results/2025/03/09
     
-216 records found after deduplication
+217 records found after deduplication
 
 | full_name | description | html_url | matched_list | matched_count | pushed_at | size | stargazers_count | language | forks_count | vul_ids |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------------------|---------|--------------------|------------|---------------|--------------------------------------|
@@ -190,7 +190,7 @@
 | Sahba12y/Admin-Panel-Lua | rayfield ui exploits | https://github.com/Sahba12y/Admin-Panel-Lua | ['exploit'] | 1 | 2025-03-09 00:03:07+00:00 | 3 | 0 | | 0 | [] |
 | 0xUnkn0wn4M1R/ExploitPayloadsDB | None | https://github.com/0xUnkn0wn4M1R/ExploitPayloadsDB | ['exploit'] | 1 | 2025-03-09 01:10:31+00:00 | 31249 | 1 | Python | 0 | [] |
 | RBEnhanced/DaTArrest | Exploit for Rock Band Blitz's DTA scripting engine. | https://github.com/RBEnhanced/DaTArrest | ['exploit'] | 1 | 2025-03-09 07:13:23+00:00 | 0 | 6 | | 0 | [] |
-| davewinton/xxec | A command-line tool for exploiting XXE injection via file uploads | https://github.com/davewinton/xxec | ['command injection', 'exploit'] | 2 | 2025-03-09 05:19:34+00:00 | 8 | 0 | Python | 0 | [] |
+| davewinton/xxec | A command-line tool for exploiting XXE injection via file uploads | https://github.com/davewinton/xxec | ['command injection', 'exploit'] | 2 | 2025-03-09 05:14:23+00:00 | 0 | 0 | Python | 0 | [] |
 | p00p4nts/virus-by-ai | Security toolkit for simulating malware propagation, infection vectors, & payload deployment in controlled envs. For pentesters & researchers to study worms, exploits, & encryption. WARNING: PoC for edu use only—don’t deploy on prod/unauth systems. | https://github.com/p00p4nts/virus-by-ai | ['exploit'] | 1 | 2025-03-09 05:32:31+00:00 | 0 | 0 | Python | 0 | [] |
 | Greninja143/Magnus-Billing-Exploit | This is a python exploit for the Magnus Billing vulnerability related to democ parameter | https://github.com/Greninja143/Magnus-Billing-Exploit | ['exploit'] | 1 | 2025-03-09 05:26:24+00:00 | 0 | 0 | Python | 0 | [] |
 | Likhitha-152/Command-Injection-payloads | None | https://github.com/Likhitha-152/Command-Injection-payloads | ['command injection'] | 1 | 2025-03-09 06:11:04+00:00 | 8 | 0 | | 0 | [] |
@@ -214,6 +214,7 @@
 | Zephiles/fifa06-exploit | A FIFA 06 (also called FIFA Soccer 06 in the US) Save Exploit | https://github.com/Zephiles/fifa06-exploit | ['exploit'] | 1 | 2025-03-09 19:01:40+00:00 | 23 | 3 | Python | 0 | [] |
 | Diogo-Lages/Bug-Bounty-Tools-Assistant | A Python tool for bug bounty hunters, offering an interactive CLI to execute commands across Recon, Exploitation, and Miscellaneous tasks. | https://github.com/Diogo-Lages/Bug-Bounty-Tools-Assistant | ['exploit'] | 1 | 2025-03-09 17:38:09+00:00 | 35 | 0 | Python | 0 | [] |
 | Tejas-beep/AndroSploit | None | https://github.com/Tejas-beep/AndroSploit | ['sploit'] | 1 | 2025-03-09 19:13:14+00:00 | 1596 | 0 | Python | 0 | [] |
+| Franky-Lim24/snakeyaml_cve_poc | None | https://github.com/Franky-Lim24/snakeyaml_cve_poc | ['cve poc'] | 1 | 2025-03-09 17:25:37+00:00 | 139 | 0 | Java | 0 | [] |
 | vv1hst/FiveM-External-Cheat-KeyAuth-System | FiveM External cheat, offers various features like aimbot, triggerbot, exploits, and customizable settings, enhancing the gameplay experience. | https://github.com/vv1hst/FiveM-External-Cheat-KeyAuth-System | ['exploit'] | 1 | 2025-03-09 17:42:50+00:00 | 1352 | 1 | C++ | 0 | [] |
 | monke443/CVE-2023-27350 | Unauthenticated remote command execution in Papercut service allows an attacker to execute commands due to improper access controls in the SetupCompleted Java class. | https://github.com/monke443/CVE-2023-27350 | ['cve-2 OR cve_2'] | 1 | 2025-03-09 18:47:45+00:00 | 10 | 2 | Python | 0 | ['CVE-2023-27350'] |
 | Nxploited/CVE-2024-10629 | GPX Viewer <= 2.2.8 - Authenticated (Subscriber+) Arbitrary File Creation | https://github.com/Nxploited/CVE-2024-10629 | ['cve-2 OR cve_2'] | 1 | 2025-03-09 19:42:04+00:00 | 7 | 0 | Python | 0 | ['CVE-2024-10629'] |
