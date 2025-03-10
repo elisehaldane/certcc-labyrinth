@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+945548916,Franky-Lim24/snakeyaml_cve_poc,README.md,65a865955e60f741d21981433b6002b2e65bab60,CVE-2022-1471
+945548916,Franky-Lim24/snakeyaml_cve_poc,Dockerfile,e503da418de736b9f14f6fd908dbe9250bf78e19,CVE-2022-1471
