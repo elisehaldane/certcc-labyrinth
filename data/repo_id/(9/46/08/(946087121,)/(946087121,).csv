@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+946087121,formalsec/zeroday-results,css-b64-images-0.2.5/src/lib/css-b64-images.js_graphjs/css-b64-images.js_ecma-sl/package/draft.xcf,1c99bca19f8e9322a15b07dd389d5228e403b46c,VU#7331
+946087121,formalsec/zeroday-results,css-b64-images-0.2.5/src/lib/css-b64-images.js_graphjs/css-b64-images.js_ecma-sl/package/draft.xcf,1c99bca19f8e9322a15b07dd389d5228e403b46c,VU#74
+946087121,formalsec/zeroday-results,simple-spellchecker-1.0.2/src/index.js_graphjs/index.js_ecma-sl/package/dict/fr-FR.zip,2e3ee3d6cf3d5431165ac776503c959f14bf0f13,VU#42
+946087121,formalsec/zeroday-results,simple-spellchecker-1.0.2/src/index.js_graphjs/index.js_ecma-sl/package/dict/ru-RU.zip,781621e7dc665390db67a7fd61713f63d7641ef0,VU#37
+946087121,formalsec/zeroday-results,css-b64-images-0.2.5/src/lib/css-b64-images.js_graphjs/css-b64-images.js_ecma-sl/package/README.md,9c5f3d577f429444217147c466ca789921e78edb,VU#78
+946087121,formalsec/zeroday-results,simple-spellchecker-1.0.2/src/index.js_graphjs/index.js_ecma-sl/package/dict/pl-PL.zip,9e108fc16900d34d4e007f7dc74e61fa36da1a06,VU#07
+946087121,formalsec/zeroday-results,chrome-0.1.0/src/common.js_graphjs/common.js_ecma-sl/code_vuln_runner_logs/PID-3634019-chrome-0.1.0-taint_summary.json.stderr.log,a8efde76e7738c5ed69bff81f3778b81369c610d,CVE-2021-21366
+946087121,formalsec/zeroday-results,simple-spellchecker-1.0.2/src/index.js_graphjs/index.js_ecma-sl/package/dict/en-US.zip,cd6bdeeff37e319050a768ac4dc5e23c64c73c4e,VU#88
