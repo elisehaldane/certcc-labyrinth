@@ -12,7 +12,6 @@ repo_id,repo_full_name,file,file_sha1,match
 573569557,xsscx/windows,crash/iccprofileinspector/iccprofileinspector-64bit-windows11pro-invalid-pointer-read-cve-2022-26730.txt,202d653c542cef3a8ff7fba5f27b4f599d12515d,CVE-2022-26730
 573569557,xsscx/windows,pwsh/sign-exe-files-sample.001.ps1,2525775bed7677c0dfaf277d4214f405ec75aa0e,VU#75
 573569557,xsscx/windows,pwsh/install_jq.ps1,28acfb3df5399d27b8ac8219ba4e3939466e05ac,VU#75
-573569557,xsscx/windows,pwsh/find-executables-libraries-project-root.ps1,29cc40afaa0ad1355f99c1ea5d9d82a41c38772d,VU#75
 573569557,xsscx/windows,pwsh/last-20-whea-log.ps1,29e1627b7ac227c07f856d3a7ce79d87622837a1,VU#75
 573569557,xsscx/windows,pwsh/Microsoft.PowerShell_profile.ps1,2e81e1ff3743e16cd1767e0f475d9657c20c2ade,VU#75
 573569557,xsscx/windows,pwsh/last-20-hardware-related-crash-events.ps1,320af41769eae023fc2af7f72c26ffe5cb8e054e,VU#75

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+946299247,Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-,README.txt,71025f5d864731b764bee0e08df8f201afaef796,CVE-2021-3156
+946299247,Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-,exploit.c,e9aced6536a450d9aa9f4129ceebd8688cecaa37,CVE-2021-3156
+946299247,Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-,_GITHUB_REPO_METADATA_,,CVE-2021-3156
