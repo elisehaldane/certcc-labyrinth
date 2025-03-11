@@ -11,6 +11,7 @@ VU#17,1.00000000,https://github.com/boomshy/sample_shellcode,boomshy/sample_shel
 VU#17,1.00000000,https://github.com/dithpri/RCES,dithpri/RCES,269526488
 VU#17,0.50000000,https://github.com/sappyduckie/discord5050,sappyduckie/discord5050,907051081
 VU#17,0.50000000,https://github.com/VZXdev/KSTool,VZXdev/KSTool,878062090
+VU#17,0.50000000,https://github.com/michaelneri/PST-PCQA,michaelneri/PST-PCQA,852779581
 VU#17,0.50000000,https://github.com/cran/tsdataleaks,cran/tsdataleaks,753908478
 VU#17,0.50000000,https://github.com/Diego-AltF4/writeups,Diego-AltF4/writeups,696191640
 VU#17,0.50000000,https://github.com/c-k-python/AnonSploit-Executer,c-k-python/AnonSploit-Executer,461288930
@@ -25,6 +26,7 @@ VU#17,0.33333333,https://github.com/diabl0w/CVE-2022-22057_SM-F926U,diabl0w/CVE-
 VU#17,0.33333333,https://github.com/vicojump/Exploit5,vicojump/Exploit5,462206289
 VU#17,0.33333333,https://github.com/cremigame/cremigame.github.io,cremigame/cremigame.github.io,462043572
 VU#17,0.33333333,https://github.com/vicojump/Exploit,vicojump/Exploit,462016126
+VU#17,0.25000000,https://github.com/anlyetim/Metasploit-Pentesting,anlyetim/Metasploit-Pentesting,946280317
 VU#17,0.25000000,https://github.com/elastic/camera-hacks,elastic/camera-hacks,827557058
 VU#17,0.25000000,https://github.com/zangcc/Aazhen-RexHa,zangcc/Aazhen-RexHa,464439564
 VU#17,0.25000000,https://github.com/vicojump/Exploit6,vicojump/Exploit6,462207692
@@ -70,6 +72,7 @@ VU#17,0.08333333,https://github.com/dcheng69/CVE-2022-0185-Case-Study,dcheng69/C
 VU#17,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#17,0.08333333,https://github.com/Praveenms13/Exploit-Tools,Praveenms13/Exploit-Tools,610333359
 VU#17,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
+VU#17,0.07692308,https://github.com/ktala/hacking-the-art-of-exploitation,ktala/hacking-the-art-of-exploitation,939986017
 VU#17,0.07692308,https://github.com/itsargha6656/Network-Vulnerability-Scanner,itsargha6656/Network-Vulnerability-Scanner,935845803
 VU#17,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
 VU#17,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
@@ -307,6 +310,7 @@ VU#17,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#17,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#17,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#17,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#17,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#17,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
 VU#17,0.00990099,https://github.com/LeakKids/FiveM-External-Cheat-KeyAuth-System,LeakKids/FiveM-External-Cheat-KeyAuth-System,916665205
 VU#17,0.00990099,https://github.com/Tukashix/FiveM-External-Cheat-KeyAuth-System,Tukashix/FiveM-External-Cheat-KeyAuth-System,874426310
@@ -507,7 +511,7 @@ VU#17,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#17,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#17,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#17,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#17,0.00028927,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#17,0.00028802,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#17,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#17,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#17,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127

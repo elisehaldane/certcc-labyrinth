@@ -7,6 +7,7 @@ VU#19,1.00000000,https://github.com/lmertz2/Proxyshell-Exploit,lmertz2/Proxyshel
 VU#19,1.00000000,https://github.com/InfoSecWarrior/Offensive-Payloads,InfoSecWarrior/Offensive-Payloads,567665994
 VU#19,1.00000000,https://github.com/Mahmoud7Osman/101-Exploitation-2022,Mahmoud7Osman/101-Exploitation-2022,443155509
 VU#19,1.00000000,https://github.com/mindspoof/WarSQLi,mindspoof/WarSQLi,82559394
+VU#19,0.50000000,https://github.com/Prvvv/0net,Prvvv/0net,946203398
 VU#19,0.50000000,https://github.com/JeetRami/ExploitDevelopment_NFSU_Project,JeetRami/ExploitDevelopment_NFSU_Project,886039169
 VU#19,0.50000000,https://github.com/ckbadgujar2003/necr0mancer,ckbadgujar2003/necr0mancer,837642977
 VU#19,0.50000000,https://github.com/sourcelocation/Picasso-v3,sourcelocation/Picasso-v3,724754339
@@ -113,6 +114,7 @@ VU#19,0.04166667,https://github.com/davidpieschacon/PoCVerify,davidpieschacon/Po
 VU#19,0.04166667,https://github.com/Hilary-Ashe-Lab/SunTag_Pizzey_2025,Hilary-Ashe-Lab/SunTag_Pizzey_2025,833058548
 VU#19,0.04166667,https://github.com/Elonmusic23/whatsapp-fake-reply-exploit,Elonmusic23/whatsapp-fake-reply-exploit,805107190
 VU#19,0.04166667,https://github.com/livincyber/whatsapp-fake-reply-exploit,livincyber/whatsapp-fake-reply-exploit,789129226
+VU#19,0.04166667,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#19,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
 VU#19,0.04166667,https://github.com/n3rdh4x0r/MS17-010_CVE-2017-0143,n3rdh4x0r/MS17-010_CVE-2017-0143,384203070
 VU#19,0.04000000,https://github.com/XingLuoXL/Delta-Executor-PC-Roblox,XingLuoXL/Delta-Executor-PC-Roblox,831474844
@@ -124,7 +126,6 @@ VU#19,0.04000000,https://github.com/Ashutosh1180/Delta-Executor-Roblox,Ashutosh1
 VU#19,0.04000000,https://github.com/joy047/wave-executor-roblox,joy047/wave-executor-roblox,829036176
 VU#19,0.04000000,https://github.com/lukreitor/Roblox-Delta-Executor,lukreitor/Roblox-Delta-Executor,664620523
 VU#19,0.04000000,https://github.com/quocvd1511/PostExploit,quocvd1511/PostExploit,649187376
-VU#19,0.04000000,https://github.com/alternation1337/exploit,alternation1337/exploit,646431266
 VU#19,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#19,0.04000000,https://github.com/ryanmrestivo/metasploit-resource-files,ryanmrestivo/metasploit-resource-files,447365190
 VU#19,0.04000000,https://github.com/saeedizade/Roblox-Wave-Executor,saeedizade/Roblox-Wave-Executor,368851259
@@ -320,6 +321,7 @@ VU#19,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cass
 VU#19,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#19,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#19,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#19,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#19,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
 VU#19,0.00990099,https://github.com/LeakKids/FiveM-External-Cheat-KeyAuth-System,LeakKids/FiveM-External-Cheat-KeyAuth-System,916665205
 VU#19,0.00990099,https://github.com/Tukashix/FiveM-External-Cheat-KeyAuth-System,Tukashix/FiveM-External-Cheat-KeyAuth-System,874426310
@@ -514,7 +516,7 @@ VU#19,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#19,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#19,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#19,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#19,0.00072464,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#19,0.00072150,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#19,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 VU#19,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#19,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -523,7 +525,7 @@ VU#19,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#19,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#19,0.00028927,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00028802,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#19,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127

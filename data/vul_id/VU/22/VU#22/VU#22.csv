@@ -21,6 +21,7 @@ VU#22,0.33333333,https://github.com/doyensec/Session-Hijacking-Visual-Exploitati
 VU#22,0.33333333,https://github.com/yubhyper/Exploit,yubhyper/Exploit,562181219
 VU#22,0.33333333,https://github.com/uk0/cve-2022-42889-intercept,uk0/cve-2022-42889-intercept,554822047
 VU#22,0.33333333,https://github.com/maulvialf/CTF-Writeups,maulvialf/CTF-Writeups,415762023
+VU#22,0.25000000,https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,946481482
 VU#22,0.25000000,https://github.com/DaintyJet/VChat_DEP,DaintyJet/VChat_DEP,746036119
 VU#22,0.25000000,https://github.com/Xan007/096-Exploit,Xan007/096-Exploit,600824515
 VU#22,0.25000000,https://github.com/pawit5001/lua_exploit,pawit5001/lua_exploit,591915554
@@ -357,6 +358,7 @@ VU#22,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#22,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#22,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#22,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#22,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#22,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
 VU#22,0.00990099,https://github.com/LeakKids/FiveM-External-Cheat-KeyAuth-System,LeakKids/FiveM-External-Cheat-KeyAuth-System,916665205
 VU#22,0.00990099,https://github.com/Tukashix/FiveM-External-Cheat-KeyAuth-System,Tukashix/FiveM-External-Cheat-KeyAuth-System,874426310
@@ -540,7 +542,7 @@ VU#22,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#22,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#22,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#22,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#22,0.00064977,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#22,0.00064641,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#22,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#22,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#22,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
