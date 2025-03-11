@@ -1,3 +1,11 @@
 repo_id,repo_full_name,file,file_sha1,match
+914718931,GhidraDragon/SMBv2,smb2_pipe_exec_client,03951238a393b59f0f1bbd6a5e4ca545e9ee57e7,MS17-010
 914718931,GhidraDragon/SMBv2,eternal_blue.txt,4ef266e8b6fc06a33eaeeb7c750ae0ae56bce93a,MS17-010
+914718931,GhidraDragon/SMBv2,rlscan.py,5bb94c78686518318700c986ab5190c7c6cdd0d2,CVE-2010-0408
+914718931,GhidraDragon/SMBv2,rlscan.py,5bb94c78686518318700c986ab5190c7c6cdd0d2,CVE-2010-1452
+914718931,GhidraDragon/SMBv2,rlscan.py,5bb94c78686518318700c986ab5190c7c6cdd0d2,CVE-2017-7529
+914718931,GhidraDragon/SMBv2,rlscan.py,5bb94c78686518318700c986ab5190c7c6cdd0d2,CVE-2019-20372
+914718931,GhidraDragon/SMBv2,eternal_blue_client.c,730e9357ce561a45d8ac660a8b58eaa7d3b91c73,MS17-010
+914718931,GhidraDragon/SMBv2,smb_pipe,a368522f28f3db7aa8132d776abd9d2a1a41903e,MS17-010
+914718931,GhidraDragon/SMBv2,smb_pipe.c,b82ad6a9ed67ce4b416e795355106df615b270d8,MS17-010
 914718931,GhidraDragon/SMBv2,smb2_pipe_exec_client.c,ecedf78f79ddf3a7cf1981b17a75175a5ace636d,MS17-010
