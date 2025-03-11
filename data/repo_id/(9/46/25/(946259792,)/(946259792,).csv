@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+946259792,punitdarji/Ivanti-CVE-2025-0282,CVE_2025_0282_Ivanti.py,419b3eac23a0b1fd3356f9f25bf48ddadd6df3b3,CVE-2025-0282
+946259792,punitdarji/Ivanti-CVE-2025-0282,README.md,6e3cf0fe3753aec4960212fee25471c53c18807b,CVE-2025-0282
+946259792,punitdarji/Ivanti-CVE-2025-0282,_GITHUB_REPO_METADATA_,,CVE-2025-0282
