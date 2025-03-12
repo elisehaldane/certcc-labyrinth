@@ -1,0 +1,4 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+ZDI-CAN-25615,0.50000000,https://github.com/McTavishSue/CVE-2025-2233,McTavishSue/CVE-2025-2233,947162457
+ZDI-CAN-25615,0.00028727,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+ZDI-CAN-25615,0.00014088,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668

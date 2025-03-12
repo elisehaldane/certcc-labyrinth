@@ -23,7 +23,6 @@ VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploit
 VU#78,1.00000000,https://github.com/DTMExploits/DTMExploits.github.io,DTMExploits/DTMExploits.github.io,439750861
 VU#78,0.50000000,https://github.com/Rosky96/Week-7,Rosky96/Week-7,937344959
 VU#78,0.50000000,https://github.com/cosminsaracil/node-sql-inj,cosminsaracil/node-sql-inj,891710205
-VU#78,0.50000000,https://github.com/XiaozaYa/DCO,XiaozaYa/DCO,765539054
 VU#78,0.50000000,https://github.com/barilo-egor/rce-web,barilo-egor/rce-web,707103505
 VU#78,0.50000000,https://github.com/zildjibian/scripts,zildjibian/scripts,702032805
 VU#78,0.50000000,https://github.com/Ricky-Zhu/rce_pytorch,Ricky-Zhu/rce_pytorch,482316874
@@ -35,6 +34,7 @@ VU#78,0.33333333,https://github.com/JordiChinnance/CraxsRat-7.4-source-code-comp
 VU#78,0.33333333,https://github.com/ryanLahbabi/Euro_2020_Data_Visualization,ryanLahbabi/Euro_2020_Data_Visualization,817034546
 VU#78,0.33333333,https://github.com/DeborahVolpe/Simulated-Adiabatic-Bifurcation-,DeborahVolpe/Simulated-Adiabatic-Bifurcation-,792229194
 VU#78,0.33333333,https://github.com/mbadanoiu/CVE-2019-14678,mbadanoiu/CVE-2019-14678,771051017
+VU#78,0.33333333,https://github.com/XiaozaYa/DCO,XiaozaYa/DCO,765539054
 VU#78,0.33333333,https://github.com/philrice-rcef/rcef_ws2024,philrice-rcef/rcef_ws2024,752854346
 VU#78,0.33333333,https://github.com/Maxim12234/yii_rce,Maxim12234/yii_rce,602669801
 VU#78,0.33333333,https://github.com/solitarysp/Log4j-CVE-2021-44228,solitarysp/Log4j-CVE-2021-44228,447615580
@@ -168,6 +168,7 @@ VU#78,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms
 VU#78,0.02857143,https://github.com/pietro-foini/Soccer-Data-Challenge,pietro-foini/Soccer-Data-Challenge,253057264
 VU#78,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
 VU#78,0.02777778,https://github.com/VoidSec/Exploit-Development,VoidSec/Exploit-Development,180751769
+VU#78,0.02702703,https://github.com/flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,947229376
 VU#78,0.02702703,https://github.com/acoksuz/AUTOLYCUS,acoksuz/AUTOLYCUS,807435478
 VU#78,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#78,0.02702703,https://github.com/AshtonDavies/LoMoH,AshtonDavies/LoMoH,564598605
@@ -596,4 +597,4 @@ VU#78,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasplo
 VU#78,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#78,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#78,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-VU#78,0.00003647,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#78,0.00003626,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
