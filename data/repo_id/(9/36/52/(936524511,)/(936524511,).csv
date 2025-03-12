@@ -10,3 +10,4 @@ repo_id,repo_full_name,file,file_sha1,match
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#968
 936524511,Nu1LD4y/HTB_Notes,Labs/OSCP boxes.md,78ccc2d771bbd35cc006568861e0dd7047676de6,MS17-010
 936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/Checker (Hard).md,90e511be62f65c872d63544f3b7989991a5f6186,CVE-2020-5256
+936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/LinkVortex (easy).md,a57bb73c6468afde86cd729cfda265edaee488f1,CVE-2023-40028
