@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+947090463,YuoLuo/tomcat_cve_2024_50379_exploit,tomcat_cve_2024_50379_exploit.py,abed815141342a8adbb4a8a9c3e4d65e9240071c,CVE-2024-50379
+947090463,YuoLuo/tomcat_cve_2024_50379_exploit,README.md,cdfac6c639f754c718f582f2aee000381f29928d,CVE-2024-50379
+947090463,YuoLuo/tomcat_cve_2024_50379_exploit,_GITHUB_REPO_METADATA_,,CVE-2024-50379
