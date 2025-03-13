@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+947900760,matusame/exploits,CVE/CVE-2024-4577/exploit.py,679c69d13f40595f7cc0e44d2b71a22a8ca5485b,CVE-2024-4577
