@@ -20,3 +20,4 @@ repo_id,repo_full_name,file,file_sha1,match
 785277264,don970/SuperSploit-chrome-OS,.data/.adb/apps/adb-wifi-3-3-160.apk,bf2d2ea95ac7acf2b3f16c4c2a9b81f96de09410,VU#65
 785277264,don970/SuperSploit-chrome-OS,.data/.adb/root/SuperUserPrograms/Magisk-v28.1.zip,c1611cf8276883622f5c2ede709113ffc7ec8227,VU#29
 785277264,don970/SuperSploit-chrome-OS,.data/.adb/root/SuperUserPrograms/Magisk-v28.1.zip,c1611cf8276883622f5c2ede709113ffc7ec8227,VU#37
+785277264,don970/SuperSploit-chrome-OS,.data/.help/ducky,e878bcc5b22c9af8e3499e537c0e49ef8adfa33b,CVE-2023-45866
