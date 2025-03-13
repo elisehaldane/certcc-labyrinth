@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+947763505,ayush-20701/Round-Robin-Coupon-Distribution,backend-rrcd/node_modules/express/History.md,3c031c7067148a072dab43d5a6755df1a1301d99,CVE-2024-47764
+947763505,ayush-20701/Round-Robin-Coupon-Distribution,backend-rrcd/node_modules/mquery/History.md,467a6091e535892efeeb507f8d58eb1e55451270,CVE-2020-35149
