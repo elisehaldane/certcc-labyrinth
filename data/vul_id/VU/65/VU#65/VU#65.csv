@@ -89,7 +89,6 @@ VU#65,0.07692308,https://github.com/itsargha6656/Network-Vulnerability-Scanner,i
 VU#65,0.07692308,https://github.com/gavinlampkin/Predatory-Exploitation-Detection-System,gavinlampkin/Predatory-Exploitation-Detection-System,863059841
 VU#65,0.07692308,https://github.com/Jassu7082/FAW,Jassu7082/FAW,858622127
 VU#65,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
-VU#65,0.07692308,https://github.com/don970/SuperSploit-chrome-OS,don970/SuperSploit-chrome-OS,785277264
 VU#65,0.07692308,https://github.com/Holifkly/Holifkly,Holifkly/Holifkly,730428469
 VU#65,0.07692308,https://github.com/giadone/Named-Entity-Recognition-Using-Bert-,giadone/Named-Entity-Recognition-Using-Bert-,604626757
 VU#65,0.07692308,https://github.com/AllOuttaWasabi/ApplicationLayerExploitation,AllOuttaWasabi/ApplicationLayerExploitation,564092203
@@ -98,6 +97,7 @@ VU#65,0.07692308,https://github.com/openwrt-xiaomi/xmir-patcher,openwrt-xiaomi/x
 VU#65,0.07692308,https://github.com/prajeshkumarg/asm-sample-exploits,prajeshkumarg/asm-sample-exploits,421116083
 VU#65,0.07142857,https://github.com/Sudo-Sakib/Insecure-Deserialization-Lab,Sudo-Sakib/Insecure-Deserialization-Lab,934917125
 VU#65,0.07142857,https://github.com/mojtaba-eshghie/XploGen,mojtaba-eshghie/XploGen,839474444
+VU#65,0.07142857,https://github.com/don970/SuperSploit-chrome-OS,don970/SuperSploit-chrome-OS,785277264
 VU#65,0.07142857,https://github.com/MagpieRYL/CVE-2024-3094-backdoor-env-container,MagpieRYL/CVE-2024-3094-backdoor-env-container,781419608
 VU#65,0.07142857,https://github.com/phannhat17/metasploit-web-interface,phannhat17/metasploit-web-interface,771534245
 VU#65,0.07142857,https://github.com/anyquestions69/attack-sploits,anyquestions69/attack-sploits,727411368
@@ -594,14 +594,14 @@ VU#65,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#65,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#65,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#65,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#65,0.00064309,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#65,0.00063898,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#65,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#65,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#65,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#65,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#65,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#65,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#65,0.00028727,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#65,0.00028703,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#65,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#65,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#65,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
