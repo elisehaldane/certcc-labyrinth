@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-946212140,fffrnsc/Pentesting-Portfolio,Metasploitable/REPORT.md,b8e61f717d50234f32c4cd97c5cce7403a7a7844,CVE-2011-2523
+946212140,fffrnsc/Pentesting-Portfolio,Metasploitable/REPORT.md,e0c6e58e3968a3fd43445b9b282ac2d9e80a253c,CVE-2007-2447
+946212140,fffrnsc/Pentesting-Portfolio,Metasploitable/REPORT.md,e0c6e58e3968a3fd43445b9b282ac2d9e80a253c,CVE-2010-2075
+946212140,fffrnsc/Pentesting-Portfolio,Metasploitable/REPORT.md,e0c6e58e3968a3fd43445b9b282ac2d9e80a253c,CVE-2011-2523
