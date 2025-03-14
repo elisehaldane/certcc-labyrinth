@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+948432592,pikariop/yksivaihde-CVE-2023-45806,README.md,8d9bcf1c64fae82a3536de7d3eda0d0dc4799b8a,CVE-2023-45806
+948432592,pikariop/yksivaihde-CVE-2023-45806,README.md,8d9bcf1c64fae82a3536de7d3eda0d0dc4799b8a,GHSA-HCGF-HG2G-MW78
+948432592,pikariop/yksivaihde-CVE-2023-45806,fix-quote-attribution.rb,c5142a59715374507b64f7787d4a64c28d8a2599,CVE-2023-45806
+948432592,pikariop/yksivaihde-CVE-2023-45806,fix-quote-attribution.rb,c5142a59715374507b64f7787d4a64c28d8a2599,GHSA-HCGF-HG2G-MW78
+948432592,pikariop/yksivaihde-CVE-2023-45806,_GITHUB_REPO_METADATA_,,CVE-2023-45806
