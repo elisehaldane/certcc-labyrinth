@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-934484007,EmperialX/Exploits,MSASN1.dll,35d43c177276d25ed87ac0e847c172e95faa1a90,VU#52
+934484007,EmperialX/Exploits,CRYPTBASE.dll,35d43c177276d25ed87ac0e847c172e95faa1a90,VU#52
+934484007,EmperialX/Exploits,MSIEXEC.EXE,bbaa528c5b0f1af5047e31df6ac12bed5c37e71f,VU#52
