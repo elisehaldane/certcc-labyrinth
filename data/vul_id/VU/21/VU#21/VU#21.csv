@@ -121,7 +121,6 @@ VU#21,0.06666667,https://github.com/Sx-p0t/BloxSploitsScripts,Sx-p0t/BloxSploits
 VU#21,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#21,0.06666667,https://github.com/HenryFBP/JNDI-Exploit-Server,HenryFBP/JNDI-Exploit-Server,439418936
 VU#21,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
-VU#21,0.06250000,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#21,0.06250000,https://github.com/mahmood-mahmood/Exploitary_Data_Analysis,mahmood-mahmood/Exploitary_Data_Analysis,898296667
 VU#21,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#21,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
@@ -140,6 +139,7 @@ VU#21,0.05555556,https://github.com/lambdaclass/PoC-exploit-SP1,lambdaclass/PoC-
 VU#21,0.05555556,https://github.com/The-Wagonization/The-Wagon-Site,The-Wagonization/The-Wagon-Site,864312435
 VU#21,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#21,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,patrick0314/Exploiting-Perceptual-Anchoring-for-Color-Image-Enhancement,576863055
+VU#21,0.05263158,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#21,0.05263158,https://github.com/NickMavrias/GestureTIFY,NickMavrias/GestureTIFY,815196260
 VU#21,0.05263158,https://github.com/GabrieleSerussi/Group-Convolutional-Neural-Networks,GabrieleSerussi/Group-Convolutional-Neural-Networks,787546208
 VU#21,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
@@ -651,7 +651,7 @@ VU#21,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#21,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#21,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#21,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#21,0.00028645,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#21,0.00028620,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#21,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#21,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#21,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -693,7 +693,7 @@ VU#21,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#21,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#21,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#21,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#21,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#21,0.00018392,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#21,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#21,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#21,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -33,13 +33,13 @@ VU#34,0.33333333,https://github.com/sjonks/Exploits,sjonks/Exploits,359301779
 VU#34,0.33333333,https://github.com/driesdaems10/Resoc,driesdaems10/Resoc,306957643
 VU#34,0.33333333,https://github.com/ykaitao/the-elements-of-reinforcement-learning,ykaitao/the-elements-of-reinforcement-learning,129344694
 VU#34,0.25000000,https://github.com/KraytonExecutor/Krayton-Executor,KraytonExecutor/Krayton-Executor,929170468
-VU#34,0.25000000,https://github.com/Bam0x7/linux-kernel-cve-exploit,Bam0x7/linux-kernel-cve-exploit,914880259
 VU#34,0.25000000,https://github.com/Hosvile/Luarion,Hosvile/Luarion,786261087
 VU#34,0.25000000,https://github.com/suicidaladdict/strucid,suicidaladdict/strucid,589298037
 VU#34,0.25000000,https://github.com/RobertDEVx/Silent-Doc-Exploit-Python,RobertDEVx/Silent-Doc-Exploit-Python,560961272
 VU#34,0.25000000,https://github.com/NeobloxExecutor/neoblox,NeobloxExecutor/neoblox,492579550
 VU#34,0.25000000,https://github.com/Plextora/neoblox,Plextora/neoblox,469819250
 VU#34,0.25000000,https://github.com/dnr6419/CVE-2021-45416,dnr6419/CVE-2021-45416,459058671
+VU#34,0.20000000,https://github.com/Bam0x7/linux-kernel-cve-exploit,Bam0x7/linux-kernel-cve-exploit,914880259
 VU#34,0.20000000,https://github.com/maxt-800/FortnitexpGl1tch,maxt-800/FortnitexpGl1tch,763719376
 VU#34,0.20000000,https://github.com/castroaj/Command_Injection_WAF,castroaj/Command_Injection_WAF,561098305
 VU#34,0.20000000,https://github.com/Eclipsemos/FPS-game-reverse-programming,Eclipsemos/FPS-game-reverse-programming,445801114
@@ -105,7 +105,6 @@ VU#34,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,
 VU#34,0.06666667,https://github.com/Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,Adisu-bezu/RL-Assignment-IV-MonteCarlo-SARSA,929613226
 VU#34,0.06666667,https://github.com/rabiaguzel/Q-Learning-Projects,rabiaguzel/Q-Learning-Projects,912396428
 VU#34,0.06666667,https://github.com/uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,uji92/Dynamic-exploration-exploitation-tradeoff-in-ALR-with-BHM,614058834
-VU#34,0.06250000,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#34,0.05882353,https://github.com/theretrogeekyt/Xpode360-Starter-Pack,theretrogeekyt/Xpode360-Starter-Pack,946214849
 VU#34,0.05882353,https://github.com/AllenJustine/Automating-Log4j-Exploit-using-Python,AllenJustine/Automating-Log4j-Exploit-using-Python,848872567
 VU#34,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-base,844799601
@@ -115,6 +114,7 @@ VU#34,0.05882353,https://github.com/terawhiz/kpwn,terawhiz/kpwn,623477795
 VU#34,0.05555556,https://github.com/AxelJL/EscapeNoGame,AxelJL/EscapeNoGame,886793111
 VU#34,0.05555556,https://github.com/ItzApipAjalah/Cipher,ItzApipAjalah/Cipher,464362167
 VU#34,0.05555556,https://github.com/SomeRandomKid7/RobloxExploits,SomeRandomKid7/RobloxExploits,440227118
+VU#34,0.05263158,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#34,0.05263158,https://github.com/arazzaq178/Predicting-Software-Vulnerability-Exploits,arazzaq178/Predicting-Software-Vulnerability-Exploits,944635091
 VU#34,0.05263158,https://github.com/NickMavrias/GestureTIFY,NickMavrias/GestureTIFY,815196260
 VU#34,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
@@ -552,7 +552,7 @@ VU#34,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#34,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#34,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#34,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#34,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#34,0.00018392,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#34,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#34,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#34,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

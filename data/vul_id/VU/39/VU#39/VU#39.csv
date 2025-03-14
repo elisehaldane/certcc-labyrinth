@@ -102,7 +102,6 @@ VU#39,0.06666667,https://github.com/vonagle/PowerSploit,vonagle/PowerSploit,5989
 VU#39,0.06666667,https://github.com/cyb3rpeace/PowerSploit,cyb3rpeace/PowerSploit,554822173
 VU#39,0.06666667,https://github.com/RakhithJK/PowerShellMafia-PowerSploit,RakhithJK/PowerShellMafia-PowerSploit,513554415
 VU#39,0.06666667,https://github.com/mtthwstffrd/PowerShellMafia-PowerSploit,mtthwstffrd/PowerShellMafia-PowerSploit,462118513
-VU#39,0.06250000,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#39,0.06250000,https://github.com/vacuumlabs/cardano-ctf,vacuumlabs/cardano-ctf,718994113
 VU#39,0.05882353,https://github.com/WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,930196286
 VU#39,0.05882353,https://github.com/Astrowmist/POC-CVE-2012-1831,Astrowmist/POC-CVE-2012-1831,894342199
@@ -110,6 +109,7 @@ VU#39,0.05882353,https://github.com/JJoriping/tailwind-base,JJoriping/tailwind-b
 VU#39,0.05882353,https://github.com/Lyuuniversal/Scripts,Lyuuniversal/Scripts,606715950
 VU#39,0.05555556,https://github.com/The-Wagonization/The-Wagon-Site,The-Wagonization/The-Wagon-Site,864312435
 VU#39,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-vk,528643217
+VU#39,0.05263158,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#39,0.05263158,https://github.com/willbrst/poc-vuln-java,willbrst/poc-vuln-java,727899845
 VU#39,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
 VU#39,0.05263158,https://github.com/andersonpda/poc-vuln-java-main,andersonpda/poc-vuln-java-main,694770064
@@ -576,7 +576,7 @@ VU#39,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#39,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#39,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#39,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#39,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#39,0.00018392,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#39,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#39,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#39,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

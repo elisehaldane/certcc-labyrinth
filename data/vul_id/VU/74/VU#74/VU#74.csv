@@ -40,7 +40,6 @@ VU#74,0.33333333,https://github.com/CartiDev/RobloxExploitSample,CartiDev/Roblox
 VU#74,0.33333333,https://github.com/nsandholtz/hotspot_paper,nsandholtz/hotspot_paper,384251587
 VU#74,0.33333333,https://github.com/ABi-lab/RCE,ABi-lab/RCE,338904185
 VU#74,0.33333333,https://github.com/driesdaems10/Resoc,driesdaems10/Resoc,306957643
-VU#74,0.25000000,https://github.com/Bam0x7/linux-kernel-cve-exploit,Bam0x7/linux-kernel-cve-exploit,914880259
 VU#74,0.25000000,https://github.com/Ahmedmadkour640/INVESTIGATING-A-MALWARE-EXPLOIT,Ahmedmadkour640/INVESTIGATING-A-MALWARE-EXPLOIT,903523753
 VU#74,0.25000000,https://github.com/Sharkkcode/CVE_2024_6239_slide,Sharkkcode/CVE_2024_6239_slide,849978708
 VU#74,0.25000000,https://github.com/fxizxn/CSRF-ML-SHEILD,fxizxn/CSRF-ML-SHEILD,825873289
@@ -58,6 +57,7 @@ VU#74,0.25000000,https://github.com/notSkyFrost/RoMYSQL,notSkyFrost/RoMYSQL,4373
 VU#74,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#74,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
 VU#74,0.20000000,https://github.com/UnsyncedMaster/FlameX-Atonix-1.0.X,UnsyncedMaster/FlameX-Atonix-1.0.X,916361233
+VU#74,0.20000000,https://github.com/Bam0x7/linux-kernel-cve-exploit,Bam0x7/linux-kernel-cve-exploit,914880259
 VU#74,0.20000000,https://github.com/palara1n/Winexploit,palara1n/Winexploit,861233260
 VU#74,0.20000000,https://github.com/louane20/MicroP-Exploit-,louane20/MicroP-Exploit-,727850137
 VU#74,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
@@ -593,7 +593,7 @@ VU#74,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#74,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#74,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#74,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#74,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#74,0.00018392,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#74,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#74,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#74,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

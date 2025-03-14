@@ -137,7 +137,6 @@ VU#85,0.06666667,https://github.com/ring0-c0d3-br34k3r/Exploit-Development-Notes
 VU#85,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#85,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jenkins-CVE-2017-1000353,550150215
 VU#85,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
-VU#85,0.06250000,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#85,0.06250000,https://github.com/balpars/Pycharm-CVE-POC-TEST,balpars/Pycharm-CVE-POC-TEST,927713308
 VU#85,0.06250000,https://github.com/danishansari9422/salesforce_robot_project,danishansari9422/salesforce_robot_project,900672800
 VU#85,0.06250000,https://github.com/omar2535/CVE-2022-39275,omar2535/CVE-2022-39275,889242972
@@ -542,7 +541,7 @@ VU#85,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#85,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#85,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#85,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-VU#85,0.00086281,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+VU#85,0.00085763,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#85,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#85,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
@@ -592,7 +591,7 @@ VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#85,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
-VU#85,0.00000728,https://github.com/trickest/cve,trickest/cve,454015416
+VU#85,0.00000725,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000394,https://github.com/omok314159/CVE_Stat_2024,omok314159/CVE_Stat_2024,937828154
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

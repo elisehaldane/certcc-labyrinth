@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W8W4-463P-8PG7,0.00076570,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-W8W4-463P-8PG7,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
-GHSA-W8W4-463P-8PG7,0.00003623,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-W8W4-463P-8PG7,0.00003618,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

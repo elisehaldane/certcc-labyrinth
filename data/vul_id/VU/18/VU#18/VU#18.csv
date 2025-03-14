@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#18,1.00000000,https://github.com/CyberSecMohaimen/FTP-port-21-Exploit-Lab,CyberSecMohaimen/FTP-port-21-Exploit-Lab,946313664
 VU#18,1.00000000,https://github.com/VetOnce/best-of-n-prompt-jailbreaker,VetOnce/best-of-n-prompt-jailbreaker,934224537
 VU#18,1.00000000,https://github.com/vksoz/Scriptware-Executer,vksoz/Scriptware-Executer,900792538
 VU#18,1.00000000,https://github.com/edateamos/ExploitChecker,edateamos/ExploitChecker,877605781
@@ -91,6 +92,8 @@ VU#18,0.33333333,https://github.com/Tburm/liquidations-interface,Tburm/liquidati
 VU#18,0.33333333,https://github.com/lukeyako/exploitalpha,lukeyako/exploitalpha,444223644
 VU#18,0.33333333,https://github.com/issa-project/web-visualization,issa-project/web-visualization,355214380
 VU#18,0.33333333,https://github.com/IMAGINARY/sumory,IMAGINARY/sumory,254935952
+VU#18,0.25000000,https://github.com/Li-DAO-Dev/work2icu-site,Li-DAO-Dev/work2icu-site,948430871
+VU#18,0.25000000,https://github.com/Li-DAO-Dev/work2icu-site-mirror-example,Li-DAO-Dev/work2icu-site-mirror-example,947950781
 VU#18,0.25000000,https://github.com/Li-DAO-Dev/work2icu-site,Li-DAO-Dev/work2icu-site,947941807
 VU#18,0.25000000,https://github.com/Meterialsz/FiveM-External-Cheat,Meterialsz/FiveM-External-Cheat,946256142
 VU#18,0.25000000,https://github.com/Warlingsk/FiveM-External-Cheat,Warlingsk/FiveM-External-Cheat,941238148
@@ -219,6 +222,7 @@ VU#18,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysi
 VU#18,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#18,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
 VU#18,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
+VU#18,0.05263158,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#18,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#18,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
 VU#18,0.05263158,https://github.com/Cesar-Hack-Gray/FotoSploit,Cesar-Hack-Gray/FotoSploit,225439363
@@ -658,7 +662,7 @@ VU#18,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#18,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#18,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#18,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#18,0.00028645,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#18,0.00028620,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#18,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#18,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#18,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -700,7 +704,7 @@ VU#18,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#18,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#18,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#18,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#18,0.00018396,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#18,0.00018392,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#18,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#18,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#18,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
