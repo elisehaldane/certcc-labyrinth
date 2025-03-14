@@ -2,7 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 MS08-067,1.00000000,https://github.com/AshJToomey/Python-Metasploit-Exploitation,AshJToomey/Python-Metasploit-Exploitation,944664243
 MS08-067,1.00000000,https://github.com/Shankar01081991/HTB-OSCP-Prep,Shankar01081991/HTB-OSCP-Prep,943261954
 MS08-067,1.00000000,https://github.com/SerCaesar/MetasploitFiller,SerCaesar/MetasploitFiller,938869138
-MS08-067,1.00000000,https://github.com/Jeevanandan-Balaji/Mastering-Metasploit,Jeevanandan-Balaji/Mastering-Metasploit,919809935
 MS08-067,1.00000000,https://github.com/blackmagic2023/smb-scanner,blackmagic2023/smb-scanner,795665161
 MS08-067,1.00000000,https://github.com/christophercaruso96/exploit_MS08-067,christophercaruso96/exploit_MS08-067,784669184
 MS08-067,1.00000000,https://github.com/MitraLothbrok/Interaction-with-FTP-SSH-SMB-ports,MitraLothbrok/Interaction-with-FTP-SSH-SMB-ports,778013762
@@ -67,6 +66,7 @@ MS08-067,1.00000000,https://github.com/davehardy20/Metasploit-Stuff,davehardy20/
 MS08-067,0.50000000,https://github.com/claesmnyberg/exploits,claesmnyberg/exploits,933681591
 MS08-067,0.50000000,https://github.com/aysenurmerve/windows-xp-and-metasploitable2-Vulnerability-Scanning-with-msfconsole,aysenurmerve/windows-xp-and-metasploitable2-Vulnerability-Scanning-with-msfconsole,928420991
 MS08-067,0.50000000,https://github.com/JairCodes/VM-SandBox-Project,JairCodes/VM-SandBox-Project,927405457
+MS08-067,0.50000000,https://github.com/Jeevanandan-Balaji/Mastering-Metasploit,Jeevanandan-Balaji/Mastering-Metasploit,919809935
 MS08-067,0.50000000,https://github.com/blackmagic2023/windows-kernal-priv-escalation,blackmagic2023/windows-kernal-priv-escalation,784171236
 MS08-067,0.50000000,https://github.com/Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,Cipher-Rachael/Exploiting-MS08_067-with-Metasploit,770417981
 MS08-067,0.50000000,https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment,742667541

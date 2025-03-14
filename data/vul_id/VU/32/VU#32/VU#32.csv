@@ -8,6 +8,7 @@ VU#32,1.00000000,https://github.com/raghuvulli2000/RemoteCodeExecution,raghuvull
 VU#32,1.00000000,https://github.com/unCodeBoss/Tor-0day,unCodeBoss/Tor-0day,522686575
 VU#32,1.00000000,https://github.com/nikosChalk/exploitation-training,nikosChalk/exploitation-training,263685224
 VU#32,1.00000000,https://github.com/akurt5/Exploit,akurt5/Exploit,159245915
+VU#32,0.50000000,https://github.com/Zephiles/fifa07-exploit,Zephiles/fifa07-exploit,948287403
 VU#32,0.50000000,https://github.com/Zephiles/fifa06-exploit,Zephiles/fifa06-exploit,945536364
 VU#32,0.50000000,https://github.com/tyto-sec/syncbreeze10.0.28-buffer-overflow-exploit,tyto-sec/syncbreeze10.0.28-buffer-overflow-exploit,912140930
 VU#32,0.50000000,https://github.com/saba-khan441/saba-khan441-Hybrid-images-CV,saba-khan441/saba-khan441-Hybrid-images-CV,899770399
@@ -714,7 +715,7 @@ VU#32,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#32,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#32,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#32,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#32,0.00028670,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#32,0.00028645,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#32,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#32,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#32,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
