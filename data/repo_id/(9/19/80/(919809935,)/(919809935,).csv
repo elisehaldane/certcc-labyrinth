@@ -1,3 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 919809935,Jeevanandan-Balaji/Mastering-Metasploit,2-Beginner-Guide/Basic-Exploitation.md,08a5f44b44b09d2256fcfecf87da29461a4dfae0,MS08-067
+919809935,Jeevanandan-Balaji/Mastering-Metasploit,2-Beginner-Guide/Practical-Examples/Exploit-SMB.md,60201d1e0c626647d221e477a68ae6f10d93e242,MS17-010
+919809935,Jeevanandan-Balaji/Mastering-Metasploit,3-Intermediate/Automating-Tasks.md,67cc98643e8c038f90f925221f7234802e330244,MS17-010
 919809935,Jeevanandan-Balaji/Mastering-Metasploit,2-Beginner-Guide/Navigating-the-Metasploit-Console.md,87d1c4e9bd8502f0128de2fba6b78f3658891490,MS08-067
