@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#59,1.00000000,https://github.com/Jumpy22/Hellcode,Jumpy22/Hellcode,755692260
 VU#59,1.00000000,https://github.com/Kob123678/KoSploit-v2,Kob123678/KoSploit-v2,509768763
 VU#59,1.00000000,https://github.com/NathanTheIceCube/ProSploit-Hub,NathanTheIceCube/ProSploit-Hub,463701038
+VU#59,0.50000000,https://github.com/swagatkumarsahoo/Fake-News-Detection,swagatkumarsahoo/Fake-News-Detection,949056874
 VU#59,0.50000000,https://github.com/Pradip-piprotar/metasploitable,Pradip-piprotar/metasploitable,878791225
 VU#59,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
 VU#59,0.50000000,https://github.com/vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,vsnbsabbineni/-Lab-SQL-injection-with-filter-bypass-via-XML-encoding---PortSwigger,829632417
@@ -452,7 +453,7 @@ VU#59,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#59,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#59,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#59,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00028604,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#59,0.00028596,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#59,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

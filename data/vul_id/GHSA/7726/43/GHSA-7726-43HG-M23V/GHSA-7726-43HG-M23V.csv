@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7726-43HG-M23V,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-7726-43HG-M23V,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
-GHSA-7726-43HG-M23V,0.00003618,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-7726-43HG-M23V,0.00003609,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
