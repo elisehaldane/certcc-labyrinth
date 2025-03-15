@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+948706164,ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory,README.md,91ee240c4d45f749f8479de77c615ce61ec5b3c3,CVE-2024-9513
+948706164,ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory,CVE-2024-9513.sh,cad86e2816e68bfe0e1a5934b323acde5cb7bc95,CVE-2024-9513
+948706164,ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory,_GITHUB_REPO_METADATA_,,CVE-2024-9513
