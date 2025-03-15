@@ -1,3 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
+545007990,AryanVBW/ANDRO,node_modules/@types/node/crypto.d.ts,39f23aa74c53a8734dc484815b1e359a0112c161,CVE-2021-44532
+545007990,AryanVBW/ANDRO,node_modules/express/History.md,3c031c7067148a072dab43d5a6755df1a1301d99,CVE-2024-47764
+545007990,AryanVBW/ANDRO,node_modules/@types/node/tls.d.ts,56a1851786dc9a1c66ca2ab2307b6b3f4e7b74bb,CVE-2021-44531
 545007990,AryanVBW/ANDRO,app/factory/apktool.jar,5e7674f45038b03ff0e21158e72d44497fdc395d,VU#79
+545007990,AryanVBW/ANDRO,node_modules/ip-address/docs/assets/fonts/WOFF/OTF/SourceCodePro-Bold.otf.woff,6c0fd0b26ac22e943e5b3e1b3723d0ae9bf55bae,VU#74
+545007990,AryanVBW/ANDRO,node_modules/geoip-lite/data/geoip-city.dat,adca54e6569725cc0d6f7254006677e3222955d3,VU#60
 545007990,AryanVBW/ANDRO,assets/webpublic/css/semantic.min.css,c41b559e345ce6988e259c8529b864d10c7160e4,VU#513
