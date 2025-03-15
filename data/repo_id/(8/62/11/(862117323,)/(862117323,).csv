@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+862117323,0x4F776C/0x4F776C.github.io,node_modules/vue/dist/vue.esm-browser.js,2b1c43ca82a31b01e847b6590180695514952c87,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/runtime-dom/dist/runtime-dom.esm-browser.js,3af338f4d3614bfdc4765aa58fbf00a66fa80198,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/vue/dist/vue.runtime.global.js,3ce6dc3ac59748082348a15ac66f2691dd4418a5,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js,434c0ecf7b1b5d259dde2ca0482a504a92733e3b,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/axios/CHANGELOG.md,4a07fc798993c31f55044bd96b79c86915e7c73e,CVE-2023-45857
+862117323,0x4F776C/0x4F776C.github.io,node_modules/axios/CHANGELOG.md,4a07fc798993c31f55044bd96b79c86915e7c73e,CVE-2024-39338
+862117323,0x4F776C/0x4F776C.github.io,node_modules/vue/dist/vue.runtime.esm-browser.js,6c59749058e7cfb5f57a690a0e48e5eed1bf3706,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/runtime-core/dist/runtime-core.cjs.js,948fac69d492ec9a558befcdccd037e39470dd85,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#29
+862117323,0x4F776C/0x4F776C.github.io,node_modules/source-map/dist/source-map.debug.js,a6bfe62f20aae6db6d91a21cd26493ec318050d4,VU#291
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/server-renderer/dist/server-renderer.esm-browser.js,a8156221a68446a761c003b6878ef14a68384216,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/runtime-core/dist/runtime-core.cjs.prod.js,cd9e1d35736306df7f07a06c8035342ccfbf1aa8,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/vue/dist/vue.global.js,dd12f9a78b904b7bdcca0e31d485bb4adeccca43,BID-0
+862117323,0x4F776C/0x4F776C.github.io,node_modules/@vue/runtime-dom/dist/runtime-dom.global.js,f646c7ebd76195bcabf3f5cad219c14b71859ac9,BID-0
