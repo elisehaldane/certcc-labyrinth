@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+948919112,Mayank-K-DS/Coupon-distribution_mern,node_modules/@types/node/crypto.d.ts,39f23aa74c53a8734dc484815b1e359a0112c161,CVE-2021-44532
+948919112,Mayank-K-DS/Coupon-distribution_mern,node_modules/express/History.md,3c031c7067148a072dab43d5a6755df1a1301d99,CVE-2024-47764
+948919112,Mayank-K-DS/Coupon-distribution_mern,node_modules/mquery/History.md,467a6091e535892efeeb507f8d58eb1e55451270,CVE-2020-35149
+948919112,Mayank-K-DS/Coupon-distribution_mern,node_modules/@types/node/tls.d.ts,56a1851786dc9a1c66ca2ab2307b6b3f4e7b74bb,CVE-2021-44531
