@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+946928461,backuardo/exploit-workbench,README.md,2cfde3d184561b4686d95023ecb22aa08d4be8a2,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/exploit.sh,369f17e52714fce8508be2aeb32db9178c2f75ce,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/vulnerable-server/seed-redis.ts,976c330edbd022481114e2bb56024514daff56b0,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/docker-compose.yml,9f2e119339ac8ebe9cea598ef8c7cc09e249254c,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/vulnerable-server/server.ts,a1c2bcc4e7caf6dee82c4b0778d13de1d1a02020,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/vulnerable-server/Dockerfile,a9334d1b081ceff9d6bcd818989e2563ae28667a,CVE-2025-27152
+946928461,backuardo/exploit-workbench,cve-2025-27152/README.md,ad1a60ef654d4928db4b1f586b24b15e05c7da4d,CVE-2025-27152
