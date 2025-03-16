@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#888,0.12500000,https://github.com/x7dbg/Notes,x7dbg/Notes,721210794
 VU#888,0.12500000,https://github.com/AlexanderPoone/tempusespatium,AlexanderPoone/tempusespatium,117782285
+VU#888,0.11111111,https://github.com/lekdel/inf8602_exploit,lekdel/inf8602_exploit,949124219
 VU#888,0.11111111,https://github.com/xzx482/CVE-2024-1086,xzx482/CVE-2024-1086,824093061
 VU#888,0.11111111,https://github.com/Notselwyn/CVE-2024-1086,Notselwyn/CVE-2024-1086,775151369
 VU#888,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
@@ -89,6 +90,7 @@ VU#888,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,8029421
 VU#888,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
 VU#888,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,835447736
 VU#888,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
+VU#888,0.00423729,https://github.com/alleleintel/research,alleleintel/research,170729722
 VU#888,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#888,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#888,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#411,0.16666667,https://github.com/kaled-alshmrany/FuSeBMC,kaled-alshmrany/FuSeBMC,257922621
+VU#411,0.11111111,https://github.com/lekdel/inf8602_exploit,lekdel/inf8602_exploit,949124219
 VU#411,0.11111111,https://github.com/xzx482/CVE-2024-1086,xzx482/CVE-2024-1086,824093061
 VU#411,0.11111111,https://github.com/Notselwyn/CVE-2024-1086,Notselwyn/CVE-2024-1086,775151369
 VU#411,0.07692308,https://github.com/koharin/kernel_exploit,koharin/kernel_exploit,425400961
@@ -64,6 +65,7 @@ VU#411,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML
 VU#411,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#411,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
 VU#411,0.00425532,https://github.com/Akshath-KR/Bank-Loan-Defaulter,Akshath-KR/Bank-Loan-Defaulter,735598529
+VU#411,0.00423729,https://github.com/alleleintel/research,alleleintel/research,170729722
 VU#411,0.00396825,https://github.com/Aluminum-Depot/Tinf0il-new,Aluminum-Depot/Tinf0il-new,677545007
 VU#411,0.00386100,https://github.com/bob11vrdp/CVE-2022-39425,bob11vrdp/CVE-2022-39425,569739742
 VU#411,0.00259740,https://github.com/Vichingo455/MalwareDatabase,Vichingo455/MalwareDatabase,381454556
