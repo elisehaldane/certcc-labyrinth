@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+944178648,gl0wyy/koha-task-scheduler-rce,README.md,5a8ed3f1328a03e70e6344606e59005060057026,CVE-2025-30076
