@@ -18,7 +18,6 @@ VU#95,0.50000000,https://github.com/Swipeify/BankID-EXPLOIT,Swipeify/BankID-EXPL
 VU#95,0.50000000,https://github.com/Gudratliishere/HeapOverflow,Gudratliishere/HeapOverflow,435209702
 VU#95,0.50000000,https://github.com/DeimosC2/DeimosC2,DeimosC2/DeimosC2,276189496
 VU#95,0.50000000,https://github.com/EXtremeExploit/EXtremeExploit.github.io,EXtremeExploit/EXtremeExploit.github.io,106965677
-VU#95,0.33333333,https://github.com/engie4800/dsi-capstone-spring-2025-GE,engie4800/dsi-capstone-spring-2025-GE,926256265
 VU#95,0.33333333,https://github.com/Axysxploit/Axysxploit-Roblox-Exploit,Axysxploit/Axysxploit-Roblox-Exploit,925653288
 VU#95,0.33333333,https://github.com/edenberger/redk8s,edenberger/redk8s,818555231
 VU#95,0.33333333,https://github.com/tiny-dragon/ExploitableTokenTracker,tiny-dragon/ExploitableTokenTracker,781385793
@@ -26,6 +25,7 @@ VU#95,0.33333333,https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Exa
 VU#95,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#95,0.33333333,https://github.com/Werea25/Best-Exploit,Werea25/Best-Exploit,565215249
 VU#95,0.33333333,https://github.com/ED-Devel0per/ED-Sploit-Download,ED-Devel0per/ED-Sploit-Download,559252937
+VU#95,0.25000000,https://github.com/engie4800/dsi-capstone-spring-2025-GE,engie4800/dsi-capstone-spring-2025-GE,926256265
 VU#95,0.25000000,https://github.com/AiraBanu/UrbanEye,AiraBanu/UrbanEye,923706747
 VU#95,0.25000000,https://github.com/cultureelerfgoed/rce-thesauri-backup,cultureelerfgoed/rce-thesauri-backup,706151427
 VU#95,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
@@ -446,7 +446,7 @@ VU#95,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#95,0.00028596,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#95,0.00028588,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#95,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#95,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

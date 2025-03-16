@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#406,0.06666667,https://github.com/teloryfrozy/Lumatic-kartdlphax,teloryfrozy/Lumatic-kartdlphax,649274248
 VU#406,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_training,SecurityInnovation/glibc_heap_exploitation_training,261947197
+VU#406,0.05263158,https://github.com/r1ru/binary-exploitation-tutorial,r1ru/binary-exploitation-tutorial,948972670
 VU#406,0.04545455,https://github.com/Nintendo-Homebrew/DSi_Memory_Pit,Nintendo-Homebrew/DSi_Memory_Pit,441045302
 VU#406,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
 VU#406,0.01785714,https://github.com/JavaliMZ/Exploits-diversos,JavaliMZ/Exploits-diversos,476814593
