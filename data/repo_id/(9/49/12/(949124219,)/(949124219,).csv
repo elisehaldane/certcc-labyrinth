@@ -1,0 +1,16 @@
+repo_id,repo_full_name,file,file_sha1,match
+949124219,lekdel/inf8602_exploit,exploit/README.md,537c31c1b0b2b37214646d1118eab868769f5bce,CVE-2024-1086
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#101010
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#410
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#411
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#420
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#422
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#444
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#888
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/drm/drm_fourcc.h,6e3b5b9cfca4bbe169bb04f921297b3cf2d45f57,VU#8888
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#410
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#411
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#420
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#422
+949124219,lekdel/inf8602_exploit,exploit/include/linux-lts-6.1.72/linux/videodev2.h,9f920a88a1173af6ac67a444afd30f80acaa9a44,VU#444
+949124219,lekdel/inf8602_exploit,README.md,a5d28e3822f0162647df5180abc49e95fde29a44,CVE-2024-1086
