@@ -52,6 +52,7 @@ VU#23,0.25000000,https://github.com/APresellingservices/hervus-exploit,APreselli
 VU#23,0.25000000,https://github.com/0x3SC4L4T3/Apache-Log4j-POC,0x3SC4L4T3/Apache-Log4j-POC,441001904
 VU#23,0.25000000,https://github.com/p3n7a90n/Log4j-RCE-POC,p3n7a90n/Log4j-RCE-POC,437276622
 VU#23,0.25000000,https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,M1ngGod/CVE-2021-44228-Log4j-lookup-Rce,437221795
+VU#23,0.25000000,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#23,0.20000000,https://github.com/Tnot123/exploit,Tnot123/exploit,927198168
 VU#23,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCTF/zerodaysctf.github.io,913534505
 VU#23,0.20000000,https://github.com/eric-olsson-chalmers/ethical-hacking-exploit,eric-olsson-chalmers/ethical-hacking-exploit,878546846
@@ -148,7 +149,6 @@ VU#23,0.06666667,https://github.com/toxicsudo/flash-loan-exploit-tutorial,toxics
 VU#23,0.06666667,https://github.com/Nariod/RustPacker,Nariod/RustPacker,538361446
 VU#23,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#23,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
-VU#23,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#23,0.06250000,https://github.com/MzHmO/Sploit2Me,MzHmO/Sploit2Me,797925665
 VU#23,0.06250000,https://github.com/yoda66/PythonShellcodeRedux,yoda66/PythonShellcodeRedux,768257602
 VU#23,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,sumitdahake23/rceomchrysalis_2023.github.io,583640756
@@ -173,6 +173,7 @@ VU#23,0.05263158,https://github.com/RyAtlasX/Roblox_scripts_for_newbie,RyAtlasX/
 VU#23,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicAnonymousProHacker/School-Exploits,518791894
 VU#23,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#23,0.05263158,https://github.com/PitchyATree/roblox-exploit-library,PitchyATree/roblox-exploit-library,407856378
+VU#23,0.05263158,https://github.com/L0kiii/Dubbo-deserialization,L0kiii/Dubbo-deserialization,279463521
 VU#23,0.05000000,https://github.com/JayMwakideu/Mobile_Spy_Ware,JayMwakideu/Mobile_Spy_Ware,825675936
 VU#23,0.05000000,https://github.com/charlotteVDD/neuroForest,charlotteVDD/neuroForest,499492011
 VU#23,0.05000000,https://github.com/opsxcq/blog,opsxcq/blog,146537935

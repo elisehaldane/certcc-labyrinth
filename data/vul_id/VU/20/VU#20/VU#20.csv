@@ -28,6 +28,7 @@ VU#20,0.25000000,https://github.com/birdlex/cve-2024-24919-checker,birdlex/cve-2
 VU#20,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
 VU#20,0.25000000,https://github.com/ihavegoodnameiscool/joebidensploitx,ihavegoodnameiscool/joebidensploitx,658361149
 VU#20,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
+VU#20,0.25000000,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#20,0.20000000,https://github.com/ZeroDaysCTF/zerodaysctf.github.io,ZeroDaysCTF/zerodaysctf.github.io,913534505
 VU#20,0.20000000,https://github.com/harshtech123/cve-2020-24881,harshtech123/cve-2020-24881,887139437
 VU#20,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,719369149
@@ -96,7 +97,6 @@ VU#20,0.06666667,https://github.com/dirge1/TERIME,dirge1/TERIME,811891254
 VU#20,0.06666667,https://github.com/reuteras/CVE-2024-3094,reuteras/CVE-2024-3094,780415912
 VU#20,0.06666667,https://github.com/peer-pri/Lunaris,peer-pri/Lunaris,723361668
 VU#20,0.06666667,https://github.com/praveentech21/rces,praveentech21/rces,718944675
-VU#20,0.06666667,https://github.com/luizpgt/AtomicBombProject,luizpgt/AtomicBombProject,245016052
 VU#20,0.06250000,https://github.com/balpars/Pycharm-CVE-POC-TEST,balpars/Pycharm-CVE-POC-TEST,927713308
 VU#20,0.06250000,https://github.com/danishansari9422/salesforce_robot_project,danishansari9422/salesforce_robot_project,900672800
 VU#20,0.06250000,https://github.com/Mohamed-Haneef/Exploit-box,Mohamed-Haneef/Exploit-box,802023457
