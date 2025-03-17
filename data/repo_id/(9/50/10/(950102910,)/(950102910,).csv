@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+950102910,regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26,README.md,59359ab245411ebe08daf9692d4b5dc0b9427b15,CVE-2024-25641
+950102910,regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26,README.md,59359ab245411ebe08daf9692d4b5dc0b9427b15,GHSA-7CMJ-G5QC-PJ88
+950102910,regantemudo/CVE-2024-25641-Exploit-for-Cacti-1.2.26,_GITHUB_REPO_METADATA_,,CVE-2024-25641
