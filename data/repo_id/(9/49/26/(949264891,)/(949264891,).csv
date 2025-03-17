@@ -1,0 +1,12 @@
+repo_id,repo_full_name,file,file_sha1,match
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#17
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#32
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#33
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#396
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#49
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#53
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#65
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#82
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#84
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/res/cacert.pem,19820cf6648bed32b56ece4f8d8ab5e50919defe,VU#85
+949264891,teckglobal/teckglobal-brute-force-protect,vendor/composer/ca-bundle/src/CaBundle.php,fd886715b2e6a15cf17e267ddd1d69fc106a288a,CVE-2013-6420
