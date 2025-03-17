@@ -265,7 +265,6 @@ VU#37,0.03571429,https://github.com/michavardy/ZeroDay,michavardy/ZeroDay,927226
 VU#37,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
 VU#37,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
 VU#37,0.03571429,https://github.com/Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,Information-Disorder-Awareness/A-DISARM-based-semantic-model-for-Disinformation-Attack-Attribution,823228807
-VU#37,0.03571429,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#37,0.03571429,https://github.com/YusinoMy/shellcodebypass,YusinoMy/shellcodebypass,571972391
 VU#37,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#37,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
@@ -274,6 +273,7 @@ VU#37,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Tr
 VU#37,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
 VU#37,0.03448276,https://github.com/rachidoutaleb/Extension-for-CyberSecurity,rachidoutaleb/Extension-for-CyberSecurity,814192763
 VU#37,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
+VU#37,0.03448276,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#37,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#37,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#37,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
@@ -422,6 +422,7 @@ VU#37,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#37,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#37,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#37,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
+VU#37,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#37,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#37,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934
 VU#37,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050

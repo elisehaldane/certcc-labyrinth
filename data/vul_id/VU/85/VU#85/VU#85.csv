@@ -95,6 +95,7 @@ VU#85,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2
 VU#85,0.10000000,https://github.com/Glottocrisio/IKG4CH,Glottocrisio/IKG4CH,602042663
 VU#85,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
 VU#85,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
+VU#85,0.09090909,https://github.com/teckglobal/teckglobal-brute-force-protect,teckglobal/teckglobal-brute-force-protect,949264891
 VU#85,0.09090909,https://github.com/clockticksfast/Roblox-Cleaner,clockticksfast/Roblox-Cleaner,846737853
 VU#85,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
 VU#85,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
@@ -313,6 +314,7 @@ VU#85,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on
 VU#85,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#85,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#85,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#85,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#85,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#85,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934
 VU#85,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
@@ -540,7 +542,7 @@ VU#85,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#85,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-tools,89845570
 VU#85,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#85,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
-VU#85,0.00083893,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+VU#85,0.00082508,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 VU#85,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#85,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#85,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
@@ -590,7 +592,7 @@ VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#85,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
-VU#85,0.00000725,https://github.com/trickest/cve,trickest/cve,454015416
+VU#85,0.00000724,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000394,https://github.com/omok314159/CVE_Stat_2024,omok314159/CVE_Stat_2024,937828154
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

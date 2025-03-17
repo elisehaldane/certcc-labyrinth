@@ -93,9 +93,9 @@ VU#07,0.03703704,https://github.com/openclarity/vmclarity,openclarity/vmclarity,
 VU#07,0.03703704,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#07,0.03571429,https://github.com/michavardy/ZeroDay,michavardy/ZeroDay,927226445
 VU#07,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
-VU#07,0.03571429,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#07,0.03448276,https://github.com/joaopsoliveira03/TL-MR3420-v2-PPPwn,joaopsoliveira03/TL-MR3420-v2-PPPwn,828953714
 VU#07,0.03448276,https://github.com/yeshuv216/RCentric,yeshuv216/RCentric,816949966
+VU#07,0.03448276,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#07,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#07,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
 VU#07,0.03225806,https://github.com/BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,885354155
@@ -125,6 +125,7 @@ VU#07,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,
 VU#07,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#07,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#07,0.01960784,https://github.com/sm3a96/ReEntrancyAttack,sm3a96/ReEntrancyAttack,895750249
+VU#07,0.01923077,https://github.com/amin2434/roblox,amin2434/roblox,950119514
 VU#07,0.01923077,https://github.com/ArcNassss/roblox,ArcNassss/roblox,948665924
 VU#07,0.01923077,https://github.com/AravGarg/CTFarchives,AravGarg/CTFarchives,264247069
 VU#07,0.01886792,https://github.com/arnavkohli/statistical-arbitrage-pairs-trading,arnavkohli/statistical-arbitrage-pairs-trading,873933808
@@ -199,6 +200,7 @@ VU#07,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,5261
 VU#07,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#07,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#07,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
+VU#07,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#07,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#07,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934
 VU#07,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050

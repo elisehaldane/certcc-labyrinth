@@ -218,9 +218,9 @@ VU#96,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,5641
 VU#96,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#96,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#96,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
-VU#96,0.03571429,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#96,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#96,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
+VU#96,0.03448276,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#96,0.03448276,https://github.com/NotDarkn/Archives,NotDarkn/Archives,568896489
 VU#96,0.03448276,https://github.com/DANO-AMP/DDOS-project,DANO-AMP/DDOS-project,441165255
 VU#96,0.03448276,https://github.com/soumenbondhu/ML-project-using-Titenic-Data,soumenbondhu/ML-project-using-Titenic-Data,419179532
@@ -335,6 +335,7 @@ VU#96,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-
 VU#96,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#96,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#96,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
+VU#96,0.01923077,https://github.com/amin2434/roblox,amin2434/roblox,950119514
 VU#96,0.01923077,https://github.com/ArcNassss/roblox,ArcNassss/roblox,948665924
 VU#96,0.01923077,https://github.com/Abdul-Rahman-Ammourah/ExploitX,Abdul-Rahman-Ammourah/ExploitX,821831059
 VU#96,0.01923077,https://github.com/paRaade/Vulnerability-Assessment-and-Exploitation-Lab,paRaade/Vulnerability-Assessment-and-Exploitation-Lab,749258290
@@ -421,6 +422,7 @@ VU#96,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,5261
 VU#96,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
 VU#96,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2ActiveScan,440709244
 VU#96,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#96,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#96,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#96,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934
 VU#96,0.01111111,https://github.com/312856050/sc-exploits-minimized,312856050/sc-exploits-minimized,865880050
@@ -664,7 +666,7 @@ VU#96,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#96,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#96,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#96,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#96,0.00003609,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#96,0.00003608,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#96,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#96,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#96,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
