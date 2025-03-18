@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+946292284,doyensec/malicious-devfile-registry,ssh-keys/pockey.pub,23793a3cdb871911fab5cc05e94901ff2705cb05,CVE-2024-0402
+946292284,doyensec/malicious-devfile-registry,README.md,23b96979dc76275c85647124894c5bfd805f02dc,CVE-2024-0402
+946292284,doyensec/malicious-devfile-registry,_GITHUB_REPO_METADATA_,,CVE-2024-0402
