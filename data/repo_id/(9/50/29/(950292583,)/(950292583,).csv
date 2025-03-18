@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/sshUsernameEnumExploit.py,28bd157af7907ac5d01f61c02320bd69b6a9bb26,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/requirements.txt,5a09aa9f780c60571bf96ba9a3611dc7fc813f24,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/exampleOutput.csv,643ef5b10704dc225ef9c064e935fdf4d13fb4de,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/exampleOutput.txt,749122c26238c42ec78be557de850238b936254c,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/Dockerfile,796cf9f12d1c1ffc41f48a90aba0d163e684c0ed,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/exampleInput.txt,a1c2b85c0b0d9bda1c0dd74786293a07adc05b70,CVE-2018-15473
+950292583,Vieirauc/shifthappens_ctf_2025_hard_challenges,CVEs/OpenSSH/CVE-2018-15473/exploit/README.md,ce0eb7c29413119f87d42b2f15b2dec48e3bc6b1,CVE-2018-15473
