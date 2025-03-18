@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+868929167,ASSERT-KTH/SolidityStrikeHive,archive/nftmint_exposed_metadata/raw/NFTMint_exposedMetadata.sol,91e85a5edd9463efedb883ff2860cb14afc98c0a,CVE-2022-38217
+868929167,ASSERT-KTH/SolidityStrikeHive,archive/nftmint_exposed_metadata/extracted_vuln_contracts/NFTMint_exposedMetadata.sol,e1be456d0e89a91e200d41676ae700c1aa2d6457,CVE-2022-38217
