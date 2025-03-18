@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-2887/cve-2024-2887.js,287391be076b230e425e7d7b4ebcb136f494a1e4,CVE-2024-2887
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-2887/readme.md,7598eb4d49eca112048e064f6caf6c47a58d1ca1,CVE-2024-2887
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-6100/readme.md,823bb2045e1f44db8948b4a99801782d47d24fc3,CVE-2024-6100
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-8194/readme.md,dba2b08b36138642cc3793f81d70c95a36cb42ef,CVE-2024-6100
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-8194/readme.md,dba2b08b36138642cc3793f81d70c95a36cb42ef,CVE-2024-8194
+950359238,XiaozaYa/V8-exploit-wp,cve-2024-6100/cve-2024-6100.js,e768707ca4c9a9d43089659b544eadffa98faea2,CVE-2024-6100
