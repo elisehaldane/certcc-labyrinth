@@ -241,9 +241,9 @@ VU#20,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#20,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815738
 VU#20,0.01388889,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
 VU#20,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
-VU#20,0.01351351,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#20,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#20,0.01333333,https://github.com/YuweiZJ/rces_final_project,YuweiZJ/rces_final_project,575101596
+VU#20,0.01333333,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#20,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#20,0.01333333,https://github.com/Jaeik-Jeong/STCNN,Jaeik-Jeong/STCNN,322538794
 VU#20,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
@@ -316,9 +316,9 @@ VU#20,0.00961538,https://github.com/farseem/ML-alzheimer-screening,farseem/ML-al
 VU#20,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#20,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#20,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
-VU#20,0.00925926,https://github.com/ProbiusOfficial/ssrf-labs,ProbiusOfficial/ssrf-labs,934322139
 VU#20,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#20,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
+VU#20,0.00917431,https://github.com/ProbiusOfficial/ssrf-labs,ProbiusOfficial/ssrf-labs,934322139
 VU#20,0.00917431,https://github.com/Dragnir2912/Projet-Academique-ISE-2024-2025,Dragnir2912/Projet-Academique-ISE-2024-2025,913248989
 VU#20,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#20,0.00917431,https://github.com/hktalent/myhktools,hktalent/myhktools,93808838
@@ -512,7 +512,7 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00028555,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00028506,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

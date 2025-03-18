@@ -361,10 +361,10 @@ VU#25,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodg
 VU#25,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#25,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#25,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
-VU#25,0.01351351,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#25,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
 VU#25,0.01351351,https://github.com/incredibleindishell/Windows-AD-environment-related,incredibleindishell/Windows-AD-environment-related,150930585
 VU#25,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
+VU#25,0.01333333,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
 VU#25,0.01315789,https://github.com/rsuppersahabatan/hacker,rsuppersahabatan/hacker,352482350
 VU#25,0.01315789,https://github.com/prakharbhatt16/CTF-Exploits,prakharbhatt16/CTF-Exploits,301755201
 VU#25,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,430392756
@@ -430,10 +430,10 @@ VU#25,0.00961538,https://github.com/farseem/ML-alzheimer-screening,farseem/ML-al
 VU#25,0.00961538,https://github.com/sepidehghf/Iterative-Prisoner-s-Dilemma,sepidehghf/Iterative-Prisoner-s-Dilemma,901297663
 VU#25,0.00952381,https://github.com/CenturyGhost/MIT-Unsupervised,CenturyGhost/MIT-Unsupervised,793836711
 VU#25,0.00934579,https://github.com/Danfoa/MorphoSymm,Danfoa/MorphoSymm,447322134
-VU#25,0.00925926,https://github.com/ProbiusOfficial/ssrf-labs,ProbiusOfficial/ssrf-labs,934322139
 VU#25,0.00925926,https://github.com/klezVirus/vortex,klezVirus/vortex,442417520
 VU#25,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
 VU#25,0.00925926,https://github.com/0bfxgh0st/lxd-privesc-exploit,0bfxgh0st/lxd-privesc-exploit,406847093
+VU#25,0.00917431,https://github.com/ProbiusOfficial/ssrf-labs,ProbiusOfficial/ssrf-labs,934322139
 VU#25,0.00917431,https://github.com/Dragnir2912/Projet-Academique-ISE-2024-2025,Dragnir2912/Projet-Academique-ISE-2024-2025,913248989
 VU#25,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPrencipe/Time-Series-Forecasting,762394143
 VU#25,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
@@ -641,6 +641,7 @@ VU#25,0.00116550,https://github.com/arazzaq178/predicting_software_vulnerability
 VU#25,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#25,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#25,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
+VU#25,0.00062972,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#25,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#25,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#25,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -648,7 +649,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00028555,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00028506,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
