@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+950406798,srinivasraom/cve-2025024813,README.md,5a10488148eef997437002875324a1aebcb5f927,CVE-2025-24813
+950406798,srinivasraom/cve-2025024813,src/main/java/com/example/demo/DefaultServletConfig.java,61bef811918905a99740a1c8633de25a3f18aba9,CVE-2025-24813
+950406798,srinivasraom/cve-2025024813,src/main/java/com/example/demo/StaticResourceController.java,6f29a73585c7e9cf762b0715b290afb3d8c87e0f,CVE-2025-24813
+950406798,srinivasraom/cve-2025024813,src/main/java/com/example/demo/WebConfig.java,70942767d0aeaaeb30e64805debe1d4c0a6e7544,CVE-2025-24813
