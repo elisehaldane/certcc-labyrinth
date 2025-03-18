@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+950769522,WlX-33/PoC-for-CVE,CVE-2021-38283/Wipro Holmes Orchestrator 20.4.1 Unauthenticated Log File Disclosure.py,03919223059341c33b9eaa5ee934cc2b2645a1a2,CVE-2021-38283
+950769522,WlX-33/PoC-for-CVE,CVE-2022-36266/FLIR AX8 Unauthenticated OS Command Injection.py,0d9a2184fb55f6135ff85e0c32a0a37dc789ce90,CVE-2022-36266
+950769522,WlX-33/PoC-for-CVE,CVE-2018-6867/Alibaba Clone Script 1.0.2 Cross Site Scripting.txt,2303cb6717e1d9919cd1c1f2ee6098d46becac64,CVE-2018-6867
+950769522,WlX-33/PoC-for-CVE,CVE-2019-13029/REDCap Cross Site Scripting.txt,363140bacb439d521c0c26a2ec277cc84e73910c,CVE-2019-13029
+950769522,WlX-33/PoC-for-CVE,CVE-2023-33140/Microsoft OneNote (Version 2305 Build 16.0.16501.20074) 64-bit - Spoofing Vulnerability.txt,534d329e2482b33d2a37d458f3ee4f006cde55bb,CVE-2023-33140
+950769522,WlX-33/PoC-for-CVE,CVE-2022-23409/Ethercreative Logs 3.0.3 Path Traversal.txt,56a3df96ee743b71e9ae319a5eed89409bc84f1f,CVE-2022-23409
+950769522,WlX-33/PoC-for-CVE,CVE-2021-45422/RLM 14.2 Cross Site Scripting.txt,6edf4f5a0d60f6a857f0a125a2d6ff6e6831cc23,CVE-2021-45422
+950769522,WlX-33/PoC-for-CVE,CVE-2022-3622/WordPress Blog2Social 6.9.11 Missing Authorization.txt,83806e121c9cb0c7af152d2299bdd339e7418d1d,CVE-2022-3622
+950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2019-1000018
+950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2019-3463
+950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2019-3464
+950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2021-33216
