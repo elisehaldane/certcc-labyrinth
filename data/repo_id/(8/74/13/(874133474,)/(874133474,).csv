@@ -1,7 +1,7 @@
 repo_id,repo_full_name,file,file_sha1,match
-874133474,SecureSolutionsLab/vex_hk,src/scrape_mod/osv_scraper.rs,31c949dad2ee06d9edc1fe0031d70e6669a2ac78,CVE-2024-26256
 874133474,SecureSolutionsLab/vex_hk,src/db_api/insert.rs,337b5764982c38424f59297f6a7b6f1aeb7ae27f,CVE-2024-1234
-874133474,SecureSolutionsLab/vex_hk,src/scrape_mod/nvd_scraper.rs,5bb24aaa7ce5f5f70891d181be67b0e8c95db3e5,CVE-2024-1234
+874133474,SecureSolutionsLab/vex_hk,src/scrape_mod/nvd_scraper.rs,6191708c69f4b2505b579b1edc96f6d9c418b131,CVE-2024-1234
+874133474,SecureSolutionsLab/vex_hk,src/scrape_mod/osv_scraper.rs,871254d905734c52ff1e82e9b361835f51edb7ca,CVE-2024-26256
 874133474,SecureSolutionsLab/vex_hk,src/db_api/query_db.rs,b1455f36433ee32666e385f7cf98f1b66090492e,CVE-2024-1234
 874133474,SecureSolutionsLab/vex_hk,src/db_api/query_db.rs,b1455f36433ee32666e385f7cf98f1b66090492e,CVE-2020-8698
 874133474,SecureSolutionsLab/vex_hk,src/db_api/query_db.rs,b1455f36433ee32666e385f7cf98f1b66090492e,CVE-2024-26256
