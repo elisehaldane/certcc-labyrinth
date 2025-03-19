@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-926466772,martanne/bitpixie,README.md,c4852a519092314b9b4dd7a6c63554e2d2ec9062,CVE-2023-21563
-926466772,martanne/bitpixie,README.md,c4852a519092314b9b4dd7a6c63554e2d2ec9062,CVE-2023-24932
-926466772,martanne/bitpixie,README.md,c4852a519092314b9b4dd7a6c63554e2d2ec9062,CVE-2024-1086
+926466772,martanne/bitpixie,README.md,da03630b709f366e87eb91f91fa1ecd2f8ceeedc,CVE-2023-21563
+926466772,martanne/bitpixie,README.md,da03630b709f366e87eb91f91fa1ecd2f8ceeedc,CVE-2023-24932
+926466772,martanne/bitpixie,README.md,da03630b709f366e87eb91f91fa1ecd2f8ceeedc,CVE-2024-1086
 926466772,martanne/bitpixie,linux/initramfs/bitpixie-build.sh,daa38dc9df41b62290dbde4bb68c6a08c53297c1,CVE-2024-1086
