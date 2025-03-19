@@ -1,5 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,BID-6
+950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#88
+950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#79
+950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#78
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#74
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#68
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#65
@@ -10,23 +13,22 @@ repo_id,repo_full_name,file,file_sha1,match
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#422
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#41
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#9558
-950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#207
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#18
+950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#207
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#11
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#0643
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#04
 950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#00
-950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#88
-950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#79
-950041299,GhidraDragon/exploit-googlebot,lawsuit (1).pdf,00b1e8023d790ef54ec083545c6ed2e0890c3edc,VU#78
 950041299,GhidraDragon/exploit-googlebot,smb2_pipe_exec_client,03951238a393b59f0f1bbd6a5e4ca545e9ee57e7,MS17-010
-950041299,GhidraDragon/exploit-googlebot,xss_js_model.keras,385af813984b9798f75edc9a31527286cf067aa6,VU#77
 950041299,GhidraDragon/exploit-googlebot,xss_js_model.keras,385af813984b9798f75edc9a31527286cf067aa6,VU#11
-950041299,GhidraDragon/exploit-googlebot,rlscan.py,76ca5699ca571ed5a36088ddeb67c766072e1401,CVE-2019-20372
-950041299,GhidraDragon/exploit-googlebot,rlscan.py,76ca5699ca571ed5a36088ddeb67c766072e1401,CVE-2017-7529
-950041299,GhidraDragon/exploit-googlebot,rlscan.py,76ca5699ca571ed5a36088ddeb67c766072e1401,CVE-2010-1452
-950041299,GhidraDragon/exploit-googlebot,rlscan.py,76ca5699ca571ed5a36088ddeb67c766072e1401,CVE-2010-0408
+950041299,GhidraDragon/exploit-googlebot,xss_js_model.keras,385af813984b9798f75edc9a31527286cf067aa6,VU#77
 950041299,GhidraDragon/exploit-googlebot,sql_injection_model.keras,7c748e980aa35eca6983343c0239c087b62198e4,VU#40
 950041299,GhidraDragon/exploit-googlebot,sql_injection_model.keras,7c748e980aa35eca6983343c0239c087b62198e4,VU#17
+950041299,GhidraDragon/exploit-googlebot,smb_exploit,a6975f4e06736c217e1f576a7d223b3e79d73101,MS17-010
 950041299,GhidraDragon/exploit-googlebot,chromedriver,a7275f3162901b23641e0848fe9e2038f354e312,VU#96
+950041299,GhidraDragon/exploit-googlebot,smb_exploit.c,d81621782d26e5bc4a8aa4c4a9b0147be678cb2b,MS17-010
+950041299,GhidraDragon/exploit-googlebot,rlscan.py,d9f06d2f02fb4c7be2309e145d8921bf1db4358b,CVE-2017-7529
+950041299,GhidraDragon/exploit-googlebot,rlscan.py,d9f06d2f02fb4c7be2309e145d8921bf1db4358b,CVE-2010-1452
+950041299,GhidraDragon/exploit-googlebot,rlscan.py,d9f06d2f02fb4c7be2309e145d8921bf1db4358b,CVE-2010-0408
+950041299,GhidraDragon/exploit-googlebot,rlscan.py,d9f06d2f02fb4c7be2309e145d8921bf1db4358b,CVE-2019-20372
 950041299,GhidraDragon/exploit-googlebot,smb2_pipe_exec_client.c,ecedf78f79ddf3a7cf1981b17a75175a5ace636d,MS17-010
