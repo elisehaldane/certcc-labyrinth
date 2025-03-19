@@ -5,10 +5,10 @@ repo_id,repo_full_name,file,file_sha1,match
 568456034,hideckies/exploit-notes,src/exploit/machine-learning/jupyter-notebook-pentesting.md,0a0abd2ee679f9d2b7ae89ae0a68fe8473122662,CVE-2021-32797
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-pentesting.md,0b54bdb6097fdc902c0b7a10107b557912294dc6,CVE-2010-1622
 568456034,hideckies/exploit-notes,src/exploit/web/framework/java/spring-pentesting.md,0b54bdb6097fdc902c0b7a10107b557912294dc6,CVE-2022-22965
+568456034,hideckies/exploit-notes,src/exploit/windows/protocol/winrm-pentesting.md,11cdaea0b243b92870c4972ade386cb1d75bccbe,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/container/kubernetes/microk8s-pentesting.md,1a4ae5809d359674033f31490d9802c85b05dc58,CVE-2019-15789
 568456034,hideckies/exploit-notes,src/exploit/version-control/git/gogs-pentesting.md,1ed0d5f3cfa90e90766d011ae4ce8c1ba4227d6c,CVE-2014-8682
 568456034,hideckies/exploit-notes,src/exploit/windows/privilege-escalation/outlook-reminder-privilege-escalation.md,21925f5f57d20979d3e7de6deae781b8c4897e59,CVE-2023-23397
-568456034,hideckies/exploit-notes,src/exploit/windows/protocol/winrm-pentesting.md,2cd313dc6c95dace8ffbf863d048c044d34c71fd,CVE-2021-38647
 568456034,hideckies/exploit-notes,src/exploit/web/security-risk/http-request-smuggling.md,2cde1df9afdcf6aa11d602cb014df9123c03b337,CVE-2023-25690
 568456034,hideckies/exploit-notes,src/exploit/web/ghostscript-pentesting.md,4e7267824a7dd3a6262e92f589e0beaf47222f86,CVE-2018-16509
 568456034,hideckies/exploit-notes,src/exploit/web/grafana-pentesting.md,5167f27bee6e6b1b57cde48e2b83e562befbb2fb,CVE-2021-43798
