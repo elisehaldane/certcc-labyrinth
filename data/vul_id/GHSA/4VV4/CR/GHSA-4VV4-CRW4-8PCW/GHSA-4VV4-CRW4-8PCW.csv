@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-4VV4-CRW4-8PCW,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
-GHSA-4VV4-CRW4-8PCW,0.00003597,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-4VV4-CRW4-8PCW,0.00003595,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
