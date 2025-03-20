@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+951587328,whattheslime/file-away-exploit,get_config.py,2d232ba46ad5c0259866d4aab07f80ef03da2feb,CVE-2025-2539
+951587328,whattheslime/file-away-exploit,README.md,30206e8b52051af763696d13392fde790b5149d6,CVE-2025-2512
+951587328,whattheslime/file-away-exploit,README.md,30206e8b52051af763696d13392fde790b5149d6,CVE-2025-2539
+951587328,whattheslime/file-away-exploit,file_upload.py,5995d39379c0e67b9e2d64f32f01890195d19212,CVE-2025-2512
+951587328,whattheslime/file-away-exploit,file-away.3.9.9.0.1.zip,9f6f297641b166acde55548973c188ae80306b04,VU#58
