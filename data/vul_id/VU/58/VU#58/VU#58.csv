@@ -32,6 +32,7 @@ VU#58,0.50000000,https://github.com/nisforrnicholas/WordPress-Theme-Editor-Explo
 VU#58,0.50000000,https://github.com/hansmach1ne/lfimap,hansmach1ne/lfimap,342459650
 VU#58,0.50000000,https://github.com/aegoe/MAB,aegoe/MAB,279114707
 VU#58,0.50000000,https://github.com/blu0/webdav-exploit,blu0/webdav-exploit,122092670
+VU#58,0.33333333,https://github.com/whattheslime/file-away-exploit,whattheslime/file-away-exploit,951587328
 VU#58,0.33333333,https://github.com/MrR0b0t19/Easy-JTP,MrR0b0t19/Easy-JTP,921253827
 VU#58,0.33333333,https://github.com/ranamedhateng/metasploitable2,ranamedhateng/metasploitable2,892800356
 VU#58,0.33333333,https://github.com/Recon6/ReconSploit,Recon6/ReconSploit,834347543
@@ -146,13 +147,13 @@ VU#58,0.03703704,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Ke
 VU#58,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
 VU#58,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#58,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
-VU#58,0.03448276,https://github.com/GhidraDragon/exploit-googlebot,GhidraDragon/exploit-googlebot,950041299
 VU#58,0.03448276,https://github.com/Aurora2911/MachineLearningProject,Aurora2911/MachineLearningProject,864847663
 VU#58,0.03448276,https://github.com/florianfre/velib_Fresneau_Project,florianfre/velib_Fresneau_Project,759446196
 VU#58,0.03448276,https://github.com/HiImKing1509/CS116_Python_for_Machine_Learning,HiImKing1509/CS116_Python_for_Machine_Learning,553042299
 VU#58,0.03448276,https://github.com/MerlynXS/Payload-Archive,MerlynXS/Payload-Archive,475646618
 VU#58,0.03448276,https://github.com/Miftahul7838/Projects_and_Scripts,Miftahul7838/Projects_and_Scripts,444884919
 VU#58,0.03448276,https://github.com/zhangzp9970/MIA,zhangzp9970/MIA,386459129
+VU#58,0.03333333,https://github.com/GhidraDragon/exploit-googlebot,GhidraDragon/exploit-googlebot,950041299
 VU#58,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#58,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#58,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
@@ -500,7 +501,7 @@ VU#58,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#58,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#58,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#58,0.00028450,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#58,0.00028441,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#58,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 VU#58,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -544,8 +545,9 @@ VU#58,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain
 VU#58,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#58,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#58,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+VU#58,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#58,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
-VU#58,0.00001387,https://github.com/GhidraDragon/E-LLM,GhidraDragon/E-LLM,936283169
+VU#58,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 VU#58,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#58,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#58,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
