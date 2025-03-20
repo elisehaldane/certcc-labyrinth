@@ -6,6 +6,8 @@ repo_id,repo_full_name,file,file_sha1,match
 950769522,WlX-33/PoC-for-CVE,CVE-2023-33140/Microsoft OneNote (Version 2305 Build 16.0.16501.20074) 64-bit - Spoofing Vulnerability.txt,534d329e2482b33d2a37d458f3ee4f006cde55bb,CVE-2023-33140
 950769522,WlX-33/PoC-for-CVE,CVE-2022-23409/Ethercreative Logs 3.0.3 Path Traversal.txt,56a3df96ee743b71e9ae319a5eed89409bc84f1f,CVE-2022-23409
 950769522,WlX-33/PoC-for-CVE,CVE-2021-45422/RLM 14.2 Cross Site Scripting.txt,6edf4f5a0d60f6a857f0a125a2d6ff6e6831cc23,CVE-2021-45422
+950769522,WlX-33/PoC-for-CVE,CVE-2010-2959/Linux Kernel 2.6.36-rc1 CAN BCM Privilege Escalation Exploit.c,77bfe6735d834838451a9792b1bcdaf8c6bfbc1d,BID-42585
+950769522,WlX-33/PoC-for-CVE,CVE-2010-2959/Linux Kernel 2.6.36-rc1 CAN BCM Privilege Escalation Exploit.c,77bfe6735d834838451a9792b1bcdaf8c6bfbc1d,CVE-2010-2959
 950769522,WlX-33/PoC-for-CVE,CVE-2022-3622/WordPress Blog2Social 6.9.11 Missing Authorization.txt,83806e121c9cb0c7af152d2299bdd339e7418d1d,CVE-2022-3622
 950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2019-1000018
 950769522,WlX-33/PoC-for-CVE,"CVE-2021-33216,CVE-2019-1000018/CommScope Ruckus IoT Controller 1.7.1.0 Undocumented Account.txt",95838ab0a34c1e5605b893e3c7a6334ad75dc3af,CVE-2019-3463
