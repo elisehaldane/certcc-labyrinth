@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+951721171,absholi7ly/Poc-CVE-2024-32962-xml-crypto,poc.mp4,26cad95ed2d2a87e5ba8a4c95d8dc8e12e91a789,VU#56
+951721171,absholi7ly/Poc-CVE-2024-32962-xml-crypto,poc.mp4,26cad95ed2d2a87e5ba8a4c95d8dc8e12e91a789,VU#76
+951721171,absholi7ly/Poc-CVE-2024-32962-xml-crypto,README.md,ee91efdb0a8ef2923cae59e64d54e863c42c7f65,CVE-2024-32962
+951721171,absholi7ly/Poc-CVE-2024-32962-xml-crypto,_GITHUB_REPO_METADATA_,,CVE-2024-32962

@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+916210281,hunterrsec/Nuclei_Template_Exploitation,Apache-Tomcat-Path-Equivalence-Vulnerability-CVE-2025-24813.yaml,5a430eba34ad367581594a08af416d056d398f60,CVE-2025-24813
+916210281,hunterrsec/Nuclei_Template_Exploitation,jeewmsfileread-220331-222758.yaml,6b24408b7308c5123e1e5df7256c81d19ba99bf1,CVE-2021-30461
+916210281,hunterrsec/Nuclei_Template_Exploitation,omigod-220331-223015.yaml,9f85acdc810f8983977db1549bd0f7e03650dbb2,CVE-2021-38647
