@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+952654530,inferiorscra/merlin,Payload_Type/merlin/CHANGELOG.MD,72ccd226c2ff604036c793509a22d1036a58dba8,CVE-2024-2687
+952654530,inferiorscra/merlin,Payload_Type/merlin/agent/go.sum,f0549671378011310783bfafbac5f98adf6e6033,VU#144
