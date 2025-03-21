@@ -1,6 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
 950640868,danielpacak/vulnerable-kubernetes-deployments,README.md,137db00432c85d98bae111b732b66dae052857ad,CVE-2023-5002
+950640868,danielpacak/vulnerable-kubernetes-deployments,java/jenkins/CVE-2024-23897/all.yaml,366580fe7b59f0ce73d05de19a065eb16c8fe8a5,CVE-2024-23897
 950640868,danielpacak/vulnerable-kubernetes-deployments,ruby/CVE-2018-3760/all.yaml,5c2a72e83e943d1e0803b0dde68840e7839e8356,CVE-2018-3760
 950640868,danielpacak/vulnerable-kubernetes-deployments,ruby/CVE-2018-3760/README.md,69aab01f86c64637a9e85c896d1c33a748ea1768,CVE-2018-3760
 950640868,danielpacak/vulnerable-kubernetes-deployments,python/pgadmin/CVE-2023-5002/README.md,cb130dd27c1cff23eac8ae5c324184ac79507072,CVE-2023-5002
+950640868,danielpacak/vulnerable-kubernetes-deployments,java/jenkins/CVE-2024-23897/README.md,cfbff193902a833d617323f1f80ebc0c9e58d89b,CVE-2024-23897
 950640868,danielpacak/vulnerable-kubernetes-deployments,python/pgadmin/CVE-2023-5002/all.yaml,d59cbc930c6d54736d885b0fca69e92f9c35aded,CVE-2023-5002
