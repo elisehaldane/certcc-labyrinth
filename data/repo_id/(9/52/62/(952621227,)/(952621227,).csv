@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+952621227,equalbandoli/go-epss,epss_test.go,d473974bad380540432d1e4b0d1db120ae1f18fb,CVE-9999-9999
+952621227,equalbandoli/go-epss,README.md,fda9f6d74659bb295d6c928a0ac978da7d8c180a,CVE-1999-0002
