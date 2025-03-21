@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+952207592,n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813,src/main/resources/application.properties,8f10c8df0b08c8738b52daad4b4cd298bdba6b56,CVE-2025-24813
+952207592,n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813,pom.xml,b6c0819c1f6429bfdfbe4a1e52f7ec683625eb1d,CVE-2025-24813
+952207592,n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813,README.md,c646f0407d3ccef29af26fdc80234cc47b8ea403,CVE-2025-24813
+952207592,n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813,_GITHUB_REPO_METADATA_,,CVE-2025-24813
