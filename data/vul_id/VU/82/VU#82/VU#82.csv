@@ -46,6 +46,7 @@ VU#82,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,3074
 VU#82,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
 VU#82,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
 VU#82,0.11111111,https://github.com/kozmic/laravel-poc-CVE-2018-15133,kozmic/laravel-poc-CVE-2018-15133,144760095
+VU#82,0.10000000,https://github.com/SatriaAdhiPradana/Hacking--The-Art-of-Exploitation-2nd-ed.-2008---Erickson,SatriaAdhiPradana/Hacking--The-Art-of-Exploitation-2nd-ed.-2008---Erickson,952544927
 VU#82,0.10000000,https://github.com/kokatesaurabh/Hacking--The-Art-of-Exploitation-2nd-edition,kokatesaurabh/Hacking--The-Art-of-Exploitation-2nd-edition,910538296
 VU#82,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#82,0.10000000,https://github.com/CCIEVoice2009/exploit-development,CCIEVoice2009/exploit-development,663064798
@@ -356,7 +357,6 @@ VU#82,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyuti
 VU#82,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#82,0.01219512,https://github.com/nobrier/fits_extractor,nobrier/fits_extractor,874880543
 VU#82,0.01219512,https://github.com/SSSSuperX/CVE-2024-28000,SSSSuperX/CVE-2024-28000,854418896
-VU#82,0.01219512,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#82,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#82,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#82,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
@@ -399,6 +399,7 @@ VU#82,0.01030928,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#82,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#82,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#82,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
+VU#82,0.01000000,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#82,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#82,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#82,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
@@ -611,8 +612,8 @@ VU#82,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#82,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#82,0.00028393,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#82,0.00028337,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678

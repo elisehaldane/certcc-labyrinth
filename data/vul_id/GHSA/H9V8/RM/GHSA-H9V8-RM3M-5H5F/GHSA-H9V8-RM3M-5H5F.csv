@@ -1,0 +1,2 @@
+match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-H9V8-RM3M-5H5F,0.01724138,https://github.com/formalsec/explode-js,formalsec/explode-js,799320585

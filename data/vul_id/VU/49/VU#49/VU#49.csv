@@ -215,7 +215,6 @@ VU#49,0.05555556,https://github.com/AxelJL/EscapeNoGame,AxelJL/EscapeNoGame,8867
 VU#49,0.05555556,https://github.com/CopernicusPY/vial,CopernicusPY/vial,542678441
 VU#49,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#49,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
-VU#49,0.05263158,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#49,0.05263158,https://github.com/arazzaq178/Predicting-Software-Vulnerability-Exploits,arazzaq178/Predicting-Software-Vulnerability-Exploits,944635091
 VU#49,0.05263158,https://github.com/Ankur452/CTF-challenges,Ankur452/CTF-challenges,867345699
 VU#49,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
@@ -226,6 +225,7 @@ VU#49,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Jose
 VU#49,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
 VU#49,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#49,0.04761905,https://github.com/NoodleRain/PenTesting-Python-Game,NoodleRain/PenTesting-Python-Game,952030820
+VU#49,0.04761905,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#49,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,882188373
 VU#49,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#49,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
@@ -457,7 +457,6 @@ VU#49,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyuti
 VU#49,0.01234568,https://github.com/gnlucas/Thesis,gnlucas/Thesis,774053046
 VU#49,0.01219512,https://github.com/nobrier/fits_extractor,nobrier/fits_extractor,874880543
 VU#49,0.01219512,https://github.com/SSSSuperX/CVE-2024-28000,SSSSuperX/CVE-2024-28000,854418896
-VU#49,0.01219512,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#49,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#49,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#49,0.01162791,https://github.com/Nemesis1303/CASE,Nemesis1303/CASE,851021010
@@ -504,6 +503,7 @@ VU#49,0.01030928,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#49,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,474937500
 VU#49,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#49,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
+VU#49,0.01000000,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#49,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#49,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#49,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
@@ -706,8 +706,8 @@ VU#49,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#49,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#49,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#49,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#49,0.00028393,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#49,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
+VU#49,0.00028337,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#49,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#49,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#49,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
