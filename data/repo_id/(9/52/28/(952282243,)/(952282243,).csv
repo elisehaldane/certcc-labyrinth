@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+952282243,Zephiles/fifa-wc2006-exploit,source/fifa-wc2006-hack/exploit/fifa.c,add017ebcf26aac724240ee068be3c86fb06634a,VU#16
+952282243,Zephiles/fifa-wc2006-exploit,source/fifa-wc2006-hack/exploit/fifa.c,add017ebcf26aac724240ee068be3c86fb06634a,VU#32
