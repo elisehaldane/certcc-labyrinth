@@ -48,6 +48,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/Alaatk/CVE-2025-24813-POC,Alaatk/CVE-2025-24813-POC,952695854
 VU#29,0.50000000,https://github.com/Prvvv/0net,Prvvv/0net,946203398
 VU#29,0.50000000,https://github.com/Drew-Alleman/CVE-2019-7214,Drew-Alleman/CVE-2019-7214,944236436
 VU#29,0.50000000,https://github.com/oalieno/CVE-2022-41924,oalieno/CVE-2022-41924,912115404
@@ -523,6 +524,7 @@ VU#29,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#29,0.01666667,https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921,724965419
 VU#29,0.01666667,https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338,718530988
 VU#29,0.01666667,https://github.com/yqcs/ZheTian,yqcs/ZheTian,399404282
+VU#29,0.01639344,https://github.com/zhatz111/Stupid-Metrics,zhatz111/Stupid-Metrics,946374783
 VU#29,0.01639344,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#29,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
 VU#29,0.01639344,https://github.com/Sopralapanca/CHL-clinical-data-encoder,Sopralapanca/CHL-clinical-data-encoder,611684669
@@ -626,7 +628,6 @@ VU#29,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#29,0.01010101,https://github.com/yqcs/prismx,yqcs/prismx,735493683
 VU#29,0.01010101,https://github.com/abrahim7112/hackers_CVE_2023_poc,abrahim7112/hackers_CVE_2023_poc,669910391
 VU#29,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
-VU#29,0.01000000,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#29,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#29,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#29,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
@@ -663,6 +664,7 @@ VU#29,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#29,0.00877193,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante/OCR_Table_Scan,928529478
 VU#29,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#29,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
+VU#29,0.00847458,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#29,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#29,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -855,7 +857,7 @@ VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insi
 VU#29,0.00071788,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
-VU#29,0.00062344,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00062073,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
@@ -866,7 +868,7 @@ VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00028337,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00028329,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -933,6 +935,7 @@ VU#29,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain
 VU#29,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#29,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#29,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+VU#29,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 VU#29,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#29,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#29,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581

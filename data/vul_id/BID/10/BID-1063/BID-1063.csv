@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-1063,0.05263158,https://github.com/rodmartin30/llm-web-vulnerability-exploitation,rodmartin30/llm-web-vulnerability-exploitation,887068749
 BID-1063,0.00115607,https://github.com/zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,zhexxian/From-Machine-Learning-To-Zero-Day-Exploits,66324056
 BID-1063,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-1063,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
@@ -43,6 +44,7 @@ BID-1063,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanb
 BID-1063,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 BID-1063,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 BID-1063,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+BID-1063,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 BID-1063,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 BID-1063,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 BID-1063,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581

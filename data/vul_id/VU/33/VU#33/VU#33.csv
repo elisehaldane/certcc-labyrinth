@@ -388,7 +388,6 @@ VU#33,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#33,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#33,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitation,TanawatPawanta/HW1-Exploration-and-exploitation,746484654
 VU#33,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
-VU#33,0.01000000,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#33,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#33,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#33,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
@@ -422,6 +421,7 @@ VU#33,0.00877193,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante
 VU#33,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#33,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#33,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
+VU#33,0.00847458,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#33,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#33,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#33,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -594,7 +594,7 @@ VU#33,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#33,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#33,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#33,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#33,0.00062344,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#33,0.00062073,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#33,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#33,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#33,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -641,6 +641,7 @@ VU#33,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain
 VU#33,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 VU#33,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 VU#33,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+VU#33,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 VU#33,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#33,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#33,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581

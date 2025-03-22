@@ -82,6 +82,7 @@ VU#59,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_d
 VU#59,0.05555556,https://github.com/Achraf-Louiza/Pretrained-Image-Recognition,Achraf-Louiza/Pretrained-Image-Recognition,543612135
 VU#59,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#59,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
+VU#59,0.05263158,https://github.com/rodmartin30/llm-web-vulnerability-exploitation,rodmartin30/llm-web-vulnerability-exploitation,887068749
 VU#59,0.05263158,https://github.com/Ankur452/CTF-challenges,Ankur452/CTF-challenges,867345699
 VU#59,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
 VU#59,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
@@ -256,7 +257,6 @@ VU#59,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/co
 VU#59,0.01030928,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metasploit-omnibus-cache,41445398
 VU#59,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#59,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
-VU#59,0.01000000,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#59,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
 VU#59,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#59,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -287,6 +287,7 @@ VU#59,0.00892857,https://github.com/xxycfhb/xxycfhb.github.io,xxycfhb/xxycfhb.gi
 VU#59,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
 VU#59,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#59,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
+VU#59,0.00847458,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#59,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#59,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#59,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -456,7 +457,7 @@ VU#59,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#59,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#59,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#59,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00028337,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#59,0.00028329,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#59,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
