@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#3388,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
+VU#3388,0.00833333,https://github.com/NicolaLepore4/Malware-Detection-based-on-CICAndAdGMal2017-dataset,NicolaLepore4/Malware-Detection-based-on-CICAndAdGMal2017-dataset,911141655
 VU#3388,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 VU#3388,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#3388,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

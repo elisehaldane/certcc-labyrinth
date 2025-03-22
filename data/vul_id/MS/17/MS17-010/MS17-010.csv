@@ -572,9 +572,9 @@ MS17-010,0.00617284,https://github.com/emtee40/exploitdb-bin-sploits,emtee40/exp
 MS17-010,0.00617284,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-bin-sploits,789084757
 MS17-010,0.00617284,https://github.com/richard-chris/exploit-database-exploitdb-bin-sploits,richard-chris/exploit-database-exploitdb-bin-sploits,732078645
 MS17-010,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,offensive-security/exploitdb-bin-sploits,31674382
-MS17-010,0.00606061,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS17-010,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+MS17-010,0.00591716,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00588235,https://github.com/CnHack3r/Penetration_PoC,CnHack3r/Penetration_PoC,446721684
 MS17-010,0.00578035,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 MS17-010,0.00571429,https://github.com/brianlam38/Sec-Cheatsheets,brianlam38/Sec-Cheatsheets,129731037
@@ -686,7 +686,7 @@ MS17-010,0.00037707,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/
 MS17-010,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS17-010,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS17-010,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-MS17-010,0.00028329,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS17-010,0.00028313,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS17-010,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS17-010,0.00028185,https://github.com/NaInSec/CVE-PoC-in-GitHub,NaInSec/CVE-PoC-in-GitHub,776065052
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
@@ -799,7 +799,7 @@ MS17-010,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metas
 MS17-010,0.00018389,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00015202,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS17-010,0.00013986,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00013980,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00012472,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
 MS17-010,0.00012210,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
@@ -807,8 +807,8 @@ MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/Sh
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00007116,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00005806,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00007115,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00005805,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
