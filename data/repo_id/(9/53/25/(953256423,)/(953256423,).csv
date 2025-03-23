@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+953256423,haxowl/exploits,Authenticated-RocketChat-3.12.1-Reverse-Shell/README.md,9e6e89e0371d30d36b918161e4590603fc17fbbe,CVE-2021-22911
+953256423,haxowl/exploits,Authenticated-RocketChat-3.12.1-Reverse-Shell/exploit.py,d105fef7673e0fc0e00118c500c18f709d418c59,CVE-2021-22911
