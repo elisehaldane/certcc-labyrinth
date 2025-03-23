@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+953455436,aydinnyunus/CVE-2025-29927,exploit-test.js,2471ca3a4fb96938aa368c3a9b6d1effde3a6ce1,CVE-2025-29927
+953455436,aydinnyunus/CVE-2025-29927,README.md,2c95c6e4637b1427a3802d01ec438db3c9dcdc91,CVE-2025-29927
+953455436,aydinnyunus/CVE-2025-29927,app/layout.tsx,5dbd05ddbfcf8defd2f774c50c50f633537cfcc3,CVE-2025-29927
+953455436,aydinnyunus/CVE-2025-29927,app/page.tsx,e978b0aae6a3e2a183871db8b5e6c64c3022c0bf,CVE-2025-29927
+953455436,aydinnyunus/CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927

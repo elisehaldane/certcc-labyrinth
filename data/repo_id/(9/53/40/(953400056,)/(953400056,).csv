@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+953400056,lirantal/vulnerable-nextjs-14-CVE-2025-29927,README.md,bdc0112644c0ad24c626a72ce94793307eb13764,CVE-2025-29927
+953400056,lirantal/vulnerable-nextjs-14-CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
