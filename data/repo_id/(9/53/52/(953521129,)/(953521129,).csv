@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+953521129,impartialdig/go-epss,README.md,473b33993cd1c5340a904a225f74f67f7d68d0fb,CVE-1999-0002
+953521129,impartialdig/go-epss,epss_test.go,8902edf19c1d5ac261e6dfbfb7ad221872f1d545,CVE-9999-9999
