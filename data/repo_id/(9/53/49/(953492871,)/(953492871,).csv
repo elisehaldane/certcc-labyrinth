@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+953492871,Neoxs/nextjs-middleware-vuln-poc,src/app/page.tsx,07175e62f6d2beb407c93cacc81f057b5dbafe1c,CVE-2025-29927
+953492871,Neoxs/nextjs-middleware-vuln-poc,src/app/page.tsx,07175e62f6d2beb407c93cacc81f057b5dbafe1c,GHSA-F82V-JWR5-MFFW
+953492871,Neoxs/nextjs-middleware-vuln-poc,README.md,ecf18e79aef5de3a0c530b7c9f88348beb17b5c3,CVE-2025-29927
+953492871,Neoxs/nextjs-middleware-vuln-poc,README.md,ecf18e79aef5de3a0c530b7c9f88348beb17b5c3,GHSA-F82V-JWR5-MFFW
+953492871,Neoxs/nextjs-middleware-vuln-poc,_GITHUB_REPO_METADATA_,,CVE-2025-29927
