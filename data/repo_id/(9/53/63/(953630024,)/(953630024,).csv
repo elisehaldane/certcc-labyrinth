@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+953630024,ui-bootstrap/CVE-2022-36804,cve-2022-36804.py,9a4ec6471d8973eea25e7d08cb50377b1085a657,CVE-2022-36804
+953630024,ui-bootstrap/CVE-2022-36804,_GITHUB_REPO_METADATA_,,CVE-2022-36804
