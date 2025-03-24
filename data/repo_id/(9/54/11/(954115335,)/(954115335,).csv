@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+954115335,chaudharyarjun/text4shell-exploit,README.md,d97926e7a541fa07c85a94930e723f0a1ddd0968,CVE-2022-42889
+954115335,chaudharyarjun/text4shell-exploit,_GITHUB_REPO_METADATA_,,CVE-2022-42889
