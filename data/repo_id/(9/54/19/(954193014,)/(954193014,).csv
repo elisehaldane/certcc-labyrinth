@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+954193014,beyond-devsecops/CVE-2025-24813,readme.md,180e9c837d7146ca4ceba1298fb82f7543fe9b83,CVE-2025-24813
+954193014,beyond-devsecops/CVE-2025-24813,source.sh,99ed9d68b566acbd0fae377b8df39b6ba6425a43,CVE-2025-24813
+954193014,beyond-devsecops/CVE-2025-24813,_GITHUB_REPO_METADATA_,,CVE-2025-24813
