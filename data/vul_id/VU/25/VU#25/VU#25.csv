@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#25,1.00000000,https://github.com/nerdylua/Valo-exploit-trials,nerdylua/Valo-exploit-trials,953516021
 VU#25,1.00000000,https://github.com/SolBundle/Dahood-Exploit-Locator,SolBundle/Dahood-Exploit-Locator,946736134
 VU#25,1.00000000,https://github.com/alexskid/NanoSploit,alexskid/NanoSploit,912495409
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
@@ -380,7 +381,7 @@ VU#25,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyuti
 VU#25,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#25,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#25,0.01219512,https://github.com/nobrier/fits_extractor,nobrier/fits_extractor,874880543
-VU#25,0.01219512,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
+VU#25,0.01204819,https://github.com/ernestang98/exploits,ernestang98/exploits,747775231
 VU#25,0.01190476,https://github.com/hacktoor1/Spider-Security,hacktoor1/Spider-Security,820883002
 VU#25,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#25,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
@@ -522,9 +523,10 @@ VU#25,0.00617284,https://github.com/offensive-security/exploitdb-bin-sploits,off
 VU#25,0.00613497,https://github.com/IoannisNasios/sustainable_Indoor_Location,IoannisNasios/sustainable_Indoor_Location,605083468
 VU#25,0.00606061,https://github.com/maxamin/o-wicked-Exploits-out-there,maxamin/o-wicked-Exploits-out-there,826056433
 VU#25,0.00602410,https://github.com/MasterHM-ml/dip-with-yolov5,MasterHM-ml/dip-with-yolov5,458928332
+VU#25,0.00598802,https://github.com/DevMatheusMarques/rce-system,DevMatheusMarques/rce-system,953955326
 VU#25,0.00598802,https://github.com/i-am-tom/i-am-tom.github.io,i-am-tom/i-am-tom.github.io,56409593
 VU#25,0.00578035,https://github.com/vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,vittoriopipoli/Transformers-for-gene-expression-prediction-from-raw-dna-sequences,484684834
-VU#25,0.00578035,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
+VU#25,0.00574713,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#25,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#25,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#25,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
@@ -651,7 +653,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00028249,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00028241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
