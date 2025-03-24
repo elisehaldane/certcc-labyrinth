@@ -1,0 +1,17 @@
+repo_id,repo_full_name,file,file_sha1,match
+947728332,0xbinder/android-kernel-exploitation-lab,gdb-scripts/binder_debug.py,19112a815806415d3a8b03f1dc202232943826c8,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_exploit.cpp,3788683096a23a86483a348603ae44da8013bf0d,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_exploit.cpp,3788683096a23a86483a348603ae44da8013bf0d,GPZ-1942
+947728332,0xbinder/android-kernel-exploitation-lab,gdb-scripts/kernel_privesc.py,41a88bccdc4f71e142238bc6301dc7536905dda1,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_exploit.h,48696f66ca1ef3e1369b3c0d8c4b43b7a4f9c54c,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_exploit.h,48696f66ca1ef3e1369b3c0d8c4b43b7a4f9c54c,GPZ-1942
+947728332,0xbinder/android-kernel-exploitation-lab,README.md,59b187a079e4383287c16d928c0afb8d643fff29,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,README.md,59b187a079e4383287c16d928c0afb8d643fff29,GPZ-1942
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/common.h,bc53442949aa68d9119703f5be879045fe122fd6,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/common.h,bc53442949aa68d9119703f5be879045fe122fd6,GPZ-1942
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/CMakeLists.txt,c13dae7efaf5af9c096de54830a25bf8300830da,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,patches/android-binder-cve-2019-2215-patch.patch,cba0fcd255e81272a5fb2844041c9c33ae72e174,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/Makefile,cc033959bdce6bdeb212870d170b0f60ff4b4744,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_poc.c,e970fbd7ef40f80d2a222e343013968b17442767,CVE-2019-2215
+947728332,0xbinder/android-kernel-exploitation-lab,exploit-code/binder_cve_2019_2215_poc.c,e970fbd7ef40f80d2a222e343013968b17442767,GPZ-1942
+947728332,0xbinder/android-kernel-exploitation-lab,_GITHUB_REPO_METADATA_,,CVE-2019-2215
