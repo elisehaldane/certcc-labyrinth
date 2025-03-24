@@ -1,6 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-644013740,vulncheck-oss/go-exploit,framework.go,0877c0f9728d939108934113964fb167e0fe5cdc,CVE-2024-1270
-644013740,vulncheck-oss/go-exploit,framework.go,0877c0f9728d939108934113964fb167e0fe5cdc,CVE-2022-30525
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,0ccb07f8bb45e7c4018c7e9138e55eb5524bfaf2,CVE-2023-28432
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,0ccb07f8bb45e7c4018c7e9138e55eb5524bfaf2,CVE-2022-47945
 644013740,vulncheck-oss/go-exploit,docs/exploit-types.md,0ccb07f8bb45e7c4018c7e9138e55eb5524bfaf2,CVE-2023-1270
@@ -8,6 +6,8 @@ repo_id,repo_full_name,file,file_sha1,match
 644013740,vulncheck-oss/go-exploit,protocol/ajp/ajp.go,15f8541ac75a990037d68dd3f89d2530bd47593d,CVE-2020-1938
 644013740,vulncheck-oss/go-exploit,config/config.go,1cdfcc5874f1371d3bb736c417ab800e8353dfd8,CVE-2024-1337
 644013740,vulncheck-oss/go-exploit,config/config.go,1cdfcc5874f1371d3bb736c417ab800e8353dfd8,CVE-2023-22527
+644013740,vulncheck-oss/go-exploit,framework.go,31ee5c23270744404f947b8dfd7d1028130708e6,CVE-2024-1270
+644013740,vulncheck-oss/go-exploit,framework.go,31ee5c23270744404f947b8dfd7d1028130708e6,CVE-2022-30525
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2023-22527
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2024-37084
 644013740,vulncheck-oss/go-exploit,java/javaclass.go,353e8cf2c3d7028435ce3db8ce66521cf794cd11,CVE-2020-7961
