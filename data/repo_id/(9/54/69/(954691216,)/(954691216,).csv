@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+954691216,yoshino-s/CVE-2025-1974,uv.lock,099ac53b71f0c686751e3c5bd9dac75a97202c2a,CVE-2025-1974
+954691216,yoshino-s/CVE-2025-1974,pyproject.toml,7f9963bee36477f8ad5161da306f3e5057d279ea,CVE-2025-1974
+954691216,yoshino-s/CVE-2025-1974,_GITHUB_REPO_METADATA_,,CVE-2025-1974
