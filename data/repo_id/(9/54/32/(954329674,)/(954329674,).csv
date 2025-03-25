@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+954329674,elshaheedy/CVE-2025-29927-Sigma-Rule,sigma_rule.yml,009ca0b92b2298ef49f73fb5025b1bf772e559b5,CVE-2025-29927
+954329674,elshaheedy/CVE-2025-29927-Sigma-Rule,README.md,066a49b373813ef853f70c9257e9c4011b53073a,CVE-2025-29927
+954329674,elshaheedy/CVE-2025-29927-Sigma-Rule,_GITHUB_REPO_METADATA_,,CVE-2025-29927
