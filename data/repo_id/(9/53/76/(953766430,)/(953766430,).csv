@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+953766430,DensenDeluxe/reconAIssance,tools/msf_module_matcher.py,cf6704e70ce8cba98256c4c06e69754b85b13ef7,CVE-2002-1568
+953766430,DensenDeluxe/reconAIssance,tools/superscript_cve_infer.py,fe4c25f2bb93addbbc6df2256f220e99e4383acc,CVE-2015-1632
+953766430,DensenDeluxe/reconAIssance,tools/superscript_cve_infer.py,fe4c25f2bb93addbbc6df2256f220e99e4383acc,CVE-2023-12345
