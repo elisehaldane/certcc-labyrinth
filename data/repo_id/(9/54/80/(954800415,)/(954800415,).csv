@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+954800415,elamani-drawing/CVE-2024-4367-POC-PDFJS,payloads/payload/safe Exploitation du CVE-2024-4367.pdf,5bc53fb4df55a7f275b137f23598c2bcddcdb4e1,CVE-2024-4367
+954800415,elamani-drawing/CVE-2024-4367-POC-PDFJS,payloads/payload/safe Exploitation du CVE-2024-4367.pdf,5bc53fb4df55a7f275b137f23598c2bcddcdb4e1,GHSA-WGRM-67XF-HHPQ
+954800415,elamani-drawing/CVE-2024-4367-POC-PDFJS,_GITHUB_REPO_METADATA_,,CVE-2024-4367
