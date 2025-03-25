@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+953657287,ZeroDaysCTF/ZeroDaysCTF_2025_Public,Web/ApacheCultureNight/solution.md,12e0c66a1f99f7db018ff96de8d16964a89b1415,CVE-2024-38475
+953657287,ZeroDaysCTF/ZeroDaysCTF_2025_Public,Forensics/Blurred/blurred.pcapng,1b2b4c37b79a50fc3736d1af780db3d8299b1cf1,VU#9973
+953657287,ZeroDaysCTF/ZeroDaysCTF_2025_Public,Web/spinmaster/source.zip,59f1d3bcea0373e115bc937987cc3c4e05108845,VU#88
