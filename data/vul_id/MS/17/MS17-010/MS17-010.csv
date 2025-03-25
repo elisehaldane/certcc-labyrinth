@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS17-010,1.00000000,https://github.com/bhushanD123/IVS_RECON,bhushanD123/IVS_RECON,954849567
 MS17-010,1.00000000,https://github.com/kiddoCodex/Penetration-Testing-Lab-Manual,kiddoCodex/Penetration-Testing-Lab-Manual,953782784
 MS17-010,1.00000000,https://github.com/Rip70022/CraxterSploit-Framework,Rip70022/CraxterSploit-Framework,951636324
 MS17-010,1.00000000,https://github.com/phamthaison123/command-exploit,phamthaison123/command-exploit,950349178
@@ -203,6 +204,7 @@ MS17-010,1.00000000,https://github.com/JavierOlmedo/check-ms17-010,JavierOlmedo/
 MS17-010,1.00000000,https://github.com/adamleff/inspec-profile-wannacry-exploit,adamleff/inspec-profile-wannacry-exploit,91350955
 MS17-010,1.00000000,https://github.com/jflyup/goMS17-010,jflyup/goMS17-010,89549887
 MS17-010,1.00000000,https://github.com/sn0wfa11/HID-Attacks,sn0wfa11/HID-Attacks,56999867
+MS17-010,0.50000000,https://github.com/CODEXISTdev/Project-STROT,CODEXISTdev/Project-STROT,951867831
 MS17-010,0.50000000,https://github.com/1uci1er/The-Ultimate-Metasploit-Framework-Guide,1uci1er/The-Ultimate-Metasploit-Framework-Guide,950153234
 MS17-010,0.50000000,https://github.com/mahepwn/Port-Scanner-with-Automation-Exploitation,mahepwn/Port-Scanner-with-Automation-Exploitation,937106093
 MS17-010,0.50000000,https://github.com/Khusi-docker/Eternal_Blue_Exploitation,Khusi-docker/Eternal_Blue_Exploitation,936670791
@@ -583,8 +585,8 @@ MS17-010,0.00529101,https://github.com/peterpeter228/exploit-tools,peterpeter228
 MS17-010,0.00523560,https://github.com/berylliumsec/nebula,berylliumsec/nebula,698663431
 MS17-010,0.00523560,https://github.com/zwy000009/--Loophole-CVE-PoC-payload,zwy000009/--Loophole-CVE-PoC-payload,255253818
 MS17-010,0.00520833,https://github.com/takuzoo3868/penta,takuzoo3868/penta,194363794
-MS17-010,0.00492611,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00480769,https://github.com/tomride/exploit-database-papers,tomride/exploit-database-papers,112202332
+MS17-010,0.00478469,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00476190,https://github.com/Bryonpectol/metasploit-exploits,Bryonpectol/metasploit-exploits,720552053
 MS17-010,0.00476190,https://github.com/milo2012/metasploitHelper,milo2012/metasploitHelper,29098699
 MS17-010,0.00452489,https://github.com/Pflegusch/metasploit-module-research,Pflegusch/metasploit-module-research,618921880
@@ -687,7 +689,7 @@ MS17-010,0.00037707,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/
 MS17-010,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 MS17-010,0.00030741,https://github.com/AlanFoster/metasploit-docs-spike,AlanFoster/metasploit-docs-spike,262667812
 MS17-010,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-MS17-010,0.00028225,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS17-010,0.00028209,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS17-010,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS17-010,0.00028185,https://github.com/NaInSec/CVE-PoC-in-GitHub,NaInSec/CVE-PoC-in-GitHub,776065052
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
@@ -797,19 +799,19 @@ MS17-010,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS17-010,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-MS17-010,0.00018389,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-010,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00015202,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS17-010,0.00013955,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00013951,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00012441,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
-MS17-010,0.00012182,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00012183,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS17-010,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
-MS17-010,0.00007109,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
-MS17-010,0.00005801,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
+MS17-010,0.00007107,https://github.com/sari3l/Poc-Monitor,sari3l/Poc-Monitor,503688932
+MS17-010,0.00005800,https://github.com/adminlove520/Poc-Monitor_v1.0.1,adminlove520/Poc-Monitor_v1.0.1,585471029
 MS17-010,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 MS17-010,0.00005486,https://github.com/FoxxyOS/exploitdb,FoxxyOS/exploitdb,131738912
 MS17-010,0.00005486,https://github.com/ParrotSec/exploitdb,ParrotSec/exploitdb,63003028
@@ -871,7 +873,7 @@ MS17-010,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS17-010,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS17-010,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS17-010,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS17-010,0.00000723,https://github.com/trickest/cve,trickest/cve,454015416
+MS17-010,0.00000722,https://github.com/trickest/cve,trickest/cve,454015416
 MS17-010,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS17-010,0.00000665,https://github.com/NadimKawwa/Cyber_Threat_Identification,NadimKawwa/Cyber_Threat_Identification,318011542
 MS17-010,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396

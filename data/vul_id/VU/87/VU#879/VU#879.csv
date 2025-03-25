@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#879,0.50000000,https://github.com/Oyst3r1ng/CVE-2025-29927,Oyst3r1ng/CVE-2025-29927,954041221
+VU#879,0.33333333,https://github.com/j4n-e4t/poc-vulnerable-nextjs-clerk,j4n-e4t/poc-vulnerable-nextjs-clerk,954499946
 VU#879,0.33333333,https://github.com/NicerWang/ToolCommander,NicerWang/ToolCommander,872854830
 VU#879,0.25000000,https://github.com/Li-DAO-Dev/work2icu-site-mirror-example,Li-DAO-Dev/work2icu-site-mirror-example,947950781
 VU#879,0.25000000,https://github.com/Li-DAO-Dev/work2icu-site,Li-DAO-Dev/work2icu-site,947941807

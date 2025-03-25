@@ -16,6 +16,7 @@ VU#20,0.50000000,https://github.com/CodyTolene/Red-Portals,CodyTolene/Red-Portal
 VU#20,0.50000000,https://github.com/Moco2669/oibis-SCADA,Moco2669/oibis-SCADA,738545634
 VU#20,0.50000000,https://github.com/novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,novit100/On-Mobile-Viruses-Exploiting-Messaging-and-Bluetooth-Services-,669835102
 VU#20,0.50000000,https://github.com/Daniil547/js-executor-rest,Daniil547/js-executor-rest,507917141
+VU#20,0.33333333,https://github.com/j4n-e4t/poc-vulnerable-nextjs-clerk,j4n-e4t/poc-vulnerable-nextjs-clerk,954499946
 VU#20,0.33333333,https://github.com/OneANDD/ExtrnalExploits,OneANDD/ExtrnalExploits,778532772
 VU#20,0.33333333,https://github.com/OneANDD/Exploits,OneANDD/Exploits,777522329
 VU#20,0.33333333,https://github.com/uday-009/nextjs-rce,uday-009/nextjs-rce,758041297
@@ -518,7 +519,7 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00028225,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00028209,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -559,7 +560,7 @@ VU#20,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#20,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#20,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#20,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#20,0.00018389,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#20,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
