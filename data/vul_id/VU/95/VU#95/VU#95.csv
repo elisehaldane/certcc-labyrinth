@@ -83,6 +83,7 @@ VU#95,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-
 VU#95,0.07692308,https://github.com/jackmin97/The-Day-of-the-Week-Strategy-,jackmin97/The-Day-of-the-Week-Strategy-,578298704
 VU#95,0.07692308,https://github.com/sealmindset/struts2rce,sealmindset/struts2rce,542704873
 VU#95,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
+VU#95,0.07142857,https://github.com/u238/Tomcat-CVE_2025_24813,u238/Tomcat-CVE_2025_24813,954224912
 VU#95,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#95,0.07142857,https://github.com/Mazlai/SAE2.04,Mazlai/SAE2.04,553111420
 VU#95,0.07142857,https://github.com/Pa4ok/SerializeExploitMod,Pa4ok/SerializeExploitMod,490766238
@@ -450,7 +451,7 @@ VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#95,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#95,0.00028241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#95,0.00028225,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#95,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803

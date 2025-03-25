@@ -82,6 +82,7 @@ VU#26,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass
 VU#26,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#26,0.07692308,https://github.com/alexplaygithub/Charasploit-Update-Database,alexplaygithub/Charasploit-Update-Database,428297208
 VU#26,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
+VU#26,0.07142857,https://github.com/u238/Tomcat-CVE_2025_24813,u238/Tomcat-CVE_2025_24813,954224912
 VU#26,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#26,0.07142857,https://github.com/dinosn/CVE-2024-20931,dinosn/CVE-2024-20931,753664721
 VU#26,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888
@@ -286,6 +287,7 @@ VU#26,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,11791108
 VU#26,0.01136364,https://github.com/E1P0TR0/CVE-Machines_htb,E1P0TR0/CVE-Machines_htb,458248622
 VU#26,0.01123596,https://github.com/luluy0726/Exploitation-des-donnees-massives-en-finance,luluy0726/Exploitation-des-donnees-massives-en-finance,596017093
 VU#26,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#26,0.01111111,https://github.com/Usengo/sc-exploits-minimized,Usengo/sc-exploits-minimized,954423055
 VU#26,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#26,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#26,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934

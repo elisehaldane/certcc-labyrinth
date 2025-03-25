@@ -129,6 +129,7 @@ VU#45,0.07692308,https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass
 VU#45,0.07692308,https://github.com/2lambda123/JNDI-Exploit-Kit,2lambda123/JNDI-Exploit-Kit,723105174
 VU#45,0.07692308,https://github.com/twelvesec/RogueLDAP,twelvesec/RogueLDAP,447263009
 VU#45,0.07692308,https://github.com/Y4er/openam-CVE-2021-35464,Y4er/openam-CVE-2021-35464,381902138
+VU#45,0.07142857,https://github.com/u238/Tomcat-CVE_2025_24813,u238/Tomcat-CVE_2025_24813,954224912
 VU#45,0.07142857,https://github.com/mirosh-kavinda/caheHunt_RNN,mirosh-kavinda/caheHunt_RNN,923134326
 VU#45,0.07142857,https://github.com/safeer-accuknox/log4j-shell-poc,safeer-accuknox/log4j-shell-poc,855573158
 VU#45,0.07142857,https://github.com/AlexisRippin/java-deserialization-exploits,AlexisRippin/java-deserialization-exploits,728761888

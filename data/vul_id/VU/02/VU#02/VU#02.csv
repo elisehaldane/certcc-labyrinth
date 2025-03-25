@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#02,1.00000000,https://github.com/CarterYoo/Anonymous-ACL-Repository,CarterYoo/Anonymous-ACL-Repository,954251058
 VU#02,1.00000000,https://github.com/reversecoding/Wallet-Drainer-TON-Blockchain,reversecoding/Wallet-Drainer-TON-Blockchain,941538061
 VU#02,1.00000000,https://github.com/K-Kilpatrick/Pen-testing-2-Windows,K-Kilpatrick/Pen-testing-2-Windows,899046234
 VU#02,1.00000000,https://github.com/ps-interactive/lab_exploiting-with-bloodhound-and-mimikatz,ps-interactive/lab_exploiting-with-bloodhound-and-mimikatz,853423919
@@ -275,6 +276,7 @@ VU#02,0.01136364,https://github.com/jetming/Log4j2ActiveScan,jetming/Log4j2Activ
 VU#02,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVIncelli/E2E_ASR_QNN,409224652
 VU#02,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#02,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
+VU#02,0.01111111,https://github.com/Usengo/sc-exploits-minimized,Usengo/sc-exploits-minimized,954423055
 VU#02,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#02,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
 VU#02,0.01111111,https://github.com/ybtuti/sc-exploits-minimized,ybtuti/sc-exploits-minimized,884712934
