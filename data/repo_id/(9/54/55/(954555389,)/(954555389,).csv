@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+954555389,jeymo092/cve-2025-29927,node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node,06ffa9a67053d07dfe150809b829e6b86337b001,VU#32
+954555389,jeymo092/cve-2025-29927,node_modules/@next/swc-linux-x64-musl/next-swc.linux-x64-musl.node,06ffa9a67053d07dfe150809b829e6b86337b001,VU#64
+954555389,jeymo092/cve-2025-29927,node_modules/next/dist/compiled/@edge-runtime/primitives/fetch.js,09cb228a631954d23731a733d776c55bc0f7c2d5,VU#19
+954555389,jeymo092/cve-2025-29927,node_modules/next/dist/compiled/@edge-runtime/primitives/fetch.js,09cb228a631954d23731a733d776c55bc0f7c2d5,VU#29
+954555389,jeymo092/cve-2025-29927,node_modules/next/dist/compiled/@edge-runtime/primitives/fetch.js,09cb228a631954d23731a733d776c55bc0f7c2d5,VU#291
+954555389,jeymo092/cve-2025-29927,node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node,2c6966e8f693594bb8b6e716a1166fd1c257cd54,VU#32
+954555389,jeymo092/cve-2025-29927,node_modules/@next/swc-linux-x64-gnu/next-swc.linux-x64-gnu.node,2c6966e8f693594bb8b6e716a1166fd1c257cd54,VU#64
+954555389,jeymo092/cve-2025-29927,README.md,6411b0bdc6774d2f6c4a9dd900a09119755def98,CVE-2025-29927
+954555389,jeymo092/cve-2025-29927,node_modules/next/dist/build/polyfills/polyfill-nomodule.js,81d34b3036ea28438bf8f3b111e69b3331f45e59,VU#55296
+954555389,jeymo092/cve-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
