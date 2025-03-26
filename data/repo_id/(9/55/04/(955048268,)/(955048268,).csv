@@ -1,0 +1,11 @@
+repo_id,repo_full_name,file,file_sha1,match
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2018-18074
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2019-10910
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2019-11324
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2019-11358
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2020-1108
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2020-36067
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2020-8165
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2021-23337
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2021-23727
+955048268,absholi7ly/ZeroHuntAI,scanner/dependency_analyzer.py,efabc693cbd5ded1e49f7e2c78c2cbe4f92d0d62,CVE-2021-44228
