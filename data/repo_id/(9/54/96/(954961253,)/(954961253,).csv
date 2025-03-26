@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+954961253,cypherlobo/DirtyPipe-BSI,exploit.c,ad4801ee18eed87c044cea86a29b1a6e24fa3ea7,CVE-2022-0847
+954961253,cypherlobo/DirtyPipe-BSI,_GITHUB_REPO_METADATA_,,CVE-2022-0847

@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+954981853,JonahdoesIT/eternalblue-exploit-analysis,Readme.md,e8bb12395becfd55feb6d372a668aee9bb131e3c,CVE-2017-0144
+954981853,JonahdoesIT/eternalblue-exploit-analysis,Readme.md,e8bb12395becfd55feb6d372a668aee9bb131e3c,MS17-010
+954981853,JonahdoesIT/eternalblue-exploit-analysis,runbook.md,f6194b21e399afec268e492dc1cabacbde012df5,CVE-2017-0144
+954981853,JonahdoesIT/eternalblue-exploit-analysis,runbook.md,f6194b21e399afec268e492dc1cabacbde012df5,MS17-010
+954981853,JonahdoesIT/eternalblue-exploit-analysis,_GITHUB_REPO_METADATA_,,MS17-010
