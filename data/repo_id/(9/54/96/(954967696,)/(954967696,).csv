@@ -1,0 +1,14 @@
+repo_id,repo_full_name,file,file_sha1,match
+954967696,maronnjapan/claude-create-CVE-2025-29927,RUN_TESTS.md,0d067ba85a23fad1492c21bd162fa7e49d353456,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,middleware.ts,14c4767fefb8ea889057f1301d90262f8173745a,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,vuln-test-all.sh,4b079f62748731ed038352c9ef7793073b373aaa,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,upgrade-and-test.sh,65eafd7a7b040c3db8ad527633310f1fee498b77,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,README.md,6764745b38e3f7d1cdfffcd25b51ceb44e6b0af6,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,test-vulnerability.sh,8bf31d2f43a0f12f142d6abd4dbb8f5d4b3bf0b7,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,header-variations.sh,998974431225e2972809ec1e1b05e4f2d4ae46dc,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,TESTING_INSTRUCTIONS.md,b18438ec8838049864097610a1f6aaa0f3e5342a,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,app/protected-data/page.tsx,bc9bcd9c51e56e403b11be481e55d335b26bf2f7,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,app/page.tsx,beaa5bd09df4325e3c0a85e58dbd2d821552b96b,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,PROJECT_OVERVIEW.md,e4237d9f1f061626ce5655a91ce926d4aed67d4c,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,app/layout.tsx,fc2fa73eabbded8032468a3d9db1432603907823,CVE-2025-29927
+954967696,maronnjapan/claude-create-CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
