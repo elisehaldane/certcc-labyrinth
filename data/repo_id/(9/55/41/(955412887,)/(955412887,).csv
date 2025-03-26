@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+955412887,m-q-t/ingressnightmare-detection-poc,detect.py,0d6648539a6351acc4f7a4f2d93e74844cf7fafa,CVE-2025-1974
+955412887,m-q-t/ingressnightmare-detection-poc,detect.py,0d6648539a6351acc4f7a4f2d93e74844cf7fafa,CVE-2025-24514
+955412887,m-q-t/ingressnightmare-detection-poc,README.md,b95e96b3b9556d54c405577be41c52720116f12e,CVE-2025-1974
+955412887,m-q-t/ingressnightmare-detection-poc,README.md,b95e96b3b9556d54c405577be41c52720116f12e,CVE-2025-24514
+955412887,m-q-t/ingressnightmare-detection-poc,_GITHUB_REPO_METADATA_,,CVE-2025-1974
