@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+955458798,jokepool710/Pentest-Scripts,Exploits & PoC,bbed3b71b7e8ef0927b333e3dff10496aa15fdad,CVE-2017-0144
+955458798,jokepool710/Pentest-Scripts,Exploits & PoC,bbed3b71b7e8ef0927b333e3dff10496aa15fdad,CVE-2022-0847
+955458798,jokepool710/Pentest-Scripts,Exploits & PoC,bbed3b71b7e8ef0927b333e3dff10496aa15fdad,MS17-010

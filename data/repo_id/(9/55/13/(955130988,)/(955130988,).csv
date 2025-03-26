@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+955130988,Esonhugh/nginxnightmare,main.go,4404c18275b83284a730f347bf55dd1989423141,CVE-2025-1974
+955130988,Esonhugh/nginxnightmare,_GITHUB_REPO_METADATA_,,CVE-2025-1974
