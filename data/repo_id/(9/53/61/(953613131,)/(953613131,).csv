@@ -1,0 +1,21 @@
+repo_id,repo_full_name,file,file_sha1,match
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2014_3153.yar,15c33a9ed5e95d81cc858f57aff901a4253c85b7,CVE-2014-3153
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2009_2908.yar,1e1ab9b68210c5dbea5ada4b95b14dcebba9d712,CVE-2009-2908
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2021_4034.yar,2a4eefa0d765177fd23ca7e7e1374daa1c93b6e3,CVE-2021-4034
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Havoc/data/x86_64-w64-mingw32-cross/share/man/man1/x86_64-w64-mingw32-gcc.1,31076372e9a8247cc9f3db48ef603b189cba3c34,CVE-2021-35465
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2009_2698.yar,48109511e4bfdcd77e79de05852ef8cbbfd7e84c,CVE-2009-2698
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2022_0847.yar,4a250bfcecd8b03fc0e1e1e26c0cec02bab9bc08,CVE-2022-0847
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2021_3156.yar,5dcef82e80b68bef745762715093254c2b81a581,CVE-2021-3156
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2010_3301.yar,5f0a72382c80ba87051237dc885a52c860e08cf0,CVE-2010-3301
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Havoc/client/Build/CMakeFiles/Havoc.dir/Havoc_autogen/QYFM2Z2WYQ/qrc_Havoc.cpp.o,9d35b0752601b60fa05c59175a5c49d98d99f9dc,VU#96
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Havoc/teamserver/go.sum,a7da8419fcbce52ecbd919dfa794ae68e8277966,VU#18
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2012_0056.yar,bb422f49d0ad27b95ec491b601877f830c731481,CVE-2012-0056
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2017_100011.yar,c077f42e4d74f27d5ed820120b6c369d8f0352b3,CVE-2017-100011
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2019_13272.yar,cd423338efd1da1e230a9b2413906b862d189e4e,CVE-2019-13272
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2016_5195.yar,d30ed2cc66fcecf6a539a1282e5ca39e151a4324,CVE-2016-5195
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2016_4557.yar,d41e774a6a492786e9c152955793e016b84ef13e,CVE-2016-4557
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Havoc/client/Havoc,eb156325d9f2df7baed5574802442bec2b0ef6c6,VU#96
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2018_10561.yar,f1820b4a5b8cb1967b7d3b3ad48fb359b1eba561,CVE-2018-10561
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2009_1897.yar,f88a19a7882216c0fd8fc14d24225e952ed728b4,CVE-2009-1897
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2017_16995.yar,f8a9a1758c0b6d6f88fa931a3a5346e5c24a84f6,CVE-2017-16995
+953613131,JimKw1kX/Havoc-C2-Modification-YARA-Free,Yara Scan Checker/yara/rules/Linux_Exploit_CVE_2021_3490.yar,fef03bdbc52f3293ba8d934e3df29d8aa3c4ede9,CVE-2021-3490
