@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-7WG5-6864-V489,0.00030331,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-7WG5-6864-V489,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 GHSA-7WG5-6864-V489,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
-GHSA-7WG5-6864-V489,0.00003590,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-7WG5-6864-V489,0.00003575,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

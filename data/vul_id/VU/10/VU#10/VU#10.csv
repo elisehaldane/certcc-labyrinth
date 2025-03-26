@@ -20,6 +20,7 @@ VU#10,0.50000000,https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CV
 VU#10,0.50000000,https://github.com/qjh2333/CVE-2019-10999,qjh2333/CVE-2019-10999,467862315
 VU#10,0.50000000,https://github.com/F6JO/CVE-2020-0796-Batch-scanning,F6JO/CVE-2020-0796-Batch-scanning,422054053
 VU#10,0.50000000,https://github.com/MartinSohn/CVE-2020-8816,MartinSohn/CVE-2020-8816,272513732
+VU#10,0.33333333,https://github.com/Abhinav-ranish/ooreedoo-DIW387-mod,Abhinav-ranish/ooreedoo-DIW387-mod,955251545
 VU#10,0.33333333,https://github.com/TechnicalForumResearcher/DuplicateDetectionWithGPT3,TechnicalForumResearcher/DuplicateDetectionWithGPT3,700450885
 VU#10,0.33333333,https://github.com/Songg45/CVE-2023-4683-Test,Songg45/CVE-2023-4683-Test,697961473
 VU#10,0.33333333,https://github.com/asdaweee/GitLabRCECVE-2021-22205-GUI,asdaweee/GitLabRCECVE-2021-22205-GUI,664967309
@@ -532,7 +533,7 @@ VU#10,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256
 VU#10,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#10,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#10,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#10,0.00028193,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#10,0.00028177,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#10,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#10,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#10,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

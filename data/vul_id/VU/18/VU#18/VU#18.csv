@@ -34,6 +34,7 @@ VU#18,1.00000000,https://github.com/explabs/ad-ctf-paas-exploits,explabs/ad-ctf-
 VU#18,1.00000000,https://github.com/Symbux/Turbo,Symbux/Turbo,402920066
 VU#18,1.00000000,https://github.com/turbot/steampipe-plugin-shodan,turbot/steampipe-plugin-shodan,348544027
 VU#18,1.00000000,https://github.com/cfree14/trade_and_collapse,cfree14/trade_and_collapse,113923067
+VU#18,0.50000000,https://github.com/Utitofon-Udoekong/tracenet,Utitofon-Udoekong/tracenet,955151195
 VU#18,0.50000000,https://github.com/indhuanandhan70/builderio-shopify-rce-headless,indhuanandhan70/builderio-shopify-rce-headless,926377396
 VU#18,0.50000000,https://github.com/usuariojavier/Exploited,usuariojavier/Exploited,875944484
 VU#18,0.50000000,https://github.com/divocbn/kfc-exploit-poc,divocbn/kfc-exploit-poc,832922746
@@ -223,6 +224,7 @@ VU#18,0.05882353,https://github.com/rangenanirakshithrao/Exploitary-Data-Analysi
 VU#18,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#18,0.05555556,https://github.com/RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,RcsMuck/Fortnite-OrangeWare-Source-Full-Exploits,470353165
 VU#18,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
+VU#18,0.05263158,https://github.com/JimKw1kX/Havoc-C2-Modification-YARA-Free,JimKw1kX/Havoc-C2-Modification-YARA-Free,953613131
 VU#18,0.05263158,https://github.com/r1ru/binary-exploitation-tutorial,r1ru/binary-exploitation-tutorial,948972670
 VU#18,0.05263158,https://github.com/irwx777/FotoSploit,irwx777/FotoSploit,529941427
 VU#18,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
@@ -668,7 +670,7 @@ VU#18,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#18,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#18,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#18,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#18,0.00028193,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#18,0.00028177,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#18,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#18,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#18,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

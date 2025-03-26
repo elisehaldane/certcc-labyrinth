@@ -65,6 +65,7 @@ VU#45,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-
 VU#45,0.33333333,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,474467374
 VU#45,0.33333333,https://github.com/1lann/log4shelldetect,1lann/log4shelldetect,437155858
 VU#45,0.33333333,https://github.com/jas502n/Log4j2-CVE-2021-44228,jas502n/Log4j2-CVE-2021-44228,436860437
+VU#45,0.25000000,https://github.com/kk12-30/CVE-2025-30208,kk12-30/CVE-2025-30208,955463912
 VU#45,0.25000000,https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,946481482
 VU#45,0.25000000,https://github.com/10cks/MINI-HTTPD-RCE-ENV,10cks/MINI-HTTPD-RCE-ENV,778857439
 VU#45,0.25000000,https://github.com/namto908/CVE-20186892,namto908/CVE-20186892,730682886

@@ -4,6 +4,7 @@ VU#01,1.00000000,https://github.com/abdelrahmankhaled2/Penetration-Testing-Repor
 VU#01,1.00000000,https://github.com/s1v11/VAPT_Project,s1v11/VAPT_Project,850219638
 VU#01,1.00000000,https://github.com/jackfromeast/TheHulk,jackfromeast/TheHulk,785916729
 VU#01,1.00000000,https://github.com/PsiLupan/SSBM-Memory-Card-Loader,PsiLupan/SSBM-Memory-Card-Loader,33613469
+VU#01,0.50000000,https://github.com/nrazv/CVE-2023-45878,nrazv/CVE-2023-45878,951420554
 VU#01,0.50000000,https://github.com/linus-berg/ExploitDb.Gui,linus-berg/ExploitDb.Gui,915713550
 VU#01,0.50000000,https://github.com/goldenstar9393/Shellcode_Injection_C-,goldenstar9393/Shellcode_Injection_C-,824260304
 VU#01,0.50000000,https://github.com/yoongi43/music_audio_enhancement_conformer,yoongi43/music_audio_enhancement_conformer,822066747
@@ -656,7 +657,7 @@ VU#01,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#01,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#01,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#01,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#01,0.00003590,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#01,0.00003575,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#01,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#01,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#01,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
