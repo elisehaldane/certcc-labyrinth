@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+955775204,WHK-Scbert/MallanooSploit,API/lib/ExploitChecker/EternalBlue.py,46769d2e740337c104a8a533d7b8591311fba446,MS17-010
+955775204,WHK-Scbert/MallanooSploit,API/lib/ExploitChecker/SAP.py,879ac8c8f8c34772a6063197f92225672e879fef,CVE-2022-22536
