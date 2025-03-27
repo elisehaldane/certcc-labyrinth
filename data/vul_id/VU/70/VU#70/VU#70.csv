@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+VU#70,1.00000000,https://github.com/advaitbd/fyp-fr,advaitbd/fyp-fr,906678543
 VU#70,1.00000000,https://github.com/blackm4c/blackm4c.github.io,blackm4c/blackm4c.github.io,873492473
 VU#70,1.00000000,https://github.com/DeogenesMaranan/WebExploitMachine,DeogenesMaranan/WebExploitMachine,853308086
 VU#70,1.00000000,https://github.com/uumair327/guardiancare,uumair327/guardiancare,746319730
@@ -15,6 +16,7 @@ VU#70,1.00000000,https://github.com/robhughes72/compiled_tools,robhughes72/compi
 VU#70,1.00000000,https://github.com/4dmud/mud,4dmud/mud,420646110
 VU#70,0.50000000,https://github.com/aditya-0211/binary-exploitation-c-programs,aditya-0211/binary-exploitation-c-programs,938812557
 VU#70,0.50000000,https://github.com/descgrp-un/solid-exploit,descgrp-un/solid-exploit,932943012
+VU#70,0.50000000,https://github.com/giuspillo/gal-kars,giuspillo/gal-kars,907278315
 VU#70,0.50000000,https://github.com/woshidaheike/CVE-2024-57241,woshidaheike/CVE-2024-57241,902691698
 VU#70,0.50000000,https://github.com/aminxxx133/EvilDroid-with-metasploit,aminxxx133/EvilDroid-with-metasploit,884334946
 VU#70,0.50000000,https://github.com/martinvks/CVE-2022-45059-poc,martinvks/CVE-2022-45059-poc,717712143
