@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+955546933,marino-admin/Vite-CVE-2025-30208-Scanner,README.md,3b252e6f74aea18b470879ea9120b05aa1279f3a,CVE-2025-30208
+955546933,marino-admin/Vite-CVE-2025-30208-Scanner,scanner.py,621bac40ae870fa625a390e0230c534a35b1a83d,CVE-2025-30208
+955546933,marino-admin/Vite-CVE-2025-30208-Scanner,_GITHUB_REPO_METADATA_,,CVE-2025-30208
