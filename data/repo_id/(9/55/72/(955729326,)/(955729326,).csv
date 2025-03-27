@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-955729326,ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927,index.js,42d110064e46023b8c07f32202b812a7fd85aec8,CVE-2025-29927
-955729326,ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927,README.md,b2986d143c9bad0350e60f2b3983bc46a66f597b,CVE-2025-29927
+955729326,ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927,README.md,3d9d6c82a5a6308b72b7baf6fc1e89c12669a6cf,CVE-2025-29927
+955729326,ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927,index.js,9338f00f9f8fb8bd4822e5325cc343ba896b915a,CVE-2025-29927
 955729326,ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927

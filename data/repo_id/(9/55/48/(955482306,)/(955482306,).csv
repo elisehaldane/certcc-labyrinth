@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+955482306,gotcadumitru/test-cve-2025-29927,yarn.lock,3fba77c519dfe0cc20cd6256d6d1feb33f933c7d,VU#11
+955482306,gotcadumitru/test-cve-2025-29927,yarn.lock,3fba77c519dfe0cc20cd6256d6d1feb33f933c7d,VU#879
 955482306,gotcadumitru/test-cve-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
