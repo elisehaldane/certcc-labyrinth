@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#583,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
+VU#583,0.01449275,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#583,0.01333333,https://github.com/BrenoFariasdaSilva/University,BrenoFariasdaSilva/University,385703621
 VU#583,0.01265823,https://github.com/Crypto-Cat/REdiREKT,Crypto-Cat/REdiREKT,337049138
 VU#583,0.00980392,https://github.com/824LegacY/RCeONeV8OY,824LegacY/RCeONeV8OY,907235800

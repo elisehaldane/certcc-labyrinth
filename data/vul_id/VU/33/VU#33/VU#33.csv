@@ -291,7 +291,6 @@ VU#33,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshank
 VU#33,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
 VU#33,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitLab,bjelefano/CSC427Winter2022-MetasploitLab,462584561
 VU#33,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
-VU#33,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#33,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#33,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#33,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
@@ -317,6 +316,7 @@ VU#33,0.01538462,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-
 VU#33,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/KatanaFramework,689762764
 VU#33,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
 VU#33,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
+VU#33,0.01449275,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#33,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#33,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,700855405
 VU#33,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
@@ -598,7 +598,7 @@ VU#33,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#33,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#33,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#33,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#33,0.00061237,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#33,0.00060976,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#33,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#33,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#33,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

@@ -65,7 +65,6 @@ VU#45,0.33333333,https://github.com/twseptian/cve-2022-22947,twseptian/cve-2022-
 VU#45,0.33333333,https://github.com/netslutter/metasploit-framework,netslutter/metasploit-framework,474467374
 VU#45,0.33333333,https://github.com/1lann/log4shelldetect,1lann/log4shelldetect,437155858
 VU#45,0.33333333,https://github.com/jas502n/Log4j2-CVE-2021-44228,jas502n/Log4j2-CVE-2021-44228,436860437
-VU#45,0.25000000,https://github.com/kk12-30/CVE-2025-30208,kk12-30/CVE-2025-30208,955463912
 VU#45,0.25000000,https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013,946481482
 VU#45,0.25000000,https://github.com/10cks/MINI-HTTPD-RCE-ENV,10cks/MINI-HTTPD-RCE-ENV,778857439
 VU#45,0.25000000,https://github.com/namto908/CVE-20186892,namto908/CVE-20186892,730682886
@@ -282,7 +281,6 @@ VU#45,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s96
 VU#45,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#45,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#45,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
-VU#45,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,471026444
 VU#45,0.01694915,https://github.com/francescopisu/CEVEP,francescopisu/CEVEP,470956020
 VU#45,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
@@ -301,10 +299,12 @@ VU#45,0.01538462,https://github.com/VedanshMaheshwari/Vulnerability-Management,V
 VU#45,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#45,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#45,0.01538462,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
+VU#45,0.01515152,https://github.com/utkuatasoy/Quantitative-Arbitrage,utkuatasoy/Quantitative-Arbitrage,955552152
 VU#45,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#45,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
 VU#45,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
 VU#45,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
+VU#45,0.01449275,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#45,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#45,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
 VU#45,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857

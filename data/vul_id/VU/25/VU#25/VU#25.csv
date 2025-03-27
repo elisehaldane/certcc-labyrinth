@@ -313,7 +313,6 @@ VU#25,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#25,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
 VU#25,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s966-Final-Project,800103118
 VU#25,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
-VU#25,0.01694915,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#25,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#25,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
 VU#25,0.01694915,https://github.com/OWASP/joomscan,OWASP/joomscan,67115839
@@ -343,6 +342,7 @@ VU#25,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_E
 VU#25,0.01492537,https://github.com/N0b1ta/Bit-Cannon,N0b1ta/Bit-Cannon,430397431
 VU#25,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
 VU#25,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
+VU#25,0.01449275,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#25,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
 VU#25,0.01428571,https://github.com/wolfblunt/Deep-Image-Prior,wolfblunt/Deep-Image-Prior,725544685
 VU#25,0.01428571,https://github.com/eder1234/facemocap_dataset,eder1234/facemocap_dataset,660253297
@@ -645,7 +645,7 @@ VU#25,0.00116550,https://github.com/arazzaq178/predicting_software_vulnerability
 VU#25,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#25,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#25,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#25,0.00061237,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#25,0.00060976,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#25,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#25,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#25,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -653,7 +653,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00028177,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00028161,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
