@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+955511656,hakaioffsec/IngressNightmare-PoC,README.md,c58ff2d01df5a07d8f44ab7c139cbddfd1d4385c,CVE-2025-1097
+955511656,hakaioffsec/IngressNightmare-PoC,README.md,c58ff2d01df5a07d8f44ab7c139cbddfd1d4385c,CVE-2025-1098
+955511656,hakaioffsec/IngressNightmare-PoC,README.md,c58ff2d01df5a07d8f44ab7c139cbddfd1d4385c,CVE-2025-1974
+955511656,hakaioffsec/IngressNightmare-PoC,README.md,c58ff2d01df5a07d8f44ab7c139cbddfd1d4385c,CVE-2025-24514
+955511656,hakaioffsec/IngressNightmare-PoC,_GITHUB_REPO_METADATA_,,CVE-2025-1097
+955511656,hakaioffsec/IngressNightmare-PoC,_GITHUB_REPO_METADATA_,,CVE-2025-1098
+955511656,hakaioffsec/IngressNightmare-PoC,_GITHUB_REPO_METADATA_,,CVE-2025-1974
+955511656,hakaioffsec/IngressNightmare-PoC,_GITHUB_REPO_METADATA_,,CVE-2025-24514
