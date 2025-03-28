@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+956675040,rjhaikal/POC-IngressNightmare-CVE-2025-1974,uv.lock,099ac53b71f0c686751e3c5bd9dac75a97202c2a,CVE-2025-1974
+956675040,rjhaikal/POC-IngressNightmare-CVE-2025-1974,README.md,312ccd396ba10a8da4b4e3f7a2d4e8932c3d3989,CVE-2025-1974
+956675040,rjhaikal/POC-IngressNightmare-CVE-2025-1974,pyproject.toml,7f9963bee36477f8ad5161da306f3e5057d279ea,CVE-2025-1974
+956675040,rjhaikal/POC-IngressNightmare-CVE-2025-1974,_GITHUB_REPO_METADATA_,,CVE-2025-1974
