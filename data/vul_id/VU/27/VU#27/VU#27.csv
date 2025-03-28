@@ -15,7 +15,6 @@ VU#27,0.33333333,https://github.com/toanthang1842002/CVE-2017-6074,toanthang1842
 VU#27,0.33333333,https://github.com/luminostride/osok,luminostride/osok,661426411
 VU#27,0.33333333,https://github.com/michealkeines/Exploit-Development,michealkeines/Exploit-Development,390336810
 VU#27,0.33333333,https://github.com/mvondracek/VR-MitR-C2-Bigscreen,mvondracek/VR-MitR-C2-Bigscreen,145730787
-VU#27,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#27,0.25000000,https://github.com/evidg/Web-Programming-and-Systems,evidg/Web-Programming-and-Systems,692706284
 VU#27,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
 VU#27,0.25000000,https://github.com/MarkTheRobloxGuy/ExSer,MarkTheRobloxGuy/ExSer,671963406
@@ -23,6 +22,7 @@ VU#27,0.25000000,https://github.com/jupyter-naas/FEC-engine,jupyter-naas/FEC-eng
 VU#27,0.25000000,https://github.com/nikolockenvitz/logjam,nikolockenvitz/logjam,423567009
 VU#27,0.25000000,https://github.com/Nintendo-Homebrew/str2hax,Nintendo-Homebrew/str2hax,302943873
 VU#27,0.25000000,https://github.com/ppepos/inf600c,ppepos/inf600c,234415732
+VU#27,0.20000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#27,0.20000000,https://github.com/Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,Royqlx/Multi-Armed-Bandit-Algorithm-Simulation,802643935
 VU#27,0.20000000,https://github.com/IgnacioLaurenty/Basic-RL-from-scratch,IgnacioLaurenty/Basic-RL-from-scratch,750250126
 VU#27,0.20000000,https://github.com/Wrigsflow/Exploit-doors,Wrigsflow/Exploit-doors,609366231
@@ -572,7 +572,7 @@ VU#27,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#27,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#27,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#27,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#27,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#27,0.00018376,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#27,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#27,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#27,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

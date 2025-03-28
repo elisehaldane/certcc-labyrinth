@@ -224,6 +224,7 @@ VU#59,0.01219512,https://github.com/SSSSuperX/CVE-2024-28000,SSSSuperX/CVE-2024-
 VU#59,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
 VU#59,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#59,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
+VU#59,0.01162791,https://github.com/LinhOnii/Bypass-CheckM8-devices-with-signal,LinhOnii/Bypass-CheckM8-devices-with-signal,956401943
 VU#59,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#59,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#59,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
@@ -462,7 +463,7 @@ VU#59,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#59,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#59,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#59,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#59,0.00028074,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#59,0.00028019,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#59,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#59,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#59,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -503,7 +504,7 @@ VU#59,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#59,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#59,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#59,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#59,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#59,0.00018376,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#59,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#59,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 VU#59,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

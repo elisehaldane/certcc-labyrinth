@@ -20,13 +20,13 @@ VU#25,0.33333333,https://github.com/saintxploit/laravel-rce,saintxploit/laravel-
 VU#25,0.33333333,https://github.com/cecinuga/ExploitedContracts,cecinuga/ExploitedContracts,490767708
 VU#25,0.33333333,https://github.com/VVeakee/CVE-2022-24990-EXP,VVeakee/CVE-2022-24990-EXP,468562369
 VU#25,0.33333333,https://github.com/lanaleyla/CVExerciseProductCategory2extended,lanaleyla/CVExerciseProductCategory2extended,200275989
-VU#25,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.25000000,https://github.com/playvoras/python-exploits,playvoras/python-exploits,830739066
 VU#25,0.25000000,https://github.com/YounesTasra-R4z3rSw0rd/CTF-Scripts,YounesTasra-R4z3rSw0rd/CTF-Scripts,633414763
 VU#25,0.25000000,https://github.com/bkojusner/CVE-2021-25461,bkojusner/CVE-2021-25461,463240147
 VU#25,0.25000000,https://github.com/OldSchoolMinecraft/SeedFix,OldSchoolMinecraft/SeedFix,356066175
 VU#25,0.25000000,https://github.com/EvangelouSotiris/async_proxy_rce,EvangelouSotiris/async_proxy_rce,221734700
 VU#25,0.25000000,https://github.com/shipcod3/IRC-Bot-Hunters,shipcod3/IRC-Bot-Hunters,33442483
+VU#25,0.20000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#25,0.20000000,https://github.com/nlaha/cpts428-minecraft-log4j,nlaha/cpts428-minecraft-log4j,856679319
 VU#25,0.20000000,https://github.com/ChooJinHe/MMRAT-WANNABE,ChooJinHe/MMRAT-WANNABE,722473837
 VU#25,0.20000000,https://github.com/Yana-Gupta/rce,Yana-Gupta/rce,685523997
@@ -389,6 +389,7 @@ VU#25,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-c
 VU#25,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#25,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#25,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
+VU#25,0.01162791,https://github.com/LinhOnii/Bypass-CheckM8-devices-with-signal,LinhOnii/Bypass-CheckM8-devices-with-signal,956401943
 VU#25,0.01162791,https://github.com/Nemesis1303/CASE,Nemesis1303/CASE,851021010
 VU#25,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#25,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
@@ -655,7 +656,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00028074,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00028019,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -697,7 +698,7 @@ VU#25,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#25,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#25,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#25,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#25,0.00018382,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#25,0.00018376,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#25,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#25,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#25,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726
