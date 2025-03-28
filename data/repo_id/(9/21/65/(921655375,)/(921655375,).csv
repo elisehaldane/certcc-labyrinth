@@ -3,3 +3,5 @@ repo_id,repo_full_name,file,file_sha1,match
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#27
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#272
 921655375,Venom-devX/Exploits,BlueXNotificationSource.lua,1765f96dfe9948f1651d88ce52de7371e8e85162,VU#70
+921655375,Venom-devX/Exploits,KeySystemMadeByVenom.lua,9873e1f96973d683109550653a9f472ad6cfe5c0,VU#225
+921655375,Venom-devX/Exploits,KeySystemMadeByVenom.lua,9873e1f96973d683109550653a9f472ad6cfe5c0,VU#25

@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 796333615,enciphers-team/cve-exploits,README.md,a11627f879528b89e656307f241794aa6c029775,CVE-2021-41773
 796333615,enciphers-team/cve-exploits,README.md,a11627f879528b89e656307f241794aa6c029775,CVE-2021-42013
+796333615,enciphers-team/cve-exploits,cve-2025-29927.py,d58bf11931f420c0513afb7788f3ba76a4837f9f,CVE-2025-29927
 796333615,enciphers-team/cve-exploits,cve-2021-42013-exploit.sh,e1bf831f686064ba69f7e8fe15012f173878d4fb,CVE-2021-42013
