@@ -15,6 +15,7 @@ VU#27,0.33333333,https://github.com/toanthang1842002/CVE-2017-6074,toanthang1842
 VU#27,0.33333333,https://github.com/luminostride/osok,luminostride/osok,661426411
 VU#27,0.33333333,https://github.com/michealkeines/Exploit-Development,michealkeines/Exploit-Development,390336810
 VU#27,0.33333333,https://github.com/mvondracek/VR-MitR-C2-Bigscreen,mvondracek/VR-MitR-C2-Bigscreen,145730787
+VU#27,0.25000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#27,0.25000000,https://github.com/evidg/Web-Programming-and-Systems,evidg/Web-Programming-and-Systems,692706284
 VU#27,0.25000000,https://github.com/xansec/end-to-end-exploitation,xansec/end-to-end-exploitation,689113520
 VU#27,0.25000000,https://github.com/MarkTheRobloxGuy/ExSer,MarkTheRobloxGuy/ExSer,671963406
@@ -43,7 +44,6 @@ VU#27,0.11111111,https://github.com/edvinf/RCEF_tests,edvinf/RCEF_tests,77514154
 VU#27,0.11111111,https://github.com/SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,SZU-AdvTech-2023/133-Exploiting-Shared-Representations-for-Personalized-Federated-Learning,742323755
 VU#27,0.11111111,https://github.com/Moulik07/Penetration-Testing---Exploring-and-Exploiting-Vulnerabilities,Moulik07/Penetration-Testing---Exploring-and-Exploiting-Vulnerabilities,672273746
 VU#27,0.11111111,https://github.com/r888800009/CTF-Solve,r888800009/CTF-Solve,195817587
-VU#27,0.10000000,https://github.com/Venom-devX/Exploits,Venom-devX/Exploits,921655375
 VU#27,0.10000000,https://github.com/DuncanParSky/Unblocking.Icu,DuncanParSky/Unblocking.Icu,888183960
 VU#27,0.10000000,https://github.com/wvu/metasploit-ctf-challenges,wvu/metasploit-ctf-challenges,181991992
 VU#27,0.09090909,https://github.com/jl33-ai/hacks4nets,jl33-ai/hacks4nets,745662775
@@ -281,6 +281,7 @@ VU#27,0.01298701,https://github.com/6cyril/ctf-writeups,6cyril/ctf-writeups,4303
 VU#27,0.01282051,https://github.com/eqcorrscan/RCET_RTEQcorrscan,eqcorrscan/RCET_RTEQcorrscan,533103523
 VU#27,0.01265823,https://github.com/yazan225/exploit.exe,yazan225/exploit.exe,699752183
 VU#27,0.01265823,https://github.com/hq-zhonger/GoExploits,hq-zhonger/GoExploits,660238964
+VU#27,0.01250000,https://github.com/akifurrahman2001/zeroday-brand,akifurrahman2001/zeroday-brand,956335386
 VU#27,0.01234568,https://github.com/dyutidewanjee/Exploitory-Data-Analysis,dyutidewanjee/Exploitory-Data-Analysis,806569495
 VU#27,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,601112204
 VU#27,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
@@ -526,7 +527,7 @@ VU#27,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#27,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#27,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#27,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#27,0.00060976,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#27,0.00060790,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#27,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#27,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#27,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
