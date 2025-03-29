@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+956973016,dante01yoon/CVE-2025-29927,apps/fixed-app/src/middleware.ts,0e82f3b963a4800be35968af0bb16636776bf09f,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,apps/vulnerable-app/src/app/page.tsx,213db43151361b62e2cca908925a9a82b849cd5c,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,pnpm-lock.yaml,27ee79b7c5a16afee521a46beb4b6dad228554be,VU#18
+956973016,dante01yoon/CVE-2025-29927,pnpm-lock.yaml,27ee79b7c5a16afee521a46beb4b6dad228554be,VU#548
+956973016,dante01yoon/CVE-2025-29927,pnpm-lock.yaml,27ee79b7c5a16afee521a46beb4b6dad228554be,VU#85
+956973016,dante01yoon/CVE-2025-29927,pnpm-lock.yaml,27ee79b7c5a16afee521a46beb4b6dad228554be,VU#879
+956973016,dante01yoon/CVE-2025-29927,apps/fixed-app/src/app/layout.tsx,6197752d9e65ea93e98433ae2ce9eb33b65e63a3,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,apps/fixed-app/src/app/page.tsx,8053b409b35de5a4cd80d3dd5b3e1f79324f9b5b,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,README.md,9d57dbeb3aaa3bc646b775dbdee3c3e12f159190,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,apps/vulnerable-app/src/app/layout.tsx,e0280942d708aac33c0c5fa81cf38cd481ec4b9a,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,apps/vulnerable-app/src/middleware.ts,e551f061da3796950675ee6eb781ff99a2177014,CVE-2025-29927
+956973016,dante01yoon/CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
