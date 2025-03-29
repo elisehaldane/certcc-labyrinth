@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+957039521,andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe,README.md,4c2636440939cc7e313157130f6ffedd8894aae5,CVE-2018-16763
+957039521,andreidiaconescu18/FuelCMS-1.4.1-RCE-for-TryHackMe,exploit.py,5105a5c18c048a770af3973d14ed27638fea2bd9,CVE-2018-16763
