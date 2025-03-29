@@ -325,7 +325,6 @@ VU#70,0.00917431,https://github.com/MichPrencipe/Time-Series-Forecasting,MichPre
 VU#70,0.00900901,https://github.com/sambacha/metamask-exploit,sambacha/metamask-exploit,474791434
 VU#70,0.00892857,https://github.com/federicominniti/MetaverseBusinessConcernsNLP,federicominniti/MetaverseBusinessConcernsNLP,504799345
 VU#70,0.00884956,https://github.com/BIIG-UC3M/pMoSS,BIIG-UC3M/pMoSS,228442839
-VU#70,0.00847458,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#70,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#70,0.00847458,https://github.com/sitiporn/Few-shot-user-intent-detection,sitiporn/Few-shot-user-intent-detection,479233050
 VU#70,0.00847458,https://github.com/drb-ra/C2IntelFeeds,drb-ra/C2IntelFeeds,189243571
@@ -341,6 +340,7 @@ VU#70,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/gra
 VU#70,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#70,0.00775194,https://github.com/amatthews20/RCE_project,amatthews20/RCE_project,924801615
 VU#70,0.00775194,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#70,0.00769231,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#70,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#70,0.00763359,https://github.com/GNanni2001/IPCV-Projects,GNanni2001/IPCV-Projects,920691152
 VU#70,0.00763359,https://github.com/Threekiii/Awesome-Exploit,Threekiii/Awesome-Exploit,484265150
@@ -487,7 +487,7 @@ VU#70,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#70,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#70,0.00082372,https://github.com/anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,anhkiet1227/NT521_Secure-Programming-And-Exploiting-Vulnerabilities_Excercise,572639905
 VU#70,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#70,0.00060790,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#70,0.00060423,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#70,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#70,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#70,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343

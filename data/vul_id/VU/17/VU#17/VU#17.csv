@@ -348,7 +348,6 @@ VU#17,0.00877193,https://github.com/leo-cavalcante/OCR_Table_Scan,leo-cavalcante
 VU#17,0.00877193,https://github.com/cdayao93/Rickrollworm.py,cdayao93/Rickrollworm.py,756979014
 VU#17,0.00869565,https://github.com/kairosart/Reset,kairosart/Reset,839489573
 VU#17,0.00862069,https://github.com/djagpal02/EIDT-V,djagpal02/EIDT-V,895121892
-VU#17,0.00847458,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#17,0.00847458,https://github.com/ESMEAirPollutionPrediction/EmissionsData,ESMEAirPollutionPrediction/EmissionsData,710800400
 VU#17,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482498346
 VU#17,0.00847458,https://github.com/a2148001284/Exploit,a2148001284/Exploit,482494053
@@ -365,6 +364,7 @@ VU#17,0.00787402,https://github.com/pierrecavalier/graph_fink,pierrecavalier/gra
 VU#17,0.00781250,https://github.com/xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,xecHFN9cyQg9yAExCM5gP5Pj7pSG8YF/qrsPDM40e1kRceF4,497315206
 VU#17,0.00775194,https://github.com/amatthews20/RCE_project,amatthews20/RCE_project,924801615
 VU#17,0.00775194,https://github.com/richteague/gofish,richteague/gofish,199306909
+VU#17,0.00769231,https://github.com/mbeneck/rcew-nitrate,mbeneck/rcew-nitrate,841698764
 VU#17,0.00769231,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU/Web3Bugs,600295047
 VU#17,0.00769231,https://github.com/nettitude/PoshC2,nettitude/PoshC2,141987967
 VU#17,0.00763359,https://github.com/GNanni2001/IPCV-Projects,GNanni2001/IPCV-Projects,920691152
@@ -520,7 +520,7 @@ VU#17,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#17,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#17,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#17,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#17,0.00028019,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#17,0.00027988,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#17,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#17,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#17,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
