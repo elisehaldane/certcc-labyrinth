@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+957030914,MilesTails01/nextjs-middleware-exploit,pages/index.tsx,27e90710cec9eb039b8be6f022be5ccc5b02db20,CVE-2025-29927
+957030914,MilesTails01/nextjs-middleware-exploit,README.md,58dca9fd011f29bce96bd7caef76878c28f200f9,CVE-2025-29927
