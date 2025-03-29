@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+909992855,luongchivi/CVE-2021-41773,docker-compose.yml,23c19c2eed735eaa2d443fa29864fd81e64af01a,CVE-2021-41773
+909992855,luongchivi/CVE-2021-41773,README.md,db9c4c4ad47e90ffd0fe572a84a168376e7a4b48,CVE-2021-41773
+909992855,luongchivi/CVE-2021-41773,_GITHUB_REPO_METADATA_,,CVE-2021-41773
