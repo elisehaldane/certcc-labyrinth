@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-GXV6-XQ9Q-37HG,0.00086207,https://github.com/arkede/cve-2020,arkede/cve-2020,956982168
 GHSA-GXV6-XQ9Q-37HG,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-GXV6-XQ9Q-37HG,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-GXV6-XQ9Q-37HG,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -8,7 +9,7 @@ GHSA-GXV6-XQ9Q-37HG,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/r
 GHSA-GXV6-XQ9Q-37HG,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-GXV6-XQ9Q-37HG,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-GXV6-XQ9Q-37HG,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-GHSA-GXV6-XQ9Q-37HG,0.00003574,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-GXV6-XQ9Q-37HG,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-GXV6-XQ9Q-37HG,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-GXV6-XQ9Q-37HG,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-GXV6-XQ9Q-37HG,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

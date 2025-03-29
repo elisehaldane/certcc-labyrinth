@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-104532,0.33333333,https://github.com/reddevil-j/metasploit_modules,reddevil-j/metasploit_modules,145339203
+BID-104532,0.00178891,https://github.com/arkede/cve-2018,arkede/cve-2018,956982100
 BID-104532,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-104532,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 BID-104532,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -102,7 +103,7 @@ BID-104532,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25
 BID-104532,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 BID-104532,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-104532,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
-BID-104532,0.00003574,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+BID-104532,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-104532,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 BID-104532,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 BID-104532,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796

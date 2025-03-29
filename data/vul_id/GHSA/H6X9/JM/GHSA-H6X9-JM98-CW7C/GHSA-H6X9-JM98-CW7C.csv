@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-H6X9-JM98-CW7C,0.00069444,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+GHSA-H6X9-JM98-CW7C,0.00069348,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 GHSA-H6X9-JM98-CW7C,0.00000721,https://github.com/trickest/cve,trickest/cve,454015416

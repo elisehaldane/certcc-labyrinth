@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2023-03903,0.00390625,https://github.com/gobysec/GobyVuls,gobysec/GobyVuls,252611538
 CNVD-2023-03903,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 CNVD-2023-03903,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-CNVD-2023-03903,0.00003574,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2023-03903,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

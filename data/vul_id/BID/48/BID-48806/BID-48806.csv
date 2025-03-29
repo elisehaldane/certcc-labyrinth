@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+BID-48806,0.00757576,https://github.com/arkede/cve-2011,arkede/cve-2011,956981942
 BID-48806,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 BID-48806,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 BID-48806,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -33,7 +34,7 @@ BID-48806,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/
 BID-48806,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 BID-48806,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
 BID-48806,0.00004103,https://github.com/BaRRaKudaRain/ExploitDB,BaRRaKudaRain/ExploitDB,251006702
-BID-48806,0.00003574,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+BID-48806,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 BID-48806,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 BID-48806,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 BID-48806,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
