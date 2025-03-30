@@ -1,6 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#3335,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
-VU#3335,0.01639344,https://github.com/zhatz111/Stupid-Metrics,zhatz111/Stupid-Metrics,946374783
 VU#3335,0.00833333,https://github.com/NicolaLepore4/Malware-Detection-based-on-CICAndAdGMal2017-dataset,NicolaLepore4/Malware-Detection-based-on-CICAndAdGMal2017-dataset,911141655
 VU#3335,0.00689655,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_1,828658576
 VU#3335,0.00280899,https://github.com/Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,Pargo18/Applying-Deep-Learning-vs-Machine-Learning-models-to-reproduce-dry-spell-sequences,439721159
