@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#295,0.11111111,https://github.com/7rebux/league-tools,7rebux/league-tools,307498322
+VU#295,0.02564103,https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840,demining/Bluetooth-Attacks-CVE-2025-27840,957540534
 VU#295,0.01694915,https://github.com/sruthishiva/CyberSecurityAnalysis,sruthishiva/CyberSecurityAnalysis,423503448
 VU#295,0.01470588,https://github.com/xzy-git/sovits_train_rcell,xzy-git/sovits_train_rcell,544486298
 VU#295,0.01265823,https://github.com/yazan225/exploit.exe,yazan225/exploit.exe,699752183

@@ -46,7 +46,6 @@ VU#85,0.25000000,https://github.com/crowdbotics-dev/tst-tc2149-cvefmpnf-28650,cr
 VU#85,0.25000000,https://github.com/parmoo/parmoo,parmoo/parmoo,449011189
 VU#85,0.25000000,https://github.com/guykrinsky/EX-E-PERT,guykrinsky/EX-E-PERT,427952437
 VU#85,0.25000000,https://github.com/dbudwin/react-secure-link,dbudwin/react-secure-link,323644538
-VU#85,0.20000000,https://github.com/dante01yoon/CVE-2025-29927,dante01yoon/CVE-2025-29927,956973016
 VU#85,0.20000000,https://github.com/DL-Devang/defiCasino,DL-Devang/defiCasino,937605698
 VU#85,0.20000000,https://github.com/chromebook-hacking/chromebook-hacking.github.io,chromebook-hacking/chromebook-hacking.github.io,893209114
 VU#85,0.20000000,https://github.com/Astryns1/Roblox-Python-Exploit,Astryns1/Roblox-Python-Exploit,868365029
@@ -63,6 +62,7 @@ VU#85,0.20000000,https://github.com/APTIRAN/CVE-2022-21661,APTIRAN/CVE-2022-2166
 VU#85,0.20000000,https://github.com/Checkmarx/capital,Checkmarx/capital,528331671
 VU#85,0.20000000,https://github.com/Precioussoul/abs-drive,Precioussoul/abs-drive,506190427
 VU#85,0.20000000,https://github.com/Precioussoul/HBS-DRIVE,Precioussoul/HBS-DRIVE,488289241
+VU#85,0.16666667,https://github.com/dante01yoon/CVE-2025-29927,dante01yoon/CVE-2025-29927,956973016
 VU#85,0.16666667,https://github.com/crowdbotics-dev/tst-tc489-rcetolss-130561,crowdbotics-dev/tst-tc489-rcetolss-130561,722124596
 VU#85,0.16666667,https://github.com/mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,mustafa-droid18/Solving-the-0-1-Knapsack-Problem-Using-the-LAB-Algorithm,708648893
 VU#85,0.16666667,https://github.com/iamvincenzo/UltraleapPoolGameDemo,iamvincenzo/UltraleapPoolGameDemo,613393534
@@ -81,7 +81,6 @@ VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits-Web,FerencSt
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploit,FerencStarterDev/Storm-Exploit,550808641
 VU#85,0.12500000,https://github.com/FerencStarterDev/Storm-Exploits,FerencStarterDev/Storm-Exploits,550806795
 VU#85,0.12500000,https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,DamnVulnerableCryptoApp/DamnVulnerableCryptoApp,259394786
-VU#85,0.11111111,https://github.com/dnny-13/kuroneko,dnny-13/kuroneko,926697603
 VU#85,0.11111111,https://github.com/MttMrc/exploitfairtest,MttMrc/exploitfairtest,899717012
 VU#85,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit-Development,whoami-chmod777/Buffer-Overflow-Exploit-Development,734487808
 VU#85,0.11111111,https://github.com/whoami-chmod777/Buffer-Overflow-Exploit,whoami-chmod777/Buffer-Overflow-Exploit,720209650
@@ -100,6 +99,7 @@ VU#85,0.10000000,https://github.com/Guezone/SECMON,Guezone/SECMON,360139511
 VU#85,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
 VU#85,0.09090909,https://github.com/guy-with-a-cool-terminal/PayloadGenerator,guy-with-a-cool-terminal/PayloadGenerator,956392946
 VU#85,0.09090909,https://github.com/teckglobal/teckglobal-brute-force-protect,teckglobal/teckglobal-brute-force-protect,949264891
+VU#85,0.09090909,https://github.com/dnny-13/kuroneko,dnny-13/kuroneko,926697603
 VU#85,0.09090909,https://github.com/clockticksfast/Roblox-Cleaner,clockticksfast/Roblox-Cleaner,846737853
 VU#85,0.09090909,https://github.com/roschnor/poc-master,roschnor/poc-master,805320426
 VU#85,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio_projects,714055040
@@ -280,6 +280,7 @@ VU#85,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
 VU#85,0.01562500,https://github.com/jbhicks/hacking-art-of-exploitation-2,jbhicks/hacking-art-of-exploitation-2,557987656
 VU#85,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#85,0.01538462,https://github.com/Jeanpseven/RBXExploits,Jeanpseven/RBXExploits,671170903
+VU#85,0.01515152,https://github.com/RohmanZauhari/Quantitative-Arbitrage,RohmanZauhari/Quantitative-Arbitrage,957455860
 VU#85,0.01515152,https://github.com/utkuatasoy/Quantitative-Arbitrage,utkuatasoy/Quantitative-Arbitrage,955552152
 VU#85,0.01515152,https://github.com/gigimoose23/scratchExploit,gigimoose23/scratchExploit,893229748
 VU#85,0.01470588,https://github.com/Morurifaith/Quant-Model-1---Pairs-Trading,Morurifaith/Quant-Model-1---Pairs-Trading,843204627
@@ -359,6 +360,7 @@ VU#85,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#85,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#85,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#85,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#85,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#85,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#85,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
 VU#85,0.00990099,https://github.com/LeakKids/FiveM-External-Cheat-KeyAuth-System,LeakKids/FiveM-External-Cheat-KeyAuth-System,916665205
@@ -607,7 +609,7 @@ VU#85,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploi
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#85,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
-VU#85,0.00000721,https://github.com/trickest/cve,trickest/cve,454015416
+VU#85,0.00000720,https://github.com/trickest/cve,trickest/cve,454015416
 VU#85,0.00000394,https://github.com/omok314159/CVE_Stat_2024,omok314159/CVE_Stat_2024,937828154
 VU#85,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#85,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
