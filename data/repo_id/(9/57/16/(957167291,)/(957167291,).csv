@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+957167291,cesarbtakeda/Windows-Explorer-CVE-2025-24071,README.md,edfabc2ee47196cdd036fbca1f8edd0fea33d776,CVE-2025-24071
+957167291,cesarbtakeda/Windows-Explorer-CVE-2025-24071,loader.py,fc1ae8579142bb428e70661692af2c354da26b09,CVE-2025-24071
+957167291,cesarbtakeda/Windows-Explorer-CVE-2025-24071,_GITHUB_REPO_METADATA_,,CVE-2025-24071
