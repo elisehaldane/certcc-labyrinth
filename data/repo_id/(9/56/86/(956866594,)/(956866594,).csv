@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-956866594,zlac261/cve-dash,main.py,21146b6b9a6d07beba4b8ffe2df8d1e1c0929e6d,CVE-2021-44228
-956866594,zlac261/cve-dash,README.md,4d47b52f48df0ae1eb8987360d8be7f1f832ff64,CVE-2021-44228
+956866594,zlac261/cve-dash,README.md,377e473a39e6caa743b02d2e9fd29db40a60a7db,CVE-2021-44228
+956866594,zlac261/cve-dash,main.py,ef2fd7125c64123a5a3d52b2ea24c1f20d0ebe7e,CVE-2021-44228
