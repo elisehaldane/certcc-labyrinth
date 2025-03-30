@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-939898094,tastyrce/exploits,test_module.rb,171423d5bb1cee7e20c6b04ae2bf0d69c18b2f10,CVE-2023-36969
+939898094,tastyrce/exploits,cmsms_file_manager_auth_rce.rb,7012ed9d33204ed9df81cef116bdf1e0a0baf989,CVE-2023-36969
