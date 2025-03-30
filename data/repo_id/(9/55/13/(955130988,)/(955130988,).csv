@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-955130988,Esonhugh/nginxnightmare,main.go,02b4275d21f039cc631c26393301df1e115b42a8,CVE-2025-1974
-955130988,Esonhugh/nginxnightmare,README.md,b66d90f23e1dc1645ee78852d4cc5deb05123186,CVE-2025-1907
-955130988,Esonhugh/nginxnightmare,_GITHUB_REPO_METADATA_,,CVE-2025-1974
+955130988,Esonhugh/ingressNightmare-CVE-2025-1974-exps,main.go,a0e086fca10a6379d08d09a3ad19e80eae00610b,CVE-2025-1974
+955130988,Esonhugh/ingressNightmare-CVE-2025-1974-exps,README.md,b66d90f23e1dc1645ee78852d4cc5deb05123186,CVE-2025-1907
+955130988,Esonhugh/ingressNightmare-CVE-2025-1974-exps,_GITHUB_REPO_METADATA_,,CVE-2025-1974
