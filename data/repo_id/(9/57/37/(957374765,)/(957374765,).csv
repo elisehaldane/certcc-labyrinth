@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+957374765,cyberdesu/Elastix-2.2.0-CVE-2012-4869,exploit.py,3e0ec2a147f695d2acf72538a1dc9902a64eb440,CVE-2012-4869
+957374765,cyberdesu/Elastix-2.2.0-CVE-2012-4869,README.md,c661ce48cb2d3a0d5d730f7ed1a8552bf9271dac,CVE-2012-4869
+957374765,cyberdesu/Elastix-2.2.0-CVE-2012-4869,_GITHUB_REPO_METADATA_,,CVE-2012-4869
