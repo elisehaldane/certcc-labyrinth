@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+957455122,JMousqueton/epss-cve-lookup,cve2epss.html,b5b86c73535ea9f79125aede51623c1375295a6a,CVE-2022-27225
+957455122,JMousqueton/epss-cve-lookup,README.md,b626fc93680375d649231d56dd63f216fc4bd477,CVE-2022-27225
