@@ -1,7 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,376cf3eab9ff2da7669bbef4467ef17bfb9acf3a,CVE-2022-2880
-915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,376cf3eab9ff2da7669bbef4467ef17bfb9acf3a,VU#15
-915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,376cf3eab9ff2da7669bbef4467ef17bfb9acf3a,VU#61
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,src,51a4473fc356f802862d48e532c0bce473895694,CVE-2022-2880
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,src,51a4473fc356f802862d48e532c0bce473895694,VU#11
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,src,51a4473fc356f802862d48e532c0bce473895694,VU#16
@@ -9,5 +6,9 @@ repo_id,repo_full_name,file,file_sha1,match
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,src,51a4473fc356f802862d48e532c0bce473895694,VU#94
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/go.sum,76edcf53c5b17d69f3fa81ed8c5db32eeeff0ad9,VU#144
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/go.sum,76edcf53c5b17d69f3fa81ed8c5db32eeeff0ad9,VU#61
+915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,9acf129bfa7bf44ccada75441616f626d5469303,CVE-2022-2880
+915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,9acf129bfa7bf44ccada75441616f626d5469303,VU#59
+915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,9acf129bfa7bf44ccada75441616f626d5469303,VU#61
+915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,cli/src/k8s-opa-tool,9acf129bfa7bf44ccada75441616f626d5469303,VU#77
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,k8s-opa-tool,f1ef799c74a4d1de3a7028f966b4aef576252564,CVE-2022-2880
 915221426,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,k8s-opa-tool,f1ef799c74a4d1de3a7028f966b4aef576252564,VU#61
