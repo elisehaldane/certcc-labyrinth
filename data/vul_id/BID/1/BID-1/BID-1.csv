@@ -165,7 +165,7 @@ BID-1,0.00177305,https://github.com/bcebere/exploit_detection,bcebere/exploit_de
 BID-1,0.00163934,https://github.com/NZeauu/PyRat,NZeauu/PyRat,851739238
 BID-1,0.00163934,https://github.com/10T4/krakensploit,10T4/krakensploit,780853598
 BID-1,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-BID-1,0.00060241,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+BID-1,0.00059880,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 BID-1,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 BID-1,0.00024062,https://github.com/ishell/Exploits-Archives,ishell/Exploits-Archives,18521173
 BID-1,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -220,9 +220,10 @@ BID-1,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain
 BID-1,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 BID-1,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 BID-1,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
-BID-1,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 BID-1,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 BID-1,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
+BID-1,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+BID-1,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 BID-1,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 BID-1,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 BID-1,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
