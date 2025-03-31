@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-2VVR-VMVX-73CH,0.14285714,https://github.com/nbshenxm/pentest-agent,nbshenxm/pentest-agent,929667587
-GHSA-2VVR-VMVX-73CH,0.00171527,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-2VVR-VMVX-73CH,0.00168634,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GHSA-2VVR-VMVX-73CH,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-2VVR-VMVX-73CH,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

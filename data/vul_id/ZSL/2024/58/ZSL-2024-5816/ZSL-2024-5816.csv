@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2024-5816,0.00090909,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2024-5816,0.00090580,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2024-5816,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 ZSL-2024-5816,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 ZSL-2024-5816,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722

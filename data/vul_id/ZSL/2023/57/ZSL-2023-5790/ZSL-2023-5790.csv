@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZSL-2023-5790,0.00090909,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
+ZSL-2023-5790,0.00090580,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2023-5790,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 ZSL-2023-5790,0.00010774,https://github.com/arkede/cve-2024,arkede/cve-2024,956982362
 ZSL-2023-5790,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
