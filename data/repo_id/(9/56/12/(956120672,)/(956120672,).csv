@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+956120672,Dleifnesor/AI_MAL,core/metasploit_manager.py,255297d152bca974148b9d12ff982dc0046d6436,MS17-010
+956120672,Dleifnesor/AI_MAL,core/vulnerability_scanner.py,6394e9bb0485ca9c896b7be82dd57d8053886b1b,CVE-2014-0160
+956120672,Dleifnesor/AI_MAL,core/service_analyzer.py,d1668ade3a81e6b2220654e2be190c12b0a66a8c,CVE-2021-41773
+956120672,Dleifnesor/AI_MAL,tests/test_mocks.py,fa59d02054784a41d79ee1d21e0ce57bc9474989,CVE-2012-0001
+956120672,Dleifnesor/AI_MAL,tests/test_mocks.py,fa59d02054784a41d79ee1d21e0ce57bc9474989,CVE-2014-6271
