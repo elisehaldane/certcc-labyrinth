@@ -1,0 +1,583 @@
+repo_id,repo_full_name,file,file_sha1,match
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#09
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#70
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#69
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#87
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#13
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#7869
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/arc_gnu_2017.09_prebuilt_uclibc_le_arc700_linux_install.tar.gz,0019f88b0e01bb6397320550639c522bc002c3a0,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#40
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#56
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#85
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#61
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#65
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-armv5l.tar.bz2,0061141ff4530eb3f6602755f112d68d897063ae,VU#00
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/Plasma Rat 1.7.zip,016de60bde4517edfa4aa78f00989342ba90d0ce,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/Plasma Rat 1.7.zip,016de60bde4517edfa4aa78f00989342ba90d0ce,VU#66
+958422023,illusionsec/DDOS-archive,MiraiLovers/EXPLOITS/CVE-2022-47966.py,0496bca822973f42f4b9b1be6f665a5437b8bd22,CVE-2022-47966
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Succubus.rar,05aa043ef815b8cbe75a845e6f81d8b5fdaaa74a,VU#64
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/Crypter Arabyou 1v3 (SRC).rar,05e53e794402655381b3362f0b916c6efc3e381f,VU#89
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/Crypter Arabyou 1v3 (SRC).rar,05e53e794402655381b3362f0b916c6efc3e381f,VU#44
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/AMP Methods/Port 33848 - Jenkins Hudson/README.md,069d8f1851c1fd58591f9e506a8d77e92f8ab6df,CVE-2020-2100
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/QBOT SOURCE/Reaper_v2_CnC_1.rar,093367add44ba6a1e20c9288b15a07278e6f4151,VU#64
+958422023,illusionsec/DDOS-archive,illusionsec/BotnetDumpByJosh.rar,0a8cd0a820450210791dc1f0f754a3412a8574c4,VU#86
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/DSTAT GRAPH FILES/Layer 4 graph.zip,0c5fcf3cbf9ea2138e631d8c57d94c6f91fcf9b7,VU#93
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/DSTAT GRAPH FILES/Layer 4 graph.zip,0c5fcf3cbf9ea2138e631d8c57d94c6f91fcf9b7,VU#07
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Kira.zip,0c82c1873bead15e70a27dea82719aa1d29fb4bd,VU#98
+958422023,illusionsec/DDOS-archive,leaks/project zopz.rar,0e8bc6c5b9edf249cbcab3d2a8e98346a7391786,VU#23
+958422023,illusionsec/DDOS-archive,leaks/project zopz.rar,0e8bc6c5b9edf249cbcab3d2a8e98346a7391786,VU#07
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/StressHub - Source + SQL.rar,0ede7849bc9c885b68991d67a44c95b13542efed,VU#39
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/StressHub - Source + SQL.rar,0ede7849bc9c885b68991d67a44c95b13542efed,VU#28
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/StressHub - Source + SQL.rar,0ede7849bc9c885b68991d67a44c95b13542efed,VU#37
+958422023,illusionsec/DDOS-archive,leaks/0day.rar,0f9844a387e83787d3161976467892921f8477b1,VU#46
+958422023,illusionsec/DDOS-archive,leaks/0day.rar,0f9844a387e83787d3161976467892921f8477b1,VU#22
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/jstwovv.zip,0fad80124806dfa39630c172c588bbcc4dd4f638,VU#16
+958422023,illusionsec/DDOS-archive,leaks/Project ZOPZZ.rar,10add649126ef715801712d5f2684a3c414ed842,VU#70
+958422023,illusionsec/DDOS-archive,leaks/Project ZOPZZ.rar,10add649126ef715801712d5f2684a3c414ed842,VU#53
+958422023,illusionsec/DDOS-archive,leaks/Project ZOPZZ.rar,10add649126ef715801712d5f2684a3c414ed842,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Omega Source v1.0 s.zip,10e338ca364d9c40651ed9f5e8bf9b072a002bcf,VU#03
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Omega Source v1.0 s.zip,10e338ca364d9c40651ed9f5e8bf9b072a002bcf,VU#55
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Omega Source v1.0 s.zip,10e338ca364d9c40651ed9f5e8bf9b072a002bcf,VU#50
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/sedona_stresser.zip,11d5436e13c524bb17beda530042b46436acc910,VU#47
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/njRAT M.A.H version.rar,1338b0487fa7280252050dc241346a7d54120f6f,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/njRAT M.A.H version.rar,1338b0487fa7280252050dc241346a7d54120f6f,VU#44
+958422023,illusionsec/DDOS-archive,illusionsec/Faith.rar,13c696252e92b237ba972911681588d4230062bf,VU#18
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/MIRAI SOURCE/Gemini.rar,145b019867c2f944be1a2eac684ee997f5a93f00,VU#66
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/ZeuS Botnet 2.0.8.9.rar,187586c5bbba7f003c76e775112e3552766c3629,VU#73
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/ZeuS Botnet 2.0.8.9.rar,187586c5bbba7f003c76e775112e3552766c3629,VU#74
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/Sentry MBA 1.4.1.rar,1905370604d4a2e54e84048ed61d6db51fa3a2a3,VU#762
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/Sentry MBA 1.4.1.rar,1905370604d4a2e54e84048ed61d6db51fa3a2a3,VU#38
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/Sentry MBA 1.4.1.rar,1905370604d4a2e54e84048ed61d6db51fa3a2a3,VU#01
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Panel.zip,1a1d3d991fdbaf417faed91a3a0fddc85ea8e29f,VU#61
+958422023,illusionsec/DDOS-archive,leaks-main/oznv8/cnrig,1c1b1a4608918b6e95065c86b4a338e245ab36b2,VU#91
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/cve-2022-30525.py,1c3c1f936f24e92ca4656a3082ba6054e62a7dc1,CVE-2022-30525
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#50
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#83
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#433
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#84
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#34
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#15
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#95
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#72
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#29
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#13
+958422023,illusionsec/DDOS-archive,leaks/Rain- no auth.rar,1d769771b83be13bd274efbe6625e1bf961b06d8,VU#75
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/FULL SPLOITS PACK/Exploits.rar,1f7fac440ddde87252a6ced642238eecffd2a3bc,CVE-2017-5638
+958422023,illusionsec/DDOS-archive,illusionsec/Cosmic-Mirai-main.zip,202ab2942f6bc3d76b7a135bb5b910f724a11744,VU#98
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/DarkComet5.3.1.rar,211339b983ee8152d36a6a1edbedf876937c44ed,VU#553
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/Spynote4.rar,223b527c9ada6a85a4582b931c384a0ba1b285e7,VU#38
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/BadBooter.pw.zip,231ee85689e12d33b0fa3c0ff298e1ff0014be80,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/BadBooter.pw.zip,231ee85689e12d33b0fa3c0ff298e1ff0014be80,VU#94
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/[BANKING BOTNET] KINS 2.0.0.0 ( Panel + Builder ).rar,23d5bff338b8d5b47b70dfb66c0b40927e56b48c,VU#70
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#02
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#91
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#05
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#65
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#95
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#68
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#96
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#16
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#328
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#311
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#72
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#23
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#561
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#14
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#711
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#381
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#75
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#77
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#52
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#61
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#78
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#81
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#38
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#74
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#83
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#07
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#89
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#13
+958422023,illusionsec/DDOS-archive,leaks-main/simps/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#73
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#64
+958422023,illusionsec/DDOS-archive,leaks-main/simps/tools/index.html,242d131276bed96759104f6dd18024655ea6da58,VU#389
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#26
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#334
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/TrueStresser-Security.rar,25096a61fd10efa66ae80665e16eef3a9445f7f2,VU#599
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Infectednight.zip,27f2e16d8b408f2bdd2f627b54331a60802d189f,VU#98
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Firesale Botnet v.3.0 (SRC).rar,28ab66d956b6c825670fd98fb338ffe10497912d,VU#74
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/MIRAI SOURCE/STORM2.zip,2955908b471681960f12ccc798d2e162da3b8af6,VU#98
+958422023,illusionsec/DDOS-archive,leaks/cc fraud.rar,2af8bb54c24145f62c84748f0001d64905784af9,VU#99
+958422023,illusionsec/DDOS-archive,leaks/Loading PanelV4.1.rar,30b9e64a5b08c802e08812b6e046b3f210d25e21,VU#68
+958422023,illusionsec/DDOS-archive,leaks/Loading PanelV4.1.rar,30b9e64a5b08c802e08812b6e046b3f210d25e21,VU#70
+958422023,illusionsec/DDOS-archive,leaks/Loading PanelV4.1.rar,30b9e64a5b08c802e08812b6e046b3f210d25e21,VU#42
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/VPN CHECKER/VyprVPN Checker.rar,313f9dce85ea8842a5651bf9a2335034b2472da8,VU#02
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,CVE-2017-5638
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,VU#76
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,VU#37
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,VU#66
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,VU#97
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,CVE-2022-44877
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,CVE-2022-47966
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,CVE-2022-30525
+958422023,illusionsec/DDOS-archive,leaks/Exploits (2).rar,37759aa19ce1b1fe22ed20d20e51624a0e554070,VU#18
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#28
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#58
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#65
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#73
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#30
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-mips.tar.bz2,38d3954573713e4f8535e9fdd3b143b3ae3323fd,VU#61
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/HoHo (1).rar,3b05e49ef873b6b248a147c778ff5b8c283cd5d4,VU#30
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/FruitStresser - Source + SQL.rar,3c3fdb4930db071d11988991d352ce3b057b0f1b,VU#91
+958422023,illusionsec/DDOS-archive,illusionsec/Marai.rar,3c73c3af746cb4845a01eb5927b4605d9b84b8d5,VU#30
+958422023,illusionsec/DDOS-archive,illusionsec/Marai.rar,3c73c3af746cb4845a01eb5927b4605d9b84b8d5,VU#98
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/browser.zip,3de3a611dd4f19bb7e6980198bb5d213df69787e,VU#78
+958422023,illusionsec/DDOS-archive,leaks/Lucifer-Source.rar,3deb04bbc061776fd2908fbd44b08171217f046c,VU#95
+958422023,illusionsec/DDOS-archive,leaks/Lucifer-Source.rar,3deb04bbc061776fd2908fbd44b08171217f046c,VU#55
+958422023,illusionsec/DDOS-archive,leaks/Lucifer-Source.rar,3deb04bbc061776fd2908fbd44b08171217f046c,VU#53
+958422023,illusionsec/DDOS-archive,illusionsec/cve2023.go,3e2a2320cca023822050b841248b79e3e0536070,CVE-2023-48795
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STREAM CHECKER/Crunchyroll Checker.rar,40b709b24ea77f9e3f10141ccfb3b673167b421c,VU#04
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc-440fp.tar.bz2,44eba0d2eec7ffb86c3486f2b87995cb109ef1bb,VU#62
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc-440fp.tar.bz2,44eba0d2eec7ffb86c3486f2b87995cb109ef1bb,VU#32
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc-440fp.tar.bz2,44eba0d2eec7ffb86c3486f2b87995cb109ef1bb,VU#82
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/SLAYERSTRESS.COM LAYER7/HCAPTCHAv7[JS]/stressid,454567ff946a417304edf67f3b9944033ae2769d,VU#18
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/AMP Methods/Port 17185 - vxWorks/README.md,45fdb48c043cdcc0a58ec9a3aa12ab2fa23e387e,VU#362332
+958422023,illusionsec/DDOS-archive,MiraiLovers/EXPLOITS/x86.zip,46dbad8518cba252d922aea5047597907eb20bd9,VU#29
+958422023,illusionsec/DDOS-archive,leaks/komaru_source.zip,4922087dc722a49ad64ea36d4f1e9fc385cf0915,VU#20
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-armv7l.tar.bz2,49ee20d34c8a9448637bcaf545562ecac4a61383,VU#20
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv7l.tar.bz2,49ee20d34c8a9448637bcaf545562ecac4a61383,VU#330
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-armv7l.tar.bz2,49ee20d34c8a9448637bcaf545562ecac4a61383,VU#10
+958422023,illusionsec/DDOS-archive,illusionsec/Bruteforcing-scanning-files-main.zip,4b2d45413fc0d164a6b646059aec820764ef432d,VU#93
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stress.re.rar,4b6b3a96acd85ef57b943b333890c84e250bb12f,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stress.re.rar,4b6b3a96acd85ef57b943b333890c84e250bb12f,VU#78
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-m68k.tar.bz2,4bf96f2fb04eea33b9d34c1649ffc1584c076b39,VU#26
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-m68k.tar.bz2,4bf96f2fb04eea33b9d34c1649ffc1584c076b39,VU#18
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/HTTP/BetatBot1.8.0.11.zip,4c95837ac617d1687901d5dc4ea5c0fbea3417bf,VU#43
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/kflood.7z,4d747e06a4e6c9a77a8f84a94e89f55ae5377fa5,VU#39
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/kflood.7z,4d747e06a4e6c9a77a8f84a94e89f55ae5377fa5,VU#46
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Bassing-L7-Leak-main.zip,4d7a489a97c384aca02bdab86ddc61bd358290b3,VU#25
+958422023,illusionsec/DDOS-archive,illusionsec/mao-stress hack.zip,4d9921e3dcf39ccdc66d491ab1e4f318bc22221a,VU#31
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/PrettyBoot.zip,4da1cad23362692f3f012284b36ce044f6cfdece,VU#068
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#41
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#14
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#01
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#29
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#761
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#47
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/booter.tokyo - Source + SQL.zip,53569124c5ff0bf2b74598a2ddef8ed7dc3e2756,VU#92
+958422023,illusionsec/DDOS-archive,RootSec/C2/Lucifer_2.zip,537c3fc0c54a8bb3dc8e8651c645dae30662fb17,VU#22
+958422023,illusionsec/DDOS-archive,MiraiLovers/c2/Lucifer_2.zip,537c3fc0c54a8bb3dc8e8651c645dae30662fb17,VU#74
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#58
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#36
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,CVE-2018-5400
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,CVE-2020-2100
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#77
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#99
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#28
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#82
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#72
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#298
+958422023,illusionsec/DDOS-archive,leaks/Methods3.zip,53f39c1d2df9733b3794bfaab183b2def6cf3ddf,VU#362332
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CRYPTER.rar,56591114ab91c92afa5f8770536770a7d68cb2a3,VU#58
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CRYPTER.rar,56591114ab91c92afa5f8770536770a7d68cb2a3,VU#15
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CRYPTER.rar,56591114ab91c92afa5f8770536770a7d68cb2a3,VU#88
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CRYPTER.rar,56591114ab91c92afa5f8770536770a7d68cb2a3,VU#03
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CRYPTER.rar,56591114ab91c92afa5f8770536770a7d68cb2a3,VU#47
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#32
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#33
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#45
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#52
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Stresser.ws - Source + SQL.rar,56cc7c651d997458da7518f233985d0cd56f21b9,VU#94
+958422023,illusionsec/DDOS-archive,leaks/QUAKE.rar,580ba7fb11956a8caabf6bbc6eee4520ac3277b7,VU#71
+958422023,illusionsec/DDOS-archive,leaks/Gradient_Tool.rar,588a8f8a5813c2f2ac4c4496f311054299de28d9,VU#33
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#33
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#78
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/Celestial_Source.rar,58911e0f84d1f5bc5cc813b14e9d96b661f2bfc5,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/tornado.js,58a7b59bfd9fdd4ecd91f7ca24e470911d935625,CVE-2023-44487
+958422023,illusionsec/DDOS-archive,leaks/HTTPS,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#49
+958422023,illusionsec/DDOS-archive,leaks/WEB-PROXIE,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#82
+958422023,illusionsec/DDOS-archive,leaks/WEB-PROXIE,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#65
+958422023,illusionsec/DDOS-archive,leaks/HTTPS,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#32
+958422023,illusionsec/DDOS-archive,leaks/HTTPS,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#85
+958422023,illusionsec/DDOS-archive,leaks/WEB-PROXIE,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#396
+958422023,illusionsec/DDOS-archive,leaks/HTTPS,5a27056c3828e2d90fc87fb373857ed8e43bfbb0,VU#33
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#43
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#48
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#87
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#08
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#06
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-x86_64.tar.bz2,5c3bf127c4bc617bdb006de0b74167d0c6535028,VU#52
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/SOURCE Leaked.zip,609d6884b129a684deb43f2c08edfcd25038d8a2,VU#56
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/SOURCE Leaked.zip,609d6884b129a684deb43f2c08edfcd25038d8a2,VU#36
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/NjRat Lime Edition 0.8.0.rar,61386196e4d6ebc3a574a73f17aaf6610f157a49,VU#44
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/NjRat Lime Edition 0.8.0.rar,61386196e4d6ebc3a574a73f17aaf6610f157a49,VU#49
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/NjRat Lime Edition 0.8.0.rar,61386196e4d6ebc3a574a73f17aaf6610f157a49,VU#43
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/WINDOWS RAT TOOLS/NjRat Lime Edition 0.8.0.rar,61386196e4d6ebc3a574a73f17aaf6610f157a49,VU#20
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/NightmareStresser - Source + SQL.zip,63b339cd012dd70194f3494943980b65014560bd,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/NightmareStresser - Source + SQL.zip,63b339cd012dd70194f3494943980b65014560bd,VU#34
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i686.tar.bz2,63e03904e370bf250c0ed578d204167bf8b5cd93,VU#49
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i686.tar.bz2,63e03904e370bf250c0ed578d204167bf8b5cd93,VU#55
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i686.tar.bz2,63e03904e370bf250c0ed578d204167bf8b5cd93,VU#25
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/SLAYERSTRESS.COM LAYER7/HCAPTCHAv12[JS]/stress,63e29d3a04d0c5b5ca83c920a4bf1683b949a844,VU#18
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#52
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#45
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#94
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#32
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/source.rar,64b6189eff41ecff53a0cdd47bbded1996dd904d,VU#33
+958422023,illusionsec/DDOS-archive,leaks/STUFF FROM FANTAZY.zip,650870bdca8adb45248eaa9b80dd9b6cd39b452c,VU#97
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-i486.tar.gz,65dd1ca1b4bfd458f1324051df238b4742fa8528,VU#30
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-i486.tar.gz,65dd1ca1b4bfd458f1324051df238b4742fa8528,VU#55
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/Router Scan v2.60.rar,66017b7c17791ef9dab6c72cf20ce5d8b227bd7e,VU#34
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sparc.tar.bz2,663d2491c7a687ebbc6edacfe50c611deab702fc,VU#99
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sparc.tar.bz2,663d2491c7a687ebbc6edacfe50c611deab702fc,VU#9666
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sparc.tar.bz2,663d2491c7a687ebbc6edacfe50c611deab702fc,VU#31
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sparc.tar.bz2,663d2491c7a687ebbc6edacfe50c611deab702fc,VU#61
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sparc.tar.bz2,663d2491c7a687ebbc6edacfe50c611deab702fc,VU#93
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/AMP Methods/Port 502 - Modbus/README.md,67396472c8116df791df178725994a9af3fd31fc,CVE-2018-5400
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/hamlog.zip,67ed010b1c13199d09e7b0f7f272f0ce16aadec1,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Hito.rar,68deee94780c90ba598eb1ebaab8a63403814766,VU#30
+958422023,illusionsec/DDOS-archive,leaks/customer_botnet1.zip,69dc15ed1d6aa9ea4e5e202be4e746254ea0086c,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Other botnet variants/fbot_satori.rar,6bf6364a7aed257020721f704c4b4f80e2570ae5,VU#23
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/CatAPI-Leaked.rar,6d20d019628f49166b48d7bde1ffd577e467ba46,VU#58
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/CatAPI-Leaked.rar,6d20d019628f49166b48d7bde1ffd577e467ba46,VU#88
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/LimeUSB - Malware USB Spread (SRC).rar,6d54102b29f02810bd75e5369217c1599d964c14,VU#481
+958422023,illusionsec/DDOS-archive,MiraiLovers/other/Tsuki Botnet (Cupid Remake).zip,6dc75a4ff49f2186604af65066dc32c27a4d0b16,VU#88
+958422023,illusionsec/DDOS-archive,MiraiLovers/other/Tsuki Botnet (Cupid Remake).zip,6dc75a4ff49f2186604af65066dc32c27a4d0b16,VU#02
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#93
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#90
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#51
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#26
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#17
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#52
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#63
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#85
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#34
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#95
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#02
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booters_Pack.rar,6fdf9b075cf490f67130e256b147bbe7d219fc6f,VU#76
+958422023,illusionsec/DDOS-archive,leaks/project x.zip,706b198665ed55e04b46ff6ba888848c87551d05,VU#135
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#05
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#67
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#87
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#443
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#00
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Kali-stresser.rar,7070c7f677b41f1c4e1291cf6afd7894cae0128d,VU#07
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-sh4.tar.bz2,70890342859f227bedbac08e1e2285882ebbef38,VU#856
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Gaudox v1.1.0.0.rar,71760dc26d6006de240839807267a393eade924c,VU#16
+958422023,illusionsec/DDOS-archive,RootSec/Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#20
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/NETWORKING/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#40
+958422023,illusionsec/DDOS-archive,RootSec/Networking/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#57
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/NETWORKING/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/NETWORKING/Sniffing/Skypedeob7.zip,725951d67fdb43ef618b1d477ba3d15c42e72207,VU#09
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc.tar.bz2,733917fe1597541720c9954f24c1461a40c365b3,VU#91
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-powerpc.tar.bz2,733917fe1597541720c9954f24c1461a40c365b3,VU#33
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc.tar.bz2,733917fe1597541720c9954f24c1461a40c365b3,VU#57
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-powerpc.tar.bz2,733917fe1597541720c9954f24c1461a40c365b3,VU#02
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#55
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#03
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#66
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#52
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#50
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Booter.rip.zip,743a3fca72f931e6314d7aa8d03467e55b14adc3,VU#45
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/V2_BROW.zip,7521eb903e26c7315169d6fd6b6ad9dfa03b0401,VU#48
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/CK-BROWSER.zip,753f52a81c53f27257f68d1b27d6a9204c71903d,VU#78
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/ZYKLON.RAR,772f53aab9ef11d1946c671426bcd46a07646285,VU#15
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/ZYKLON.RAR,772f53aab9ef11d1946c671426bcd46a07646285,VU#20
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/ZYKLON.RAR,772f53aab9ef11d1946c671426bcd46a07646285,VU#51
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#46
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#60
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#62
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#08
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#43
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#98
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#31
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#28
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#53
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/bytestresser-leaked-main.zip,78084c81e6a27af05f8cfbb1f5222415025ada31,VU#24
+958422023,illusionsec/DDOS-archive,leaks/message_6.txt,78d0634df57d000fee0b467f46477c8d3dd202a8,CVE-2019-11479
+958422023,illusionsec/DDOS-archive,leaks/message_6.txt,78d0634df57d000fee0b467f46477c8d3dd202a8,CVE-2019-11477
+958422023,illusionsec/DDOS-archive,leaks/message_6.txt,78d0634df57d000fee0b467f46477c8d3dd202a8,CVE-2019-11478
+958422023,illusionsec/DDOS-archive,leaks/methods.zip,7cf008969183897f5cab7418a961dc913a588c44,VU#10
+958422023,illusionsec/DDOS-archive,leaks/methods.zip,7cf008969183897f5cab7418a961dc913a588c44,VU#48
+958422023,illusionsec/DDOS-archive,leaks/methods.zip,7cf008969183897f5cab7418a961dc913a588c44,VU#69
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#55
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#66
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#72
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#52
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#45
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VernomStress.to - Source + SQL.zip,7d98ee4449c2ecebbbb16165ab14a3e6d4be189c,VU#37
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Gorynch - DiamondFox Botnet 4.2.302 Cracked.rar,7e55b1889dc29291251a1561f027a7abee7a676a,VU#15
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Gorynch - DiamondFox Botnet 4.2.302 Cracked.rar,7e55b1889dc29291251a1561f027a7abee7a676a,VU#09
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CryptoObfuscator 2020 Cracked.rar,7eda40fa45ffe680d0c3d8c34254325ca62a9772,VU#08
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CryptoObfuscator 2020 Cracked.rar,7eda40fa45ffe680d0c3d8c34254325ca62a9772,VU#20
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CryptoObfuscator 2020 Cracked.rar,7eda40fa45ffe680d0c3d8c34254325ca62a9772,VU#77
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CryptoObfuscator 2020 Cracked.rar,7eda40fa45ffe680d0c3d8c34254325ca62a9772,VU#14
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/CryptoObfuscator 2020 Cracked.rar,7eda40fa45ffe680d0c3d8c34254325ca62a9772,VU#51
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/STRESSER SOURCE/Booter.world source.rar,7fcbb02d68007efb441a218bea9089c1b8768b87,VU#40
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/MIRAI SOURCE/RiftV2.zip,8058f3a4ddfcab93e5fe7281462f666fbc2185bc,VU#98
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Athena.zip,8144a89689d41dfca4bcaa72addee4f5862b6ad7,VU#49
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#32
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#82
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#40
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#91
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#79
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#33
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#75
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#61
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#52
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#80
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#63
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#24
+958422023,illusionsec/DDOS-archive,leaks/RocketAPI.zip,818dba01ee14a550699d75ef7dbdb8fc146a9a06,VU#69
+958422023,illusionsec/DDOS-archive,leaks/Superior-CNC-main.zip,84053446cd0373bec857981898953d516b14426c,VU#47
+958422023,illusionsec/DDOS-archive,leaks/Superior-CNC-main.zip,84053446cd0373bec857981898953d516b14426c,VU#03
+958422023,illusionsec/DDOS-archive,leaks/Bassing Leak.rar,841f3ded7e15907076eb185e23d4b8b15deff680,VU#25
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Instant Stresser V1.zip,846c0537cc769bfecdca390d48f97dc625c61b26,VU#37
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/MIRAI SOURCE/zehir-botnet-mirai.zip,858ec646b3d410c3be826f6ec470c3509bba8ab9,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/HTTP-ROSAMARY.zip,861dce2baea16d31ea7e115ad7bb28d448272076,VU#48
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Other botnet variants/HITECH.rar,86d3df7f6ad19e1cc299d76b1e3ec581dfe7c9b6,VU#30
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.wtf.rar,886a5150d9bf37be767844917e20d093030cffbc,VU#78
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.wtf.rar,886a5150d9bf37be767844917e20d093030cffbc,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#26
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#71
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#92
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Serpico NodeJS collection.zip,891ad3580cf395355708530ca37f4244f4559808,VU#130
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/layer7-browser.zip,8b06bf8be9221c49f5a3755a2f9c4ef23f06cd75,VU#21
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/HTTP Flood GoLang.7z,8b10960b98cbfd3181836946778463f28ba6b69b,VU#85
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/CVE-2022-44877.py,8f2c7997e0b1a48595611cb1fdf9e4ca4fceb8a5,CVE-2022-44877
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/SoldierCards.rar,8f66daa147d28562c37ab17a9568d5507a16455a,VU#97
+958422023,illusionsec/DDOS-archive,leaks/rain v1.0.0.rar,905797acf92f4b9da5340ea85527147187a9ff5c,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/evo-zeus.zip,912a81a53a01ab71d08476fb71360e7cd9af5a21,VU#20
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/evo-zeus.zip,912a81a53a01ab71d08476fb71360e7cd9af5a21,VU#29
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/evo-zeus.zip,912a81a53a01ab71d08476fb71360e7cd9af5a21,VU#57
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/evo-zeus.zip,912a81a53a01ab71d08476fb71360e7cd9af5a21,VU#64
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/evo-zeus.zip,912a81a53a01ab71d08476fb71360e7cd9af5a21,VU#17
+958422023,illusionsec/DDOS-archive,MiraiLovers/c2/Astro C2 Api.rar,944e56d8c8642accfd9b2f4218406f3d06fa9f6d,VU#849
+958422023,illusionsec/DDOS-archive,MiraiLovers/other/Astro C2 Api.rar,944e56d8c8642accfd9b2f4218406f3d06fa9f6d,VU#42
+958422023,illusionsec/DDOS-archive,illusionsec/asiaexp.rar,955dbf9d244c356945bd0d4dade67316b5f0636c,VU#37
+958422023,illusionsec/DDOS-archive,illusionsec/asiaexp.rar,955dbf9d244c356945bd0d4dade67316b5f0636c,VU#97
+958422023,illusionsec/DDOS-archive,leaks/ReNeko_paz_ballz.zip,961d666fdea139e28c7b3673f16700aefab85ebe,VU#67
+958422023,illusionsec/DDOS-archive,leaks/ReNeko_paz_ballz.zip,961d666fdea139e28c7b3673f16700aefab85ebe,VU#45
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/BlackBullet 2.5.0 [Cracked].zip,97a4cdc68f393a177829db75a5289f95adf5b473,VU#69
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/BlackBullet 2.5.0 [Cracked].zip,97a4cdc68f393a177829db75a5289f95adf5b473,VU#54
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/BlackBullet 2.5.0 [Cracked].zip,97a4cdc68f393a177829db75a5289f95adf5b473,VU#99
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/Havij Pro v1.17.rar,990298847568ca17427517b142455888d5e5eeb1,VU#44
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/EXCLUSIVE TOOLS/DELUXE_3.0-Cracked_6_By_B4CKDOOR.jar,9a32848cc1f7505f29a758224d5bd154603c33db,VU#85
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/DISCORD TOOLS/DELUXE_3.0-Cracked_6_by_B4CKDOOR.jar,9a32848cc1f7505f29a758224d5bd154603c33db,VU#83
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/HelloWorldV2.8.zip,9a598ec81951386f0d2e1a822d4152bad7eda841,VU#80
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/HelloWorldV2.8.zip,9a598ec81951386f0d2e1a822d4152bad7eda841,VU#26
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/LiteHTTP.zip,9c2c7544e662c5fe762ad48edf97f2d5fe3fbbce,VU#69
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#76
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#26
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#44
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#72
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#11
+958422023,illusionsec/DDOS-archive,random.zip,9df8aadd0478d70a96b95f730eec4a5ddd4643f8,VU#38
+958422023,illusionsec/DDOS-archive,leaks/condi updated.zip,9fec8456d86dc44d60748e3cd3c4d63d08e3fb0a,VU#98
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#97
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#74
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#84
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#22
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#99
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#03
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Network.RIPV1 - Source + SQL.zip,a12baabe2a0aa4c6c0f2497cd7b9efaa888b2719,VU#96
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/vOlk-Botnet 5.0.2 + (SRC).rar,a3f4ce549806d78f1400b12b5f2abf82e31277aa,VU#58
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/StormStressSource.zip,a4fc9d9bd65e27fcfb9600a7ca122e8dcdbfcf90,VU#53
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#600
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/blade-backdoored.rar,a532f47c50dc93a72e8389cd5e3e77722d960bde,VU#21
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/OTHER CHECKER & CRACK/OpenBullet 1.2.2.8 (Modded Version/OB REBOOT.rar,a6b8dec21481a008307de7e409cd1f7548274f2c,VU#20
+958422023,illusionsec/DDOS-archive,MiraiLovers/EXPLOITS/magicNEW.zip,a72e0f5f7616f14b43d0b685fbd4f8d635e2ef37,VU#76
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#85
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#65
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#82
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,CVE-2021-44532
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#49
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,CVE-2021-44531
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,CVE-2021-23358
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#33
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#396
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#53
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#32
+958422023,illusionsec/DDOS-archive,MiraiLovers/DDOSSCRIPTS/layer7/http-medusa,a8e9f6eaa2615f652409acafa2e1a630517f531c,VU#17
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/STRESSER_SOURCE 6.zip,a99f1d8e7a230350956c539577456d5ff9c07623,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/STRESSER_SOURCE 6.zip,a99f1d8e7a230350956c539577456d5ff9c07623,VU#44
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/STRESSER_SOURCE 6.zip,a99f1d8e7a230350956c539577456d5ff9c07623,VU#88
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/stress.gg.rar,aa6013f4c5f59943758638d1c31aba651bae88b0,VU#85
+958422023,illusionsec/DDOS-archive,leaks/Exploits.rar,abc50673f638493d6b0a2889295b154f14a35dd2,CVE-2017-5638
+958422023,illusionsec/DDOS-archive,leaks/triton-cnc.rar,ad99336dd74d867fcd473d918e3f992e1273b3c7,VU#33
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#85
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#782
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#839
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#02
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#78
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#80
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#18
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#69
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#33
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#45
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#10
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#52
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#40
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#12
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#39
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#43
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#25
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#24
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#38
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#34
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#607
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#67
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#23
+958422023,illusionsec/DDOS-archive,leaks/Kurama.rar,b1ca6a05054510000900f0f400a507bcea75ea64,VU#22
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#24
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#282
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#10
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#03
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#26
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#51
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#93
+958422023,illusionsec/DDOS-archive,MiraiLovers/GO/go1.21.3.linux-amd64.tar.gz,b2ca647f12500b354817bfc7a450599a3c5e6475,VU#36
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#94
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#17
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#41
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#43
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#34
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#33
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#86
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#15
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/STORM2.6.rar,b3339d9f0bd59cba7275738c6ee010425c2b651f,VU#65
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/DISCORD BOT/PRISMA.rar,b56f628074c0879657fe6d51adfb5640078193f8,VU#94
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/DISCORD BOT/PRISMA.rar,b56f628074c0879657fe6d51adfb5640078193f8,VU#16
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/webstresser.rar,b669329452b1e197bc7a9713ac3e1f514635db17,VU#74
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/Simple Crypter.rar,b7ebb374517714ae9d87177c10e5d859f4187c0f,VU#47
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/Simple Crypter.rar,b7ebb374517714ae9d87177c10e5d859f4187c0f,VU#30
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRYPTER/Simple Crypter.rar,b7ebb374517714ae9d87177c10e5d859f4187c0f,VU#19
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/OrangBotnet.zip,b8f8e40b6111ff28ce15eb70662512c100f58dd0,VU#61
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/INSTAGRAM/[Instagram-Brute].rar,bab66296bda255a055c5d2cd4235dc0607c0960c,VU#77
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/INSTAGRAM/[Instagram-Brute].rar,bab66296bda255a055c5d2cd4235dc0607c0960c,VU#73
+958422023,illusionsec/DDOS-archive,leaks/nuclei.rar,bb419fd1ffb454f9d4b69d695e9aa684cb8dd116,VU#39
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ENCRYPTER/Text String base64.rar,bebccb3f8b703d43a9193a0bb94ba3b9e36e1665,VU#95
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/PRIVATE-Mirai-Meerkat-Botnet-Source-main.zip,bee26254d3983bdad94b2f564711251ee66e6d7f,VU#98
+958422023,illusionsec/DDOS-archive,illusionsec/miraiscanz.rar,c3cb02717d066cb832f8372c5c593932e77d9c46,VU#44
+958422023,illusionsec/DDOS-archive,MiraiLovers/SELFREPS/SCANNING/TELNET SCANNER/miraiscanz.rar,c3cb02717d066cb832f8372c5c593932e77d9c46,VU#61
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L4/L4-Sierra.tar,c6fcde116e2a14e05ab51ffeb891484cf52fb615,VU#575
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i586.tar.bz2,c87144c309984cc0b36b30f537f1f8f0a0ad45dd,VU#333
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i586.tar.bz2,c87144c309984cc0b36b30f537f1f8f0a0ad45dd,VU#24
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-i586.tar.bz2,c87144c309984cc0b36b30f537f1f8f0a0ad45dd,VU#62
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/holy.zip,ca623bdb51926e347c1d3180763b9f8d32067f43,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/API/StressyManager.zip,caaf72b19b72846d9f590d23a26549ba0243d9ff,VU#579
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/cylon.zip,cb05e4bb0d1b2560d1ffa706df4b98de22ee3ccf,VU#98
+958422023,illusionsec/DDOS-archive,MiraiLovers/COMPILERS/cross-compiler-armv4l.tar.bz2,cc83b55a3f84650d41a71f6821c3f04f6d297c0d,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv4l.tar.bz2,cc83b55a3f84650d41a71f6821c3f04f6d297c0d,VU#15
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv4l.tar.bz2,cc83b55a3f84650d41a71f6821c3f04f6d297c0d,VU#45
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/DroidJack RAT v4.4 Cracked.rar,cd04eeb01c7b1d94d24cfa59d7bd45694398a1cd,VU#88
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/DroidJack RAT v4.4 Cracked.rar,cd04eeb01c7b1d94d24cfa59d7bd45694398a1cd,VU#08
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/DroidJack RAT v4.4 Cracked.rar,cd04eeb01c7b1d94d24cfa59d7bd45694398a1cd,VU#75
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#36
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#31
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#99
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#22
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#96
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/VStress.io-Source + SQL.zip,cdeeae82b93e41e6b6e96706c6a3be006b0353c4,VU#97
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/MAIL ACCESS CHECKER/Woxy 3.0.rar,ce0ec35ce6fecc6f8e111370b6a90da843ada8e8,VU#42
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/cracked kflood.zip,cf60cf26d1f8c77bb9cbbe3e9bc7b3a8717f81d7,VU#36
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/cracked kflood.zip,cf60cf26d1f8c77bb9cbbe3e9bc7b3a8717f81d7,VU#66
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Akiru.rar,d04d6a64fde7d952112a5fab8fd1b6267b013a34,VU#82
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#00
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#10
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Exploits/cronus/Cronus,d0cdb930bdddcb474a8ebdaeefe163726d5f6ea1,VU#70
+958422023,illusionsec/DDOS-archive,leaks/黎明的曙光.zip,d0f0236e9a48508a043f603e68560c31430a1dd6,VU#98
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/katana.zip,d2b4407249303cf2e6b7872dc44502985c3a3c5d,VU#97
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#28
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Gucci_remastered.zip,d4432b0d9fc0deedcf6460aa058c85fe1c229c9c,VU#98
+958422023,illusionsec/DDOS-archive,leaks/Scammers server.zip,d4487addf399063be705f8c97612d6c02b8720df,VU#10
+958422023,illusionsec/DDOS-archive,leaks/Scammers server.zip,d4487addf399063be705f8c97612d6c02b8720df,VU#71
+958422023,illusionsec/DDOS-archive,leaks/Scammers server.zip,d4487addf399063be705f8c97612d6c02b8720df,VU#86
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/cosmic.zip,d789c0aadb7ca69a7a0f1a86eb5fbe7e15106d22,VU#25
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/cosmic.zip,d789c0aadb7ca69a7a0f1a86eb5fbe7e15106d22,VU#98
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#11
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#38
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#17
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#02
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#98
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#393
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#28
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#97
+958422023,illusionsec/DDOS-archive,leaks/CFA_Spl.zip,d8b4de073c961b9fe5735afaf11102f253ef6c14,VU#30
+958422023,illusionsec/DDOS-archive,leaks/FB's golang projects full leak.zip,d9bc896eea2420fb33d686725d1a56aca9468c77,VU#14
+958422023,illusionsec/DDOS-archive,leaks/FB's golang projects full leak.zip,d9bc896eea2420fb33d686725d1a56aca9468c77,VU#20
+958422023,illusionsec/DDOS-archive,illusionsec/CVE-2022-47966.py,da39a3ee5e6b4b0d3255bfef95601890afd80709,CVE-2022-47966
+958422023,illusionsec/DDOS-archive,leaks/Blossom.rar,db6b421476e4a4219bcb1402bff622a2d23c9512,VU#25
+958422023,illusionsec/DDOS-archive,leaks/Blossom.rar,db6b421476e4a4219bcb1402bff622a2d23c9512,VU#74
+958422023,illusionsec/DDOS-archive,leaks/Blossom.rar,db6b421476e4a4219bcb1402bff622a2d23c9512,VU#16
+958422023,illusionsec/DDOS-archive,leaks/Blossom.rar,db6b421476e4a4219bcb1402bff622a2d23c9512,VU#72
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Booh-Botnet.zip,dd050b70f13a684e42d7e515c608b07e9289457f,VU#60
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Booh-Botnet.zip,dd050b70f13a684e42d7e515c608b07e9289457f,VU#09
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Booh-Botnet.zip,dd050b70f13a684e42d7e515c608b07e9289457f,VU#06
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Booh-Botnet.zip,dd050b70f13a684e42d7e515c608b07e9289457f,VU#86
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Booh-Botnet.zip,dd050b70f13a684e42d7e515c608b07e9289457f,VU#74
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#21
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#01
+958422023,illusionsec/DDOS-archive,MiraiLovers/MIRAI/Momentum.rar,de7932c2ce273b782682a6b10c9a9dcc528d4459,VU#45
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv6l.tar.bz2,df028db1d356bc93120200d55b382a77372c8d86,VU#58
+958422023,illusionsec/DDOS-archive,RootSec/uclib-cross-compilers/cross-compiler-armv6l.tar.bz2,df028db1d356bc93120200d55b382a77372c8d86,VU#83
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/RoyalStresser.zip,e1ca6f52adabe39bdb2462a2ace2386da7cc6b2c,VU#99
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/RoyalStresser.zip,e1ca6f52adabe39bdb2462a2ace2386da7cc6b2c,VU#04
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/RoyalStresser.zip,e1ca6f52adabe39bdb2462a2ace2386da7cc6b2c,VU#96
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/RoyalStresser.zip,e1ca6f52adabe39bdb2462a2ace2386da7cc6b2c,VU#37
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/RoyalStresser.zip,e1ca6f52adabe39bdb2462a2ace2386da7cc6b2c,VU#22
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/SQLI & UTILITY/SQLi Dumper v.8.5 Cracked.rar,e2f240ddb1e9b685d448ae4fe7ae23b7725234be,VU#82
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Parasite.zip,e4318820731ef337e28d0cc949c79b47ddeb5990,VU#37
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Parasite.zip,e4318820731ef337e28d0cc949c79b47ddeb5990,VU#93
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#55
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/nstress.com.zip,e5783809a92cfa7f749c950dbaa1bf3772d61154,VU#66
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#44
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#34
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#73
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#29
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#91
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#63
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/ANDROID RAT TOOLS/AhMyth-Android-RAT.zip,e6cd96d7d82dd016cb4bb60fd497c040c967ebfb,VU#02
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Other botnet variants/j-bot.rar,e6d394f41aa769e407c3f8bf9b77605614f09eff,VU#30
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/CRACKED CHECKER/Slayer Leecher v0.6.rar,e92488fdfc94193a7fdb520039b6fb36d2eeff5d,VU#43
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Squidward.zip,ea9ad766d5fa0fc945b5575a3211e7dd4e198ee8,VU#98
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Loki1.8by b4ckdoor.rar,ec88b60b2206353046fa4802058f5a6fbac0a991,VU#02
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Loki1.8by b4ckdoor.rar,ec88b60b2206353046fa4802058f5a6fbac0a991,VU#55
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/EXCLUSIVE TOOLS/SIB 8.0.rar,ee3594353d8883c4ed0190af021772f61ca0f706,VU#55
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/EXCLUSIVE TOOLS/SIB 8.0.rar,ee3594353d8883c4ed0190af021772f61ca0f706,VU#09
+958422023,illusionsec/DDOS-archive,leaks/stresser.gg.zip,ef261a9659a4b1742fcbcc5d46be3c16dbb80602,VU#76
+958422023,illusionsec/DDOS-archive,leaks/stresser.gg.zip,ef261a9659a4b1742fcbcc5d46be3c16dbb80602,VU#22
+958422023,illusionsec/DDOS-archive,RootSec/DDOS Scripts/L7/Browser JSBypass v1.zip,ef6471c345b798b11ca77afc4b846afd14221fa3,VU#36
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/source.zip,efc21da81b72d97aa48d899963a6369d92210056,VU#05
+958422023,illusionsec/DDOS-archive,illusionsec/MHDDoS-main.zip,f1bd6b51484c9d0ae774b3dbface5ea997ec2821,VU#16
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/OTHER CHECKER & CRACK/GMAIL Checker Brute/Gmail_checker_by_Alphacrack.rar,f568199eb50c4637550142de257090f9bee8964f,VU#25
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/STRESSER_SOURCE06.zip,f57e6ee082616418115e26160198ee732003c4d7,VU#37
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/FORTNITE CHECKER/Axenta_ed.zip,f68055914a1ced1bb530cca6f1e0885e7b4d8968,VU#860
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/FORTNITE CHECKER/Axenta_ed.zip,f68055914a1ced1bb530cca6f1e0885e7b4d8968,VU#564
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/stresser source.zip,f6a09d69036f05ee76dcd9bcbb47b9342faf4ec9,VU#37
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/stresser source.zip,f6a09d69036f05ee76dcd9bcbb47b9342faf4ec9,VU#94
+958422023,illusionsec/DDOS-archive,leaks/harv.rar,f7391889a8b1e40f9a2e30c31b7b273affafe7c5,VU#50
+958422023,illusionsec/DDOS-archive,leaks/mirai handler @zzmapp.rar,f779aaf9efa9ecc6e38e3769c822fb6a84ff8053,VU#04
+958422023,illusionsec/DDOS-archive,RootSec/Botnets/Mirai/Dirtz Net.zip,f8ebc5e133730e18b07d33c035db4e48735c0621,VU#98
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Atmos Botnet v1.01.rar,f943fc6085e05ce2a02de57019bdaf184d342486,VU#69
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Atmos Botnet v1.01.rar,f943fc6085e05ce2a02de57019bdaf184d342486,VU#01
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.gg.zip,fa5cbe4e741a17f7e8aa7bc85f91bb226eb2093a,VU#69
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.gg.zip,fa5cbe4e741a17f7e8aa7bc85f91bb226eb2093a,VU#35
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.gg.zip,fa5cbe4e741a17f7e8aa7bc85f91bb226eb2093a,VU#76
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.gg.zip,fa5cbe4e741a17f7e8aa7bc85f91bb226eb2093a,VU#48
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/stresser.gg.zip,fa5cbe4e741a17f7e8aa7bc85f91bb226eb2093a,VU#00
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Loki 2.0.rar,fd029f14a0671f106c6dcbb67ff5efcbd2832af2,VU#95
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Loki 2.0.rar,fd029f14a0671f106c6dcbb67ff5efcbd2832af2,VU#99
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/HTTP NET SOURCE/Loki 2.0.rar,fd029f14a0671f106c6dcbb67ff5efcbd2832af2,VU#68
+958422023,illusionsec/DDOS-archive,b4ckdoorarchive/VPN CHECKER/CyberGhost VPN Checker.rar,fdfb5e25a959ad4233cb3eeda8a86febbeb60367,VU#61
+958422023,illusionsec/DDOS-archive,leaks/BetterLicensing.zip,fe708f3cec8398e58483ef4935661e501867f7d7,VU#09
+958422023,illusionsec/DDOS-archive,leaks/BetterLicensing.zip,fe708f3cec8398e58483ef4935661e501867f7d7,VU#69
+958422023,illusionsec/DDOS-archive,RootSec/Stresser sources/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#66
+958422023,illusionsec/DDOS-archive,MiraiLovers/STRESSERS/Time Source v1.0.zip,fea953fc0fb76ec44f160310b4137dfd8cf7f915,VU#55
