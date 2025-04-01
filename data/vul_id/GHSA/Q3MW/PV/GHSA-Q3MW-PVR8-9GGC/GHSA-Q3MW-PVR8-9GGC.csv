@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-Q3MW-PVR8-9GGC,0.05555556,https://github.com/brutexploiter/CVEHunt,brutexploiter/CVEHunt,819386815
 GHSA-Q3MW-PVR8-9GGC,0.00019179,https://github.com/arkede/cve-2023,arkede/cve-2023,956982314
-GHSA-Q3MW-PVR8-9GGC,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-Q3MW-PVR8-9GGC,0.00003571,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

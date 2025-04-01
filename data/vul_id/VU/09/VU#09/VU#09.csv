@@ -260,7 +260,6 @@ VU#09,0.03030303,https://github.com/kaytedoxbin/PFES-PLAYFAB-EXPOITS-,kaytedoxbi
 VU#09,0.03030303,https://github.com/nezvevik/heads_up_exploiter,nezvevik/heads_up_exploiter,896900559
 VU#09,0.02941176,https://github.com/kaushikrohit004/GauOptX-Code,kaushikrohit004/GauOptX-Code,941274246
 VU#09,0.02941176,https://github.com/THEDESTROYER6667/MacSploit-Themes,THEDESTROYER6667/MacSploit-Themes,747921381
-VU#09,0.02857143,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
 VU#09,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#09,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#09,0.02857143,https://github.com/lijiejie/EasyPen,lijiejie/EasyPen,527564268
@@ -281,6 +280,7 @@ VU#09,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#09,0.02702703,https://github.com/flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,947229376
 VU#09,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#09,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
+VU#09,0.02631579,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
 VU#09,0.02631579,https://github.com/Jianshu-Hu/pvr-generalization,Jianshu-Hu/pvr-generalization,845838472
 VU#09,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/php-exploit-scripts,728944393
 VU#09,0.02631579,https://github.com/sarahsimionescu/simple-model-inversion,sarahsimionescu/simple-model-inversion,498449346
@@ -506,6 +506,7 @@ VU#09,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Usin
 VU#09,0.00689655,https://github.com/RENANZG/My-Forensics,RENANZG/My-Forensics,681359084
 VU#09,0.00689655,https://github.com/jgamblin/2022CVEReview,jgamblin/2022CVEReview,582660911
 VU#09,0.00680272,https://github.com/neelblabla/ESG-and-Financial-Performance,neelblabla/ESG-and-Financial-Performance,600377082
+VU#09,0.00675676,https://github.com/illusionsec/DDOS-archive,illusionsec/DDOS-archive,958422023
 VU#09,0.00675676,https://github.com/ElenaSerbuValentina/Image_Classification_ML,ElenaSerbuValentina/Image_Classification_ML,657610666
 VU#09,0.00671141,https://github.com/michaelneri/unsupervised-audio-anomaly-detection,michaelneri/unsupervised-audio-anomaly-detection,856788461
 VU#09,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
@@ -635,7 +636,7 @@ VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#09,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#09,0.00027832,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00027770,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#09,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -689,7 +690,7 @@ VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#09,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#09,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#09,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#09,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#09,0.00003571,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#09,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#09,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#09,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

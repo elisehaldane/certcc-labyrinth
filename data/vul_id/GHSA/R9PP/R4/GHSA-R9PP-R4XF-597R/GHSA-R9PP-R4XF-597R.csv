@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-R9PP-R4XF-597R,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-R9PP-R4XF-597R,0.00010774,https://github.com/arkede/cve-2024,arkede/cve-2024,956982362
-GHSA-R9PP-R4XF-597R,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
-GHSA-R9PP-R4XF-597R,0.00000720,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-R9PP-R4XF-597R,0.00003571,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-R9PP-R4XF-597R,0.00000719,https://github.com/trickest/cve,trickest/cve,454015416

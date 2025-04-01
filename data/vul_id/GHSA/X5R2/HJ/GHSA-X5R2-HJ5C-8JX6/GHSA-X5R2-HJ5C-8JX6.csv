@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-X5R2-HJ5C-8JX6,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
+GHSA-X5R2-HJ5C-8JX6,0.00371747,https://github.com/fthomasella/dependency-check-poc-vuln,fthomasella/dependency-check-poc-vuln,958221963
 GHSA-X5R2-HJ5C-8JX6,0.00314465,https://github.com/KayCHENvip/vulnerability-poc,KayCHENvip/vulnerability-poc,658037002
 GHSA-X5R2-HJ5C-8JX6,0.00306748,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
 GHSA-X5R2-HJ5C-8JX6,0.00168634,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
@@ -12,7 +13,7 @@ GHSA-X5R2-HJ5C-8JX6,0.00043346,https://github.com/arkede/cve-2021,arkede/cve-202
 GHSA-X5R2-HJ5C-8JX6,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-X5R2-HJ5C-8JX6,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-X5R2-HJ5C-8JX6,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-GHSA-X5R2-HJ5C-8JX6,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-X5R2-HJ5C-8JX6,0.00003571,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-X5R2-HJ5C-8JX6,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-X5R2-HJ5C-8JX6,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-X5R2-HJ5C-8JX6,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

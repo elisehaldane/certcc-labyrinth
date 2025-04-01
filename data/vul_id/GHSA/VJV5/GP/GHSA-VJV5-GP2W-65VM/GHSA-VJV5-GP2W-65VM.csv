@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-VJV5-GP2W-65VM,0.00469484,https://github.com/Threekiii/Vulhub-Reproduce,Threekiii/Vulhub-Reproduce,465634788
+GHSA-VJV5-GP2W-65VM,0.00371747,https://github.com/fthomasella/dependency-check-poc-vuln,fthomasella/dependency-check-poc-vuln,958221963
 GHSA-VJV5-GP2W-65VM,0.00168634,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
 GHSA-VJV5-GP2W-65VM,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-VJV5-GP2W-65VM,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
@@ -53,7 +54,7 @@ GHSA-VJV5-GP2W-65VM,0.00004627,https://github.com/uboolean/exploitdb,uboolean/ex
 GHSA-VJV5-GP2W-65VM,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 GHSA-VJV5-GP2W-65VM,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 GHSA-VJV5-GP2W-65VM,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-GHSA-VJV5-GP2W-65VM,0.00003573,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-VJV5-GP2W-65VM,0.00003571,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-VJV5-GP2W-65VM,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-VJV5-GP2W-65VM,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 GHSA-VJV5-GP2W-65VM,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
