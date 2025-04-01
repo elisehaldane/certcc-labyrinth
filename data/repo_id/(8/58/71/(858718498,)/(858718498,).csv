@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+858718498,mttcrn/ODC-challenges,kernel_exloitation/K-ROP/kernel_elf,97d70ba05d476f2eb5ad71b3dc5408a36c43f6be,VU#24
+858718498,mttcrn/ODC-challenges,kernel_exloitation/K-ROP/kernel_elf,97d70ba05d476f2eb5ad71b3dc5408a36c43f6be,VU#30
+858718498,mttcrn/ODC-challenges,kernel_exloitation/K-ROP/bzImage,c70c566f9e3f999e2ccd9840a467dadde2c9d800,VU#76
