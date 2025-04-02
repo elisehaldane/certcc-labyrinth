@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+959144338,uthrasri/Expat_2.6.2_CVE-2024-8176,xmlparse.c,3be78c386e0f9a1065a40d9d3364858ba3137074,BID-0
+959144338,uthrasri/Expat_2.6.2_CVE-2024-8176,xmlparse.c,3be78c386e0f9a1065a40d9d3364858ba3137074,BID-1
+959144338,uthrasri/Expat_2.6.2_CVE-2024-8176,_GITHUB_REPO_METADATA_,,CVE-2024-8176
