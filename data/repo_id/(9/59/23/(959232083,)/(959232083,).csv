@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+959232083,gglva/cms-scan-framework,main.py,e566d28ad165450099808f462a0f3566ed30422a,CVE-2019-5678
+959232083,gglva/cms-scan-framework,main.py,e566d28ad165450099808f462a0f3566ed30422a,CVE-2020-1234
