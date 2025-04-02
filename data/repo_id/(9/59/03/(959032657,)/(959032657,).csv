@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/@sveltejs/kit/src/utils/escape.js,d15eaa1c6c47a82f72ab08b905f85e72dee296fb,GHSA-8266-84WP-WV5C
