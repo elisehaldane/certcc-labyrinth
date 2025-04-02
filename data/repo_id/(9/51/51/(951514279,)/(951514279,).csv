@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+951514279,ps-interactive/lab-cve-2025-24813,target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst,8ce9cb4fd9b7b7417c7100fc746ab3126d778c3d,CVE-2025-24813
 951514279,ps-interactive/lab-cve-2025-24813,_GITHUB_REPO_METADATA_,,CVE-2025-24813

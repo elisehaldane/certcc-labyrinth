@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+927749989,shadabansari/Automate-Metasploit,bluekeep.sh,3253d756c4bd194b9a8f8debcce2fa517da3bddd,CVE-2019-0708
+927749989,shadabansari/Automate-Metasploit,README.md,63d48fe879b092cef0922b2dbc35a6ccd370b17b,CVE-2014-0160
+927749989,shadabansari/Automate-Metasploit,README.md,63d48fe879b092cef0922b2dbc35a6ccd370b17b,CVE-2019-0708

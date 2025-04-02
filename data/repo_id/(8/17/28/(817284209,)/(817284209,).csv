@@ -1,2 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+817284209,SafeBreach-Labs/QuickShell,README.md,38650dca91c1c9411600f3a7c3d38bbf158ec9db,CVE-2024-10668
+817284209,SafeBreach-Labs/QuickShell,README.md,38650dca91c1c9411600f3a7c3d38bbf158ec9db,CVE-2024-38271
+817284209,SafeBreach-Labs/QuickShell,README.md,38650dca91c1c9411600f3a7c3d38bbf158ec9db,CVE-2024-38272
 817284209,SafeBreach-Labs/QuickShell,VulnerableQuickShare.zip,b3b1cb5bd4a920c4d54619f5d11b1b6cba1e7a58,VU#66
