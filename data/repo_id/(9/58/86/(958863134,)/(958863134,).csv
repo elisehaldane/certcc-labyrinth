@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+958863134,BecodoExploit-mrCAT/SAPGateBreaker-Exploit,README.md,48f5450dcb47a478ce9d178ad899f5d277a7b22b,CVE-2022-22536
+958863134,BecodoExploit-mrCAT/SAPGateBreaker-Exploit,sapgatebreaker.py,bd4c6892c6c8ba654c73eaea422f4d9e9994b815,CVE-2022-22536
+958863134,BecodoExploit-mrCAT/SAPGateBreaker-Exploit,_GITHUB_REPO_METADATA_,,CVE-2022-22536
