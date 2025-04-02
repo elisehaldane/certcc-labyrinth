@@ -1,4 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-923000402,RichHacks/goExploitDB,goExploitDB-linux-amd64,3463f845c4cec2cde0ca1852691b975c8b5b7a12,VU#72
-923000402,RichHacks/goExploitDB,goExploitDB-darwin-amd64,a2f9cc3b9f4b385b82f96494ebd2fecab8dfc9c9,VU#24
-923000402,RichHacks/goExploitDB,goExploitDB-windows-arm64.exe,ee01db88071ffd7a6380a1a64545a2083ffbe020,VU#41
+923000402,RichHacks/goExploitDB,goExploitDB-darwin-arm64,163f2b6deba8094ca9d4855b210aadbeb740b8b3,VU#03
