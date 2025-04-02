@@ -1,2 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
+958996271,Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927,src/app/page.js,d507c050a6b222dd9026ba84b2d93ba965734566,CVE-2025-29927
+958996271,Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927,README.md,fb60ca4f9cb4c30c55f745c92495ed9175d627e6,CVE-2025-29927
 958996271,Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927,_GITHUB_REPO_METADATA_,,CVE-2025-29927
