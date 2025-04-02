@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-P94Q-9Q2M-PFH2,0.00059737,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-P94Q-9Q2M-PFH2,0.00059559,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 GHSA-P94Q-9Q2M-PFH2,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 GHSA-P94Q-9Q2M-PFH2,0.00032819,https://github.com/arkede/cve-2022,arkede/cve-2022,956982269
 GHSA-P94Q-9Q2M-PFH2,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
