@@ -116,7 +116,6 @@ VU#57,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeup
 VU#57,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#57,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#57,0.05000000,https://github.com/zerodays/dragonhack-2022-0,zerodays/dragonhack-2022-0,492157505
-VU#57,0.04761905,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#57,0.04761905,https://github.com/Wlibang/CVE-2024-38077,Wlibang/CVE-2024-38077,840208910
 VU#57,0.04761905,https://github.com/lucy9x/WLExploit,lucy9x/WLExploit,553514726
 VU#57,0.04761905,https://github.com/transducens/CrossLingualNeuralFMS,transducens/CrossLingualNeuralFMS,549607945
@@ -198,6 +197,7 @@ VU#57,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#57,0.01785714,https://github.com/nimad70/VulRAG,nimad70/VulRAG,849601220
 VU#57,0.01754386,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#57,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
+VU#57,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#57,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
 VU#57,0.01639344,https://github.com/ahfitwi/CVE2E,ahfitwi/CVE2E,908019105
 VU#57,0.01639344,https://github.com/LuffyExploits/LuffyExploits,LuffyExploits/LuffyExploits,675106196
@@ -452,8 +452,8 @@ VU#57,0.00245700,https://github.com/leelaz0/AWAE,leelaz0/AWAE,467403905
 VU#57,0.00244499,https://github.com/jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,jfflorez/Exploiting-variational-inequalities-for-generalized-change-detection-on-graphs,644285732
 VU#57,0.00243309,https://github.com/useclassplay/useclassplay.github.io,useclassplay/useclassplay.github.io,876998126
 VU#57,0.00243309,https://github.com/PeiQi0/PeiQi-WIKI-Book,PeiQi0/PeiQi-WIKI-Book,469078626
-VU#57,0.00241546,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 VU#57,0.00237530,https://github.com/xcube-dev/xcube,xcube-dev/xcube,130693090
+VU#57,0.00233100,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 VU#57,0.00227790,https://github.com/Mr-xn/RedTeam_BlueTeam_HW,Mr-xn/RedTeam_BlueTeam_HW,319325087
 VU#57,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 VU#57,0.00222717,https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques,SeanOhAileasa/ptp-post-exploitation-techniques,515646540
@@ -492,7 +492,7 @@ VU#57,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#57,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#57,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#57,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#57,0.00027624,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#57,0.00027586,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#57,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#57,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#57,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -542,7 +542,7 @@ VU#57,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#57,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#57,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#57,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#57,0.00003562,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#57,0.00003537,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#57,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#57,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 VU#57,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891

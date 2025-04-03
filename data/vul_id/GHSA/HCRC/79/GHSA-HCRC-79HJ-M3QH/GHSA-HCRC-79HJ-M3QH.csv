@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HCRC-79HJ-M3QH,0.50000000,https://github.com/MuhammadWaseem29/CVE-2025-24016,MuhammadWaseem29/CVE-2025-24016,936345379
 GHSA-HCRC-79HJ-M3QH,0.50000000,https://github.com/0xjessie21/CVE-2025-24016,0xjessie21/CVE-2025-24016,933595800
-GHSA-HCRC-79HJ-M3QH,0.00000719,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-HCRC-79HJ-M3QH,0.00000718,https://github.com/trickest/cve,trickest/cve,454015416

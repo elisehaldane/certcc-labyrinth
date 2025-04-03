@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2024-5824,0.00090580,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2024-5824,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
-ZSL-2024-5824,0.00003562,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+ZSL-2024-5824,0.00003537,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 ZSL-2024-5824,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 ZSL-2024-5824,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 ZSL-2024-5824,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701

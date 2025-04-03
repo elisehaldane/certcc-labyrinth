@@ -87,7 +87,6 @@ VU#15,0.05000000,https://github.com/pxcs/TheFatRat_v2,pxcs/TheFatRat_v2,77850691
 VU#15,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Joseph1/Latency-Arbitrage,662578688
 VU#15,0.05000000,https://github.com/kkpsiren/Bug_Exploiters,kkpsiren/Bug_Exploiters,502163570
 VU#15,0.05000000,https://github.com/screetsec/TheFatRat,screetsec/TheFatRat,64060314
-VU#15,0.04761905,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#15,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#15,0.04545455,https://github.com/Mohameddek1/web_exploitation2,Mohameddek1/web_exploitation2,889315418
 VU#15,0.04545455,https://github.com/anapaulasandes/financ-time-series-exploit,anapaulasandes/financ-time-series-exploit,737404431
@@ -141,7 +140,6 @@ VU#15,0.02777778,https://github.com/HTLandy/Projet-Exploitation-Massive-des-Donn
 VU#15,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#15,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#15,0.02777778,https://github.com/Tang1705/GF4-based-3D-Reconstruction,Tang1705/GF4-based-3D-Reconstruction,280623418
-VU#15,0.02702703,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
 VU#15,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
 VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
@@ -152,6 +150,7 @@ VU#15,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2022-45934,Trina
 VU#15,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,577622797
 VU#15,0.02702703,https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220,nidhi7598/linux-4.1.15_CVE-2019-10220,574837440
 VU#15,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
+VU#15,0.02631579,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
 VU#15,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#15,0.02564103,https://github.com/neofytr/BinaryExploitation,neofytr/BinaryExploitation,918882482
 VU#15,0.02564103,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,hshivhare67/Kernel_4.1.15_CVE-2023-4206_CVE-2023-4207_CVE-2023-4208,731880804
@@ -221,6 +220,7 @@ VU#15,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-s
 VU#15,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#15,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#15,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
+VU#15,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#15,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#15,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#15,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
@@ -236,6 +236,7 @@ VU#15,0.01666667,https://github.com/SpeedCoder5/soxm,SpeedCoder5/soxm,845166488
 VU#15,0.01666667,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,758931615
 VU#15,0.01612903,https://github.com/clave5/weather-data-analysis,clave5/weather-data-analysis,942624983
 VU#15,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
+VU#15,0.01562500,https://github.com/Amos1109/STPG,Amos1109/STPG,959768636
 VU#15,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#15,0.01538462,https://github.com/Kasra2020/TU-Berlin-SWN-course,Kasra2020/TU-Berlin-SWN-course,740128625
 VU#15,0.01538462,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
@@ -501,7 +502,7 @@ VU#15,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#15,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#15,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#15,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#15,0.00027624,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#15,0.00027586,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#15,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#15,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#15,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209

@@ -227,7 +227,6 @@ VU#49,0.05000000,https://github.com/Joshua-Joseph1/Latency-Arbitrage,Joshua-Jose
 VU#49,0.05000000,https://github.com/sotyarena/web-exploitation-3,sotyarena/web-exploitation-3,616821702
 VU#49,0.05000000,https://github.com/kasi2809/plotter_mini_rceg,kasi2809/plotter_mini_rceg,318542548
 VU#49,0.04761905,https://github.com/NoodleRain/PenTesting-Python-Game,NoodleRain/PenTesting-Python-Game,952030820
-VU#49,0.04761905,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#49,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,882188373
 VU#49,0.04761905,https://github.com/12345qwert123456/CVE-2024-6473-PoC,12345qwert123456/CVE-2024-6473-PoC,881856138
 VU#49,0.04761905,https://github.com/vbrunschot/Exploits,vbrunschot/Exploits,476902301
@@ -410,6 +409,7 @@ VU#49,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-
 VU#49,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
 VU#49,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#49,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
+VU#49,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#49,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#49,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s966-Final-Project,800103118
 VU#49,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
@@ -426,6 +426,7 @@ VU#49,0.01612903,https://github.com/abbaszal/COVID-19-Paper-Analysis,abbaszal/CO
 VU#49,0.01612903,https://github.com/IritaSee/bachelor_thesis,IritaSee/bachelor_thesis,413513158
 VU#49,0.01587302,https://github.com/guille-c/ALeRCE_ML_DL,guille-c/ALeRCE_ML_DL,517828031
 VU#49,0.01587302,https://github.com/MoAITeam/GarmIon,MoAITeam/GarmIon,392608280
+VU#49,0.01562500,https://github.com/Amos1109/STPG,Amos1109/STPG,959768636
 VU#49,0.01538462,https://github.com/RuihanGao/TactileDreamFusion,RuihanGao/TactileDreamFusion,880500847
 VU#49,0.01538462,https://github.com/trustfundpapi/n-armed-bandit,trustfundpapi/n-armed-bandit,813673184
 VU#49,0.01538462,https://github.com/Riotscripter/RiotExploits,Riotscripter/RiotExploits,704740021
@@ -445,6 +446,7 @@ VU#49,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_
 VU#49,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#49,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#49,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
+VU#49,0.01351351,https://github.com/clod2000/Mueller-Brown-exploration,clod2000/Mueller-Brown-exploration,959929445
 VU#49,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
 VU#49,0.01333333,https://github.com/riccardonicolaidis/Particle-Detector-ARTY-A7,riccardonicolaidis/Particle-Detector-ARTY-A7,607758792
 VU#49,0.01333333,https://github.com/leistimo/RCET_ThirdSemester,leistimo/RCET_ThirdSemester,475621847
@@ -718,7 +720,7 @@ VU#49,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#49,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#49,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#49,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#49,0.00027624,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#49,0.00027586,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#49,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#49,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#49,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
