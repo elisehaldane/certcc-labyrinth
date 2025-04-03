@@ -1,9 +1,9 @@
 repo_id,repo_full_name,file,file_sha1,match
+844109002,muchdogesec/vulmatch,vulmatch/server/views.py,5b223ce0dfc122db3edd99c32a74fb77ea3df98d,CVE-2023-22518
+844109002,muchdogesec/vulmatch,vulmatch/server/views.py,5b223ce0dfc122db3edd99c32a74fb77ea3df98d,CVE-2024-23897
 844109002,muchdogesec/vulmatch,tests/test_04_kev_epss.py,612fc2e94ff2fd7e5f65d8918a3b3286f86cf367,CVE-2024-21887
 844109002,muchdogesec/vulmatch,tests/test_04_kev_epss.py,612fc2e94ff2fd7e5f65d8918a3b3286f86cf367,CVE-2023-7028
 844109002,muchdogesec/vulmatch,tests/test_04_kev_epss.py,612fc2e94ff2fd7e5f65d8918a3b3286f86cf367,CVE-2024-3393
-844109002,muchdogesec/vulmatch,vulmatch/server/views.py,9b53217bbd92f22b8a2dc77cf308b723942752ec,CVE-2023-22518
-844109002,muchdogesec/vulmatch,vulmatch/server/views.py,9b53217bbd92f22b8a2dc77cf308b723942752ec,CVE-2024-23897
 844109002,muchdogesec/vulmatch,tests/test_02_vulnerabilities_filters.py,ca139cb5384a1a64b86b5ab336ec93a7ffec58cb,CVE-2024-13084
 844109002,muchdogesec/vulmatch,tests/test_02_vulnerabilities_filters.py,ca139cb5384a1a64b86b5ab336ec93a7ffec58cb,CVE-2024-13085
 844109002,muchdogesec/vulmatch,tests/test_02_vulnerabilities_filters.py,ca139cb5384a1a64b86b5ab336ec93a7ffec58cb,CVE-2024-21887
