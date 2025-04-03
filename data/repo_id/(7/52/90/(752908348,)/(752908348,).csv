@@ -1,4 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-752908348,Joe1sn/S-inject,bin/S-Inject_x86_gui.exe,68213b75fae3dd5d6e3519b6d171e104746b991f,VU#7505
+752908348,Joe1sn/S-inject,bin/S-Inject_x86_gui.exe,03741c77b8181a371cbed2821a3ba7b66b6c6edd,VU#7505
+752908348,Joe1sn/S-inject,bin/S-Inject_x64_gui.exe,5d334a5d82545e8616cea6c46496b2458ea74740,VU#7505
 752908348,Joe1sn/S-inject,X-Inject/ext/imgui_draw.cpp,a9c538f061d542158568cf7b6895be42c36668d3,VU#7505
-752908348,Joe1sn/S-inject,bin/S-Inject_x64_gui.exe,ebdd2b92d14ed161ba2755ceafa994fada669025,VU#7505
