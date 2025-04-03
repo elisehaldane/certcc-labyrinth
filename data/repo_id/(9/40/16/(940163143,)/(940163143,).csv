@@ -5,9 +5,9 @@ repo_id,repo_full_name,file,file_sha1,match
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2018-16763/README.md,52c3c2222084e011ac2c708f8de9f1e7ce2ab44b,CVE-2018-16763
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2018-16763/Cargo.toml,5c95d8f38b32d48ff3b03f3432568463c19da101,CVE-2018-16763
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2023-27040/Cargo.toml,a55dfe08a6d3219e936c29083c768897a6c8a2d5,CVE-2023-27040
-940163143,AyslanBatista/rust-offsec,README.md,b37ec15b9af35cb6e3d0e60f1936d36a17fc8bd0,CVE-2018-16763
-940163143,AyslanBatista/rust-offsec,README.md,b37ec15b9af35cb6e3d0e60f1936d36a17fc8bd0,CVE-2018-19422
-940163143,AyslanBatista/rust-offsec,README.md,b37ec15b9af35cb6e3d0e60f1936d36a17fc8bd0,CVE-2023-27040
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2018-19422/Cargo.toml,baf410bca6d8e7224bec7b843df6db3cf1f76748,CVE-2018-19422
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2023-27040/src/main.rs,cacada6e1ddd3011a378cf62409d3e8a22021233,CVE-2023-27040
+940163143,AyslanBatista/rust-offsec,README.md,d45fe3f481e2647f2c9dafb475e48cc7b9b67861,CVE-2018-16763
+940163143,AyslanBatista/rust-offsec,README.md,d45fe3f481e2647f2c9dafb475e48cc7b9b67861,CVE-2018-19422
+940163143,AyslanBatista/rust-offsec,README.md,d45fe3f481e2647f2c9dafb475e48cc7b9b67861,CVE-2023-27040
 940163143,AyslanBatista/rust-offsec,exploits/CVE-2023-27040/README.md,dff52c02165e6ec0c82457cc1b8b2e698acacfc4,CVE-2023-27040
