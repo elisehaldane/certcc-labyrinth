@@ -1,2 +1,10 @@
 repo_id,repo_full_name,file,file_sha1,match
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/standalone/umd/vis-network.min.js,021306dceabc3358057f91b84c7dbbe6f48ac12e,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/dist/dist/vis-network.min.css,4c17831e92c9fc2834c2a32cf2173b85eff14bd6,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/standalone/esm/vis-network.min.js,79a1b2dd312c4b827c0ff938ede17cac10232af1,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/dist/dist/vis-network.css,859ea3144416ba5f7ae174c0cfb673af773a5aaa,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/standalone/umd/vis-network.js,9098ca9a23edae78ea3f500659e4cfe6f4a4df24,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/styles/vis-network.css,9488108190f893ea8fe228bf98a8b34b69bc17b8,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/standalone/esm/vis-network.js,a8af06a01aa2b7540dbd5c272f8dd4c5befec033,VU#42
+959032657,TadeoDelaRocha/Trace,frontend/node_modules/vis-network/styles/vis-network.min.css,b6708eaed9717c5c159f99345a644329052a00ce,VU#42
 959032657,TadeoDelaRocha/Trace,frontend/node_modules/@sveltejs/kit/src/utils/escape.js,d15eaa1c6c47a82f72ab08b905f85e72dee296fb,GHSA-8266-84WP-WV5C
