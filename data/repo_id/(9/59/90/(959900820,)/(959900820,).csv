@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+959900820,Ogunslove/WinSCP-Vulnerability-Analysis,README.md,b40c68835302c0c55ab43dd0ee17e18104cd7043,CVE-2006-3015
+959900820,Ogunslove/WinSCP-Vulnerability-Analysis,README.md,b40c68835302c0c55ab43dd0ee17e18104cd7043,CVE-2021-3331
