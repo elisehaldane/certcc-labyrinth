@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-X645-6PF9-XWXW,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-GHSA-X645-6PF9-XWXW,0.00018376,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-X645-6PF9-XWXW,0.00018372,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158

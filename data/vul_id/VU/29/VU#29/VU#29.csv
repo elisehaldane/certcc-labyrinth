@@ -704,8 +704,8 @@ VU#29,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,
 VU#29,0.00757576,https://github.com/oneilcarter/Exploits-In-Machine-Learning-and-AI,oneilcarter/Exploits-In-Machine-Learning-and-AI,853957896
 VU#29,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
 VU#29,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
-VU#29,0.00729927,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#29,0.00719424,https://github.com/Chinuaoku/Ethical-Hacking-and-Penetration-Testing,Chinuaoku/Ethical-Hacking-and-Penetration-Testing,934465312
+VU#29,0.00719424,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#29,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
 VU#29,0.00719424,https://github.com/secureIT-project/earlybird,secureIT-project/earlybird,742068519
 VU#29,0.00719424,https://github.com/ingmbioinfo/cia,ingmbioinfo/cia,725502514
@@ -875,7 +875,7 @@ VU#29,0.00071429,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#29,0.00059559,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00059032,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -931,7 +931,7 @@ VU#29,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#29,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#29,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#29,0.00018376,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018372,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -955,8 +955,8 @@ VU#29,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitd
 VU#29,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 VU#29,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#29,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
-VU#29,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#29,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
+VU#29,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#29,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#29,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#29,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
