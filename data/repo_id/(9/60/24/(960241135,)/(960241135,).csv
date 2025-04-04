@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+960241135,purpleteam-ru/CVE-2021-38163,README.md,cb389af7d0048cf26cf71dccd4c02a4dbd0ebfab,CVE-2021-38163
+960241135,purpleteam-ru/CVE-2021-38163,CVE-2021-38163.py,fafae74d5f12ca9066f3ecf03b76ae861a3d7d02,CVE-2021-38163
+960241135,purpleteam-ru/CVE-2021-38163,_GITHUB_REPO_METADATA_,,CVE-2021-38163
