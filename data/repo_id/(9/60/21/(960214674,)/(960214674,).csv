@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+960214674,Zephiles/fifa2004-exploit,source/fifa2004-hack/exploit/fifa.c,cad9c4fdb2f31a64b340a2a7e4176b148b0fab7f,VU#16
+960214674,Zephiles/fifa2004-exploit,source/fifa2004-hack/exploit/fifa.c,cad9c4fdb2f31a64b340a2a7e4176b148b0fab7f,VU#32
