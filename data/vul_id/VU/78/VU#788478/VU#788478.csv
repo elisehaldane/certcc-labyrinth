@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#788478,0.50000000,https://github.com/SlizBinksman/CVE_2012-2982,SlizBinksman/CVE_2012-2982,427082425
-VU#788478,0.00233100,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+VU#788478,0.00232019,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 VU#788478,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 VU#788478,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#788478,0.00002714,https://github.com/kaismax/CVE-Poc,kaismax/CVE-Poc,462788135
