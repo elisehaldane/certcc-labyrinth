@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+959974027,dk0m/HerpaderpLib,HerpaderpLib/lib/ntapi.h,ef73d257403e60b4f4d8ad67acf87fa334330cc6,CVE-2017-5715
