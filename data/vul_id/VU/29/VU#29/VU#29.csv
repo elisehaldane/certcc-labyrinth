@@ -48,6 +48,9 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/Fhrioton/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,Fhrioton/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,960495611
+VU#29,0.50000000,https://github.com/Raisots/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass,Raisots/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass,960464493
+VU#29,0.50000000,https://github.com/Raisots/Batch-Downloader-Crypter-FUD-UAC-Bypass,Raisots/Batch-Downloader-Crypter-FUD-UAC-Bypass,960464488
 VU#29,0.50000000,https://github.com/SerionxKa/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,SerionxKa/PROOFCORE-Dayz-Cheat-Hack-Aimbot-Esp-Exploit-Magic-Bullet-Spoofer-Misc,959928885
 VU#29,0.50000000,https://github.com/5ky9uy/umtx2,5ky9uy/umtx2,953299657
 VU#29,0.50000000,https://github.com/idlesauce/umtx2,idlesauce/umtx2,953170813
@@ -873,7 +876,7 @@ VU#29,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#29,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#29,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#29,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#29,0.00071429,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
+VU#29,0.00071378,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
@@ -887,7 +890,7 @@ VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00027586,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00027548,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -933,7 +936,7 @@ VU#29,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#29,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#29,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#29,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#29,0.00018372,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#29,0.00018369,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#29,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#29,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#29,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -943,7 +946,7 @@ VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#29,0.00003537,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00003527,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,936098931
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,934581112
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222

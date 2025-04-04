@@ -4,7 +4,7 @@ GHSA-RV47-PC52-QRHH,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-29447,L
 GHSA-RV47-PC52-QRHH,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-29447,Live-Hack-CVE/CVE-2021-29447,581723913
 GHSA-RV47-PC52-QRHH,0.00043346,https://github.com/arkede/cve-2021,arkede/cve-2021,956982218
 GHSA-RV47-PC52-QRHH,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-GHSA-RV47-PC52-QRHH,0.00003537,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-RV47-PC52-QRHH,0.00003527,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-RV47-PC52-QRHH,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-RV47-PC52-QRHH,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-RV47-PC52-QRHH,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
