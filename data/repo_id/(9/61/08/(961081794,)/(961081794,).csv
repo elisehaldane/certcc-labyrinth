@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,AnyDesk Exploit/AnyDesk Exploit.vbproj,246ab365edcf223bd37cbb704fa5790e4ab1b04f,VU#13
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,AnyDesk Exploit/AnyDesk Exploit.vbproj,246ab365edcf223bd37cbb704fa5790e4ab1b04f,VU#29
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,README.md,4a0c0ac2ef234e9cdfb37f001c749b28bb8f4065,CVE-2019-14743
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,README.md,4a0c0ac2ef234e9cdfb37f001c749b28bb8f4065,CVE-2020-13160
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,_GITHUB_REPO_METADATA_,,CVE-2025-12654
+961081794,ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder,_GITHUB_REPO_METADATA_,,CVE-2025-44228
