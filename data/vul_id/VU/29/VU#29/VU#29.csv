@@ -48,6 +48,10 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/Kartiean/Phantom-Dropper-WebBased-Chrome-Bypass-Fud-Runtime-Native,Kartiean/Phantom-Dropper-WebBased-Chrome-Bypass-Fud-Runtime-Native,960642281
+VU#29,0.50000000,https://github.com/Kartiean/Exe-To-Base64-ShellCode-Convert,Kartiean/Exe-To-Base64-ShellCode-Convert,960642278
+VU#29,0.50000000,https://github.com/Kartiean/Exe-UACBypass-Downloader-Crypter-Fud-Defender-Malware-Executable,Kartiean/Exe-UACBypass-Downloader-Crypter-Fud-Defender-Malware-Executable,960642277
+VU#29,0.50000000,https://github.com/Kartiean/Exe-To-Batch-Convert,Kartiean/Exe-To-Batch-Convert,960642276
 VU#29,0.50000000,https://github.com/Fhrioton/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,Fhrioton/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,960495611
 VU#29,0.50000000,https://github.com/Raisots/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass,Raisots/Batch-Malware-Builder-FUD-Crypter-AV-UAC-Bypass,960464493
 VU#29,0.50000000,https://github.com/Raisots/Batch-Downloader-Crypter-FUD-UAC-Bypass,Raisots/Batch-Downloader-Crypter-FUD-UAC-Bypass,960464488
@@ -157,6 +161,7 @@ VU#29,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacke
 VU#29,0.20000000,https://github.com/NeoWans/CVE-2018-19246,NeoWans/CVE-2018-19246,515985803
 VU#29,0.20000000,https://github.com/AhmedMinegames/AntiHackingEngine,AhmedMinegames/AntiHackingEngine,475605588
 VU#29,0.20000000,https://github.com/senhaxor/msf_shellcode,senhaxor/msf_shellcode,418772477
+VU#29,0.16666667,https://github.com/Haroswrs/Cs2-ColaPredator-Hack-Cheat-Rcs-Esp-Aimbot-Exploit-Hwid-Spoofer-Csgo2,Haroswrs/Cs2-ColaPredator-Hack-Cheat-Rcs-Esp-Aimbot-Exploit-Hwid-Spoofer-Csgo2,960621749
 VU#29,0.16666667,https://github.com/Nic-Tech-Bots/ExploitUpdateTrackerBot,Nic-Tech-Bots/ExploitUpdateTrackerBot,848614319
 VU#29,0.16666667,https://github.com/0linlin0/XPost,0linlin0/XPost,806958423
 VU#29,0.16666667,https://github.com/Bendrox/LLM_SFCR_exploit_Langchain_Azure,Bendrox/LLM_SFCR_exploit_Langchain_Azure,777972885
@@ -600,6 +605,7 @@ VU#29,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-c
 VU#29,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#29,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#29,0.01176471,https://github.com/lijiaxing1997/Gr33k,lijiaxing1997/Gr33k,247596607
+VU#29,0.01162791,https://github.com/biscotty666/RCensus,biscotty666/RCensus,955450750
 VU#29,0.01162791,https://github.com/Nemesis1303/CASE,Nemesis1303/CASE,851021010
 VU#29,0.01149425,https://github.com/meredithkime/RCES_Final_Project,meredithkime/RCES_Final_Project,566394485
 VU#29,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -880,7 +886,7 @@ VU#29,0.00071378,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr
 VU#29,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 VU#29,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 VU#29,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#29,0.00058789,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#29,0.00058548,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#29,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#29,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#29,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -890,7 +896,7 @@ VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00027548,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00027541,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
