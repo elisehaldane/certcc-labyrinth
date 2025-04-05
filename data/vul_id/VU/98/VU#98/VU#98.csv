@@ -64,6 +64,7 @@ VU#98,0.10000000,https://github.com/Divyesh-Kanagavel/hack_art,Divyesh-Kanagavel
 VU#98,0.09090909,https://github.com/pydea-rs/art-of-exploitation-tryouts,pydea-rs/art-of-exploitation-tryouts,913272010
 VU#98,0.09090909,https://github.com/GatoGamer1155/BinaryExploitation,GatoGamer1155/BinaryExploitation,710612390
 VU#98,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
+VU#98,0.08333333,https://github.com/Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,960889517
 VU#98,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
 VU#98,0.08333333,https://github.com/TheAirBlow/HyperSploit,TheAirBlow/HyperSploit,791713013
 VU#98,0.08333333,https://github.com/MashyBasker/exploit,MashyBasker/exploit,588262722
@@ -298,7 +299,6 @@ VU#98,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-write
 VU#98,0.01176471,https://github.com/EnricoCancelli/ProximitySocialNav,EnricoCancelli/ProximitySocialNav,673104657
 VU#98,0.01176471,https://github.com/OliverSchamp/Exploiting-Spatial-Relations,OliverSchamp/Exploiting-Spatial-Relations,585205221
 VU#98,0.01162791,https://github.com/LinhOnii/Bypass-CheckM8-devices-with-signal,LinhOnii/Bypass-CheckM8-devices-with-signal,956401943
-VU#98,0.01162791,https://github.com/biscotty666/RCensus,biscotty666/RCensus,955450750
 VU#98,0.01162791,https://github.com/M8SZT8/Security-Hub,M8SZT8/Security-Hub,526179912
 VU#98,0.01149425,https://github.com/ryaneusebi/RCEMIP_hydrologic_sensitivity,ryaneusebi/RCEMIP_hydrologic_sensitivity,830007701
 VU#98,0.01149425,https://github.com/apuromafo/RCE_Lab,apuromafo/RCE_Lab,117911082
@@ -386,6 +386,7 @@ VU#98,0.00763359,https://github.com/GNanni2001/IPCV-Projects,GNanni2001/IPCV-Pro
 VU#98,0.00763359,https://github.com/sergiopicascia/thesis,sergiopicascia/thesis,413368852
 VU#98,0.00757576,https://github.com/amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,amromar99/SARSA-and-Q-Learning-Algorithms-in-a-Deterministic-Grid-World-Environment,843827856
 VU#98,0.00757576,https://github.com/maxamin/The-Awesome-And-Dangerous-collection,maxamin/The-Awesome-And-Dangerous-collection,453449768
+VU#98,0.00719424,https://github.com/S1l3ntStr1ke87/Str1kerSite,S1l3ntStr1ke87/Str1kerSite,960768250
 VU#98,0.00719424,https://github.com/Chinuaoku/Ethical-Hacking-and-Penetration-Testing,Chinuaoku/Ethical-Hacking-and-Penetration-Testing,934465312
 VU#98,0.00719424,https://github.com/diegojoel301/HTB_Challengues_Repo,diegojoel301/HTB_Challengues_Repo,820468273
 VU#98,0.00719424,https://github.com/Artifice-Sec/Metasploitable3-Fixed,Artifice-Sec/Metasploitable3-Fixed,784640260
@@ -402,6 +403,7 @@ VU#98,0.00714286,https://github.com/HatCS/metasploitable3,HatCS/metasploitable3,
 VU#98,0.00714286,https://github.com/blueDesert/metasploitable3,blueDesert/metasploitable3,434517602
 VU#98,0.00714286,https://github.com/rapid7/metasploitable3,rapid7/metasploitable3,66874942
 VU#98,0.00704225,https://github.com/hogeveen-lab/exploreExploit_fmri_distrib,hogeveen-lab/exploreExploit_fmri_distrib,468053145
+VU#98,0.00699301,https://github.com/biscotty666/RCensus,biscotty666/RCensus,955450750
 VU#98,0.00699301,https://github.com/suraiyor/cvetowki_2,suraiyor/cvetowki_2,732641517
 VU#98,0.00699301,https://github.com/PaVlOdAr7182/cvetowki_project2,PaVlOdAr7182/cvetowki_project2,732637597
 VU#98,0.00689655,https://github.com/liamadoyle/PhD_Study_1,liamadoyle/PhD_Study_1,828658576
@@ -549,7 +551,7 @@ VU#98,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#98,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#98,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#98,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#98,0.00027541,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#98,0.00027533,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#98,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#98,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#98,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
