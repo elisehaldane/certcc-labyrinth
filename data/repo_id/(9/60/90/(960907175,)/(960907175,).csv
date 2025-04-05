@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+960907175,SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,README.md,754f4188b5333ee7b88946d26e147c452e320e4f,CVE-2025-20682
+960907175,SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,Registry Exploit By MONSTERMC/Registry Exploit By MONSTERMC.vbproj,95c21432ff39f2ac7687777ec7b1063d913240df,VU#13
+960907175,SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,Registry Exploit By MONSTERMC/Registry Exploit By MONSTERMC.vbproj,95c21432ff39f2ac7687777ec7b1063d913240df,VU#29
