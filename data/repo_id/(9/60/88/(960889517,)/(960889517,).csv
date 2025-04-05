@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#22234
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#34
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#42
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#45
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#74
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#95
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/IconsForm.resx,327c938e691cac2b1d6a99b97af1a84568128f5e,VU#98
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/LNK Exploit MONSTERMC.vbproj,78336f7bc29450bf3e26a784e43d130793936262,VU#13
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/LNK Exploit MONSTERMC.vbproj,78336f7bc29450bf3e26a784e43d130793936262,VU#29
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/Form1.resx,ee31d0e8feed72bd4d9e6bf0ce42cbbd614a3013,VU#05
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,LNK Exploit MONSTERMC/Form1.resx,ee31d0e8feed72bd4d9e6bf0ce42cbbd614a3013,VU#38
+960889517,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,_GITHUB_REPO_METADATA_,,CVE-2025-44228
