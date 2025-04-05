@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+960896990,Karitosmuan/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud,Office Macr Exploit v1.0.0/Office Macr Exploit v1.0.0.vbproj,c93451ecfaf8238853297eb14fc2f98afa04e303,VU#13
+960896990,Karitosmuan/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud,Office Macr Exploit v1.0.0/Office Macr Exploit v1.0.0.vbproj,c93451ecfaf8238853297eb14fc2f98afa04e303,VU#29
+960896990,Karitosmuan/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud,_GITHUB_REPO_METADATA_,,CVE-2025-44228
