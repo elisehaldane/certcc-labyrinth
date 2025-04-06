@@ -654,7 +654,7 @@ VU#25,0.00116550,https://github.com/arazzaq178/predicting_software_vulnerability
 VU#25,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#25,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#25,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#25,0.00058548,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#25,0.00058275,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#25,0.00057339,https://github.com/signalscorps/vulmatch-app,signalscorps/vulmatch-app,481568145
 VU#25,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#25,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
@@ -712,6 +712,6 @@ VU#25,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-re
 VU#25,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 VU#25,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#25,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
-VU#25,0.00000347,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
+VU#25,0.00000346,https://github.com/Galeax/CVE2CAPEC,Galeax/CVE2CAPEC,874674117
 VU#25,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#25,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564
