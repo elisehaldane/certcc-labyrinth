@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-710445848,0xbitx/DEDSEC_PTZ_EXPLOIT,dedsec_ptz_exploit,728bada392ea2a7b10c3da74d80ee5b2aca9e856,VU#318
+710445848,0xbitx/DEDSEC_PTZ_EXPLOIT,str,0766307d6eea22bf5278b56cc40057a232a8270a,VU#65
+710445848,0xbitx/DEDSEC_PTZ_EXPLOIT,dedsec_ptz_exploit,a0daec31bf0d991db592c2ea77570bfc16d4ff56,VU#13
