@@ -27,7 +27,6 @@ VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_
 VU#48,0.20000000,https://github.com/LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,LiritoShawshark/CVE-2023-46604_ActiveMQ_RCE_Recurrence,717942398
 VU#48,0.20000000,https://github.com/samphoerna/EvilTwin-ESP8266,samphoerna/EvilTwin-ESP8266,670428972
 VU#48,0.20000000,https://github.com/jasonjiiang/Log4Shell,jasonjiiang/Log4Shell,613500570
-VU#48,0.20000000,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#48,0.20000000,https://github.com/Noob-hacker369/Metasploit_Payload,Noob-hacker369/Metasploit_Payload,565479716
 VU#48,0.20000000,https://github.com/rcesarpacheco/rcesarpacheco.github.io,rcesarpacheco/rcesarpacheco.github.io,527810294
 VU#48,0.16666667,https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi,ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi,948710832
@@ -106,6 +105,7 @@ VU#48,0.05555556,https://github.com/patrick0314/Exploiting-Perceptual-Anchoring-
 VU#48,0.05555556,https://github.com/io-poc/poc-18,io-poc/poc-18,494181325
 VU#48,0.05263158,https://github.com/arazzaq178/Predicting-Software-Vulnerability-Exploits,arazzaq178/Predicting-Software-Vulnerability-Exploits,944635091
 VU#48,0.05263158,https://github.com/kh4sh3i/Offline-Pentest-Toolkit,kh4sh3i/Offline-Pentest-Toolkit,922670154
+VU#48,0.05263158,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#48,0.05263158,https://github.com/Neluve/Nelusion9,Neluve/Nelusion9,533797468
 VU#48,0.05263158,https://github.com/minhangxiaohui/Weblogic_Coherence_exploit,minhangxiaohui/Weblogic_Coherence_exploit,503679881
 VU#48,0.05000000,https://github.com/LauraZafra/Econometrics,LauraZafra/Econometrics,885838859
@@ -152,6 +152,7 @@ VU#48,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algor
 VU#48,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#48,0.03333333,https://github.com/TamjidHossain/CS791_DPFL_Project,TamjidHossain/CS791_DPFL_Project,485586608
 VU#48,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
+VU#48,0.03225806,https://github.com/8ehrad/LSTM-Bias-Fake-News,8ehrad/LSTM-Bias-Fake-News,961383339
 VU#48,0.03225806,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#48,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#48,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405

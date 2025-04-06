@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 MS17-010,1.00000000,https://github.com/Kalpeshdhamanse/Bluemoon,Kalpeshdhamanse/Bluemoon,959923670
+MS17-010,1.00000000,https://github.com/saadoxo/Ethical-Hacking-Course-Notes-The-Cyber-Mentor,saadoxo/Ethical-Hacking-Course-Notes-The-Cyber-Mentor,958701852
 MS17-010,1.00000000,https://github.com/ramyardaneshgar/THM-Writeup-C2,ramyardaneshgar/THM-Writeup-C2,957001376
 MS17-010,1.00000000,https://github.com/foolsec/vibehacker_metasploit_mcp,foolsec/vibehacker_metasploit_mcp,956271295
 MS17-010,1.00000000,https://github.com/bhushanD123/IVS_RECON,bhushanD123/IVS_RECON,954849567
@@ -663,9 +664,9 @@ MS17-010,0.00262467,https://github.com/mikaelkall/HackingAllTheThings,mikaelkall
 MS17-010,0.00261097,https://github.com/iampbot/WindowsExploitsToRunAShareOn,iampbot/WindowsExploitsToRunAShareOn,509629170
 MS17-010,0.00255754,https://github.com/MdTauheedAlam/Pentest-MetaSploit,MdTauheedAlam/Pentest-MetaSploit,481726227
 MS17-010,0.00248139,https://github.com/helloexp/0day,helloexp/0day,478826386
-MS17-010,0.00224719,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00224215,https://github.com/offensive-security/exploitdb-papers,offensive-security/exploitdb-papers,111840859
 MS17-010,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
+MS17-010,0.00212766,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 MS17-010,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
 MS17-010,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
@@ -702,7 +703,7 @@ MS17-010,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 MS17-010,0.00028209,https://github.com/rothilion26/cve2023-data,rothilion26/cve2023-data,721764317
 MS17-010,0.00028185,https://github.com/NaInSec/CVE-PoC-in-GitHub,NaInSec/CVE-PoC-in-GitHub,776065052
 MS17-010,0.00027601,https://github.com/7Ragnarok7/Windows-Exploit-Suggester-2,7Ragnarok7/Windows-Exploit-Suggester-2,327574487
-MS17-010,0.00027533,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+MS17-010,0.00027518,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 MS17-010,0.00027049,https://github.com/manas3c/CVE-POC,manas3c/CVE-POC,601742176
 MS17-010,0.00027034,https://github.com/IAmAnubhavSaini/wes.py3,IAmAnubhavSaini/wes.py3,416837367
 MS17-010,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
@@ -812,7 +813,7 @@ MS17-010,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metas
 MS17-010,0.00018369,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00014899,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS17-010,0.00013814,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS17-010,0.00013812,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
 MS17-010,0.00012077,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
