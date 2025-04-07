@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+961904858,pixilated730/NextJS-Exploit-,README.md,077ddc8e4b959432c948117c1cb02c1ec54e125a,CVE-2025-29927
+961904858,pixilated730/NextJS-Exploit-,NextSploit.py,58b66869e52e0ba332702f5f019e1393f77cda48,CVE-2025-29927
+961904858,pixilated730/NextJS-Exploit-,_GITHUB_REPO_METADATA_,,CVE-2025-29927
