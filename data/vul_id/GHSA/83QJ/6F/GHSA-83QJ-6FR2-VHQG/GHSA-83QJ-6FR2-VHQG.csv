@@ -1,2 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+GHSA-83QJ-6FR2-VHQG,0.50000000,https://github.com/La3B0z/CVE-2025-24813-POC,La3B0z/CVE-2025-24813-POC,961573027
 GHSA-83QJ-6FR2-VHQG,0.50000000,https://github.com/MuhammadWaseem29/CVE-2025-24813,MuhammadWaseem29/CVE-2025-24813,961102918

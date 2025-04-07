@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-ZDI-CAN-25456,0.00212766,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
-ZDI-CAN-25456,0.00013812,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-25456,0.00210526,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+ZDI-CAN-25456,0.00013808,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 ZDI-CAN-25456,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
-ZDI-CAN-25456,0.00012077,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+ZDI-CAN-25456,0.00012076,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 ZDI-CAN-25456,0.00000717,https://github.com/trickest/cve,trickest/cve,454015416
