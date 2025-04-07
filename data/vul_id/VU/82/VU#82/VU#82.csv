@@ -3,7 +3,7 @@ VU#82,1.00000000,https://github.com/0x1zeroday/zeroday,0x1zeroday/zeroday,946947
 VU#82,1.00000000,https://github.com/Lelezinski/buffer-overflow-demo,Lelezinski/buffer-overflow-demo,607911139
 VU#82,1.00000000,https://github.com/zysxmu/LTS,zysxmu/LTS,567066352
 VU#82,1.00000000,https://github.com/MuseMamba/Exploit-Format-String-Vulnerabilities,MuseMamba/Exploit-Format-String-Vulnerabilities,207324279
-VU#82,0.50000000,https://github.com/archerlium/Pentest__exam_project,archerlium/Pentest__exam_project,958941148
+VU#82,0.50000000,https://github.com/archerlium/Pentest_exam_project,archerlium/Pentest_exam_project,958941148
 VU#82,0.50000000,https://github.com/MicheleCovi/Vulnerability_Exploitation_Report_MicheleCovi.pdf,MicheleCovi/Vulnerability_Exploitation_Report_MicheleCovi.pdf,808669594
 VU#82,0.50000000,https://github.com/hello-n-bye/starry,hello-n-bye/starry,762152550
 VU#82,0.50000000,https://github.com/mbadanoiu/CVE-2022-25813,mbadanoiu/CVE-2022-25813,732790883
@@ -375,6 +375,7 @@ VU#82,0.01136364,https://github.com/FrancescoVIncelli/E2E_ASR_QNN,FrancescoVInce
 VU#82,0.01136364,https://github.com/ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,ribesstefano/Mapping-Multiple-LSTM-Models-on-FPGAs,379009587
 VU#82,0.01123596,https://github.com/wr0x00/Lizard,wr0x00/Lizard,512683198
 VU#82,0.01123596,https://github.com/zhzyker/vulmap,zhzyker/vulmap,302553989
+VU#82,0.01111111,https://github.com/SiR-PENt/sc-exploits-minimized,SiR-PENt/sc-exploits-minimized,961827273
 VU#82,0.01111111,https://github.com/Usengo/sc-exploits-minimized,Usengo/sc-exploits-minimized,954423055
 VU#82,0.01111111,https://github.com/venkyp2552/sc-exploits-minimized,venkyp2552/sc-exploits-minimized,949997024
 VU#82,0.01111111,https://github.com/nathan-websculpt/cyfrin-sc-exploits-minimized,nathan-websculpt/cyfrin-sc-exploits-minimized,921277783
@@ -628,7 +629,7 @@ VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#82,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#82,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#82,0.00027510,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82,0.00027480,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
