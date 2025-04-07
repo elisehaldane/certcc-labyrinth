@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+961785792,Deepikbabu/pentest-arsenal,README.md,9b30d2e44548caa5c6c275fd8f8f892fe139d1c4,CVE-2014-0160
+961785792,Deepikbabu/pentest-arsenal,README.md,9b30d2e44548caa5c6c275fd8f8f892fe139d1c4,CVE-2014-6271
+961785792,Deepikbabu/pentest-arsenal,README.md,9b30d2e44548caa5c6c275fd8f8f892fe139d1c4,CVE-2017-7494
