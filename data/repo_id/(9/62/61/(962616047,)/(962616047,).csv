@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+962616047,l4rped/glpi-exploit,CVE.yml,edb797ff44608a72d7ffe4b1045d00ee31048f21,CVE-2021-43778

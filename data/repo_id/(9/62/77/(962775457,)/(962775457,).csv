@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+962775457,seeker505/sleuth,sleuth.cfg,b6301578e96838800561ba06adabfaa308984ea6,CVE-2021-20323
+962775457,seeker505/sleuth,sleuth.cfg,b6301578e96838800561ba06adabfaa308984ea6,CVE-2023-24044
