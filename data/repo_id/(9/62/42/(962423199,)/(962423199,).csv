@@ -1,0 +1,6 @@
+repo_id,repo_full_name,file,file_sha1,match
+962423199,servais1983/cobra-iot-pentest,frontend/src/App.tsx,2391029445f2c17b031f58f6ae50092c567fb2cf,CVE-2022-1111
+962423199,servais1983/cobra-iot-pentest,frontend/src/App.tsx,2391029445f2c17b031f58f6ae50092c567fb2cf,CVE-2022-9012
+962423199,servais1983/cobra-iot-pentest,frontend/src/App.tsx,2391029445f2c17b031f58f6ae50092c567fb2cf,CVE-2023-1234
+962423199,servais1983/cobra-iot-pentest,frontend/src/App.tsx,2391029445f2c17b031f58f6ae50092c567fb2cf,CVE-2023-5678
+962423199,servais1983/cobra-iot-pentest,api/vulnerabilities.py,f500a4cf295691bc8d69e4b6d0d97df93a356cff,CVE-2022-12345

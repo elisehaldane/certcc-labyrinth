@@ -5,3 +5,6 @@ repo_id,repo_full_name,file,file_sha1,match
 927749989,shadabansari/Automate-Metasploit,metaexploit-automator.sh,9d1c1ab3ada4a46715971eb8498e1b5b965e9aa4,CVE-2019-0708
 927749989,shadabansari/Automate-Metasploit,metaexploit-automator.sh,9d1c1ab3ada4a46715971eb8498e1b5b965e9aa4,CVE-2023-21554
 927749989,shadabansari/Automate-Metasploit,metaexploit-automator.sh,9d1c1ab3ada4a46715971eb8498e1b5b965e9aa4,MS17-010
+927749989,shadabansari/Automate-Metasploit,metaexploit-automator-CLI.sh,f4f7e682dbe958892413c1580128232b4f0c8208,CVE-2019-0708
+927749989,shadabansari/Automate-Metasploit,metaexploit-automator-CLI.sh,f4f7e682dbe958892413c1580128232b4f0c8208,CVE-2023-21554
+927749989,shadabansari/Automate-Metasploit,metaexploit-automator-CLI.sh,f4f7e682dbe958892413c1580128232b4f0c8208,MS17-010
