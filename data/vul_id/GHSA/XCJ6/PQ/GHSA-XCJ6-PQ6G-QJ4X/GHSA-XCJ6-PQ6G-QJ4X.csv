@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-XCJ6-PQ6G-QJ4X,0.33333333,https://github.com/iSee857/CVE-2025-31486-PoC,iSee857/CVE-2025-31486-PoC,961844910
-GHSA-XCJ6-PQ6G-QJ4X,0.00203252,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-XCJ6-PQ6G-QJ4X,0.00199203,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-XCJ6-PQ6G-QJ4X,0.00057937,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-XCJ6-PQ6G-QJ4X,0.00027473,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-XCJ6-PQ6G-QJ4X,0.00027420,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433

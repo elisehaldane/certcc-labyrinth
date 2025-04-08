@@ -64,6 +64,7 @@ VU#87,0.08333333,https://github.com/Zounzxx/exploits,Zounzxx/exploits,795312393
 VU#87,0.08333333,https://github.com/raiamna0/Elysion-of-Network-Analysis-Penetration-Testing-and-Vulnerability-Exploitation,raiamna0/Elysion-of-Network-Analysis-Penetration-Testing-and-Vulnerability-Exploitation,569110807
 VU#87,0.08333333,https://github.com/Louzogh/CVE-2021-31800,Louzogh/CVE-2021-31800,531854393
 VU#87,0.08333333,https://github.com/EsharkyTheGreat/Kernel-Exploitation,EsharkyTheGreat/Kernel-Exploitation,451109324
+VU#87,0.07692308,https://github.com/goncalocsousa1/CVE-2025-29927,goncalocsousa1/CVE-2025-29927,962523684
 VU#87,0.07692308,https://github.com/ktala/hacking-the-art-of-exploitation,ktala/hacking-the-art-of-exploitation,939986017
 VU#87,0.07692308,https://github.com/yukishiro1/exploit,yukishiro1/exploit,849332921
 VU#87,0.07692308,https://github.com/Actariss/TFE_Exploitation,Actariss/TFE_Exploitation,797237875
@@ -230,7 +231,6 @@ VU#87,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,
 VU#87,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
 VU#87,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#87,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
-VU#87,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#87,0.01724138,https://github.com/zwest808/6.s966-Final-Project,zwest808/6.s966-Final-Project,800103118
 VU#87,0.01724138,https://github.com/rogue0xbyte/zeus,rogue0xbyte/zeus,752620238
 VU#87,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
@@ -408,10 +408,10 @@ VU#87,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#87,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#87,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#87,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#87,0.00653595,https://github.com/Dalanmao-code/WenboMetaverse,Dalanmao-code/WenboMetaverse,952234021
 VU#87,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#87,0.00645161,https://github.com/BigDataEngineer/cloud9_rceovery,BigDataEngineer/cloud9_rceovery,753842587
 VU#87,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
+VU#87,0.00636943,https://github.com/Dalanmao-code/WenboMetaverse,Dalanmao-code/WenboMetaverse,952234021
 VU#87,0.00636943,https://github.com/dmw2166/rces-2022,dmw2166/rces-2022,740746399
 VU#87,0.00636943,https://github.com/tjcrone/rces-2022,tjcrone/rces-2022,536981801
 VU#87,0.00632911,https://github.com/DOI-USGS/knoten,DOI-USGS/knoten,159667690
@@ -450,6 +450,7 @@ VU#87,0.00502513,https://github.com/musheebat/windows-privesc-tools,musheebat/wi
 VU#87,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#87,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#87,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#87,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#87,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#87,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#87,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -474,6 +475,7 @@ VU#87,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcod
 VU#87,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#87,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 VU#87,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#87,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#87,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#87,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#87,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
@@ -583,7 +585,7 @@ VU#87,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#87,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#87,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#87,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#87,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#87,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#87,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#87,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#87,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-62PR-QQF7-HH89,0.00019179,https://github.com/arkede/cve-2023,arkede/cve-2023,956982314
-GHSA-62PR-QQF7-HH89,0.00003526,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-62PR-QQF7-HH89,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-62PR-QQF7-HH89,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-62PR-QQF7-HH89,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

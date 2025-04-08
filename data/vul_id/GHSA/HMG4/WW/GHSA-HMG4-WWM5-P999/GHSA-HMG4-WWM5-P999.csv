@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HMG4-WWM5-P999,0.50000000,https://github.com/Puben/CVE-2025-24011-PoC,Puben/CVE-2025-24011-PoC,952503391
-GHSA-HMG4-WWM5-P999,0.00203252,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-HMG4-WWM5-P999,0.00199203,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-HMG4-WWM5-P999,0.00057937,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-HMG4-WWM5-P999,0.00027473,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-HMG4-WWM5-P999,0.00027420,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433

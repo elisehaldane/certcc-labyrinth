@@ -237,7 +237,6 @@ VU#40,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#40,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#40,0.01754386,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#40,0.01754386,https://github.com/ianwolf99/EXPLOIT,ianwolf99/EXPLOIT,234044518
-VU#40,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#40,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#40,0.01724138,https://github.com/xxycfhb/pku_exploit_files,xxycfhb/pku_exploit_files,347069243
 VU#40,0.01694915,https://github.com/sdsatumd/exploitability-tools,sdsatumd/exploitability-tools,448111336
@@ -436,9 +435,9 @@ VU#40,0.00671141,https://github.com/flazarte/cyberex,flazarte/cyberex,442655946
 VU#40,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364
 VU#40,0.00662252,https://github.com/Karmaz95/crimson_wisp,Karmaz95/crimson_wisp,503833535
 VU#40,0.00662252,https://github.com/SmartData-Polito/honeycluster,SmartData-Polito/honeycluster,474309060
-VU#40,0.00653595,https://github.com/Dalanmao-code/WenboMetaverse,Dalanmao-code/WenboMetaverse,952234021
 VU#40,0.00645161,https://github.com/FelloBoiYuuka/ToxicDatabase,FelloBoiYuuka/ToxicDatabase,917728385
 VU#40,0.00641026,https://github.com/ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,ShuhongLL/Exploiting-Chaotic-Dynamics-as-DNNs,766392084
+VU#40,0.00636943,https://github.com/Dalanmao-code/WenboMetaverse,Dalanmao-code/WenboMetaverse,952234021
 VU#40,0.00628931,https://github.com/seclib/BlueTeamSploit,seclib/BlueTeamSploit,835064823
 VU#40,0.00628931,https://github.com/saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,saad-shaikh14/Analyzing-Cats-and-Dogs-Dataset,593577544
 VU#40,0.00621118,https://github.com/JavaScripterv4/Tiktok-Coin-Exploit,JavaScripterv4/Tiktok-Coin-Exploit,721169184
@@ -464,6 +463,7 @@ VU#40,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome
 VU#40,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#40,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#40,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#40,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#40,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#40,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#40,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -483,6 +483,7 @@ VU#40,0.00392157,https://github.com/VMunhangane/NETWORK-TD-SOM-Master-thesis,VMu
 VU#40,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a2148001284/Vulnerability_POC-EXP,822077566
 VU#40,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#40,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
+VU#40,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#40,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#40,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#40,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155

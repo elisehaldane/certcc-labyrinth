@@ -226,7 +226,6 @@ VU#39,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE
 VU#39,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#39,0.01754386,https://github.com/SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,SNE-M23-SN/Top-10-API-Vulnerabilities-with-vAPI,821756227
 VU#39,0.01754386,https://github.com/AndresFDev/PS4Exploit900,AndresFDev/PS4Exploit900,496468397
-VU#39,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#39,0.01724138,https://github.com/PierreDaguier/CryptoCactus,PierreDaguier/CryptoCactus,550417101
 VU#39,0.01724138,https://github.com/tmenochet/PowerScan,tmenochet/PowerScan,322603394
 VU#39,0.01694915,https://github.com/TGF-2023-24/exploits,TGF-2023-24/exploits,688105908
@@ -473,6 +472,7 @@ VU#39,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm
 VU#39,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#39,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#39,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#39,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#39,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#39,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#39,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -497,6 +497,7 @@ VU#39,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcod
 VU#39,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#39,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
 VU#39,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#39,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#39,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#39,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#39,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
@@ -599,7 +600,7 @@ VU#39,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#39,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#39,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#39,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#39,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#39,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#39,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#39,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#39,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

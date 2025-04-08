@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 ZSL-2023-5790,0.00090580,https://github.com/zeroscience/advisory,zeroscience/advisory,73128257
 ZSL-2023-5790,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 ZSL-2023-5790,0.00010774,https://github.com/arkede/cve-2024,arkede/cve-2024,956982362
-ZSL-2023-5790,0.00003526,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+ZSL-2023-5790,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 ZSL-2023-5790,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 ZSL-2023-5790,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
 ZSL-2023-5790,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206

@@ -65,6 +65,7 @@ VU#95,0.09090909,https://github.com/nguyenbadac0405/prod_RCE,nguyenbadac0405/pro
 VU#95,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#95,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
 VU#95,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
+VU#95,0.08333333,https://github.com/housam123456789/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,housam123456789/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,962779982
 VU#95,0.08333333,https://github.com/Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,960889517
 VU#95,0.08333333,https://github.com/tonyarris/CVE-2025-24813-PoC,tonyarris/CVE-2025-24813-PoC,953100819
 VU#95,0.08333333,https://github.com/mirkozaff/aa-sgan,mirkozaff/aa-sgan,835281085
@@ -199,7 +200,6 @@ VU#95,0.01754386,https://github.com/Shaku-Med/exploit,Shaku-Med/exploit,82070636
 VU#95,0.01754386,https://github.com/kevin-9871/ExploitKit,kevin-9871/ExploitKit,761511327
 VU#95,0.01754386,https://github.com/mickrew/DogScan,mickrew/DogScan,487328683
 VU#95,0.01754386,https://github.com/redcode-labs/Svetovid,redcode-labs/Svetovid,330789985
-VU#95,0.01724138,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#95,0.01724138,https://github.com/ayushshankaram/pairs-trading-algo,ayushshankaram/pairs-trading-algo,809515548
 VU#95,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#95,0.01724138,https://github.com/bjelefano/CSC427Winter2022-MetasploitAssignment,bjelefano/CSC427Winter2022-MetasploitAssignment,469535086
@@ -380,6 +380,7 @@ VU#95,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome
 VU#95,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#95,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#95,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
+VU#95,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#95,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#95,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#95,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
@@ -402,6 +403,7 @@ VU#95,0.00386100,https://github.com/a2148001284/Vulnerability_POC-EXP,a214800128
 VU#95,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,740749828
 VU#95,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#95,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
+VU#95,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#95,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#95,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#95,0.00331126,https://github.com/readloud/PrivEsc,readloud/PrivEsc,791133155
@@ -463,7 +465,7 @@ VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#95,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#95,0.00027473,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#95,0.00027420,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#95,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
