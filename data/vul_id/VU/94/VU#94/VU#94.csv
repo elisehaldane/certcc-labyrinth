@@ -72,6 +72,7 @@ VU#94,0.06666667,https://github.com/r00t4dm/Jenkins-CVE-2017-1000353,r00t4dm/Jen
 VU#94,0.06666667,https://github.com/yuichiroaoki/inverse-finance-exploit,yuichiroaoki/inverse-finance-exploit,523178949
 VU#94,0.06666667,https://github.com/fourwadu/nomadhack,fourwadu/nomadhack,522888640
 VU#94,0.06666667,https://github.com/DataDog/security-labs-pocs,DataDog/security-labs-pocs,483783009
+VU#94,0.05882353,https://github.com/FelipeKreulich/venom-forge,FelipeKreulich/venom-forge,962293678
 VU#94,0.05882353,https://github.com/theretrogeekyt/Xpode360-Starter-Pack,theretrogeekyt/Xpode360-Starter-Pack,946214849
 VU#94,0.05882353,https://github.com/Astrowmist/POC-CVE-2012-1831,Astrowmist/POC-CVE-2012-1831,894342199
 VU#94,0.05555556,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
@@ -533,7 +534,7 @@ VU#94,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#94,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#94,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#94,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#94,0.00018362,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#94,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#94,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#94,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#94,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -553,9 +554,9 @@ VU#94,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#94,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#94,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#94,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
-VU#94,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#94,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#94,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#94,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 VU#94,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
+VU#94,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#94,0.00001219,https://github.com/hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,hellmaxx/Vulnerability-and-exploit-collector-and-map-for-information-security-analytics,613327762

@@ -64,6 +64,7 @@ VU#89,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriara
 VU#89,0.11111111,https://github.com/readloud/xmlrpc-bruteforcer,readloud/xmlrpc-bruteforcer,450848802
 VU#89,0.11111111,https://github.com/rasyidrafi/R3Xploit,rasyidrafi/R3Xploit,345617409
 VU#89,0.11111111,https://github.com/JsHuang/exploit_db,JsHuang/exploit_db,146378813
+VU#89,0.10000000,https://github.com/WillBryan-Askay/Predicting-Sexual-Exploitation-from-Human-Trafficking-Data,WillBryan-Askay/Predicting-Sexual-Exploitation-from-Human-Trafficking-Data,962253691
 VU#89,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,597637403
 VU#89,0.10000000,https://github.com/MrShoenel/hmm-paper-2020-R-experiments,MrShoenel/hmm-paper-2020-R-experiments,260986338
 VU#89,0.09090909,https://github.com/hunarbatra/multi-agent-exploit-evals,hunarbatra/multi-agent-exploit-evals,937471625
@@ -275,7 +276,7 @@ VU#89,0.01515152,https://github.com/K3rnel-Dev/KatanaFramework,K3rnel-Dev/Katana
 VU#89,0.01492537,https://github.com/Akiii56/Credit-Card-Fraud-Detection,Akiii56/Credit-Card-Fraud-Detection,928800983
 VU#89,0.01492537,https://github.com/tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,tuchapong1234/HW1-Exploring_Exploration_vs_Exploitation,746870483
 VU#89,0.01492537,https://github.com/yzhang511/neural_decoding,yzhang511/neural_decoding,678627048
-VU#89,0.01449275,https://github.com/GarudaR007X/SubHunterX,GarudaR007X/SubHunterX,910052787
+VU#89,0.01449275,https://github.com/who0xac/SubHunterX,who0xac/SubHunterX,910052787
 VU#89,0.01449275,https://github.com/davidcsisk/vector-search-with-security-logs,davidcsisk/vector-search-with-security-logs,836910080
 VU#89,0.01449275,https://github.com/ywChen-NTUST/CVE-POC,ywChen-NTUST/CVE-POC,684467643
 VU#89,0.01449275,https://github.com/PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,PrashantWaghela24/Thesis-Multimodal-Fake-News-and-Tampered-Image-Detection-using-Transformer-and-CNN-Based-Algorithms,562949550
@@ -552,7 +553,7 @@ VU#89,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#89,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#89,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#89,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#89,0.00058038,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#89,0.00057937,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#89,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#89,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#89,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
@@ -597,7 +598,7 @@ VU#89,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#89,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#89,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#89,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#89,0.00018362,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#89,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#89,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#89,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 VU#89,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

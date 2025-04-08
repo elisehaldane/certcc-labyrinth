@@ -108,6 +108,7 @@ VU#20,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581992
 VU#20,0.06250000,https://github.com/Watermelon-OO/GCEK,Watermelon-OO/GCEK,581765227
 VU#20,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
 VU#20,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#20,0.05882353,https://github.com/FelipeKreulich/venom-forge,FelipeKreulich/venom-forge,962293678
 VU#20,0.05882353,https://github.com/WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,930196286
 VU#20,0.05882353,https://github.com/deepdown2death/DIABLE-Log4Shell,deepdown2death/DIABLE-Log4Shell,920722687
 VU#20,0.05882353,https://github.com/muad-u/CyberSentinels,muad-u/CyberSentinels,889993446
@@ -532,7 +533,7 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00027480,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00027473,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -573,7 +574,7 @@ VU#20,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#20,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#20,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#20,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#20,0.00018362,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#20,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#20,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#20,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#20,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

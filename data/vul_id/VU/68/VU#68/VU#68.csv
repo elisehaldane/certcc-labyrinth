@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#68,1.00000000,https://github.com/CoolBoy1337/Noob-Executor,CoolBoy1337/Noob-Executor,869367828
 VU#68,1.00000000,https://github.com/yoyoyosj/zerodayattackdetection_AE-IF,yoyoyosj/zerodayattackdetection_AE-IF,842849474
+VU#68,1.00000000,https://github.com/M82-project/LMI,M82-project/LMI,793172641
 VU#68,1.00000000,https://github.com/passer-W/shc_bypass,passer-W/shc_bypass,517506053
 VU#68,1.00000000,https://github.com/OopsZero234/XeraX-Exploit,OopsZero234/XeraX-Exploit,514523688
 VU#68,1.00000000,https://github.com/mshhlvxk/basic-easy-exploits-executor,mshhlvxk/basic-easy-exploits-executor,502363392
@@ -80,6 +81,7 @@ VU#68,0.11111111,https://github.com/strobes-test/st-ExploitableApp,strobes-test/
 VU#68,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
 VU#68,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
 VU#68,0.11111111,https://github.com/sschakraborty/SecurityPOC,sschakraborty/SecurityPOC,437516742
+VU#68,0.10000000,https://github.com/WillBryan-Askay/Predicting-Sexual-Exploitation-from-Human-Trafficking-Data,WillBryan-Askay/Predicting-Sexual-Exploitation-from-Human-Trafficking-Data,962253691
 VU#68,0.10000000,https://github.com/iamumarjaved/Information-Security,iamumarjaved/Information-Security,739135576
 VU#68,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#68,0.09090909,https://github.com/VRiku/Nitro-Exploit,VRiku/Nitro-Exploit,894562743
@@ -533,7 +535,7 @@ VU#68,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#68,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#68,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#68,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
-VU#68,0.00018362,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#68,0.00018359,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#68,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#68,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#68,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
@@ -556,11 +558,11 @@ VU#68,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#68,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#68,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#68,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
-VU#68,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#68,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#68,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#68,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 VU#68,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
+VU#68,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#68,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#68,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 VU#68,0.00000716,https://github.com/trickest/cve,trickest/cve,454015416

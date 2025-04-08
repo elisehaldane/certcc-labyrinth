@@ -153,6 +153,7 @@ VU#85,0.06250000,https://github.com/sumitdahake23/rceomchrysalis_2023.github.io,
 VU#85,0.06250000,https://github.com/iFreeDomain/CVE-2022-GE54JN-YH34E,iFreeDomain/CVE-2022-GE54JN-YH34E,512102628
 VU#85,0.06250000,https://github.com/alvinjz2/Cassandra,alvinjz2/Cassandra,494179836
 VU#85,0.06250000,https://github.com/marcocesarato/PHP-Antimalware-Scanner,marcocesarato/PHP-Antimalware-Scanner,126197487
+VU#85,0.05882353,https://github.com/FelipeKreulich/venom-forge,FelipeKreulich/venom-forge,962293678
 VU#85,0.05882353,https://github.com/muad-u/CyberSentinels,muad-u/CyberSentinels,889993446
 VU#85,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
 VU#85,0.05882353,https://github.com/asozykin/demand_exploration,asozykin/demand_exploration,700947619
@@ -568,8 +569,8 @@ VU#85,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#85,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#85,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#85,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#85,0.00061050,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
-VU#85,0.00058038,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#85,0.00061013,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+VU#85,0.00057937,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#85,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#85,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#85,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
@@ -614,11 +615,11 @@ VU#85,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-expl
 VU#85,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 VU#85,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 VU#85,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
-VU#85,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#85,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/exploitdb,925692581
 VU#85,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 VU#85,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 VU#85,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
+VU#85,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#85,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#85,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 VU#85,0.00000716,https://github.com/trickest/cve,trickest/cve,454015416

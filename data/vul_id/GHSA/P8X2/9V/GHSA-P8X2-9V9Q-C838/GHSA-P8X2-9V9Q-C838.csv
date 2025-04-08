@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-P8X2-9V9Q-C838,0.00204918,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-P8X2-9V9Q-C838,0.00203252,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-P8X2-9V9Q-C838,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 GHSA-P8X2-9V9Q-C838,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
