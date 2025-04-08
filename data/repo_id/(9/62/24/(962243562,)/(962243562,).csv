@@ -1,0 +1,8 @@
+repo_id,repo_full_name,file,file_sha1,match
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,exploit.html,0267983c67f701f100828d299e392705ca7c34b0,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,README.md,1da7c014847b763ab103fddf324cd8f742daa616,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,src/main/java/com/evil/GenerateMaliciousParquet.java,621f2c5ec6f4421177fc27c9ce909aa156914662,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,src/main/java/com/evil/GenerateMaliciousParquetSSRF.java,64d668a64cac91e6bfad3187231bfb11253a9b6e,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,pom.xml,69f3d3937d38214bc0f2f7defabec3442b802824,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,src/main/java/com/evil/RCEPayload.java,ef1038a3d11abd105b35a2fb36535ec9f8d6d226,CVE-2025-30065
+962243562,mouadk/parquet-rce-poc-CVE-2025-30065,_GITHUB_REPO_METADATA_,,CVE-2025-30065
