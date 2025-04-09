@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+963125052,H1ng007/CVE-2024-3640_WafBypass,README.md,0e54c2948b5d8efe283c23eb60f10b5e6a2125f1,CVE-2024-3640
+963125052,H1ng007/CVE-2024-3640_WafBypass,src/main/java/me/gv7/woodpecker/plugin/exploit/GeoserverlRceExp.java,3e0bd2a641531d28a5c0616288bd002544b795fb,VU#29
+963125052,H1ng007/CVE-2024-3640_WafBypass,src/main/java/me/gv7/woodpecker/plugin/pocs/GeoserverlRcePoc.java,85868884d315d704f16915651dd0a6e2589619d9,CVE-2024-3640
+963125052,H1ng007/CVE-2024-3640_WafBypass,pom.xml,d9e59ed73a4eff83b26f9a4db7702504e7f0e92a,CVE-2024-3640
+963125052,H1ng007/CVE-2024-3640_WafBypass,src/main/java/me/gv7/woodpecker/plugin/GeoserverVulPlugin.java,e88bae52950508a60bc4d13070722963246faf84,CVE-2024-36401
+963125052,H1ng007/CVE-2024-3640_WafBypass,_GITHUB_REPO_METADATA_,,CVE-2024-3640
