@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+963355993,l1uk/nextjs-middleware-exploit,README.md,07e0a44ca87fb59ecb39b13fe91491a93267781a,CVE-2025-29927
+963355993,l1uk/nextjs-middleware-exploit,README.md,07e0a44ca87fb59ecb39b13fe91491a93267781a,GHSA-F82V-JWR5-MFFW
+963355993,l1uk/nextjs-middleware-exploit,_GITHUB_REPO_METADATA_,,CVE-2025-29927
