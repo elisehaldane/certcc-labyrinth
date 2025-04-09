@@ -1,8 +1,8 @@
 repo_id,repo_full_name,file,file_sha1,match
-13932470,leebaird/discover,newModules.sh,18b89f95b6a15637fe9be380bd9f3ab7955bc906,MS06-025
-13932470,leebaird/discover,newModules.sh,18b89f95b6a15637fe9be380bd9f3ab7955bc906,MS07-029
-13932470,leebaird/discover,newModules.sh,18b89f95b6a15637fe9be380bd9f3ab7955bc906,MS08-067
-13932470,leebaird/discover,newModules.sh,18b89f95b6a15637fe9be380bd9f3ab7955bc906,MS10-054
+13932470,leebaird/discover,newModules.sh,0983a456290fcbda9c3d0ba3062a898469ed7fa6,MS06-025
+13932470,leebaird/discover,newModules.sh,0983a456290fcbda9c3d0ba3062a898469ed7fa6,MS07-029
+13932470,leebaird/discover,newModules.sh,0983a456290fcbda9c3d0ba3062a898469ed7fa6,MS08-067
+13932470,leebaird/discover,newModules.sh,0983a456290fcbda9c3d0ba3062a898469ed7fa6,MS10-054
 13932470,leebaird/discover,resource/445-smb.rc,2725e9db5b1a39ead844be3f5105d603b23dfcf2,MS17-010
 13932470,leebaird/discover,nse.sh,2ce2db67d09f70449651c1b97663c5e687ca588a,CVE-2017-7494
 13932470,leebaird/discover,nse.sh,2ce2db67d09f70449651c1b97663c5e687ca588a,MS17-010
