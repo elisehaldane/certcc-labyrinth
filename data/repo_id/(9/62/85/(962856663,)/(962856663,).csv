@@ -1,0 +1,9 @@
+repo_id,repo_full_name,file,file_sha1,match
+962856663,snakesec/merlin,merlin-agent/docs/CHANGELOG.MD,7d62eb818a3463317ae7c3bb1f2c3a9ffeaf2eb8,CVE-2024-2687
+962856663,snakesec/merlin,merlin-agent/docs/CHANGELOG.MD,7d62eb818a3463317ae7c3bb1f2c3a9ffeaf2eb8,CVE-2024-28180
+962856663,snakesec/merlin,docs/CHANGELOG.MD,b66b81b555b9b3456f4525803c6e76b473c33339,CVE-2023-45288
+962856663,snakesec/merlin,docs/CHANGELOG.MD,b66b81b555b9b3456f4525803c6e76b473c33339,CVE-2024-24786
+962856663,snakesec/merlin,docs/CHANGELOG.MD,b66b81b555b9b3456f4525803c6e76b473c33339,CVE-2024-28180
+962856663,snakesec/merlin,merlin-agent/go.sum,e18d8e6e1d8a3ba717792303c98b2f9b9f3d472e,VU#144
+962856663,snakesec/merlin,merlin-cli/docs/CHANGELOG.MD,e50520afe527efed4f7a9fb8f1024f13b2ba8554,CVE-2023-45288
+962856663,snakesec/merlin,merlin-cli/docs/CHANGELOG.MD,e50520afe527efed4f7a9fb8f1024f13b2ba8554,CVE-2024-24786
