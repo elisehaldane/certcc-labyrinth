@@ -115,6 +115,7 @@ VU#29,0.50000000,https://github.com/zyn3rgy/ecp_slap,zyn3rgy/ecp_slap,306497480
 VU#29,0.50000000,https://github.com/m8sec/EAPrimer,m8sec/EAPrimer,298064170
 VU#29,0.50000000,https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab,257829329
 VU#29,0.50000000,https://github.com/Ridter/cve-2020-0688,Ridter/cve-2020-0688,243416592
+VU#29,0.33333333,https://github.com/H1ng007/CVE-2024-3640_WafBypass,H1ng007/CVE-2024-3640_WafBypass,963125052
 VU#29,0.33333333,https://github.com/Yhael028373/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,Yhael028373/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,962764291
 VU#29,0.33333333,https://github.com/Haristsj/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,Haristsj/Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection,962559896
 VU#29,0.33333333,https://github.com/SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK,960907175
@@ -519,6 +520,7 @@ VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#29,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#29,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#29,0.02000000,https://github.com/mozhua/Dream-Defender,mozhua/Dream-Defender,940525570
 VU#29,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#29,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
@@ -918,7 +920,7 @@ VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00027397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00027345,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -974,7 +976,7 @@ VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#29,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,936098931
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,934581112
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222

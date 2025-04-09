@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HPC8-7WPM-889W,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-HPC8-7WPM-889W,0.00019179,https://github.com/arkede/cve-2023,arkede/cve-2023,956982314
-GHSA-HPC8-7WPM-889W,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-HPC8-7WPM-889W,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-HPC8-7WPM-889W,0.00000716,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-HPC8-7WPM-889W,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

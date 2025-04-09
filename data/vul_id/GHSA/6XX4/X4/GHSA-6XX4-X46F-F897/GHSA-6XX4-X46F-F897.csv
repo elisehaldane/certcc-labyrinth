@@ -2,6 +2,6 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-6XX4-X46F-F897,0.01851852,https://github.com/Shelter1234/VulneraLab,Shelter1234/VulneraLab,763555782
 GHSA-6XX4-X46F-F897,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-6XX4-X46F-F897,0.00010774,https://github.com/arkede/cve-2024,arkede/cve-2024,956982362
-GHSA-6XX4-X46F-F897,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-6XX4-X46F-F897,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-6XX4-X46F-F897,0.00000716,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-6XX4-X46F-F897,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

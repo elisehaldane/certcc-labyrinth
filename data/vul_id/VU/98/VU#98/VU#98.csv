@@ -6,7 +6,6 @@ VU#98,1.00000000,https://github.com/restdone/exploit_restdone,restdone/exploit_r
 VU#98,1.00000000,https://github.com/Jbenhur8901/webscrapping,Jbenhur8901/webscrapping,563595619
 VU#98,0.50000000,https://github.com/Marc-andreLabonte/workshop-2024-Toolbox,Marc-andreLabonte/workshop-2024-Toolbox,799732413
 VU#98,0.50000000,https://github.com/h4mr3r/ADSLoader,h4mr3r/ADSLoader,723832677
-VU#98,0.50000000,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#98,0.50000000,https://github.com/Reginald-Gillespie/G,Reginald-Gillespie/G,713705796
 VU#98,0.50000000,https://github.com/GigglyGiggle/Fhack-Exploit,GigglyGiggle/Fhack-Exploit,612748677
 VU#98,0.50000000,https://github.com/Malware-S/Exploit-Win32.CVE-2017-0147.A,Malware-S/Exploit-Win32.CVE-2017-0147.A,444376167
@@ -236,6 +235,7 @@ VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#98,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
+VU#98,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#98,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#98,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#98,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
@@ -252,6 +252,7 @@ VU#98,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#98,0.01851852,https://github.com/francescofontana97/Covid19_analysis_DASK_distributed,francescofontana97/Covid19_analysis_DASK_distributed,434962934
 VU#98,0.01851852,https://github.com/oxagast/oxasploits,oxagast/oxasploits,194125746
 VU#98,0.01818182,https://github.com/seantywork/0xploit,seantywork/0xploit,804410945
+VU#98,0.01785714,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#98,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#98,0.01754386,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
 VU#98,0.01754386,https://github.com/YuweiZJ/rces-lecture,YuweiZJ/rces-lecture,537078094
@@ -555,7 +556,7 @@ VU#98,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#98,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#98,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#98,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#98,0.00027397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#98,0.00027345,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#98,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#98,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#98,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

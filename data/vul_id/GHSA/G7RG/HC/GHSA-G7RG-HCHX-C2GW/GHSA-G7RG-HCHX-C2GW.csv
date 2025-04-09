@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-G7RG-HCHX-C2GW,0.50000000,https://github.com/Live-Hack-CVE/CVE-2019-20043,Live-Hack-CVE/CVE-2019-20043,591418034
 GHSA-G7RG-HCHX-C2GW,0.01587302,https://github.com/S444-gold/30-days-of-Exploitation,S444-gold/30-days-of-Exploitation,661327458
 GHSA-G7RG-HCHX-C2GW,0.00126904,https://github.com/arkede/cve-2019,arkede/cve-2019,956982127
-GHSA-G7RG-HCHX-C2GW,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-G7RG-HCHX-C2GW,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-G7RG-HCHX-C2GW,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-G7RG-HCHX-C2GW,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
 GHSA-G7RG-HCHX-C2GW,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#25,1.00000000,https://github.com/nerdylua/Valo-exploit-trials,nerdylua/Valo-exploit-trials,953516021
 VU#25,1.00000000,https://github.com/SolBundle/Dahood-Exploit-Locator,SolBundle/Dahood-Exploit-Locator,946736134
+VU#25,1.00000000,https://github.com/fmelipin/OSEP-Preparation-Notes,fmelipin/OSEP-Preparation-Notes,945981294
 VU#25,1.00000000,https://github.com/alexskid/NanoSploit,alexskid/NanoSploit,912495409
 VU#25,1.00000000,https://github.com/derStecher03/Agent-Switcher,derStecher03/Agent-Switcher,447254008
 VU#25,0.50000000,https://github.com/ExploitFin/ExploitFin,ExploitFin/ExploitFin,937083661
@@ -217,7 +218,6 @@ VU#25,0.03333333,https://github.com/gankit-aiml/PersonaPrediction,gankit-aiml/Pe
 VU#25,0.03333333,https://github.com/Leo4j/Amnesiac,Leo4j/Amnesiac,712486603
 VU#25,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#25,0.03225806,https://github.com/8ehrad/LSTM-Bias-Fake-News,8ehrad/LSTM-Bias-Fake-News,961383339
-VU#25,0.03225806,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#25,0.03225806,https://github.com/BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC,885354155
 VU#25,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#25,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
@@ -243,6 +243,7 @@ VU#25,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#25,0.02777778,https://github.com/pe83/pe83.github.io,pe83/pe83.github.io,400566755
 VU#25,0.02777778,https://github.com/Wr0zen/wr0zen.github.io,Wr0zen/wr0zen.github.io,350901663
 VU#25,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
+VU#25,0.02702703,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#25,0.02702703,https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668,hshivhare67/Kernel_4.1.15_CVE-2020-25668,731058891
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,693501334
 VU#25,0.02702703,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128,Trinadh465/linux-4.1.15_CVE-2023-4128,692069430
@@ -306,6 +307,7 @@ VU#25,0.01818182,https://github.com/seantywork/0xploit,seantywork/0xploit,804410
 VU#25,0.01818182,https://github.com/CN016/Nuxeo-CVE-2018-16341,CN016/Nuxeo-CVE-2018-16341,715935878
 VU#25,0.01785714,https://github.com/uiuc-kang-lab/cve-bench,uiuc-kang-lab/cve-bench,938877548
 VU#25,0.01785714,https://github.com/nimad70/VulRAG,nimad70/VulRAG,849601220
+VU#25,0.01785714,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#25,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#25,0.01785714,https://github.com/smadec/Dilithium-decompose,smadec/Dilithium-decompose,669052644
 VU#25,0.01754386,https://github.com/dawidburcon/ExploitationProcessAnalysis,dawidburcon/ExploitationProcessAnalysis,915293788
@@ -666,7 +668,7 @@ VU#25,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#25,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#25,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#25,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#25,0.00027397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#25,0.00027345,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#25,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#25,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#25,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

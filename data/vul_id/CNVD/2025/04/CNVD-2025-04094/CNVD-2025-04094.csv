@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2025-04094,1.00000000,https://github.com/KzNight/CNVD-2025-04094-ollama_unauth,KzNight/CNVD-2025-04094-ollama_unauth,942480877
-CNVD-2025-04094,0.00390625,https://github.com/gobysec/GobyVuls,gobysec/GobyVuls,252611538
+CNVD-2025-04094,0.00389105,https://github.com/gobysec/GobyVuls,gobysec/GobyVuls,252611538
 CNVD-2025-04094,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703

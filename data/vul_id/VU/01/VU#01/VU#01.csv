@@ -10,7 +10,6 @@ VU#01,0.50000000,https://github.com/goldenstar9393/Shellcode_Injection_C-,golden
 VU#01,0.50000000,https://github.com/yoongi43/music_audio_enhancement_conformer,yoongi43/music_audio_enhancement_conformer,822066747
 VU#01,0.50000000,https://github.com/C-anwoy/Cross-Task-ICL,C-anwoy/Cross-Task-ICL,805709667
 VU#01,0.50000000,https://github.com/v3gahax/CVE-2023-33466,v3gahax/CVE-2023-33466,781710965
-VU#01,0.50000000,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#01,0.50000000,https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY,sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY,614479263
 VU#01,0.50000000,https://github.com/phamvandan/Exploit-Tools,phamvandan/Exploit-Tools,530050046
 VU#01,0.50000000,https://github.com/YoungsterDEV/circinuslayout-braincms-main,YoungsterDEV/circinuslayout-braincms-main,494753410
@@ -179,12 +178,12 @@ VU#01,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algor
 VU#01,0.03333333,https://github.com/ait-cs-IaaS/atb-ansible-postexploit,ait-cs-IaaS/atb-ansible-postexploit,644467679
 VU#01,0.03333333,https://github.com/akashdeeep/My_Verilog_Exploits,akashdeeep/My_Verilog_Exploits,542944653
 VU#01,0.03333333,https://github.com/ClaudioIngMate/Machine-Learning-Clustering,ClaudioIngMate/Machine-Learning-Clustering,538070841
-VU#01,0.03225806,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#01,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#01,0.03125000,https://github.com/Keshari07/10-Jan-2025-PNQ-WindCorp,Keshari07/10-Jan-2025-PNQ-WindCorp,914517913
 VU#01,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#01,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#01,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
+VU#01,0.02941176,https://github.com/BINAZON-Giovanni/OlistDataHub-Analyst,BINAZON-Giovanni/OlistDataHub-Analyst,963229114
 VU#01,0.02941176,https://github.com/InfoSec-HA/InfoSec-HA-Lab-V1,InfoSec-HA/InfoSec-HA-Lab-V1,824308366
 VU#01,0.02941176,https://github.com/safest-place/ExploitPcapCollection,safest-place/ExploitPcapCollection,585022885
 VU#01,0.02857143,https://github.com/ericyoc/hnn_attack_two_diff_defense_choices_poc,ericyoc/hnn_attack_two_diff_defense_choices_poc,804019135
@@ -195,6 +194,7 @@ VU#01,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#01,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#01,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#01,0.02702703,https://github.com/flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,947229376
+VU#01,0.02702703,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#01,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#01,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#01,0.02631579,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
@@ -297,6 +297,7 @@ VU#01,0.01851852,https://github.com/GamRcs/Fortnite-Hack-Esp-Exploits-With-Menu,
 VU#01,0.01851852,https://github.com/Orange-Cyberdefense/CVE-repository,Orange-Cyberdefense/CVE-repository,244651091
 VU#01,0.01818182,https://github.com/zrkhadija/Chronic-kidney-disease,zrkhadija/Chronic-kidney-disease,802525998
 VU#01,0.01818182,https://github.com/Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,Jafar-Abdollahi/An-artificial-intelligence-system-for-detecting-the-types-of-the-epidemic-from-X-rays-,376475768
+VU#01,0.01785714,https://github.com/yashchaurasia667/Binary-Exploitation,yashchaurasia667/Binary-Exploitation,717439451
 VU#01,0.01785714,https://github.com/Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,Trinadh465/frameworks_base_AOSP-4.2.2_r1_CVE-2023-21272,696732075
 VU#01,0.01754386,https://github.com/aquahubtest5/ExploitKit,aquahubtest5/ExploitKit,911466439
 VU#01,0.01754386,https://github.com/aquahubtest4/ExploitKit,aquahubtest4/ExploitKit,910045535
@@ -670,7 +671,7 @@ VU#01,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#01,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#01,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#01,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#01,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#01,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#01,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#01,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#01,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

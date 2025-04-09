@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-Q937-6MG8-6RGC,0.00178891,https://github.com/arkede/cve-2018,arkede/cve-2018,956982100
 GHSA-Q937-6MG8-6RGC,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-Q937-6MG8-6RGC,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-GHSA-Q937-6MG8-6RGC,0.00003523,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-Q937-6MG8-6RGC,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
