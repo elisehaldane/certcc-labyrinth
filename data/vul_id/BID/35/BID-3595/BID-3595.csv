@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 BID-3595,0.50000000,https://github.com/alt3kx/CVE-2001-0932,alt3kx/CVE-2001-0932,127838642
-BID-3595,0.00027420,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+BID-3595,0.00027397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 BID-3595,0.00008609,https://github.com/kylekirkby/Python-Exploit-Search-Tool,kylekirkby/Python-Exploit-Search-Tool,16252900
 BID-3595,0.00005811,https://github.com/wereallfeds/exploitdb,wereallfeds/exploitdb,55874497
 BID-3595,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094
@@ -51,7 +51,7 @@ BID-3595,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/explo
 BID-3595,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 BID-3595,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 BID-3595,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
-BID-3595,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+BID-3595,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 BID-3595,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 BID-3595,0.00000432,https://github.com/gmatuz/inthewilddb,gmatuz/inthewilddb,404367677
 BID-3595,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

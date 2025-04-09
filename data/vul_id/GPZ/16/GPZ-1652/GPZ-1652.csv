@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-1652,0.12500000,https://github.com/erupmi/CVE-2018-4416-exploit,erupmi/CVE-2018-4416-exploit,675512492
 GPZ-1652,0.03571429,https://github.com/sploitem/WebKitPwn,sploitem/WebKitPwn,633963768
 GPZ-1652,0.00319489,https://github.com/tunz/js-vuln-db,tunz/js-vuln-db,65058285
-GPZ-1652,0.00027420,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GPZ-1652,0.00027397,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GPZ-1652,0.00001435,https://github.com/gsmith257-cyber/BIT3434CVE,gsmith257-cyber/BIT3434CVE,571742046
 GPZ-1652,0.00001434,https://github.com/c4ristian/exploits,c4ristian/exploits,588967891
 GPZ-1652,0.00001430,https://github.com/khulnasoft-labs/exploitdb,khulnasoft-labs/exploitdb,668632186
@@ -25,5 +25,5 @@ GPZ-1652,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/explo
 GPZ-1652,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 GPZ-1652,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 GPZ-1652,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
-GPZ-1652,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+GPZ-1652,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 GPZ-1652,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179

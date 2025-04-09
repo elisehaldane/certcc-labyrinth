@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-RR6P-3PFG-562J,0.00199203,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
-GHSA-RR6P-3PFG-562J,0.00060533,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
-GHSA-RR6P-3PFG-562J,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+GHSA-RR6P-3PFG-562J,0.00198413,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-RR6P-3PFG-562J,0.00060132,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+GHSA-RR6P-3PFG-562J,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
