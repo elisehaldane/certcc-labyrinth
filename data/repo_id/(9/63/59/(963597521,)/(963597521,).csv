@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+963597521,ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM,README.md,15394a1cea5cb52c9d4a8acf46f2b63a24e18f89,CVE-2024-25600
+963597521,ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM,main.py,7af6cace69dd13ed2ae3a72fbbbf7d54ab9a47af,CVE-2024-25600
+963597521,ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM,_GITHUB_REPO_METADATA_,,CVE-2024-25600
