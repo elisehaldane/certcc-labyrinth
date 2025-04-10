@@ -74,6 +74,7 @@ VU#300,0.01851852,https://github.com/ChrisTheCoolHut/Linux_kernel_exploitation,C
 VU#300,0.01724138,https://github.com/prati0100/linux-0day,prati0100/linux-0day,476668983
 VU#300,0.01538462,https://github.com/bsauce/kernel-exploit-factory,bsauce/kernel-exploit-factory,320581760
 VU#300,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
+VU#300,0.01086957,https://github.com/zhatz111/Stupid-Metrics,zhatz111/Stupid-Metrics,946374783
 VU#300,0.00990099,https://github.com/Snoopy-Sec/Localroot-ALL-CVE,Snoopy-Sec/Localroot-ALL-CVE,237728869
 VU#300,0.00961538,https://github.com/farseem/ML-alzheimer-screening,farseem/ML-alzheimer-screening,925210877
 VU#300,0.00925926,https://github.com/tigrisg/PAPPL2021,tigrisg/PAPPL2021,412482192
@@ -126,5 +127,6 @@ VU#300,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,Madnet
 VU#300,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#300,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#300,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
+VU#300,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
 VU#300,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#300,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

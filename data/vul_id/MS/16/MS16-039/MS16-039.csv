@@ -21,7 +21,7 @@ MS16-039,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-data
 MS16-039,0.00120627,https://github.com/Exploit-install/ExploitOnCLI,Exploit-install/ExploitOnCLI,95370946
 MS16-039,0.00120627,https://github.com/r00tmars/ExploitOnCLI,r00tmars/ExploitOnCLI,94150479
 MS16-039,0.00071633,https://github.com/JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,JosephTLucas/CISA_KNOWN_EXPLOITED_VULNERABILITIES_CATALOG,424291331
-MS16-039,0.00071327,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
+MS16-039,0.00071225,https://github.com/lucagrippa/cisa-kev-archive,lucagrippa/cisa-kev-archive,680298050
 MS16-039,0.00071225,https://github.com/hrbrmstr/cisa-known-exploited-vulns,hrbrmstr/cisa-known-exploited-vulns,427322873
 MS16-039,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 MS16-039,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
@@ -73,6 +73,7 @@ MS16-039,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casest
 MS16-039,0.00001428,https://github.com/andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,793058764
 MS16-039,0.00001428,https://github.com/SecureSolutionsLab/vex_hk,SecureSolutionsLab/vex_hk,874133474
 MS16-039,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899
+MS16-039,0.00001426,https://github.com/shashwat39/llm_cve_exploit,shashwat39/llm_cve_exploit,963704138
 MS16-039,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS16-039,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 MS16-039,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796

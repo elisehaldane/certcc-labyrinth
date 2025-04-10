@@ -348,6 +348,7 @@ VU#83,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-explo
 VU#83,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#83,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
 VU#83,0.01098901,https://github.com/R00tS3c/DDOS-RootSec,R00tS3c/DDOS-RootSec,172108023
+VU#83,0.01086957,https://github.com/zhatz111/Stupid-Metrics,zhatz111/Stupid-Metrics,946374783
 VU#83,0.01086957,https://github.com/GitTM527/sc-exploits-minimized,GitTM527/sc-exploits-minimized,922279361
 VU#83,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
 VU#83,0.01086957,https://github.com/pratokko/exploits,pratokko/exploits,802568306
@@ -579,7 +580,7 @@ VU#83,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,84522684
 VU#83,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#83,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
 VU#83,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-VU#83,0.00057703,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#83,0.00057372,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#83,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#83,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#83,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
@@ -611,6 +612,7 @@ VU#83,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#83,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#83,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#83,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
+VU#83,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
 VU#83,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#83,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#83,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -43,6 +43,7 @@ VU#38,0.25000000,https://github.com/DecryptedCC/MadcatExploit,DecryptedCC/Madcat
 VU#38,0.25000000,https://github.com/positive-security/dompdf-rce,positive-security/dompdf-rce,469883331
 VU#38,0.25000000,https://github.com/farazsth98/virtualbox-qemu-vuln-research-notes,farazsth98/virtualbox-qemu-vuln-research-notes,361527636
 VU#38,0.25000000,https://github.com/0xl3x1/zeek-EternalSafety,0xl3x1/zeek-EternalSafety,205602989
+VU#38,0.20000000,https://github.com/aqua237/Ben-Chavez-Penetration-Testing-Project,aqua237/Ben-Chavez-Penetration-Testing-Project,963604540
 VU#38,0.20000000,https://github.com/khalilmellouk/Computer-Security-Audit,khalilmellouk/Computer-Security-Audit,909686494
 VU#38,0.20000000,https://github.com/dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,dodocrypto/-0day-xc-Our-From-The-Most-High-our-King-Lord-Jesus-Christ,444747522
 VU#38,0.20000000,https://github.com/Qufity/qufity.github.io,Qufity/qufity.github.io,166701107
@@ -296,6 +297,7 @@ VU#38,0.01111111,https://github.com/bigBagBoogy/sc-exploits-minimized,bigBagBoog
 VU#38,0.01111111,https://github.com/Cyfrin/sc-exploits-minimized,Cyfrin/sc-exploits-minimized,710902027
 VU#38,0.01111111,https://github.com/asc-csa/BRITE_Tutorial,asc-csa/BRITE_Tutorial,704528808
 VU#38,0.01111111,https://github.com/JD2344/SecGen_Exploits,JD2344/SecGen_Exploits,559673281
+VU#38,0.01086957,https://github.com/zhatz111/Stupid-Metrics,zhatz111/Stupid-Metrics,946374783
 VU#38,0.01086957,https://github.com/GitTM527/sc-exploits-minimized,GitTM527/sc-exploits-minimized,922279361
 VU#38,0.01086957,https://github.com/namankhandelwal1607/sc_exploits,namankhandelwal1607/sc_exploits,915284284
 VU#38,0.01086957,https://github.com/lorenzofranze/ANN-time-series-forecasting,lorenzofranze/ANN-time-series-forecasting,859416095
@@ -523,7 +525,7 @@ VU#38,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#38,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#38,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#38,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#38,0.00057703,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#38,0.00057372,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#38,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#38,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#38,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
@@ -531,7 +533,7 @@ VU#38,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#38,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#38,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 VU#38,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#38,0.00027345,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#38,0.00027315,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#38,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#38,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#38,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -573,6 +575,7 @@ VU#38,0.00018790,https://github.com/MadnetM/metasploit-framework-replica,MadnetM
 VU#38,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678
 VU#38,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#38,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
+VU#38,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
 VU#38,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#38,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#38,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016

@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-76798,0.33333333,https://github.com/SECFORCE/CVE-2011-4107,SECFORCE/CVE-2011-4107,88757320
 OSVDB-76798,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
-OSVDB-76798,0.00027345,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+OSVDB-76798,0.00027315,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 OSVDB-76798,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 OSVDB-76798,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 OSVDB-76798,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -47,6 +47,7 @@ OSVDB-76798,0.00001429,https://github.com/kellywang568/Cybersecurity_project_cas
 OSVDB-76798,0.00001428,https://github.com/andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,793058764
 OSVDB-76798,0.00001428,https://github.com/SecureSolutionsLab/vex_hk,SecureSolutionsLab/vex_hk,874133474
 OSVDB-76798,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899
+OSVDB-76798,0.00001426,https://github.com/shashwat39/llm_cve_exploit,shashwat39/llm_cve_exploit,963704138
 OSVDB-76798,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 OSVDB-76798,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 OSVDB-76798,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
