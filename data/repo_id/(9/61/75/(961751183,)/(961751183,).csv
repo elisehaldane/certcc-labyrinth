@@ -1,0 +1,2 @@
+repo_id,repo_full_name,file,file_sha1,match
+961751183,maxime67/Cvev2-client,src/components/Navbar.vue,b27d26f829a6f5444004897911b81230769aa056,CVE-2023-1234
