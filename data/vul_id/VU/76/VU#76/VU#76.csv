@@ -10,6 +10,7 @@ VU#76,1.00000000,https://github.com/sclatzy/skellz,sclatzy/skellz,443479757
 VU#76,1.00000000,https://github.com/CowChocoxd/Milky-Hub,CowChocoxd/Milky-Hub,443209076
 VU#76,1.00000000,https://github.com/raaaqh/RavenAntiCheat,raaaqh/RavenAntiCheat,431793723
 VU#76,1.00000000,https://github.com/manyasrinivas2021/AI-BASED-FACIAL-EMOTION-DETECTION-USING-DEEP-LEARNING,manyasrinivas2021/AI-BASED-FACIAL-EMOTION-DETECTION-USING-DEEP-LEARNING,356539439
+VU#76,0.50000000,https://github.com/ninjabat/Binary-Exploitation-Class,ninjabat/Binary-Exploitation-Class,958106322
 VU#76,0.50000000,https://github.com/Chaabi-sirine/Syst-mes-d-exploitation-Embarqu-es,Chaabi-sirine/Syst-mes-d-exploitation-Embarqu-es,927754041
 VU#76,0.50000000,https://github.com/ewilded/CVE-2024-0197-POC,ewilded/CVE-2024-0197-POC,764157453
 VU#76,0.50000000,https://github.com/Moco2669/oibis-SCADA,Moco2669/oibis-SCADA,738545634
@@ -94,6 +95,7 @@ VU#76,0.09090909,https://github.com/fffffw1/shiro_exploit,fffffw1/shiro_exploit,
 VU#76,0.09090909,https://github.com/Tchuanm/AViTMP,Tchuanm/AViTMP,710905666
 VU#76,0.09090909,https://github.com/mohamedabdelhady933/Serialization-Exploit,mohamedabdelhady933/Serialization-Exploit,603855110
 VU#76,0.09090909,https://github.com/minhangxiaohui/Somethingforshiro,minhangxiaohui/Somethingforshiro,483160875
+VU#76,0.08333333,https://github.com/Franconyu/Poc_for_CVE-2025-24813,Franconyu/Poc_for_CVE-2025-24813,964008900
 VU#76,0.08333333,https://github.com/tonyarris/CVE-2025-24813-PoC,tonyarris/CVE-2025-24813-PoC,953100819
 VU#76,0.08333333,https://github.com/TheAirBlow/HyperSploit,TheAirBlow/HyperSploit,791713013
 VU#76,0.08333333,https://github.com/0xrobiul/CVE-2023-49070,0xrobiul/CVE-2023-49070,732816678
@@ -471,10 +473,10 @@ VU#76,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#76,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#76,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#76,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#76,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#76,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#76,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#76,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#76,0.00452489,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#76,0.00452489,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#76,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,835447736
 VU#76,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -494,7 +496,7 @@ VU#76,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#76,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#76,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#76,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
-VU#76,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#76,0.00366300,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#76,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#76,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
 VU#76,0.00325733,https://github.com/Saket-Upadhyay/CS6190-return-oriented-programming,Saket-Upadhyay/CS6190-return-oriented-programming,542105277

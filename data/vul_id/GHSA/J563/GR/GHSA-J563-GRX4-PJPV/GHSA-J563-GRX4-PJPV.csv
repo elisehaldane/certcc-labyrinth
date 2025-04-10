@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-J563-GRX4-PJPV,0.50000000,https://github.com/Live-Hack-CVE/CVE-2022-41966,Live-Hack-CVE/CVE-2022-41966,586038928
 GHSA-J563-GRX4-PJPV,0.00032819,https://github.com/arkede/cve-2022,arkede/cve-2022,956982269
-GHSA-J563-GRX4-PJPV,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-J563-GRX4-PJPV,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-J563-GRX4-PJPV,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-J563-GRX4-PJPV,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

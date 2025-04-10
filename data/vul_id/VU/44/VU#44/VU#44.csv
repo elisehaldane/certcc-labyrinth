@@ -10,6 +10,7 @@ VU#44,1.00000000,https://github.com/WMCB-Tech/RickSploit,WMCB-Tech/RickSploit,34
 VU#44,1.00000000,https://github.com/Err0r-ICA/VARIOUS,Err0r-ICA/VARIOUS,259476199
 VU#44,0.50000000,https://github.com/Mudgil-A/NSPT-Windows-server-SMB-Exploitation,Mudgil-A/NSPT-Windows-server-SMB-Exploitation,963420009
 VU#44,0.50000000,https://github.com/Asmae-Amahrouk/Network_Security_Mini_Projects,Asmae-Amahrouk/Network_Security_Mini_Projects,961913948
+VU#44,0.50000000,https://github.com/ninjabat/Binary-Exploitation-Class,ninjabat/Binary-Exploitation-Class,958106322
 VU#44,0.50000000,https://github.com/XiaomingX/cve-2024-37084-Poc,XiaomingX/cve-2024-37084-Poc,892641642
 VU#44,0.50000000,https://github.com/NouraAyman20/Test-app,NouraAyman20/Test-app,870592958
 VU#44,0.50000000,https://github.com/8f8gigohohu/ExploitDarlenePRO.zip1,8f8gigohohu/ExploitDarlenePRO.zip1,858246289
@@ -139,7 +140,6 @@ VU#44,0.02857143,https://github.com/Whomrx666/exploit-X,Whomrx666/exploit-X,7368
 VU#44,0.02857143,https://github.com/alpha-hexor/ms-office-exploit,alpha-hexor/ms-office-exploit,602427721
 VU#44,0.02777778,https://github.com/cookepm/elo-grad,cookepm/elo-grad,871013784
 VU#44,0.02777778,https://github.com/luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,luisgarciacheckmarx/Jenkins_SCAResolver_ExploitablePath,536582826
-VU#44,0.02702703,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#44,0.02702703,https://github.com/rceneumet/rceneumet.github.io,rceneumet/rceneumet.github.io,864542403
 VU#44,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#44,0.02631579,https://github.com/Jianshu-Hu/pvr-generalization,Jianshu-Hu/pvr-generalization,845838472
@@ -152,6 +152,7 @@ VU#44,0.02564103,https://github.com/HuongLyHoang/Airbnb-Sydney-Machine-Learning-
 VU#44,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#44,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
 VU#44,0.02439024,https://github.com/Daethyra/Cybersecurity-References,Daethyra/Cybersecurity-References,584633112
+VU#44,0.02380952,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#44,0.02380952,https://github.com/physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,879102558
 VU#44,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#44,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
@@ -379,10 +380,10 @@ VU#44,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm
 VU#44,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#44,0.00483092,https://github.com/gbiagomba/Sherlock,gbiagomba/Sherlock,147875976
 VU#44,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#44,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#44,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#44,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#44,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#44,0.00452489,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#44,0.00452489,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#44,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,835447736
 VU#44,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -403,7 +404,7 @@ VU#44,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#44,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#44,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#44,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
-VU#44,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#44,0.00366300,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#44,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#44,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#44,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334

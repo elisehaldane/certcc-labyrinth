@@ -1,8 +1,8 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 ZDI-CAN-25615,0.50000000,https://github.com/McTavishSue/CVE-2025-2233,McTavishSue/CVE-2025-2233,947162457
 ZDI-CAN-25615,0.00057372,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-ZDI-CAN-25615,0.00027315,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
-ZDI-CAN-25615,0.00013778,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+ZDI-CAN-25615,0.00027300,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+ZDI-CAN-25615,0.00013774,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 ZDI-CAN-25615,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
 ZDI-CAN-25615,0.00012044,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
-ZDI-CAN-25615,0.00000716,https://github.com/trickest/cve,trickest/cve,454015416
+ZDI-CAN-25615,0.00000715,https://github.com/trickest/cve,trickest/cve,454015416

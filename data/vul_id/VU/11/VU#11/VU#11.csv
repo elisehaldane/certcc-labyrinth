@@ -48,7 +48,6 @@ VU#11,0.16666667,https://github.com/p1n93r/spring-rce-war,p1n93r/spring-rce-war,
 VU#11,0.14285714,https://github.com/RobScripter/Exploit-Script,RobScripter/Exploit-Script,939527399
 VU#11,0.14285714,https://github.com/C1N0/DevineDecoy,C1N0/DevineDecoy,784653564
 VU#11,0.14285714,https://github.com/huc0day/phpsploit-framework,huc0day/phpsploit-framework,723939879
-VU#11,0.12500000,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#11,0.12500000,https://github.com/happymimimix/Git-Auto-Updater,happymimimix/Git-Auto-Updater,913108534
 VU#11,0.12500000,https://github.com/joshuar49/EvilSmurf2,joshuar49/EvilSmurf2,554498563
 VU#11,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
@@ -61,6 +60,7 @@ VU#11,0.10000000,https://github.com/0dayegirl/cloning,0dayegirl/cloning,59763740
 VU#11,0.10000000,https://github.com/denizalp/exploit-min,denizalp/exploit-min,494132755
 VU#11,0.10000000,https://github.com/slaclab/atlas-rce-repo,slaclab/atlas-rce-repo,487085739
 VU#11,0.10000000,https://github.com/superkojiman/vulnerabilities,superkojiman/vulnerabilities,41914005
+VU#11,0.08333333,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#11,0.08333333,https://github.com/niclimcy/log4shell-exploit-demo,niclimcy/log4shell-exploit-demo,885678570
 VU#11,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#11,0.08333333,https://github.com/Jun-5heng/CVE-2021-44228,Jun-5heng/CVE-2021-44228,468746734
@@ -413,10 +413,10 @@ VU#11,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome
 VU#11,0.00500000,https://github.com/ALotov2000/music-genre-classification-by-hmm,ALotov2000/music-genre-classification-by-hmm,732783445
 VU#11,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#11,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#11,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#11,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#11,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#11,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#11,0.00452489,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#11,0.00452489,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#11,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,835447736
 VU#11,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -436,7 +436,7 @@ VU#11,0.00383142,https://github.com/dmw2166/rces-2024,dmw2166/rces-2024,74074982
 VU#11,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/intergen_tradeoff,580781766
 VU#11,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#11,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
-VU#11,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#11,0.00366300,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#11,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#11,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#11,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334

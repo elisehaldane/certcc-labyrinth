@@ -194,7 +194,6 @@ VU#01,0.02777778,https://github.com/houseofxyz/PowerOPS,houseofxyz/PowerOPS,5841
 VU#01,0.02777778,https://github.com/kh4sh3i/exchange-penetration-testing,kh4sh3i/exchange-penetration-testing,506610379
 VU#01,0.02777778,https://github.com/ISK33/Exploit,ISK33/Exploit,175404853
 VU#01,0.02702703,https://github.com/flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,flaviodelellis/Electrocardiogram-Classification-Exploiting-Rhythmic-Features,947229376
-VU#01,0.02702703,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#01,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/metasploit-multi-os,692967568
 VU#01,0.02702703,https://github.com/arttnba3/Linux-kernel-exploitation,arttnba3/Linux-kernel-exploitation,643046819
 VU#01,0.02631579,https://github.com/seamaner/kernel-cves-replay,seamaner/kernel-cves-replay,956296348
@@ -204,6 +203,7 @@ VU#01,0.02631579,https://github.com/MinnieMohr/php-exploit-scripts,MinnieMohr/ph
 VU#01,0.02631579,https://github.com/ulexec/Exploits,ulexec/Exploits,367676924
 VU#01,0.02631579,https://github.com/mattiasgeniar/php-exploit-scripts,mattiasgeniar/php-exploit-scripts,21268627
 VU#01,0.02564103,https://github.com/Shamsuzzaman321/Wordpress-Exploit-AiO-Package,Shamsuzzaman321/Wordpress-Exploit-AiO-Package,505917478
+VU#01,0.02380952,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#01,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#01,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#01,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
@@ -532,10 +532,10 @@ VU#01,0.00512821,https://github.com/Marien-RENAUD/Speckle_reduction_in_SAR_time_
 VU#01,0.00510204,https://github.com/XiaomingX/awesome-webshell,XiaomingX/awesome-webshell,892674595
 VU#01,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
 VU#01,0.00467290,https://github.com/zeroknowledgediscovery/qbiome,zeroknowledgediscovery/qbiome,354072316
-VU#01,0.00456621,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#01,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732567680
 VU#01,0.00456621,https://github.com/KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,KyroKwok2021/OilCorrTrade-EnergyTransportAlpha,732563526
 VU#01,0.00454545,https://github.com/110111-1/DS-OPENFOODFACT-SANTE,110111-1/DS-OPENFOODFACT-SANTE,575350173
+VU#01,0.00452489,https://github.com/megyoung430/explore_exploit_analysis,megyoung430/explore_exploit_analysis,946906379
 VU#01,0.00452489,https://github.com/k8gege/K8tools,k8gege/K8tools,172221125
 VU#01,0.00446429,https://github.com/Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,Yosri-Ben-Halima/Leveraging-NLP-to-Quantify-Greenhushing-and-Studying-its-Impact-on-Excess-CEO-Pay,835447736
 VU#01,0.00446429,https://github.com/JackieSinger/rces-final-project-22,JackieSinger/rces-final-project-22,566394473
@@ -556,7 +556,7 @@ VU#01,0.00380228,https://github.com/YNakawake/intergen_tradeoff,YNakawake/interg
 VU#01,0.00377358,https://github.com/babaninamk31/shellcode,babaninamk31/shellcode,907075193
 VU#01,0.00377358,https://github.com/nvicloud/ctf_win_exploits,nvicloud/ctf_win_exploits,579658627
 VU#01,0.00370370,https://github.com/abdullahthewebbee/h4cker-master,abdullahthewebbee/h4cker-master,744077306
-VU#01,0.00367647,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
+VU#01,0.00366300,https://github.com/The-Art-of-Hacking/h4cker,The-Art-of-Hacking/h4cker,94801380
 VU#01,0.00361011,https://github.com/CheUhxg/BridgeRouter,CheUhxg/BridgeRouter,822356129
 VU#01,0.00361011,https://github.com/edanyi/ed_RCEL506,edanyi/ed_RCEL506,528488590
 VU#01,0.00359712,https://github.com/rng70/Hacking-Resources,rng70/Hacking-Resources,243826334
@@ -672,7 +672,7 @@ VU#01,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#01,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#01,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#01,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#01,0.00003497,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#01,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#01,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#01,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#01,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
