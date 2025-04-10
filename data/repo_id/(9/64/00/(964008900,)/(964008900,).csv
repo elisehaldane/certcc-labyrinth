@@ -1,0 +1,15 @@
+repo_id,repo_full_name,file,file_sha1,match
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/tomcat_2025.py,2a0de1d7920240ca45f391a4017714d16c12e687,CVE-2025-24813
+964008900,Franconyu/Poc_for_CVE-2025-24813,README.md,868a7f221fc82d3bc21da814b15367a47117ad6e,CVE-2025-24813
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#03
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#26
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#35
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#37
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#38
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#39
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#45
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#56
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#76
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#83
+964008900,Franconyu/Poc_for_CVE-2025-24813,2025/ysoserial-all.jar,f7edfc4e9591e1af51a2cd5f773d75ad4f02be3f,VU#95
+964008900,Franconyu/Poc_for_CVE-2025-24813,_GITHUB_REPO_METADATA_,,CVE-2025-24813
