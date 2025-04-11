@@ -1,2 +1,2 @@
 repo_id,repo_full_name,file,file_sha1,match
-958977541,dader34/roblox-control-panel,client/build/static/js/main.8135e42a.js.map,4af61ccf6a3238b98663c9680b167d06d7502b6e,VU#70
+958977541,dader34/roblox-control-panel,dist/win-unpacked/resources/app.asar,4043084247f77a0086b4f6a869a224224d406e9f,VU#70
