@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+964308018,FishMan132/CVE-2023-20904,app/src/main/res/values/strings.xml,7642337e74b90ce6d6e3cbaa80f30746bcc3cd69,CVE-2023-20904
+964308018,FishMan132/CVE-2023-20904,settings.gradle.kts,e3faf441fe16623132d8ea98b4e140aa01d711bf,CVE-2023-20904
+964308018,FishMan132/CVE-2023-20904,_GITHUB_REPO_METADATA_,,CVE-2023-20904
