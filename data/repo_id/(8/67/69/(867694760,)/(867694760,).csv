@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
 867694760,layer8secure/extron-smp-inject,extron_smp_inject.py,1d09bbe94c9d66625ad9df4e45dffea284d34cd8,CVE-2024-50960
-867694760,layer8secure/extron-smp-inject,README.md,f88a6f3c47542dded95d16842a3d9ddf2c1c54ea,CVE-2024-50960
+867694760,layer8secure/extron-smp-inject,README.md,4f11f832ef8cdf4cad74126827056c14d5b3a1d5,CVE-2024-50960
