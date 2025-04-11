@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+964524271,ghostsec420/ShatteredFTP,Shattered.py,bee420564fe5e49a3f6b3b0b7efd63cea30ed50d,CVE-2025-2825
+964524271,ghostsec420/ShatteredFTP,Shattered.py,bee420564fe5e49a3f6b3b0b7efd63cea30ed50d,CVE-2025-31161
+964524271,ghostsec420/ShatteredFTP,readme.md,fec8e07882ca945c83b3d738752397d565648350,CVE-2025-2825
+964524271,ghostsec420/ShatteredFTP,readme.md,fec8e07882ca945c83b3d738752397d565648350,CVE-2025-31161
+964524271,ghostsec420/ShatteredFTP,_GITHUB_REPO_METADATA_,,CVE-2025-2825
+964524271,ghostsec420/ShatteredFTP,_GITHUB_REPO_METADATA_,,CVE-2025-31161
