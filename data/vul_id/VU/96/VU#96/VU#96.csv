@@ -214,13 +214,13 @@ VU#96,0.03846154,https://github.com/H2rsh16/Remote-Code-Execution,H2rsh16/Remote
 VU#96,0.03846154,https://github.com/D3Ext/WEF,D3Ext/WEF,480417179
 VU#96,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#96,0.03703704,https://github.com/debrunbaix/Enkidu,debrunbaix/Enkidu,766176348
-VU#96,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#96,0.03703704,https://github.com/ESMEAirPollutionPrediction/WeatherData,ESMEAirPollutionPrediction/WeatherData,714661696
 VU#96,0.03703704,https://github.com/Cyber-Root0/JoinePayload,Cyber-Root0/JoinePayload,596776390
 VU#96,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#96,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
 VU#96,0.03703704,https://github.com/Hephzibah56/Capstone,Hephzibah56/Capstone,454778870
 VU#96,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
+VU#96,0.03571429,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#96,0.03571429,https://github.com/Korozin/korozin.github.io,Korozin/korozin.github.io,460508767
 VU#96,0.03571429,https://github.com/tylerbarnum/perchlorate-and-chlorate-reduction-2020,tylerbarnum/perchlorate-and-chlorate-reduction-2020,178249937
 VU#96,0.03448276,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
@@ -336,7 +336,6 @@ VU#96,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#96,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#96,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#96,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#96,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#96,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#96,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#96,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
@@ -401,6 +400,7 @@ VU#96,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,6360
 VU#96,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#96,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#96,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#96,0.01369863,https://github.com/kenlau5678/ZeroDay,kenlau5678/ZeroDay,946433155
 VU#96,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#96,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#96,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
@@ -471,6 +471,7 @@ VU#96,0.01020408,https://github.com/chenyilun95/DSGN2,chenyilun95/DSGN2,47493750
 VU#96,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#96,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#96,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#96,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#96,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#96,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#96,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -574,6 +575,7 @@ VU#96,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#96,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#96,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#96,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#96,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#96,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#96,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
 VU#96,0.00529101,https://github.com/X-HACKRAWI/mshbrute,X-HACKRAWI/mshbrute,357019271
@@ -681,7 +683,7 @@ VU#96,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#96,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#96,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#96,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#96,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#96,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#96,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#96,0.00009696,https://github.com/readerbench/CVE2ATT-CK-tactics,readerbench/CVE2ATT-CK-tactics,725704104
 VU#96,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
@@ -691,7 +693,7 @@ VU#96,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#96,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#96,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#96,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#96,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#96,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#96,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#96,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#96,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

@@ -232,7 +232,7 @@ MS09-072,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS09-072,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS09-072,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 MS09-072,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-MS09-072,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS09-072,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS09-072,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS09-072,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS09-072,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
@@ -275,7 +275,6 @@ MS09-072,0.00001429,https://github.com/kellywang568/Cybersecurity_project_casest
 MS09-072,0.00001428,https://github.com/andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,andrewdpoh/Exploit-Retriever-for-Unpatched-Win11,793058764
 MS09-072,0.00001428,https://github.com/SecureSolutionsLab/vex_hk,SecureSolutionsLab/vex_hk,874133474
 MS09-072,0.00001427,https://github.com/qays3/AI-Generated-Exploit,qays3/AI-Generated-Exploit,872718899
-MS09-072,0.00001426,https://github.com/shashwat39/llm_cve_exploit,shashwat39/llm_cve_exploit,963704138
 MS09-072,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 MS09-072,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208
 MS09-072,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanbain/Exploit-Finder,756844796
@@ -283,6 +282,7 @@ MS09-072,0.00001391,https://github.com/itsanirbanbain/Exploit-Finder,itsanirbanb
 MS09-072,0.00001390,https://github.com/NoorahSmith/Exploit-DB-offsec,NoorahSmith/Exploit-DB-offsec,696682686
 MS09-072,0.00001390,https://github.com/jamesser/exploitdb-reduced,jamesser/exploitdb-reduced,758271611
 MS09-072,0.00001389,https://github.com/EthicalSecurity-Agency/exploit-database-exploitdb.,EthicalSecurity-Agency/exploit-database-exploitdb.,766280178
+MS09-072,0.00001388,https://github.com/shashwat39/llm_cve_exploit,shashwat39/llm_cve_exploit,963704138
 MS09-072,0.00001388,https://github.com/7h3r3v3n4n7/exploitdb_raw,7h3r3v3n4n7/exploitdb_raw,951642206
 MS09-072,0.00001388,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb,chriss-0x01/https-gitlab.com-exploit-database-exploitdb,789084480
 MS09-072,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722

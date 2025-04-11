@@ -65,6 +65,7 @@ VU#19,0.09090909,https://github.com/glowbase/active-directory-abuse-notes,glowba
 VU#19,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#19,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
 VU#19,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
+VU#19,0.08333333,https://github.com/ehsanh123/exploitability,ehsanh123/exploitability,964520334
 VU#19,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
 VU#19,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,709756525
 VU#19,0.08333333,https://github.com/nicolagatta/Binary-Exploitation,nicolagatta/Binary-Exploitation,402695012
@@ -150,6 +151,7 @@ VU#19,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserS
 VU#19,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#19,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
 VU#19,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
+VU#19,0.03030303,https://github.com/Personaz1/ExploitIDE,Personaz1/ExploitIDE,964543028
 VU#19,0.03030303,https://github.com/lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,885779813
 VU#19,0.02941176,https://github.com/BINAZON-Giovanni/OlistDataHub-Analyst,BINAZON-Giovanni/OlistDataHub-Analyst,963229114
 VU#19,0.02941176,https://github.com/kaushikrohit004/GauOptX-Code,kaushikrohit004/GauOptX-Code,941274246
@@ -338,6 +340,7 @@ VU#19,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cass
 VU#19,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#19,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#19,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#19,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#19,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#19,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#19,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -451,6 +454,7 @@ VU#19,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#19,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#19,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#19,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#19,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#19,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#19,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#19,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
@@ -553,7 +557,7 @@ VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#19,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#19,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#19,0.00027293,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00027248,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -595,7 +599,7 @@ VU#19,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#19,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#19,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#19,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#19,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#19,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#19,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#19,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#19,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

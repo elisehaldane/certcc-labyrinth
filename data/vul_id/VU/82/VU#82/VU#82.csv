@@ -183,6 +183,7 @@ VU#82,0.03225806,https://github.com/8ehrad/LSTM-Bias-Fake-News,8ehrad/LSTM-Bias-
 VU#82,0.03225806,https://github.com/demining/Bitcoin-Lightning-Wallet-Vulnerability,demining/Bitcoin-Lightning-Wallet-Vulnerability,717484811
 VU#82,0.03225806,https://github.com/Hacking-Notes/Red-Team,Hacking-Notes/Red-Team,600806376
 VU#82,0.03125000,https://github.com/FantasticForts/exploitfinder,FantasticForts/exploitfinder,870930217
+VU#82,0.03030303,https://github.com/Personaz1/ExploitIDE,Personaz1/ExploitIDE,964543028
 VU#82,0.03030303,https://github.com/hmhlol/craft-cms-RCE-CVE-2024-56145,hmhlol/craft-cms-RCE-CVE-2024-56145,961345307
 VU#82,0.03030303,https://github.com/Furk-st/Dhokha-Fi,Furk-st/Dhokha-Fi,934170057
 VU#82,0.03030303,https://github.com/lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,885779813
@@ -294,7 +295,6 @@ VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#82,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#82,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#82,0.02000000,https://github.com/HoangATran/BABIES,HoangATran/BABIES,514624782
 VU#82,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#82,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -352,6 +352,7 @@ VU#82,0.01388889,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerab
 VU#82,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#82,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#82,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
+VU#82,0.01369863,https://github.com/kenlau5678/ZeroDay,kenlau5678/ZeroDay,946433155
 VU#82,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#82,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
 VU#82,0.01351351,https://github.com/clod2000/Mueller-Brown-exploration,clod2000/Mueller-Brown-exploration,959929445
@@ -415,6 +416,7 @@ VU#82,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#82,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#82,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#82,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#82,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#82,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#82,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#82,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -529,6 +531,7 @@ VU#82,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#82,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#82,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#82,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#82,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#82,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#82,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#82,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -636,7 +639,7 @@ VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#82,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#82,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#82,0.00027293,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82,0.00027248,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678

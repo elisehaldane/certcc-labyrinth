@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-XJ79-W799-QJCP,0.00058824,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+GHSA-XJ79-W799-QJCP,0.00056980,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 GHSA-XJ79-W799-QJCP,0.00000715,https://github.com/trickest/cve,trickest/cve,454015416

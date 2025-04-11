@@ -169,6 +169,7 @@ VU#63,0.03333333,https://github.com/Auceane/BUTinfo1_SAE_2.02-Exploitation_algor
 VU#63,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,rahmanhabib010/Time-series-analysis-by-Sequence-Modelling,414070452
 VU#63,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#63,0.03125000,https://github.com/robertbingaman/dfs-odds,robertbingaman/dfs-odds,560550014
+VU#63,0.03030303,https://github.com/Personaz1/ExploitIDE,Personaz1/ExploitIDE,964543028
 VU#63,0.03030303,https://github.com/Furk-st/Dhokha-Fi,Furk-st/Dhokha-Fi,934170057
 VU#63,0.03030303,https://github.com/nezvevik/heads_up_exploiter,nezvevik/heads_up_exploiter,896900559
 VU#63,0.03030303,https://github.com/lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,lucacareddu/Domain-Generalization-for-Semantic-Segmentation-exploiting-Vision-Language-features,885779813
@@ -273,7 +274,6 @@ VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Ni
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base,Nivaskumark/CVE-2020-0097-frameworks_base,432889770
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base,Nivaskumark/CVE-2020-0114-frameworks_base,432179578
 VU#63,0.02040816,https://github.com/Nivaskumark/CVE-2020-0114-frameworks,Nivaskumark/CVE-2020-0114-frameworks,432085434
-VU#63,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#63,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#63,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,nanopathi/framework_base_AOSP10_r33_CVE-2021-0306_CVE-2021-0317,484710924
 VU#63,0.02000000,https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,nanopathi/framework_base_AOSP10_r33_CVE-2021-0683_CVE-2021-0708,484377066
@@ -335,6 +335,7 @@ VU#63,0.01408451,https://github.com/dn0sar/frontal_poc,dn0sar/frontal_poc,275815
 VU#63,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
 VU#63,0.01388889,https://github.com/owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,owenonline/Knowledge-Graph-Reasoning-with-Self-supervised-Reinforcement-Learning,534351418
 VU#63,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#63,0.01369863,https://github.com/kenlau5678/ZeroDay,kenlau5678/ZeroDay,946433155
 VU#63,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#63,0.01351351,https://github.com/clod2000/Mueller-Brown-exploration,clod2000/Mueller-Brown-exploration,959929445
 VU#63,0.01351351,https://github.com/godspeedcurry/ExploitTools,godspeedcurry/ExploitTools,265785289
@@ -385,6 +386,7 @@ VU#63,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cass
 VU#63,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#63,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#63,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#63,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#63,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#63,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#63,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -501,6 +503,7 @@ VU#63,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#63,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#63,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#63,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#63,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#63,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#63,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#63,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308

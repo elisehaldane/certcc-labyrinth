@@ -108,9 +108,9 @@ VU#12,0.03846154,https://github.com/ronn20/Projects,ronn20/Projects,885923887
 VU#12,0.03846154,https://github.com/cyber-defence-campus/netgear_r6700v3_circled,cyber-defence-campus/netgear_r6700v3_circled,648047567
 VU#12,0.03846154,https://github.com/lukablagoje/agent-based-explore-exploit-science-of-sicence,lukablagoje/agent-based-explore-exploit-science-of-sicence,199435921
 VU#12,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.github.io,850609416
-VU#12,0.03703704,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#12,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#12,0.03571429,https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker,Hunt3r850/CVE-2024-10924-Wordpress-Docker,897913649
+VU#12,0.03571429,https://github.com/Chw41/My-CTF-Challenges,Chw41/My-CTF-Challenges,765610193
 VU#12,0.03571429,https://github.com/shn3rd/OpenSSL-PRNG,shn3rd/OpenSSL-PRNG,532703307
 VU#12,0.03448276,https://github.com/viniciuslazzari/CVE-2024-9796,viniciuslazzari/CVE-2024-9796,919116885
 VU#12,0.03448276,https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker,Trackflaw/CVE-2024-10924-Wordpress-Docker,891621160
@@ -123,6 +123,7 @@ VU#12,0.03333333,https://github.com/jelc53/exploits,jelc53/exploits,624179339
 VU#12,0.03225806,https://github.com/dickriding/StresserSRCs,dickriding/StresserSRCs,692069680
 VU#12,0.03125000,https://github.com/mperezcarrasco/AnomalyALeRCE,mperezcarrasco/AnomalyALeRCE,360436096
 VU#12,0.03125000,https://github.com/dillonwu-97/csec-code,dillonwu-97/csec-code,229195345
+VU#12,0.03030303,https://github.com/Personaz1/ExploitIDE,Personaz1/ExploitIDE,964543028
 VU#12,0.03030303,https://github.com/Furk-st/Dhokha-Fi,Furk-st/Dhokha-Fi,934170057
 VU#12,0.03030303,https://github.com/camskidmore9/MobileExploitation,camskidmore9/MobileExploitation,791624526
 VU#12,0.03030303,https://github.com/bytecodez/BetterSploit,bytecodez/BetterSploit,592091629
@@ -479,6 +480,7 @@ VU#12,0.00574713,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#12,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#12,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#12,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
+VU#12,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#12,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#12,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#12,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -629,7 +631,7 @@ VU#12,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#12,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#12,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#12,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#12,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#12,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#12,0.00014192,https://github.com/s4mw1se/cve-exploitability,s4mw1se/cve-exploitability,748466197
 VU#12,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#12,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763

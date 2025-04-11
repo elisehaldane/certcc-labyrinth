@@ -150,12 +150,12 @@ VU#04,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#04,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#04,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#04,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
-VU#04,0.02380952,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#04,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#04,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#04,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#04,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#04,0.02272727,https://github.com/MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,MinhHieu-Nguyen-dn/forecasting-daily-temperature-Manaus-Brazil,601711297
+VU#04,0.02222222,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#04,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#04,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#04,0.02173913,https://github.com/eliyaoo32/DepSynt,eliyaoo32/DepSynt,547191430
@@ -330,6 +330,7 @@ VU#04,0.01030928,https://github.com/rapid7/metasploit-omnibus-cache,rapid7/metas
 VU#04,0.01010101,https://github.com/Morgan1420/Cassini_Hackathon,Morgan1420/Cassini_Hackathon,857004551
 VU#04,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#04,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#04,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#04,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#04,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#04,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -435,6 +436,7 @@ VU#04,0.00574713,https://github.com/k8gege/Ladon,k8gege/Ladon,219113096
 VU#04,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#04,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#04,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#04,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#04,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#04,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#04,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -567,7 +569,7 @@ VU#04,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#04,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#04,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#04,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#04,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#04,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#04,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#04,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#04,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345

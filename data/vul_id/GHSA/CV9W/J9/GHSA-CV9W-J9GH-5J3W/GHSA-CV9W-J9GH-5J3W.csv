@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-CV9W-J9GH-5J3W,0.00019179,https://github.com/arkede/cve-2023,arkede/cve-2023,956982314
-GHSA-CV9W-J9GH-5J3W,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-CV9W-J9GH-5J3W,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-CV9W-J9GH-5J3W,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-CV9W-J9GH-5J3W,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222
 GHSA-CV9W-J9GH-5J3W,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

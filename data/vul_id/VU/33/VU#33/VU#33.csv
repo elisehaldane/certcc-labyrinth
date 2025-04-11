@@ -81,6 +81,7 @@ VU#33,0.09090909,https://github.com/maxyass/portfolio_projects,maxyass/portfolio
 VU#33,0.09090909,https://github.com/0x14mth3n1ght/Systeme_Exploitation,0x14mth3n1ght/Systeme_Exploitation,576963130
 VU#33,0.09090909,https://github.com/it-ebooks-0/exploitdb-epub,it-ebooks-0/exploitdb-epub,480205104
 VU#33,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
+VU#33,0.08333333,https://github.com/ehsanh123/exploitability,ehsanh123/exploitability,964520334
 VU#33,0.08333333,https://github.com/White-BAO/CVE-2023-25813,White-BAO/CVE-2023-25813,835791874
 VU#33,0.08333333,https://github.com/mirkozaff/aa-sgan,mirkozaff/aa-sgan,835281085
 VU#33,0.08333333,https://github.com/TheAirBlow/HyperSploit,TheAirBlow/HyperSploit,791713013
@@ -249,7 +250,6 @@ VU#33,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,
 VU#33,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
 VU#33,0.02439024,https://github.com/enthusiastic2003/Globe_ce_exploit,enthusiastic2003/Globe_ce_exploit,841194500
 VU#33,0.02439024,https://github.com/skeenbean/BinaryWorkshop,skeenbean/BinaryWorkshop,822781650
-VU#33,0.02380952,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#33,0.02380952,https://github.com/physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,physarief78/Computed-Tomography-Algebra-Reconstruction-Technique,879102558
 VU#33,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#33,0.02272727,https://github.com/joe-broder15/jhu-vre-vlc-heap-overflow,joe-broder15/jhu-vre-vlc-heap-overflow,865103281
@@ -269,7 +269,6 @@ VU#33,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap
 VU#33,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#33,0.02040816,https://github.com/AsserMazin37/Multi-Task-Learning,AsserMazin37/Multi-Task-Learning,588331995
 VU#33,0.02040816,https://github.com/franciszzj/HiLo,franciszzj/HiLo,547779187
-VU#33,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#33,0.02000000,https://github.com/mozhua/Dream-Defender,mozhua/Dream-Defender,940525570
 VU#33,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#33,0.01960784,https://github.com/sm3a96/ReEntrancyAttack,sm3a96/ReEntrancyAttack,895750249
@@ -333,6 +332,7 @@ VU#33,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Mon
 VU#33,0.01388889,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
 VU#33,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#33,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
+VU#33,0.01369863,https://github.com/kenlau5678/ZeroDay,kenlau5678/ZeroDay,946433155
 VU#33,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#33,0.01369863,https://github.com/Operation-Falcon/Attacksurfacemanagement,Operation-Falcon/Attacksurfacemanagement,433813936
 VU#33,0.01369863,https://github.com/Deepanjalkumar/Attacksurfacemanagement,Deepanjalkumar/Attacksurfacemanagement,401051988
@@ -406,6 +406,7 @@ VU#33,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#33,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#33,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#33,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#33,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#33,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#33,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#33,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -519,6 +520,7 @@ VU#33,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#33,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#33,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#33,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#33,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#33,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#33,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#33,0.00531915,https://github.com/JustinFletcher/dasie,JustinFletcher/dasie,216429308
@@ -651,7 +653,7 @@ VU#33,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#33,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#33,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#33,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#33,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#33,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#33,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#33,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#33,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

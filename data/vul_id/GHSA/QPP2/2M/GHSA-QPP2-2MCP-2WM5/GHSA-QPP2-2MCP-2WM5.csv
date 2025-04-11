@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-QPP2-2MCP-2WM5,0.00032819,https://github.com/arkede/cve-2022,arkede/cve-2022,956982269
 GHSA-QPP2-2MCP-2WM5,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-GHSA-QPP2-2MCP-2WM5,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-QPP2-2MCP-2WM5,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-QPP2-2MCP-2WM5,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-QPP2-2MCP-2WM5,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-QPP2-2MCP-2WM5,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

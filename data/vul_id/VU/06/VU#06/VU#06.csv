@@ -51,6 +51,7 @@ VU#06,0.09090909,https://github.com/Bing-Plugins/CheckYumcRCE,Bing-Plugins/Check
 VU#06,0.09090909,https://github.com/taoni0718/BankSnoop,taoni0718/BankSnoop,588145762
 VU#06,0.09090909,https://github.com/hemasphere/rces-assignments,hemasphere/rces-assignments,429454040
 VU#06,0.09090909,https://github.com/Coldzer0/Cmulator,Coldzer0/Cmulator,148878239
+VU#06,0.08333333,https://github.com/ehsanh123/exploitability,ehsanh123/exploitability,964520334
 VU#06,0.08333333,https://github.com/safeer-accuknox/CrushFTP-cve-2024-4040-poc,safeer-accuknox/CrushFTP-cve-2024-4040-poc,859098985
 VU#06,0.08333333,https://github.com/pg001001/exploit,pg001001/exploit,812914507
 VU#06,0.08333333,https://github.com/Jaeik-Jeong/Recommender,Jaeik-Jeong/Recommender,519905706
@@ -118,6 +119,7 @@ VU#06,0.03333333,https://github.com/rahmanhabib010/Time-series-analysis-by-Seque
 VU#06,0.03225806,https://github.com/DanielBoye/ctf,DanielBoye/ctf,664391695
 VU#06,0.03125000,https://github.com/ASCUD22/ALED,ASCUD22/ALED,898327405
 VU#06,0.03125000,https://github.com/vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,vishwakakadia/Strategies-of-Exploiting-AI-in-Health-Care,849982640
+VU#06,0.03030303,https://github.com/Personaz1/ExploitIDE,Personaz1/ExploitIDE,964543028
 VU#06,0.02857143,https://github.com/Zer0dayyyy/Zeroday,Zer0dayyyy/Zeroday,663830732
 VU#06,0.02857143,https://github.com/Jamesflynn1/CS344-Opponent-Exploitation-Poker,Jamesflynn1/CS344-Opponent-Exploitation-Poker,556885159
 VU#06,0.02857143,https://github.com/upal212/900v2,upal212/900v2,456104938
@@ -164,7 +166,6 @@ VU#06,0.02083333,https://github.com/samhithatarra/Cryptography,samhithatarra/Cry
 VU#06,0.02040816,https://github.com/secretcodedev/wap.rcepmall,secretcodedev/wap.rcepmall,653015650
 VU#06,0.02040816,https://github.com/GarragMoad/Exploitation-des-donn-es-LiChess,GarragMoad/Exploitation-des-donn-es-LiChess,616514385
 VU#06,0.02040816,https://github.com/gbikram/CTI-Automation-Platform,gbikram/CTI-Automation-Platform,599871375
-VU#06,0.02000000,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#06,0.02000000,https://github.com/mozhua/Dream-Defender,mozhua/Dream-Defender,940525570
 VU#06,0.02000000,https://github.com/y0un9eee/ctf-command-injection,y0un9eee/ctf-command-injection,737246141
 VU#06,0.01923077,https://github.com/saadamin2k13/reversible-parsing-and-generation,saadamin2k13/reversible-parsing-and-generation,901405211
@@ -214,6 +215,7 @@ VU#06,0.01408451,https://github.com/gokceuludogan/PLMs_for_drug_design,gokceulud
 VU#06,0.01388889,https://github.com/luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,luna97/matrix-adaptation-exploiting-gradient-evolution-strategy,699263599
 VU#06,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#06,0.01388889,https://github.com/MarcoAnteghini/ECG_classifier,MarcoAnteghini/ECG_classifier,532849149
+VU#06,0.01369863,https://github.com/kenlau5678/ZeroDay,kenlau5678/ZeroDay,946433155
 VU#06,0.01369863,https://github.com/jacobadodge/Spring2024_CVENG_8160,jacobadodge/Spring2024_CVENG_8160,745631174
 VU#06,0.01369863,https://github.com/XoticSploit/XoticSploit,XoticSploit/XoticSploit,532628224
 VU#06,0.01333333,https://github.com/SJTU-MI/APFEforPI,SJTU-MI/APFEforPI,628570015
@@ -259,6 +261,7 @@ VU#06,0.01010101,https://github.com/TanawatPawanta/HW1-Exploration-and-exploitat
 VU#06,0.01000000,https://github.com/Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,Andrei2K3/CTF-Challenges-Cryptanalysis-and-Exploitation,941480993
 VU#06,0.01000000,https://github.com/seblful/rceth_analysis,seblful/rceth_analysis,562453442
 VU#06,0.01000000,https://github.com/komomon/Komo,komomon/Komo,541955748
+VU#06,0.00990099,https://github.com/Meterials/FiveM-External-Cheat-KeyAuth-System,Meterials/FiveM-External-Cheat-KeyAuth-System,964585806
 VU#06,0.00990099,https://github.com/Avenisso/FiveM-External-Cheat-KeyAuth-System,Avenisso/FiveM-External-Cheat-KeyAuth-System,957395544
 VU#06,0.00990099,https://github.com/Katarsoz/FiveM-External-Cheat-KeyAuth-System,Katarsoz/FiveM-External-Cheat-KeyAuth-System,946248793
 VU#06,0.00990099,https://github.com/matarirew/FiveM-External-Cheat-KeyAuth-System,matarirew/FiveM-External-Cheat-KeyAuth-System,941207193
@@ -366,6 +369,7 @@ VU#06,0.00571429,https://github.com/m-spr/RCEHDC,m-spr/RCEHDC,817418015
 VU#06,0.00571429,https://github.com/theskid22/Asphalt,theskid22/Asphalt,790873830
 VU#06,0.00561798,https://github.com/Jesgran/bypass,Jesgran/bypass,871150950
 VU#06,0.00555556,https://github.com/federicasuriano/Runtime-monitoring-SENTINEL-system,federicasuriano/Runtime-monitoring-SENTINEL-system,563922485
+VU#06,0.00549451,https://github.com/TheMalwareGuardian/CVE-2021-27289,TheMalwareGuardian/CVE-2021-27289,962556135
 VU#06,0.00546448,https://github.com/KathrynCheng1/rces-assignments,KathrynCheng1/rces-assignments,860104177
 VU#06,0.00546448,https://github.com/SICC-Group/Boosting-TEP-BFT,SICC-Group/Boosting-TEP-BFT,838210980
 VU#06,0.00534759,https://github.com/1nj3ct10n/HackTheBox,1nj3ct10n/HackTheBox,460447187
@@ -459,7 +463,7 @@ VU#06,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#06,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#06,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#06,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#06,0.00027293,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#06,0.00027248,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#06,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#06,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#06,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
@@ -501,7 +505,7 @@ VU#06,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#06,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#06,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#06,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#06,0.00018355,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#06,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#06,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#06,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
 VU#06,0.00004153,https://github.com/talking2wall/Vulnerabilities-Exploits-Analysis,talking2wall/Vulnerabilities-Exploits-Analysis,443149726

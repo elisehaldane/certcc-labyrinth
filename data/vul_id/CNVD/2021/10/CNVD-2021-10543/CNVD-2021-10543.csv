@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 CNVD-2021-10543,0.05882353,https://github.com/kartik739/Venom-Sploit,kartik739/Venom-Sploit,769241083
 CNVD-2021-10543,0.03225806,https://github.com/shengshengli/AttackWebFrameworkTools-5.0,shengshengli/AttackWebFrameworkTools-5.0,494968784
 CNVD-2021-10543,0.03030303,https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0,Anonymous-ghost/AttackWebFrameworkTools-5.0,337659353
-CNVD-2021-10543,0.02222222,https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main,peiqiF4ck/WebFrameworkTools-5.1-main,586431795
+CNVD-2021-10543,0.02173913,https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main,peiqiF4ck/WebFrameworkTools-5.1-main,586431795
 CNVD-2021-10543,0.01315789,https://github.com/securitysqs/Web_Poc,securitysqs/Web_Poc,329870299
 CNVD-2021-10543,0.01190476,https://github.com/daffainfo/suricata-rules,daffainfo/suricata-rules,635439624
 CNVD-2021-10543,0.01010101,https://github.com/yqcs/prismx,yqcs/prismx,735493683
@@ -30,7 +30,7 @@ CNVD-2021-10543,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,80155133
 CNVD-2021-10543,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
 CNVD-2021-10543,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 CNVD-2021-10543,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
-CNVD-2021-10543,0.00003472,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+CNVD-2021-10543,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 CNVD-2021-10543,0.00001598,https://github.com/leesinz/crush,leesinz/crush,751271973
 CNVD-2021-10543,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 CNVD-2021-10543,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729
