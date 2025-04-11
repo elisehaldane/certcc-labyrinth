@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
-957759057,jpaulo-stk/exploit_jt,FRONT-END/yarn.lock,18fc1391e4294b04d9a02e1a35f09fa245341f36,VU#43
-957759057,jpaulo-stk/exploit_jt,FRONT-END/yarn.lock,18fc1391e4294b04d9a02e1a35f09fa245341f36,VU#84
+957759057,jpaulo-stk/exploit_jt,FRONT-END/yarn.lock,43101813a1cda8d1fa762086675ff91ebf585225,VU#43
+957759057,jpaulo-stk/exploit_jt,FRONT-END/yarn.lock,43101813a1cda8d1fa762086675ff91ebf585225,VU#84
