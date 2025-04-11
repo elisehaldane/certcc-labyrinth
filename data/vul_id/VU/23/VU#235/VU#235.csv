@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#235,0.05263158,https://github.com/z2zQAQ/go-z2zloader,z2zQAQ/go-z2zloader,908825596
+VU#235,0.01086957,https://github.com/CopotronicRifat/Adaptive-Blockchain,CopotronicRifat/Adaptive-Blockchain,964140006
 VU#235,0.00719424,https://github.com/Chinuaoku/Ethical-Hacking-and-Penetration-Testing,Chinuaoku/Ethical-Hacking-and-Penetration-Testing,934465312
 VU#235,0.00689655,https://github.com/TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,TimXiaTian/Quantitative-Trading-Project-Using-Binance-API,818114881
 VU#235,0.00671141,https://github.com/ForwarderFactory/wii,ForwarderFactory/wii,398614364

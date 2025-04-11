@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#708,0.07142857,https://github.com/deandevl/RcensusPkg,deandevl/RcensusPkg,574485333
 VU#708,0.03448276,https://github.com/DataDog/KubeHound,DataDog/KubeHound,640823067
 VU#708,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134
+VU#708,0.01086957,https://github.com/CopotronicRifat/Adaptive-Blockchain,CopotronicRifat/Adaptive-Blockchain,964140006
 VU#708,0.01063830,https://github.com/cshewmake2/cone-classification,cshewmake2/cone-classification,419883125
 VU#708,0.00980392,https://github.com/Curt-Lucas/Vulnerable,Curt-Lucas/Vulnerable,479040189
 VU#708,0.00485437,https://github.com/manwestc/UPM-MUIA,manwestc/UPM-MUIA,802942173
