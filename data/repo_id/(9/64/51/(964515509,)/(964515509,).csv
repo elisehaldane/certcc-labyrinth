@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+964515509,Masktasm/HTA-Exploit,HTA Builder/HTA-Builder.csproj,72379a347183c87782bf4f298e3b083eb6706016,VU#13
+964515509,Masktasm/HTA-Exploit,HTA Builder/HTA-Builder.csproj,72379a347183c87782bf4f298e3b083eb6706016,VU#29
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#09
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#47
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#500
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#56
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#883
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#93
+964515509,Masktasm/HTA-Exploit,HTA Builder/Login.resx,8af42ef1bc6d00acfb569497520728b26bff7a99,VU#931
