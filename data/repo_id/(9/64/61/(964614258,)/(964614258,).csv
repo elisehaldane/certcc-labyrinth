@@ -1,3 +1,4 @@
 repo_id,repo_full_name,file,file_sha1,match
-964614258,binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591,README.md,fcec2070ea3960b34e568474dd1555a60a6699ba,CVE-2024-55591
+964614258,binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591,README.md,624e3e67df117e2a0268b22a6e1c1b44ca6dcbb4,CVE-2024-55591
+964614258,binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591,scanner-cve2024-55591.py,dc400b387252627199977306f003d39e55512145,CVE-2024-55591
 964614258,binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591,_GITHUB_REPO_METADATA_,,CVE-2024-55591
