@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2011-2523
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2013-4547
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2016-6210
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2017-0144
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2018-15473
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2019-0708
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,CVE-2021-41773
+965217879,Azziz-77/KFUPM-ART,enhanced_scanning.py,09dfc4dc4f8d7e0cbd2261ebd1c44f2c12f6bc5f,MS17-010
+965217879,Azziz-77/KFUPM-ART,attack_modules.py,fda3475c4146d635d7f1b4a6d9f68c19b155fcb2,CVE-2019-0708
