@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
-956502693,AnonKryptiQuz/NextSploit,README.md,4d5d138a1a10c5243e45d8d07fa0a32a644f95f7,CVE-2025-29927
+956502693,AnonKryptiQuz/NextSploit,README.md,76db6e1714ac4d74f191fedf4466e04bd40dec44,CVE-2025-29927
+956502693,AnonKryptiQuz/NextSploit,NextSploit_Custom.py,a5c3473ee439dd81b6522f75fff85f461a25ef67,CVE-2025-29927
 956502693,AnonKryptiQuz/NextSploit,NextSploit.py,e30586522a615846a3de27a4782c319345c05244,CVE-2025-29927
 956502693,AnonKryptiQuz/NextSploit,_GITHUB_REPO_METADATA_,,CVE-2025-29927

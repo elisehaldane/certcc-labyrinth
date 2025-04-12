@@ -1,3 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+953170813,idlesauce/umtx2,document/en/ps5/psfree/psfree.js,33ba236800096cba687579425aa5d6f7fec888f5,CVE-2022-22620
 953170813,idlesauce/umtx2,localhost.pem,c0e59bb7386d6b6b9a92c2832b9a797a93553501,VU#29
-953170813,idlesauce/umtx2,document/en/ps5/psfree/psfree.js,d5513864914bdc5d4081c2f6d1e2f85f20507231,CVE-2022-22620
