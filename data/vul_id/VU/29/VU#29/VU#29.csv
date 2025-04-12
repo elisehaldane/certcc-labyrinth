@@ -48,6 +48,7 @@ VU#29,1.00000000,https://github.com/atom-b/log4dap,atom-b/log4dap,437954364
 VU#29,1.00000000,https://github.com/puthusseri/JacksonDeserializationExploit,puthusseri/JacksonDeserializationExploit,428647910
 VU#29,1.00000000,https://github.com/gittina/expressyouRcell,gittina/expressyouRcell,353750449
 VU#29,1.00000000,https://github.com/DarkModderVC/PS4JB,DarkModderVC/PS4JB,280689855
+VU#29,0.50000000,https://github.com/thatboialex/UMTX2-Exploit,thatboialex/UMTX2-Exploit,965186952
 VU#29,0.50000000,https://github.com/Sasthehs/UAC-Bypass-FUD,Sasthehs/UAC-Bypass-FUD,964550348
 VU#29,0.50000000,https://github.com/Masktasm/PDF-FUD-Exploit,Masktasm/PDF-FUD-Exploit,964515520
 VU#29,0.50000000,https://github.com/Masktasm/Discord-Image-Logger-Stealer,Masktasm/Discord-Image-Logger-Stealer,964515514
@@ -932,7 +933,7 @@ VU#29,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#29,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#29,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
 VU#29,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#29,0.00027241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#29,0.00027233,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#29,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#29,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#29,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -989,7 +990,7 @@ VU#29,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#29,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#29,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#29,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#29,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#29,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,936098931
 VU#29,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,934581112
 VU#29,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222

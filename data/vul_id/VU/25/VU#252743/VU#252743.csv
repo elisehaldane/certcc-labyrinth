@@ -1,6 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#252743,0.02439024,https://github.com/cansolele/exploit-seek,cansolele/exploit-seek,827357700
 VU#252743,0.00188679,https://github.com/arkede/cve-2014,arkede/cve-2014,956982008
+VU#252743,0.00176678,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 VU#252743,0.00131579,https://github.com/asdcxsd/MTA-Exploit-Framework,asdcxsd/MTA-Exploit-Framework,328604334
 VU#252743,0.00075988,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 VU#252743,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
@@ -13,7 +14,7 @@ VU#252743,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,4325
 VU#252743,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
 VU#252743,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#252743,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#252743,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#252743,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#252743,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 VU#252743,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426
 VU#252743,0.00000306,https://github.com/g33kb00m/CVE2Chinese,g33kb00m/CVE2Chinese,582653564

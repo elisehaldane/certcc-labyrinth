@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-98VM-2XQM-XRCC,0.50000000,https://github.com/shreyas-malhotra/CVE-2025-21624,shreyas-malhotra/CVE-2025-21624,942663575
 GHSA-98VM-2XQM-XRCC,0.00057078,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
-GHSA-98VM-2XQM-XRCC,0.00027241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+GHSA-98VM-2XQM-XRCC,0.00027233,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 GHSA-98VM-2XQM-XRCC,0.00000715,https://github.com/trickest/cve,trickest/cve,454015416

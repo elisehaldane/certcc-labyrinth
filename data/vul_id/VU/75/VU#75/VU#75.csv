@@ -2,6 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 VU#75,1.00000000,https://github.com/asiyio/rcedit,asiyio/rcedit,964568357
 VU#75,1.00000000,https://github.com/4dorable/Reverse_Shellcode-Unpacking,4dorable/Reverse_Shellcode-Unpacking,946707507
 VU#75,1.00000000,https://github.com/exfil0/5G-NETWORK-SLICING-VULNERABILITY,exfil0/5G-NETWORK-SLICING-VULNERABILITY,913586776
+VU#75,1.00000000,https://github.com/0xbitx/DEDSEC_PoC_FINDER,0xbitx/DEDSEC_PoC_FINDER,868076596
 VU#75,1.00000000,https://github.com/avdhez/MetaSploitWorkflow,avdhez/MetaSploitWorkflow,811129553
 VU#75,1.00000000,https://github.com/beT13OkEdOfiVAmYly/poeBLACK1,beT13OkEdOfiVAmYly/poeBLACK1,803219123
 VU#75,1.00000000,https://github.com/apt6969/cs50exploit,apt6969/cs50exploit,744474073
@@ -576,7 +577,7 @@ VU#75,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#75,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#75,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
 VU#75,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#75,0.00027241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#75,0.00027233,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#75,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#75,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#75,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

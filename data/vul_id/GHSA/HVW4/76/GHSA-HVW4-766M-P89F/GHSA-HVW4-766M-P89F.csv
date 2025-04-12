@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-HVW4-766M-P89F,0.00019179,https://github.com/arkede/cve-2023,arkede/cve-2023,956982314
-GHSA-HVW4-766M-P89F,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-HVW4-766M-P89F,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-HVW4-766M-P89F,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

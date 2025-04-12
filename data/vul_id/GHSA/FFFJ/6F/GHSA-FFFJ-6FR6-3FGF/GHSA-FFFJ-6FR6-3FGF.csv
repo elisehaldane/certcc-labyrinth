@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-FFFJ-6FR6-3FGF,0.00043346,https://github.com/arkede/cve-2021,arkede/cve-2021,956982218
-GHSA-FFFJ-6FR6-3FGF,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-FFFJ-6FR6-3FGF,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-FFFJ-6FR6-3FGF,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

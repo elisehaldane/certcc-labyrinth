@@ -1,7 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 VU#45,1.00000000,https://github.com/34306/schemeshare,34306/schemeshare,883465245
 VU#45,1.00000000,https://github.com/salvatore-abello/web-challenges,salvatore-abello/web-challenges,873276715
-VU#45,1.00000000,https://github.com/0xbitx/DEDSEC_PoC_FINDER,0xbitx/DEDSEC_PoC_FINDER,868076596
 VU#45,1.00000000,https://github.com/DevKDKO/ExploitFixes-Plugin,DevKDKO/ExploitFixes-Plugin,822780074
 VU#45,1.00000000,https://github.com/SystronLab/ThreadBatteryAttack,SystronLab/ThreadBatteryAttack,732148694
 VU#45,1.00000000,https://github.com/CybotRoot/metasploitlab1,CybotRoot/metasploitlab1,575038846
@@ -151,6 +150,7 @@ VU#45,0.06250000,https://github.com/0x727/JNDIExploit,0x727/JNDIExploit,41995360
 VU#45,0.06250000,https://github.com/iammaguire/MeetC2,iammaguire/MeetC2,370124783
 VU#45,0.05882353,https://github.com/WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,WanThinnn/NT521_Secure-Programming-and-Exploiting-Vulnerabilities-Course,930196286
 VU#45,0.05882353,https://github.com/Y4er/CVE-2020-2555,Y4er/CVE-2020-2555,245688520
+VU#45,0.05555556,https://github.com/paultheal1en/CVE-2023-1177-PoC-reproduce,paultheal1en/CVE-2023-1177-PoC-reproduce,965064880
 VU#45,0.05555556,https://github.com/RajeevThapa/AVDEF,RajeevThapa/AVDEF,886988270
 VU#45,0.05555556,https://github.com/adebowaledaniel/sits-change-detection,adebowaledaniel/sits-change-detection,647840029
 VU#45,0.05555556,https://github.com/jxfzzzt/vul_poc_dockerfile,jxfzzzt/vul_poc_dockerfile,598023656

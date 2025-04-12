@@ -117,13 +117,13 @@ VU#05,0.09090909,https://github.com/ai-mehedi/byob,ai-mehedi/byob,431790347
 VU#05,0.09090909,https://github.com/malwaredllc/byob,malwaredllc/byob,114619595
 VU#05,0.08333333,https://github.com/housam123456789/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,housam123456789/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,962779982
 VU#05,0.08333333,https://github.com/Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce,960889517
-VU#05,0.08333333,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#05,0.08333333,https://github.com/D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/sms-Unrestricted-File-Upload-RCE-POC,470636236
 VU#05,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Slides-Unrestricted-File-Upload-RCE-POC,469606452
 VU#05,0.08333333,https://github.com/D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Full-Ecommece-Website-Add_Product-Unrestricted-File-Upload-RCE-POC,469547289
 VU#05,0.08333333,https://github.com/D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,D4rkP0w4r/Musical-World-Unrestricted-File-Upload-RCE-POC,468803860
 VU#05,0.08333333,https://github.com/SouthGreenPlatform/AgroLD_webapp,SouthGreenPlatform/AgroLD_webapp,50190527
 VU#05,0.07692308,https://github.com/goncalocsousa1/CVE-2025-29927,goncalocsousa1/CVE-2025-29927,962523684
+VU#05,0.07692308,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#05,0.07692308,https://github.com/pxcs/CrackMacExpo,pxcs/CrackMacExpo,796882501
 VU#05,0.07692308,https://github.com/miniboom360/ASM-Exploit,miniboom360/ASM-Exploit,649493025
 VU#05,0.07692308,https://github.com/vuddameri/CVEN2320,vuddameri/CVEN2320,594599184
@@ -142,6 +142,7 @@ VU#05,0.06250000,https://github.com/omar2535/CVE-2022-39275,omar2535/CVE-2022-39
 VU#05,0.06250000,https://github.com/Mohamed-Haneef/Exploit-box,Mohamed-Haneef/Exploit-box,802023457
 VU#05,0.06250000,https://github.com/CLARKBENHAM/sep_finetune_llm,CLARKBENHAM/sep_finetune_llm,720223198
 VU#05,0.06250000,https://github.com/Shenlong616/RadiXX11-RCE,Shenlong616/RadiXX11-RCE,398691280
+VU#05,0.05555556,https://github.com/paultheal1en/CVE-2023-1177-PoC-reproduce,paultheal1en/CVE-2023-1177-PoC-reproduce,965064880
 VU#05,0.05263158,https://github.com/z2zQAQ/go-z2zloader,z2zQAQ/go-z2zloader,908825596
 VU#05,0.05263158,https://github.com/DoTTak/RMI-RCE-Demo,DoTTak/RMI-RCE-Demo,837696434
 VU#05,0.05263158,https://github.com/NickMavrias/GestureTIFY,NickMavrias/GestureTIFY,815196260
@@ -542,7 +543,7 @@ VU#05,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#05,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#05,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#05,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#05,0.00027241,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#05,0.00027233,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#05,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#05,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#05,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

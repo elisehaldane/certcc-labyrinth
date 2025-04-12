@@ -2,7 +2,7 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-M394-8RWW-3JR7,0.00086207,https://github.com/arkede/cve-2020,arkede/cve-2020,956982168
 GHSA-M394-8RWW-3JR7,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-M394-8RWW-3JR7,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-GHSA-M394-8RWW-3JR7,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-M394-8RWW-3JR7,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-M394-8RWW-3JR7,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-M394-8RWW-3JR7,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-M394-8RWW-3JR7,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

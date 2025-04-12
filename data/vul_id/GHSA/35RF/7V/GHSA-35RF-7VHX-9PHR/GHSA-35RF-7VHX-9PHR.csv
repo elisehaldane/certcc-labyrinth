@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-35RF-7VHX-9PHR,0.00032819,https://github.com/arkede/cve-2022,arkede/cve-2022,956982269
 GHSA-35RF-7VHX-9PHR,0.00005749,https://github.com/L1GH7/Vaultiris,L1GH7/Vaultiris,568121763
-GHSA-35RF-7VHX-9PHR,0.00003460,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-35RF-7VHX-9PHR,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
