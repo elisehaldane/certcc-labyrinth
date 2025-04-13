@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+961000031,kuzeyardabulut/CVE-2024-0582,README.md,4d307daff2c73ae42ac0b963537ce6d812b25e2a,CVE-2024-0582
+961000031,kuzeyardabulut/CVE-2024-0582,dirty_cred/README.md,82cb85b3a28e0af8289dca5339ee11bbbe4b216b,CVE-2024-0582
+961000031,kuzeyardabulut/CVE-2024-0582,_GITHUB_REPO_METADATA_,,CVE-2024-0582
