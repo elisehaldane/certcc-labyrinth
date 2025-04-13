@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-G823-9XXV-PX4Q,0.50000000,https://github.com/im-hanzou/UPGer,im-hanzou/UPGer,692230555
+GHSA-G823-9XXV-PX4Q,0.12500000,https://github.com/purwocode/Wordpress-MassExploit,purwocode/Wordpress-MassExploit,965357459
 GHSA-G823-9XXV-PX4Q,0.12500000,https://github.com/wijayakaa/Wordpress-MassExploit,wijayakaa/Wordpress-MassExploit,695496543
