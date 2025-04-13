@@ -1,4 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-8266-84WP-WV5C,0.50000000,https://github.com/TadeoDelaRocha/Trace,TadeoDelaRocha/Trace,959032657
-GHSA-8266-84WP-WV5C,0.00000715,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-8266-84WP-WV5C,0.00000714,https://github.com/trickest/cve,trickest/cve,454015416
 GHSA-8266-84WP-WV5C,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 OSVDB-76798,0.33333333,https://github.com/SECFORCE/CVE-2011-4107,SECFORCE/CVE-2011-4107,88757320
 OSVDB-76798,0.00033807,https://github.com/teletautala/fullypwnd,teletautala/fullypwnd,4703202
-OSVDB-76798,0.00027218,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+OSVDB-76798,0.00027196,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 OSVDB-76798,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 OSVDB-76798,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 OSVDB-76798,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -62,5 +62,6 @@ OSVDB-76798,0.00001387,https://github.com/GhidraDragon/exploitdb,GhidraDragon/ex
 OSVDB-76798,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-database,908073755
 OSVDB-76798,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 OSVDB-76798,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
+OSVDB-76798,0.00001386,https://github.com/jason-allen-oneal/exploitdb-clone,jason-allen-oneal/exploitdb-clone,964928360
 OSVDB-76798,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 OSVDB-76798,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179

@@ -25,7 +25,6 @@ VU#95,0.33333333,https://github.com/peter-lgxj/Exploiting_Doubly_Adversarial_Exa
 VU#95,0.33333333,https://github.com/Hutt0n0/ActiveMqRCE,Hutt0n0/ActiveMqRCE,719020598
 VU#95,0.33333333,https://github.com/Werea25/Best-Exploit,Werea25/Best-Exploit,565215249
 VU#95,0.33333333,https://github.com/ED-Devel0per/ED-Sploit-Download,ED-Devel0per/ED-Sploit-Download,559252937
-VU#95,0.25000000,https://github.com/engie4800/dsi-capstone-spring-2025-GE,engie4800/dsi-capstone-spring-2025-GE,926256265
 VU#95,0.25000000,https://github.com/AiraBanu/UrbanEye,AiraBanu/UrbanEye,923706747
 VU#95,0.25000000,https://github.com/cultureelerfgoed/rce-thesauri-backup,cultureelerfgoed/rce-thesauri-backup,706151427
 VU#95,0.25000000,https://github.com/AlbertoChar/MS17-010-SMB,AlbertoChar/MS17-010-SMB,694261178
@@ -250,6 +249,7 @@ VU#95,0.01234568,https://github.com/mikusgszyp/ezsploit,mikusgszyp/ezsploit,6011
 VU#95,0.01234568,https://github.com/smallkirby/pwn-writeups,smallkirby/pwn-writeups,266489981
 VU#95,0.01219512,https://github.com/minchan02/CVE-Manager2,minchan02/CVE-Manager2,925945156
 VU#95,0.01190476,https://github.com/quantrocket-codeload/fx-bizday,quantrocket-codeload/fx-bizday,170712487
+VU#95,0.01176471,https://github.com/engie4800/dsi-capstone-spring-2025-GE,engie4800/dsi-capstone-spring-2025-GE,926256265
 VU#95,0.01176471,https://github.com/ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,ebsmartin/DDDQN_RL_AI_Insider_Trading_Exploitation_Trading_Bot,782142796
 VU#95,0.01162791,https://github.com/LinhOnii/Bypass-CheckM8-devices-with-signal,LinhOnii/Bypass-CheckM8-devices-with-signal,956401943
 VU#95,0.01162791,https://github.com/Nemesis1303/CASE,Nemesis1303/CASE,851021010
@@ -470,7 +470,7 @@ VU#95,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#95,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#95,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#95,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#95,0.00027218,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#95,0.00027196,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#95,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#95,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#95,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
