@@ -1,2 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
 809073911,Souhardya/Exploit-PoCs,OP_Control_Center_1.2.2.8/README.md,0f6ed250e69b98de62aa529c822d5650618eb9a6,CVE-2024-37705
+809073911,Souhardya/Exploit-PoCs,README.md,aca3e281b8fae5a761558caeff492dd996b5bc45,CVE-2024-37705
+809073911,Souhardya/Exploit-PoCs,README.md,aca3e281b8fae5a761558caeff492dd996b5bc45,CVE-2024-39251
+809073911,Souhardya/Exploit-PoCs,HonorPCManager-PrivEsc/Honor-Pc-Manager-Poc.mp4,e38a0be0c8e3b3d1e6383aefa1fe573d39092fb2,VU#04

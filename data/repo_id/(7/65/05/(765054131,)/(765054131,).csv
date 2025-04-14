@@ -1,2 +1,3 @@
 repo_id,repo_full_name,file,file_sha1,match
+765054131,0xbitx/DEDSEC_BKIF,setup,ec41fd4f40d7cb6f30b497f1978ea837114bcdf3,VU#33
 765054131,0xbitx/DEDSEC_BKIF,README.md,f2b4329bedee2e81da381ab14e902e4eb3c02cb0,CVE-2023-45866
