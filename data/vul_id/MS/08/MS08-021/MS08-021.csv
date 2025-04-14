@@ -4,6 +4,7 @@ MS08-021,0.00675676,https://github.com/securipy/exploit-finder,securipy/exploit-
 MS08-021,0.00666667,https://github.com/0dff03e35e441de3084d705f632e8976/exploit_win,0dff03e35e441de3084d705f632e8976/exploit_win,385117277
 MS08-021,0.00666667,https://github.com/aa2288207/Windows-Exploit-Suggester,aa2288207/Windows-Exploit-Suggester,56735212
 MS08-021,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
+MS08-021,0.00588235,https://github.com/DivyTej/Windows-Exploit-Suggester-v2,DivyTej/Windows-Exploit-Suggester-v2,965930547
 MS08-021,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 MS08-021,0.00584795,https://github.com/Sanchit60/Windows-Exploit-Suggester,Sanchit60/Windows-Exploit-Suggester,770226766
 MS08-021,0.00584795,https://github.com/ScarlyCodex/-Windows-Exploit-Suggester,ScarlyCodex/-Windows-Exploit-Suggester,765865356
@@ -161,7 +162,7 @@ MS08-021,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS08-021,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS08-021,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS08-021,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS08-021,0.00000714,https://github.com/trickest/cve,trickest/cve,454015416
+MS08-021,0.00000713,https://github.com/trickest/cve,trickest/cve,454015416
 MS08-021,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS08-021,0.00000366,https://github.com/scmanjarrez/CVEScannerV2DB,scmanjarrez/CVEScannerV2DB,394995609
 MS08-021,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678

@@ -96,6 +96,7 @@ MS16-032,0.00628931,https://github.com/tobor88/PayloadSiteForPenTesters,tobor88/
 MS16-032,0.00617284,https://github.com/hybridious/Windows-Exploit-Suggester-2,hybridious/Windows-Exploit-Suggester-2,123615513
 MS16-032,0.00598802,https://github.com/LySharkTeam/Windows-exploits,LySharkTeam/Windows-exploits,578069209
 MS16-032,0.00598802,https://github.com/lyshark/Windows-exploits,lyshark/Windows-exploits,218237954
+MS16-032,0.00588235,https://github.com/DivyTej/Windows-Exploit-Suggester-v2,DivyTej/Windows-Exploit-Suggester-v2,965930547
 MS16-032,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 MS16-032,0.00588235,https://github.com/s0wr0b1ndef/Active-Directory-Exploitation-,s0wr0b1ndef/Active-Directory-Exploitation-,293183436
 MS16-032,0.00588235,https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,267698986
@@ -335,7 +336,7 @@ MS16-032,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasp
 MS16-032,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-032,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS16-032,0.00014899,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS16-032,0.00013755,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS16-032,0.00013753,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS16-032,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
 MS16-032,0.00012013,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
@@ -406,7 +407,7 @@ MS16-032,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/c
 MS16-032,0.00000952,https://github.com/fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,fullsendit-sj235/Vulnerability-Scanning-and-Exploit-Prediction,920751179
 MS16-032,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779
 MS16-032,0.00000895,https://github.com/cve-sandbox-bot/cve_sandbox,cve-sandbox-bot/cve_sandbox,761136511
-MS16-032,0.00000714,https://github.com/trickest/cve,trickest/cve,454015416
+MS16-032,0.00000713,https://github.com/trickest/cve,trickest/cve,454015416
 MS16-032,0.00000673,https://github.com/meelunae/exploitability_prediction,meelunae/exploitability_prediction,612770665
 MS16-032,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 MS16-032,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GPZ-514,0.03846154,https://github.com/houjingyi233/office-exploit-case-study,houjingyi233/office-exploit-case-study,115672817
+GPZ-514,0.00588235,https://github.com/DivyTej/Windows-Exploit-Suggester-v2,DivyTej/Windows-Exploit-Suggester-v2,965930547
 GPZ-514,0.00588235,https://github.com/3hydraking/windows-exploit-suggester,3hydraking/windows-exploit-suggester,377846303
 GPZ-514,0.00584795,https://github.com/Sanchit60/Windows-Exploit-Suggester,Sanchit60/Windows-Exploit-Suggester,770226766
 GPZ-514,0.00584795,https://github.com/ScarlyCodex/-Windows-Exploit-Suggester,ScarlyCodex/-Windows-Exploit-Suggester,765865356

@@ -1,5 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-FXRQ-FR7H-9RQQ,0.00389105,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
+GHSA-FXRQ-FR7H-9RQQ,0.00381679,https://github.com/Threekiii/CVE,Threekiii/CVE,585374844
 GHSA-FXRQ-FR7H-9RQQ,0.00255102,https://github.com/lal0ne/vulnerability,lal0ne/vulnerability,449931921
-GHSA-FXRQ-FR7H-9RQQ,0.00168067,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
-GHSA-FXRQ-FR7H-9RQQ,0.00000714,https://github.com/trickest/cve,trickest/cve,454015416
+GHSA-FXRQ-FR7H-9RQQ,0.00166667,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-FXRQ-FR7H-9RQQ,0.00166389,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
+GHSA-FXRQ-FR7H-9RQQ,0.00000713,https://github.com/trickest/cve,trickest/cve,454015416

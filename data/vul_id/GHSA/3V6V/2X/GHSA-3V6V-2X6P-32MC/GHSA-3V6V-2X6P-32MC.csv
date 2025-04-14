@@ -1,3 +1,4 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-3V6V-2X6P-32MC,0.00371747,https://github.com/fthomasella/dependency-check-poc-vuln,fthomasella/dependency-check-poc-vuln,958221963
-GHSA-3V6V-2X6P-32MC,0.00168067,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-3V6V-2X6P-32MC,0.00166667,https://github.com/Threekiii/Vulnerability-Wiki,Threekiii/Vulnerability-Wiki,486850168
+GHSA-3V6V-2X6P-32MC,0.00166389,https://github.com/Threekiii/Awesome-POC,Threekiii/Awesome-POC,461406901
