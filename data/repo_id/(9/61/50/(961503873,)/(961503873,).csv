@@ -1,6 +1,6 @@
 repo_id,repo_full_name,file,file_sha1,match
-961503873,maxen11/DroidHunter,utils/poc_analyser.py,297bd3f856f3f57c11333585e2d848d26134debc,CVE-2024-0044
-961503873,maxen11/DroidHunter,DroidHunter.py,5902221d1464a2b28d2513eb5f150aa4565155f9,CVE-2015-3864
+961503873,maxen11/DroidHunter,DroidHunter.py,1e4eda057645032087236c9e4c1469fb3a29b1d9,CVE-2015-3864
+961503873,maxen11/DroidHunter,test_stars.py,971e500a65e7232daf8a921549713b2f57af2647,CVE-2023-4863
 961503873,maxen11/DroidHunter,utils/cve_counter.py,be79e40dc7ef6cb35b1da8596489e2f2666157f7,CVE-2021-1234
-961503873,maxen11/DroidHunter,utils/nvd_enricher.py,c29f09af7b4397d6b9b7d85dec59b4a129e08d76,CVE-2020-1234
 961503873,maxen11/DroidHunter,README.md,c329cc0ead82ce8bc0ab65d0caf34dafea2edea5,CVE-2023-4863
+961503873,maxen11/DroidHunter,utils/nvd_enricher.py,f3cbd1203c45f2f5997e9870ff27dbe53b409adb,CVE-2020-1234
