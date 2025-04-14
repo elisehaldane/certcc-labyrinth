@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS08-067,1.00000000,https://github.com/kian84ra/Metasploit,kian84ra/Metasploit,965745358
 MS08-067,1.00000000,https://github.com/AshJToomey/Python-Metasploit-Exploitation,AshJToomey/Python-Metasploit-Exploitation,944664243
 MS08-067,1.00000000,https://github.com/Shankar01081991/HTB-OSCP-Prep,Shankar01081991/HTB-OSCP-Prep,943261954
 MS08-067,1.00000000,https://github.com/SerCaesar/MetasploitFiller,SerCaesar/MetasploitFiller,938869138
@@ -603,7 +604,7 @@ MS08-067,0.00018546,https://github.com/ajvarela/amadeus-exploit,ajvarela/amadeus
 MS08-067,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 MS08-067,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 MS08-067,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-MS08-067,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS08-067,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS08-067,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS08-067,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS08-067,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072

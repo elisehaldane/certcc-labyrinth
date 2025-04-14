@@ -1,4 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
+MS17-010,1.00000000,https://github.com/GH05TCREW/MetasploitMCP,GH05TCREW/MetasploitMCP,965808054
 MS17-010,1.00000000,https://github.com/Kalpeshdhamanse/Bluemoon,Kalpeshdhamanse/Bluemoon,959923670
 MS17-010,1.00000000,https://github.com/saadoxo/Ethical-Hacking-Course-Notes-The-Cyber-Mentor,saadoxo/Ethical-Hacking-Course-Notes-The-Cyber-Mentor,958701852
 MS17-010,1.00000000,https://github.com/ramyardaneshgar/THM-Writeup-C2,ramyardaneshgar/THM-Writeup-C2,957001376
@@ -668,7 +669,7 @@ MS17-010,0.00224215,https://github.com/offensive-security/exploitdb-papers,offen
 MS17-010,0.00219298,https://github.com/winterwolf32/CVE-S---Penetration_Testing_POC-,winterwolf32/CVE-S---Penetration_Testing_POC-,452625927
 MS17-010,0.00183150,https://github.com/chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,chriss-0x01/https-gitlab.com-exploit-database-exploitdb-papers,789085089
 MS17-010,0.00181488,https://github.com/nop-tech/Pentesting,nop-tech/Pentesting,365018640
-MS17-010,0.00171821,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+MS17-010,0.00170648,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 MS17-010,0.00169205,https://github.com/PwnTrack/ExploitCollection,PwnTrack/ExploitCollection,500132514
 MS17-010,0.00166113,https://github.com/BlackSnufkin/PT-ToolKit,BlackSnufkin/PT-ToolKit,399421960
 MS17-010,0.00163934,https://github.com/askumbhojkar/Exploits,askumbhojkar/Exploits,291467140
@@ -690,7 +691,7 @@ MS17-010,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 MS17-010,0.00063939,https://github.com/maxamin/exploitpack-from-an-APT-infrastructure,maxamin/exploitpack-from-an-APT-infrastructure,460082165
 MS17-010,0.00059453,https://github.com/francolmenar-projects/PoC_Snort_Windows10,francolmenar-projects/PoC_Snort_Windows10,320782168
 MS17-010,0.00057604,https://github.com/cankevinlaurent/secsensor,cankevinlaurent/secsensor,230999626
-MS17-010,0.00056980,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+MS17-010,0.00056948,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 MS17-010,0.00056433,https://github.com/Nickel-Nie/Scrapy_ExploitDB,Nickel-Nie/Scrapy_ExploitDB,350030031
 MS17-010,0.00054585,https://github.com/ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,ProjectZeroDays/AI-Driven-Zero-Click-Exploit-Deployment-Framework,838423437
 MS17-010,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
@@ -811,13 +812,13 @@ MS17-010,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/
 MS17-010,0.00018443,https://github.com/kaRaGODDD/Cve-with-their-PoC-s,kaRaGODDD/Cve-with-their-PoC-s,756866150
 MS17-010,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 MS17-010,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-MS17-010,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+MS17-010,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 MS17-010,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS17-010,0.00014899,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
 MS17-010,0.00013755,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS17-010,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS17-010,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
-MS17-010,0.00012021,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS17-010,0.00012013,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS17-010,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 MS17-010,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538
 MS17-010,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673

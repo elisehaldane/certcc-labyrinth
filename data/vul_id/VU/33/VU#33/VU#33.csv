@@ -6,6 +6,7 @@ VU#33,1.00000000,https://github.com/CodeBoy1877/AlfaCgi-1877,CodeBoy1877/AlfaCgi
 VU#33,0.50000000,https://github.com/mr-big-leach/CVE-2025-21298,mr-big-leach/CVE-2025-21298,965676834
 VU#33,0.50000000,https://github.com/ynwarcs/CVE-2025-21298,ynwarcs/CVE-2025-21298,919620133
 VU#33,0.50000000,https://github.com/Moaz-Awad/PENTESTING-REPORT-FOR-HTB-LANTERN-MACHINE,Moaz-Awad/PENTESTING-REPORT-FOR-HTB-LANTERN-MACHINE,890538489
+VU#33,0.50000000,https://github.com/0xbitx/DEDSEC_BKIF,0xbitx/DEDSEC_BKIF,765054131
 VU#33,0.50000000,https://github.com/ludovic-estival/projetIUT-exploit-bd,ludovic-estival/projetIUT-exploit-bd,553417044
 VU#33,0.50000000,https://github.com/Neurotiv/Maki,Neurotiv/Maki,542653163
 VU#33,0.50000000,https://github.com/shinoTM/Saturne-Exploit,shinoTM/Saturne-Exploit,521627336
@@ -330,6 +331,7 @@ VU#33,0.01428571,https://github.com/DarkSkull777/DarkCool,DarkSkull777/DarkCool,
 VU#33,0.01428571,https://github.com/JulieCharbonneau/Age-structured-marine-fish-database,JulieCharbonneau/Age-structured-marine-fish-database,518120857
 VU#33,0.01408451,https://github.com/jxfzzzt/vulnerability_poc,jxfzzzt/vulnerability_poc,618775318
 VU#33,0.01408451,https://github.com/nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,nonameforpirate2/Hackathon_Hive_MQTT_IoT_Monitoring_Detect_DDoS_Attack,609631765
+VU#33,0.01388889,https://github.com/py4rce/py4rce.github.io,py4rce/py4rce.github.io,965797275
 VU#33,0.01388889,https://github.com/Gnza10/TPMvulnerabilities,Gnza10/TPMvulnerabilities,822570043
 VU#33,0.01388889,https://github.com/RezzFayyazi/CACyber,RezzFayyazi/CACyber,636001586
 VU#33,0.01388889,https://github.com/raydium-io/dec_16_exploit,raydium-io/dec_16_exploit,579420996
@@ -624,7 +626,7 @@ VU#33,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,4807
 VU#33,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#33,0.00081967,https://github.com/avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,avnyc/Shodan_Pull_Cobalt_Strike_Team_Servers,574143697
 VU#33,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#33,0.00056980,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#33,0.00056948,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#33,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#33,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#33,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
@@ -655,7 +657,7 @@ VU#33,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding2
 VU#33,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 VU#33,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 VU#33,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-VU#33,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+VU#33,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 VU#33,0.00012650,https://github.com/happyhackerhour/androidexploitdev,happyhackerhour/androidexploitdev,559715803
 VU#33,0.00009367,https://github.com/NaInSec/ShellCodeExploits-GHDB,NaInSec/ShellCodeExploits-GHDB,772556016
 VU#33,0.00009367,https://github.com/EthicalHackerID/ShellCodeExploits-GHDB,EthicalHackerID/ShellCodeExploits-GHDB,771621538

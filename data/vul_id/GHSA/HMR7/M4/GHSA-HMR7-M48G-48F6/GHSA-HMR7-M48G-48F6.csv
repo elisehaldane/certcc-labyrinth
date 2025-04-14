@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-HMR7-M48G-48F6,0.00171821,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-HMR7-M48G-48F6,0.00170648,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-HMR7-M48G-48F6,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

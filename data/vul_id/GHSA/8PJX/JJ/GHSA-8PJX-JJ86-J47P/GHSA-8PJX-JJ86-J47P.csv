@@ -6,7 +6,7 @@ GHSA-8PJX-JJ86-J47P,0.01587302,https://github.com/Mr-Tree-S/POC_EXP,Mr-Tree-S/PO
 GHSA-8PJX-JJ86-J47P,0.00067249,https://github.com/u21h2/nacs,u21h2/nacs,495917708
 GHSA-8PJX-JJ86-J47P,0.00064809,https://github.com/veo/vscan,veo/vscan,377697824
 GHSA-8PJX-JJ86-J47P,0.00061013,https://github.com/Wang-yuyang/Vulnerabilit-Exploit-Library,Wang-yuyang/Vulnerabilit-Exploit-Library,511974178
-GHSA-8PJX-JJ86-J47P,0.00056980,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+GHSA-8PJX-JJ86-J47P,0.00056948,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 GHSA-8PJX-JJ86-J47P,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
 GHSA-8PJX-JJ86-J47P,0.00043346,https://github.com/arkede/cve-2021,arkede/cve-2021,956982218
 GHSA-8PJX-JJ86-J47P,0.00035804,https://github.com/k4t3pr0/Nuclei-POC,k4t3pr0/Nuclei-POC,755416207
@@ -48,7 +48,7 @@ GHSA-8PJX-JJ86-J47P,0.00018591,https://github.com/phucoding286/metasploit-framew
 GHSA-8PJX-JJ86-J47P,0.00018495,https://github.com/ParrotSec/metasploit-framework,ParrotSec/metasploit-framework,71667487
 GHSA-8PJX-JJ86-J47P,0.00018430,https://github.com/pixelpro-20/Metasploit-,pixelpro-20/Metasploit-,935938195
 GHSA-8PJX-JJ86-J47P,0.00018359,https://github.com/snakesec/metasploit,snakesec/metasploit,963594462
-GHSA-8PJX-JJ86-J47P,0.00018352,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
+GHSA-8PJX-JJ86-J47P,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasploit-framework,2293158
 GHSA-8PJX-JJ86-J47P,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 GHSA-8PJX-JJ86-J47P,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212345
 GHSA-8PJX-JJ86-J47P,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478

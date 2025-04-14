@@ -1,3 +1,3 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-X28G-6228-99P9,0.00056915,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
+GHSA-X28G-6228-99P9,0.00056850,https://github.com/zzzteph/low-hanging-vulns,zzzteph/low-hanging-vulns,916335123
 GHSA-X28G-6228-99P9,0.00000714,https://github.com/trickest/cve,trickest/cve,454015416
