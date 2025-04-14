@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+965911609,jakehomb/cve-2023-42793,.idea/modules.xml,5962af12be4b43f921b710a544637e0558249a7b,CVE-2023-42793
+965911609,jakehomb/cve-2023-42793,.idea/CVE-2023-42793.iml,e97d654372ef437ced1d771fc7339a3a5ea653c8,CVE-2023-42793
+965911609,jakehomb/cve-2023-42793,_GITHUB_REPO_METADATA_,,CVE-2023-42793
