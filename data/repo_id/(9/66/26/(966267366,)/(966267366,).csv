@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+966267366,JohanMV/explotacion-vsftpd-nmap_Laboratorio_1,README.md,34cf7e9c7129d014fc29f333dad40555d9eb4b08,CVE-2011-2523
+966267366,JohanMV/explotacion-vsftpd-nmap_Laboratorio_1,README.md,34cf7e9c7129d014fc29f333dad40555d9eb4b08,OSVDB-73573
+966267366,JohanMV/explotacion-vsftpd-nmap_Laboratorio_1,_GITHUB_REPO_METADATA_,,CVE-2011-2523
