@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+965808054,GH05TCREW/MetasploitMCP,README.md,18f3dd0a7ab373e9f6c39d06dc5a25f53ba60886,MS17-010
+965808054,GH05TCREW/MetasploitMCP,MetasploitMCP.py,ffd220ce36edf77e9bba9952a2108e336ce24d84,MS17-010

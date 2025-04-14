@@ -1,4 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+913108534,happymimimix/Git-Auto-Updater,README.md,2e4a4c729330a7f8d191b7f9d93c391beb996945,CVE-2024-32002
 913108534,happymimimix/Git-Auto-Updater,Git-2.45.1-64-bit.exe,9a998e28c51026ab91dfa2104dbeb61fe2cc7bb0,VU#00
 913108534,happymimimix/Git-Auto-Updater,Git-2.45.1-64-bit.exe,9a998e28c51026ab91dfa2104dbeb61fe2cc7bb0,VU#11
 913108534,happymimimix/Git-Auto-Updater,Git-2.45.1-64-bit.exe,9a998e28c51026ab91dfa2104dbeb61fe2cc7bb0,VU#22
