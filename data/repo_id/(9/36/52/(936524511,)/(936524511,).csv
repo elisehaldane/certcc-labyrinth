@@ -1,12 +1,14 @@
 repo_id,repo_full_name,file,file_sha1,match
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2022-21882
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2022-21999
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2023-28252
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2023-45878
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2024-30088
-936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,MS16-032
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2022-21882
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2022-21999
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2023-28252
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2023-45878
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,CVE-2024-30088
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/2. Medium/TheFrizz (Medium).md,1337170dba822f84b2c7221de6b37e84b0b680e8,MS16-032
+936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/1. Easy/Nocturnal (Easy).md,39f2890b98aa072090faaf768bfe329c83a0dbdc,CVE-2023-46818
 936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/2. Medium/Cat (Medium).md,657401cafe6ed419b6218a7fe61917b8d67d8c9c,CVE-2024-6886
 936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/1. Easy/Titanic (Easy).md,6e53876d3523fd4eb45844f2e2061b58c5520896,GHSA-8RXC-922V-PHG8
+936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/2. Medium/Backfire (Medium).md,6f498d446a695d6bb302044b2a7ece35177a06a9,CVE-2024-41570
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#59
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#41
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#21
@@ -15,5 +17,6 @@ repo_id,repo_full_name,file,file_sha1,match
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#94
 936524511,Nu1LD4y/HTB_Notes,.obsidian/themes/Obsidianotion/theme.css,732d5adbc9f91176c2596a747131bd245b844aef,VU#09
 936524511,Nu1LD4y/HTB_Notes,Labs/OSCP boxes.md,78ccc2d771bbd35cc006568861e0dd7047676de6,MS17-010
+936524511,Nu1LD4y/HTB_Notes,Labs/windows machines/3. Hard/Haze (Hard).md,80fa2260bb744f50bd1d564013596fe2fd4777da,CVE-2024-36991
 936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/3. Hard/Checker (Hard).md,90e511be62f65c872d63544f3b7989991a5f6186,CVE-2020-5256
 936524511,Nu1LD4y/HTB_Notes,Labs/linux machines/1. Easy/LinkVortex (Easy).md,f35c5c8758a934deda1c2ca2c263224d05f04857,CVE-2023-40028
