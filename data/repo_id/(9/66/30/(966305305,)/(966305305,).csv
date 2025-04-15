@@ -1,0 +1,5 @@
+repo_id,repo_full_name,file,file_sha1,match
+966305305,pulentoski/Explotacion-CVE-2023-32315-Openfire,readme.md,defe08d4a57346f7a85299dbe6852ff15eae6124,CVE-2023-32315
+966305305,pulentoski/Explotacion-CVE-2023-32315-Openfire,CVE-2023-32315.py,fc4461f69896d6582c83413ccac754e95c65aedf,CVE-2023-3215
+966305305,pulentoski/Explotacion-CVE-2023-32315-Openfire,CVE-2023-32315.py,fc4461f69896d6582c83413ccac754e95c65aedf,CVE-2023-32315
+966305305,pulentoski/Explotacion-CVE-2023-32315-Openfire,_GITHUB_REPO_METADATA_,,CVE-2023-32315
