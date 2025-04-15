@@ -1,5 +1,5 @@
 repo_id,repo_full_name,file,file_sha1,match
+965798499,vectoa/MikroTik-Auto-Exploit-Tool,README.md,394568035c5c74b9f70b783cfad7992e93cbb650,CVE-2018-14847
+965798499,vectoa/MikroTik-Auto-Exploit-Tool,README.md,394568035c5c74b9f70b783cfad7992e93cbb650,CVE-2024-54772
 965798499,vectoa/MikroTik-Auto-Exploit-Tool,mikrotik_auto_exploit.py,8ba2c119faba3c8f7290666bbcc24b528970df25,CVE-2018-14847
 965798499,vectoa/MikroTik-Auto-Exploit-Tool,mikrotik_auto_exploit.py,8ba2c119faba3c8f7290666bbcc24b528970df25,CVE-2024-54772
-965798499,vectoa/MikroTik-Auto-Exploit-Tool,README.md,c98760d0a7768763af3a6e2378c04c986784bbed,CVE-2018-14847
-965798499,vectoa/MikroTik-Auto-Exploit-Tool,README.md,c98760d0a7768763af3a6e2378c04c986784bbed,CVE-2024-54772
