@@ -1,0 +1,4 @@
+repo_id,repo_full_name,file,file_sha1,match
+966463207,wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-,README.md,4284acc38ae9a1e21339fde7bef50ddcc0d52092,CVE-2023-1514
+966463207,wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-,CVE-2023-1514.py,77cc8f5351097d12b4e2acb090e90138fd9f7141,CVE-2023-1514
+966463207,wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-,_GITHUB_REPO_METADATA_,,CVE-2023-1514
