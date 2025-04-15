@@ -1,0 +1,7 @@
+repo_id,repo_full_name,file,file_sha1,match
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2012-6708
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2015-9251
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2019-11358
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2020-11022
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2020-11023
+966315746,kuppamjohari/advaya-gems-sql-injection-poc,README.md,9e2ea10bcb1c5c2e7b271fa6f5eefdf89a1994b4,CVE-2020-7656
