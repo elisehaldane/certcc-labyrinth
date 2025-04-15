@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-W8W4-463P-8PG7,0.00075988,https://github.com/Ostorlab/KEV,Ostorlab/KEV,483170315
 GHSA-W8W4-463P-8PG7,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 GHSA-W8W4-463P-8PG7,0.00010774,https://github.com/arkede/cve-2024,arkede/cve-2024,956982362
-GHSA-W8W4-463P-8PG7,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-W8W4-463P-8PG7,0.00003458,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442

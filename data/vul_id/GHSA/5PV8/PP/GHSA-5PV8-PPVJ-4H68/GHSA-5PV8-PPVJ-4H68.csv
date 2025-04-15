@@ -1,6 +1,6 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-5PV8-PPVJ-4H68,0.50000000,https://github.com/Live-Hack-CVE/CVE-2021-21424,Live-Hack-CVE/CVE-2021-21424,583157545
-GHSA-5PV8-PPVJ-4H68,0.00165563,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-5PV8-PPVJ-4H68,0.00164474,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-5PV8-PPVJ-4H68,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-5PV8-PPVJ-4H68,0.00000362,https://github.com/Live-Hack-CVE/full_database,Live-Hack-CVE/full_database,603381678
 GHSA-5PV8-PPVJ-4H68,0.00000323,https://github.com/kaRaGODDD/cve_database,kaRaGODDD/cve_database,747924426

@@ -93,7 +93,6 @@ VU#19,0.06666667,https://github.com/SecurityInnovation/glibc_heap_exploitation_t
 VU#19,0.06250000,https://github.com/TomB-S/GrooveGalaxy,TomB-S/GrooveGalaxy,755301233
 VU#19,0.05882353,https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC,510875629
 VU#19,0.05882353,https://github.com/khalednassar/CVE-2022-21449-TLS-PoC,khalednassar/CVE-2022-21449-TLS-PoC,483804378
-VU#19,0.05555556,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#19,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
 VU#19,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
 VU#19,0.05263158,https://github.com/Szandor72/czd23-aura-experience-to-exploit,Szandor72/czd23-aura-experience-to-exploit,623942341
@@ -103,6 +102,7 @@ VU#19,0.05263158,https://github.com/EpicAnonymousProHacker/School-Exploits,EpicA
 VU#19,0.05000000,https://github.com/JayMwakideu/Mobile_Spy_Ware,JayMwakideu/Mobile_Spy_Ware,825675936
 VU#19,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#19,0.05000000,https://github.com/alienfxfiend/Prelude-in-C,alienfxfiend/Prelude-in-C,539674213
+VU#19,0.04761905,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#19,0.04761905,https://github.com/Malandrone/PowerDecode,Malandrone/PowerDecode,324156305
 VU#19,0.04761905,https://github.com/bhassani/EternalBlueC,bhassani/EternalBlueC,258545783
 VU#19,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/binary-exploitation,610892567
@@ -559,7 +559,7 @@ VU#19,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#19,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#19,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#19,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#19,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#19,0.00027152,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#19,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#19,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#19,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

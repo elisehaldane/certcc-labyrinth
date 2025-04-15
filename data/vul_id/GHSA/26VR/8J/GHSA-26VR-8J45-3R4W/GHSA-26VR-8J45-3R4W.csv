@@ -1,7 +1,7 @@
 match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-26VR-8J45-3R4W,0.00052770,https://github.com/GhostTroops/scan4all,GhostTroops/scan4all,505278571
 GHSA-26VR-8J45-3R4W,0.00043346,https://github.com/arkede/cve-2021,arkede/cve-2021,956982218
-GHSA-26VR-8J45-3R4W,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+GHSA-26VR-8J45-3R4W,0.00003458,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 GHSA-26VR-8J45-3R4W,0.00002046,https://github.com/jsteinberg4/cve-retrieval,jsteinberg4/cve-retrieval,577043003
 GHSA-26VR-8J45-3R4W,0.00000473,https://github.com/zer0daysec/CNVD-SharedVulData-XML,zer0daysec/CNVD-SharedVulData-XML,724578396
 GHSA-26VR-8J45-3R4W,0.00000472,https://github.com/zhangkaibin0921/cnvd_official_data_and_spider,zhangkaibin0921/cnvd_official_data_and_spider,731956729

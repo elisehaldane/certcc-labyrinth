@@ -122,7 +122,6 @@ VU#82,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-v
 VU#82,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#82,0.05263158,https://github.com/Ankur452/CTF-challenges,Ankur452/CTF-challenges,867345699
 VU#82,0.05263158,https://github.com/WiFiTrackerGroup/WiFiTracker,WiFiTrackerGroup/WiFiTracker,714718155
-VU#82,0.05263158,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#82,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#82,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#82,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/More-tools-exploit,204350085
@@ -137,6 +136,7 @@ VU#82,0.04545455,https://github.com/daniel616/CVE-2022-21661-Demo,daniel616/CVE-
 VU#82,0.04545455,https://github.com/rhelmeczi/pattern-exploiting-training,rhelmeczi/pattern-exploiting-training,482649359
 VU#82,0.04545455,https://github.com/Raphael-Rey/data_in_libraries,Raphael-Rey/data_in_libraries,477319630
 VU#82,0.04347826,https://github.com/jedilinux/Shellcode,jedilinux/Shellcode,832234093
+VU#82,0.04347826,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#82,0.04347826,https://github.com/carti6ix/polaris,carti6ix/polaris,611824335
 VU#82,0.04347826,https://github.com/giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,giulio-derasmo/Search-Engine-Evaluation-and-Near-Duplicate-Detection,536634446
 VU#82,0.04347826,https://github.com/qlinhta/ROMs,qlinhta/ROMs,514096366
@@ -641,7 +641,7 @@ VU#82,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#82,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#82,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#82,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#82,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#82,0.00027152,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#82,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#82,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#82,0.00018591,https://github.com/phucoding286/metasploit-framework,phucoding286/metasploit-framework,847008678

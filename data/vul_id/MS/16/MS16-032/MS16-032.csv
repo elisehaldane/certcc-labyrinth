@@ -36,9 +36,9 @@ MS16-032,0.05882353,https://github.com/febinrev/windows_privesc-post_exploitatio
 MS16-032,0.05882353,https://github.com/benyG/PentaDrone,benyG/PentaDrone,218828715
 MS16-032,0.05882353,https://github.com/gold1029/Empire,gold1029/Empire,108393286
 MS16-032,0.05882353,https://github.com/shakenetwork/Empire,shakenetwork/Empire,103014824
-MS16-032,0.05555556,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 MS16-032,0.05263158,https://github.com/rayhan0x01/reverse-shell-able-exploit-pocs,rayhan0x01/reverse-shell-able-exploit-pocs,299184197
 MS16-032,0.05263158,https://github.com/leebaird/discover,leebaird/discover,13932470
+MS16-032,0.04761905,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 MS16-032,0.04761905,https://github.com/refabr1k/oscp_notes,refabr1k/oscp_notes,200577990
 MS16-032,0.04347826,https://github.com/ihack4falafel/OSCP,ihack4falafel/OSCP,97347544
 MS16-032,0.04166667,https://github.com/slytechroot/exploit_development,slytechroot/exploit_development,897979667
@@ -336,10 +336,10 @@ MS16-032,0.00018349,https://github.com/rapid7/metasploit-framework,rapid7/metasp
 MS16-032,0.00018083,https://github.com/akabe1/windows_exploit_dowser,akabe1/windows_exploit_dowser,187895283
 MS16-032,0.00015108,https://github.com/BuddhaLabs/PacketStorm-Exploits,BuddhaLabs/PacketStorm-Exploits,14740030
 MS16-032,0.00014899,https://github.com/tg12/PoC_CVEs,tg12/PoC_CVEs,543120512
-MS16-032,0.00013746,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
+MS16-032,0.00013742,https://github.com/nomi-sec/PoC-in-GitHub,nomi-sec/PoC-in-GitHub,226668668
 MS16-032,0.00013103,https://github.com/sepehrdaddev/0day-today-exploits,sepehrdaddev/0day-today-exploits,272052072
 MS16-032,0.00012369,https://github.com/126789t/poc_everyday,126789t/poc_everyday,901594790
-MS16-032,0.00012003,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
+MS16-032,0.00012000,https://github.com/ycdxsb/PocOrExp_in_Github,ycdxsb/PocOrExp_in_Github,357437766
 MS16-032,0.00009367,https://github.com/Live-Hack-CVE/POC,Live-Hack-CVE/POC,619822673
 MS16-032,0.00008672,https://github.com/sepehrdaddev/packetstorm-exploits,sepehrdaddev/packetstorm-exploits,271076842
 MS16-032,0.00005616,https://github.com/shewey/exploit-db,shewey/exploit-db,76283094

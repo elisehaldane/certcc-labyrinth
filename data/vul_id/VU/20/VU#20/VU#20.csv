@@ -120,7 +120,6 @@ VU#20,0.05555556,https://github.com/petya136900/rce-bot-vk,petya136900/rce-bot-v
 VU#20,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
 VU#20,0.05263158,https://github.com/PaNDa2code/WindowsMessageBoxShellcode,PaNDa2code/WindowsMessageBoxShellcode,816678215
 VU#20,0.05263158,https://github.com/spawnmason/randar-explanation,spawnmason/randar-explanation,659620418
-VU#20,0.05263158,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#20,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#20,0.05263158,https://github.com/SMKProj/TransferLearning,SMKProj/TransferLearning,522324441
 VU#20,0.05000000,https://github.com/david-palma/wordlists,david-palma/wordlists,567067804
@@ -139,6 +138,7 @@ VU#20,0.04545455,https://github.com/prasidh-agg/binary-exploitation,prasidh-agg/
 VU#20,0.04545455,https://github.com/TyphanieD/Exploitation-donnees-massives,TyphanieD/Exploitation-donnees-massives,600216921
 VU#20,0.04545455,https://github.com/ianis17/exploitation_donnees_massives,ianis17/exploitation_donnees_massives,600216914
 VU#20,0.04347826,https://github.com/DilnozaBobokalonova1/rust-blackhat,DilnozaBobokalonova1/rust-blackhat,679056951
+VU#20,0.04347826,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#20,0.04166667,https://github.com/mounirzx/KRNL-Executor,mounirzx/KRNL-Executor,846075490
 VU#20,0.04166667,https://github.com/ziffir12/DarkTullLinux,ziffir12/DarkTullLinux,745019351
 VU#20,0.04166667,https://github.com/omarelqarchaoui/Trading-strategy-with-deep-learning,omarelqarchaoui/Trading-strategy-with-deep-learning,545005597
@@ -541,7 +541,7 @@ VU#20,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-C
 VU#20,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
 VU#20,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#20,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
-VU#20,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#20,0.00027152,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#20,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#20,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#20,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

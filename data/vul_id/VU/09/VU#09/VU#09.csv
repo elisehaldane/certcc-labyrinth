@@ -180,7 +180,6 @@ VU#09,0.05882353,https://github.com/ericyoc/quantum-circuit-anomaly-detection-po
 VU#09,0.05882353,https://github.com/ravariu-eugen/SAP-Attack,ravariu-eugen/SAP-Attack,758591464
 VU#09,0.05882353,https://github.com/KChuene/Version-1-Malware,KChuene/Version-1-Malware,693348410
 VU#09,0.05882353,https://github.com/abhijaiswal819/Car-Price-Predictor-ML,abhijaiswal819/Car-Price-Predictor-ML,385995027
-VU#09,0.05555556,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#09,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#09,0.05555556,https://github.com/Elite-black-hat/FotoSploit,Elite-black-hat/FotoSploit,553360557
 VU#09,0.05555556,https://github.com/Touchcreator/CloudtalkerWhoops,Touchcreator/CloudtalkerWhoops,465510864
@@ -195,6 +194,7 @@ VU#09,0.05263158,https://github.com/beethoveen/More-tools-exploit,beethoveen/Mor
 VU#09,0.05263158,https://github.com/mgeeky/Penetration-Testing-Tools,mgeeky/Penetration-Testing-Tools,120032811
 VU#09,0.05000000,https://github.com/LauraZafra/Econometrics,LauraZafra/Econometrics,885838859
 VU#09,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
+VU#09,0.04761905,https://github.com/Nu1LD4y/HTB_Notes,Nu1LD4y/HTB_Notes,936524511
 VU#09,0.04761905,https://github.com/Sigolon/Metasploitable2-PHP-Reverse-Shell-and-Nmap-Vulnerability,Sigolon/Metasploitable2-PHP-Reverse-Shell-and-Nmap-Vulnerability,868859284
 VU#09,0.04761905,https://github.com/left-nullspace/cointegration-exploration-python,left-nullspace/cointegration-exploration-python,818392043
 VU#09,0.04761905,https://github.com/alex14324/Exploit_pack,alex14324/Exploit_pack,652370497
@@ -300,7 +300,6 @@ VU#09,0.02380952,https://github.com/physarief78/Computed-Tomography-Algebra-Reco
 VU#09,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#09,0.02272727,https://github.com/pawxnsingh/NetGuardX,pawxnsingh/NetGuardX,857697928
 VU#09,0.02272727,https://github.com/iFuntime/Proyect-Z-C-digo-Fuente-,iFuntime/Proyect-Z-C-digo-Fuente-,752738930
-VU#09,0.02222222,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#09,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#09,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#09,0.02173913,https://github.com/Rupam0710/Exploitary-Data-Analysis-Terrorism,Rupam0710/Exploitary-Data-Analysis-Terrorism,502156383
@@ -654,7 +653,7 @@ VU#09,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#09,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#09,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#09,0.00029334,https://github.com/zhxknb1/Lots-of-POC,zhxknb1/Lots-of-POC,827091256
-VU#09,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#09,0.00027152,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#09,0.00026413,https://github.com/merlinepedra25/mad-metasploit,merlinepedra25/mad-metasploit,511047581
 VU#09,0.00026413,https://github.com/merlinepedra/mad-metasploit,merlinepedra/mad-metasploit,511047516
 VU#09,0.00026406,https://github.com/hahwul/mad-metasploit,hahwul/mad-metasploit,102696209
@@ -709,7 +708,7 @@ VU#09,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#09,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#09,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#09,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#09,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#09,0.00003458,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#09,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
 VU#09,0.00001398,https://github.com/Doctype02/exploitdb,Doctype02/exploitdb,600900944
 VU#09,0.00001392,https://github.com/artyang/exploitdb,artyang/exploitdb,668899208

@@ -131,6 +131,7 @@ VU#49,0.11111111,https://github.com/ssteiger/the-dao-hack-simulation,ssteiger/th
 VU#49,0.11111111,https://github.com/shyeun/exploit,shyeun/exploit,456794098
 VU#49,0.11111111,https://github.com/0xvpr/vpr-pidjeon,0xvpr/vpr-pidjeon,413384079
 VU#49,0.11111111,https://github.com/nettitude/PoshC2_Shellcode,nettitude/PoshC2_Shellcode,288133025
+VU#49,0.10000000,https://github.com/Courtesi/picoCTF,Courtesi/picoCTF,966604256
 VU#49,0.10000000,https://github.com/harutomo-jp/Binary-Exploitation,harutomo-jp/Binary-Exploitation,789525643
 VU#49,0.10000000,https://github.com/Shiranuit/node-executable-app-exploit-poc,Shiranuit/node-executable-app-exploit-poc,727771886
 VU#49,0.10000000,https://github.com/pr1or1tyQ/nightmare,pr1or1tyQ/nightmare,691645490
@@ -221,7 +222,6 @@ VU#49,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-202
 VU#49,0.05555556,https://github.com/enkomio/AlanFramework,enkomio/AlanFramework,333239883
 VU#49,0.05263158,https://github.com/arazzaq178/Predicting-Software-Vulnerability-Exploits,arazzaq178/Predicting-Software-Vulnerability-Exploits,944635091
 VU#49,0.05263158,https://github.com/Ankur452/CTF-challenges,Ankur452/CTF-challenges,867345699
-VU#49,0.05263158,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#49,0.05263158,https://github.com/Ravishsidd/Forecast-Cab-Booking-Demand,Ravishsidd/Forecast-Cab-Booking-Demand,589297722
 VU#49,0.05263158,https://github.com/iitsmel/Research,iitsmel/Research,542480984
 VU#49,0.05263158,https://github.com/okta-dfuhriman/salesf00rce,okta-dfuhriman/salesf00rce,473530128
@@ -243,6 +243,7 @@ VU#49,0.04347826,https://github.com/liamadoyle/PhD_Study_3,liamadoyle/PhD_Study_
 VU#49,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733902391
 VU#49,0.04347826,https://github.com/g-patin/RCE_2023-8005_MFT-Fotonowy,g-patin/RCE_2023-8005_MFT-Fotonowy,733394340
 VU#49,0.04347826,https://github.com/DilnozaBobokalonova1/rust-blackhat,DilnozaBobokalonova1/rust-blackhat,679056951
+VU#49,0.04347826,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#49,0.04166667,https://github.com/mounirzx/KRNL-Executor,mounirzx/KRNL-Executor,846075490
 VU#49,0.04166667,https://github.com/chains-project/exploits-for-sbom.exe,chains-project/exploits-for-sbom.exe,789912184
 VU#49,0.04166667,https://github.com/backendGuru88/End-exploitation-website,backendGuru88/End-exploitation-website,697231446
@@ -307,6 +308,7 @@ VU#49,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,e
 VU#49,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
 VU#49,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#49,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
+VU#49,0.02500000,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#49,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#49,0.02500000,https://github.com/BeiboxxYT/NukeBeiboxExploit,BeiboxxYT/NukeBeiboxExploit,483087830
 VU#49,0.02500000,https://github.com/ewkstad/ZeroDayExperiments,ewkstad/ZeroDayExperiments,444909758
@@ -315,7 +317,6 @@ VU#49,0.02439024,https://github.com/skeenbean/BinaryWorkshop,skeenbean/BinaryWor
 VU#49,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1password-exploits,827970089
 VU#49,0.02325581,https://github.com/Zelophed/exploration_strategy,Zelophed/exploration_strategy,575538773
 VU#49,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#49,0.02222222,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#49,0.02222222,https://github.com/beefproject/beef,beefproject/beef,2833881
 VU#49,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
 VU#49,0.02173913,https://github.com/kapardhi03/ProjectDZD,kapardhi03/ProjectDZD,640458437
@@ -740,7 +741,7 @@ VU#49,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#49,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#49,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#49,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#49,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#49,0.00027152,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#49,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#49,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#49,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

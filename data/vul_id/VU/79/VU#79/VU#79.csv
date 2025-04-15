@@ -102,7 +102,6 @@ VU#79,0.05882353,https://github.com/atharimran728/DVWA-Pentest-report,atharimran
 VU#79,0.05555556,https://github.com/SzeKiatTan/nlp-cve-vendor-classification-gpt2,SzeKiatTan/nlp-cve-vendor-classification-gpt2,562010558
 VU#79,0.05555556,https://github.com/code-byter/CVE-2022-28113,code-byter/CVE-2022-28113,474472339
 VU#79,0.05555556,https://github.com/KOZ1OL/KOZ1OLMENU,KOZ1OL/KOZ1OLMENU,342926861
-VU#79,0.05263158,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#79,0.05000000,https://github.com/sp0ttybug/CTF-Writeups,sp0ttybug/CTF-Writeups,812866438
 VU#79,0.05000000,https://github.com/ericyoc/analysis_bin_exploit_mem_corrupt_poc,ericyoc/analysis_bin_exploit_mem_corrupt_poc,783032505
 VU#79,0.04761905,https://github.com/Mahity/Eexploration-Exploitation-problems.,Mahity/Eexploration-Exploitation-problems.,931807005
@@ -118,6 +117,7 @@ VU#79,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,47
 VU#79,0.04545455,https://github.com/yecp181/ShiroExploit,yecp181/ShiroExploit,471261800
 VU#79,0.04545455,https://github.com/DSO-Lab/defvul,DSO-Lab/defvul,281371864
 VU#79,0.04347826,https://github.com/liamadoyle/PhD_Study_3,liamadoyle/PhD_Study_3,795320731
+VU#79,0.04347826,https://github.com/AryanVBW/Andro-CLI,AryanVBW/Andro-CLI,613491888
 VU#79,0.04347826,https://github.com/Alexis-Melot/RCencoder,Alexis-Melot/RCencoder,439406837
 VU#79,0.04347826,https://github.com/R3zk0n/sploitations,R3zk0n/sploitations,421284722
 VU#79,0.04166667,https://github.com/elyas21/exploration_exploitation_algorithms,elyas21/exploration_exploitation_algorithms,928180621
@@ -163,6 +163,7 @@ VU#79,0.02702703,https://github.com/RAJANAGORI/metasploit-multi-os,RAJANAGORI/me
 VU#79,0.02702703,https://github.com/windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,windows10win7posreadywoeskio/CorruptedTOC-Day6-VSCorruptedGabriel-VSCorruptedExploiter,509954329
 VU#79,0.02564103,https://github.com/elisagdelope/GRL_molecular_interactions_PD,elisagdelope/GRL_molecular_interactions_PD,747803993
 VU#79,0.02564103,https://github.com/elisagdelope/GRL_sample_similarity_PD,elisagdelope/GRL_sample_similarity_PD,745141549
+VU#79,0.02500000,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#79,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#79,0.02500000,https://github.com/smashcoder2003/Remote_Code_Execution_Engine,smashcoder2003/Remote_Code_Execution_Engine,672021545
 VU#79,0.02500000,https://github.com/kaschaal/resource-scarcity-cheating,kaschaal/resource-scarcity-cheating,660206134

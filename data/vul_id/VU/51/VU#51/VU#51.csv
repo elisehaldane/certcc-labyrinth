@@ -79,6 +79,7 @@ VU#51,0.12500000,https://github.com/sxu99/ssblazer,sxu99/ssblazer,513806458
 VU#51,0.12500000,https://github.com/eblair2/webkitexploit-poc,eblair2/webkitexploit-poc,425382048
 VU#51,0.12500000,https://github.com/xinerva/exploits,xinerva/exploits,387911288
 VU#51,0.11111111,https://github.com/hostinfodev/jericho-validator,hostinfodev/jericho-validator,446237791
+VU#51,0.10000000,https://github.com/Courtesi/picoCTF,Courtesi/picoCTF,966604256
 VU#51,0.10000000,https://github.com/harutomo-jp/Binary-Exploitation,harutomo-jp/Binary-Exploitation,789525643
 VU#51,0.10000000,https://github.com/pr1or1tyQ/nightmare,pr1or1tyQ/nightmare,691645490
 VU#51,0.10000000,https://github.com/1013503897/nightmare,1013503897/nightmare,523258433
@@ -164,6 +165,7 @@ VU#51,0.02564103,https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840,de
 VU#51,0.02564103,https://github.com/Wian47/Web-Application-Vulnerability-Scanner,Wian47/Web-Application-Vulnerability-Scanner,939871911
 VU#51,0.02564103,https://github.com/aya-bh/mini-projet-systeme-exploitation,aya-bh/mini-projet-systeme-exploitation,456151534
 VU#51,0.02564103,https://github.com/Tonas1997/almanext,Tonas1997/almanext,234653448
+VU#51,0.02500000,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#51,0.02500000,https://github.com/RandstormBTC/randstorm,RandstormBTC/randstorm,729126696
 VU#51,0.02500000,https://github.com/Bin4xin/bigger-than-bigger,Bin4xin/bigger-than-bigger,358441284
 VU#51,0.02439024,https://github.com/TranKuBao/CVE-2023-3460_FIX,TranKuBao/CVE-2023-3460_FIX,901723317
@@ -173,7 +175,6 @@ VU#51,0.02325581,https://github.com/morganc3/1password-exploits,morganc3/1passwo
 VU#51,0.02325581,https://github.com/mikusgszyp/ezSploit,mikusgszyp/ezSploit,566036402
 VU#51,0.02325581,https://github.com/FedeSpu/POS-tagging,FedeSpu/POS-tagging,448947404
 VU#51,0.02325581,https://github.com/andreafailla/Diff2GIF-Animated-Diffusion-Models,andreafailla/Diff2GIF-Animated-Diffusion-Models,437914810
-VU#51,0.02222222,https://github.com/megyoung430/explore_exploit_simulations,megyoung430/explore_exploit_simulations,942615275
 VU#51,0.02222222,https://github.com/unknownhad/CloudIntel,unknownhad/CloudIntel,587280513
 VU#51,0.02222222,https://github.com/alansary/Detection-of-Data-Exfiltration-via-DNS,alansary/Detection-of-Data-Exfiltration-via-DNS,484542680
 VU#51,0.02173913,https://github.com/Rahul-Prasad-07/Smart-Contracts-Exploits,Rahul-Prasad-07/Smart-Contracts-Exploits,786801065
@@ -498,7 +499,7 @@ VU#51,0.00004627,https://github.com/uboolean/exploitdb,uboolean/exploitdb,504212
 VU#51,0.00004622,https://github.com/merlinepedra25/EXPLOITDB,merlinepedra25/EXPLOITDB,531505478
 VU#51,0.00004620,https://github.com/hakDean/ExploitDB,hakDean/ExploitDB,552353301
 VU#51,0.00004620,https://github.com/offensive-security/exploitdb,offensive-security/exploitdb,14902556
-VU#51,0.00003459,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
+VU#51,0.00003458,https://github.com/adysec/nuclei_poc,adysec/nuclei_poc,797010442
 VU#51,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions,936098931
 VU#51,0.00002740,https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions,934581112
 VU#51,0.00002654,https://github.com/spiritofthegael/ExploitDB-Project,spiritofthegael/ExploitDB-Project,228261222
