@@ -138,6 +138,7 @@ VU#18,0.25000000,https://github.com/raidcraft/rcelevator,raidcraft/rcelevator,32
 VU#18,0.25000000,https://github.com/dbudwin/react-secure-link,dbudwin/react-secure-link,323644538
 VU#18,0.25000000,https://github.com/Paul2708/cercet,Paul2708/cercet,312346441
 VU#18,0.25000000,https://github.com/paulonteri/remote-code-execution-environment,paulonteri/remote-code-execution-environment,278636703
+VU#18,0.20000000,https://github.com/RainbowSoftwares/XWorm-RCE-Patch,RainbowSoftwares/XWorm-RCE-Patch,966405625
 VU#18,0.20000000,https://github.com/Li-DAO-Dev/work2icu-site,Li-DAO-Dev/work2icu-site,948430871
 VU#18,0.20000000,https://github.com/DL-Devang/defiCasino,DL-Devang/defiCasino,937605698
 VU#18,0.20000000,https://github.com/chromebook-hacking/chromebook-hacking.github.io,chromebook-hacking/chromebook-hacking.github.io,893209114
@@ -253,9 +254,9 @@ VU#18,0.04000000,https://github.com/yaklang/yakit,yaklang/yakit,416151847
 VU#18,0.03846154,https://github.com/faraz-m-awan/od_matrix_multiprocessing,faraz-m-awan/od_matrix_multiprocessing,751389264
 VU#18,0.03846154,https://github.com/DaintyJet/VChat_LTER,DaintyJet/VChat_LTER,737116069
 VU#18,0.03846154,https://github.com/mierzejk-WAT/mierzejk-WAT.github.io,mierzejk-WAT/mierzejk-WAT.github.io,518122028
-VU#18,0.03703704,https://github.com/vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,964088157
 VU#18,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.github.io,850609416
 VU#18,0.03703704,https://github.com/Lakshaysh93/RCE_SK_Project,Lakshaysh93/RCE_SK_Project,456313095
+VU#18,0.03571429,https://github.com/vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,964088157
 VU#18,0.03571429,https://github.com/vanshu181/ZERODAYATTACK,vanshu181/ZERODAYATTACK,840572978
 VU#18,0.03571429,https://github.com/AgileStoner/Book_Recommendation,AgileStoner/Book_Recommendation,649747075
 VU#18,0.03448276,https://github.com/Aurora2911/MachineLearningProject,Aurora2911/MachineLearningProject,864847663
@@ -690,7 +691,7 @@ VU#18,0.00117786,https://github.com/hacktoolspack/hack-tools,hacktoolspack/hack-
 VU#18,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#18,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#18,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#18,0.00056948,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#18,0.00056850,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#18,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#18,0.00050327,https://github.com/rg-13/BetterSploit,rg-13/BetterSploit,423256511
 VU#18,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
@@ -698,7 +699,7 @@ VU#18,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-C
 VU#18,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,850978770
 VU#18,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#18,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
-VU#18,0.00027189,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#18,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#18,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#18,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#18,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524

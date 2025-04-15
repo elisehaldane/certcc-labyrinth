@@ -72,7 +72,6 @@ VU#58,0.16666667,https://github.com/zxzxz1/YUB-Exploit,zxzxz1/YUB-Exploit,533842
 VU#58,0.16666667,https://github.com/Mar10Josh/Explyt,Mar10Josh/Explyt,510452490
 VU#58,0.16666667,https://github.com/xiaofeng94/VL-PLM,xiaofeng94/VL-PLM,483400045
 VU#58,0.14285714,https://github.com/Arianna6400/Mal_Dec_RL,Arianna6400/Mal_Dec_RL,943970864
-VU#58,0.14285714,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#58,0.14285714,https://github.com/ajinabraham/PoC,ajinabraham/PoC,22055065
 VU#58,0.12500000,https://github.com/jhruppert/wrf-ideal-crf,jhruppert/wrf-ideal-crf,880564298
 VU#58,0.12500000,https://github.com/helennqin/EquitLabor,helennqin/EquitLabor,603230038
@@ -82,6 +81,7 @@ VU#58,0.12500000,https://github.com/Dimples1337/NewSilenceFix-opensources,Dimple
 VU#58,0.12500000,https://github.com/Penya21/bgtoolbelt,Penya21/bgtoolbelt,427040382
 VU#58,0.12500000,https://github.com/qBioTurin/AB-ESSN,qBioTurin/AB-ESSN,363919992
 VU#58,0.11111111,https://github.com/Aask42/SlideZoo,Aask42/SlideZoo,918849837
+VU#58,0.11111111,https://github.com/rabbidave/ZeroDay.Tools,rabbidave/ZeroDay.Tools,731293680
 VU#58,0.11111111,https://github.com/Stasaltakk/bad-idea-exploiting-man,Stasaltakk/bad-idea-exploiting-man,611195935
 VU#58,0.11111111,https://github.com/rishi-shyamala/CYSE-465-Autoware-Exploit,rishi-shyamala/CYSE-465-Autoware-Exploit,563989771
 VU#58,0.11111111,https://github.com/skshahriarahmedraka/HeapOverflow,skshahriarahmedraka/HeapOverflow,502669690
@@ -144,11 +144,11 @@ VU#58,0.04000000,https://github.com/tecmie/f0rce,tecmie/f0rce,695787371
 VU#58,0.04000000,https://github.com/anvbis/browser.js.expl,anvbis/browser.js.expl,517488457
 VU#58,0.04000000,https://github.com/DragonTechRoyale/CTF-Solutions,DragonTechRoyale/CTF-Solutions,492580312
 VU#58,0.03846154,https://github.com/SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,SubhamAcharya24/GRIP_Exploitary_Data_Analysis_on_IPL,652776729
-VU#58,0.03703704,https://github.com/vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,964088157
 VU#58,0.03703704,https://github.com/rcentio/rcentio.github.io,rcentio/rcentio.github.io,850609416
 VU#58,0.03703704,https://github.com/publicarchi/hnu6053,publicarchi/hnu6053,564118561
 VU#58,0.03703704,https://github.com/ameetsaahu/Kernel-exploitation,ameetsaahu/Kernel-exploitation,451168050
 VU#58,0.03703704,https://github.com/zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,zxt18/Tucker-Decomposition-For-Stock-Returns-Forecasting,448937445
+VU#58,0.03571429,https://github.com/vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,vertexneuralforge/Machine-Learning-Driven-Exploit-Prediction-,964088157
 VU#58,0.03571429,https://github.com/pvs-hd-tea/LapsTrans,pvs-hd-tea/LapsTrans,488877496
 VU#58,0.03571429,https://github.com/mikias21/machine_learning_final_project,mikias21/machine_learning_final_project,446867758
 VU#58,0.03448276,https://github.com/Aurora2911/MachineLearningProject,Aurora2911/MachineLearningProject,864847663
@@ -527,7 +527,7 @@ VU#58,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,43258746
 VU#58,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#58,0.00030312,https://github.com/daxtar2/Guts,daxtar2/Guts,801551333
 VU#58,0.00028377,https://github.com/20142995/wxvl,20142995/wxvl,889432703
-VU#58,0.00027189,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#58,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#58,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#58,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
 VU#58,0.00019751,https://github.com/sunzu94/metasploit-framework2,sunzu94/metasploit-framework2,608086688
@@ -579,6 +579,6 @@ VU#58,0.00001387,https://github.com/emtee40/exploit-database,emtee40/exploit-dat
 VU#58,0.00001387,https://github.com/GhidraDragon/Exploit-LLM,GhidraDragon/Exploit-LLM,936283169
 VU#58,0.00001387,https://github.com/offsoc/exploitdb,offsoc/exploitdb,802540580
 VU#58,0.00001386,https://github.com/jason-allen-oneal/exploitdb-clone,jason-allen-oneal/exploitdb-clone,964928360
-VU#58,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+VU#58,0.00001385,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
 VU#58,0.00001085,https://github.com/samvho/exploit_prediction,samvho/exploit_prediction,454109614
 VU#58,0.00000323,https://github.com/BenjiTrapp/cisa-known-vuln-scraper,BenjiTrapp/cisa-known-vuln-scraper,669852222

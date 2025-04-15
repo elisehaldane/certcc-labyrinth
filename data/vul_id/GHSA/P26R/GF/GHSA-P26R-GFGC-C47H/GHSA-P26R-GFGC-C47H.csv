@@ -2,4 +2,4 @@ match,match_weight,repo_url,repo_full_name,repo_id
 GHSA-P26R-GFGC-C47H,0.00001388,https://github.com/shashwat39/llm_cve_exploit,shashwat39/llm_cve_exploit,963704138
 GHSA-P26R-GFGC-C47H,0.00001387,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,952806722
 GHSA-P26R-GFGC-C47H,0.00001386,https://github.com/jason-allen-oneal/exploitdb-clone,jason-allen-oneal/exploitdb-clone,964928360
-GHSA-P26R-GFGC-C47H,0.00001386,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701
+GHSA-P26R-GFGC-C47H,0.00001385,https://github.com/7h3r3v3n4n7/exploitdb-data,7h3r3v3n4n7/exploitdb-data,957634701

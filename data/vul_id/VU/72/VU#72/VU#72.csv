@@ -50,6 +50,7 @@ VU#72,0.25000000,https://github.com/yosef0x01/CVE-2023-0669-Analysis,yosef0x01/C
 VU#72,0.25000000,https://github.com/EstebanBiret/SAE-S2.04,EstebanBiret/SAE-S2.04,597691937
 VU#72,0.25000000,https://github.com/zxzxz1/New_Exploit,zxzxz1/New_Exploit,475996928
 VU#72,0.25000000,https://github.com/hafiizh10/E-RCE,hafiizh10/E-RCE,448487455
+VU#72,0.20000000,https://github.com/RainbowSoftwares/XWorm-RCE-Patch,RainbowSoftwares/XWorm-RCE-Patch,966405625
 VU#72,0.20000000,https://github.com/blueiicey/RobloxExploitsArchive,blueiicey/RobloxExploitsArchive,813809457
 VU#72,0.20000000,https://github.com/Sandesh028/Exploiting-IoT-Devices,Sandesh028/Exploiting-IoT-Devices,747247755
 VU#72,0.20000000,https://github.com/MeherP2246/Exploiting-IoT-Devices,MeherP2246/Exploiting-IoT-Devices,649909689
@@ -465,7 +466,7 @@ VU#72,0.00046555,https://github.com/whoami13apt/cve-poc,whoami13apt/cve-poc,8509
 VU#72,0.00046555,https://github.com/cckuailong/reapoc,cckuailong/reapoc,432587463
 VU#72,0.00038124,https://github.com/Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,Shahrukh95/Cybersecurity-Domain-ChatBot-based-on-a-Fine-Tuned-Open-Source-Large-Language-Model,765351570
 VU#72,0.00031162,https://github.com/zgimszhd61/CVE-PoC-ThreatHub,zgimszhd61/CVE-PoC-ThreatHub,879256343
-VU#72,0.00027189,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
+VU#72,0.00027167,https://github.com/rix4uni/cvemapping,rix4uni/cvemapping,871548433
 VU#72,0.00024149,https://github.com/Mr-xn/Penetration_Testing_POC,Mr-xn/Penetration_Testing_POC,198552685
 VU#72,0.00021436,https://github.com/spence-rat/metasploit-framework,spence-rat/metasploit-framework,490065127
 VU#72,0.00021272,https://github.com/XxMrNobodyxX/PentestCache,XxMrNobodyxX/PentestCache,920054524
