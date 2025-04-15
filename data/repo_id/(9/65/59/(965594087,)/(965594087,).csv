@@ -1,0 +1,13 @@
+repo_id,repo_full_name,file,file_sha1,match
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2015-1328
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2016-5195
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2017-6074
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2021-3493
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2022-0847
+965594087,shellkraft/LinPeek,core/privesc.py,4d6bbceb3cf374092877f8718123b06e53f83d0f,CVE-2022-2588
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2015-1328
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2016-5195
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2017-6074
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2021-3493
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2022-0847
+965594087,shellkraft/LinPeek,core/__pycache__/privesc.cpython-311.pyc,e25618e0c32b1f686ed58ee415512d9bd2399c5e,CVE-2022-2588
