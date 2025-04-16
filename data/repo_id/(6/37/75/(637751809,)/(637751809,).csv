@@ -1,0 +1,10 @@
+repo_id,repo_full_name,file,file_sha1,match
+637751809,scagogogo/cxsecurity-crawler,docs/vul-detail-response.html,4bf0977f89f6c0110309486d16bd49ea2da32015,CVE-2007-1475
+637751809,scagogogo/cxsecurity-crawler,pkg/crawler/crawler_test.go,6602feb9a43f1457472f21bd01a8a0db541b1eea,CVE-2023-1234
+637751809,scagogogo/cxsecurity-crawler,README.md,a756ae12f7bb5d50db6a7167206b8caef25597c5,BID-22987
+637751809,scagogogo/cxsecurity-crawler,README.md,a756ae12f7bb5d50db6a7167206b8caef25597c5,CVE-2007-1411
+637751809,scagogogo/cxsecurity-crawler,cmd/cve.go,bb784b85e5486525c724bc012c6799c602467108,CVE-2007-1411
+637751809,scagogogo/cxsecurity-crawler,pkg/crawler/cve_parser_test.go,d0111bb9d0d0fef4c105025817bd9e0573f20265,CVE-2023-12345
+637751809,scagogogo/cxsecurity-crawler,docs/cve-show-detail-response.html,d6696ed01c2fb0905642fb8af2f05b6dba7cc36c,BID-22832
+637751809,scagogogo/cxsecurity-crawler,docs/cve-show-detail-response.html,d6696ed01c2fb0905642fb8af2f05b6dba7cc36c,CVE-2007-1411
+637751809,scagogogo/cxsecurity-crawler,pkg/model/cve_detail_test.go,daa64bd8dfd8522ed66a6d8fa993b4703244d6ee,CVE-2023-1234

@@ -1,0 +1,3 @@
+repo_id,repo_full_name,file,file_sha1,match
+695187939,zuccedscan/Bug-Hunting-Cheatsheet,HTTP Request Smuggling.md,1e782e3131b71637414522577f0cf20cb60b5720,VU#897293
+695187939,zuccedscan/Bug-Hunting-Cheatsheet,SQLi.md,4a12bc0c39e10d55311fe6aef1dcac2e24fb7547,VU#0461
