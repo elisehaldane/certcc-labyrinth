@@ -1,5 +1,5 @@
 match,match_weight,repo_url,repo_full_name,repo_id
-GHSA-QPPJ-FM5R-HXR3,0.00164474,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
+GHSA-QPPJ-FM5R-HXR3,0.00160256,https://github.com/arschlochnop/VulnWatchdog,arschlochnop/VulnWatchdog,949349630
 GHSA-QPPJ-FM5R-HXR3,0.00059666,https://github.com/jgamblin/CISA_Enrichment,jgamblin/CISA_Enrichment,445556406
 GHSA-QPPJ-FM5R-HXR3,0.00001031,https://github.com/afonsovitorio/cve_sandbox,afonsovitorio/cve_sandbox,756917322
 GHSA-QPPJ-FM5R-HXR3,0.00000905,https://github.com/0xMarcio/cve,0xMarcio/cve,805332779

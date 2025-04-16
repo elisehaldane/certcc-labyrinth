@@ -76,6 +76,7 @@ VU#22,0.09090909,https://github.com/SkidLua1/Exploit,SkidLua1/Exploit,792586733
 VU#22,0.09090909,https://github.com/bhagvatgiri/WavLink-Router-Exploitation,bhagvatgiri/WavLink-Router-Exploitation,565250009
 VU#22,0.09090909,https://github.com/hackerschoice/THC-Archive,hackerschoice/THC-Archive,135969394
 VU#22,0.09090909,https://github.com/cchio/deep-pwning,cchio/deep-pwning,61609586
+VU#22,0.08333333,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#22,0.08333333,https://github.com/Cristal32/AI-for-software-reuse,Cristal32/AI-for-software-reuse,879371895
 VU#22,0.08333333,https://github.com/Funminiyiop/XposeExploitation-RE,Funminiyiop/XposeExploitation-RE,795292297
 VU#22,0.08333333,https://github.com/darkknight3031/EDR_Rules-Exploits,darkknight3031/EDR_Rules-Exploits,794463455
@@ -84,7 +85,6 @@ VU#22,0.08333333,https://github.com/p4p1/havoc-reporter,p4p1/havoc-reporter,7097
 VU#22,0.08333333,https://github.com/omarelsobkey/RCEgypt_LineFollower_2022,omarelsobkey/RCEgypt_LineFollower_2022,561702523
 VU#22,0.08333333,https://github.com/Th30neAnd0nly/Ohm,Th30neAnd0nly/Ohm,352886771
 VU#22,0.08333333,https://github.com/loneicewolf/fanny.bmp,loneicewolf/fanny.bmp,317065900
-VU#22,0.07692308,https://github.com/htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,htankhaishan/Kubernetes-Exploit-Detection-and-Security-Compliance-using-OPA,915221426
 VU#22,0.07692308,https://github.com/ruiking04/CutAddPaste,ruiking04/CutAddPaste,808587457
 VU#22,0.07692308,https://github.com/EasyLocal/RbxExploitScripts,EasyLocal/RbxExploitScripts,609459462
 VU#22,0.07142857,https://github.com/chickenit07/my-nessus,chickenit07/my-nessus,442042883
@@ -576,7 +576,7 @@ VU#22,0.00128866,https://github.com/lions2012/Penetration_Testing_POC,lions2012/
 VU#22,0.00107759,https://github.com/51p/shadow-exploits,51p/shadow-exploits,480757950
 VU#22,0.00092251,https://github.com/tedbot101/loaders,tedbot101/loaders,845226841
 VU#22,0.00081169,https://github.com/insightglacier/Dictionary-Of-Pentesting,insightglacier/Dictionary-Of-Pentesting,290509547
-VU#22,0.00056850,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
+VU#22,0.00056561,https://github.com/XiaomingX/data-cve-poc,XiaomingX/data-cve-poc,886411500
 VU#22,0.00052770,https://github.com/hktalent/scan4all,hktalent/scan4all,505278571
 VU#22,0.00048876,https://github.com/readerbench/CVE2ATT-CK,readerbench/CVE2ATT-CK,522273245
 VU#22,0.00048054,https://github.com/gulpinhenry/CVE2ATT-CK,gulpinhenry/CVE2ATT-CK,609276343
